@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T132000
+LAST-MODIFIED:20160925T011602
+UID:explore_coursesdc2459f1-df49-46ad-87f2-f5ab421c56e8
+DTSTAMP:20160925T011602
+LOCATION:School of Education 206
+DESCRIPTION:African American, Native American, Mexican American, and Asian American racial and ethnic identity development; the influence of social, political and psychological forces in shaping the experience of people of color in the U.S. The importance of race in relationship to social identity variables including gender, class, and occupational, generational, and regional identifications. Bi- and multiracial identity status, and types of white racial consciousness.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC245 SEM
+DTSTART;TZID=America/Los_Angeles:20170403T113000
+CREATED:20160925T011602
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

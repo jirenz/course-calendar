@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T145000
+LAST-MODIFIED:20160925T011602
+UID:explore_courses43815141-1a8b-4c50-936f-e922e9459abb
+DTSTAMP:20160925T011602
+LOCATION:GSB Patterson 107
+DESCRIPTION:(Also GSBGEN 367). GSB graduates will play important roles in solving many of today's and tomorrow's major societal problems - such as improving educational and health outcomes, conserving energy, and reducing global poverty - which call for actions by nonprofit, business, and hybrid organizations as well as governments. This course teaches skills and bodies of knowledge relevant to these roles through problems and case studies drawn from nonprofit organizations, for-profit social enterprises, and governments, as well as novel financing mechanisms like impact investments and social impact bonds. Topics include designing, implementing, scaling, and evaluating social strategies; systems thinking; decision making under risk; psychological biases that adversely affect people's decisions; methods for influencing individuals' and organization's behavior, ranging from incentives and penalties to &quot;nudges;&quot; and human-centered design. Students who have encountered some of these topics in other courses are likely to gain new perspectives and encounter new challenges in applying them to solving social problems.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC377G CAS
+DTSTART;TZID=America/Los_Angeles:20160926T133000
+CREATED:20160925T011602
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,FR
+END:VEVENT
+END:VCALENDAR

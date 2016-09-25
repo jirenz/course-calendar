@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T162000
+LAST-MODIFIED:20160925T011627
+UID:explore_coursesad7c74f4-aa69-417a-8250-7142263b7300
+DTSTAMP:20160925T011627
+LOCATION:Y2E2 266
+DESCRIPTION:This course will focus on the topic of interdisciplinary collaboration and its role in the development of design concepts. Specifically, the integration of structural with architectural considerations to produce a unified urban, spatial, tectonic and structural proposition will be our field of investigation.  This course is an architecture studio course where class time will be spent primarily in individual or group desk critiques and pin-up sessions. May be repeat for credit. Total completions allowed: 3.  Additionally, there will be lectures, case study presentations and a field trip.  Prerequisites: required: CEE 31 (or 31Q) Drawing, CEE 110 BIM and CEE 130 Design.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE137B LEC
+DTSTART;TZID=America/Los_Angeles:20170403T133000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

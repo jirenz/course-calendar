@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T162000
+LAST-MODIFIED:20160925T011627
+UID:explore_coursesf8ee480e-fb73-4f0b-ae46-53db6e981518
+DTSTAMP:20160925T011627
+LOCATION:Y2E2 111
+DESCRIPTION:(Graduate students register for 276.) Scientific and engineering issues involved in quantifying human exposure to toxic chemicals in the environment. Pollutant behavior, inhalation exposure, dermal exposure, and assessment tools. Overview of the complexities, uncertainties, and physical, chemical, and biological issues relevant to risk assessment. Lab projects. Recommended: MATH 51.  Apply at first class for admission.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE276 LEC
+DTSTART;TZID=America/Los_Angeles:20160926T150000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

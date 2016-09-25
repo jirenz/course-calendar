@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T122000
+LAST-MODIFIED:20160925T011627
+UID:explore_courses9fcb0244-e0aa-49a6-84fc-0479ffa04606
+DTSTAMP:20160925T011627
+LOCATION:Shriram Ctr BioChemE 104
+DESCRIPTION:This course introduces analysis, sizing and performance estimations (electrical and financial) of renewable energy systems on both sides of the electric meter with an emphasis on photovoltaics and wind-power systems. Basic electric power generation, transmission and distribution, as well as distributed generation will be introduced.  Optional Laboratory section for a 4th unit of credit.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE176B LEC
+DTSTART;TZID=America/Los_Angeles:20170403T113000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

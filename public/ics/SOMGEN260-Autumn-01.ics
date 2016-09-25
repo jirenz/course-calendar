@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20161021T135000
+LAST-MODIFIED:20160925T011621
+UID:explore_courses23af610f-80dd-4a79-844f-25cfb17ed71a
+DTSTAMP:20160925T011621
+LOCATION:Alway Building, Room M106
+DESCRIPTION:Preparation course for students attending the Bing Overseas Study Program in Sri Lanka. Focuses on specific topics relevant to Sri Lanka, including: water issues, effects of war and natural disaster on population health, maternal and child health, and etiquette and basic language skills for visitors. Explores the Sarvodaya model of development together with the World Health Organization's Sustainable Development Goals. Required for BOSP students; open to all students interested in Sri Lanka and global health.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOMGEN260 SEM
+DTSTART;TZID=America/Los_Angeles:20161021T120000
+CREATED:20160925T011621
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161022T135000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20161202T135000
+LAST-MODIFIED:20160925T011621
+UID:explore_coursesf6a5b96c-9287-44c9-9830-10d3f072125c
+DTSTAMP:20160925T011621
+LOCATION:Li Ka Shing Center, rms304/305
+DESCRIPTION:Preparation course for students attending the Bing Overseas Study Program in Sri Lanka. Focuses on specific topics relevant to Sri Lanka, including: water issues, effects of war and natural disaster on population health, maternal and child health, and etiquette and basic language skills for visitors. Explores the Sarvodaya model of development together with the World Health Organization's Sustainable Development Goals. Required for BOSP students; open to all students interested in Sri Lanka and global health.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOMGEN260 SEM
+DTSTART;TZID=America/Los_Angeles:20161202T120000
+CREATED:20160925T011621
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161203T135000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20161104T135000
+LAST-MODIFIED:20160925T011621
+UID:explore_courses8b59a898-9f6b-49b0-9988-777c5f66480b
+DTSTAMP:20160925T011621
+LOCATION:Alway Building, Room M112
+DESCRIPTION:Preparation course for students attending the Bing Overseas Study Program in Sri Lanka. Focuses on specific topics relevant to Sri Lanka, including: water issues, effects of war and natural disaster on population health, maternal and child health, and etiquette and basic language skills for visitors. Explores the Sarvodaya model of development together with the World Health Organization's Sustainable Development Goals. Required for BOSP students; open to all students interested in Sri Lanka and global health.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOMGEN260 SEM
+DTSTART;TZID=America/Los_Angeles:20161104T120000
+CREATED:20160925T011621
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161105T135000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20161118T135000
+LAST-MODIFIED:20160925T011621
+UID:explore_courses5ae18490-8ee2-409c-98c4-cf262e90fe2b
+DTSTAMP:20160925T011621
+LOCATION:Alway Building, Room M106
+DESCRIPTION:Preparation course for students attending the Bing Overseas Study Program in Sri Lanka. Focuses on specific topics relevant to Sri Lanka, including: water issues, effects of war and natural disaster on population health, maternal and child health, and etiquette and basic language skills for visitors. Explores the Sarvodaya model of development together with the World Health Organization's Sustainable Development Goals. Required for BOSP students; open to all students interested in Sri Lanka and global health.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOMGEN260 SEM
+DTSTART;TZID=America/Los_Angeles:20161118T120000
+CREATED:20160925T011621
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161119T135000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

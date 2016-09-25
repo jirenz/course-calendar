@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170112T213000
+LAST-MODIFIED:20160925T011615
+UID:explore_courses9bbd91ce-c401-4e5b-98a5-beacc4e0aa26
+DTSTAMP:20160925T011615
+LOCATION:Li Ka Shing Center, room 306
+DESCRIPTION:The Practice of Happiness is a 1-unit credit course that provides students with tools and strategies to develop a sustainable approach to their happiness and well-being.  Students will learn breathwork- and meditation-based processes to decrease stress and increase happiness and peace. In addition, students will also engage in community-building group discussions, interactive processes, and study happiness-based research to discover for themselves what happiness is, and how it can be sustained as a personal practice.  In addition to weekly sessions, there are 3 mandatory back-to-back sessions over a weekend in the quarter- hours will be Friday: 6:30pm - 10pm; Saturday/Sunday: 1pm - 5pm (exact dates TBD). See yesplus.stanford.edu for further insight into the program. Enrollment limited; priority to residents of Castano Hall; others selected by application.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED130 WKS
+DTSTART;TZID=America/Los_Angeles:20170112T200000
+CREATED:20160925T011615
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T213000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

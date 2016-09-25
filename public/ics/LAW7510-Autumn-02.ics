@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T154500
+LAST-MODIFIED:20160925T011603
+UID:explore_courses68eb4f00-c2bd-4038-8607-1721bafd1e7a
+DTSTAMP:20160925T011603
+LOCATION:
+DESCRIPTION:(Formerly Law 712)  Empirical legal studies have become popular in the U.S. and are now spreading to non-U.S. law faculties as well. Usually the term applies to analyses of quantitative data and the researcher relies on data collected by others. But the term &quot;empirical&quot; properly encompasses both qualitative and quantitative data, including interviews, legal documents, survey research and experimental results. Analysts interested in using such data need to understand how they were collected, in order to decide what data can appropriately be used to answer different kinds of questions. Often to answer the questions of interest, a researcher needs to collect new data, which poses challenging questions about how to design an empirical research study. Answering these questions appropriately is important to ensure publication in a peer-reviewed journal, which is becoming increasingly important to legal academia. This seminar will introduce students to the wide range of research methods that can be used to answer empirical questions, provide a framework for choosing among methods, and explain how to use the methods. The project for the quarter is to design an empirical research study on a topic of your choice. Special Instructions: JD students can take the class for 3-4 units. SPILS students must take this class for 4 units. Students taking the course for 4 units must attend the additional session on Thursday, which is optional for others. After the term begins, JD students accepted into the course can transfer from section (01) into section (02), which can potentially satisfy the R requirement, with consent of the instructor. Consent Application for JD students: To apply for this course, JD students must e-mail Deborah Hensler at dhensler@stanford.edu and Diego Gil McCawley at dgil@stanford.edu. This course is REQUIRED for all SPILS fellows and BY CONSENT for all other students. Elements used in grading: Class participation, attendance, written assignments and final paper.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW7510 SEM
+DTSTART;TZID=America/Los_Angeles:20160926T141500
+CREATED:20160925T011603
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T154500;BYDAY=MO,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T100000
+LAST-MODIFIED:20160925T011603
+UID:explore_coursesc7bb8962-142e-4b13-9a5d-8c1534dbe56a
+DTSTAMP:20160925T011603
+LOCATION:
+DESCRIPTION:(Formerly Law 712)  Empirical legal studies have become popular in the U.S. and are now spreading to non-U.S. law faculties as well. Usually the term applies to analyses of quantitative data and the researcher relies on data collected by others. But the term &quot;empirical&quot; properly encompasses both qualitative and quantitative data, including interviews, legal documents, survey research and experimental results. Analysts interested in using such data need to understand how they were collected, in order to decide what data can appropriately be used to answer different kinds of questions. Often to answer the questions of interest, a researcher needs to collect new data, which poses challenging questions about how to design an empirical research study. Answering these questions appropriately is important to ensure publication in a peer-reviewed journal, which is becoming increasingly important to legal academia. This seminar will introduce students to the wide range of research methods that can be used to answer empirical questions, provide a framework for choosing among methods, and explain how to use the methods. The project for the quarter is to design an empirical research study on a topic of your choice. Special Instructions: JD students can take the class for 3-4 units. SPILS students must take this class for 4 units. Students taking the course for 4 units must attend the additional session on Thursday, which is optional for others. After the term begins, JD students accepted into the course can transfer from section (01) into section (02), which can potentially satisfy the R requirement, with consent of the instructor. Consent Application for JD students: To apply for this course, JD students must e-mail Deborah Hensler at dhensler@stanford.edu and Diego Gil McCawley at dgil@stanford.edu. This course is REQUIRED for all SPILS fellows and BY CONSENT for all other students. Elements used in grading: Class participation, attendance, written assignments and final paper.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW7510 SEM
+DTSTART;TZID=America/Los_Angeles:20160929T090000
+CREATED:20160925T011603
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T100000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

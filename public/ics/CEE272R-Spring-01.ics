@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T102000
+LAST-MODIFIED:20160925T011627
+UID:explore_coursesea6d651f-a4f3-48b3-a0ae-18e91e0f8b7e
+DTSTAMP:20160925T011627
+LOCATION:Shriram Ctr BioChemE 104
+DESCRIPTION:Focus is on Power Engineering from a systems point of view. Topics covered may include modeling of generation, transmission and distribution systems, load flow analysis, transient and steady-state stability analysis. Special emphasis given to modern market operations and dispatch, modeling intermittent controllable power sources, storage technologies, mechanisms for demand response, sensing the grid and the role of market mechanisms for deep integration. Course content may vary year to year.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE272R LEC
+DTSTART;TZID=America/Los_Angeles:20170404T090000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

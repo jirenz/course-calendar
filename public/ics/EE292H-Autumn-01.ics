@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T175000
+LAST-MODIFIED:20160925T011632
+UID:explore_coursesfae534c0-d17f-4957-97ab-09c5537c75bc
+DTSTAMP:20160925T011632
+LOCATION:NVIDIA Auditorium
+DESCRIPTION:The purpose of this seminar series course is to help students and professionals develop the tools to apply the engineering and entrepreneurial mindset to problems that stem from climate change, in order to consider and evaluate possible stabilizing, remedial and adaptive approaches. This course is not a crash course on climate change or policy. Instead we will focus on learning about and discussing the climate problems that seem most tractable to these approaches. Each week Dr. Field and/or a guest speaker will lead a short warm-up discussion/activity and then deliver a talk in his/her area of expertise. We&iquest;ll wrap up with small-group and full-class discussions of related challenges/opportunities and possible engineering-oriented solutions.nClass members are asked to do background reading before each class, to submit a question before each lecture, and to do in-class brainstorming. May be repeated for credit.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EE292H SEM
+DTSTART;TZID=America/Los_Angeles:20160927T163000
+CREATED:20160925T011632
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

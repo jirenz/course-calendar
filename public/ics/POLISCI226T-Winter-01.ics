@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T162000
+LAST-MODIFIED:20160925T011712
+UID:explore_courses3458e806-922a-4df1-a6d8-c43038cc6c56
+DTSTAMP:20160925T011712
+LOCATION:Encina West 106
+DESCRIPTION:America's public schools are government agencies, and virtually everything about them is subject to political authority--and thus to decision through the political process.  This seminar is an effort to understand the politics of education and its impacts on the nation's schools.  Our focus is on the modern era of reform, with special attention to the most prominent efforts to bring about fundamental change through accountability (including No Child Left Behind), school choice (charter schools, vouchers), pay for performance, and more and more to the politics of blocking that has made genuine reform so difficult to achieve.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:POLISCI226T SEM
+DTSTART;TZID=America/Los_Angeles:20170110T133000
+CREATED:20160925T011712
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

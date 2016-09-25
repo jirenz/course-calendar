@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T110000
+LAST-MODIFIED:20160925T011654
+UID:explore_courses3c6d5ac6-39d6-4ba0-94e5-dbed97c98996
+DTSTAMP:20160925T011654
+LOCATION:McMurtry Building rm 370
+DESCRIPTION:Given the importance of art to all aspects of their lives, the Greeks had reason to respect their artists. Yet potters, painters and even sculptors possessed little social standing. n nWhy did the Greeks value the work of craftsmen but not the men themselves? Why did Herodotus dismiss those who worked with their hands as &quot;mechanics?&quot; What prompted Homer to claim that &quot;there is no greater glory for a man&iquest; than what he achieves with his own hands,&quot; provided that he was throwing a discus and not a vase on a wheel?n nPainted pottery was essential to the religious and secular lives of the Greeks. Libations to the gods and to the dead required vases from which to pour them. Economic prosperity depended on the export of wine and oil in durable clay containers. At home, depictions of gods and heroes on vases reinforced Greek values and helped parents to educate their children. Ceramic sets with scenes of Dionysian excess were reserved for elite symposia from which those who potted and painted them were excluded.n nSculptors were less lowly but even those who carved the Parthenon were still regarded as &quot;mechanics,&quot; with soft bodies and soft minds (Xenophon) &quot;indifferent to higher things&quot; (Plutarch).n nThe seminar addresses these issues. Students will read and discuss texts, write response papers and present slide lectures and gallery talks on aspects of the artist's profession.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CLASSICS18N ISF
+DTSTART;TZID=America/Los_Angeles:20170403T093000
+CREATED:20160925T011654
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T110000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

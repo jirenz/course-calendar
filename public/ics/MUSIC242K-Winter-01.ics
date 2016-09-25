@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T145000
+LAST-MODIFIED:20160925T011708
+UID:explore_courses5a3b9f11-ef7e-4dfa-9d34-274b2bb1f782
+DTSTAMP:20160925T011708
+LOCATION:Braun 131
+DESCRIPTION:Music history seminar on the operatic, sacred, and instrumental works of G.F. Handel as examples of the diversity, cosmopolitanism, expression, formal and technical features, and social uses of music in the first half of eighteenth century. Traces Handel&iquest;s career from his native Germany to an elite Roman circle of musical connoisseurs, and to the Italian opera company he founded in London and his transformation of Italian opera into a new genre of English oratorio. By analyzing Handel&iquest;s works in context, we examine the aesthetic, harmonic, and dramatic principles of the major European Baroque art-music genres. Prerequisites: MUSIC 22, MUSIC 41. (WIM at 4-unit level only.)
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC242K SEM
+DTSTART;TZID=America/Los_Angeles:20170109T133000
+CREATED:20160925T011708
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

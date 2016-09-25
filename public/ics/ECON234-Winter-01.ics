@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T152000
+LAST-MODIFIED:20160925T011658
+UID:explore_courses213216e9-30e3-42c3-929e-80314c25bedd
+DTSTAMP:20160925T011658
+LOCATION:Econ 206
+DESCRIPTION:Modern macroeconomics of aggregate fluctuations in advanced economies. Current research on sovereign debt, fiscal policy and financial flows, low growth and stagnation, low interest rates, financial crises, unemployment fluctuations, and other timely topics. The course will be organized around the detailed study of recent research papers. Some lectures will be given by visiting macroeconomists. Students enrolled in MGTECON612 take the class for 4 units. Students develop a research proposal and present it to the instructors as the final exam. Prerequisite: Satisfaction of the economics department&iquest;s core macro requirement or consent of the instructors.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON234 LEC
+DTSTART;TZID=America/Los_Angeles:20170109T133000
+CREATED:20160925T011658
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

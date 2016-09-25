@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160928T152000
+LAST-MODIFIED:20160925T011715
+UID:explore_coursesd46aea0a-609c-4718-9899-6bbc659a85b4
+DTSTAMP:20160925T011715
+LOCATION:Hewlett Teaching Center Rm 101
+DESCRIPTION:&quot;Time flows in a film not by virtue but in defiance of montage-cuts,&quot; wrote the great Russian filmmaker Andrei Tarkovsky. The course explores the phenomenon of long take (a single continuous shot which presents `a vision of time') and its aesthetic and philosophical significance to the art of cinema. Key films by cult auteurs (Tarkovsky, Paradjanov, Tarr and Sokurov among others) will be used as case studies and read through the prism of film theory (B&eacute;la Bal&aacute;zs, Andre Bazin, Gilles Deleuze, Maya Deren, Jean Epstein, and Slavoj Zizek).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SLAVIC236 SEM
+DTSTART;TZID=America/Los_Angeles:20160928T123000
+CREATED:20160925T011715
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

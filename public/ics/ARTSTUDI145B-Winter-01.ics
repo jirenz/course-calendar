@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T172000
+LAST-MODIFIED:20160925T011640
+UID:explore_courses6ee1d7b9-258d-47af-925c-d2b903cef5b4
+DTSTAMP:20160925T011640
+LOCATION:McMurtry Building rm 305
+DESCRIPTION:This class will deal with the figure as it is represented in two dimensional form, within the general context of painting, accounting not only for the figure, but also the painting as a whole. A variety of historical and contemporary approaches to painting the figure will be introduced, and then explored through the application of acrylic paint. Students will work from a variety of sources including, but not limited to: digital media, occasional live and inanimate models, still life, and photographs. Emphasis will be laid on a comprehensive approach to composition that deals with the human figure, representationally, abstractly, and freely - without the requirement of prior experience in art.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSTUDI145B PRA
+DTSTART;TZID=America/Los_Angeles:20170109T153000
+CREATED:20160925T011640
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

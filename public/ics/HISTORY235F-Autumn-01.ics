@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T115000
+LAST-MODIFIED:20160925T011703
+UID:explore_coursesf7af73de-3c21-4290-a43a-8785d2cdafcd
+DTSTAMP:20160925T011703
+LOCATION:School of Education 130
+DESCRIPTION:&quot;The Don Draper of Existentialism&quot; for Adam Gopnik, &quot;the ideal husband of contemporary letters&quot; for Susan Sontag, and &quot;the admirable conjunction of a man, of an action, and of a work&quot; for Sartre, Camus embodies the very French figure of the &quot;intellectuel engag&eacute;,&quot; or public intellectual. From his birth in 1913 into a poor family in Algeria to the Nobel Prize in Literature in 1957, from Saint Germain-des-Pr&eacute;s to his predilection for the mediterranean culture, Camus captured the quest for universalism, for the politics of justice, and engaged in the great ethical battles of his time, from the fight against nazism and communism, from questioning colonial rules to the haunting Algerian War, and his complex &quot;silence&quot; over the war. Camus the Algerian, Camus the moralist, Camus the Resistant: through readings and films, we will explore his multiple, long-lasting legacies. Readings from Albert Camus, Kamel Daoud, Mouloud Feraoun, Alice Kaplan, Orhan Pamuk, A.B. Yehoshua, Assia Djebar, Jean-Paul Sartre, Yasmina Khadra. Movies include &quot;The Stranger,&quot; and &quot;Far from Men.&quot; This course is a gateway for French Studies, with special emphasis on oral proficiency. Taught in French.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY235F SEM
+DTSTART;TZID=America/Los_Angeles:20160927T103000
+CREATED:20160925T011703
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T212000
+LAST-MODIFIED:20160925T011719
+UID:explore_coursesd6c1282e-1d15-4793-b383-823ff22250c5
+DTSTAMP:20160925T011719
+LOCATION:Lathrop 290
+DESCRIPTION:Limited to seniors approved by their departments for honors thesis and admitted to the year-round Public Service Scholars Program sponsored by the Haas Center for Public Service. What standards in addition to those expected by the academy apply to research conducted as a form of public service? How can communities benefit from research?  Theory and practice of research as a form of public service readings, thesis workshops, and public presentation of completed research. May be repeated for credit. Corequisite: 199.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:URBANST198 SEM
+DTSTART;TZID=America/Los_Angeles:20170404T183000
+CREATED:20160925T011719
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T212000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

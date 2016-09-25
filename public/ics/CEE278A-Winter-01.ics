@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T102000
+LAST-MODIFIED:20160925T011627
+UID:explore_coursesac7ac6ef-9c7d-4d80-8307-d8627cbc2996
+DTSTAMP:20160925T011627
+LOCATION:Y2E2 111
+DESCRIPTION:The sources and health effects of gaseous and particulate air pollutants. The influence of meteorology on pollution: temperature profiles, stability classes, inversion layers, turbulence. Atmospheric diffusion equations, downwind dispersion of emissions from point and line sources. Removal of air pollutants via settling, diffusion, coagulation, precipitation, Mechanisms for ozone formation, in the troposphere versus in the stratosphere. Effects of airborne particle size and composition on light scattering/absorption, and on visual range. Prerequisites: MATH 51 or equivalent. Recommended: 101B, CHEM 31A, or equivalents.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE278A LEC
+DTSTART;TZID=America/Los_Angeles:20170109T093000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

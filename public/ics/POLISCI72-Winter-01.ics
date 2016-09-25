@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T162000
+LAST-MODIFIED:20160925T011712
+UID:explore_coursesd2afec7d-ca23-42d9-a9a0-6394cea59dd1
+DTSTAMP:20160925T011712
+LOCATION:Bishop Auditorium
+DESCRIPTION:In 2016, Americans will once again go to the polls to select a new president. But what will actually happen behind-the-scenes between now and then is largely a mystery to most. This course will introduce students to the nuts-and-bolts of a presidential campaign. Each week, we will explore a different topic related to running for the presidency -- policy formation, communications, grassroots strategy, digital outreach, campaign finance -- and feature high-profile guest speakers who have served in senior roles on both Democratic and Republican campaigns. Students, guests, and faculty will also participate in discussions on how these topics will relate to the 2016 presidential contest, which will begin in earnest over the course of the quarter.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:POLISCI72 LEC
+DTSTART;TZID=America/Los_Angeles:20170111T143000
+CREATED:20160925T011712
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

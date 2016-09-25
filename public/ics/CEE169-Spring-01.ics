@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T175000
+LAST-MODIFIED:20160925T011627
+UID:explore_coursesa19f490d-cd90-4a9e-8749-69fe3197d87c
+DTSTAMP:20160925T011627
+LOCATION:Y2E2 164
+DESCRIPTION:Application of fluid mechanics, hydrology, water resources, environmental sciences, and engineering economy fundamentals to the design of a system addressing a complex problem of water in the natural and constructed environment. Problem changes each year, generally drawn from a challenge confronting the University or a local community. Student teams prepare proposals, progress reports, oral presentations, and a final design report. Prerequisite: senior in Civil Engineering or Environmental Engineering; 166B.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE169 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T150000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

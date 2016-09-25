@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T162000
+LAST-MODIFIED:20160925T011700
+UID:explore_coursesf2bba8fc-9602-497e-8aa1-bfd141df78fc
+DTSTAMP:20160925T011700
+LOCATION:McMurtry Building rm 102
+DESCRIPTION:The close analysis of film. Emphasis is on formal and narrative techniques in structure and style, and detailed readings of brief sequences. Elements such as cinematography, mise-en-sc&egrave;ne, composition, sound, and performance. Films from various historical periods, national cinemas, directors, and genres. Prerequisite: FILMSTUD 4 or equivalent. Recommended:  ARTHIST 1 or FILMSTUD 102. Course can be repeated twice for a max of 8 units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD301 LEC
+DTSTART;TZID=America/Los_Angeles:20160927T150000
+CREATED:20160925T011700
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160928T212000
+LAST-MODIFIED:20160925T011700
+UID:explore_courses1cac00ca-019c-43e1-b1a8-887704271518
+DTSTAMP:20160925T011700
+LOCATION:McMurtry Building rm 115
+DESCRIPTION:The close analysis of film. Emphasis is on formal and narrative techniques in structure and style, and detailed readings of brief sequences. Elements such as cinematography, mise-en-sc&egrave;ne, composition, sound, and performance. Films from various historical periods, national cinemas, directors, and genres. Prerequisite: FILMSTUD 4 or equivalent. Recommended:  ARTHIST 1 or FILMSTUD 102. Course can be repeated twice for a max of 8 units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD301 LEC
+DTSTART;TZID=America/Los_Angeles:20160928T193000
+CREATED:20160925T011700
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T212000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

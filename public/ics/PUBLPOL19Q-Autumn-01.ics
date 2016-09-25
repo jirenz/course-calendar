@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160928T162000
+LAST-MODIFIED:20160925T011714
+UID:explore_coursesd9cf83b4-9db0-4c11-a4fb-4a1ebfb5d06b
+DTSTAMP:20160925T011714
+LOCATION:Encina Hall C464
+DESCRIPTION:Spending by federal, state, and local governments accounts for about one-third of U.S. GDP and governments employ more than one-in-seven workers in the U.S. For most U.S. residents, government is represented by a complicated web of federal, state, and local policies. There is an increasingly contentious debate about the proper role of the government and regarding the impact of specific government policies.  This debate is rarely grounded in a common set of facts.nIn this seminar, we will explore how each level of government interacts with U.S. residents through government services, public programs, taxes, and regulations. We will examine financial results for different levels of government while considering the net effects of government intervention on the health and economic well-being of individuals and families. Particular attention will be paid to certain sectors (e.g. education, health care, etc.) and to certain groups (e.g. those in poverty, the elderly, etc.). Along the way we will accumulate a set of metrics to assess the performance of each level of government while highlighting the formidable challenges of such an exercise.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PUBLPOL19Q ISS
+DTSTART;TZID=America/Los_Angeles:20160928T133000
+CREATED:20160925T011714
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

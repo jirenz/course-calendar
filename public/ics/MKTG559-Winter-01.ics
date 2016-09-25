@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170130T175000
+LAST-MODIFIED:20160925T011559
+UID:explore_courses2a0e00de-c47b-4366-940b-33608fc3341a
+DTSTAMP:20160925T011559
+LOCATION:
+DESCRIPTION:Put on a headset or glasses, and you will be transported to an entirely different world. You could be moving through a business room in China, following a girl through a Syrian refugee camp, or saving the world as a superhero. As a medium, Virtual Reality (VR) has the potential to be the ultimate empathy machine, connecting humans to other humans and nature in a profound way never before seen in any other form of media.nnIn this class, we will shed light on designing Virtual Reality and Augmented Reality (AR) experiences from the vantage point of empathy and behavioral science. Students will be given a foray into the applications of VR/AR in different industries, understand how the virtual world affects perceptions of self and others, and then reflect on these insights to incorporate these learnings into the real world. nnStudents will walk away with an understanding of the potential of VR/AR, insights into designing experiences in those worlds, and reflections that will hopefully enable students to reframe their own lives and make more meaningful choices. nnNote, although the focus of the class will not be technical, it will be supplemented with a workshop to obtain a deeper technical understanding of VR/AR.  Also, although we will briefly cover AR, VR will be more of the focus in this compressed class.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MKTG559 WKS
+DTSTART;TZID=America/Los_Angeles:20170130T150000
+CREATED:20160925T011559
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170203T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170213T175000
+LAST-MODIFIED:20160925T011559
+UID:explore_coursesc95b36e7-1f0f-4753-b27d-3d36999ae5be
+DTSTAMP:20160925T011559
+LOCATION:
+DESCRIPTION:Put on a headset or glasses, and you will be transported to an entirely different world. You could be moving through a business room in China, following a girl through a Syrian refugee camp, or saving the world as a superhero. As a medium, Virtual Reality (VR) has the potential to be the ultimate empathy machine, connecting humans to other humans and nature in a profound way never before seen in any other form of media.nnIn this class, we will shed light on designing Virtual Reality and Augmented Reality (AR) experiences from the vantage point of empathy and behavioral science. Students will be given a foray into the applications of VR/AR in different industries, understand how the virtual world affects perceptions of self and others, and then reflect on these insights to incorporate these learnings into the real world. nnStudents will walk away with an understanding of the potential of VR/AR, insights into designing experiences in those worlds, and reflections that will hopefully enable students to reframe their own lives and make more meaningful choices. nnNote, although the focus of the class will not be technical, it will be supplemented with a workshop to obtain a deeper technical understanding of VR/AR.  Also, although we will briefly cover AR, VR will be more of the focus in this compressed class.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MKTG559 WKS
+DTSTART;TZID=America/Los_Angeles:20170213T150000
+CREATED:20160925T011559
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170217T175000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

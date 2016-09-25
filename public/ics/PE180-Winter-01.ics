@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T122000
+LAST-MODIFIED:20160925T011623
+UID:explore_courses27299663-da66-49ca-810b-4e868ec22e10
+DTSTAMP:20160925T011623
+LOCATION:ACSR Studio
+DESCRIPTION:Students will have the opportunity to learn ancient yoga/health practices for managing daily stressors. Students will learn to identify signs and symptoms of stress, how anxiety manifests in the body and mind, and yoga techniques for relief. The focus will be on breathing techniques to calm the nervous system and practicing mindfulness. Hatha, or physical yoga, will also be introduced as preliminary practices to balance the body, relax the breath, stretch and tone muscles, and massage internal organ systems. All practices are meant to provide students new options for gaining inner strength and self-control. This course will utilize class instruction, assignments, and student participation to enable students to: (1) Acquire knowledge of the basic health-related components of physical fitness and the different dimensions of wellness. (2) Develop the skill-related components of fitness, and (3) Understand and practice the behaviors that contribute to a healthy lifestyle.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PE180 ACT
+DTSTART;TZID=America/Los_Angeles:20170109T113000
+CREATED:20160925T011623
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

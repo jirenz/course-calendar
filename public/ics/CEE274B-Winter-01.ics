@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T115000
+LAST-MODIFIED:20160925T011627
+UID:explore_courses6802368b-91f4-47f8-8098-a1351b1124f4
+DTSTAMP:20160925T011627
+LOCATION:Y2E2 105
+DESCRIPTION:Introduction to microbial metabolic pathways and to the pathway logic with a special focus on microbial bioenergy systems.  The first part of the course emphasizes the metabolic and biochemical principles of pathways, whereas the second part is more specifically directed toward using this knowledge to understand existing systems and to design innovative microbial bioenergy systems for biofuel, biorefinery, and environmental applications. There also is an emphasis on the implications of rerouting of energy and reducing equivalents for the fitness and ecology of the organism. Prerequisites: CHEMENG 174 or 181 and organic chemistry, or equivalents.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE274B LEC
+DTSTART;TZID=America/Los_Angeles:20170110T103000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

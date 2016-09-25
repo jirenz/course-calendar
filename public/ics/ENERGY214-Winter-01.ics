@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170112T182000
+LAST-MODIFIED:20160925T011604
+UID:explore_courses19a06b48-de4a-47e3-9d41-b109b52155fd
+DTSTAMP:20160925T011604
+LOCATION:Green Earth Sciences104
+DESCRIPTION:Understanding the current and future price of oil requires the synthesis of geologic, engineering, financial, geopolitical, and macroeconomic information. In this seminar, we will build a global supply curve for petroleum by studying the marginal and full-cycle production costs for each of the major resource categories. We will study how reserve classification varies globally, and how global petroleum resources and reserves have changed and are likely to change over time. We will further investigate how the time lag between resource discovery, project sanctioning, and full production will affect future supply. Finally, we will study the elasticity of oil demand and how that demand is likely to change over time as the developing world gets richer and as competition from other energy sources increases.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ENERGY214 SEM
+DTSTART;TZID=America/Los_Angeles:20170112T163000
+CREATED:20160925T011604
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

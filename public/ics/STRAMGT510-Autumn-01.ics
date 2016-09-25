@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T114500
+LAST-MODIFIED:20160925T011600
+UID:explore_courses58c17113-e505-4d6e-bfc9-ad7e877ee222
+DTSTAMP:20160925T011600
+LOCATION:GSB Faculty East 104
+DESCRIPTION:This case-based course is offered for students who want to refine their ability to manage challenging professional conversations.  The class, which is limited to 32 students, will focus on the preparation for and execution of role-played dialogue as well as on postmortem analysis.  Most of the respondent roles will be external to one&acirc;s company, and some will be front line or mid-level people with limited educational credentials.  Broad utilization will be made of background readings plus visiting case protagonists and experts.  There will be nine class sessions, each of one hour and forty-five minutes.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STRAMGT510 CAS
+DTSTART;TZID=America/Los_Angeles:20160927T100000
+CREATED:20160925T011600
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161025T114500;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

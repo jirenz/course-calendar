@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T145000
+LAST-MODIFIED:20160925T011558
+UID:explore_courses212585e7-b61c-4132-9584-f6272895293d
+DTSTAMP:20160925T011558
+LOCATION:GSB McClelland 109
+DESCRIPTION:This PE Investing seminar launched in 1993 focuses on private equity investing, including investments with control, buyouts, and minority investments at various stages in a company's life. Private equity investing activity has grown significantly over the past 2 decades. This seminar explores selected topics in private equity investing for those MBA students who take the corequisite course FINANCE 321.01, Investment Management and Entrepreneurial Finance. Private equity includes both established and early stage companies. The course extends and deepens the entrepreneurial finance area for those with an interest in private equity, venture capital and principal investing, taking a global view. Utilization will be made of original case studies and lecture-discussions, building on the framework of FINANCE 321. The Seminar meets with many outstanding investors. All those registered in F321.01 will also be registered in F319. See yellow Term Sheet put in MBA Boxes in late April. Note: All those registered in F321.02 will also be registered in F329.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FINANCE319 SEM
+DTSTART;TZID=America/Los_Angeles:20160927T133000
+CREATED:20160925T011558
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

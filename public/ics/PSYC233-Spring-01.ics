@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170513T170000
+LAST-MODIFIED:20160925T011620
+UID:explore_courses17848ebd-ad84-42a4-a8e8-a60c7cf89918
+DTSTAMP:20160925T011620
+LOCATION:Alway Building, Room M112
+DESCRIPTION:An experiential program in which the participants learn the techniques of mindfulness meditation and its application in the management of stress and in healthcare. Modeled after the MBSR, Mindfulness Based Stress Reduction, started by Jon Kabat-Zinn  at UMASS Medical Center. Designed to work with the mind/body relationship to stress and chronic illness teaching open sensitive awareness without judgement of mental or physical reactivity. Requirement for the course is the daily practice of mindfulness meditation, attendance at weekly class meetings and the all day retreat, home reading, and a final paper covering the student's observations.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PSYC233 PRC
+DTSTART;TZID=America/Los_Angeles:20170513T090000
+CREATED:20160925T011620
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170513T170000;BYDAY=SA
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T213000
+LAST-MODIFIED:20160925T011620
+UID:explore_coursesdf1c56b3-a4d8-4fc5-872e-566ea6e8e153
+DTSTAMP:20160925T011620
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:An experiential program in which the participants learn the techniques of mindfulness meditation and its application in the management of stress and in healthcare. Modeled after the MBSR, Mindfulness Based Stress Reduction, started by Jon Kabat-Zinn  at UMASS Medical Center. Designed to work with the mind/body relationship to stress and chronic illness teaching open sensitive awareness without judgement of mental or physical reactivity. Requirement for the course is the daily practice of mindfulness meditation, attendance at weekly class meetings and the all day retreat, home reading, and a final paper covering the student's observations.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PSYC233 PRC
+DTSTART;TZID=America/Los_Angeles:20170404T190000
+CREATED:20160925T011620
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170526T213000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

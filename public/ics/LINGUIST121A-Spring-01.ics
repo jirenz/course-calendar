@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T152000
+LAST-MODIFIED:20160925T011706
+UID:explore_courses775a3b90-735c-40c4-8ce7-07417945d0ae
+DTSTAMP:20160925T011706
+LOCATION:Econ 139
+DESCRIPTION:Course description: A data-driven introduction to the study of generative syntax through an in-depth investigation of the sentence structure of English. Emphasis is on central aspects of English syntax, but the principles of theory and analysis extend to the study of the syntax of other languages. The course focuses on building up syntactic argumentation skills via the collective development of a partial formal theory of sentence structure, which attempts to model native speaker knowledge. Satisfies the WIM requirement for Linguistics and the WAY-FR requirement. Prerequisites: none (can be taken before or after Linguistics 121B). The discussion section is mandatory.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LINGUIST121A LEC
+DTSTART;TZID=America/Los_Angeles:20170403T143000
+CREATED:20160925T011706
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170407T112000
+LAST-MODIFIED:20160925T011706
+UID:explore_coursesd1e5cf42-9752-480f-bffe-5e3f8adfc69c
+DTSTAMP:20160925T011706
+LOCATION:Econ 139
+DESCRIPTION:Course description: A data-driven introduction to the study of generative syntax through an in-depth investigation of the sentence structure of English. Emphasis is on central aspects of English syntax, but the principles of theory and analysis extend to the study of the syntax of other languages. The course focuses on building up syntactic argumentation skills via the collective development of a partial formal theory of sentence structure, which attempts to model native speaker knowledge. Satisfies the WIM requirement for Linguistics and the WAY-FR requirement. Prerequisites: none (can be taken before or after Linguistics 121B). The discussion section is mandatory.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LINGUIST121A LEC
+DTSTART;TZID=America/Los_Angeles:20170407T103000
+CREATED:20160925T011706
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

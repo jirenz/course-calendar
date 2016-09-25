@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T115000
+LAST-MODIFIED:20160925T011558
+UID:explore_coursesada7cad8-53ea-492a-a6f1-aa53203a561d
+DTSTAMP:20160925T011558
+LOCATION:GSB Gunn 101
+DESCRIPTION:This course covers all the stages of funding for early stage high-growth companies, from seed funding to venture capital rounds to a successful exit. We will concentrate on how entrepreneurs and investors make and should make important decisions. Examples of issues that we will cover are: How can entrepreneurs raise funding successfully? What are typical mistakes entrepreneurs make in raising capital and negotiating with investors? How to choose your investor? How to pitch to an investor? How do angels and VCs generate and process their deal flow and select companies? How are VCs involved in business decisions such as recruiting talent and replacing CEOs? What are the important provisions of financial contracts between VCs and founders? How to value early-stage companies? The course is very applied and mostly case-based. We will discuss a lot of nitty-gritty details that is a must for founders and investors. Case protagonists, founders, angels, and VCs will be among guest speakers. No prior knowledge of the VC industry is needed.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FINANCE385 SEM
+DTSTART;TZID=America/Los_Angeles:20160926T103000
+CREATED:20160925T011558
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=MO,FR
+END:VEVENT
+END:VCALENDAR

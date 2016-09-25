@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T202000
+LAST-MODIFIED:20160925T011704
+UID:explore_courses456ceabb-405d-4048-9b76-b49ba7831bca
+DTSTAMP:20160925T011704
+LOCATION:Ceras 300
+DESCRIPTION:The class is an introduction to the fields of international public health and global medicine. It focuses on resource poor areas of the world and explores major global health problems and their relation to policy, economic development and human rights.  The course is intended for students interested in global health, development studies, or international relations, and provides opportunities for in-depth discussion and interaction with experts in the field. Upper division course with preference given to upperclassmen.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HUMBIO129S DIS
+DTSTART;TZID=America/Los_Angeles:20170110T193000
+CREATED:20160925T011704
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T202000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

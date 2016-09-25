@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160928T182000
+LAST-MODIFIED:20160925T011627
+UID:explore_courses2ab8d840-5250-4b2c-8406-284554194ada
+DTSTAMP:20160925T011627
+LOCATION:Shriram Ctr BioChemE 104
+DESCRIPTION:In a rapidly urbanizing world, &quot;the city&quot; paves the way toward sustainability and social well-being. But what does it mean for a city to be smart? Does that also make it sustainable or resilient or livable? This seminar delves into current debates about urbanism through weekly talks by experts on topics such as big data, human-centered design, new urbanism, and natural capital. How urban spaces are shaped, for better or worse, by the complex interaction of cutting-edge technology, human societies, and the natural environment. The goal is to provoke vigorous discussion and to foster an understanding of cities that is at once technological, humanistic, and ecologically sound.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE125 SEM
+DTSTART;TZID=America/Los_Angeles:20160928T163000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

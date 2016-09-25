@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T142000
+LAST-MODIFIED:20160925T011608
+UID:explore_courses4a17f540-37af-4829-bd8b-ee433657f3c1
+DTSTAMP:20160925T011608
+LOCATION:School of Education 130
+DESCRIPTION:What does it mean to be skeptical of the notion of progress? Where and when did we start believing in human progress and human perfectibility? Does progress imply that history has a particular direction? Is the idea of sustainability a viable alternative to the idea of progress? Much of our everyday thinking about politics, society, and even personal interactions depend on some concept of progress.  This course challenges that basic assumption by engaging with thinkers who have cast the idea of progress into radical doubt. We ask where and when our modern idea of progress originated and why it has come to dominate Western thinking.  The course engages with thinkers who argued in favor of progress as well as thinkers who attacked its presumptions. Reading and critically evaluating philosophical and literary texts, we will investigate the different consequences of our residual belief in progress, as well as the consequences of our abandonment of that belief.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:THINK57 DIS
+DTSTART;TZID=America/Los_Angeles:20170403T133000
+CREATED:20160925T011608
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

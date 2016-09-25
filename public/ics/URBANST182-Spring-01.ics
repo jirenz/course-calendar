@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170405T182000
+LAST-MODIFIED:20160925T011719
+UID:explore_courses07a8d2ee-8dcc-4158-8d0a-e0ef14b508e5
+DTSTAMP:20160925T011719
+LOCATION:McMurtry Building rm 360
+DESCRIPTION:This course will look at how public urban spaces are structured with a particular eye to the involvement of art and artists, whether formally or informally, in shaping the built and social environment of the city. Throughout the course particular focus will consider the possibilities for engaging social justice outcomes through spatial intervention drawing on examples from around the world. Interventions in urban spaces enact local change by making art the language of civic engagement; in this way a mural or performance or reconceptualized public space can become a method to address issues of locally prioritized inequality. We will use Stanford University and the Bay Area as our local research sites, making trips into the field to analyze methods, approaches, and experiences of urban spaces in action as well as bringing experts who work in related fields into the classroom. Sites of study include parks, public art, and street festivals by looking at arts organizations, city projects, community groups, and individual artists. The class will operate as a hybrid seminar and collaborative studio workspace which supports students in using ethnographic, visual, mapping, historical, and participatory methods in developing projects that respond to a particular site of their choosing.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:URBANST182 SEM
+DTSTART;TZID=America/Los_Angeles:20170405T153000
+CREATED:20160925T011719
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T182000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

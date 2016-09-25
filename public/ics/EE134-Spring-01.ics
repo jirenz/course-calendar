@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T162000
+LAST-MODIFIED:20160925T011632
+UID:explore_coursesa64f15a1-391a-473a-b6dd-754e77d8b8ca
+DTSTAMP:20160925T011632
+LOCATION:Hewlett Teaching Center 102
+DESCRIPTION:Photonics, optical components, and fiber optics. Conceptual and mathematical tools for design and analysis of optical communication, sensor and imaging systems. Experimental characterization of semiconductor lasers, optical fibers, photodetectors, receiver circuitry, fiber optic links, optical amplifiers, and optical sensors. Class project on confocal microscopy or other method of sensing or analyzing biometric data. Laboratory experiments. Prerequisite: EE 102A and one of the following: EE 42, Physics 43, or Physics 63.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EE134 LAB
+DTSTART;TZID=America/Los_Angeles:20170403T153000
+CREATED:20160925T011632
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

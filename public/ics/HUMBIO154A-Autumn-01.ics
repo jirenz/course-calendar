@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T132000
+LAST-MODIFIED:20160925T011704
+UID:explore_coursesf9dcb60c-7e63-47c4-92fe-ec101c46b0bf
+DTSTAMP:20160925T011704
+LOCATION:Lathrop 180
+DESCRIPTION:This course teaches engineering, operations research and modeling techniques to improve public health programs and systems. Students will engage in in-depth study of disease detection and control strategies from a &quot;systems science&quot; perspective, which involves the use of common engineering, operations research, and mathematical modeling techniques such as optimization, queuing theory, Markov and Kermack-McKendrick models, and microsimulation. Lectures and problem sets will focus on applying these techniques to classical public health dilemmas such as how to optimize screening programs, reduce waiting times for healthcare services, solve resource allocation problems, and compare macro-scale disease control strategies that cannot be easily evaluated through randomized trials. Readings will complement the lectures and problem sets by offering critical perspectives from the public health history, sociology, and epidemiology. In-depth case studies from non-governmental organizations, departments of public health, and international agencies will drive the course. Prerequisites: A course in introductory statistics, and a course in multivariable calculus including ordinarily differential equations. Open to upper-division undergraduate students and graduate students. Human Biology majors enroll in HUMBIO 154A.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HUMBIO154A LEC
+DTSTART;TZID=America/Los_Angeles:20160927T113000
+CREATED:20160925T011704
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

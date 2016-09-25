@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170405T192000
+LAST-MODIFIED:20160925T011700
+UID:explore_coursesdd7efcaf-59e1-48e4-a31d-381f1b7f3084
+DTSTAMP:20160925T011700
+LOCATION:School of Education 206
+DESCRIPTION:An introductory course that explores LGBT/Queer social, cultural, and political history in the United States.  By analyzing primary documents that range from personal accounts  (private letters, autobiography, early LGBT magazines, and oral history interviews) to popular culture  (postcards, art, political posters, lesbian pulp fiction, and film) to medical, military, and legal papers,  students will understand how the categories of gender and sexuality have changed over the past 150 years.  This class investigates the relationship among queer, straight and transgender identities.  Seminar discussions will question how the intersections of race, class, gender, and sexuality influenced the construction of these categories.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FEMGEN140D SEM
+DTSTART;TZID=America/Los_Angeles:20170405T173000
+CREATED:20160925T011700
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T192000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

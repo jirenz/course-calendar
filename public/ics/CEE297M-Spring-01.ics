@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170405T172000
+LAST-MODIFIED:20160925T011627
+UID:explore_coursescedc4418-58f5-4bf0-b5b9-2e1960d55dca
+DTSTAMP:20160925T011627
+LOCATION:Shriram Ctr BioChemE 104
+DESCRIPTION:Safe and effective performance of infrastructure systems is critical to our economy, quality of life and safety. This course will present topics associated with risk analysis and management of critical civil infrastructure systems, tolerable risk and community resilience. Methods of risk analysis including systems analysis, reliability analysis, expert elicitation and systems analysis for spatially distributed infrastructure systems will be presented.  Aspects of seismic and flood risk analysis will also be discussed. Case histories and lessons learned from Hurricane Katrina, Tohoku earthquake, among others will be presented. The evolution of change in the risk management of civil infrastructure systems; how they are analyzed, designed and operated is discussed. Guest speakers.  Student presentations. (Prerequisite: CEE 203 or equivalent)
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE297M LEC
+DTSTART;TZID=America/Los_Angeles:20170405T153000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

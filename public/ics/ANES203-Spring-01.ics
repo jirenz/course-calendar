@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170406T192000
+LAST-MODIFIED:20160925T011610
+UID:explore_courses180efe6a-e37f-4519-835c-cdc2840fa1e6
+DTSTAMP:20160925T011610
+LOCATION:Li Ka Shing Center, room 308
+DESCRIPTION:With ever-growing innovation in healthcare, how do investors evaluate and fund new ventures in one of the most diverse, operationally complex and regulated industries? Health care investment is unique in its dynamic evolution across decades of scientific, business and regulatory development. How might patients, providers, technologists, and investors&iquest;which we define as our Stanford Medicine X Everyone Included&iquest; team model &iquest;help identify the best opportunities for the health care investor? This course focuses on how health care investors think and make strategic decisions, incorporating both changing financial metrics and qualitative investment theses. This colloquium will feature guest speakers including senior investment professionals, visionary business leaders and passionate new voices such as patient experts that have traditionally been absent from investment decisions. Students enrolling for 2 units prepare a final paper.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ANES203 COL
+DTSTART;TZID=America/Los_Angeles:20170406T173000
+CREATED:20160925T011610
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T192000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

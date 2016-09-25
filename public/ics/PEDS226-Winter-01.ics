@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T132000
+LAST-MODIFIED:20160925T011619
+UID:explore_courses5a71208c-94c4-42db-a125-485364f94d42
+DTSTAMP:20160925T011619
+LOCATION:School of Education 210
+DESCRIPTION:Open to medical students, graduate students, and undergraduate students.  Examines the major famines of modern history, the controversies surrounding them, and the reasons that famine persists in our increasingly globalized world.  Focus is on the relative importance of natural, economic, and political factors as causes of famine in the modern world.  Case studies include the Great Irish Famine of the 1840s; the Bengal famine of 1943-44; the Soviet famines of 1921-22 and 1932-33; China's Great Famine of 1959-61; the Ethiopian famines of the 1970s and 80s, and the Somalia famines of the 1990s and of 2011.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PEDS226 SEM
+DTSTART;TZID=America/Los_Angeles:20170110T113000
+CREATED:20160925T011619
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

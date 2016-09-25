@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T162000
+LAST-MODIFIED:20160925T011640
+UID:explore_courses50fd732f-2bb3-45af-a5d7-4e16d9cf0286
+DTSTAMP:20160925T011640
+LOCATION:McMurtry Building rm 370
+DESCRIPTION:By the seventh century three large political entities formed in the Mediterranean the Umayyads, the Carolingians, and the Byzantines each competed for legitimacy; all three emerged from the ashes of Late Antique culture, yet each tried to carve out an identity out of this common foundation.  In this parting of the ways, the three empires took among others the issue of what constitutes an image and what role it plays in devotion.  Eik'n, imago, ura became the basis on which to built differences and accuse the other political players of idolatry.  This course explores medieval image theory, especially the phenomena of iconoclasm, iconophobia, and aniconism. The discussions focus on monuments in the Mediterranean as well as objects in the Cantor collection and facsimiles of manuscripts at the Bowes Art Library.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTHIST409 SEM
+DTSTART;TZID=America/Los_Angeles:20170404T133000
+CREATED:20160925T011640
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

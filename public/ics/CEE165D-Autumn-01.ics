@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T115000
+LAST-MODIFIED:20160925T011627
+UID:explore_courses50cdcaa6-c322-4a5e-95df-3be312ae338f
+DTSTAMP:20160925T011627
+LOCATION:School of Education 210
+DESCRIPTION:Economic, social, political, and technical aspects of sustainable water supply and sanitation service provision in developing countries. Service pricing, alternative institutional structures including privatization, and the role of consumer demand and community participation in the planning process. Environmental and public health considerations, and strategies for serving low-income households. Limited enrollment. Prerequisite: consent of instructor, see jennadavis.stanford.edu for application.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE165D LEC
+DTSTART;TZID=America/Los_Angeles:20160927T103000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T192000
+LAST-MODIFIED:20160925T011602
+UID:explore_courses4365feb6-429c-4702-9a70-971865cdd3d9
+DTSTAMP:20160925T011602
+LOCATION:School of Education 229
+DESCRIPTION:Restricted to students who participate in a service learning program focused on early math learning. Training for activities in preschool classrooms. Focus is on the teaching of math to young children, but also includes background on issues related to young children's cognitive, language, and social development; classroom management; cultural diversity; and early childhood education programs. May be repeated for credit.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC171 PRC
+DTSTART;TZID=America/Los_Angeles:20170111T180000
+CREATED:20160925T011602
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T192000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T162000
+LAST-MODIFIED:20160925T011620
+UID:explore_courses157e3dc7-f04f-4d94-a59c-ee3a51b2e606
+DTSTAMP:20160925T011620
+LOCATION:Li Ka Shing Center, room 308
+DESCRIPTION:Addiction is a powerful neurological and psychiatric condition that interferes with many lives. As technology advances, many new types of addiction are emerging. This class will discuss the physiology and psychology of addiction in the modern world, including: drugs, spending, and internet addictions. We cover the neuroscience of addiction in these categories, in addition to the psychological implications for the addict and his/her companions. Students will be engaged in thought-provoking discussions surrounding this topic to stimulate critical thinking at the interface between psychology and neuroscience in the modern world. nnEach student will lead one discussion section throughout the quarter, and will write a 4-page final paper based on their preparation for the discussion and will include information yielded from the class discussion itself. Final grades will based on four components, each graded equally (25% each): 1) Class Participation both during the lectures and discussions; 2) Performance as Discussion leader; 3) Participation in the activities, each of which the students will write a one page paper summarizing their experience with the activity; and 4) the Final 4-page paper. The primary goal ofnthis seminar is to engage the students in interactive, critical thinking didactics, activities and discussions that shape their understanding of the complexity inherent to the issues surrounding societal issues such as addiction. The aim is to improve their critical thinking abilities surrounding such issues in a manner that will not only increase their understanding of addictions, from genes through behavior to societal implications, but which will increase the students&iquest; ability to more critically assimilate and interrogate information on any topic.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PSYC83Q ISS
+DTSTART;TZID=America/Los_Angeles:20160926T150000
+CREATED:20160925T011620
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,FR
+END:VEVENT
+END:VCALENDAR

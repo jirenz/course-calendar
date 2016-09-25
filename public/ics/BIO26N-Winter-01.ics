@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T162000
+LAST-MODIFIED:20160925T011643
+UID:explore_courses58e83816-3d7d-473a-9c53-1a93c9a0fd3d
+DTSTAMP:20160925T011643
+LOCATION:Gilbert Biological Science 117
+DESCRIPTION:Preference to freshmen. The precious blueprint for life is entrusted to the genomic DNA molecules in all living cells. Multiple strategies have evolved to prevent the deleterious consequences from endogenous DNA alterations and damage from radiation or genotoxic chemicals in the environment. In this seminar you will learn about the remarkable systems that scan cellular DNA for alterations and make repairs to ensure genomic stability. Deficiencies in DNA repair have been implicated in many hereditary diseases involving developmental defects, premature aging, and/or predisposition to cancer. An understanding of DNA repair mechanisms is important for advances in the fields of cancer biology, neurobiology, and gerontology. Background readings, introductory lectures, student presentations, short term paper.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIO26N ISF
+DTSTART;TZID=America/Los_Angeles:20170110T150000
+CREATED:20160925T011643
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T162000
+LAST-MODIFIED:20160925T011715
+UID:explore_coursese7bcd89a-7d85-49cb-8181-f0095674eba1
+DTSTAMP:20160925T011715
+LOCATION:School of Education 230
+DESCRIPTION:How Western societies and cultures have responded to modern warfare. The relationship between its destructive capacity and effects on those who produce, are subject to, and must come to terms with its aftermath. Literary representations of WW I; destructive psychological effects of modern warfare including those who take pleasure in killing; changes in relations between the genders; consequences of genocidal ideology and racial prejudice; the theory of just war and its practical implementation; and how wars are commemorated.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:REES304G COL
+DTSTART;TZID=America/Los_Angeles:20170110T133000
+CREATED:20160925T011715
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

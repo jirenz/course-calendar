@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T145000
+LAST-MODIFIED:20160925T011715
+UID:explore_courses0e2865f5-be89-4f10-97b3-714d4b50e43a
+DTSTAMP:20160925T011715
+LOCATION:School of Education 313
+DESCRIPTION:This course seeks to introduce students to the study of religion by posing a two-part question: What is a religion, and does Stanford qualify as one? Scientific, pragmatic, seemingly secular, Stanford may not seem at all similar to religions like Christianity, Judaism or Buddhism, but a deeper look reveals that it has many of the qualities of religion--origin stories, rituals and ceremonies, sacred spaces and times, visions of the future, even some spirits. By learning some of the theories and methods of the field of religious studies, students will gain a better understanding not just of Stanford culture but of what motivates people to be religious, the roles religion plays in people's lives, and the similarities and differences between religious and secular culture.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:RELIGST2 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T133000
+CREATED:20160925T011715
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

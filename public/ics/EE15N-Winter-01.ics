@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T182000
+LAST-MODIFIED:20160925T011632
+UID:explore_coursesf37375c6-dbad-43f7-b4f3-96b7a80ea567
+DTSTAMP:20160925T011632
+LOCATION:Littlefield 103
+DESCRIPTION:The goal of this seminar is to introduce freshmen to the design process associated with an engineering project. The seminar will consist of a series of lectures. The first part of each lecture will focus on the different design aspects of an engineering project, including formation of the design team, developing a project statement, generating design ideas and specifications, finalizing the design, and reporting the outcome. Students will form teams to follow these procedures in designing a term project of their choice over the quarter. The second part of each lecture will consist of outside speakers, including founders of some of the most exciting companies in Silicon Valley, who will share their experiences about engineering design. On-site visits to Silicon Valley companies to showcase their design processes will also be part of the course. The seminar serves three purposes: (1) it introduces students to the design process of turning an idea into a final design, (2) it presents the different functions that people play in a project, and (3) it gives students a chance to consider what role in a project would be best suited to their interests and skills.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EE15N ISF
+DTSTART;TZID=America/Los_Angeles:20170111T153000
+CREATED:20160925T011632
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

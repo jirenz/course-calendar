@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T192000
+LAST-MODIFIED:20160925T011615
+UID:explore_courses6d6d7e86-b47d-4224-9ed4-611ba98ab780
+DTSTAMP:20160925T011615
+LOCATION:Li Ka Shing Center, room 306
+DESCRIPTION:First of a three-quarter course series providing students with knowledge and concrete skills for working with and advocating for underserved populations. Through coursework and placements in community health clinics and social service organizations, students broaden and deepen their understanding of the social and economic determinants of health, how they impact underserved populations, and the various levels at which these challenges can be addressed. Fellows engage in structured activities centered around supporting the mission of placement organizations. Students must apply and be accepted into the program the winter preceding enrollment; application information at och.stanford.edu. Additional prerequisites: Med 157 or equivalent coursework. Spanish language proficiency required for most placements.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED257A PRC
+DTSTART;TZID=America/Los_Angeles:20160926T173000
+CREATED:20160925T011615
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

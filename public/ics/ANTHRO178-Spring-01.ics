@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T172000
+LAST-MODIFIED:20160925T011638
+UID:explore_coursesa284067b-938e-4d17-be1c-a877d7d11fee
+DTSTAMP:20160925T011638
+LOCATION:Encina West 106
+DESCRIPTION:The contribution of research in the Galapagos Islands to our current understanding of evolution and conservation.  Writings from Darwin to Dawkins, as they reveal patterns and processes of evolution including selection, adaptation, speciation, and coevolution.  Current conservation strategies in the archipelago, and urgent measures needed today before unique species and adaptations are lost.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ANTHRO178 SEM
+DTSTART;TZID=America/Los_Angeles:20170403T153000
+CREATED:20160925T011638
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

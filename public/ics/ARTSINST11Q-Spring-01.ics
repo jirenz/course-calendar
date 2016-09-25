@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170405T112000
+LAST-MODIFIED:20160925T011640
+UID:explore_courses1d3e7de9-e9c1-4dea-96c3-b004ad71d0d2
+DTSTAMP:20160925T011640
+LOCATION:McMurtry Building rm 360
+DESCRIPTION:This seminar is offered in conjunction with the annual &quot;Arts Immersion&quot; trip to New York that takes place over the spring break and is organized by the Stanford Arts Institute (SAI).  Participation in the trip is a requirement for taking part in the seminar (and vice versa).  The trip is designed to provide a group of students with the opportunity to immerse themselves in the cultural life of New York City guided by faculty and the SAI programming director.  Students will experience a broad range and variety of art forms (visual arts, theater, opera, dance, etc.) and will meet with prominent arts administrators and practitioners, some of whom are Stanford alumni. For further details and updates about the trip, see http://arts.stanford.edu.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSINST11Q ISS
+DTSTART;TZID=America/Los_Angeles:20170405T093000
+CREATED:20160925T011640
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

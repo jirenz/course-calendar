@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20161010T175000
+LAST-MODIFIED:20160925T011559
+UID:explore_coursesf6492a3c-0318-43fd-a39d-81e98d0ca5bb
+DTSTAMP:20160925T011559
+LOCATION:GSB Faculty East 102
+DESCRIPTION:This class will provide an overview of the travel and hospitality industry focusing on strategy, business models, institutions and innovations. Issues we will cover include pricing and yield management, service quality assessment and loyalty and reward program management within verticals such as airlines, hotels and cruise lines. We will also discuss new innovations such as shared consumption models and the role of online reviews and user generated content in facilitating travel. The class will involve a mix of cases and lectures; a site visit to a Bay Area hotel for a tour of operations and discussion of strategy; and interactions with several industry leaders in the travel space.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MKTG534 CAS
+DTSTART;TZID=America/Los_Angeles:20161010T150000
+CREATED:20160925T011559
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161021T175000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

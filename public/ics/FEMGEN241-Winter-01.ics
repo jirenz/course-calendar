@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T162000
+LAST-MODIFIED:20160925T011700
+UID:explore_courses1c82047a-2e53-4304-aebe-ba9ecfb0bf8c
+DTSTAMP:20160925T011700
+LOCATION:McCullough 115
+DESCRIPTION:(HumBio students must enroll in HumBio 140.) Chromosomal, hormonal and environmental influences that lead to male and female reproductive systems and neuroendocrine regulation and intersex variants. Masculinizing and feminizing effects of endogenous and exogenous sex hormones and other factors, in particular gender, on the musculoskeletal, neurological, cardiovascular, immunological and other systems and tissues, e.g. adipose, skin, etc. over the lifecourse, from conception to puberty, through reproductive phases (including changes during the menstrual cycle up to and beyond menopause in women, and with aging in both sexes). Transgender health issues. Guest lecturers. Prerequisite: Human Biology core or equivalent, or consent of instructor. HUMBIO students must enroll for 3 units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FEMGEN241 LEC
+DTSTART;TZID=America/Los_Angeles:20170109T150000
+CREATED:20160925T011700
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

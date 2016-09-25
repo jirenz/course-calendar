@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T112000
+LAST-MODIFIED:20160925T011608
+UID:explore_coursesdf701adc-311c-4e6d-8298-7a1fe3e7b504
+DTSTAMP:20160925T011608
+LOCATION:Lathrop 294
+DESCRIPTION:Why there are so few women leaders and what is the cost to society for women's underrepresentation in positions of power? How can organizations and individuals increase women's leadership and be more inclusive of the diverse people that make up our society? Women make up half the population and have earned more than half of all the undergraduate degrees in the U.S. since the early 1980s; yet women comprise only 17% of US Congress, 4% of Fortune 500 CEOs, 16% of the board of directors of major corporations, 22% of tenured faculty at Stanford, and less than a fifth of law firm partners. For women of color, these numbers are considerably lower. Yet, research shows that gender diversity increases the creativity and innovation of groups. In this course, we will directly address the questions of why there are so few women leaders and what can be done, at an organizational and individual level, to increase their representation. Using the lens of sociology, we will think critically about leadership, influence, power, status, gender stereotypes, mentorship, and negotiation. Once we understand the mechanisms underpinning the lack of women leaders, we will discuss and critique potential interventions. A unique aspect of this course will be to apply some of the scholarly research on gender and leadership to our lives outside the classroom. We will be using modules based on those used in businesses schools and corporate executive training. Students will develop practical, real-world skills to increase their own leadership capacities by working on projects and taking part in interactive sessions on negotiation and team dynamics.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:THINK46 DIS
+DTSTART;TZID=America/Los_Angeles:20170110T103000
+CREATED:20160925T011608
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

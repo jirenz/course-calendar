@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T175000
+LAST-MODIFIED:20160925T011557
+UID:explore_coursesb58dac85-52eb-4cc0-bebe-64e2a3ca3a62
+DTSTAMP:20160925T011557
+LOCATION:GSB Faculty West 104
+DESCRIPTION:This course is focused on helping students understand the role boards and board members play in corporate governance and the lives of businesses large and small. This case-driven course is designed to help students who plan to serve on boards as private-equity or venture investors, entrepreneurs who will need to assemble and manage boards, and executives who realize they will need to interact with and answer to boards. The course is designed to help students understand the issues boards face - both routine and non-routine - through the eyes of the board member. By understanding the roles and responsibilities of board members and the mechanisms though which they exercise these duties, students will come away with an understanding of how boards function effectively (and in too many cases fail to function effectively). The course will include examining boards in a variety of contexts with a focus on three types of situations:  public for-profit companies, early-stage private companies, and non-for-profit companies of different sizes.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ACCT523 SEM
+DTSTART;TZID=America/Los_Angeles:20160926T150000
+CREATED:20160925T011557
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161007T175000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T181500
+LAST-MODIFIED:20160925T011600
+UID:explore_courses069f4118-5a9b-4904-8a48-7c67b813463e
+DTSTAMP:20160925T011600
+LOCATION:GSB Faculty East 102
+DESCRIPTION:At the beginning and usually at the heart of every new business is an idea.  Around that core idea talent is assembled, technology is developed, investors are attracted, capital is deployed, business models are evolved, and products and services are created and sold.  Intellectual Property (IP) such as patents, copyrights, trademarks, and trade secrets are assets that businesses can leverage to obtain competitive advantage, but IP in the hands of third-parties, including competitors, can also be a significant risk. In either case, significant financial outlays and management resources may be involved in obtaining protection, advancing or defending a claim or challenging third party IP.  How can different types and combinations of IP be used to create competitive advantages for a business? How may IP risks be mitigated? And how do you optimize alignment between your company's business model and strategy, on the one hand, and its IP model and strategy on the other?nnThis course explores the business impact and implications of the rapidly-changing and often confusing law around how to protect what are very often the most valuable core assets of a business. With the assistance of experienced business executives from markets ranging from biosciences to software to sound engineering, we will review the IP and other tools that can be leveraged to achieve and sustain competitive advantage, and will discuss the legal and business shoals, and the practical contractual, cost and timing issues, that entrepreneurs and other business executives need to be able to navigate. In the course of these discussions, we will survey the Supreme Court's recent decisions  in Alice Corp. v. CLS Bank Internat'l, Association for Molecular Pathology v. Myriad Genetics, and Mayo v. Prometheus that  over the past few years have reduced the scope of available patent protection in major industries, and will explore their implications for business models and both offensive and defensive strategy in fields such as software development, e-commerce, personalized medicine and molecular diagnostics.nnIt is the objective of this course to help business students to recognize and think critically about how the ability or inability to protect, or the scope of the protection available for, new ideas impacts everything from the funding and viability of a new business to the business model and IP strategy selected to advance it.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STRAMGT511 CAS
+DTSTART;TZID=America/Los_Angeles:20160927T163000
+CREATED:20160925T011600
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161025T181500;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

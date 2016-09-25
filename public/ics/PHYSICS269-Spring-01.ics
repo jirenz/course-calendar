@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T162000
+LAST-MODIFIED:20160925T011711
+UID:explore_courses55785b55-9e98-4b3f-902f-a5c16e9fa5d9
+DTSTAMP:20160925T011711
+LOCATION:Hewlett Teaching Center 102
+DESCRIPTION:Basic neutrino properties. Flavor evolution in vacuum and in matter.  Oscillations of atmospheric, reactor and beam neutrinos. Measurements of solar neutrinos; physics of level-crossing and the resolution of the solar neutrino problem. Roles of neutrinos in stellar evolution; bounds from stellar cooling. Neutrinos and stellar collapse; energy transport, collective flavor oscillations, neutrino flavor in turbulent medium. Ultra-high-energy neutrinos. The cosmic neutrino background, its impact on the cosmic microwave background and structure formation; cosmological bounds on the neutrino sector.  Prerequisites/corerequisites: PHYSICS 121, 131 and 171 or equivalent. PHYS 230-231, 152 and 161 or equivalent are helpful, but not required. May be repeat for credit
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHYSICS269 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T150000
+CREATED:20160925T011711
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

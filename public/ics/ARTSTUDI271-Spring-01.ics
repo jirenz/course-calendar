@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T182000
+LAST-MODIFIED:20160925T011640
+UID:explore_courses26c9b170-ce3f-4506-9d99-27bfb1828593
+DTSTAMP:20160925T011640
+LOCATION:McMurtry Building rm 007
+DESCRIPTION:Students will learn how to use large-format 4x5 view cameras, and explore the ways in which large-format photography enables the creation of exceptionally clear images on a par with digital imaging. They will develop sheet film and print black-and-white images in analog format. To connect the camera to contemporary digital practices students will learn to scan and digitally print from their negatives. Specific attention will be given to mastering perspective control and in-camera manipulation of the image. From a historical point of view, the course will analyze and discuss images created with view cameras by a wide range of artists from the early days of photography to the present. Students will put their skills into practice and pursue their own aesthetic by producing a portfolio of images. Prerequisite: ARTSTUDI 170, ARTSTUDI 171, or equivalent.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSTUDI271 PRC
+DTSTART;TZID=America/Los_Angeles:20170403T163000
+CREATED:20160925T011640
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T182000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

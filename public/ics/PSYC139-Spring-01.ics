@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170405T120000
+LAST-MODIFIED:20160925T011620
+UID:explore_coursesde0a97f3-4b88-471e-a591-9257a830149e
+DTSTAMP:20160925T011620
+LOCATION:
+DESCRIPTION:Considers the premises of the family-systems approach to intimate and family relationships, drawing on concepts from psychology, psychiatry, neurobiology, anthropology, and organizational behavior. Examines relationship formation and commitment, intimacy and sexuality, family development and structure, interpersonal conflict and communication, historical patterns and legacies, gender and power, and the cultural and larger systemic contexts of close relationships. Frameworks for assessing relationships and tools for changing romantic, family, and social relationships are examined in detail, and case examples illustrate the relationship change strategies of major contributors to the field. Highlights practical applications of the family-systems approach in educational, medical, business, and community settings. Students do not need to have a background in Psychology or Human Biology, and all student levels are welcome (including GSB, Law, Medicine, GSE for PSYC 239).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PSYC139 LEC
+DTSTART;TZID=America/Los_Angeles:20170405T093000
+CREATED:20160925T011620
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T120000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T115000
+LAST-MODIFIED:20160925T011620
+UID:explore_courses9dbf63e0-03d9-4b3d-a4ae-706730a8039d
+DTSTAMP:20160925T011620
+LOCATION:
+DESCRIPTION:Considers the premises of the family-systems approach to intimate and family relationships, drawing on concepts from psychology, psychiatry, neurobiology, anthropology, and organizational behavior. Examines relationship formation and commitment, intimacy and sexuality, family development and structure, interpersonal conflict and communication, historical patterns and legacies, gender and power, and the cultural and larger systemic contexts of close relationships. Frameworks for assessing relationships and tools for changing romantic, family, and social relationships are examined in detail, and case examples illustrate the relationship change strategies of major contributors to the field. Highlights practical applications of the family-systems approach in educational, medical, business, and community settings. Students do not need to have a background in Psychology or Human Biology, and all student levels are welcome (including GSB, Law, Medicine, GSE for PSYC 239).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PSYC139 LEC
+DTSTART;TZID=America/Los_Angeles:20170403T110000
+CREATED:20160925T011620
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

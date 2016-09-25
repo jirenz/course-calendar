@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T115000
+LAST-MODIFIED:20160925T011635
+UID:explore_courses827da4ae-676d-4127-8976-df521a0e6410
+DTSTAMP:20160925T011635
+LOCATION:McCullough 126
+DESCRIPTION:An introduction to the aerodynamic design of rotor-based drones, for students with a background in robotics, aerospace, or fluids. Focus is on rotor-based drones operating at low Reynolds numbers, but material is applicable to drones, aviation and wind energy in general. Topics include: airfoil simulation, fundamentals of rotor aerodynamics, blade element analysis, rotor simulation and performance (e.g. mission duration, distance, maneuverability, and reliability). Midterm is the design of an airfoil for a drone, final is the aerodynamic design of a rotor for a drone; these projects will be peer-reviewed by students in the class.  Prereqs: background in fluid mechanics or aerodynamics; fluency with MATLAB. Recommended: take ME202 or AA241X before or after ME271, for practical applications in drone prototyping and control theory.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ME271 LEC
+DTSTART;TZID=America/Los_Angeles:20160927T103000
+CREATED:20160925T011635
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

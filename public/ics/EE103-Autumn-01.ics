@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T102000
+LAST-MODIFIED:20160925T011632
+UID:explore_coursesb0235ff8-5e83-450d-872d-96e4dca22561
+DTSTAMP:20160925T011632
+LOCATION:Bishop Auditorium
+DESCRIPTION:Introduction to applied linear algebra with emphasis on applications. Vectors, norm, and angle; linear independence and orthonormal sets; applications to document analysis. Clustering and the k-means algorithm.  Matrices, left and right inverses, QR factorization. Least-squares and model fitting, regularization and cross-validation.  Constrained and nonlinear least-squares.  Applications include time-series prediction, tomography, optimal control, and portfolio optimization.  Prerequisites:MATH 51 or CME 100, and basic knowledge of computing (CS 106A is more than enough, and can be taken concurrently). EE103/CME103 and Math 104 cover complementary topics in applied linear algebra. The focus of EE103 is on a few linear algebra concepts, and many applications; the focus of Math 104 is on algorithms and concepts.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EE103 LEC
+DTSTART;TZID=America/Los_Angeles:20160927T090000
+CREATED:20160925T011632
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

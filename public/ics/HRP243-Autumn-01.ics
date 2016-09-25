@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T132000
+LAST-MODIFIED:20160925T011613
+UID:explore_courses14cfa1e2-15bb-41d8-85e6-1cfea94bd6cc
+DTSTAMP:20160925T011613
+LOCATION:CCSR 4205
+DESCRIPTION:This seminar course is intended to introduce students to the role of policy in the delivery of healthcare in the United States. In addition to speakers from the law school, SIEPR, HRP, and School of Medicine, we will be bringing in speakers from outside organizations such as the Pacific Business Group on Health, managed care organizations, and the Palo Alto Medical Foundation. There will be no assignments and lunch will be provided.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HRP243 LEC
+DTSTART;TZID=America/Los_Angeles:20160929T123000
+CREATED:20160925T011613
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T115000
+LAST-MODIFIED:20160925T011624
+UID:explore_coursesca007edf-230e-49d1-8271-f5c1273e3289
+DTSTAMP:20160925T011624
+LOCATION:Gates B3
+DESCRIPTION:Topics: development of the three-dimensional, non-steady, field equations for describing the motion of a viscous, compressible fluid; differential and integral forms of the equations; constitutive equations for a compressible fluid; the entropy equation; compressible boundary layers; area-averaged equations for one-dimensional steady flow; shock waves; channel flow with heat addition and friction; flow in nozzles and inlets; oblique shock waves; Prandtl-Meyer expansion; unsteady one-dimensional flow; the shock tube; small disturbance theory; acoustics in one-dimension; steady flow in two-dimensions; potential flow; linearized potential flow; lift and drag of thin airfoils. Prerequisites: undergraduate background in fluid mechanics and thermodynamics.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AA210A LEC
+DTSTART;TZID=America/Los_Angeles:20160927T103000
+CREATED:20160925T011624
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

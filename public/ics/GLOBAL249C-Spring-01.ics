@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170407T182000
+LAST-MODIFIED:20160925T011701
+UID:explore_courses558bc716-7762-4d43-a056-3786260b413c
+DTSTAMP:20160925T011701
+LOCATION:Econ 140
+DESCRIPTION:Today Iranian plays - both in traditional and contemporary styles - are staged in theater festivals throughout the world play their role in forming a universal language of theater which combine the heritages from countries in all five continents. Despite many obstacles, some Iranian plays have been translated into English and some prominent Iranian figures are successful stage directors outside Iran. Forty-six years ago when &quot;Theater in Iran&quot; (a monograph on the history of Iranian plays) by Bahram Beyzaie was first published, it put the then contemporary Iranian theater movement--which was altogether westernizing itself blindly - face to face with a new kind of self-awareness. Hence in today's generation of playwrights and stage directors in Iran, all know something of their theatrical heritage. In this course we will spend some class sessions on the history of theater in Iran and some class meetings will be concentrating on contemporary movements and present day playwrights. Given the dearth of visual documents, an attempt will be made to present a picture of Iranian theater to the student. Students are expected to read the recommended available translated plays of the contemporary Iranian playwrights and participate in classroom discussions.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GLOBAL249C SEM
+DTSTART;TZID=America/Los_Angeles:20170407T153000
+CREATED:20160925T011701
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T182000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

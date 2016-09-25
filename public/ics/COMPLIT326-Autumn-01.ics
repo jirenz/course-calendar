@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160930T152000
+LAST-MODIFIED:20160925T011655
+UID:explore_courses66c641d5-4f77-4cda-b38e-5ef76d234153
+DTSTAMP:20160925T011655
+LOCATION:School of Education 210
+DESCRIPTION:The course explores the works allegedly written by the great Russian critic Mikhail Bakhtin but published under the names of his friends and colleagues. The three texts include critical engagements with Marxism, Formalism and Psychoanalysis&iquest;key interpretative frameworks of the early 20th century. The seminar investigates core Bakhtinian concepts and their dialogic reverberations in the &quot;pseudo-Bakhtinian&quot; corpus.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:COMPLIT326 SEM
+DTSTART;TZID=America/Los_Angeles:20160930T123000
+CREATED:20160925T011655
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T181500
+LAST-MODIFIED:20160925T011600
+UID:explore_courses99d69e7b-bd23-4b5b-a26f-40894ccd2898
+DTSTAMP:20160925T011600
+LOCATION:GSB McClelland 104
+DESCRIPTION:Building on the discipline of social psychology, this course helps you cultivate mindsets and build skills to understand the ways in which organizations and their members affect one another. You will learn frameworks for diagnosing and resolving problems in organizational settings. The course relates theory and research to organizational problems by reviewing basic concepts such as individual motivation and behavior; decision making; interpersonal communication and influence; small group behavior; and dyadic, individual, and inter-group conflict and cooperation.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OB206 CAS
+DTSTART;TZID=America/Los_Angeles:20160926T163000
+CREATED:20160925T011600
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161025T181500;BYDAY=MO,TH
+END:VEVENT
+END:VCALENDAR

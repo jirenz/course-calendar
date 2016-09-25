@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T172000
+LAST-MODIFIED:20160925T011633
+UID:explore_courses668566ae-5dcf-4ed1-a8a2-4ab0c1742721
+DTSTAMP:20160925T011633
+LOCATION:McCullough 126
+DESCRIPTION:Computational exploration of fundamental topics in materials science using Java-based computation and visualization tools.  Emphasis is on the atomic-scale origins of macroscopic materials phenomena.  Simulation methods include molecular dynamics and Monte Carlo with applications in thermodynamics, kinetics, and topics in statistical mechanics.  Required prerequisites: Freshman-level physics, undergraduate thermodynamics. Undergraduates register for 165 for 4 units; graduates register for 175 for 3 units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MATSCI175 LAB
+DTSTART;TZID=America/Los_Angeles:20170109T153000
+CREATED:20160925T011633
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

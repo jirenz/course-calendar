@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20161108T084500
+LAST-MODIFIED:20160925T011600
+UID:explore_courses8d1e2eb6-5a2c-4ace-a66a-4b1cc1be42da
+DTSTAMP:20160925T011600
+LOCATION:GSB Faculty East 102
+DESCRIPTION:Generative Leadership: How to Create Innovative Ideas and Convey Them with ImpactnnThere are three major sections to this course - Design Thinking, The Improvisational Mindset, and High Performance Communication.nnDesign ThinkingnnOutcome:nParticipants learn to employ User Centered Design as promoted by the Stanford d.school. They become adept at Empathizing with the end user, practicing focused Need Finding, Defining the Problem, Ideating, Rapidly Prototyping and Adapting to Feedback.nnExperiences:nParticipants learn the Design Thinking process through a hands-on, collaborative design challenge, like redesigning the Briefcase for a specific user.nnThe Improvisational MindsetnnOutcome:nThe participants increase their ability to respond flexibly to novel situations and to generate innovative solutions on a collaborative, creative team. The mindset is cultivated by practicing 5 key principles. Say &quot;Yes, and&quot;. Treat Mistakes as Gifts. Inspire your Partner. Dare to be Obvious. Notice the World.nnExperiences:nThe key principles are taught through a series of immersive theater exercises derived from Johnstone, Spolin, and Madson. Valuable readings include IMPROV WISDOM, by Patricia Madson and journal articles on improv and brainstorming.nnHigh Performance CommunicationnnOutcome:nThe final segment of the class is a chance to apply the principles of User Centered Design and the Improvisational Mindset to design and deliver messages that go beyond just transmitting information - they get results. Participants successfully use a version of the Design Thinking process to rapidly develop content that is tuned to the audience's needs, and that they can deliver in a way that is agile and responsive to real time feedbacknnExperiencesnGenerative Leadership culminates in a group presentation designed to influence key stakeholders. To be successful, participants will have to draw on all sections of the course. AS WE SPEAK is our text.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STRAMGT259 WKS
+DTSTART;TZID=America/Los_Angeles:20161108T070000
+CREATED:20160925T011600
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T094500;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

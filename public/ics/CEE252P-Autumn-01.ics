@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T162000
+LAST-MODIFIED:20160925T011627
+UID:explore_courses06158006-c4a0-43f2-851a-9e3b83f51238
+DTSTAMP:20160925T011627
+LOCATION:Y2E2 292A
+DESCRIPTION:Construction engineering is a series of technical activities to meet project objectives related to cost and schedule, safety, quality, and sustainability. These activities include: 1) designing temporary works and construction work processes; 2) providing the required temporary and permanent resources; and 3) integrating activities to consider construction during all project phases and between projects. The objectives of CEE252P are to learn about the technical fundamentals, resources, and field operations required to complete construction engineering activities and to develop a foundation for continued related learning. The course requires reviewing recorded presentations and other online resources, completing queries, participating in class sessions with guest speakers and in field trips, completing group exercises and projects, and preparing an individual final paper. The exercises, completed by all groups, include construction engineering activities for earthwork, concrete construction, and steel erection. Each group will also complete a project to analyze one of the following types of systems or facilities: building electrical systems, lighting systems, HVAC systems, control systems, solar photovoltaic power plant, solar thermal power plant, and wind turbine power plant.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE252P PRC
+DTSTART;TZID=America/Los_Angeles:20160926T150000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T175000
+LAST-MODIFIED:20160925T011627
+UID:explore_courses5d06fd31-9cf4-4af2-bec0-5618d21aa640
+DTSTAMP:20160925T011627
+LOCATION:Y2E2 292A
+DESCRIPTION:Construction engineering is a series of technical activities to meet project objectives related to cost and schedule, safety, quality, and sustainability. These activities include: 1) designing temporary works and construction work processes; 2) providing the required temporary and permanent resources; and 3) integrating activities to consider construction during all project phases and between projects. The objectives of CEE252P are to learn about the technical fundamentals, resources, and field operations required to complete construction engineering activities and to develop a foundation for continued related learning. The course requires reviewing recorded presentations and other online resources, completing queries, participating in class sessions with guest speakers and in field trips, completing group exercises and projects, and preparing an individual final paper. The exercises, completed by all groups, include construction engineering activities for earthwork, concrete construction, and steel erection. Each group will also complete a project to analyze one of the following types of systems or facilities: building electrical systems, lighting systems, HVAC systems, control systems, solar photovoltaic power plant, solar thermal power plant, and wind turbine power plant.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE252P PRC
+DTSTART;TZID=America/Los_Angeles:20160926T163000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170405T220000
+LAST-MODIFIED:20160925T011708
+UID:explore_courses69740505-70e9-4c01-b86b-748bbb3d1996
+DTSTAMP:20160925T011708
+LOCATION:Dinkelspiel  Rehearsal Room
+DESCRIPTION:Introduction to Chinese music through learning how to play Gu-Zheng, a 21-stringed traditional Chinese instrument. The cultural, social, and historical significance of Gu-Zheng. 15 Gu-Zheng techniques, how to read Chinese music and Gu-Zheng notation, and two simple classic Gu-Zheng pieces. There is a fee for this class. Please visit http://music.stanford.edu/Academics/LessonSignups.html for class fee information. All participants must enroll. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure. By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC72G PRA
+DTSTART;TZID=America/Los_Angeles:20170405T190000
+CREATED:20160925T011708
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T220000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

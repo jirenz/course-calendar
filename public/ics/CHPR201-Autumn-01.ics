@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T182000
+LAST-MODIFIED:20160925T011612
+UID:explore_coursesf2e3f822-7580-4c14-85c8-dcdf64d5cfb1
+DTSTAMP:20160925T011612
+LOCATION:Li Ka Shing Center, room 308
+DESCRIPTION:This introduction to the science of healthy living (primarily U.S.) highlights preventable causes of mortality, i.e. modifiable risk factors, national lifestyle recommendations and behavioral change principles for reducing chronic disease risk. A life course perspective is presented as a trajectory from fetal/neonatal to childhood and adolescence to young, middle-ages and older adults, with recognition of the importance of social determinants of health. Sex &amp; gender differences are also presented. Unless otherwise noted, all lectures are presented by Course Director, Marcia Stefanick, Ph.D. Priority for enrollment given to CHPR masters students, who must take the course for a letter grade.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHPR201 LEC
+DTSTART;TZID=America/Los_Angeles:20160926T173000
+CREATED:20160925T011612
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

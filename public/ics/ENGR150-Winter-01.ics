@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T175000
+LAST-MODIFIED:20160925T011632
+UID:explore_courses818129da-6020-4e60-9866-d82eef7027ce
+DTSTAMP:20160925T011632
+LOCATION:Lathrop 190
+DESCRIPTION:In this lab, students develop the practical skills of data science by solving a series of increasingly difficult, real problems.  Skills developed include: data manipulation, exploratory data analysis, data visualization, and predictive modeling.  The data challenges each student undertakes are based upon their current skills.  Students receive one-on-one coaching and see how expert practitioners solve the same challenges.  Limited enrollment; application required.  May be repeated for credit.  See http://datalab.stanford.edu for more information.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ENGR150 SEM
+DTSTART;TZID=America/Los_Angeles:20170109T163000
+CREATED:20160925T011632
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=MO,TU,WE,TH,FR
+END:VEVENT
+END:VCALENDAR

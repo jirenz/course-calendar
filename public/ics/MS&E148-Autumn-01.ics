@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T182000
+LAST-MODIFIED:20160925T011633
+UID:explore_coursesd38179b1-a054-4430-a3c9-61e3016220a4
+DTSTAMP:20160925T011633
+LOCATION:Lathrop 299
+DESCRIPTION:Explores the ethical reasoning needed to make banking, insurance and financial services safer, fairer and more positively impactful. Weighs tradeoffs in how money is created, privileging some, under-privileging others, using market mechanisms for transforming and trading financial risk, return, maturity and asset types. Technology is changing banks, financial markets, insurance and money. Like technology for medicine, finance is being rebuilt as machine learned code, algorithmic investment rules and regulatory monitoring. Risk models can be built to detect fraud and ethical lapses, or to open doors for them. Investment valuation models can optimize short term or long term returns, by optimizing or ignoring environmental and social impacts. Transparency or opacity can be the norm. Transforming finance through engineering requires finding, applying and evolving codes of professional conduct to make sure that engineers use their skills within legal and ethical norms. Daily, financial engineers focus on two horizons: on the floor, we stand on the bare minimum standards of conduct, and on the ceiling, we aim for higher ethical goals that generate discoveries celebrated though individual fulfillment and TED Talks. Stanford engineers, computer scientists, data scientists, mathematicians and other professionals are building systems for lending, investment and portfolio management decisions that determine future economic and social growth. This course uses the case method to preview intersecting codes of conduct, legal hurdles and ethical impact opportunities, and creates as a safe academic setting for seeing career-limiting ethical stop signs (red lights) and previewing &iquest;what&iquest;s my life all about&iquest; events, as unexpected threats or surprising ah-ha moments. Guest speakers will highlight real life situations, lawsuits and other events where ethics of financial engineering was a predominant theme, stumbling block or humanitarian opportunity.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MS&E148 LEC
+DTSTART;TZID=America/Los_Angeles:20160926T163000
+CREATED:20160925T011633
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

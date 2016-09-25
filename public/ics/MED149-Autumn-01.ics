@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20161001T173000
+LAST-MODIFIED:20160925T011615
+UID:explore_courseseb503106-2315-4843-b6b9-16869ca23109
+DTSTAMP:20160925T011615
+LOCATION:CCSR 4205
+DESCRIPTION:The quality of health care often depends as much on the interpreter as the provider. This foundation courses prepares bilingual students to work as medical interpreters in hospital and clinic settings. Students learn basic interpreting skills; ethics; communication techniques; medical vocabulary; key healthcare information; communication skills for advocacy; how to draft practical, working solutions, and professional development. By application only; must be an accepted Cardinal Free Clinic (CFC) interpreter volunteer. Applications accepted in Fall for Winter quarter and in Winter for Spring quarter. Students registering for this 2-unit course are required to interpret at the clinic a minimum of 2 weekend sessions; upon completion of this course, students can continue to volunteer at CFC for academic credit.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED149 LEC
+DTSTART;TZID=America/Los_Angeles:20161001T083000
+CREATED:20160925T011615
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161001T173000;BYDAY=SA
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160930T170000
+LAST-MODIFIED:20160925T011615
+UID:explore_courses7e66280f-d995-4e51-bb1b-cbc6978ab170
+DTSTAMP:20160925T011615
+LOCATION:CCSR 4205
+DESCRIPTION:The quality of health care often depends as much on the interpreter as the provider. This foundation courses prepares bilingual students to work as medical interpreters in hospital and clinic settings. Students learn basic interpreting skills; ethics; communication techniques; medical vocabulary; key healthcare information; communication skills for advocacy; how to draft practical, working solutions, and professional development. By application only; must be an accepted Cardinal Free Clinic (CFC) interpreter volunteer. Applications accepted in Fall for Winter quarter and in Winter for Spring quarter. Students registering for this 2-unit course are required to interpret at the clinic a minimum of 2 weekend sessions; upon completion of this course, students can continue to volunteer at CFC for academic credit.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED149 LEC
+DTSTART;TZID=America/Los_Angeles:20160930T130000
+CREATED:20160925T011615
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160930T170000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T195000
+LAST-MODIFIED:20160925T011615
+UID:explore_courses1da75fac-9083-4a90-a06a-5d3b42f17cac
+DTSTAMP:20160925T011615
+LOCATION:CCSR 4205
+DESCRIPTION:The quality of health care often depends as much on the interpreter as the provider. This foundation courses prepares bilingual students to work as medical interpreters in hospital and clinic settings. Students learn basic interpreting skills; ethics; communication techniques; medical vocabulary; key healthcare information; communication skills for advocacy; how to draft practical, working solutions, and professional development. By application only; must be an accepted Cardinal Free Clinic (CFC) interpreter volunteer. Applications accepted in Fall for Winter quarter and in Winter for Spring quarter. Students registering for this 2-unit course are required to interpret at the clinic a minimum of 2 weekend sessions; upon completion of this course, students can continue to volunteer at CFC for academic credit.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED149 LEC
+DTSTART;TZID=America/Los_Angeles:20160927T180000
+CREATED:20160925T011615
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T195000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

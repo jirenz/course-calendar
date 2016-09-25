@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T122000
+LAST-MODIFIED:20160925T011640
+UID:explore_courses4c8dae9e-0592-49f3-90fc-8103e2c2db05
+DTSTAMP:20160925T011640
+LOCATION:McMurtry Building rm 120
+DESCRIPTION:The Digital Printmaking course explores a combination of experimental printmaking methods and investigates print media within contemporary art and culture. Techniques like large-format inkjet printing and laser plate etching will be demonstrated in class.  Students will have in-class access to a flatbed printer that is capable of printing digital images on a wider variety of materials like glass, fabric, and wood.  Through a series of hands-on labs, students will develop projects using a combination of methods and discussions will address issues relating to print media today; audience, distribution, repetition, originality, and reproduction.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSTUDI148P PRA
+DTSTART;TZID=America/Los_Angeles:20170109T103000
+CREATED:20160925T011640
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

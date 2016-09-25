@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T130000
+LAST-MODIFIED:20160925T011622
+UID:explore_courses176be1c3-628a-450a-8cd6-e53e6b8edfb7
+DTSTAMP:20160925T011622
+LOCATION:Lorry I LokeyStemCellRschG1161
+DESCRIPTION:For graduate, medical and undergraduate students. Review of current literature in both basic and translational medicine as it relates to stem cell biology and/or regenerative medicine in a seminar format consisting of both faculty and student presentations. Includes discussions led by faculty experts in the area covered for that particular session. Topics may range widely, depending on the available literature and students' interests. Students are expected to review the chosen article before class presentations and participate in discussion. Discussion includes methodology and statistical analysis of each study and its relevance to stem cell biology and/or regenerative medicine.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STEMREM280 SEM
+DTSTART;TZID=America/Los_Angeles:20160926T120000
+CREATED:20160925T011622
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T130000;BYDAY=
+END:VEVENT
+END:VCALENDAR

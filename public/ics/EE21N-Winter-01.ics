@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T152000
+LAST-MODIFIED:20160925T011632
+UID:explore_courses5f20f473-28bf-44d5-b7ea-8a1eb18bc5b3
+DTSTAMP:20160925T011632
+LOCATION:Herrin T185
+DESCRIPTION:Nanotechnology is an often used word and it means many things to different people. Scientists and Engineers have some notion of what nanotechnology is, societal perception may be entirely different. In this course, we start with the classic paper by Richard Feynman (&quot;There's Plenty of Room at the Bottom&quot;), which laid down the challenge to the nanotechnologists. Then we discuss two classic books that offer a glimpse of what nanotechnology is: Engines of Creation: The Coming Era of Nanotechnology by Eric Drexler, and Prey by Michael Crichton. Drexler's thesis sparked the imagination of what nano machinery might do, whereas Crichton's popular novel channeled the public's attention to this subject by portraying a disastrous scenario of a technology gone astray. We will use the scientific knowledge to analyze the assumptions and predictions of these classic works. We will draw upon the latest research advances to illustrate the possibilities and impossibilities of nanotechnology.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EE21N ISF
+DTSTART;TZID=America/Los_Angeles:20170111T133000
+CREATED:20160925T011632
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

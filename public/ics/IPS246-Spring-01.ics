@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T112000
+LAST-MODIFIED:20160925T011704
+UID:explore_courses78432982-74ef-4b96-85b4-c83a247b56b4
+DTSTAMP:20160925T011704
+LOCATION:Encina West 101
+DESCRIPTION:China's reemergence as a global player is transforming both China and the international system.  Other nations view China's rise with a mixture of admiration, anxiety, and opportunism.  Some welcome China's rise as a potential counterweight to US preeminence; others fear the potential consequences of Sino-American rivalry and erosion of the US-led international system that has fostered unprecedented peace and prosperity.  This course provides an overview of China's engagement with countries in all regions and on a wide range of issues since it launched the policy of opening and reform in 1978.  The goal is to provide a broad overview and systematic comparisons across regions and issues, and to examine how China's global engagement has changed over time.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:IPS246 SEM
+DTSTART;TZID=America/Los_Angeles:20170404T093000
+CREATED:20160925T011704
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20161114T175000
+LAST-MODIFIED:20160925T011600
+UID:explore_courses7410efaa-e4d6-46fc-b998-05f180d8c174
+DTSTAMP:20160925T011600
+LOCATION:GSB Gunn 102
+DESCRIPTION:This course is designed to provide students with a summary of entrepreneurial processes that have successfully created, developed, and sustained breakthrough ventures. By &quot;breakthrough&quot; we mean ventures that have had a lasting and positive impact, touching millions of lives.  We consider ventures that are not only software related, but also ones based on technology and business models that impact markets ranging from medical devices to small satellites to home robotics systems to clean water and more.  nThe examples are based on the experiences of Norman Winarsky, formerly President of SRI Ventures, and Henry Kressel, Partner Emeritus at Warburg Pincus.  They include companies like Siri, Nuance, Intuitive Surgical, Sandisk, and others.  nThe course leads us from the source of breakthrough venture ideas, to building a great value proposition and business plan, recruiting a team, finding investors and board members, deciding whether to sell or go IPO, and ends with what it takes to build a company that can sustain itself through continuous innovation.  At each step, we follow examples of companies we've helped build, and provide lessons of success as well as failure. We compare and contrast the strategies of these ventures with other popular strategies, such as those proposing &quot;fail fast, develop minimal viable products, and pivot often...&quot; nThe course will be highly interactive, and engage students in discussing their own experiences and future plans.  Invited speakers will include venture capitalists and entrepreneurs who have created breakthrough companies.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OB512 SEM
+DTSTART;TZID=America/Los_Angeles:20161114T150000
+CREATED:20160925T011600
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T175000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

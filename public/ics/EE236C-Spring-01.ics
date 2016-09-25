@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T115000
+LAST-MODIFIED:20160925T011632
+UID:explore_coursescfaa19b9-f32e-4678-871d-ebd263ad1247
+DTSTAMP:20160925T011632
+LOCATION:Hewlett Teaching Center 103
+DESCRIPTION:Atomic systems, spontaneous emission, stimulated emission, amplification. Three- and four-level systems, rate equations, pumping schemes. Laser principles, conditions for steady-state oscillation. Transverse and longitudinal mode control and tuning. Exemplary laser systems: gas (HeNe), solid state (Nd:YAG, Ti:sapphire) and semiconductors. Elements of laser dynamics and noise.  Formerly EE231.  Prerequisites: EE 236B and familiarity with modern physics and semiconductor physics. Recommended: EE 216 and EE 223 (either may be taken concurrently).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EE236C LEC
+DTSTART;TZID=America/Los_Angeles:20170404T103000
+CREATED:20160925T011632
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

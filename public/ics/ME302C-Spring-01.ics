@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170405T122000
+LAST-MODIFIED:20160925T011635
+UID:explore_courses780f80f4-7a90-43d4-b0f0-53872db0e8c0
+DTSTAMP:20160925T011635
+LOCATION:Y2E2 111
+DESCRIPTION:The objective of this course is to develop an understanding for the requirements that go into the design of a highly complex yet easy-to-use product, i.e. the automobile. Students will learn about very different interdisciplinary aspects that characterize the automobile and personal mobility. This is the third part of a 3-quarter seminar series, which build on one another but can be taken independently. This quarter, students will learn from 9 different founders / C-level executives about how they built their mobility startup to change the world of transportation. Founders from Tesla, Faraday Future, Zendrive, Renovo Motors and more will be featured. In hearing these founder stories, students will get an insight not only into the world of entrepreneurship but also the multidisciplinary nature of the transportation industry. The course consists of 50-minute discussions with founders, with students encouraged to participate and ask questions of the founders. To obtain credit, students must attend 7 out of 9 classes including the first class (no exceptions.)
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ME302C SEM
+DTSTART;TZID=America/Los_Angeles:20170405T113000
+CREATED:20160925T011635
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

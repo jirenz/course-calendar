@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T105000
+LAST-MODIFIED:20160925T011711
+UID:explore_courses8a484ee4-130b-4ceb-abf9-9e39ed1b4180
+DTSTAMP:20160925T011711
+LOCATION:Hewlett Teaching Center Rm 101
+DESCRIPTION:Einstein's General Theory of Relativity is a basis for modern ideas of fundamental physics, including string theory, as well as for studies of cosmology and astrophysics. The course begins with an overview of special relativity, and the description of gravity as arising from curved space.  From Riemannian geometry and the geodesic equations, to curvature, the energy-momentum tensor, and the Einstein field equations. Applications of General Relativity: topics may include experimental tests of General Relativity and the weak-field limit, black holes (Schwarzschild, charged Reissner-Nordstrom, and rotating Kerr black holes), gravitational waves (including detection methods), and an introduction to cosmology (including cosmic microwave background radiation, dark energy, and experimental probes). Prerequisite: PHYSICS 121 or equivalent including special relativity.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHYSICS262 LEC
+DTSTART;TZID=America/Los_Angeles:20160926T093000
+CREATED:20160925T011711
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T105000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T192000
+LAST-MODIFIED:20160925T011612
+UID:explore_courses195ff14a-4428-47b4-9e66-cf355ec1aaf7
+DTSTAMP:20160925T011612
+LOCATION:Li Ka Shing Center, room 208
+DESCRIPTION:Stanford Health Advocates and Research in the Emergency Department (SHAR(ED)) is focused on the practical application of and research in social emergency medicine.Emergency Departments (EDs) are the nation's safety nets, for medical as well as social needs. EDs remain the sole access to any medical care for those in need, 24/7, regardless of insurance status. The ED is a unique bridge to the public, and is a compelling site for community partnership, clinical and health services research geared towards impacting population health and policy. Through direct patient contact and community engagement, students help to meet the social needs of ED patients.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EMED125 PRC
+DTSTART;TZID=America/Los_Angeles:20170111T173000
+CREATED:20160925T011612
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T192000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

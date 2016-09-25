@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T112000
+LAST-MODIFIED:20160925T011659
+UID:explore_courses3ac79f34-00ef-4271-a5e2-63a724dd12f1
+DTSTAMP:20160925T011659
+LOCATION:School of Education 128
+DESCRIPTION:This course offers an introduction to the history of Western political thought from the late fifteenth through the nineteenth centuries.  We will consider the development of ideas like individual rights, government by consent, and the protection of private property.  We will also explore the ways in which these ideas continue to animate contemporary political debates.  Thinkers covered will include: Niccol&ograve; Machiavelli, Thomas Hobbes, John Locke, Jean-Jacques Rousseau, Edmund Burke, John Stuart Mill, and Karl Marx.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ETHICSOC131S LEC
+DTSTART;TZID=America/Los_Angeles:20170404T093000
+CREATED:20160925T011659
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

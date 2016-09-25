@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T145000
+LAST-MODIFIED:20160925T011716
+UID:explore_coursesb24e7d72-2dc1-40ac-9365-e6c346433b61
+DTSTAMP:20160925T011716
+LOCATION:Lathrop 299
+DESCRIPTION:Data and algorithms are rapidly transforming law enforcement and criminal justice, including how police officers are deployed, how discrimination is detected, and how sentencing, probation, and parole terms are set. Modern computational and statistical methods offer the promise of greater efficiency, equity, and transparency, but their use also raises complex legal, social, and ethical questions.  In this course, we analyze recent court decisions, discuss methods from machine learning and game theory, and examine the often subtle relationship between law, public policy and statistics. Students work in interdisciplinary teams to explore these issues in an empirical or investigative project of their choice. Prerequisite: An introductory course in applied statistics (e.g. MS&amp;E 125). Recommended: experience programming in R or Python.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOC279 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T133000
+CREATED:20160925T011716
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

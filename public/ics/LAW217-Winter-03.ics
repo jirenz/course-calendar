@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T094000
+LAST-MODIFIED:20160925T011603
+UID:explore_courses32b0bf36-5502-4f03-bb8d-b1f56ca823d0
+DTSTAMP:20160925T011603
+LOCATION:
+DESCRIPTION:This course is part of the required first-year JD curriculum.  It deals with possession and ownership of land and with the incidents thereof, including private and public restrictions on its use and development, nuisance, trespass, concurrent interests, landlord and tenant, and eminent domain.  Attendance and final exam. Your instructor will advise you of other basis of grading.  This course is open to first-year Law School students only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW217 LEC
+DTSTART;TZID=America/Los_Angeles:20170109T083000
+CREATED:20160925T011603
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T094000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T110000
+LAST-MODIFIED:20160925T011603
+UID:explore_courses3cccfdc7-ba31-4c06-8132-b111c3dbdab0
+DTSTAMP:20160925T011603
+LOCATION:
+DESCRIPTION:This course is part of the required first-year JD curriculum.  It deals with possession and ownership of land and with the incidents thereof, including private and public restrictions on its use and development, nuisance, trespass, concurrent interests, landlord and tenant, and eminent domain.  Attendance and final exam. Your instructor will advise you of other basis of grading.  This course is open to first-year Law School students only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW217 LEC
+DTSTART;TZID=America/Los_Angeles:20170111T095000
+CREATED:20160925T011603
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T110000;BYDAY=WE,TH,FR
+END:VEVENT
+END:VCALENDAR

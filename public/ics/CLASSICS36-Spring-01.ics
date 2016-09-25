@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T145000
+LAST-MODIFIED:20160925T011654
+UID:explore_courses31f24f37-b98d-4a90-86da-0fb8f450634b
+DTSTAMP:20160925T011654
+LOCATION:McCullough 115
+DESCRIPTION:(Formerly CLASSGEN 119.)  Interactions of gender and power in ancient Roman politics, religion, spectacles, and daily life.  Masculinity and femininity in founding legends and public rituals; the ambiguous status of Vestal Virgins; gendered behavior in the Roman Forum; the spatial logic of prostitution; sexual characterizations of good vs. bad emperors in ancient texts; gender and time in Roman houses; inversions of gender and space in early Christian martyr narratives.  Readings include modern gender theory as well as ancient Roman texts and material culture.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CLASSICS36 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T133000
+CREATED:20160925T011654
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T112000
+LAST-MODIFIED:20160925T011611
+UID:explore_coursesf16642bc-b57d-43e1-813f-60ca9b054a88
+DTSTAMP:20160925T011611
+LOCATION:Li Ka Shing Center, rms203/204
+DESCRIPTION:Focus is on major principles of cancer systems biology research that integrates experimental and computational biology in order to systematically unravel the complexity of cancer.  The opportunity to embark on cancer systems biology research has been enabled by the rapid emergence of numerous and increasingly accessible technologies that provide global DNA, RNA and protein expression profiles of cells under a variety of conditions following environmental, drug and genetic perturbations. Course addresses the challenge of how to analyze high-dimensional and highly-multiplexed data in order to synthesize biologically and clinically relevant insights and generate hypotheses for further functional testing. Aims to broaden student exposure to the experimental and computational skills needed to apply the emerging principles of systems biology to the study of cancer.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CBIO243 LEC
+DTSTART;TZID=America/Los_Angeles:20170403T093000
+CREATED:20160925T011611
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,FR
+END:VEVENT
+END:VCALENDAR

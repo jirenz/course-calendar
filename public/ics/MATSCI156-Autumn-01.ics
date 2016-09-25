@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T115000
+LAST-MODIFIED:20160925T011633
+UID:explore_coursesee447999-2969-46d6-874d-3aded95a7b2d
+DTSTAMP:20160925T011633
+LOCATION:Herrin T175
+DESCRIPTION:Operating principles and applications of emerging technological solutions to the energy demands of the world. The scale of global energy usage and requirements for possible solutions. Basic physics and chemistry of solar cells, fuel cells, and batteries. Performance issues, including economics, from the ideal device to the installed system. The promise of materials research for providing next generation solutions. Undergraduates register in 156 for 4 units; graduates register in 256 for 3 units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MATSCI156 LAB
+DTSTART;TZID=America/Los_Angeles:20160927T103000
+CREATED:20160925T011633
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T162000
+LAST-MODIFIED:20160925T011627
+UID:explore_courses2b929cc3-9d23-4055-a396-186c83a15782
+DTSTAMP:20160925T011627
+LOCATION:Y2E2 266
+DESCRIPTION:Traditional methods of depicting shape, form, and surface are applied to the discipline of architectural drawing. Students develop abilities to observe visual phenomenon analytically and translate subjects onto a two-dimensional surface  in a variety of media. Drawing techniques such as modeling form, shading, rendering materials, and articulating landscaping are explored.  Linear perspective exercises provide a foundation for the construction of drawings to illustrate cohesive design proposals. Step-by-step constructions, quick freehand sketches from slides, and on-location studies.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE133F LEC
+DTSTART;TZID=America/Los_Angeles:20170110T133000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

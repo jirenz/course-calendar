@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T115000
+LAST-MODIFIED:20160925T011604
+UID:explore_coursesf3b2bd6a-ff9e-4e3b-a6c6-68fceba6d171
+DTSTAMP:20160925T011604
+LOCATION:Lathrop 190
+DESCRIPTION:The Anthropocene refers to the proposed geologic age defined by the global footprint of humankind. It's an acknowledgement of the tremendous influence people and societies exert on Earth systems. Students taking the course will identify a subject expert, workshop story ideas with fellow students and instructors, conduct interviews, iteratively write audio scripts, and learn the skills necessary to produce final audio podcast as their final project. Our expectation is that the final projects will be published on the award-winning Generation Anthropocene podcast, with possible opportunities to cross post in collaboration with external media partners. Students taking EARTHSYS 135/235 are strongly encouraged to take EARTHSYS 135A/235A beforehand. (Meets Earth Systems WIM requirement).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EARTHSYS235 SEM
+DTSTART;TZID=America/Los_Angeles:20170110T103000
+CREATED:20160925T011604
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

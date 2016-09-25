@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T145000
+LAST-MODIFIED:20160925T011624
+UID:explore_coursesf826c991-ac0f-4d6f-a849-e0b62dfb92eb
+DTSTAMP:20160925T011624
+LOCATION:School of Education 210
+DESCRIPTION:Space exploration is truly fascinating. From the space race led by governments as an outgrowth of the Cold War to the new era of space commercialization led by private companies and startups, more than 50 years have passed, characterized by great leaps forward and discoveries. We will learn how space missions are designed, from concept to execution, based on the professional experience of the lecturer and numerous examples of spacecraft, including unique hardware demonstrations by startups of the Silicon Valley. We will study the essentials of systems engineering as applicable to a variety of mission types, for communication, navigation, science, commercial, and military applications. We will explore the various elements of a space mission, including the spacecraft, ground, and launch segments with their functionalities. Special emphasis will be given to the design cycle, to understand how spacecraft are born, from the stakeholders' needs, through analysis, synthesis, all the way to their integration and validation. We will compare the current designs with those employed in the early days of the space age, and show the importance of economics in the development of spacecraft. Finally, we will brainstorm startup ideas and apply the concepts learned to a notional space mission design as a team.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AA118N ISF
+DTSTART;TZID=America/Los_Angeles:20160926T133000
+CREATED:20160925T011624
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T112000
+LAST-MODIFIED:20160925T011608
+UID:explore_coursesddc6961d-7df8-4cbe-9183-f0eec9ef0625
+DTSTAMP:20160925T011608
+LOCATION:Lathrop 290
+DESCRIPTION:What is human well-being? How do we define it? How do we measure it? What do we mean when we talk about certain parts of the world as &quot;developed&quot; and others as &quot;underdeveloped&quot; or &quot;developing&quot;? How do improvements in human well-being come about? What happens when some people become much better off and others do not? In this course, we will use African experiences, past and present, to think critically and reflectively about concepts whose meaning we all too often take for granted: not only well-being and development, but also wealth and health, equality and inequality. Using the tools and techniques of four different disciplines -- history, anthropology, public health, and engineering -- we will tackle essential questions about the meaning of well-being and the indices by which we measure it, the role of politics in the development process, the importance of historical and cultural contexts, and the sometimes unanticipated challenges that individuals, institutions, and societies face when they seek to promote development and improve human well-being.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:THINK42 DIS
+DTSTART;TZID=America/Los_Angeles:20170110T103000
+CREATED:20160925T011608
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

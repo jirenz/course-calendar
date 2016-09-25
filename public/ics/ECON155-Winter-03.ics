@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170113T112000
+LAST-MODIFIED:20160925T011658
+UID:explore_courses3e2e5e18-9ef7-43b0-9e24-30ea5b5ea595
+DTSTAMP:20160925T011658
+LOCATION:Littlefield 103
+DESCRIPTION:Economic sources of environmental problems and alternative policies for dealing with them (technology standards, emissions taxes, and marketable pollution permits). Evaluation of policies addressing regional air pollution, global climate change, water allocation in the western U.S., and the use of renewable resources. Connections between population growth, economic output, environmental quality, and human welfare. Prerequisite: ECON 50.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON155 DIS
+DTSTART;TZID=America/Los_Angeles:20170113T103000
+CREATED:20160925T011658
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

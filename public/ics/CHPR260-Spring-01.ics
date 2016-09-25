@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T122000
+LAST-MODIFIED:20160925T011612
+UID:explore_courses44ebf41f-19d8-4326-89c6-7959115d2556
+DTSTAMP:20160925T011612
+LOCATION:Li Ka Shing Center, room 209
+DESCRIPTION:Coordinated seminar series presenting evidence-based health promotion and disease prevention guidelines by research and clinical faculty of multiple divisions of Stanford's Department of Medicine, including cardiovascular medicine, oncology, nephrology, immunology and rheumatology, infectious diseases, endocrinology, gerontology and metabolism, gastroenterology and hepatology, hematology, blood and marrow transplantation, pulmonary and critical care medicine, general medical disciplines (including family medicine). Key prevention issues addressed in primary care and outcomes research, biomedical informatics research and the Stanford Prevention Research Center also presented. Enrollment priority given to CHPR Master's students. CHPR students must enroll for letter grade. Prerequisite: HUMBIO 126/CHPR 226 or CHPR 201 or consent of instructor.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHPR260 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T110000
+CREATED:20160925T011612
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

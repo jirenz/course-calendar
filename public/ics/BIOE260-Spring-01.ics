@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T102000
+LAST-MODIFIED:20160925T011625
+UID:explore_coursesc489c875-88d3-498b-a3e6-f3a5a7a2fd97
+DTSTAMP:20160925T011625
+LOCATION:CCSR 4205
+DESCRIPTION:Principles of tissue engineering and design strategies for practical applications for tissue repair. Topics include tissue morphogenesis, stem cells, biomaterials, controlled drug and gene delivery, and paper discussions. Students will learn skills for lab research through interactive lectures, paper discussions and research proposal development. Students work in small teams to work on develop research proposal for authentic tissue engineering problems. Lab sessions will teach techniques for culturing cells in 3D, as well as fabricating and characterizing hydrogels as 3D cell niche.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOE260 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T090000
+CREATED:20160925T011625
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170407T162000
+LAST-MODIFIED:20160925T011625
+UID:explore_coursesb1b51dae-c061-41bf-80b2-92231bc379f6
+DTSTAMP:20160925T011625
+LOCATION:Alway Building, Room M106
+DESCRIPTION:Principles of tissue engineering and design strategies for practical applications for tissue repair. Topics include tissue morphogenesis, stem cells, biomaterials, controlled drug and gene delivery, and paper discussions. Students will learn skills for lab research through interactive lectures, paper discussions and research proposal development. Students work in small teams to work on develop research proposal for authentic tissue engineering problems. Lab sessions will teach techniques for culturing cells in 3D, as well as fabricating and characterizing hydrogels as 3D cell niche.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOE260 LEC
+DTSTART;TZID=America/Los_Angeles:20170407T133000
+CREATED:20160925T011625
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

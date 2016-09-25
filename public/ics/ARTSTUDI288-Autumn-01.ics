@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T182000
+LAST-MODIFIED:20160925T011640
+UID:explore_courses40a4d23d-7bad-426c-9728-279b1b83b4c7
+DTSTAMP:20160925T011640
+LOCATION:McMurtry Building rm 007
+DESCRIPTION:The documentary image has constituted a keystone of photographic practice since the earliest days of the medium's history. In this class, we will examine the relevance and validity of this mode of expression and communication in contemporary photography. We will look at the rich history of documentary photography and examine the impetus behind the historical efforts that shaped its tradition. We will also discuss the differences between documentary photography and photojournalism as well as explore the distinction between photography as a personal document and as an examination of an external idea or issue. Prerequisite: ARTSTUDI 170, ARTSTUDI 171, or equivalent.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSTUDI288 PRA
+DTSTART;TZID=America/Los_Angeles:20160927T163000
+CREATED:20160925T011640
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

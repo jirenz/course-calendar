@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T162000
+LAST-MODIFIED:20160925T011605
+UID:explore_courses07501771-d598-4794-80c7-50d0981d3235
+DTSTAMP:20160925T011605
+LOCATION:Shriram Ctr BioChemE 052
+DESCRIPTION:How do we work together to solve environmental problems? Across the globe, who has a voice, and who ultimately decides how to balance conservation and development?  How do we build governance institutions that facilitate both environmental sustainability and social equity? This seminar on environmental governance will focus on the challenges and opportunities for managing common-pool resources, like fisheries, forests, and water. Because managing environmental resources is often about managing people, we will explore the motivations underlying human behavior towards the environment. We will discuss how institutions encode our cultural values and beliefs, and how we can reshape these institutions to achieve more sustainable outcomes. Coursework includes foundational readings and a pragmatic exploration of case studies. Teaching cases address topics in community-based conservation, international protected areas, market-based approaches, coping with environmental risk, and other themes. Interested undergraduate and graduate students from any discipline are welcome.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ENVRES250 SEM
+DTSTART;TZID=America/Los_Angeles:20170110T150000
+CREATED:20160925T011605
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

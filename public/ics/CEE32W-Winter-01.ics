@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170113T122000
+LAST-MODIFIED:20160925T011627
+UID:explore_courses01564187-e44d-4cd3-8dee-eaae5372894c
+DTSTAMP:20160925T011627
+LOCATION:Y2E2 101
+DESCRIPTION:As designers, how do we lead a life with meaning?  What is a fuulfilling life in design and how do we develop personal and professional practices that support this aim?  This experiential course will explore how to nourish a purposeful life amidst a culture that can value productivity over presence in the field, identifying &quot;busyness&quot; as a marker of personal worth.  How do we bring depth to not only the design process but our individual and collective lives as well?  Investigations will include: exploring personal passions, discovering  meaningful work in design, understanding work/life/play balance, practicing self-reflection, integrating wellness, cultivating community, and practicing design with integrity.  Our time in class will be enjoyed sharing meals, discourse, play, and reflections with both the class cohort and designers that lead lives or purpose and meaning.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE32W LEC
+DTSTART;TZID=America/Los_Angeles:20170113T103000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

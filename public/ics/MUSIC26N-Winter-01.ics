@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T162000
+LAST-MODIFIED:20160925T011708
+UID:explore_coursese4c1f93e-7fb3-4af4-bdb7-b3b60ad6f142
+DTSTAMP:20160925T011708
+LOCATION:Braun 131
+DESCRIPTION:The striking originality of Japanese contemporary culture seems to defy unifying pressures of globalization. What are the sources of this originality? Can it be traced to the unique and sophisticated art forms like rock gardens, haiku, tea ceremony, martial arts, ikebana and Noh Theater or to the illusive aesthetic notions of wabi, sabi, y&ucirc;gen, ma or jo-ha-ky&ucirc;? Exploration of Japanese arts through comparative examination and direct engagement. Creative projects and workshops in traditional Japanese arts.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC26N ISF
+DTSTART;TZID=America/Los_Angeles:20170109T150000
+CREATED:20160925T011708
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

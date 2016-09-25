@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170112T115000
+LAST-MODIFIED:20160925T011615
+UID:explore_courses8ef033f0-855c-4c12-88b9-e6a57e0b2283
+DTSTAMP:20160925T011615
+LOCATION:Li Ka Shing Center,rms101/102
+DESCRIPTION:First course in a two-course series exploring microbiology, pathogenesis, and clinical issues associated with infectious diseases. Patient cases springboard discussion on viral, bacterial, fungal, protozoal and helminthic pathogens. Online videos and self-assessments followed by interactive sessions and problem sets.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:INDE263 LEC
+DTSTART;TZID=America/Los_Angeles:20170112T113000
+CREATED:20160925T011615
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T112000
+LAST-MODIFIED:20160925T011615
+UID:explore_coursesa05f2f54-634b-48af-a0e3-028c36c83df9
+DTSTAMP:20160925T011615
+LOCATION:Li Ka Shing Center,rms101/102
+DESCRIPTION:First course in a two-course series exploring microbiology, pathogenesis, and clinical issues associated with infectious diseases. Patient cases springboard discussion on viral, bacterial, fungal, protozoal and helminthic pathogens. Online videos and self-assessments followed by interactive sessions and problem sets.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:INDE263 LEC
+DTSTART;TZID=America/Los_Angeles:20170110T093000
+CREATED:20160925T011615
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

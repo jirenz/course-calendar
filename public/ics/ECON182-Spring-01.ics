@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T112000
+LAST-MODIFIED:20160925T011658
+UID:explore_courses37839dee-bf9f-4588-960c-bfb8738d2603
+DTSTAMP:20160925T011658
+LOCATION:Econ 218
+DESCRIPTION:Rigorous introduction to the theory of matching and resource allocation, and its application to practical market design. Theory covers two-sided matching, &quot;house allocation&quot; problems, random assignment, and their variants. Applied topics include school choice, labor market, house allocation, and organ allocation for transplantation.  Final paper required.nForms a sequence with ECON 180 and ECON 181, but can be taken independently.nPrerequisites: Experience with abstract mathematics and willingness tonwork hard. No prior knowledge of economics is required, although basic knowledge in game theory is useful.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON182 LEC
+DTSTART;TZID=America/Los_Angeles:20170403T093000
+CREATED:20160925T011658
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

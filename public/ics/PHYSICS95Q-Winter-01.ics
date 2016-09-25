@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T125000
+LAST-MODIFIED:20160925T011711
+UID:explore_coursese8d4d78a-e8ac-428d-99ca-9b1f490b32ef
+DTSTAMP:20160925T011711
+LOCATION:Hewlett Teaching Center 103
+DESCRIPTION:Richard Feynman has famously said, Philosophy of science is about as useful to scientists as ornithology is to birds. A closer look at key moments in the history of physics, however, reveals a different picture. Contrary to the misconception that philosophy has nothing to offer to science in general, and physics in particular, watershed moments in the development of physics were inspired and motivated by deeply held philosophical principles. Similarly, important developments in physics have generated important and difficult philosophical questions. In this sophomore seminar we will explore three significant moments in the development of physics surrounding the works of Newton, Einstein, and Bohr. We will analyze the relationship between the prevailing philosophical views they espoused and the physics they produced. How did Newton come to the view of absolute and fixed space and time? What led Einstein to reject the notion of a fixed space and time and propose a relativistic, and even dynamic space-time? What is Bohr's influential doctrine of complementary, and why did several generations of physicists believe it to be an adequate philosophical response to quantum mechanics? We will see that the relationship between philosophy and physics is more similar to the relationship between mathematics and physics where progress in one area is often preceded and followed by progress in the second.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHYSICS95Q ISS
+DTSTART;TZID=America/Los_Angeles:20170109T113000
+CREATED:20160925T011711
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T125000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

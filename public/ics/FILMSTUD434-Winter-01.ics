@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T212000
+LAST-MODIFIED:20160925T011700
+UID:explore_coursese1165a20-7c6e-44d0-8d2d-0f530ea680bb
+DTSTAMP:20160925T011700
+LOCATION:McMurtry Building rm 115
+DESCRIPTION:This seminar investigates relationships between performance, gender, and the body politic through a discussion of gender performance, embodiment, biopolitics, and body cultures. A weekly engagement with film texts, as well as theater, dance, and the visual arts will be directed towards analyses of the social production of the body and the mechanisms of its representation. Readings will include Butler, Sedgwick, hooks, Mulvey, Halberstam, Foucault etc.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD434 SEM
+DTSTART;TZID=America/Los_Angeles:20170109T193000
+CREATED:20160925T011700
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T212000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T162000
+LAST-MODIFIED:20160925T011700
+UID:explore_coursesc55a39f5-6c31-40c5-9cce-37a5e477b31f
+DTSTAMP:20160925T011700
+LOCATION:McMurtry Building rm 350
+DESCRIPTION:This seminar investigates relationships between performance, gender, and the body politic through a discussion of gender performance, embodiment, biopolitics, and body cultures. A weekly engagement with film texts, as well as theater, dance, and the visual arts will be directed towards analyses of the social production of the body and the mechanisms of its representation. Readings will include Butler, Sedgwick, hooks, Mulvey, Halberstam, Foucault etc.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD434 SEM
+DTSTART;TZID=America/Los_Angeles:20170110T133000
+CREATED:20160925T011700
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

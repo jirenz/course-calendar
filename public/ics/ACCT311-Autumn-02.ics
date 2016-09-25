@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T114500
+LAST-MODIFIED:20160925T011557
+UID:explore_courses5292d5e4-44a6-466d-a265-0502cc5213b9
+DTSTAMP:20160925T011557
+LOCATION:GSB McClelland 109
+DESCRIPTION:This course is designed to enhance students' understanding of current financial reporting issues through a detailed analysis and comparison of U.S. and International Financial Reporting Standards. The course will cover the development of accounting standards, implementation of these standards, and how to interpret output from these standards. The course highlights intermediate and advanced financial reporting topics including fair value accounting, asset securitization, consolidation including special purpose entities, foreign currency translation, derivatives and hedging, leases, revenue recognition, pensions, and equity compensation. The course also focuses on evaluating emerging financial reporting issues such as proposed financial reporting standards put forth by U.S. or international standard setting bodies. This course should help students better understand the environment governing global financial reporting and how firms develop financial statement information within this environment.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ACCT311 CAS
+DTSTART;TZID=America/Los_Angeles:20160927T100000
+CREATED:20160925T011557
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T114500;BYDAY=TU,FR
+END:VEVENT
+END:VCALENDAR

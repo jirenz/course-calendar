@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T115000
+LAST-MODIFIED:20160925T011633
+UID:explore_coursesc83aba81-efb1-467f-a5fa-c12b49f429c3
+DTSTAMP:20160925T011633
+LOCATION:NVIDIA Auditorium
+DESCRIPTION:Coherent approach to decision making, using the metaphor of developing a structured conversation having desirable properties, and producing actional thought that leads to clarity of action. Socratic instruction; computational problem sessions. Emphasis is on creation of distinctions, representation of uncertainty by probability, development of alternatives, specification of preference, and the role of these elements in creating a normative approach to decisions. Information gathering opportunities in terms of a value measure. Relevance and decision diagrams to represent inference and decision. Principles are applied to decisions in business, technology, law, and medicine. See 352 for continuation.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MS&E252 LEC
+DTSTART;TZID=America/Los_Angeles:20160927T103000
+CREATED:20160925T011633
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T175000
+LAST-MODIFIED:20160925T011600
+UID:explore_courses87266dcf-91ba-4ad3-895f-ac2cb6f17aff
+DTSTAMP:20160925T011600
+LOCATION:GSB Zambrano 301
+DESCRIPTION:PRE-QUALIFICATION IS REQUIRED BY THE DEADLINE (APPROXIMATELY FIVE WEEKS BEFORE THE QUARTER BEGINS). The focus of this course is to increase one's competencies in building more effective relationships. Learning is primarily through feedback from other group members. This course is very involving and, at times, can be quite emotional. However, this course is not a substitute for therapy; we deal more with inter-personal issues than with intra-personal ones. If you are in therapy, please talk this over with your therapist and get their advice before enrolling in this course. The students are divided into three 12-person T-groups that meet the same evening of the class. It is very important to note that when you decide to take this course, you make an explicit contract to be actively involved. Attendance to the first class is required for the 1-day/week sections of this class. Attendance to the first two classes is required for the 2-day/week sections of this class. Failure to attend the first class(es) will result in an automatic drop. Students who are waitlisted must attend the first meeting of each section they are waitlisted for in order to secure a place in the course should space open up. It is the student's responsibility to notify respective OB 374 faculty of your attendance and wish to fulfilling your waitlist requirement. T-group meetings for all sections will meet for 3 hours the same evening as 1-day/week class and the same evening of the first day of the 2-day/week section. The class has a weekend retreat the seventh or eighth week (check your specific section) of the course. Because of the highly interactive nature of this course, it is very important that all students attend all sessions. Missing class, class T-group, evening T-group, or any portion of the weekend will negatively influence your grade and may result in a student's grade being dropped one grade level (for each absence). Arriving late on Friday to the weekend will negatively influence your grade level - missing any more of the weekend beyond that will result in a U. Students must pre-qualify before taking this course. Qualification assignments are due approximately five weeks prior to the quarter. For exact due dates and complete assignment details, see: https://sites.google.com/a/stanford.edu/ob374-prequalification/
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OB374 SEM
+DTSTART;TZID=America/Los_Angeles:20160929T150000
+CREATED:20160925T011600
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T220000
+LAST-MODIFIED:20160925T011600
+UID:explore_courses538d2b43-9f27-4d02-8388-c0f89a466d65
+DTSTAMP:20160925T011600
+LOCATION:
+DESCRIPTION:PRE-QUALIFICATION IS REQUIRED BY THE DEADLINE (APPROXIMATELY FIVE WEEKS BEFORE THE QUARTER BEGINS). The focus of this course is to increase one's competencies in building more effective relationships. Learning is primarily through feedback from other group members. This course is very involving and, at times, can be quite emotional. However, this course is not a substitute for therapy; we deal more with inter-personal issues than with intra-personal ones. If you are in therapy, please talk this over with your therapist and get their advice before enrolling in this course. The students are divided into three 12-person T-groups that meet the same evening of the class. It is very important to note that when you decide to take this course, you make an explicit contract to be actively involved. Attendance to the first class is required for the 1-day/week sections of this class. Attendance to the first two classes is required for the 2-day/week sections of this class. Failure to attend the first class(es) will result in an automatic drop. Students who are waitlisted must attend the first meeting of each section they are waitlisted for in order to secure a place in the course should space open up. It is the student's responsibility to notify respective OB 374 faculty of your attendance and wish to fulfilling your waitlist requirement. T-group meetings for all sections will meet for 3 hours the same evening as 1-day/week class and the same evening of the first day of the 2-day/week section. The class has a weekend retreat the seventh or eighth week (check your specific section) of the course. Because of the highly interactive nature of this course, it is very important that all students attend all sessions. Missing class, class T-group, evening T-group, or any portion of the weekend will negatively influence your grade and may result in a student's grade being dropped one grade level (for each absence). Arriving late on Friday to the weekend will negatively influence your grade level - missing any more of the weekend beyond that will result in a U. Students must pre-qualify before taking this course. Qualification assignments are due approximately five weeks prior to the quarter. For exact due dates and complete assignment details, see: https://sites.google.com/a/stanford.edu/ob374-prequalification/
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OB374 SEM
+DTSTART;TZID=America/Los_Angeles:20160929T190000
+CREATED:20160925T011600
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T220000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

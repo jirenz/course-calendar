@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T102000
+LAST-MODIFIED:20160925T011715
+UID:explore_courses9b8c9baf-8716-42f2-a349-ddc76de10399
+DTSTAMP:20160925T011715
+LOCATION:School of Education 207
+DESCRIPTION:This course discusses the transition from predominantly poetic to predominantly prosaic creativity in the Russian literature of the first half of the 19th century Russian literature and the birth of the great Russian novel. It covers three major Russian writers -- Alexander Pushkin, Mikhail Lermontov and Nikolai Gogol -- and examines the changes in the Russian literary scene affected by their work. An emphasis is placed on close reading of literary texts and analysis of literary techniques employed in them. Taught in English.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SLAVIC345 SEM
+DTSTART;TZID=America/Los_Angeles:20160927T090000
+CREATED:20160925T011715
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

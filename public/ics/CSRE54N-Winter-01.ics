@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T162000
+LAST-MODIFIED:20160925T011655
+UID:explore_courses5d27977f-1352-4195-b7a0-105da81cc142
+DTSTAMP:20160925T011655
+LOCATION:GSB Littlefield 104
+DESCRIPTION:Preference to freshmen.  We will examine the struggles of African American women to define their own lives and improve the social, economic, political and cultural conditions of black communities. Topics will include women&iquest;s enslavement and freedom, kinship and family relations, institution and community building, violence, labor and leisure, changing gender roles, consumer and beauty culture, social activism, and the politics of sexuality.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CSRE54N ISF
+DTSTART;TZID=America/Los_Angeles:20170110T150000
+CREATED:20160925T011655
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

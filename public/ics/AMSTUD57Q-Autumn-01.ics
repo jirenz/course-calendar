@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T162000
+LAST-MODIFIED:20160925T011636
+UID:explore_courses4be34243-43dc-4361-83f0-e209a352c06f
+DTSTAMP:20160925T011636
+LOCATION:Encina West 202
+DESCRIPTION:Preference to sophomores. &iquest;The humor, the sadness, the EVERYTHING-ness and American-ness of these pictures!&iquest; wrote Jack Kerouac of photographer Robert Frank&iquest;s iconic collection, The Americans. This seminar takes Kerouac&iquest;s enthusiasm and applies it to ten American photographs, a new one each week. Examples span the medium&iquest;s history and were taken as art, science, commerce, journalism, or personal mementos. Close study of the photo of the week will address how it looks and why; its history, from initial responses to later reception; and its relationship to the larger American visual and cultural context. Also under discussion: What story does this set of pictures tell about Americanness?  What might another set of photos convey?
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AMSTUD57Q ISS
+DTSTART;TZID=America/Los_Angeles:20160926T150000
+CREATED:20160925T011636
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

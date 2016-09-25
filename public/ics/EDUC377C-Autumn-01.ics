@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T145000
+LAST-MODIFIED:20160925T011602
+UID:explore_courses2d91c75b-017c-428b-8c4b-36ce83dce355
+DTSTAMP:20160925T011602
+LOCATION:GSB McClelland 104
+DESCRIPTION:Appropriate for any student driven to effect positive social change from either the for-profit or nonprofit sector, Philanthropy will challenge students to expand their own strategic thinking about philanthropic aspiration and action. In recent decades, philanthropy has become an industry in itself - amounting to over $358 billion in the year 2014. Additionally, the last decade has seen unprecedented innovation in both philanthropy and social value creation. This course explores the key operational and strategic distinctions between traditional philanthropic entities, such as community foundations, private foundations and corporate foundations; and innovative models, including funding intermediaries, open-source platforms, technology-driven philanthropies, impact investing and venture philanthropy. Course work will include readings and case discussions that encourage students to analyze both domestic and global philanthropic strategies as they relate to foundation mission, grantmaking, evaluation, financial management, infrastructure, knowledge management, policy change and board governance. Guest speakers will consist of high profile philanthropists, foundation presidents, social entrepreneurs and Silicon Valley business leaders creating new philanthropic models. The course will also provide students with real-world grantmaking experience in completing nonprofit organizational assessments and making grants to organizations totaling $20,000.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC377C CAS
+DTSTART;TZID=America/Los_Angeles:20160927T133000
+CREATED:20160925T011602
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160928T181500
+LAST-MODIFIED:20160925T011603
+UID:explore_courses2d820813-223e-4f7b-954a-5da56f56544b
+DTSTAMP:20160925T011603
+LOCATION:Law 230
+DESCRIPTION:(Formerly Law 393)  The way in which the law responds to violations of rights is no less important than the way in which those rights are allocated. The law of remedies determines the law's response to violations of rights, and in so doing, it delineates their boundaries and gives them legal meaning. Hence, the study of the law of remedies is closely related to the study of the substantive law, each field shedding light on the other. This course focuses on remedies in Contracts and Torts, referring to the goals of the substantive law to better understand the remedial law. It explores the law of damages in both Contracts and Torts and covers topics such as: restitutionary damages; probabilistic recoveries; offsetting benefits and offsetting risks; liquidated damages; damages for pure economic losses; and damages for severe bodily injury and death. The course also covers the remedies of specific performance in Contracts and injunction in Torts and compares and contrasts these remedies with monetary ones. Some of the defenses available to both the breaching party and the wrongdoer, such as mitigation of damages and comparative fault, in Torts and Contracts will also be discussed. Finally, the course will explores a new topic, recently identified in scholarly writings, which is &quot;Aggregation of Claims.&quot;  Elements used in grading:  Exam.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW7038 LEC
+DTSTART;TZID=America/Los_Angeles:20160928T161500
+CREATED:20160925T011603
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T181500;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

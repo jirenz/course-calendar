@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T200000
+LAST-MODIFIED:20160925T011612
+UID:explore_courses7aee9b2a-dbaf-4ebb-b16f-3e0bd818fd8b
+DTSTAMP:20160925T011612
+LOCATION:Li Ka Shing Center,rms101/102
+DESCRIPTION:Basics of life support outside the hospital setting. Topics include emergency patient assessments for cardiac, respiratory, and neurological emergencies, as well as readiness training for emergencies on and off campus. Lectures, practicals, and applications. Students taking the class for 4 units complete additional FEMA training and additional clinical rotations. Upon completion of SURG 111A,B,C or 211A,B,C, students are eligible to sit for the National Registry EMT licensure exam. Freshmen and Sophomores are highly encouraged to apply. Prerequisites: application (see http://surg211.stanford.edu), and consent of instructor. There will be a course fee of $60 when enrolling in this course.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EMED211A LEC
+DTSTART;TZID=America/Los_Angeles:20160927T180000
+CREATED:20160925T011612
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T200000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

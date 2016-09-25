@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T162000
+LAST-MODIFIED:20160925T011558
+UID:explore_courses9a9ee900-8d52-4d55-87a3-ae1b13a6eb8e
+DTSTAMP:20160925T011558
+LOCATION:GSB Patterson 102
+DESCRIPTION:This course covers the foundations of corporate finance including the management of capital structure, financial forecasting, dividend policy, financial distress, cost of capital and capital budgeting. It discusses the major financial decisions made by corporate managers and the impact of those decisions on investors and the value of the firm. Topics include criteria for understanding the valuation of financial assets and liabilities, relationships between risk and return, market efficiency, and the role of derivative securities, including options. The course also provides coverage of the role of financial markets in the operations of the firm.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FINANCE229 SEM
+DTSTART;TZID=America/Los_Angeles:20160927T150000
+CREATED:20160925T011558
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

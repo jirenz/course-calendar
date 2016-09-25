@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170130T175000
+LAST-MODIFIED:20160925T011600
+UID:explore_courses8546a398-dfa1-44c2-91f5-79d1210a8473
+DTSTAMP:20160925T011600
+LOCATION:
+DESCRIPTION:In today's competitive marketplace, companies -- from Fortune 500 firms to early stage start-ups -- rely on intellectual property (IP) to keep them one step ahead of the game. The role of IP as a strategic business asset has been punctuated by the recent multi-billion dollar deals and acquisitions involving patent portfolios, as well as the fierce Mobile market patent wars raging in courts around the world.  This class will explore the value of corporate IP assets by thinking strategically about how to effectively leverage the knowledge, trade secrets, patents, technologies, trademarks, structures and processes that are critical across industries. We will focus on the elements of a successful IP strategy, and how that strategy is shaped by economic, strategic, legal, regulatory, and market factors. nnThrough a combination of case studies, class discussion and guest speakers, we will cover a variety of issues shaping a successful IP strategy in today's global business environment. Some of the topics we will cover include: nn* Building and managing an IP portfolio that is aligned with business objectives;n* The innovation cycle and technology transfer mechanisms;n* IP portfolio monetization strategies (e.g., licensing, sale, enforcement);n* IP considerations in Mergers &amp; Acquisitions;n* Tax planning related to IP (e.g., cross border transfer pricing, IP holding companies);n* Managing corporate IP litigation risk;n* Patent reform and the role of the U.S. Patent &amp; Trademark Office (USPTO);n* IP rights challenges while doing business in developing countries;n* IP strategies for start-ups &amp; entrepreneurs.nnMs. Efrat Kasznik is an IP valuation and strategy expert with more than twenty years of experience advising companies of all sizes, from startups to Fortune 100s, on extracting value from their IP. She is the founder and President of Foresight Valuation Group, an IP consulting and startup advisory firm providing valuation and strategy services for a range of purposes, including M&amp;A, financial reporting, technology commercialization decisions, tax compliance, transfer pricing, and litigation damages. Ms. Kasznik has been a co-founder, CFO and advisor to several startups and incubators in the US and Europe, including the Stanford Venture Studio at the GSB. She is listed on the IAM 300 list of World Leading IP Strategists, and is a member of the leadership committee of the High Tech Sector, Licensing Executives Society.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STRAMGT532 CAS
+DTSTART;TZID=America/Los_Angeles:20170130T150000
+CREATED:20160925T011600
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170203T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170213T175000
+LAST-MODIFIED:20160925T011600
+UID:explore_courses1bc0097f-df79-4a7b-9faf-6df22f2dba67
+DTSTAMP:20160925T011600
+LOCATION:
+DESCRIPTION:In today's competitive marketplace, companies -- from Fortune 500 firms to early stage start-ups -- rely on intellectual property (IP) to keep them one step ahead of the game. The role of IP as a strategic business asset has been punctuated by the recent multi-billion dollar deals and acquisitions involving patent portfolios, as well as the fierce Mobile market patent wars raging in courts around the world.  This class will explore the value of corporate IP assets by thinking strategically about how to effectively leverage the knowledge, trade secrets, patents, technologies, trademarks, structures and processes that are critical across industries. We will focus on the elements of a successful IP strategy, and how that strategy is shaped by economic, strategic, legal, regulatory, and market factors. nnThrough a combination of case studies, class discussion and guest speakers, we will cover a variety of issues shaping a successful IP strategy in today's global business environment. Some of the topics we will cover include: nn* Building and managing an IP portfolio that is aligned with business objectives;n* The innovation cycle and technology transfer mechanisms;n* IP portfolio monetization strategies (e.g., licensing, sale, enforcement);n* IP considerations in Mergers &amp; Acquisitions;n* Tax planning related to IP (e.g., cross border transfer pricing, IP holding companies);n* Managing corporate IP litigation risk;n* Patent reform and the role of the U.S. Patent &amp; Trademark Office (USPTO);n* IP rights challenges while doing business in developing countries;n* IP strategies for start-ups &amp; entrepreneurs.nnMs. Efrat Kasznik is an IP valuation and strategy expert with more than twenty years of experience advising companies of all sizes, from startups to Fortune 100s, on extracting value from their IP. She is the founder and President of Foresight Valuation Group, an IP consulting and startup advisory firm providing valuation and strategy services for a range of purposes, including M&amp;A, financial reporting, technology commercialization decisions, tax compliance, transfer pricing, and litigation damages. Ms. Kasznik has been a co-founder, CFO and advisor to several startups and incubators in the US and Europe, including the Stanford Venture Studio at the GSB. She is listed on the IAM 300 list of World Leading IP Strategists, and is a member of the leadership committee of the High Tech Sector, Licensing Executives Society.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STRAMGT532 CAS
+DTSTART;TZID=America/Los_Angeles:20170213T150000
+CREATED:20160925T011600
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170217T175000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

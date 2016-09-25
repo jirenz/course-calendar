@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T162000
+LAST-MODIFIED:20160925T011703
+UID:explore_courses8dcbe228-1393-4a37-b27e-8db8009586a3
+DTSTAMP:20160925T011703
+LOCATION:Encina West 202
+DESCRIPTION:During the Cold War two highly armed military blocs confronted each other in the center of Europe.  What role did they play in the Cold War? How dangerous was their confrontation?  This seminar will use archival materials from Britain, France, Germany, the Soviet Union to explore the US-Soviet rivalry in Europe, the politics of the two alliances, the role of nuclear weapons, the crises that took place, and the ending of the Cold War in Europe.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY431A RES
+DTSTART;TZID=America/Los_Angeles:20170110T133000
+CREATED:20160925T011703
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

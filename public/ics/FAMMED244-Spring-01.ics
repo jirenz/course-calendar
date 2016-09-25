@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170405T142000
+LAST-MODIFIED:20160925T011613
+UID:explore_courses3afe2f74-681b-456c-8817-d6470d55fd66
+DTSTAMP:20160925T011613
+LOCATION:Li Ka Shing Center, rms205/206
+DESCRIPTION:Weekly lecture series. Examines the linguistic, social class, and cultural factors that impact patient care. Presentations promote culturally sensitive health care services and review contemporary research issues involving minority and underserved populations. Topics include health care inequities and medical practices of African Americans, Asians, Latinos, Native Americans, immigrants, and refugees in both urban and rural settings. 1 unit requires weekly lecture attendance, completion of required readings, completion of response questions; 2 units requires weekly lecture attendance and discussion session, completion of required readings and weekly response questions; additional requirement for 3 units (HUMBIO only) is completion of a significant term paper Only students taking the course for 3 units may request a letter grade. Enrollment limited to students with sophomore academic standing or above.This course must be taken for a minimum of 3 units to be eligible for Ways credit.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FAMMED244 LEC
+DTSTART;TZID=America/Los_Angeles:20170405T123000
+CREATED:20160925T011613
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

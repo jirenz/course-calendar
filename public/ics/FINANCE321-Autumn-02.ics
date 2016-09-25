@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20161114T175000
+LAST-MODIFIED:20160925T011558
+UID:explore_coursesa8cd1e1c-5ee0-430d-89ec-0bea8094e652
+DTSTAMP:20160925T011558
+LOCATION:
+DESCRIPTION:Our focus is fundamental value investing. Equity investment in companies, common stocks, early/growth stage ventures and private equity, deals, partnerships, hedge funds, or other entrepreneurial opportunities will be immediately or eventually important for most MBAs--either on the investing side or on the fund-raising financing side. This investment course discusses many practical and conceptual factors influencing the analysis and value of companies and deals, including publicly listed and private equity investments, and on success of investment approaches. The focus of this course is on quoted and private equity investments and on entrepreneurial finance. The format of the class is primarily case discussions and lecture discussions led by the professor and investors/principals who were involved in the case. This course enables MBA students to learn a broad investing skill-set and to study outstanding investors. See yellow Term Sheet put in MBA Boxes in late April.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FINANCE321 CAS
+DTSTART;TZID=America/Los_Angeles:20161114T150000
+CREATED:20160925T011558
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161118T175000;BYDAY=MO,TU,WE,TH,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T175000
+LAST-MODIFIED:20160925T011558
+UID:explore_coursesa4e5497c-d774-4e5c-9c58-82fdf8aca979
+DTSTAMP:20160925T011558
+LOCATION:GSB McClelland 105
+DESCRIPTION:Our focus is fundamental value investing. Equity investment in companies, common stocks, early/growth stage ventures and private equity, deals, partnerships, hedge funds, or other entrepreneurial opportunities will be immediately or eventually important for most MBAs--either on the investing side or on the fund-raising financing side. This investment course discusses many practical and conceptual factors influencing the analysis and value of companies and deals, including publicly listed and private equity investments, and on success of investment approaches. The focus of this course is on quoted and private equity investments and on entrepreneurial finance. The format of the class is primarily case discussions and lecture discussions led by the professor and investors/principals who were involved in the case. This course enables MBA students to learn a broad investing skill-set and to study outstanding investors. See yellow Term Sheet put in MBA Boxes in late April.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FINANCE321 CAS
+DTSTART;TZID=America/Los_Angeles:20160926T150000
+CREATED:20160925T011558
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160930T175000;BYDAY=MO,TU,WE,TH,FR
+END:VEVENT
+END:VCALENDAR

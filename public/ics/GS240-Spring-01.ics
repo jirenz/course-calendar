@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T145000
+LAST-MODIFIED:20160925T011606
+UID:explore_coursesf5664450-f4cb-48ad-b412-f0110199120c
+DTSTAMP:20160925T011606
+LOCATION:School of Education 128
+DESCRIPTION:Geostatistical theory and practical methodologies for quantifying and simulating spatial and spatio-temporal patterns for the Earth Sciences. Real case development of models of spatial continuity, including variograms, Boolean models and training images. Estimation versus simulation of spatial patterns. Loss functions. Estimation by kriging, co-kriging with secondary data. Dealing with data on various scales. Unconditional and conditional Boolean simulation, sequential simulation for continuous and categorical variables. Multi-variate geostatistical simulation. Probabilistic and pattern-based approaches to multiple-point simulation. Trend, secondary variable, auxiliary variable and probability-type constraints. Quality control techniques on generated models. Workflows for practical geostatistical applications in mining, petroleum, hydrogeology, remote sensing and environmental sciences. prerequisites: Energy 160/260 or basic course in data analysis/statistics
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GS240 LEC
+DTSTART;TZID=America/Los_Angeles:20170403T133000
+CREATED:20160925T011606
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

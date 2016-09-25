@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T162000
+LAST-MODIFIED:20160925T011627
+UID:explore_courses5213ce7c-11ec-478a-b0f5-b2831b472641
+DTSTAMP:20160925T011627
+LOCATION:Y2E2 111
+DESCRIPTION:This course will cover basic hydraulics and the fundamental processes used to provide and control water, and will introduce the basics of engineering design. In addition to understanding the details behind the fundamental processes, students will learn to feel comfortable developing initial design criteria (30% designs) for fundamental processes. Students should also develop a feel for the typical values of water treatment parameters and the equipment involved. The course should enable students to work competently in environmental engineering firms or on non-profit projects in the developing world such as Engineers without Borders. Pre-requisite: Chem31B/X.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE174A LEC
+DTSTART;TZID=America/Los_Angeles:20160927T150000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

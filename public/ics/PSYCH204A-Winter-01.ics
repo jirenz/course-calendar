@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T145000
+LAST-MODIFIED:20160925T011714
+UID:explore_courses30d2af5d-ef97-42ce-b8b6-d8459415cfcd
+DTSTAMP:20160925T011714
+LOCATION:School of Education 206
+DESCRIPTION:This course introduces the student to human neuroimaging using magnetic resonance scanners.  The course is a mixture of lectures and hands-on software tutorials.  The course begins by introducing basic MR principles.  Then various MR measurement modalities are described, including several types of structural and functional imaging methods.  Finally algorithms for analyzing and visualizing the various types of neuroimaging data are explained, including anatomical images, functional data, diffusion imaging (e.g., DTI) and magnetization transfer.  Emphasis is on explaining software methods used for interpreting these types of data.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PSYCH204A SEM
+DTSTART;TZID=America/Los_Angeles:20170110T133000
+CREATED:20160925T011714
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

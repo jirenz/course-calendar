@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170112T175000
+LAST-MODIFIED:20160925T011655
+UID:explore_courses4415f518-4a2c-4430-8532-5ff0cfa360af
+DTSTAMP:20160925T011655
+LOCATION:School of Education 206
+DESCRIPTION:A both historical and systematic retrospective on &quot;Marxism&quot; as the intellectual configuration and movement that most strongly influenced politics and the state of societies during the 20th century. Discussions will be grounded on a reconstruction of Marx's most canonized writings [especially &quot;Capital&quot;] as emerging from Hegel's work as their philosophical ground, and then proceed to a survey of &quot;Marxism&quot; in its most prominent forms of ideological and intellectual appropriation. Guiding questions [not rhetorical questions!] will be [a] what basic concepts developed by Marx have remained indispensable in 21st century world views and [b] whether &quot;Marxism&quot; today deserves more than an academico-antiquarian interest.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:COMPLIT350A SEM
+DTSTART;TZID=America/Los_Angeles:20170112T150000
+CREATED:20160925T011655
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

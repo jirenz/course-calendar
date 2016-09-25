@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T145000
+LAST-MODIFIED:20160925T011627
+UID:explore_coursesac5ce317-8027-4c61-8f9b-318505411655
+DTSTAMP:20160925T011627
+LOCATION:Y2E2 111
+DESCRIPTION:Formerly CEE 161A/264A.  Introduction to the movement of water through natural and engineered channels, streams, and rivers. Basic equations and theory (mass, momentum, and energy equations) for steady and unsteady descriptions of the flow. Application of theory to the design of flood- control and canal systems. Flow controls such as weirs and sluice gates; gradually varied flow; Saint-Venant equations and flood waves; and method of characteristics. Open channel flow laboratory experiments: controls such as weirs and gates, gradually varied flow, and waves. Limited enrollment in lab section.  Prerequisite:  CEE 101B or CEE 162A.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE262E LEC
+DTSTART;TZID=America/Los_Angeles:20170403T133000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T162000
+LAST-MODIFIED:20160925T011604
+UID:explore_courses168a74f4-de32-4412-9ef1-9d589f76b789
+DTSTAMP:20160925T011604
+LOCATION:Y2E2 101
+DESCRIPTION:What is wilderness and why does it matter? In this course we will interrogate answers to this question articulated by influential and diverse American environmental thinkers of the 19th, 20th, and 21st centuries, who through their writing transformed public perceptions of wilderness and inspired such actions as the founding of the National Park System, the passage of the Wilderness Act and the Clean Air and Water Acts, the establishment of the Environmental Protection Agency, and the birth of the environmental and climate justice movements. Students will also develop their own responses to the question of what is wilderness and why it matters through a series of writing exercises that integrate personal narrative, wilderness experience, and environmental scholarship, culminating in a ~3000 word narrative nonfiction essay. This course will provide students with knowledge, tools, experience, and skills that will empower them to become more persuasive environmental storytellers and advocates.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EARTHSYS149 SEM
+DTSTART;TZID=America/Los_Angeles:20170403T143000
+CREATED:20160925T011604
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

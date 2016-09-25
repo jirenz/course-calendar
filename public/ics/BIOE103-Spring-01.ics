@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T115000
+LAST-MODIFIED:20160925T011625
+UID:explore_courses3d33eef2-e956-4c11-8b45-02c5608449f3
+DTSTAMP:20160925T011625
+LOCATION:Li Ka Shing Center, room 308
+DESCRIPTION:Physiology of intact human tissues, organs, and organ systems in health and disease, and bioengineering tools used (or needed) to probe and model these physiological systems. Topics: Clinical physiology, network physiology and system design/plasticity, diseases and interventions (major syndromes, simulation, and treatment, instrumentation for intervention, stimulation, diagnosis, and prevention), and new technologies including tissue engineering and optogenetics. &nbsp;Discussions of pathology of these systems in a clinical-case based format, with a view towards identifying unmet clinical needs. &nbsp;Learning computational skills that not only enable simulation of these systems but also apply more broadly to biomedical data analysis. Prerequisites: CME 102; PHYSICS 41; BIO 41, 42
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOE103 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T103000
+CREATED:20160925T011625
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170407T112000
+LAST-MODIFIED:20160925T011625
+UID:explore_coursesf3cb44b1-89df-49fd-b084-26bd32f7779b
+DTSTAMP:20160925T011625
+LOCATION:Li Ka Shing Center, room 308
+DESCRIPTION:Physiology of intact human tissues, organs, and organ systems in health and disease, and bioengineering tools used (or needed) to probe and model these physiological systems. Topics: Clinical physiology, network physiology and system design/plasticity, diseases and interventions (major syndromes, simulation, and treatment, instrumentation for intervention, stimulation, diagnosis, and prevention), and new technologies including tissue engineering and optogenetics. &nbsp;Discussions of pathology of these systems in a clinical-case based format, with a view towards identifying unmet clinical needs. &nbsp;Learning computational skills that not only enable simulation of these systems but also apply more broadly to biomedical data analysis. Prerequisites: CME 102; PHYSICS 41; BIO 41, 42
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOE103 LEC
+DTSTART;TZID=America/Los_Angeles:20170407T103000
+CREATED:20160925T011625
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

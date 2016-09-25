@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T145000
+LAST-MODIFIED:20160925T011717
+UID:explore_coursesd5035bf0-0415-4abb-b419-21c7939ed0a8
+DTSTAMP:20160925T011717
+LOCATION:School of Education 210
+DESCRIPTION:Informed citizens living in today's world, and especially in Silicon Valley, should be able to formulate their own articulate positions about the role of technology in culture. The course gives students the tools to do so. Against the trend towards the thoughtless celebration of all things technological, we will engage in critique in the two senses of the term: as careful study of the cultural implications of technology and as balanced, argumentative criticism. Can technology make life more meaningful, society more fair, people smarter, and the world smaller? We will pay special attention to the insights that literature, and other arts, can offer for reframing digital culture. Selections by Latin American fiction writers (Cort&aacute;zar, Zambra), philosophers and thinkers (Heidegger and Beller), as well as recent popular works of social commentary, such as You are not a Gadget, The Shallows, 24/7, and Present Shock. Taught in English.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ILAC235 SEM
+DTSTART;TZID=America/Los_Angeles:20170110T133000
+CREATED:20160925T011717
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

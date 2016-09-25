@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T132000
+LAST-MODIFIED:20160925T011658
+UID:explore_coursese1b561ee-6951-47fb-8333-ab97d919a79a
+DTSTAMP:20160925T011658
+LOCATION:Econ 218
+DESCRIPTION:Recent topics in applied micro, focusing on papers from top journals (QJE, AER, JPE, Econometrica and REStud) over the last ten years. Broad overview of current topic and techniques in applied-micro research. Topics include inequality, polarization and skill-biased technical change, discrimination, technology adoption and the spread of information, management practices, filed experiments, peer effects and academic spillovers. Combination of student and faculty presentations. Additional sessions on general presentations, paper writing and research skills to prepare for job market. Class trip to the NBER West-Coast labor meetings at the San Francisco Fed.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON247 LEC
+DTSTART;TZID=America/Los_Angeles:20170109T113000
+CREATED:20160925T011658
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T152000
+LAST-MODIFIED:20160925T011619
+UID:explore_courses46ee2d9f-31ff-4151-a85c-c9f2e7a6018d
+DTSTAMP:20160925T011619
+LOCATION:Li Ka Shing Center, room 208
+DESCRIPTION:How race/ethnicity and SES contribute to health disparities, how vulnerable populations are uniquely at health risk, and how the built environment relates to health and wellness.  Topics include: gender, age, race/ethnicity, language, education, individual SES and neighborhood SES as related to health; individual and structural race bias; health needs of vulnerable populations (e.g., the homeless, the incarcerated, immigrant populations, children, and uninsured/underinsured); and environmental forces (e.g., urban design/planning, traffic/car culture, green space, housing, food access/culture, law enforcement, and media).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PEDS250 SEM
+DTSTART;TZID=America/Los_Angeles:20170111T133000
+CREATED:20160925T011619
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

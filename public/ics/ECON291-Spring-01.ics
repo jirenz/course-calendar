@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T112000
+LAST-MODIFIED:20160925T011658
+UID:explore_courses87787206-aa04-41fc-8ae9-96923846107d
+DTSTAMP:20160925T011658
+LOCATION:Econ 206
+DESCRIPTION:Synthesis of research on social and economic networks by sociologists, economists, computer scientists, physicists, and mathematicians, with an emphasis on modeling.  Includes methods for describing and measuring networks, empirical observations about network structure, models of random and strategic network formation, as well as analyses of contagion, diffusion, learning, peer influence, games played on networks, and networked markets.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON291 LEC
+DTSTART;TZID=America/Los_Angeles:20170403T093000
+CREATED:20160925T011658
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

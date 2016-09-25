@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170605T165000
+LAST-MODIFIED:20160925T011611
+UID:explore_courses0704b07e-096a-4f9b-9a38-3ad5483110e7
+DTSTAMP:20160925T011611
+LOCATION:Alway Building, Room M212
+DESCRIPTION:Basics of ordinary differential equation modeling of signal transduction motifs, small circuits of regulatory proteins and genes that serve as building blocks of complex regulatory circuits.  Morning session covers numerical modeling experiments.  Afternoon session explores theory underpinning that day's modeling session.  Modeling done using Mathematica, Standard Edition provided to enrolled students.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS204 PRA
+DTSTART;TZID=America/Los_Angeles:20170605T150000
+CREATED:20160925T011611
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170613T165000;BYDAY=MO,TU,WE,TH,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170605T112000
+LAST-MODIFIED:20160925T011611
+UID:explore_coursesacb1bb5e-eb4f-441f-805c-8ef318df99f9
+DTSTAMP:20160925T011611
+LOCATION:Li Ka Shing Center, room 208
+DESCRIPTION:Basics of ordinary differential equation modeling of signal transduction motifs, small circuits of regulatory proteins and genes that serve as building blocks of complex regulatory circuits.  Morning session covers numerical modeling experiments.  Afternoon session explores theory underpinning that day's modeling session.  Modeling done using Mathematica, Standard Edition provided to enrolled students.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS204 PRA
+DTSTART;TZID=America/Los_Angeles:20170605T103000
+CREATED:20160925T011611
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170613T112000;BYDAY=MO,TU,WE,TH,FR
+END:VEVENT
+END:VCALENDAR

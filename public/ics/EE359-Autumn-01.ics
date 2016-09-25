@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T132000
+LAST-MODIFIED:20160925T011632
+UID:explore_courses921177ba-9fcc-4d7d-bd6e-28149288b870
+DTSTAMP:20160925T011632
+LOCATION:Huang Engineerig Center 18
+DESCRIPTION:This course will cover advanced topics in wireless communications for voice, data, and multimedia. Topics include: an overview of current and future wireless systems; wireless channel models including path loss, shadowing, and statistical multipath channel models; fundamental capacity limits of wireless channels; digital modulation and its performance in fading and intersymbol interference; techniques to combat fading including adaptive modulation, diversity, and multiple antenna systems (MIMO); techniques to combat intersymbol interference including equalization,  multicarrier modulation (OFDM), and spread spectrum; and an overview of wireless network design. Prerequisite: 279 or instructor consent.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EE359 LEC
+DTSTART;TZID=America/Los_Angeles:20160927T120000
+CREATED:20160925T011632
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

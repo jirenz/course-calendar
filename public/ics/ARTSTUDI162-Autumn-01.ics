@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T152000
+LAST-MODIFIED:20160925T011640
+UID:explore_courses116972b4-6563-48ff-b9ef-ea3562cf23a0
+DTSTAMP:20160925T011640
+LOCATION:McMurtry Building rm M120
+DESCRIPTION:Our computers, phones and devices &iquest;see&iquest; us predominately as fingers and single eyes staring at screens. What would happen if our technology acknowledged more of our rich physical presence and capabilities in its design? How have artists and designers used different sensing technologies to account for more of our embodied selves in their works? In this studio course we will explore various sensing technologies and design pieces that engage our whole selves. Interfaces explored will range from the practical to the poetic. Sensors may involve flex sensors, heat sensors, microphones and simple camera tracking technology. We will analyze different tools for their appropriateness for different tasks and extend them through our designs.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSTUDI162 PRA
+DTSTART;TZID=America/Los_Angeles:20160926T133000
+CREATED:20160925T011640
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T122000
+LAST-MODIFIED:20160925T011635
+UID:explore_coursesa2a545ea-1316-4c03-9f9d-441b70067ec6
+DTSTAMP:20160925T011635
+LOCATION:Herrin T185
+DESCRIPTION:This is an intense course in product design and development offered to graduate students only (no exceptions). In just ten weeks, we will apply principles of design thinking to the real-life challenge of imagining, prototyping, testing and iterating, building, pricing, marketing, distributing and selling your product or service. You will work hard on both sides of your brain. You will experience the joy of success and the (passing) pain of failure along the way. This course is an excellent chance to practice design thinking in a demanding, fast-paced, results-oriented group with support from faculty and industry leaders. This course may change your life. We will treat each team and idea as a real start-up, so the work will be intense. If you do not have a passionate and overwhelming urge to start a business or launch a product or service, this class will not be a fit. Teams must visit office hours in winter quarter (Wednesday's 3p-4:30p) in order to be considered for the course.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ME301 WKS
+DTSTART;TZID=America/Los_Angeles:20170403T103000
+CREATED:20160925T011635
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160930T112000
+LAST-MODIFIED:20160925T011602
+UID:explore_courses8d85af6f-7e5e-4bd4-812c-04271397dfc1
+DTSTAMP:20160925T011602
+LOCATION:Lathrop 282
+DESCRIPTION:This is a required course for all POLS students. The goals of the POLS Seminar (EDUC 209ABC) are to assist students in making the most of their Stanford graduate experience across several dimensions (academic, professional, and social). EDUC 209A is focused on orienting students to the academic and extra-curricular aspects of the experience as quickly as possible, while helping them coalesce as a group and learn how to leverage each other's professional knowledge. Another goals is to help student define their graduate degree goals, so they can plan their year in a very intentional manner that will result in a project or experiences they can highlight during the required Spring quarter POLS Project Forum.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC209A SEM
+DTSTART;TZID=America/Los_Angeles:20160930T083000
+CREATED:20160925T011602
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

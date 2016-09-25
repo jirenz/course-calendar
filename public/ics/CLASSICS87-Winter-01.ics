@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T145000
+LAST-MODIFIED:20160925T011654
+UID:explore_courses42e405c9-82e0-4ae9-a5fa-1e72f54de068
+DTSTAMP:20160925T011654
+LOCATION:School of Education 208
+DESCRIPTION:Why does Egypt fascinate us? From Napoleon's invasion to Katy Perry's latest music video, we have interpreted ancient Egyptian history and mythology for centuries; in fact, this obsession dates back to the Egyptians themselves. This seminar explores Egyptomania from the Pharaonic period to the 20th century. Topics include: ancient Egypt, Greek historians, medieval Arabic scholars, hieroglyphic decipherment, 19th century travel, 20th century pop culture, and how historians have interpreted this past over the centuries.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CLASSICS87 COL
+DTSTART;TZID=America/Los_Angeles:20170110T120000
+CREATED:20160925T011654
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

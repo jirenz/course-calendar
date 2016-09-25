@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T132000
+LAST-MODIFIED:20160925T011633
+UID:explore_courses6dfb57e8-486a-4055-9180-c95bb52ec931
+DTSTAMP:20160925T011633
+LOCATION:Hewlett Teaching Center 102
+DESCRIPTION:Survey the current Financial Technology landscape through the lens of Artificial Intelligence applications, with emphasis in 4 areas: Payments, Blockchain and Cryptocurrencies, Robo-Advisory, and Marketplace Lending. Students work in groups of 4 to develop an original financial technology project, research paper or product prototype within a chosen area. Final project posters to be presented to the class and posted online. Top posters to be selected and presented at the Stanford Financial Technology conference in January. Classes will alternate between industry speakers, lectures and scheduled group meetings with teaching team. Advanced undergraduates, graduate students, and students from other Schools are welcome to enroll. Prerequisites: Basic programming skills, knowledge of design process, introductory statistics. No formal finance experience required. Enrollment is capped at 32.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MS&E446 WKS
+DTSTART;TZID=America/Los_Angeles:20160926T113000
+CREATED:20160925T011633
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

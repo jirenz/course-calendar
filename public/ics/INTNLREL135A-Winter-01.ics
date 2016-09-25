@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T122000
+LAST-MODIFIED:20160925T011704
+UID:explore_coursesab2b5306-ed25-4fba-82c4-b5eb4e692147
+DTSTAMP:20160925T011704
+LOCATION:Encina West 108
+DESCRIPTION:This course addresses the nature, content, and structure of international environmental law.  We will discuss its sources (formal and informal) and general principles, along with the emerging principles (sustainable development, precautionary principle, etc.)  We will evaluate the role of international and non-governmental organizations, as well as examine the negotiation, conclusion, and implementation of international environmental agreements.  Problem areas to be examined include global warming, stratospheric ozone depletion, exports of hazardous substances, transboundary pollution, trade and environment, and development and environment. RECOMMENDED PREREQ: students have completed INTNLREL 1 and/or INTNLREL 140A
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:INTNLREL135A SEM
+DTSTART;TZID=America/Los_Angeles:20170109T103000
+CREATED:20160925T011704
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

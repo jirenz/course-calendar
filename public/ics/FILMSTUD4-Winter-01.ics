@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T132000
+LAST-MODIFIED:20160925T011700
+UID:explore_courses93f5135f-0f5c-46f8-b4cc-6f11e1e9aa43
+DTSTAMP:20160925T011700
+LOCATION:McMurtry Building rm 102
+DESCRIPTION:Formal, historical, and cultural issues in the study of film. Classical narrative cinema compared with alternative narrative structures, documentary films, and experimental cinematic forms. Issues of cinematic language and visual perception, and representations of gender, ethnicity, and sexuality. Aesthetic and conceptual analytic skills with relevance to cinema.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD4 LEC
+DTSTART;TZID=America/Los_Angeles:20170109T123000
+CREATED:20160925T011700
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T213000
+LAST-MODIFIED:20160925T011700
+UID:explore_courses4c7283da-ff84-4780-92a8-1215d448445f
+DTSTAMP:20160925T011700
+LOCATION:McMurtry Building rm 102
+DESCRIPTION:Formal, historical, and cultural issues in the study of film. Classical narrative cinema compared with alternative narrative structures, documentary films, and experimental cinematic forms. Issues of cinematic language and visual perception, and representations of gender, ethnicity, and sexuality. Aesthetic and conceptual analytic skills with relevance to cinema.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD4 LEC
+DTSTART;TZID=America/Los_Angeles:20170110T193000
+CREATED:20160925T011700
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T213000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

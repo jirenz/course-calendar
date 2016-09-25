@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T145000
+LAST-MODIFIED:20160925T011700
+UID:explore_courses987d59db-1416-47e2-b26a-195798cf5682
+DTSTAMP:20160925T011700
+LOCATION:Lathrop 290
+DESCRIPTION:This bridge course prepares students for transitioning to literature classes that are taught in French. Emphasis is on the development of speaking, writing, and presenting at the advanced level. Students will review and master the difficulties of French through the study of various types of literary texts and through analysis of current events in the francophone world. Required for students majoring or minoring in French. Prerequisite: FRENLANG 23C or equivalent.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FRENLANG124 LNG
+DTSTART;TZID=America/Los_Angeles:20160926T133000
+CREATED:20160925T011700
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

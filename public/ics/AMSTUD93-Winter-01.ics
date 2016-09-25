@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T102000
+LAST-MODIFIED:20160925T011636
+UID:explore_coursesb50e796c-d5c9-40f9-8b25-450fea825d98
+DTSTAMP:20160925T011636
+LOCATION:McMurtry Building rm 360
+DESCRIPTION:Competitive eating, Weight Watchers, Iron Chef, and Beyonc&eacute;&iquest;s lemonade diet: American popular culture is a feast of food issues. As a class, we will investigate the role of food in American popular culture, paying close attention to ideas of celebrity and consumerism. Course materials include cookbooks, paintings and art installations, diet books, TV shows, film, and advertisements.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AMSTUD93 LEC
+DTSTART;TZID=America/Los_Angeles:20170110T093000
+CREATED:20160925T011636
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

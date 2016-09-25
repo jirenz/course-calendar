@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T122000
+LAST-MODIFIED:20160925T011704
+UID:explore_courses10a4ed80-93a1-4a57-b8db-de82fb43bcf4
+DTSTAMP:20160925T011704
+LOCATION:Encina West 108
+DESCRIPTION:What is the character of international legal rules?  Do they matter in international politics, and if so, to what degree?  How effective can they really be?  What should we expect from international law in shaping international relations?  This seminar will provide introductory knowledge of the foundational principles and sources of public international law and a brief review of the most prominent IR-theories.  Besides exploring how these theories address the role of IL in international politics, we will also consider a set of practical problems, where IL and IR intersect most dramatically, such as intervention by force, human rights, and enforcement of criminal law. * Notice to students- registration for this course is not finalized until confirmed by the instructor during the first week of class.  All interested students (registered or not) must attend the first class meeting for an in-depth discussion of the syllabus and other course policies.  At that (mandatory) meeting a selection process will be conducted to determine final course enrollment. * Course satisfies the WiM requirement for International Relations majors.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:INTNLREL140A SEM
+DTSTART;TZID=America/Los_Angeles:20160926T103000
+CREATED:20160925T011704
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

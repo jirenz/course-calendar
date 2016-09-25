@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T175000
+LAST-MODIFIED:20160925T011600
+UID:explore_courses3fa4b79c-67db-4d21-a7f6-84fb87a2cb0f
+DTSTAMP:20160925T011600
+LOCATION:GSB Patterson 102
+DESCRIPTION:This course examines fundamental issues of general management and leadership within an organization. You will learn about setting an organization's strategic direction, aligning structure to implement strategy, and leading individuals within the firm. You will master concepts, frameworks, and tools to assess an industry and a firm's competitive environment, and to craft alternatives. You will study the interplay among formal structure, informal networks, and culture in shaping organizational performance. By integrating leadership theory, the lessons of practical application, and your own experience, you will develop skills and capabilities essential to leading others. And you'll gain a better understanding of your own leadership preferences, strengths, and weaknesses.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STRAMGT207 CAS
+DTSTART;TZID=America/Los_Angeles:20160926T163000
+CREATED:20160925T011600
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=MO,TH
+END:VEVENT
+END:VCALENDAR

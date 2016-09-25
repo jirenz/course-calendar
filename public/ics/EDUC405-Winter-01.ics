@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T162000
+LAST-MODIFIED:20160925T011602
+UID:explore_coursesf52677ed-17a2-4af2-a613-1b0f1ac664a7
+DTSTAMP:20160925T011602
+LOCATION:School of Education 229
+DESCRIPTION:This course, designed for graduate students in the humanities and education, explores approaches to teaching the humanities at both the secondary and collegiate levels, with a focus on the teaching of text, and how the humanities can help students develop the ability to read and think critically. The course explores purposes and pedagogical approaches for teaching humanities through a variety of texts and perspectives. The course is designed as an opportunity for doctoral students in the Humanities both to enrich their own teaching, and to broaden their understanding of professional teaching opportunities, including community college and secondary school teaching.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC405 SEM
+DTSTART;TZID=America/Los_Angeles:20170111T143000
+CREATED:20160925T011602
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

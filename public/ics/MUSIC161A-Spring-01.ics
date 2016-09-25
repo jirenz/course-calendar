@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170406T172000
+LAST-MODIFIED:20160925T011708
+UID:explore_coursesf8c508fc-d19c-44b4-9f24-4e660e8eed88
+DTSTAMP:20160925T011708
+LOCATION:
+DESCRIPTION:40- to 50-member ensemble performing transcriptions of symphonic music, brass band music, and repertoire composed specifically for symphonic band.  One concert per quarter. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC161A PRC
+DTSTART;TZID=America/Los_Angeles:20170406T153000
+CREATED:20160925T011708
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T212000
+LAST-MODIFIED:20160925T011708
+UID:explore_courses900dc7f5-54bd-4348-9e59-24c52ab7b7e0
+DTSTAMP:20160925T011708
+LOCATION:
+DESCRIPTION:40- to 50-member ensemble performing transcriptions of symphonic music, brass band music, and repertoire composed specifically for symphonic band.  One concert per quarter. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC161A PRC
+DTSTART;TZID=America/Los_Angeles:20170404T190000
+CREATED:20160925T011708
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T212000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160829T112000
+LAST-MODIFIED:20160925T011610
+UID:explore_courses252d8dbf-fcde-4ec9-be0f-c84eddb35078
+DTSTAMP:20160925T011610
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:For medical students. The course emphasizes the impact of molecular biology on medicine.  Topics include the structure, replication, recombination, and repair of DNA; gene expression by transcription and translation; biotechnology; and genomics. Medical relevance receives special emphasis in patient presentations and small group discussions of original articles from the medical literature.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOC205 LEC
+DTSTART;TZID=America/Los_Angeles:20160829T093000
+CREATED:20160925T011610
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160923T112000;BYDAY=MO,TU,TH,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160901T182000
+LAST-MODIFIED:20160925T011610
+UID:explore_courseseeb3355e-a211-4d5d-8d9a-0820ab8b4860
+DTSTAMP:20160925T011610
+LOCATION:
+DESCRIPTION:For medical students. The course emphasizes the impact of molecular biology on medicine.  Topics include the structure, replication, recombination, and repair of DNA; gene expression by transcription and translation; biotechnology; and genomics. Medical relevance receives special emphasis in patient presentations and small group discussions of original articles from the medical literature.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOC205 LEC
+DTSTART;TZID=America/Los_Angeles:20160901T173000
+CREATED:20160925T011610
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160916T182000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160908T122000
+LAST-MODIFIED:20160925T011610
+UID:explore_coursesfe846210-7f64-43c1-9117-08dcc6337fb0
+DTSTAMP:20160925T011610
+LOCATION:
+DESCRIPTION:For medical students. The course emphasizes the impact of molecular biology on medicine.  Topics include the structure, replication, recombination, and repair of DNA; gene expression by transcription and translation; biotechnology; and genomics. Medical relevance receives special emphasis in patient presentations and small group discussions of original articles from the medical literature.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOC205 LEC
+DTSTART;TZID=America/Los_Angeles:20160908T113000
+CREATED:20160925T011610
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160908T122000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160902T144000
+LAST-MODIFIED:20160925T011610
+UID:explore_courses4c11d553-a9e8-42a3-8b11-34ee28c81b4e
+DTSTAMP:20160925T011610
+LOCATION:
+DESCRIPTION:For medical students. The course emphasizes the impact of molecular biology on medicine.  Topics include the structure, replication, recombination, and repair of DNA; gene expression by transcription and translation; biotechnology; and genomics. Medical relevance receives special emphasis in patient presentations and small group discussions of original articles from the medical literature.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOC205 LEC
+DTSTART;TZID=America/Los_Angeles:20160902T133000
+CREATED:20160925T011610
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160916T144000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160831T152000
+LAST-MODIFIED:20160925T011610
+UID:explore_courses8bf17dd2-a573-4972-a912-201ff923c386
+DTSTAMP:20160925T011610
+LOCATION:Li Ka Shing Center, room 120
+DESCRIPTION:For medical students. The course emphasizes the impact of molecular biology on medicine.  Topics include the structure, replication, recombination, and repair of DNA; gene expression by transcription and translation; biotechnology; and genomics. Medical relevance receives special emphasis in patient presentations and small group discussions of original articles from the medical literature.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOC205 LEC
+DTSTART;TZID=America/Los_Angeles:20160831T133000
+CREATED:20160925T011610
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160907T152000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

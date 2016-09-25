@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T095000
+LAST-MODIFIED:20160925T011600
+UID:explore_coursesf590d278-d4e2-481f-a3bc-8ad3392ac102
+DTSTAMP:20160925T011600
+LOCATION:GSB Patterson 102
+DESCRIPTION:This course deals with the overall general management of the business enterprise. Extensive case studies of a variety of companies of differing size, industry, and current conditions provide the basis for the comprehensive analysis and establishment of a strategic management approach for the organization. Frameworks are presented for strategy identification and evaluation; assessing industry attractiveness; evaluating the firm's capabilities, resources, and position; determining the optimal horizontal and vertical scope of the firm; entering into strategic alliances and joint ventures; and formulating and implementing strategy in multi-business organizations.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STRAMGT258 CAS
+DTSTART;TZID=America/Los_Angeles:20160927T083000
+CREATED:20160925T011600
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T095000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

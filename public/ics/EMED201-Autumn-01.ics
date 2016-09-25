@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20161023T170000
+LAST-MODIFIED:20160925T011612
+UID:explore_coursesa6f01792-9825-4b60-9734-5656b8c1cb01
+DTSTAMP:20160925T011612
+LOCATION:Li Ka Shing Center,rms101/102
+DESCRIPTION:All medical students must be certified in Basic Cardiac Life Support before the end of the first (autumn) quarter. Students who provide documentation of certification received within six months prior to the date of matriculation will be exempted from the requirement. The course teaches one- and two-rescuer CPR, management of an obstructed airway, and CPR for infants and children. Upon completion of the course, students receive an American Heart Association certificate in BLS.nIn addition to CPR training, we will also teach Question, Persuade, Refer (QPR) which is the CPR equivalent to psychological emergencies.  This portion of the course will allow students to master techniques on how to recognize and respond to an individual in psychological distress and to help in suicide prevention.  Our faculty are certified QPR instructors and students will become QPR certified during this course through the QPR Institute certification process.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EMED201 PRA
+DTSTART;TZID=America/Los_Angeles:20161023T080000
+CREATED:20160925T011612
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161023T170000;BYDAY=SU,SA
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T145000
+LAST-MODIFIED:20160925T011636
+UID:explore_courses53b83f94-10e4-4c39-b3a2-1bbc057915ad
+DTSTAMP:20160925T011636
+LOCATION:Y2E2 101
+DESCRIPTION:Students in this discussion-based seminar will examine both the social and environmental challenges of managing California&iquest;s freshwater resources. The multidisciplinary team of instructors will introduce a range of textual sources - engineering, cartographic, art historical, and ecological, to name a few - and the class will engage directly with Cantor&iquest;s `Art of Water&iquest; exhibition as well as local feats of water infrastructure. Students will gain historically-grounded insights through tailored weekly assignments and develop creative solutions for freshwater security as the final project.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AMSTUD276 SEM
+DTSTART;TZID=America/Los_Angeles:20160927T133000
+CREATED:20160925T011636
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

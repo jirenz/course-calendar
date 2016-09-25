@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T162000
+LAST-MODIFIED:20160925T011704
+UID:explore_courses477109d2-690f-4b3a-a5c2-5d22b7cb9965
+DTSTAMP:20160925T011704
+LOCATION:Lathrop 298
+DESCRIPTION:Introduction to the evolutionary study of human diversity. Hominid evolution, the origins of social complexity, social theory, and the emergence of the modern world system, emphasizing the concept of culture and its influence on human differences. HUMBIO 2A and 2B are designed to be taken concurrently and exams for both sides may include material from joint module lectures.  Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HUMBIO2B DIS
+DTSTART;TZID=America/Los_Angeles:20160927T153000
+CREATED:20160925T011704
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

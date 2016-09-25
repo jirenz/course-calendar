@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170113T145000
+LAST-MODIFIED:20160925T011630
+UID:explore_courses479cc098-3e1d-4f0c-9d4f-acc525b39935
+DTSTAMP:20160925T011630
+LOCATION:Gates B12
+DESCRIPTION:(Same as STATS 231) How do we formalize what it means for an algorithm to learn from data? This course focuses on developing mathematical tools for answering this question. We will present various common learning algorithms and prove theoretical guarantees about them. Topics include classical asymptotics, method of moments, generalization bounds via uniform convergence, kernel methods, online learning, and multi-armed bandits.  Prerequisites: A solid background in linear algebra and probability theory, statistics and machine learning (STATS 315A or CS 229). Convex optimization (EE 364A) is helpful but not required.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CS229T DIS
+DTSTART;TZID=America/Los_Angeles:20170113T133000
+CREATED:20160925T011630
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

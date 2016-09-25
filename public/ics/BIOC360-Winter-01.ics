@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T172000
+LAST-MODIFIED:20160925T011610
+UID:explore_courses5d151c23-3510-4216-8390-4e1046a239f5
+DTSTAMP:20160925T011610
+LOCATION:CCSR 4107
+DESCRIPTION:Biochemistry 3rd year PhD students with permission of instructor only.  Students foster broad familiarity with the biomedical literature and learn to develop new research directions.  Topics well outside of each student's research topic are chosen for regular informal journal club presentations.  Students work with faculty to hone skills for identifying important open scientific questions, formulating hypotheses, and refining experimental logic.  Students work collectively to create a &quot;model&quot; research proposal on a topic of general interest to the group, and then individually to develop an original proposal on a topic of each student's choice.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOC360 SEM
+DTSTART;TZID=America/Los_Angeles:20170109T153000
+CREATED:20160925T011610
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

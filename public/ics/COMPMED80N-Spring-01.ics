@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T132000
+LAST-MODIFIED:20160925T011612
+UID:explore_courses62e7d2a0-399e-4543-b1d8-cac023c75728
+DTSTAMP:20160925T011612
+LOCATION:CCSR 4107
+DESCRIPTION:Preference to freshman. Behavior is what makes animals special (thirsty plants don't walk to water), but why do animals behave the way they do? What does their behavior tell us about their inner lives, and about ourselves? What do lipstick and cuckoos and fireflies have in common? Why would nobody want to be a penguin? What do mice say to each other in their pee-mail? Learning how to think about questions like these gives us a unique perspective on the natural world. Format: Discussion and criticism of video examples, documentaries, and research papers. Topics: History and approaches to animal behavior; development of behavior, from genetics to learning; mechanisms of behavior, from neurons to motivation; function of behavior, from honest signals to selfish genes; the phylogeny of behavior, from domestication to speciation; and modern applications of behavior, from abnormal behavior, to conservation, to animal welfare, and animal consciousness.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:COMPMED80N ISF
+DTSTART;TZID=America/Los_Angeles:20170404T113000
+CREATED:20160925T011612
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

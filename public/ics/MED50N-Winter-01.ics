@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T112000
+LAST-MODIFIED:20160925T011615
+UID:explore_courses5332eb8e-6809-4b2b-8dcd-245cdfe7e72e
+DTSTAMP:20160925T011615
+LOCATION:Alway Building, Room M112
+DESCRIPTION:Investigates how scientific research informs how physicians take care of patients and how clinical research informs how scientific experiments are conducted. Topics include how these two processes have improved health and have resulted in innovation and scientic progress; specific human disease areas in allergy and immunology that affect all ages of patients globally, including food allergy; scientific concepts of research that helped in discovery of novel diagnostics and treatment of disease; ethical roles of physicians and scientists in conducting translational research in human disease.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED50N ISF
+DTSTART;TZID=America/Los_Angeles:20170110T100000
+CREATED:20160925T011615
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

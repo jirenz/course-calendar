@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T115000
+LAST-MODIFIED:20160925T011704
+UID:explore_coursesb70c8a92-8237-41e5-8136-1c4f25d7225f
+DTSTAMP:20160925T011704
+LOCATION:School of Education 210
+DESCRIPTION:Epidemiology is the study of the distribution and determinants of health and disease in human populations. Utilizing the lens of women's health, this course will introduce students to the basic principles of epidemiological study design, analysis, and interpretation. The course will draw on critical topics in women's health for lectures, discussions, readings and assignments. Research articles from epidemiology as well as other social science disciplines will be utilized to offer students multiple perspectives on contemporary women's health issues. Human Biology 154 courses can be taken separately or as a series. Prerequisite: Human Biology core or equivalent or consent of instructor.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HUMBIO154B LEC
+DTSTART;TZID=America/Los_Angeles:20160926T103000
+CREATED:20160925T011704
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

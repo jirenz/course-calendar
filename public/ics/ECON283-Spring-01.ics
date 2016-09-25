@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T152000
+LAST-MODIFIED:20160925T011658
+UID:explore_coursesdaf67644-93e3-4f6c-ae98-d5ea30047b86
+DTSTAMP:20160925T011658
+LOCATION:Econ 206
+DESCRIPTION:This class will focus on several topics in auction market design and related areas. It is an advanced course, intended as a sequel to the more basic market/mechanism/auction design courses offered at the Economics department and the GSB. Students are expected to be familiar with the material in those courses. We will briefly review some basics of auction theory, but the main goal of the class is to bring students closer to doing independent research and introduce them to recent contributions and currently active research areas. Specific topics may include: multi-item and combinatorial auctions; robust auction design; applied auction design with practical applications; Internet advertising; radio spectrum auctions; securities markets; commodities; complex procurements.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON283 LEC
+DTSTART;TZID=America/Los_Angeles:20170403T133000
+CREATED:20160925T011658
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170405T132000
+LAST-MODIFIED:20160925T011627
+UID:explore_courses4dd1aa71-dcc5-4188-88d7-8bd7e8321f75
+DTSTAMP:20160925T011627
+LOCATION:Shriram Ctr BioChemE 366
+DESCRIPTION:Presentation and discussion of early stage or more mature research on a variety of topics related to financing, governance and sustainability of civil infrastructure projects by researchers associated with the Global Projects Center and visiting speakers. To obtain one unit of credit, students must attend and participate in all seminars, with up to two excused absences. Seminar meets weekly during Autumn, Winter and Spring Quarters.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE323C RES
+DTSTART;TZID=America/Los_Angeles:20170405T123000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

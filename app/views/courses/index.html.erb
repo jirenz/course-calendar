@@ -21,7 +21,7 @@
 	<tbody>
 		<% @results.each do |name| %>
 		<tr>
-		<td><%= link_to name, "https://s3-us-west-2.amazonaws.com/explorecoursesics/" + name + ".ics"%> </td>
+		<td><%= link_to name, "public/ics/" + name + ".ics" %> </td>
 		</tr>
 		<% end %>
 	</tbody>

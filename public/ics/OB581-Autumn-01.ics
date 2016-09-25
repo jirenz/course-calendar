@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T175000
+LAST-MODIFIED:20160925T011600
+UID:explore_coursesa1f54389-f417-4f83-9625-98d43063064a
+DTSTAMP:20160925T011600
+LOCATION:GSB Gunn 101
+DESCRIPTION:This course is designed to improve students' skills in all phases of a negotiation: understanding prescriptive and descriptive negotiation theory as it applies to dyadic and multiparty negotiations, to buyer-seller transactions and the resolution of disputes, to the development of negotiation strategy and to the management of integrative and distributive aspects of the negotiation process. The course is based on a series of simulated negotiations in a variety of contexts including one-on-one, multi-party, and team negotiations. When playing a role in a simulated conflict, you will be free to try out tactics that might feel uncomfortable in a real one. You will get feedback from your classmates about how you come across. You will have an opportunity to reflect on your experience in your negotiation paper. In sum, you can use this course to expand your repertoire of conflict management and negotiation skills, to hone your skills, and to become more adept in choosing when to apply each skill. nnThis course represents a shorter, more intense version of OB 381-Conflict Management and Negotiations. Students should not take both courses, as there is considerable overlap in course content. Attendance and participation in the negotiation exercises is mandatory.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OB581 CAS
+DTSTART;TZID=America/Los_Angeles:20160926T150000
+CREATED:20160925T011600
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161007T175000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

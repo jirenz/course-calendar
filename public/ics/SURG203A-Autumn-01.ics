@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160901T122000
+LAST-MODIFIED:20160925T011622
+UID:explore_coursesb324edcb-3d71-4171-a836-5c4c89a9e5ca
+DTSTAMP:20160925T011622
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:Introduction to human structure and function presented from a clinical perspective. Includes clinical scenarios, frequently used medical imaging techniques, and interventional procedures to illustrate the underlying anatomy.  Students are required to attend lectures and engage in dissection of the human body in the anatomy laboratory.  Surgery 203A presents structures of the thorax, abdomen, pelvis, back, upper and lower limbs.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SURG203A LEC
+DTSTART;TZID=America/Los_Angeles:20160901T113000
+CREATED:20160925T011622
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160830T152000
+LAST-MODIFIED:20160925T011622
+UID:explore_coursescf3370aa-501c-4ed3-a04f-0d0155171cff
+DTSTAMP:20160925T011622
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:Introduction to human structure and function presented from a clinical perspective. Includes clinical scenarios, frequently used medical imaging techniques, and interventional procedures to illustrate the underlying anatomy.  Students are required to attend lectures and engage in dissection of the human body in the anatomy laboratory.  Surgery 203A presents structures of the thorax, abdomen, pelvis, back, upper and lower limbs.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SURG203A LEC
+DTSTART;TZID=America/Los_Angeles:20160830T133000
+CREATED:20160925T011622
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160830T172000
+LAST-MODIFIED:20160925T011622
+UID:explore_coursesb2c357c9-c887-465c-a78f-7ab65744e2a0
+DTSTAMP:20160925T011622
+LOCATION:CCSR0001
+DESCRIPTION:Introduction to human structure and function presented from a clinical perspective. Includes clinical scenarios, frequently used medical imaging techniques, and interventional procedures to illustrate the underlying anatomy.  Students are required to attend lectures and engage in dissection of the human body in the anatomy laboratory.  Surgery 203A presents structures of the thorax, abdomen, pelvis, back, upper and lower limbs.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SURG203A LEC
+DTSTART;TZID=America/Los_Angeles:20160830T153000
+CREATED:20160925T011622
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

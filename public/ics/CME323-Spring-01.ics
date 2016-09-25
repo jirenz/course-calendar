@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T115000
+LAST-MODIFIED:20160925T011628
+UID:explore_courses56255cb7-568f-4d7e-a6f3-12e07fa88a0b
+DTSTAMP:20160925T011628
+LOCATION:Hewlett Teaching Center 201
+DESCRIPTION:The emergence of large distributed clusters of commodity machines has brought with it a slew of new algorithms and tools. Many fields such as Machine Learning and Optimization have adapted their algorithms to handle such clusters. Topics include distributed algorithms for: Optimization, Numerical Linear Algebra, Machine Learning, Graph analysis, Streaming algorithms, and other problems that are challenging to scale on a commodity cluster. The class will focus on analyzing parallel programs, with some implementation using Apache Spark.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CME323 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T103000
+CREATED:20160925T011628
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

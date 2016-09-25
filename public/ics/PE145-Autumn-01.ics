@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T112000
+LAST-MODIFIED:20160925T011623
+UID:explore_coursesed162840-2b73-4150-8fe5-05cc8261674b
+DTSTAMP:20160925T011623
+LOCATION:Taube South Courts
+DESCRIPTION:Students will review and strengthen stroke techniques with emphasis on control, depth, and direction.  This course will also incorporate rules, etiquette, and basic strategy and tactics. This course will utilize class discussions, class assignments and student participation to enable students to: (1) Understand basic components of health-related physical fitness, cardiovascular fitness, muscular strength and endurance and flexibility (2) Develop physical fitness and motor skills, and (3) Develop a positive attitude toward wellness and physical activity which will facilitate a healthy lifestyle. Prerequisites: 144, or knowledge of rules and scoring and average ability in fundamental strokes but limited playing experience. Fee. (AU)
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PE145 ACT
+DTSTART;TZID=America/Los_Angeles:20160926T103000
+CREATED:20160925T011623
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

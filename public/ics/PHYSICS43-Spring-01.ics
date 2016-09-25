@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T112000
+LAST-MODIFIED:20160925T011711
+UID:explore_courses96dc6b36-7b0f-4bdc-bf5d-b152cabd1adb
+DTSTAMP:20160925T011711
+LOCATION:Hewlett Teaching Center 200
+DESCRIPTION:What is electricity? What is magnetism? How are they related? How do these phenomena manifest themselves in the physical world? The theory of electricity and magnetism, as codified by Maxwell's equations, underlies much of the observable universe. Students develop both conceptual and quantitative knowledge of this theory. Topics include: electrostatics; magnetostatics; simple AC and DC circuits involving capacitors, inductors, and resistors; integral form of Maxwell's equations; electromagnetic waves. Principles illustrated in the context of modern technologies. Broader scientific questions addressed include: How do physical theories evolve? What is the interplay between basic physical theories and associated technologies? Discussions based on the language of mathematics, particularly differential and integral calculus, and vectors. Physical understanding fostered by peer interaction and demonstrations in lecture, and discussion sections based on interactive group problem solving. Prerequisite: PHYSICS 41 or equivalent. MATH 21 or MATH 42 or MATH 51 or CME 100 or equivalent. Recommended corequisite: MATH 52 or CME 102.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHYSICS43 LEC
+DTSTART;TZID=America/Los_Angeles:20170403T103000
+CREATED:20160925T011711
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T102000
+LAST-MODIFIED:20160925T011711
+UID:explore_coursesdcc6d75d-dac4-45c6-af58-9e754a44ec51
+DTSTAMP:20160925T011711
+LOCATION:Hewlett Teaching Center 200
+DESCRIPTION:What is electricity? What is magnetism? How are they related? How do these phenomena manifest themselves in the physical world? The theory of electricity and magnetism, as codified by Maxwell's equations, underlies much of the observable universe. Students develop both conceptual and quantitative knowledge of this theory. Topics include: electrostatics; magnetostatics; simple AC and DC circuits involving capacitors, inductors, and resistors; integral form of Maxwell's equations; electromagnetic waves. Principles illustrated in the context of modern technologies. Broader scientific questions addressed include: How do physical theories evolve? What is the interplay between basic physical theories and associated technologies? Discussions based on the language of mathematics, particularly differential and integral calculus, and vectors. Physical understanding fostered by peer interaction and demonstrations in lecture, and discussion sections based on interactive group problem solving. Prerequisite: PHYSICS 41 or equivalent. MATH 21 or MATH 42 or MATH 51 or CME 100 or equivalent. Recommended corequisite: MATH 52 or CME 102.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHYSICS43 LEC
+DTSTART;TZID=America/Los_Angeles:20170403T093000
+CREATED:20160925T011711
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

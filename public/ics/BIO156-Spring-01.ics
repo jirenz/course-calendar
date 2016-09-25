@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T132000
+LAST-MODIFIED:20160925T011643
+UID:explore_courses268a438e-b8ce-495f-9130-6f1ce978a7da
+DTSTAMP:20160925T011643
+LOCATION:Herrin T175
+DESCRIPTION:Epigenetics is the process by which phenotypes not determined by the DNA sequence are stably inherited in successive cell divisions. Course will cover the molecular mechanisms governing epigenetics, ranging from the discovery of epigenetic phenomena to present-day studies on the role of chromatin, DNA methylation, and RNA in regulating epigenetics processes. Topics include: position effect gene expression, genome regulation, gene silencing &amp; heterochromatin, histone code, DNA methylation &amp; imprinting, epigenetics &amp; disease, and epigenetic-based therapeutics. Prerequisite: BIO41 and BIO42 or consent of instructor, advanced biology course such as Bio104
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIO156 SEM
+DTSTART;TZID=America/Los_Angeles:20170403T123000
+CREATED:20160925T011643
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

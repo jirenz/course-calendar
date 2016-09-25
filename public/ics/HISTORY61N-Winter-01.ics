@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T145000
+LAST-MODIFIED:20160925T011703
+UID:explore_coursesde247ddd-d04c-4be9-a056-9377ab0e5b36
+DTSTAMP:20160925T011703
+LOCATION:GSB Littlefield 104
+DESCRIPTION:Thomas Jefferson assumed many roles during his life&iquest;Founding Father, revolutionary, and author of the Declaration of Independence; natural scientist, inventor, and political theorist; slaveholder, founder of a major political party, and President of the United States. This introductory seminar explores these many worlds of Jefferson, both to understand the multifaceted character of the man and the broader historical contexts that he inhabited and did so much to shape.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY61N ISF
+DTSTART;TZID=America/Los_Angeles:20170109T133000
+CREATED:20160925T011703
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

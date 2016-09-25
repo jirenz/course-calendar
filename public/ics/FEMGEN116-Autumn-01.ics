@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T122000
+LAST-MODIFIED:20160925T011700
+UID:explore_courses465053ae-067c-4295-961d-177ef09461c6
+DTSTAMP:20160925T011700
+LOCATION:McMurtry Building rm 350
+DESCRIPTION:Psychiatrist Dori Laub has argued that the process of narrating trauma is essential to the healing process. Not only is telling the story important, but it is also crucial to have someone else bear witness to the narrative. But how do people even begin to narrate stories of violence and pain, and how do we become good listeners? How are these stories told and heard in the specific context of queer world making? This course will explore narratives of trauma in queer lives through literature, film, media, and performance in conjunction with trauma theory and psychoanalysis. We will pay specific attention to questions of community, healing, violence, and affect at the intersections of queerness and race, sex, disability, class, gender, and nationality.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FEMGEN116 SEM
+DTSTART;TZID=America/Los_Angeles:20160926T103000
+CREATED:20160925T011700
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

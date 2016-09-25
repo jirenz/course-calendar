@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T142000
+LAST-MODIFIED:20160925T011612
+UID:explore_courses1dde265a-2557-4864-84c8-eb22a9ed41b4
+DTSTAMP:20160925T011612
+LOCATION:Li Ka Shing Center, room 208
+DESCRIPTION:This practicum will involve students as managers of real-time study of the health effects of minimum wage changes in the Bay Area. A long-held economic theory suggests that increased income should have secondary benefits to health, particularly for mental health and adverse health behaviors (e.g., binge drinking). Recent increases in the minimum wage in the Bay Area provide a rare opportunity to test this theory. Students in this course will participate in organizing, executing and directing a community-based study of the health effects of minimum wage increases among local cities, under close guidance and supervision of Stanford faculty in medicine, health economics and sociology. Students will engage in class meetings one hour per week to learn classical and novel methods for the analysis of natural experiments in health policy and economics (e.g., different-in-differences methods, synthetic control analysis), and are expected to participate in directed field-based group projects for several additional hours per week. Priority will be given to students with interest and experience in community-based research on social determinants of health and with bilingual English/Spanish speaking skills. Prerequisites: A course in statistics. Students will be expected to travel off campus to area of Santa Clara and San Mateo counties accessible via Marguerite shuttle, BART/Caltrain or VTA bus. The group work involves recruiting and surveying low-income community members, and requires tenacity to conduct field-based studies.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHPR291 PRC
+DTSTART;TZID=America/Los_Angeles:20160929T133000
+CREATED:20160925T011612
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

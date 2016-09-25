@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T182000
+LAST-MODIFIED:20160925T011627
+UID:explore_courses1218ee53-9d8e-49f6-9b76-dbc98089b4ab
+DTSTAMP:20160925T011627
+LOCATION:Y2E2 105
+DESCRIPTION:This course will provide an introduction to the materials and methods used in building construction. A combination of in-class lectures, reading assignments, and building site visits will provide students with an awareness of construction materials and their use within building systems. All relevant building types and construction materials will be explored, including wood, steel, concrete and  masonry. Building foundations and basic structural systems will be explained. Building envelope elements will be considered, with an analysis of various glass and glazing materials, cladding types, and roofing systems. Interior Floor, wall and ceiling finishes will be discussed.  New and emerging building trends will also be examined, wuch as prefabricated and modular construction. Guest presenters, drawn from Bay Area consulting firms, will cover several topics of interest. Students will have an opportunity to experience real world material applications at local construction sites, and gain a thorough understanding of the construction process.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE131C LEC
+DTSTART;TZID=America/Los_Angeles:20170404T163000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T182000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

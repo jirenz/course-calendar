@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T175000
+LAST-MODIFIED:20160925T011633
+UID:explore_coursesee715b41-85e4-45ab-9565-b9cdfbf43a9c
+DTSTAMP:20160925T011633
+LOCATION:School of Education 206
+DESCRIPTION:The ethical responsibility for consequences of professional analysts who use technical knowledge in support of any individual, organization, or government. The means to form ethical judgments; questioning the desirability of physical coercion and deception as a means to reach any end. Human action and relations in society in the light of previous thought, and research on the desired form of social interactions. Attitudes toward ethical dilemmas through an explicit personal code.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MS&E254 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T150000
+CREATED:20160925T011633
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

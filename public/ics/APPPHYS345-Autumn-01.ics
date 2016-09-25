@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T145000
+LAST-MODIFIED:20160925T011638
+UID:explore_courses63e90f3d-8672-4a9e-ab1c-e05195ac1e29
+DTSTAMP:20160925T011638
+LOCATION:Gilbert Biological Science 117
+DESCRIPTION:Gaussian and unit sphere quadrature, singular value decomposition and principal component analysis, Krylov methods, non-linear fitting and super-resolution, independent component analysis, 3d reconstruction, &quot;shrink-wrap&quot;, hidden Markov methods, support vector machines, simulated annealing, molecular dynamics and parallel tempering, Markov state methods, Monte Carlo methods for constrained systems.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:APPPHYS345 LEC
+DTSTART;TZID=America/Los_Angeles:20160926T133000
+CREATED:20160925T011638
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

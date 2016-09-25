@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T102000
+LAST-MODIFIED:20160925T011625
+UID:explore_coursese4d4a020-a3ee-41f5-b6a7-da2f62baec70
+DTSTAMP:20160925T011625
+LOCATION:Shriram Ctr BioChemE 052
+DESCRIPTION:Preference to freshmen. Chemistry and engineering are subjects that are ubiquitous around us. But what happens when the two meet? Students will explore this question by diving into experimental problems that scientists and engineers have to face on a daily basis. Many processes that are taken for granted have been developed by understanding science at a very fundamental level and then applying it to large and important industrial processes. In this seminar, students will explore some of the basic concepts that are important to address chemical engineering problems through experimental work. Students will build materials for energy and environmental applications, understand how to separate mixtures into pure compounds, produce fuels, and will learn to look at the chemical properties of molecules that are part of daily life with a different eye.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHEMENG31N ISF
+DTSTART;TZID=America/Los_Angeles:20160927T093000
+CREATED:20160925T011625
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

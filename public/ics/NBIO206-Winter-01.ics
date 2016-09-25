@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170112T152000
+LAST-MODIFIED:20160925T011616
+UID:explore_coursesb06db820-7715-4bfb-906d-62484f8884c0
+DTSTAMP:20160925T011616
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:Structure and function of the nervous system, including neuroanatomy, neurophysiology, and systems neurobiology. Topics include the properties of neurons and the mechanisms and organization underlying higher functions. Framework for general work in neurology, neuropathology, clinical medicine, and for more advanced work in neurobiology. Lecture and lab components must be taken together.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:NBIO206 LEC
+DTSTART;TZID=America/Los_Angeles:20170112T133000
+CREATED:20160925T011616
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170117T102000
+LAST-MODIFIED:20160925T011616
+UID:explore_courses1e6c74fe-e727-4d1a-ba06-063667eb4bb8
+DTSTAMP:20160925T011616
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:Structure and function of the nervous system, including neuroanatomy, neurophysiology, and systems neurobiology. Topics include the properties of neurons and the mechanisms and organization underlying higher functions. Framework for general work in neurology, neuropathology, clinical medicine, and for more advanced work in neurobiology. Lecture and lab components must be taken together.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:NBIO206 LEC
+DTSTART;TZID=America/Los_Angeles:20170117T093000
+CREATED:20160925T011616
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170127T102000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170221T102000
+LAST-MODIFIED:20160925T011616
+UID:explore_courses60668f5c-b39e-4d71-93d5-0443e41eba17
+DTSTAMP:20160925T011616
+LOCATION:
+DESCRIPTION:Structure and function of the nervous system, including neuroanatomy, neurophysiology, and systems neurobiology. Topics include the properties of neurons and the mechanisms and organization underlying higher functions. Framework for general work in neurology, neuropathology, clinical medicine, and for more advanced work in neurobiology. Lecture and lab components must be taken together.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:NBIO206 LEC
+DTSTART;TZID=America/Los_Angeles:20170221T093000
+CREATED:20160925T011616
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170303T102000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T112000
+LAST-MODIFIED:20160925T011616
+UID:explore_coursesa49cfaf8-94d1-4382-af46-53bec2838350
+DTSTAMP:20160925T011616
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:Structure and function of the nervous system, including neuroanatomy, neurophysiology, and systems neurobiology. Topics include the properties of neurons and the mechanisms and organization underlying higher functions. Framework for general work in neurology, neuropathology, clinical medicine, and for more advanced work in neurobiology. Lecture and lab components must be taken together.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:NBIO206 LEC
+DTSTART;TZID=America/Los_Angeles:20170109T093000
+CREATED:20160925T011616
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,FR
+END:VEVENT
+END:VCALENDAR

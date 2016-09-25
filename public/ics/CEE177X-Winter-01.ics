@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T192000
+LAST-MODIFIED:20160925T011627
+UID:explore_courses6b6e582c-5fa0-4b99-b0c6-959117b52bb6
+DTSTAMP:20160925T011627
+LOCATION:Y2E2 101
+DESCRIPTION:This course is the first half of a two quarter, project-based design course that addresses the cultural, political, organizational, technical, and business issues at the heart of implementing sustainable engineering projects in the developing world. Students will be placed into one of three project teams and tackle a real-world design challenge in partnership with social entrepreneurs and NGOs. In CEE 177X/277X, students will gain the background skills and context necessary to effectively design engineering projects in developing nations.  Instructor consent required.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE177X SEM
+DTSTART;TZID=America/Los_Angeles:20170111T180000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T192000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

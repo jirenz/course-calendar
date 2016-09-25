@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T162000
+LAST-MODIFIED:20160925T011643
+UID:explore_coursesdb170a75-8180-4d9b-9ed3-f67da00495fa
+DTSTAMP:20160925T011643
+LOCATION:Herrin T195
+DESCRIPTION:Focus is on using mutations and genetic analysis to study biological and medical questions. The first portion of the course covers how the identification and analysis of mutations can be used in model systems to investigate biological processes such as development and metabolism.  In the second portion of the course, we focus on the use of existing genetic variation in humans and other species to identify disease-associated genes as well as to investigate variation in morphological traits such as body size and shape.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIO118 LEC
+DTSTART;TZID=America/Los_Angeles:20160926T150000
+CREATED:20160925T011643
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

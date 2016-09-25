@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T192000
+LAST-MODIFIED:20160925T011604
+UID:explore_courses006baac8-4e08-4b98-9820-ad5f854d7801
+DTSTAMP:20160925T011604
+LOCATION:Y2E2 105
+DESCRIPTION:The unique patchwork of urban-to-rural land uses, property ownership, and ecosystems in our region poses numerous challenges and opportunities for regional conservation and environmental stewardship. Students in this class will address a particular challenge through a faculty-mentored research project engaged with the Peninsula Open Space Trust, Acterra, or the Amah Mutsun Land Trust that focuses on open space management. By focusing on a project driven by the needs of these organizations and carried out through engagement with the community, and with thorough reflection, study, and discussion about the roles of scientific, economic, and policy research in local-scale environmental decision-making, students will explore the underlying challenges and complexities of what it means to actually do community-engaged research for conservation and open space preservation in the real world. As such, this course will provide students with skills and experience in research design in conservation biology and ecology, community and stakeholder engagement, land use policy and planning, and the practical aspects of land and environmental management.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EARTHSYS176 PRA
+DTSTART;TZID=America/Los_Angeles:20160926T163000
+CREATED:20160925T011604
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160928T112000
+LAST-MODIFIED:20160925T011605
+UID:explore_courses3ce12b52-11ce-4bbd-834f-2fecf261bb25
+DTSTAMP:20160925T011605
+LOCATION:Green Earth Sciences134
+DESCRIPTION:Lectures, problems. The volumetric behavior of fluids at high pressure. Equation of state representation of volumetric behavior. Thermodynamic functions and conditions of equilibrium, Gibbs and Helmholtz energy, chemical potential, fugacity. Phase diagrams for binary and multicomponent systems. Calculation of phase compositions from volumetric behavior for multicomponent mixtures. Experimental techniques for phase-equilibrium measurements. May be repeated for credit.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ENERGY251 LEC
+DTSTART;TZID=America/Los_Angeles:20160928T093000
+CREATED:20160925T011605
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=WE,FR
+END:VEVENT
+END:VCALENDAR

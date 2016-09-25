@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T230000
+LAST-MODIFIED:20160925T011708
+UID:explore_coursesb3ce885f-f740-4b05-8086-e2c29cfb1e9b
+DTSTAMP:20160925T011708
+LOCATION:Dinkelspiel Auditorium
+DESCRIPTION:Select 15- to 18-member North American taiko ensemble, performing all-original repertoire for Japanese drums. Multiple performances in Winter and Spring quarters, also touring; instrument construction and maintenance. Admission by audition in Autumn Quarter only. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure. By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC169 PRC
+DTSTART;TZID=America/Los_Angeles:20160926T200000
+CREATED:20160925T011708
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T230000;BYDAY=MO,TH
+END:VEVENT
+END:VCALENDAR

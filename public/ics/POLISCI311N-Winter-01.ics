@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T122000
+LAST-MODIFIED:20160925T011712
+UID:explore_courses2037b0a0-e5fd-47e7-8115-09b19e679c41
+DTSTAMP:20160925T011712
+LOCATION:McMurtry Building rm 102
+DESCRIPTION:Why do states develop nuclear weapons and why do some states, that have the technological capacity to build nuclear weapons, refrain from doing so? What are the strategic consequences of new states deploying nuclear weapons? What is the relationship between the spread of nuclear energy and the spread of nuclear weapons? Have international and domestic views on nuclear weapons changed since 1945? In this course, we will first examine the political science literature on these key questions about nuclear politics.  We will read and critique works using different approaches in political science including quantitative analysis, experiments, game theory, historical case studies, and mixed methods. Students will then design and execute small research projects to address questions that have been inadequately addressed in the existing literature.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:POLISCI311N SEM
+DTSTART;TZID=America/Los_Angeles:20170111T093000
+CREATED:20160925T011712
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

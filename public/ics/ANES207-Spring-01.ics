@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T140500
+LAST-MODIFIED:20160925T011610
+UID:explore_coursescece5c31-5678-4cd7-8f83-14db5f9ea90f
+DTSTAMP:20160925T011610
+LOCATION:Li Ka Shing Center, rms304/305
+DESCRIPTION:Acupuncture is part of a comprehensive system of traditional Chinese Medicine developed over the past two millennia.  This course reviews the history and theoretical basis of acupuncture for the treatment of various diseases as well as for the alleviation of pain.  Issues related to the incorporation of acupuncture into the current health care system and the efficacy of acupuncture in treating various diseases are addressed.  Includes practical, hands-on sections.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ANES207 SEM
+DTSTART;TZID=America/Los_Angeles:20170404T121500
+CREATED:20160925T011610
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T140500;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

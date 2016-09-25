@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T182000
+LAST-MODIFIED:20160925T011615
+UID:explore_courses919556e6-a630-4126-b647-1b7f3f7cc0ad
+DTSTAMP:20160925T011615
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:Life Science companies are often valued with a different methodology than traditional valuation metrics. This course will serve to teach students how to analyze a publicly traded life science company or sector using publicly available materials online such as 10-K, 13-F, conference calls, and financial &amp; technical analysis. In addition, students will learn how to access various Stanford resources (analyst reports, Bloomberg, etc). Students will work in teams throughout class and publish an investment analysis at the end of the course.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:INDE239SI ACT
+DTSTART;TZID=America/Los_Angeles:20160929T163000
+CREATED:20160925T011615
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

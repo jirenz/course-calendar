@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170405T205000
+LAST-MODIFIED:20160925T011610
+UID:explore_coursescedc4167-0542-410b-b026-9e95b7d8bfc6
+DTSTAMP:20160925T011610
+LOCATION:Li Ka Shing Center, rms304/305
+DESCRIPTION:Examines the various factors involved in shaping the critical care illness experience for three groups of people: the clinicians, the patients, and patients' families. Medical issues, economic forces and cost concerns, cultural biases, and communication errors can all influence one's perception. Helps students understand the arc of critical illness, and how various factors contribute to the interactions between those various groups.  Includes an immersion experience (students are expected to round with clinicians in the ICU and to attend Schwartz rounds, a debriefing meeting about difficult emotional situation) and a mentoring experience (with critical care fellows), in addition to routine class work.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ANES70Q ISS
+DTSTART;TZID=America/Los_Angeles:20170405T180000
+CREATED:20160925T011610
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T205000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

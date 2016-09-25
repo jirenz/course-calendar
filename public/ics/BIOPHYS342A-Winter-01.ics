@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T162000
+LAST-MODIFIED:20160925T011648
+UID:explore_courses5d594908-f13a-41fc-9d56-84e3401614b7
+DTSTAMP:20160925T011648
+LOCATION:
+DESCRIPTION:Cell mechanobiology topics including cell structure, mechanical models, and chemo-mechanical signaling. Review and apply methods for controlling and analyzing the biomechanics of cells using traction force microscopy, AFM, micropatterning and cell stimulation. Practice and theory for the design and application of methods for quantitative cell mechanobiology. Weekly lecture and hands-on laboratory sessions. The compressed summer schedule for this course is a &iquest;boot-camp&iquest; format with labs and lectures from 9-12 and 1:30-5:00 M-F July 11 -July 22. Classes will be held in Shriram 114. Enrollment limited to 6 students.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOPHYS342A LAB
+DTSTART;TZID=America/Los_Angeles:20170110T150000
+CREATED:20160925T011648
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170112T175000
+LAST-MODIFIED:20160925T011648
+UID:explore_courses7494ca96-a751-41ec-b876-4342f31e00d8
+DTSTAMP:20160925T011648
+LOCATION:
+DESCRIPTION:Cell mechanobiology topics including cell structure, mechanical models, and chemo-mechanical signaling. Review and apply methods for controlling and analyzing the biomechanics of cells using traction force microscopy, AFM, micropatterning and cell stimulation. Practice and theory for the design and application of methods for quantitative cell mechanobiology. Weekly lecture and hands-on laboratory sessions. The compressed summer schedule for this course is a &iquest;boot-camp&iquest; format with labs and lectures from 9-12 and 1:30-5:00 M-F July 11 -July 22. Classes will be held in Shriram 114. Enrollment limited to 6 students.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOPHYS342A LAB
+DTSTART;TZID=America/Los_Angeles:20170112T133000
+CREATED:20160925T011648
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

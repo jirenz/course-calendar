@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T145000
+LAST-MODIFIED:20160925T011627
+UID:explore_courses37e478c9-2183-453f-a012-cc8e41ad0abc
+DTSTAMP:20160925T011627
+LOCATION:Y2E2 292A
+DESCRIPTION:This course will introduce and develop the mathematical theory of networks, metrics of  networks, static and dynamic network models and apply them to analysis of urban systems.  Students are expected to have a strong background in calculus and linear algebra before taking this course and should be comfortable with the calculation and manipulation of matrices. Experience in a numerical scripting language (preferably Python, R or Matlab) is necessary for the final project.  Coursework will consist of weekly graded problem sets pertaining to both theory of networks and applications to urban systems.  There will be a final project where students will be required to apply network based methods to the analysis of real data of an urban system. (subject to change)
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE245 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T133000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

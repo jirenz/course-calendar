@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T172000
+LAST-MODIFIED:20160925T011640
+UID:explore_courses5d92445e-9f56-4095-9c87-3ab12813f1ee
+DTSTAMP:20160925T011640
+LOCATION:McMurtry Building rm 011B
+DESCRIPTION:This class explores the history, practice and technique of creating art on and for the internet. Discussions, projects and readings focus on the ways in which internet art embodies changing ideas about artistic creation, technology, and interactivity as a way of blurring the line between artist and audience. Setting recent work against the backdrop of earlier moments in contemporary art (found object art, photomontage), this course also situates internet art in the pre-internet tradition of finding new perspectives on, and meanings in, overfamiliar or banal media surroundings. In collaborative and individual projects, students will create visual compositions on online platforms such as NewHive and explore social media interventions, Twitter experiments, crowdsourced work, collections of online found imagery, supercuts, GIFs, and &quot;choose your own adventure&quot;- style online storytelling.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSTUDI174B LEC
+DTSTART;TZID=America/Los_Angeles:20170109T153000
+CREATED:20160925T011640
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

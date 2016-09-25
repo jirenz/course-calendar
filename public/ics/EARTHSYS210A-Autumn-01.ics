@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T102000
+LAST-MODIFIED:20160925T011604
+UID:explore_courses12f2aff0-687b-402b-afd9-88101eb2124b
+DTSTAMP:20160925T011604
+LOCATION:Shriram Ctr BioChemE 368
+DESCRIPTION:The Earth Systems Senior Capstone and Reflection, required of all seniors, provides students with opportunities to synthesize and reflect on their learning in the major. Students participate in guided career development and planning activities and initiate work on an independent or group capstone project related to an Earth Systems problem or question of interest. In addition, students learn and apply principles of effective oral communication through developing and giving a formal presentation on their internship. Students must also take EARTHSYS 210P, Earth Systems Capstone Project, in the quarter following the Senior Capstone and Reflection Course. Prerequisite: Completion of an approved Earth Systems internship (EARTHSYS 260).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EARTHSYS210A SEM
+DTSTART;TZID=America/Los_Angeles:20160927T090000
+CREATED:20160925T011604
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

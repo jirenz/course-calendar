@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170626T152000
+LAST-MODIFIED:20160925T011611
+UID:explore_courses1b725129-595b-4c42-b449-311f4238726f
+DTSTAMP:20160925T011611
+LOCATION:Li Ka Shing Center, room 120
+DESCRIPTION:Application based course in nonparametric statistics.  Modern toolbox of visualization and statistical methods for the analysis of data, examples drawn from immunology, microbiology, cancer research and ecology. Methods covered include multivariate methods (PCA and extensions), sparse representations (trees, networks, contingency tables) as well as nonparametric testing (Bootstrap, permutation and Monte Carlo methods). Hands on, use R and cover many Bioconductor packages.  Prerequisite: Minimal familiarity with computers. Instructor consent. Location: Li Ka Shing Center, room 120.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS221 LEC
+DTSTART;TZID=America/Los_Angeles:20170626T133000
+CREATED:20160925T011611
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T152000;BYDAY=MO,TU,WE,TH,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170626T115000
+LAST-MODIFIED:20160925T011611
+UID:explore_coursesdca79fc3-ebb3-456e-90a4-59d6ef0c6028
+DTSTAMP:20160925T011611
+LOCATION:Li Ka Shing Center, room 120
+DESCRIPTION:Application based course in nonparametric statistics.  Modern toolbox of visualization and statistical methods for the analysis of data, examples drawn from immunology, microbiology, cancer research and ecology. Methods covered include multivariate methods (PCA and extensions), sparse representations (trees, networks, contingency tables) as well as nonparametric testing (Bootstrap, permutation and Monte Carlo methods). Hands on, use R and cover many Bioconductor packages.  Prerequisite: Minimal familiarity with computers. Instructor consent. Location: Li Ka Shing Center, room 120.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS221 LEC
+DTSTART;TZID=America/Los_Angeles:20170626T103000
+CREATED:20160925T011611
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T115000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170627T102000
+LAST-MODIFIED:20160925T011611
+UID:explore_courses110ce5c0-89ea-4b49-9b47-891373ca75c9
+DTSTAMP:20160925T011611
+LOCATION:Li Ka Shing Center, room 120
+DESCRIPTION:Application based course in nonparametric statistics.  Modern toolbox of visualization and statistical methods for the analysis of data, examples drawn from immunology, microbiology, cancer research and ecology. Methods covered include multivariate methods (PCA and extensions), sparse representations (trees, networks, contingency tables) as well as nonparametric testing (Bootstrap, permutation and Monte Carlo methods). Hands on, use R and cover many Bioconductor packages.  Prerequisite: Minimal familiarity with computers. Instructor consent. Location: Li Ka Shing Center, room 120.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS221 LEC
+DTSTART;TZID=America/Los_Angeles:20170627T093000
+CREATED:20160925T011611
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T102000;BYDAY=TU,WE,TH,FR
+END:VEVENT
+END:VCALENDAR

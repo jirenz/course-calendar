@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170113T162000
+LAST-MODIFIED:20160925T011613
+UID:explore_coursesc807a1f4-8a0a-4348-ad8a-8bd970a83474
+DTSTAMP:20160925T011613
+LOCATION:Alway Building, Room M106
+DESCRIPTION:The goal of this course is to explore how different experimental strategies are applied to a variety of biological questions. By experimental strategy, we refer to both the general method and the logic with which the method is applied. An underlying theme of the course is that each strategy we discuss can be applied to problems that cut across different disciplines, for example immunology, cancer biology, or embryology.  Genome evolution, organization, and function; technical, computational, and experimental approaches; hands-on experience with representative computational tools used in genome science; and a work knowledge of the scripting language Python
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GENE211 LEC
+DTSTART;TZID=America/Los_Angeles:20170113T133000
+CREATED:20160925T011613
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T112000
+LAST-MODIFIED:20160925T011613
+UID:explore_courses87a2f5f2-a1ee-4d23-8600-bc0012bbe540
+DTSTAMP:20160925T011613
+LOCATION:Alway Building, Room M106
+DESCRIPTION:The goal of this course is to explore how different experimental strategies are applied to a variety of biological questions. By experimental strategy, we refer to both the general method and the logic with which the method is applied. An underlying theme of the course is that each strategy we discuss can be applied to problems that cut across different disciplines, for example immunology, cancer biology, or embryology.  Genome evolution, organization, and function; technical, computational, and experimental approaches; hands-on experience with representative computational tools used in genome science; and a work knowledge of the scripting language Python
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GENE211 LEC
+DTSTART;TZID=America/Los_Angeles:20170110T093000
+CREATED:20160925T011613
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

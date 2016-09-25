@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T132000
+LAST-MODIFIED:20160925T011717
+UID:explore_courses50990120-2e33-42e0-8e6a-dea1230d9b58
+DTSTAMP:20160925T011717
+LOCATION:160-325
+DESCRIPTION:Analysis of representations of queer lives in films from the Spanish-speaking world (including the U.S.). We will be looking at the meaning each film produces about a wide variety of queer experience, in relation to a specific national, historical and cultural context. We will also practice doing close readings of how each film produces meaning about queer experience, focusing on the formal features mise-en-scene, cinematography, sound, editing , narrative and style.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ILAC282 SEM
+DTSTART;TZID=America/Los_Angeles:20160929T120000
+CREATED:20160925T011717
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T145000
+LAST-MODIFIED:20160925T011717
+UID:explore_courses818accf6-7385-4f76-8590-3c6a323bda98
+DTSTAMP:20160925T011717
+LOCATION:160-322
+DESCRIPTION:Analysis of representations of queer lives in films from the Spanish-speaking world (including the U.S.). We will be looking at the meaning each film produces about a wide variety of queer experience, in relation to a specific national, historical and cultural context. We will also practice doing close readings of how each film produces meaning about queer experience, focusing on the formal features mise-en-scene, cinematography, sound, editing , narrative and style.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ILAC282 SEM
+DTSTART;TZID=America/Los_Angeles:20160927T120000
+CREATED:20160925T011717
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

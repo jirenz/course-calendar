@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T162000
+LAST-MODIFIED:20160925T011625
+UID:explore_coursesfb37a62d-de7b-49e1-9462-4a40911791e1
+DTSTAMP:20160925T011625
+LOCATION:Shriram Ctr BioChemE 104
+DESCRIPTION:Transport phenomena on small-length scales appropriate to applications in microfluidics, complex fluids, and biology. The basic equations of mass, momentum, and energy, derived for incompressible fluids and simplified to the slow-flow limit. Topics: solution techniques utilizing expansions of harmonic  and Green's functions; singularity solutions; flows involving rigid particles and fluid droplets; applications to suspensions; lubrication theory for flows in confined geometries; slender body theory; and capillarity and wetting. Prerequisites: 120A,B, 300, or equivalents.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHEMENG310 LEC
+DTSTART;TZID=America/Los_Angeles:20170110T150000
+CREATED:20160925T011625
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

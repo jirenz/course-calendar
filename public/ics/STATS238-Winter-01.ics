@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T132000
+LAST-MODIFIED:20160925T011718
+UID:explore_courses03d7b692-6483-4cb7-8ae2-2a567e1d9776
+DTSTAMP:20160925T011718
+LOCATION:Econ 140
+DESCRIPTION:If you are interested in a career in finance or that touches finance (computational science, economics, public policy, legal, regulatory, corporate, other), this course will give you a useful perspective. We will take on hot topics in the current landscape of the global markets as the world continues to evolve from the financial crisis. We will discuss the sweeping change underway at the policy level by regulators and legislators around the world and how this is changing business models for existing players and attracting new players to finance. The course will include guest-lecturer perspectives on where the greatest opportunities exist for students entering or touching the world of finance today including new and disruptive players in fin tech, crowd financing, block chain, robo advising, algorithmic trading, big data and other areas. New challenges such as cyber and financial warfare threats also will be addressed. While derivatives and other quantitative concepts will be handled in a non-technical way, some knowledge of finance and the capital markets is presumed. Elements used in grading: Class Participation, Attendance, Final Paper. Consent Application: To apply for this course, students must complete and email to the instructors the Consent Application Form, which will be made available on the Public Policy Program's website prior to the beginning of Winter Quarter. See Consent Application Form for submission deadline. (Cross-listed as ECON252/152, PUBLPOL364, STATS238, LAW 564.)
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STATS238 SEM
+DTSTART;TZID=America/Los_Angeles:20170109T113000
+CREATED:20160925T011718
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

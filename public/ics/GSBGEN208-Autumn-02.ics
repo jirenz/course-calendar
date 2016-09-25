@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20161010T114500
+LAST-MODIFIED:20160925T011559
+UID:explore_coursesf9877496-7329-477f-8785-ce41acf40af4
+DTSTAMP:20160925T011559
+LOCATION:GSB Class of 1968 105
+DESCRIPTION:With leadership comes responsibility. This course explores the numerous ethical duties faced by managers and organizations. It combines analytical frameworks with the latest findings on human behavior to inform a wide range of ethical decisions and strategies. Readings include case studies, insights from experimental psychology and economics, and excerpts from or about major works of moral philosophy. Through online and in-class exercises, discussions, and personal reflection, you will reveal and assess your ethical intuitions, compare them with more explicit modes of ethical thought, and learn how to use ethics in business settings. A diverse set of ethical viewpoints will be considered with an emphasis on not only their implications for ethical behavior but also on the social and cognitive pitfalls that undermine the ability of business leaders to fulfill their ethical duties.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GSBGEN208 CAS
+DTSTART;TZID=America/Los_Angeles:20161010T100000
+CREATED:20160925T011559
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T114500;BYDAY=MO,TH
+END:VEVENT
+END:VCALENDAR

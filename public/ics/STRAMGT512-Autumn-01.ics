@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T175000
+LAST-MODIFIED:20160925T011600
+UID:explore_courses849f1284-5f8e-410f-8726-2736e4941562
+DTSTAMP:20160925T011600
+LOCATION:GSB Faculty East 102
+DESCRIPTION:This seminar provides students with practical solutions to some of the challenges faced in family business transitions.nnFamily businesses are by far the dominant form of commerce world-wide, albeit the majority are small &quot;mom and pop shops.&quot; Some research shows that large businesses, whatever the form of ownership, have an average lifespan of around forty years, while small businesses (at least in Japan and Europe) average around twelve years. So, if businesses in general do not survive, then it is a wonder that any family business can survive from one generation to another, let alone two, three, four or more.nnThere are three essential requirements to succeed in a family business transition. First, it may seem obvious that the business must succeed, but it is less obvious what advantages a family business has over its non-family-owned counterparts. Second, the ownership structure must effectively maintain family cohesion and support the business. Finally, family members need to organize in thoughtful ways to work effectively with one another.nnThe beauty of a family business is that it can be more profitable than companies with non-family ownership. Two fundamentals, at least, provide this advantage - a strong value system and a long-term economic perspective. The operative word above, however, is &quot;can&quot;; it is by no means a foregone conclusion that a family business will be more successful. Families must thoughtfully develop their advantages, while at the same time avoiding the pitfalls that are inherent in any family business.nnAccordingly, this course is offered for students whose families own a family business or who are interested in the special challenges faced by family businesses. International students are encouraged to register as different cultural perspectives to family business will enrich the experience for everyone. Particular focus will be given to the transitions from one generation to another and the lessons learned that can be applied during the entire life of the business.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STRAMGT512 SEM
+DTSTART;TZID=America/Los_Angeles:20160926T150000
+CREATED:20160925T011600
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161007T175000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

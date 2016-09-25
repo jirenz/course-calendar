@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T152000
+LAST-MODIFIED:20160925T011640
+UID:explore_coursesa6331c49-561f-4840-8a32-b7698d31efbe
+DTSTAMP:20160925T011640
+LOCATION:McMurtry Building rm 130
+DESCRIPTION:This course investigates the immediacy of the body as material and sculpture in order to investigate private and social spaces. Actions are often used to understand or question the function and psychological aspects of a space and are documented for the perpetuation of these ideas. Throughout the quarter we will investigate the body as material and develop site specific performances enacted for: Private/Domestic and Public Space; Constructed Space &amp; Physical Space; ecological systems; and generate both Individual &amp; Collaborative based Actions, Interventions, &amp; Events.&quot;
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSTUDI155 PRA
+DTSTART;TZID=America/Los_Angeles:20170403T133000
+CREATED:20160925T011640
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

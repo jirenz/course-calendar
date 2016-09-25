@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T132000
+LAST-MODIFIED:20160925T011714
+UID:explore_coursesea56af0f-217d-48e6-a770-9f982ac8f010
+DTSTAMP:20160925T011714
+LOCATION:Econ 139
+DESCRIPTION:Fundamentals of the design, implementation and interpretation of social science field research. Building on a basic knowledge of statistical methods and economics, the course introduces observational field research and compares it with experimental field research. Significant attention devoted to explaining the details of research design as well as what can and cannot be learned through each type of field research. Emphasis placed on the theory of the design and analysis of statistical experiments. Topics include: sample size selection, power and size of statistical hypothesis tests, partial compliance, sample selection bias and methods for accounting for it. Development of critical reading skills emphasized through class discussions of academic journal articles and popular media accounts of field research. Examples of best practice field research studies presented as well as examples of commonly committed errors; students are expected to articulate and challenge or defend underlying assumptions and the extent to which real-world research matches up with concepts covered in lecture. Practical aspects of field work, including efficient and cost-effective data collection, teamwork, field team supervision, budget management, and common ethical considerations. Grading based on weekly problem sets that focus on developing data analysis skills using statistical software, a midterm examination, and a final project in which students write a detailed research proposal. Students can also apply to participate in a course project designing a field research project and implementing it in a developing country context during four weeks of the summer. Prerequisites: either ECON 1 and either STATS 60 or Econ 102A or equivalent.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PUBLPOL220 LEC
+DTSTART;TZID=America/Los_Angeles:20170109T113000
+CREATED:20160925T011714
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

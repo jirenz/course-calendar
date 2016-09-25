@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160928T182000
+LAST-MODIFIED:20160925T011558
+UID:explore_courses3e92d2dc-659d-46f0-b049-d551e8632813
+DTSTAMP:20160925T011558
+LOCATION:GSB Faculty East 104
+DESCRIPTION:The goal of this course is to introduce students to frontier research in quantitative macroeconomics and finance with heterogeneous agents. We study models with imperfect financial markets and/or search frictions. We emphasize theory and numerical methods as well as tools to confront model predictions with both micro and macro data. Potential applications cover a wide range of topics in household finance, corporate finance and firm dynamics, asset pricing, housing and labor markets, business cycles and growth.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MGTECON617 SEM
+DTSTART;TZID=America/Los_Angeles:20160928T153000
+CREATED:20160925T011558
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

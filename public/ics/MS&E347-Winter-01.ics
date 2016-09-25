@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T102000
+LAST-MODIFIED:20160925T011633
+UID:explore_courses9df5a297-86fa-49e6-aa45-8dc2359b1b04
+DTSTAMP:20160925T011633
+LOCATION:Shriram Ctr BioChemE 052
+DESCRIPTION:Credit risk modeling, valuation, and hedging emphasizing underlying economic, probabilistic, and statistical concepts. Point processes and their compensators. Structural, incomplete information and reduced form approaches. Single name products: corporate bonds, equity, equity options, credit and equity default swaps, forwards and swaptions. Multiname modeling: index and tranche swaps and options, collateralized debt obligations. Implementation, calibration and testing of models. Industry and market practice. Data and implementation driven group projects that focus on problems in the financial industry.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MS&E347 LEC
+DTSTART;TZID=America/Los_Angeles:20170110T090000
+CREATED:20160925T011633
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T160500
+LAST-MODIFIED:20160925T011603
+UID:explore_coursesfaa7ee98-e295-4704-94e2-d2efcb1c1d2d
+DTSTAMP:20160925T011603
+LOCATION:
+DESCRIPTION:(Formerly Law 290)  Evidence rules constrain proof at criminal and civil trials. We will study the Federal Rules of Evidence, related case law, and those constitutional concepts that limit proof at criminal trials. Topics include relevance, unfair prejudice, character evidence, impeachment, the rape shield law, hearsay, and the Confrontation and Compulsory Process Clauses.  Please note that the California Bar Examiners have posted this announcement: &quot;Applicants should be prepared to answer questions that have issues concerning the Federal Rules of Evidence and the California Evidence Code. Applicants should be prepared to compare and contrast the differences between the Federal Rules and the California Evidence Code, especially where the California rules of evidence have no specific counterparts in the Federal Rules.&quot; This evidence course covers only the Federal Rules of Evidence and does not address the California Evidence Code. Although similar principles of law govern the Federal Rules and California Code, the two sets of rules are not identical. Students preparing for the California Bar Exam will have to learn some new material.  Elements used in grading: Final exam (one-half essay and one-half multiple choice).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW2402 LEC
+DTSTART;TZID=America/Los_Angeles:20170111T140500
+CREATED:20160925T011603
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T160500;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170112T191500
+LAST-MODIFIED:20160925T011603
+UID:explore_courses30448bda-7ef7-4cd8-8558-6b6b4e69d69c
+DTSTAMP:20160925T011603
+LOCATION:
+DESCRIPTION:(Formerly Law 290)  Evidence rules constrain proof at criminal and civil trials. We will study the Federal Rules of Evidence, related case law, and those constitutional concepts that limit proof at criminal trials. Topics include relevance, unfair prejudice, character evidence, impeachment, the rape shield law, hearsay, and the Confrontation and Compulsory Process Clauses.  Please note that the California Bar Examiners have posted this announcement: &quot;Applicants should be prepared to answer questions that have issues concerning the Federal Rules of Evidence and the California Evidence Code. Applicants should be prepared to compare and contrast the differences between the Federal Rules and the California Evidence Code, especially where the California rules of evidence have no specific counterparts in the Federal Rules.&quot; This evidence course covers only the Federal Rules of Evidence and does not address the California Evidence Code. Although similar principles of law govern the Federal Rules and California Code, the two sets of rules are not identical. Students preparing for the California Bar Exam will have to learn some new material.  Elements used in grading: Final exam (one-half essay and one-half multiple choice).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW2402 LEC
+DTSTART;TZID=America/Los_Angeles:20170112T161500
+CREATED:20160925T011603
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T191500;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

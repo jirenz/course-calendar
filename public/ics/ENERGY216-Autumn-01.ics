@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T182000
+LAST-MODIFIED:20160925T011605
+UID:explore_coursesf167994f-1bef-43d4-bc34-982591dbf3fc
+DTSTAMP:20160925T011605
+LOCATION:Green Earth Sciences104
+DESCRIPTION:The combined forces of climate change, technological development, and geopolitics are disrupting the energy industry, yet the competitiveness and regulated nature of the mature markets for fuel, power, and materials have created meaningful barriers to entry for startup companies. In this case based course, students will study real energy startups to understand what challenges they have overcome and continue to face. Each week, the course will focus on a different company and the founder or CEO of that company will present. Topics will include advanced battery technologies, photovoltaic manufacturing, solar and wind project development, oil &amp; gas exploration &amp; production, advanced biofuels, electric vehicles, distributed power generation, and financing energy startups.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ENERGY216 LEC
+DTSTART;TZID=America/Los_Angeles:20160927T163000
+CREATED:20160925T011605
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

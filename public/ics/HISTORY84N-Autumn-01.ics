@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T175000
+LAST-MODIFIED:20160925T011703
+UID:explore_courses11d04f8f-121c-434e-bc2b-487dd7bb6af4
+DTSTAMP:20160925T011703
+LOCATION:200-201
+DESCRIPTION:What have been the traditional objectives of U.S. policy in the Middle East since the end of World War II?  What forces shape U.S. policy towards the Middle East?  Did those interests and the means employed to pursue them change substantially after the demise of the Soviet Union?  What has been the impact of U.S. policy on the region itself?  The three principal cases to be examined are Afghanistan, Iraq and Israel/Palestine.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY84N ISF
+DTSTART;TZID=America/Los_Angeles:20160927T163000
+CREATED:20160925T011703
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T190000
+LAST-MODIFIED:20160925T011703
+UID:explore_coursesa2cf22b8-11d7-4a8f-a38f-be27479e4b4c
+DTSTAMP:20160925T011703
+LOCATION:200-201
+DESCRIPTION:What have been the traditional objectives of U.S. policy in the Middle East since the end of World War II?  What forces shape U.S. policy towards the Middle East?  Did those interests and the means employed to pursue them change substantially after the demise of the Soviet Union?  What has been the impact of U.S. policy on the region itself?  The three principal cases to be examined are Afghanistan, Iraq and Israel/Palestine.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY84N ISF
+DTSTART;TZID=America/Los_Angeles:20160929T180000
+CREATED:20160925T011703
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T190000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

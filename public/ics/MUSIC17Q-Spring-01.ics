@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T162000
+LAST-MODIFIED:20160925T011708
+UID:explore_courses7c5c5da9-8a1b-4d6b-9d67-b61b5cc8ff03
+DTSTAMP:20160925T011708
+LOCATION:Braun 131
+DESCRIPTION:Preference to sophomores. Taiko, or Japanese drum, is a newcomer to the American music scene. Emergence of the first N. American taiko groups coincided with increased Japanese American activism, and to some it is symbolic of Japanese American identity. N. American taiko is associated with Japanese American Buddhism. Musical, cultural, historical, and political perspectives of taiko. Hands-on drumming. Japanese music and Japanese American history, and relations among performance, cultural expression, community, and identity.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC17Q ISS
+DTSTART;TZID=America/Los_Angeles:20170403T143000
+CREATED:20160925T011708
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T185000
+LAST-MODIFIED:20160925T011635
+UID:explore_courses7db7a8d2-dfd4-412a-b0b6-36d26dd6f318
+DTSTAMP:20160925T011635
+LOCATION:School of Education 313
+DESCRIPTION:This course examines the ways writers in literature and medicine have used the narrative form to explore the ethics of care in what has been called the developing world. We will begin with a call made by the editor-in-chief of The Lancet for a literature of global health, namely fiction modeled on the social reform novels of the nineteenth century, understood to have helped readers develop a conscience for public health as the field emerged as a modern medical specialty. We will then spend the quarter understanding how colonial, postcolonial, and world literatures have answered and complicated this call. Readings will include prose fiction by Albert Camus, Joseph Conrad, Tsitsi Dangaremgba, Amitav Ghosh, Susan Sontag as well as physician memoirs featuring Frantz Fanon, Albert Schweitzer, Abraham Verghese, Paul Farmer. And each literary reading will be paired with medical, philosophical, and policy writings that deeply inform the field of global health.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AFRICAAM229 SEM
+DTSTART;TZID=America/Los_Angeles:20170111T163000
+CREATED:20160925T011635
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T185000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

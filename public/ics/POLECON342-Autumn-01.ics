@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T175000
+LAST-MODIFIED:20160925T011600
+UID:explore_courses3b2e1db7-56c3-4e27-94c4-2aa455a7137c
+DTSTAMP:20160925T011600
+LOCATION:GSB Faculty East 104
+DESCRIPTION:This course explores the experience of respected business leaders who have been able to integrate their spiritual and business lives successfully.  It also provides an explicit opportunity for students to discuss their own intentions to find deep meaning in and through their business careers.  Difficulties, struggles and barriers will be examined as well.  Readings will include both biographies of specific business people and background materials on the major religious and philosophical traditions represented.  A number of the exemplars whose biographical information will be examined, like Jeff Weiner of LinkedIn, will be invited to class -- initially to listen to the class discussion, and then to provide feedback to students, expand on their own biographies and the background resources read in preparation for each class, and respond to questions and answers.  This course will help students elucidate how their business careers fit into what ultimately matters most to them and how to build moral courage and long-term commitment to their ideals.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:POLECON342 SEM
+DTSTART;TZID=America/Los_Angeles:20160929T150000
+CREATED:20160925T011600
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

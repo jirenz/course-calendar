@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T112000
+LAST-MODIFIED:20160925T011711
+UID:explore_coursesa69de536-b39b-4368-9506-fa8f065cec15
+DTSTAMP:20160925T011711
+LOCATION:Lathrop 190
+DESCRIPTION:Elementary particles and the fundamental forces. Quarks and leptons. The mediators of the electromagnetic, weak and strong interactions. Interaction of particles with matter; particle acceleration, and detection techniques. Symmetries and conservation laws. Bound states. Decay rates. Cross sections. Feynman diagrams. Introduction to Feynman integrals. The Dirac equation. Feynman rules for quantum electrodynamics and for chromodynamics. Undergraduates register for PHYSICS 152.  Graduate students register for PHYSICS 252.  (Graduate students will be required to complete additional assignments in a format determined by the instructor.)  Prerequisite: PHYSICS 130. Pre- or corequisite: PHYSICS 131.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHYSICS252 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T100000
+CREATED:20160925T011711
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

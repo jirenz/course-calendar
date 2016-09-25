@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T192000
+LAST-MODIFIED:20160925T011635
+UID:explore_courses91494f52-6e22-42e7-aca7-f8c659030f99
+DTSTAMP:20160925T011635
+LOCATION:550-200
+DESCRIPTION:Intended for design-oriented students who anticipate imagining and then creating new products with a focus on materiality and brand or design and business. Assumes basic knowledge of materials and manufacturing processes which results from taking ENGR 50, ME 203, or equivalent course/life experience. Goal is to acquire professional foundation information about materials and materiality from a product design point-of-view, manufacturing processes and business systems inside a factory, and story-telling by book authorship, essay writing, and multimedia presentation. Goal is for students to exhibit a deep and life-long love of materials and manufacturing in order to make great products and tell a good story about each one.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ME219 LEC
+DTSTART;TZID=America/Los_Angeles:20160926T173000
+CREATED:20160925T011635
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160930T123000
+LAST-MODIFIED:20160925T011635
+UID:explore_coursesd74f4e1e-e159-43b3-b461-f90f17a06894
+DTSTAMP:20160925T011635
+LOCATION:
+DESCRIPTION:Intended for design-oriented students who anticipate imagining and then creating new products with a focus on materiality and brand or design and business. Assumes basic knowledge of materials and manufacturing processes which results from taking ENGR 50, ME 203, or equivalent course/life experience. Goal is to acquire professional foundation information about materials and materiality from a product design point-of-view, manufacturing processes and business systems inside a factory, and story-telling by book authorship, essay writing, and multimedia presentation. Goal is for students to exhibit a deep and life-long love of materials and manufacturing in order to make great products and tell a good story about each one.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ME219 LEC
+DTSTART;TZID=America/Los_Angeles:20160930T083000
+CREATED:20160925T011635
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T123000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

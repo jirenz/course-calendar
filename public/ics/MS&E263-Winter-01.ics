@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T175000
+LAST-MODIFIED:20160925T011633
+UID:explore_courses46190230-f9c5-4a4e-86e0-1bae01aca2a7
+DTSTAMP:20160925T011633
+LOCATION:Gates B1
+DESCRIPTION:With healthcare spending in the US exceeding 17% of GDP and growing, improvements in the quality and efficiency of healthcare services are urgently needed. This class focuses on the use of analytical tools to support efficient and effective delivery of health care. Topics include quality control and management, capacity planning, resource allocation, management of patient flows, and scheduling. Prerequisites: basic knowledge of Excel spreadsheets, probability, and optimization.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MS&E263 LEC
+DTSTART;TZID=America/Los_Angeles:20170110T163000
+CREATED:20160925T011633
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

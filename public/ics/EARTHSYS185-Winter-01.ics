@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T115000
+LAST-MODIFIED:20160925T011604
+UID:explore_courses134ba55c-51e1-4b84-8db9-b71dce04699e
+DTSTAMP:20160925T011604
+LOCATION:Y2E2 111
+DESCRIPTION:Feeding a growing and wealthier population is a huge task, and one with implications for many aspects of society and the environment. There are many tough choices to be made- on fertilizers, groundwater pumping, pesticide use, organics, genetic modification, etc. Unfortunately, many people form strong opinions about these issues before understanding some of the basics of how food is grown, such as how most farmers currently manage their fields, and their reasons for doing so. The goal of this class is to present an overview of global agriculture, and the tradeoffs involved with different practices. Students will develop two key knowledge bases: basic principles of crop ecology and agronomy, and familiarity with the scale of the global food system. The last few weeks of the course will be devoted to building on this knowledge base to evaluate different future directions for agriculture.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EARTHSYS185 LEC
+DTSTART;TZID=America/Los_Angeles:20170110T103000
+CREATED:20160925T011604
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

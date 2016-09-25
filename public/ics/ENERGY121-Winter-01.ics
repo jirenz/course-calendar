@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T115000
+LAST-MODIFIED:20160925T011604
+UID:explore_courses1eae6fa6-2d1e-4623-ba67-f5d785ed7400
+DTSTAMP:20160925T011604
+LOCATION:Green Earth Sciences104
+DESCRIPTION:Multiphase flow in porous media. Wettability, capillary pressure, imbibition and drainage, Leverett J-function, transition zone, vertical equilibrium. Relative permeabilities, Darcy's law for multiphase flow, fractional flow equation, effects of gravity, Buckley-Leverett theory, recovery predictions, volumetric linear scaling, JBN and Jones-Rozelle determination of relative permeability. Frontal advance equation, Buckley-Leverett equation as frontal advance solution, tracers in multiphase flow, adsorption, three-phase relative permeabilities.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ENERGY121 LEC
+DTSTART;TZID=America/Los_Angeles:20170110T103000
+CREATED:20160925T011604
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

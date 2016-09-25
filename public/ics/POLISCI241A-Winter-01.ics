@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T112000
+LAST-MODIFIED:20160925T011712
+UID:explore_courses8202f39f-be7e-4413-a6bd-15634a9a9dbb
+DTSTAMP:20160925T011712
+LOCATION:School of Education 210
+DESCRIPTION:This course is an upper-level undergraduate seminar providing an introduction to the political economy of development. This course explores sources of economic growth, inequality, poverty, and other aspects of development with a particular focus on political institutions. We first explore the patterns of development in the world and then overview basic theories of development. Second, we review the key areas of debate within the study of development, including the role of the state, the consequences of corruption, the effects of natural resources, and gender. The course consists of lectures on theoretical and empirical approaches and the discussion on the literature and cases.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:POLISCI241A SEM
+DTSTART;TZID=America/Los_Angeles:20170110T093000
+CREATED:20160925T011712
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

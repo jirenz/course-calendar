@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T182000
+LAST-MODIFIED:20160925T011627
+UID:explore_courses9d7939ca-0684-44a7-8a3b-ed143a6c0e2a
+DTSTAMP:20160925T011627
+LOCATION:Hewlett Teaching Center Rm 101
+DESCRIPTION:The delivery of a successful building design program involves unique collaboration between architect and client. This course will endeavor to teach the skills necessary for a designer to identify, evaluate, conceptualize and fully document a complex mixed-use urban design. Students will complete the course with a detailed knowledge of the consultants, engineers and other professionals needed for a complete program.  Course deliverables will include three short assignments and a final project consisting of basic schematic drawings for the selected project.nnGuest presenters will cover topics of interest. Lectures, discussions, in-class studio-work and an oral presentation.nPre-requisite: CEE 130
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE131A LEC
+DTSTART;TZID=America/Los_Angeles:20170404T163000
+CREATED:20160925T011627
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T182000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

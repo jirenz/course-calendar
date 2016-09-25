@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T145000
+LAST-MODIFIED:20160925T011633
+UID:explore_courses14d988b7-c49b-463b-bf35-0be7b7d31bbc
+DTSTAMP:20160925T011633
+LOCATION:370-370
+DESCRIPTION:The principles of heterogeneous equilibria and their application to phase diagrams. Thermodynamics of solutions; chemical reactions; non-stoichiometry in compounds; first order phase transitions and metastability; thermodynamics of surfaces, elastic solids, dielectrics, and magnetic solids. Undergraduates register for 194 for 4 units; graduates register for 204 for 3 units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MATSCI204 LEC
+DTSTART;TZID=America/Los_Angeles:20170110T133000
+CREATED:20160925T011633
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T132000
+LAST-MODIFIED:20160925T011633
+UID:explore_courses7ef0bae2-916a-49cb-b71a-d0d6ced38dd0
+DTSTAMP:20160925T011633
+LOCATION:Mitchb67
+DESCRIPTION:The principles of heterogeneous equilibria and their application to phase diagrams. Thermodynamics of solutions; chemical reactions; non-stoichiometry in compounds; first order phase transitions and metastability; thermodynamics of surfaces, elastic solids, dielectrics, and magnetic solids. Undergraduates register for 194 for 4 units; graduates register for 204 for 3 units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MATSCI204 LEC
+DTSTART;TZID=America/Los_Angeles:20170109T123000
+CREATED:20160925T011633
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

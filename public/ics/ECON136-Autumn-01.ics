@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T152000
+LAST-MODIFIED:20160925T011658
+UID:explore_courses89b7e1f8-fa4d-44b2-baef-b33a9d5b01b0
+DTSTAMP:20160925T011658
+LOCATION:Econ 139
+DESCRIPTION:Use of economic theory and analysis to design allocation mechanisms and market institutions. Course focuses on three areas: the design of matching algorithms to solve assignment problems, with applications to school choice, entry-level labor markets, and kidney exchanges; the design of auctions to solve general resource allocation problems, with applications to the sale of natural resources, financial assets, and advertising; and the design of platforms and exchanges, with applications to internet markets. Emphasis on connecting economic theory to practical applications. Students must write term paper. Prerequisites: recommended: ECON 51.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON136 LEC
+DTSTART;TZID=America/Los_Angeles:20160927T133000
+CREATED:20160925T011658
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

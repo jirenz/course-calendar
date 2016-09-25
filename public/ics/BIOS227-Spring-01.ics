@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170605T103000
+LAST-MODIFIED:20160925T011611
+UID:explore_courses5d97853a-5adc-423c-96b8-f66b64d7f6b7
+DTSTAMP:20160925T011611
+LOCATION:Li Ka Shing Center, room 209
+DESCRIPTION:Focus on designing and analyzing effective proteomics experiments using mass spectrometry and critically evaluating published mass spectrometry-based studies and datasets. Introduces students to the instrumentation, experimental strategies, and computational methods used for identifying and quantifying proteins and protein post-translational modifications using mass spectrometry. Topics include comparative evaluation of mass spectrometer instrument configurations, tandem mass spectrum interpretation, relative and absolute quantitation, and proteome-scale data set analysis. Laboratory time will focus on sample preparation methods, real-time data acquisition, and data analysis software and techniques.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS227 LEC
+DTSTART;TZID=America/Los_Angeles:20170605T093000
+CREATED:20160925T011611
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170616T103000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170605T162000
+LAST-MODIFIED:20160925T011611
+UID:explore_courses14c45d5a-c220-40f8-892b-8f331fddfd2a
+DTSTAMP:20160925T011611
+LOCATION:Alway Building, Room M112
+DESCRIPTION:Focus on designing and analyzing effective proteomics experiments using mass spectrometry and critically evaluating published mass spectrometry-based studies and datasets. Introduces students to the instrumentation, experimental strategies, and computational methods used for identifying and quantifying proteins and protein post-translational modifications using mass spectrometry. Topics include comparative evaluation of mass spectrometer instrument configurations, tandem mass spectrum interpretation, relative and absolute quantitation, and proteome-scale data set analysis. Laboratory time will focus on sample preparation methods, real-time data acquisition, and data analysis software and techniques.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS227 LEC
+DTSTART;TZID=America/Los_Angeles:20170605T133000
+CREATED:20160925T011611
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170616T162000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T175000
+LAST-MODIFIED:20160925T011658
+UID:explore_coursesa274a3e5-4f8b-49c9-91e6-3603c0dbcc1c
+DTSTAMP:20160925T011658
+LOCATION:Lathrop 290
+DESCRIPTION:This is an experiential course that will cover the important concepts that underlying investment theory in Financial Economics.  Students will manage an investment portfolio of at least $1 million dollars.  In doing so they will learn how risk and return are related in public capital markets.  Students are expected to spend a substantial amount of time outside the classroom applying the knowledge they learn in the class. Prerequisites: Econ 51 (or IPS 204A, PublPol 301A), Econ 102B (or Stats 141, Stats 110, CEE 203, Earthsys 160, Educ 200C, Linguist 277, Psych 252), Econ 140 (or Econ 135), Econ 190 (or MS&amp;E 140)
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON183 SEM
+DTSTART;TZID=America/Los_Angeles:20170110T163000
+CREATED:20160925T011658
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

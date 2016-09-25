@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T122000
+LAST-MODIFIED:20160925T011633
+UID:explore_coursesf948b050-78fe-444f-a5ab-e019d974b3d2
+DTSTAMP:20160925T011633
+LOCATION:Hewlett Teaching Center 200
+DESCRIPTION:Diffusion and phase transformations in solids. Diffusion topics: Fick's laws, atomic theory of diffusion, and diffusion in alloys. Phase transformation topics: nucleation, growth, diffusional transformations, spinodal decomposition, and interface phenomena. Material builds on the mathematical, thermodynamic, and statistical mechanical foundations in the prerequisites. Prerequisites: 194/204. Undergraduates register for 197 for 4 units; graduates register for 207 for 3 units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MATSCI207 LEC
+DTSTART;TZID=America/Los_Angeles:20170403T113000
+CREATED:20160925T011633
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170406T112000
+LAST-MODIFIED:20160925T011633
+UID:explore_courses4e4828a9-0052-475f-ae76-752f33e08050
+DTSTAMP:20160925T011633
+LOCATION:Herrin T195
+DESCRIPTION:Diffusion and phase transformations in solids. Diffusion topics: Fick's laws, atomic theory of diffusion, and diffusion in alloys. Phase transformation topics: nucleation, growth, diffusional transformations, spinodal decomposition, and interface phenomena. Material builds on the mathematical, thermodynamic, and statistical mechanical foundations in the prerequisites. Prerequisites: 194/204. Undergraduates register for 197 for 4 units; graduates register for 207 for 3 units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MATSCI207 LEC
+DTSTART;TZID=America/Los_Angeles:20170406T103000
+CREATED:20160925T011633
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

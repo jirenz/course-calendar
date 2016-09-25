@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T175000
+LAST-MODIFIED:20160925T011558
+UID:explore_courses0ffed794-b805-4ee0-8908-bc86815a82ec
+DTSTAMP:20160925T011558
+LOCATION:GSB Faculty West 104
+DESCRIPTION:This is an advanced course on quantitative methods for empirical research. Students are expected to have taken a course in linear models before. In this course I will discuss modern econometric methods for nonlinear models, including maximum likelihood and generalized method of moments. The emphasis will be on how these methods are used in sophisticated empirical work in social sciences. Special topics include discrete choice models and methods for estimating treatment effects.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MGTECON640 CAS
+DTSTART;TZID=America/Los_Angeles:20160927T163000
+CREATED:20160925T011558
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

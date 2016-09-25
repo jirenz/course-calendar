@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170113T122000
+LAST-MODIFIED:20160925T011612
+UID:explore_coursescfd2b3d9-f7d9-4f7c-a48e-0aed4eb76d90
+DTSTAMP:20160925T011612
+LOCATION:Li Ka Shing Center, room 209
+DESCRIPTION:Advancing a drug from discovery of a therapeutic target to human trials and commercialization. Topics include: high throughput assay development, compound screening, lead optimization, protecting intellectual property, toxicology testing, regulatory issues, assessment of clinical need, defining the market, conducting clinical trials, project management, and commercialization issues, including approach to licensing and raising capital.  Maximum units are available by taking an additional contact hour.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CSB240A LEC
+DTSTART;TZID=America/Los_Angeles:20170113T103000
+CREATED:20160925T011612
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

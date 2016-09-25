@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T112000
+LAST-MODIFIED:20160925T011605
+UID:explore_courses696bc8e0-9a9b-4a19-ad3d-7813ab8f21a1
+DTSTAMP:20160925T011605
+LOCATION:Y2E2 253
+DESCRIPTION:This course will provide an introduction to stable isotopes biogeochemistry with emphasis on applications in marine science. We will cover fundamental concepts of nuclear structure and origin of elements and isotopes, and stable isotopic fractionation. We will discuss mass spectrometry techniques, mass independent fractionation, clumped isotopes, mass balance and box models. Applications of these concepts to studies of ocean circulation, marine carbon and nitrogen cycles, primary productivity, and particle scavenging will also be discussed.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ESS249 LEC
+DTSTART;TZID=America/Los_Angeles:20170110T103000
+CREATED:20160925T011605
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

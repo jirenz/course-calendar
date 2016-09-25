@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T162000
+LAST-MODIFIED:20160925T011602
+UID:explore_courses603a186a-ae35-445f-892d-944691616903
+DTSTAMP:20160925T011602
+LOCATION:Lathrop 180
+DESCRIPTION:A project based introduction to web-based learning design. In this course we will explore the evidence and theory behind principles of learning design and game design thinking.  In addition to gaining a broad understanding of the emerging field of the science and engineering of learning, students will experiment with a variety of educational technologies, pedagogical techniques, game design principles, and assessment methods.  Over the course of the quarter, interdisciplinary teams will create a prototype or a functioning piece of educational technology.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC391 PRA
+DTSTART;TZID=America/Los_Angeles:20170403T150000
+CREATED:20160925T011602
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

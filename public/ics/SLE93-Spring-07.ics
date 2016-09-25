@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170406T165000
+LAST-MODIFIED:20160925T011608
+UID:explore_courses7e2bf404-2df3-44a5-a725-839d7b82c1f5
+DTSTAMP:20160925T011608
+LOCATION:
+DESCRIPTION:Focusing on great works of philosophy, religion, literature, painting, and film drawn largely from the Western tradition, the SLE curriculum places particular emphasis on artists and intellectuals who brought new ways of thinking and new ways of creating into the world, often overthrowing prior traditions in the process. These are the works that redefined beauty, challenged the authority of conventional wisdom, raised questions of continuing importance to us today, and&iquest;for good or ill&iquest;created the world we still live in.  Texts may include: Marx, Nietzsche, Freud, Du Bois, Eliot, Woolf, Kafka, Brecht, Vertov, Beauvoir, Sartre, Fanon, Gandhi, and Morrison.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SLE93 DIS
+DTSTART;TZID=America/Los_Angeles:20170406T150000
+CREATED:20160925T011608
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T165000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170405T170000
+LAST-MODIFIED:20160925T011608
+UID:explore_coursese4db29db-c568-4ac1-a1dd-67c38fb7afb0
+DTSTAMP:20160925T011608
+LOCATION:
+DESCRIPTION:Focusing on great works of philosophy, religion, literature, painting, and film drawn largely from the Western tradition, the SLE curriculum places particular emphasis on artists and intellectuals who brought new ways of thinking and new ways of creating into the world, often overthrowing prior traditions in the process. These are the works that redefined beauty, challenged the authority of conventional wisdom, raised questions of continuing importance to us today, and&iquest;for good or ill&iquest;created the world we still live in.  Texts may include: Marx, Nietzsche, Freud, Du Bois, Eliot, Woolf, Kafka, Brecht, Vertov, Beauvoir, Sartre, Fanon, Gandhi, and Morrison.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SLE93 DIS
+DTSTART;TZID=America/Los_Angeles:20170405T153000
+CREATED:20160925T011608
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T170000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

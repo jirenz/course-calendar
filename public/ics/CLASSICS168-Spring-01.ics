@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T132000
+LAST-MODIFIED:20160925T011654
+UID:explore_courses3881008c-c3a2-430d-8f9d-777c5ec6c61c
+DTSTAMP:20160925T011654
+LOCATION:Encina West 202
+DESCRIPTION:(Formerly CLASSART 117.)  Enter the mind, the drafting room, and the building site of the Roman architects and engineers whose monumental projects impressed ancient and modern spectators alike. This class explores the interrelated aesthetics and mechanics of construction that led to one of the most extensive building programs undertaken by a pre-modern state. Through case studies ranging from columns, domes and obelisks to road networks, machines and landscape modification, we investigate the materials, methods, and knowledge behind Roman innovation, and the role of designed space in communicating imperial identity.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CLASSICS168 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T120000
+CREATED:20160925T011654
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T192000
+LAST-MODIFIED:20160925T011610
+UID:explore_coursesc2721edd-4c7c-43d2-97cc-50e64e9f5262
+DTSTAMP:20160925T011610
+LOCATION:Li Ka Shing Center, room 208
+DESCRIPTION:Focus is on patient stories and real-life experiences of patient engagement, the neuroscience of behavior change and the principles of patient engagement.Together with patients, students participate in design sessions at Stanford&iquest;s simulation center to create and test ways to modify behavior through design. Topics include the neuroscience behind motivating individuals into healthy behaviors, including patients in the care design process, how health educators, designers, techies and investors can improve success. Students enrolling for 3 units complete a class project.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ANES205 WKS
+DTSTART;TZID=America/Los_Angeles:20160929T173000
+CREATED:20160925T011610
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR
