@@ -1,7 +1,7 @@
 
 <h1>Explore Courses Calendar</h1>
-
-<p> Use course id to search. Click link to download ics file. </p>
+<p>Find your course section and add them to your schedule.</p>
+<p>Use course id to search. Click link to download ics file.</p>
 <%= form_tag courses_path, :method => 'get' do %>
   <p>
     <%= text_field_tag :search, params[:search] %>
@@ -21,7 +21,7 @@
 	<tbody>
 		<% @results.each do |name| %>
 		<tr>
-		<td><%= link_to name, "/ics/" + name + ".ics" %> </td>
+		<td><%= link_to name, "ics/" + name + ".ics" %> </td>
 		</tr>
 		<% end %>
 	</tbody>
@@ -37,3 +37,5 @@ page <%= @page %> of <%= @pages %>
 		<% end %>
 	<% end %>
 <% end %>
+<!-- Jiren Zhu Sep 25 2016 email: jirenz at stanford dot edu-->
+<!-- Many thanks to Jim Sporch https://explorecourses.stanford.edu/instructor/jsproch for providing the api to access explore courses programatically -->
