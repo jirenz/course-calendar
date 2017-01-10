@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T162000
-LAST-MODIFIED:20160925T011608
-UID:explore_coursesa2e8a3e7-54ee-470b-97b3-3e64824fd29c
-DTSTAMP:20160925T011608
-LOCATION:Florence Moore Hall
-DESCRIPTION:Focusing on great works of philosophy, religion, literature, painting, and film drawn largely from the Western tradition, the SLE curriculum places particular emphasis on artists and intellectuals who brought new ways of thinking and new ways of creating into the world, often overthrowing prior traditions in the process. These are the works that redefined beauty, challenged the authority of conventional wisdom, raised questions of continuing importance to us today, and&iquest;for good or ill&iquest;created the world we still live in. Texts may include: Homer, Sappho, Greek tragedy, Plato, Aristotle, Zhuangzi, Confucius, the Heart Sutra, Hebrew Bible, New Testament, and the Aeneid.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:SLE91 DIS
-DTSTART;TZID=America/Los_Angeles:20160928T153000
-CREATED:20160925T011608
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=WE
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160929T165000
-LAST-MODIFIED:20160925T011608
-UID:explore_courses3b5c71cc-991e-409a-8706-bc3b5114ac12
-DTSTAMP:20160925T011608
+LAST-MODIFIED:20170109T213815
+UID:explore_courses8f9b279a-6197-4a85-8ff0-49ba1d1ccb0b
+DTSTAMP:20170109T213815
 LOCATION:Florence Moore Hall
 DESCRIPTION:Focusing on great works of philosophy, religion, literature, painting, and film drawn largely from the Western tradition, the SLE curriculum places particular emphasis on artists and intellectuals who brought new ways of thinking and new ways of creating into the world, often overthrowing prior traditions in the process. These are the works that redefined beauty, challenged the authority of conventional wisdom, raised questions of continuing importance to us today, and&iquest;for good or ill&iquest;created the world we still live in. Texts may include: Homer, Sappho, Greek tragedy, Plato, Aristotle, Zhuangzi, Confucius, the Heart Sutra, Hebrew Bible, New Testament, and the Aeneid.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SLE91 DIS
 DTSTART;TZID=America/Los_Angeles:20160929T150000
-CREATED:20160925T011608
+CREATED:20170109T213815
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T165000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160928T162000
+LAST-MODIFIED:20170109T213815
+UID:explore_courses9f779f5d-944f-4190-aefe-12c568cf93c7
+DTSTAMP:20170109T213815
+LOCATION:Florence Moore Hall
+DESCRIPTION:Focusing on great works of philosophy, religion, literature, painting, and film drawn largely from the Western tradition, the SLE curriculum places particular emphasis on artists and intellectuals who brought new ways of thinking and new ways of creating into the world, often overthrowing prior traditions in the process. These are the works that redefined beauty, challenged the authority of conventional wisdom, raised questions of continuing importance to us today, and&iquest;for good or ill&iquest;created the world we still live in. Texts may include: Homer, Sappho, Greek tragedy, Plato, Aristotle, Zhuangzi, Confucius, the Heart Sutra, Hebrew Bible, New Testament, and the Aeneid.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SLE91 DIS
+DTSTART;TZID=America/Los_Angeles:20160928T153000
+CREATED:20170109T213815
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

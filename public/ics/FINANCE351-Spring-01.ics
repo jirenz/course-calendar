@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170406T181500
+LAST-MODIFIED:20170109T213841
+UID:explore_courses7a795357-b49e-4821-b095-9f2d41983d0e
+DTSTAMP:20170109T213841
+LOCATION:
+DESCRIPTION:Students will engage in the development of corporate financial modeling cases and solutions. Students will also develop materials to aid others in building financial models, and serve as case leaders during lab workshops. Extensive background in financial modeling and experience with Excel is required.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FINANCE351 CAS
+DTSTART;TZID=America/Los_Angeles:20170406T163000
+CREATED:20170109T213841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170606T181500;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170410T201500
+LAST-MODIFIED:20170109T213841
+UID:explore_courses11dbaa3c-5b79-47b1-9252-9806aa83224f
+DTSTAMP:20170109T213841
+LOCATION:
+DESCRIPTION:Students will engage in the development of corporate financial modeling cases and solutions. Students will also develop materials to aid others in building financial models, and serve as case leaders during lab workshops. Extensive background in financial modeling and experience with Excel is required.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FINANCE351 CAS
+DTSTART;TZID=America/Los_Angeles:20170410T183000
+CREATED:20170109T213841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170606T201500;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20160925T011711
-UID:explore_courses9928dbe1-82ba-4618-aafd-7be2c356af82
-DTSTAMP:20160925T011711
+LAST-MODIFIED:20170109T213802
+UID:explore_courses535f7967-06eb-4e7d-8eb9-a8aa847614d6
+DTSTAMP:20170109T213802
 LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:Mean-field theory of phase transitions; critical exponents. Ferromagnetism, the Ising model. The renormalization group. Dynamics near equilibrium: Brownian motion, diffusion, Boltzmann equations. Other topics at discretion of instructor. Prerequisite: PHYSICS 170.  Recommended pre- or corequisite: PHYSICS 130.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS171 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011711
+CREATED:20170109T213802
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T095000
-LAST-MODIFIED:20160925T011613
-UID:explore_courses282430c4-97c7-4d5f-9836-758d9a1b394b
-DTSTAMP:20160925T011613
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170403T115000
+LAST-MODIFIED:20170109T213858
+UID:explore_coursesb862e032-d5f5-4068-8bf2-3d1f7fba5025
+DTSTAMP:20170109T213858
+LOCATION:Alway Building, Room M114
 DESCRIPTION:Provides an overview, fundamentals and practical considerations for different aspects of academic-industry collaborations by inviting current industrial experts to share their views and to answer questions. The different aspects include collaboration models, proposal building, IP right sharing, funding opportunities, sabbatical and internship in industry, industry job searching, etc. This class also serves as a platform to connect with Bay Area biotech and pharmaceutical executives and experts.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE216 LEC
-DTSTART;TZID=America/Los_Angeles:20170407T083000
-CREATED:20160925T011613
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T095000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170403T100000
+CREATED:20170109T213858
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

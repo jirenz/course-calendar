@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T175000
-LAST-MODIFIED:20160925T011624
-UID:explore_courses11e674e9-d79d-4b7e-8777-e87e6cd6853b
-DTSTAMP:20160925T011624
+LAST-MODIFIED:20170109T213818
+UID:explore_coursesbfa87daf-d4ba-4561-a716-fea2527e660b
+DTSTAMP:20170109T213818
 LOCATION:110-101
 DESCRIPTION:High resolution schemes for capturing shock waves and contact discontinuities; upwinding and artificial diffusion; LED and TVD concepts; alternative flow splittings; numerical shock structure. Discretization of Euler and Navier Stokes equations on unstructured meshes; the relationship between finite volume and finite element methods. Time discretization; explicit and implicit schemes; acceleration of steady state calculations; residual averaging; math grid preconditioning. Automatic design; inverse problems and aerodynamic shape optimization via adjoint methods. Pre- or corequisite: 214B or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA215A LEC
 DTSTART;TZID=America/Los_Angeles:20170109T163000
-CREATED:20160925T011624
+CREATED:20170109T213818
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

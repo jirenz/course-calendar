@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20160925T011653
-UID:explore_courses985db0af-7ce7-4529-bc70-3def70730314
-DTSTAMP:20160925T011653
-LOCATION:200-105
-DESCRIPTION:Goal is reading knowledge of classical Chinese. Basic grammar and commonly used vocabulary. Students with no background in classical Chinese who are taking 127/207 to satisfy Chinese major requirements must begin with 125/205. Prerequisite: CHINLANG 125/205 or equivalent.
+LAST-MODIFIED:20170109T213720
+UID:explore_courses6eca1f04-f3ef-4f31-922c-0553e2a988f6
+DTSTAMP:20170109T213720
+LOCATION:
+DESCRIPTION:Goal is reading knowledge of classical Chinese. Basic grammar and commonly used vocabulary. Students with no background in classical Chinese who are taking CHINA 107/207 to satisfy Chinese major requirements must begin with CHINA 105/205. Prerequisite: CHINA 105/205 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHINA206 SEM
 DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20160925T011653
+CREATED:20170109T213720
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

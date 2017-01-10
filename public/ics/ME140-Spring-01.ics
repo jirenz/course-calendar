@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20160925T011635
-UID:explore_coursesd397bb97-4f43-4fcf-8a3e-4dd028a3df1f
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_courses8e79f21b-052b-4ffa-95fe-7cecc05ccf37
+DTSTAMP:20170109T213838
 LOCATION:300-300
 DESCRIPTION:Capstone course. Thermal analysis and engineering emphasizing integrating heat transfer, fluid mechanics, and thermodynamics into a unified approach to treating complex systems. Mixtures, humidity, chemical and phase equilibrium, and availability. Labs apply principles through hands-on experience with a turbojet engine, PEM fuel cell, and hybrid solid/oxygen rocket motor. Use of MATLAB as a computational tool. Prerequisites: ENGR 30, ME 70, and 131A,B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME140 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

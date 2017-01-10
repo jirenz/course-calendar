@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20160925T011707
-UID:explore_coursese9b3f514-0d57-4ce6-a49f-a05a0dbc7e48
-DTSTAMP:20160925T011707
+LAST-MODIFIED:20170109T213755
+UID:explore_courses7b3abdcb-2fcf-4001-9dc4-17d58402131d
+DTSTAMP:20170109T213755
 LOCATION:200-205
 DESCRIPTION:Iterated integrals, line and surface integrals, vector analysis with applications to vector potentials and conservative vector fields, physical interpretations. Divergence theorem and the theorems of Green, Gauss, and Stokes. Prerequisite: 51 or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH52 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20160925T011707
+CREATED:20170109T213755
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

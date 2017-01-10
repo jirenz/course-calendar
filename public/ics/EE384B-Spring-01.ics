@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses519db96a-e7ac-4b81-80f8-9d0623424056
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses38724839-0f95-4d9f-8b0b-70fec9e52852
+DTSTAMP:20170109T213832
 LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:Applications and requirements. Traffic generation and characterization: voice encoding (G.711, G.729, G.723); image and video compression (JPEG, H.261, MPEG-2, H.263, H.264), TCP data traffic. Quality impairments and measures. Networking technologies: LAN technologies; home broadband services (ADSL, cable modems, PONs); and wireless LANs (802.11). Network protocols for multimedia applications: resource reservation (ST2+, RSVP); differentiated services (DiffServ); and real-time transport protocol (RTP, RTCP). Audio-video-data conferencing standards: Internet architecture (SDP, SAP, SIP); ITU recommendations (H.320, H.323 and T.120); and real-time streaming protocol (RTSP). Emphasis will be placed on advances in network infrastructure and new services (VoIP, IPTV, Peer-to-peer communications, etc.) Prerequisite: 284 or CS 144. Recommended: 384A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE384B LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

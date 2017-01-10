@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20160925T011623
-UID:explore_courses370c0eb1-fb88-4bd9-8878-d8d7fdc87da6
-DTSTAMP:20160925T011623
+DTEND;TZID=America/Los_Angeles:20170404T162000
+LAST-MODIFIED:20170109T213919
+UID:explore_courses6274c70a-f273-4e80-83f1-3864bf43a6d8
+DTSTAMP:20170109T213919
 LOCATION:
-DESCRIPTION:Blends human anatomy and artwork, and is aimed at artists who aspire to study human structure, shape, and form. Weekly lectures will highlight intersections and influences of human anatomy on art, and explore the role it has played in various forms of artwork. Students encouraged to use proper anatomical terminology to describe structures and their relationships. Weekly studio sessions provide an opportunity for students to immerse in anatomically inspired drawings. Plastic models, dry bones, cadaveric specimens, and live models will be used for the studio sessions.
+DESCRIPTION:Lectures highlight the intersections and influences between human anatomy and art. Studio sessions provide an opportunity for students to immerse in anatomically inspired studio projects. Drawing, mixed media, and some painting mediums will be used during the studio sessions. Plastic models, dry bones, cadaveric specimens, and live models will be used for the studio sessions. Class time includes art instruction, creation and feedback. May be repeated for credit. Honing individual style is encouraged; both beginning and advanced students are welcome.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SURG243 PRA
-DTSTART;TZID=America/Los_Angeles:20170403T143000
-CREATED:20160925T011623
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170404T133000
+CREATED:20170109T213919
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20160925T011559
-UID:explore_courses3eddb404-6c27-4ffa-add6-08420711c0a8
-DTSTAMP:20160925T011559
-LOCATION:
+LAST-MODIFIED:20170109T213843
+UID:explore_coursesb1cff078-c5c8-4a45-992a-3530bbd3ce7b
+DTSTAMP:20170109T213843
+LOCATION:GSB Bass 312
 DESCRIPTION:Data and Decisions is a first-year MBA course in statistics and regression analysis. The base D&amp;D lab-based pilot is a new version of the course that combines extensive online materials with a more lab-based classroom approach. Traditional lecture content will be learned through online videos, simulations, and exercises, while time spent in the classroom will be discussions or computer lab sessions.  Content covered includes basic probability, sampling techniques, hypothesis testing, t-tests, linear regression, and prediction models. The group regression project is a key component of the course, and all students will learn the software R.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT274 CAS
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011559
+CREATED:20170109T213843
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

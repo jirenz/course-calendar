@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20160925T011655
-UID:explore_coursesb571aeb2-5af2-4c2a-a46b-d29b084d1b57
-DTSTAMP:20160925T011655
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170403T132000
+LAST-MODIFIED:20170109T213727
+UID:explore_courses8aaae63c-98b3-4934-a459-70a6e7b8affc
+DTSTAMP:20170109T213727
+LOCATION:ROBLEG137
 DESCRIPTION:&quot;Dance on the Move&quot; is an introductory dance studies course that considers dance performance and practice as critical sites for examining the mobilities and immobilities that shape various forms of transnational migration and citizenship. Interdisciplinary readings include scholarship from Arjun Appadurai, Gloria Anzaldua, May Joseph, Priya Srinivasan, and Marta Savigliano. Objects of analysis include examples from concert dance and dance theatre, multi-media dance collectives, and vernacular dance forms. As a course assignment, students will conduct a small ethnographic project where they will identify a dance community that relates to the theme in some way, preferably a dance community on campus  such as dance social events or student dance groups. Students will produce either a written- or a hybrid written/performance-ethnography as their final project.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DANCE162Z SEM
-DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20160925T011655
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170403T113000
+CREATED:20170109T213727
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

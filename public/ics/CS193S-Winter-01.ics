@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20160925T011630
-UID:explore_coursesa43b6506-106a-4401-80f6-85ac89cb587e
-DTSTAMP:20160925T011630
-LOCATION:380-380Y
+DTEND;TZID=America/Los_Angeles:20170110T175000
+LAST-MODIFIED:20170109T213829
+UID:explore_coursescf33d878-03a3-4059-a204-8aaa2d0d0dcf
+DTSTAMP:20170109T213829
+LOCATION:Gates B1
 DESCRIPTION:Learn to solve real world engineering challenges in this programming project course. Scale projects not just from the coding and engineering perspective, but use those same techniques to increase usability, popularity, development velocity and maintainability. Discover how engineering applies to project ideation, self and team development, customer acquisition, user experience.  As we build applications, we will cover tools and practices for scalable programming including: the javascript ecosystem, containers and cloud platforms, agile development, growth hacking. We focus on rapid feedback loops to build better systems faster. In one quarter, develop scalable habits to build apps designed to grow. Application required. Prerequisites: one or more of CS 140, 142, 145, 147.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS193S LEC
-DTSTART;TZID=America/Los_Angeles:20170110T120000
-CREATED:20160925T011630
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170110T163000
+CREATED:20170109T213829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

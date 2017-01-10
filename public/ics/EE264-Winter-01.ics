@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T175000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses4c65665b-af97-4c83-9643-d7c1019624bf
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses5741571c-0a77-419e-9b5d-9253b25236b3
+DTSTAMP:20170109T213832
 LOCATION:Thornt102
 DESCRIPTION:This is a course on digital signal processing techniques and their applications. Topics include: review of DSP fundamentals; discrete-time random signals; sampling and multi-rate systems; oversampling and quantization in A-to-D conversion; properties of LTI systems; quantization in fixed-point implementations of filters; digital filter design; discrete Fourier Transform and FFT; spectrum analysis using the DFT; and parametric signal modeling.  The course will also discuss applications of DSP in areas such as speech and audio processing, autonomous vehicles, and software radio.  An optional (1 extra credit hour) lab will provide a hands-on opportunity to explore the application of DSP theory to practical real-time applications. For more information, see the course web page at ee264.stanford.edu. Prerequisite: EE102A and EE102B or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE264 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T163000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

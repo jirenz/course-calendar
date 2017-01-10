@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T202000
-LAST-MODIFIED:20160925T011636
-UID:explore_courses4e488e6c-3df6-48bc-a887-72f641e5f37b
-DTSTAMP:20160925T011636
-LOCATION:Roble Hall Seminar Room M129
+DTEND;TZID=America/Los_Angeles:20160927T132000
+LAST-MODIFIED:20170109T213635
+UID:explore_courses0fea2e9d-0dab-4b6a-a139-9ec94ac2a816
+DTSTAMP:20170109T213635
+LOCATION:Lathrop 298
 DESCRIPTION:This course explores the role that racial and ethnic politics play in American political campaigns and elections. This will include readings that explore the power of ethnoracial voting blocs (e.g. the Black vote and the Latino vote), as well as the challenges and advantages of candidates that are people of color. We will discuss how changing demographics are changing the political landscape, and how candidates and political parties are responding to those changes. This will include, of course, significant attention to ongoing battles at the national (e.g. Trump v. Clinton), state (e.g. Kamala Harris v. Loretta Sanchez), and local levels, most often in California but in other geographic areas as well. We will also explore historic candidacies and elections (e.g. Jesse Jackson) and political parties (e.g. La Raza Unida party) that help put the 2016 races into perspective.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AMSTUD89 SEM
-DTSTART;TZID=America/Los_Angeles:20160929T193000
-CREATED:20160925T011636
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T202000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20160927T103000
+CREATED:20170109T213635
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

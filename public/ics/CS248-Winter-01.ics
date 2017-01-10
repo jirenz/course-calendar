@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses47a72463-fe16-4208-9ea5-26c04be5e8cf
-DTSTAMP:20160925T011630
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170110T132000
+LAST-MODIFIED:20170109T213829
+UID:explore_courses59547bc6-30ae-43f7-84e9-5a93a6ee56a5
+DTSTAMP:20170109T213829
+LOCATION:Gates B3
 DESCRIPTION:This is the second course in the computer graphics sequence, and as such it assumes a strong familiarity with rendering and image creation. The course has a strong focus on computational geometry, animation, and simulation. Topics include splines, implicit surfaces, geometric modeling, collision detection, animation curves, particle systems and crowds, character animation, articulation, skinning, motion capture and editing, rigid and deformable bodies, and fluid simulation. As a final project, students implement an interactive video game utilizing various concepts covered in the class. Games may be designed on mobile devices, in a client/server/browser environment, or on a standard personal computer. Prerequisite: CS148.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS248 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20160925T011630
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170110T120000
+CREATED:20170109T213829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

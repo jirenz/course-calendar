@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T175000
-LAST-MODIFIED:20160925T011703
-UID:explore_coursesf4380f88-85d5-4e7a-b45c-5b4ea86a6b2e
-DTSTAMP:20160925T011703
+LAST-MODIFIED:20170109T213749
+UID:explore_courses216eeef6-a3dd-4a4b-b27c-70cd8d20fae3
+DTSTAMP:20170109T213749
 LOCATION:420-040
 DESCRIPTION:This one-unit lecture course aims to provide the historical and geographical context necessary for understanding the most important global issues of the day. Weekly lectures will explore two or more major issues in some detail, illustrating them with maps, timelines, photographs, and other images. Topics are not planned in advance, but will instead reflect stories currently in the news.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY3 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T163000
-CREATED:20160925T011703
+CREATED:20170109T213749
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

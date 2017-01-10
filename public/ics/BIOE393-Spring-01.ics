@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T132000
-LAST-MODIFIED:20160925T011625
-UID:explore_courses3b5770cb-4a2c-4c13-95a7-e733aa02098b
-DTSTAMP:20160925T011625
+LAST-MODIFIED:20170109T213819
+UID:explore_courses44d13617-b3a3-4745-b470-b2c098970c99
+DTSTAMP:20170109T213819
 LOCATION:
 DESCRIPTION:Bioengineering department labs at Stanford present recent research projects and results. Guest lecturers. Topics include applications of engineering to biology, medicine, biotechnology, and medical technology, including biodesign and devices, molecular and cellular engineering, regenerative medicine and tissue engineering, biomedical imaging, and biomedical computation.  Aut, Win, Spr (Lin, Riedel-Kruse, Barron)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE393 COL
 DTSTART;TZID=America/Los_Angeles:20170403T123000
-CREATED:20160925T011625
+CREATED:20170109T213819
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

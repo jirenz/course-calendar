@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T142000
-LAST-MODIFIED:20160925T011635
-UID:explore_coursesf367c4a9-d859-46f8-8e10-0eb45a6f1c38
-DTSTAMP:20160925T011635
-LOCATION:McCullough 122
-DESCRIPTION:Study of biological flight as an inspiration for designing robots. The goal is to give students a broad understanding of the biomechanics of natural flight, and an in-depth understanding of bird flight. This course elucidates how students can pick and choose exciting biological questions, use biological and engineering techniques to answer them, and use the results to identify bio-inspired design applications. Prerequisites: Fluid mechanics OR Aerodynamics AND Fluent Matlab skills. Course website URL: http://lentinklab.stanford.edu/impact/stanford_teaching
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:ME303 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011635
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=MO,WE
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170113T152000
-LAST-MODIFIED:20160925T011635
-UID:explore_coursesf31239f6-2ef2-4323-b82c-14459d6d7175
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_courses8bf58bd8-d8f2-4abb-ae8d-764f24920aef
+DTSTAMP:20170109T213838
 LOCATION:McCullough 122
 DESCRIPTION:Study of biological flight as an inspiration for designing robots. The goal is to give students a broad understanding of the biomechanics of natural flight, and an in-depth understanding of bird flight. This course elucidates how students can pick and choose exciting biological questions, use biological and engineering techniques to answer them, and use the results to identify bio-inspired design applications. Prerequisites: Fluid mechanics OR Aerodynamics AND Fluent Matlab skills. Course website URL: http://lentinklab.stanford.edu/impact/stanford_teaching
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME303 LEC
 DTSTART;TZID=America/Los_Angeles:20170113T133000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T142000
+LAST-MODIFIED:20170109T213838
+UID:explore_courses9a1150df-b4a5-4b5b-a503-219edd495c5d
+DTSTAMP:20170109T213838
+LOCATION:McCullough 122
+DESCRIPTION:Study of biological flight as an inspiration for designing robots. The goal is to give students a broad understanding of the biomechanics of natural flight, and an in-depth understanding of bird flight. This course elucidates how students can pick and choose exciting biological questions, use biological and engineering techniques to answer them, and use the results to identify bio-inspired design applications. Prerequisites: Fluid mechanics OR Aerodynamics AND Fluent Matlab skills. Course website URL: http://lentinklab.stanford.edu/impact/stanford_teaching
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ME303 LEC
+DTSTART;TZID=America/Los_Angeles:20170109T133000
+CREATED:20170109T213838
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

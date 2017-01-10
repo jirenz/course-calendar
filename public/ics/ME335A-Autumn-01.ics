@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20160925T011635
-UID:explore_courses8af8283f-a46a-4387-a638-f459e669054e
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_courses04e19689-277f-42a6-ad3d-75e828829795
+DTSTAMP:20170109T213838
 LOCATION:530-127
 DESCRIPTION:Fundamental concepts and techniques of primal finite element methods. Method of weighted residuals, Galerkin's method and variational equations. Linear eliptic boundary value problems in one, two and three space dimensions; applications in structural, solid and fluid mechanics and heat transfer. Properties of standard element families and numerically integrated elements. Implementation of the finite element method using Matlab, assembly of equations, and element routines. Lagrange multiplier and penalty methods for treatment of constraints. The mathematical theory of finite elements.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME335A LEC
 DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

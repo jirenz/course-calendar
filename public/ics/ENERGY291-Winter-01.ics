@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T102000
-LAST-MODIFIED:20160925T011605
-UID:explore_coursesc4cb0942-7eea-431b-9188-303ba5bef113
-DTSTAMP:20160925T011605
+LAST-MODIFIED:20170109T213849
+UID:explore_courses069f7efb-2a32-4c5f-9bfa-3434740b432e
+DTSTAMP:20170109T213849
 LOCATION:Green Earth Sciences104
 DESCRIPTION:Introductory mathematical programming and optimization using examples from energy industries.  Emphasis on problem formulation and solving, secondary coverage of algorithms.  Problem topics include optimization of energy investment, production, and transportation; uncertain and intermittent energy resources; energy storage; efficient energy production and conversion. Methods include linear and nonlinear optimization, as well as multi-objective and goal programming. Tools include Microsoft Excel and AMPL mathematical programming language. Prerequisites: MATH 20, 41, or MATH 51, or consent of instructor. Programming experience helpful (e.g,, CS 106A, CS 106B).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY291 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20160925T011605
+CREATED:20170109T213849
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T142000
-LAST-MODIFIED:20160925T011703
-UID:explore_courses6cdd8752-a4af-45f5-bb04-5e7f5ccdb515
-DTSTAMP:20160925T011703
-LOCATION:200-219
+DTEND;TZID=America/Los_Angeles:20170109T132000
+LAST-MODIFIED:20170109T213749
+UID:explore_coursesd61d3ded-17ed-4da7-8d08-21fbce22d70e
+DTSTAMP:20170109T213749
+LOCATION:Green Library 301
 DESCRIPTION:Required of History majors. How to conduct original, historical research and analysis, including methods such as using the libraries and archives at Stanford and elsewhere, and working collaboratively to frame topics, identify sources, and develop analyses. Autumn quarter focuses on 20th Century and History of Science; Winter quarter on Colonialism, culture/politics in modern Europe, and Europe before the 1500s; Spring quarter on travel and geographies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY209S RES
-DTSTART;TZID=America/Los_Angeles:20170111T113000
-CREATED:20160925T011703
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170109T103000
+CREATED:20170109T213749
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

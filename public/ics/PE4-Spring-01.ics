@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20160925T011623
-UID:explore_courses11255ed5-9774-4360-af2c-3296a302b85b
-DTSTAMP:20160925T011623
+DTEND;TZID=America/Los_Angeles:20170404T122000
+LAST-MODIFIED:20170109T213839
+UID:explore_coursesf44caa4e-be5f-4139-8b3f-13e168e4baa6
+DTSTAMP:20170109T213839
 LOCATION:
 DESCRIPTION:This course will focus on understanding the basic components of cardiovascular fitness, and flexibility. This will be achieved by teaching students how to monitor heart rate, record steps, prepare, train and pace themselves throughout a variety of walking workouts. Students will gain knowledge to make intelligent choices that contribute to a healthy active lifestyle.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PE4 ACT
-DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20160925T011623
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170404T113000
+CREATED:20170109T213839
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

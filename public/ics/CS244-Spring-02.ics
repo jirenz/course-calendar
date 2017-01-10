@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170407T152000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses626e9a8a-daac-40ad-a63b-468f9daf813c
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_coursesea3bfe72-8287-42c4-a782-9f65d394a7dd
+DTSTAMP:20170109T213829
 LOCATION:Gates B12
 DESCRIPTION:Classic papers, new ideas, and research papers in networking. Architectural principles: why the Internet was designed this way? Congestion control. Wireless and mobility; software-defined networks (SDN) and network virtualization; content distribution networks; packet switching; data-center networks. Prerequisite: 144 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS244 DIS
 DTSTART;TZID=America/Los_Angeles:20170407T143000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

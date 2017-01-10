@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20160925T011606
-UID:explore_courses4fa926c4-e4c4-48de-8b53-20272f4de320
-DTSTAMP:20160925T011606
-LOCATION:Mitch350
+LAST-MODIFIED:20170109T213852
+UID:explore_courses9dea9b74-c19a-48b6-ba99-5a973cac0b47
+DTSTAMP:20170109T213852
+LOCATION:Mitch452
 DESCRIPTION:Basic topics and approaches (theory and numerical simulations) on acoustic, electromagnetic, and elastic waves and fields for geophysical applications: dispersion, phase and group velocities, attenuation, reflection and transmission at planar interfaces, high frequency and low frequency approximations, heterogeneous media. Prerequisites: UG level class on waves or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS235 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20160925T011606
+CREATED:20170109T213852
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

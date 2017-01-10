@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T212000
-LAST-MODIFIED:20160925T011635
-UID:explore_coursesd76402b0-0488-4c8b-a7f0-8fe9b5954fe1
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_courses904c873d-5b24-4657-ad46-230dbc5d0f28
+DTSTAMP:20170109T213838
 LOCATION:550-200
 DESCRIPTION:Designed to accompany 203. The fundamentals of engineering drawing including orthographic projection, dimensioning, sectioning, exploded and auxiliary views, assembly drawings, and SolidWorks. Homework drawings are of parts fabricated by the student in the lab. Assignments in 203 supported by material in 103D and sequenced on the assumption that the student is enrolled in both courses simultaneously.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME103D PRC
 DTSTART;TZID=America/Los_Angeles:20170404T193000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T212000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

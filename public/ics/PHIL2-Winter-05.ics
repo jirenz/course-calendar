@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T192000
-LAST-MODIFIED:20160925T011710
-UID:explore_coursesbd32451b-f42d-4b8a-97d7-4b8a54691cbe
-DTSTAMP:20160925T011710
-LOCATION:320-106
-DESCRIPTION:A survey of moral philosophy in the Western tradition. What makes right actions right and wrong actions wrong? What is it to have a virtuous rather than a vicious character? What is the basis of these distinctions? Why should we care about morality at all? Our aim is to understand how some of the most influential philosophers (including Aristotle, Kant, and Mill) have addressed these questions, and by so doing, to better formulate our own views. No prior familiarity with philosophy required.
+DTEND;TZID=America/Los_Angeles:20170113T112000
+LAST-MODIFIED:20170109T213800
+UID:explore_courses102eebee-a502-4b1c-900e-c8a21b023547
+DTSTAMP:20170109T213800
+LOCATION:
+DESCRIPTION:What should I do with my life? What kind of person should I be? How should we treat others? What makes actions right or wrong? What is good and what is bad? What should we value? How should we organize society? Is there any reason to be moral? Is morality relative or subjective? How, if at all, can such questions be answered?  Intensive introduction to theories and techniques in contemporary moral philosophy.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL2 DIS
-DTSTART;TZID=America/Los_Angeles:20170112T183000
-CREATED:20160925T011710
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T192000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170113T103000
+CREATED:20170109T213800
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

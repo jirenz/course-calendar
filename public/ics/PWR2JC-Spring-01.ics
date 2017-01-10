@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T152000
-LAST-MODIFIED:20160925T011609
-UID:explore_coursesf40e1c32-762b-409f-9345-c373f1e4db5d
-DTSTAMP:20160925T011609
-LOCATION:160-331
+DTEND;TZID=America/Los_Angeles:20170404T132000
+LAST-MODIFIED:20170109T213817
+UID:explore_coursese090e4bb-abe1-4f70-a7ad-37a837b44a71
+DTSTAMP:20170109T213817
+LOCATION:160-332
 DESCRIPTION:Prerequisite: PWR 1. Further work in developing skills in argument and research-based writing, with emphasis on both written and oral/multimedia presentation of research. For more information about PWR 2, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-2. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR2JC SEM
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20160925T011609
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170404T113000
+CREATED:20170109T213817
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

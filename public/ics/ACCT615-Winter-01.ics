@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170113T125000
+LAST-MODIFIED:20170109T213840
+UID:explore_coursesf5f1131a-54b6-4a8f-a257-6e90e638cad8
+DTSTAMP:20170109T213840
+LOCATION:GSB Patterson 101
+DESCRIPTION:This course examines selected topics in accounting research. The course features several faculty who will each give a focused look at a given area, introduce students to important questions in that area, key papers in the related literature, and critical aspects of the research designs applied in the area. The aim is to increase student's familiarity with empirical accounting research, their ability to critically evaluate research and research designs, and to prepare students to conduct independent research.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ACCT615 SEM
+DTSTART;TZID=America/Los_Angeles:20170113T100000
+CREATED:20170109T213840
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T125000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

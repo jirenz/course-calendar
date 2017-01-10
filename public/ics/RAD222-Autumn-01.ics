@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T102000
-LAST-MODIFIED:20160925T011621
-UID:explore_courses4907fb8d-a887-440f-9119-c2de338c8012
-DTSTAMP:20160925T011621
+LAST-MODIFIED:20170109T213917
+UID:explore_courses1a8a836b-2191-48c5-ad30-6ac9f2029e57
+DTSTAMP:20170109T213917
 LOCATION:CCSR 4107
 DESCRIPTION:Focuses on instruments, algorithms and other technologies for imaging of cellular and molecular processes in living subjects. Introduces preclinical and clinical molecular imaging modalities, including strategies for molecular imaging using PET, SPECT, MRI, Ultrasound, Optics, and Photoacoustics.  Covers basics of instrumentation physics, the origin and properties of the signal generation, and image data quantification.nnhttp://med.stanford.edu/mips/education/bioe222/2016.html
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:RAD222 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T083000
-CREATED:20160925T011621
+CREATED:20170109T213917
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

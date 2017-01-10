@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20160925T011638
-UID:explore_courses05802ed0-52aa-42ea-be70-19a1766534ff
-DTSTAMP:20160925T011638
+LAST-MODIFIED:20170109T213648
+UID:explore_courses22345a1d-6f2d-430d-901e-1ab1a2d0e081
+DTSTAMP:20170109T213648
 LOCATION:240-110
 DESCRIPTION:Physics of particle beams in linear and circular accelerators. Transverse and longitudinal beam dynamics, equilibrium emittances in electron storage rings, high-brightness electron sources, RF acceleration and emittance preservation, bunch compression and associated collective effects, accelerator physics design for x-ray FELs, advanced accelerator concepts.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS324 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20160925T011638
+CREATED:20170109T213648
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

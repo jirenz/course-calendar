@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses50c0ee3c-0b7e-4021-b2cc-292ea50dbd38
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213836
+UID:explore_coursesd9a0c060-dd88-4cf8-99ef-302fed7a8a85
+DTSTAMP:20170109T213836
 LOCATION:Gates B3
 DESCRIPTION:This course takes a comprehensive view of solar cells and what will need to be done to enable them to substantially change how the world obtains its electricity. After covering the fundamentals (light trapping, current flow in pn junctions, recombination) that are important for almost all photovoltaic technologies, the course will address technologies based on highly crystalline forms of silicon and gallium arsenide.  The device simulator PC1D will be used to model solar cells. The course will then go through multijunctions cells with concentrators, low-cost thin-film solar cells, organic semiconductors, hybrid perovskites and nanowires.  There will be discussions of module design and the economics of the solar industry. There will be a tour of a company that makes solar cells and guest lectures.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI302 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20160925T011633
+CREATED:20170109T213836
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20160925T011635
-UID:explore_courses7a6afb47-9f77-4016-a65a-7d1e764fa61d
-DTSTAMP:20160925T011635
-LOCATION:
+LAST-MODIFIED:20170109T213838
+UID:explore_courses67154f13-1b1c-47b3-9cb4-e6c706ec5500
+DTSTAMP:20170109T213838
+LOCATION:Littlefield 107
 DESCRIPTION:A lecture-based introduction to experiment design and implementation. Topics include measurement methods, transducer fundamentals, instrumentation, optical systems, signal processing, noise theory, analog and digital electronic fundamentals, data acquisition and processing systems. May be repeat for credit
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME230 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

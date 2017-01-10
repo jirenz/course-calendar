@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T142000
-LAST-MODIFIED:20160925T011636
-UID:explore_courses584b3d24-8c57-4d8f-b044-18a59c10e963
-DTSTAMP:20160925T011636
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20160926T132000
+LAST-MODIFIED:20170109T213633
+UID:explore_courses48ddd0b2-b696-4ddd-859c-1eb4fe82771c
+DTSTAMP:20170109T213633
+LOCATION:240-101
 DESCRIPTION:One-year sequence. Modern Persian for beginners; concentrates on rapidly developing basic skills in speaking, reading, writing, and understanding modern Persian. Strong emphasis is on the links between language and culture. The course is based on a fully integrated multimedia program. Students will learn the language with an emphasis on communicative and interactive classroom activities.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AMELANG144A LNG
 DTSTART;TZID=America/Los_Angeles:20160926T123000
-CREATED:20160925T011636
+CREATED:20170109T213633
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T142000
+LAST-MODIFIED:20170109T213633
+UID:explore_coursesc8d75b4c-5479-4f87-a538-33fe611c83a7
+DTSTAMP:20170109T213633
+LOCATION:50-51P
+DESCRIPTION:One-year sequence. Modern Persian for beginners; concentrates on rapidly developing basic skills in speaking, reading, writing, and understanding modern Persian. Strong emphasis is on the links between language and culture. The course is based on a fully integrated multimedia program. Students will learn the language with an emphasis on communicative and interactive classroom activities.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AMELANG144A LNG
+DTSTART;TZID=America/Los_Angeles:20160926T133000
+CREATED:20170109T213633
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

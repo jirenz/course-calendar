@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20160925T011712
-UID:explore_courses5cf7a8a8-7d48-4c46-916a-e5f1a8179596
-DTSTAMP:20160925T011712
-LOCATION:160-317
+DTEND;TZID=America/Los_Angeles:20170403T145000
+LAST-MODIFIED:20170109T213804
+UID:explore_courses86cec542-8b7c-4856-bea3-df0c4ba5e8b7
+DTSTAMP:20170109T213804
+LOCATION:
 DESCRIPTION:This course introduces students to the economy, politics, and international relations of contemporary Japan.  The course puts a particular emphasis on several emerging issues in Japan including innovation and economic dynamism, Japan's contributions to international peace and cooperation, and Japan's response to international economic and geopolitical challenges.  The course will invite several guest instructors, each of whom is an expert on at least one of the issues that Japan faces today, to give lectures in addition to the main instructors.  The guest lecturers will also be available outside of the classroom for further discussion during their stays at Stanford.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI115E SEM
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20160925T011712
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170403T133000
+CREATED:20170109T213804
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

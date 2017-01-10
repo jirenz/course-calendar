@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses46da16e0-730e-41fd-aa72-bfa44b31d823
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_coursesbfc541dc-0d7b-49b3-8ee0-afdd1026f721
+DTSTAMP:20170109T213829
 LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Introduction to the fundamental concepts of computer systems. Explores how computer systems execute programs and manipulate data, working from the C programming language down to the microprocessor. Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, elements of code compilation, memory organization and management, and performance evaluation and optimization. Prerequisites: 106B or X, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS107 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

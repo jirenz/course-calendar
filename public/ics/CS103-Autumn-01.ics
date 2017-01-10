@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses05e7a487-5c6f-4e8c-923f-4f937d7015be
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_courses50c5c8b0-d624-4631-bebc-bb95b15dc0b7
+DTSTAMP:20170109T213829
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Mathematical foundations required for computer science, including propositional predicate logic, induction, sets, functions, and relations. Formal language theory, including regular expressions, grammars, finite automata, Turing machines, and NP-completeness. Mathematical rigor, proof techniques, and applications. Prerequisite: 106A or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS103 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170112T175000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses2dc05cbe-a8a6-4175-bca9-aeebe0f94bae
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213830
+UID:explore_courses4e613111-8840-4d9f-b5e6-8640e73fab85
+DTSTAMP:20170109T213830
 LOCATION:
 DESCRIPTION:This course is a hands-on lab in the prototyping and fabrication of tangible technologies, with a special focus in learning and education. We will learn how to use state-of-the-art fabrication machines (3D printers, 3D scanners, laser cutters, routers) to design educational toolkits, educational toys, science kits, and tangible user interfaces. A special focus of the course will be to design low-cost technologies, particularly for urban school in the US and abroad.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS402L LAB
 DTSTART;TZID=America/Los_Angeles:20170112T150000
-CREATED:20160925T011630
+CREATED:20170109T213830
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

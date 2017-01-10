@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170113T125000
+LAST-MODIFIED:20170109T213838
+UID:explore_courses18622621-5f7d-4364-a401-9ba259e9bd62
+DTSTAMP:20170109T213838
+LOCATION:Hewlett Teaching Center 201
+DESCRIPTION:Lecture/lab. Characteristics of machine elements including gears, bearings, and shafts. Design for fatigue life. Electric motor fundamentals. Transmission design for maximizing output power or efficiency. Mechanism types, linkage analysis and kinematic synthesis. Team-based design projects emphasizing the balance of physical with virtual prototyping based on engineering analysis. Lab for dissection of mechanical systems and project design reviews. Prerequisites: 80, 101. Recommended: 203, ENGR 15.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ME112 LEC
+DTSTART;TZID=America/Los_Angeles:20170113T113000
+CREATED:20170109T213838
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T125000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T125000
-LAST-MODIFIED:20160925T011635
-UID:explore_courses540fe656-4c7b-4ad4-9ce5-4ac58f5e7ae6
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_courses565e22c4-8654-4c02-8480-d7054d047679
+DTSTAMP:20170109T213838
 LOCATION:
 DESCRIPTION:Lecture/lab. Characteristics of machine elements including gears, bearings, and shafts. Design for fatigue life. Electric motor fundamentals. Transmission design for maximizing output power or efficiency. Mechanism types, linkage analysis and kinematic synthesis. Team-based design projects emphasizing the balance of physical with virtual prototyping based on engineering analysis. Lab for dissection of mechanical systems and project design reviews. Prerequisites: 80, 101. Recommended: 203, ENGR 15.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME112 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20160925T011635
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T125000;BYDAY=MO,WE,FR
+CREATED:20170109T213838
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T125000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

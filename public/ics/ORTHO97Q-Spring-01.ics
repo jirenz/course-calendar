@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T174000
-LAST-MODIFIED:20160925T011618
-UID:explore_courses9bd5f097-662f-4c4d-8804-70abec36cf2e
-DTSTAMP:20160925T011618
-LOCATION:Li Ka Shing Center, rms205/206
+DTEND;TZID=America/Los_Angeles:20170405T174500
+LAST-MODIFIED:20170109T213909
+UID:explore_courses5a01e71c-001b-4772-8bb5-1b6929a8b409
+DTSTAMP:20170109T213909
+LOCATION:
 DESCRIPTION:Preference to sophomores. Sports medicine is the practice of clinical medicine at the interface between health and performance, competition and well-being. While sports medicine had its origins in providing care to athletes, medical advances developed in care of athletes exerted a great effect on the nature and quality of care to the broader community. Topics include sports injuries, medical conditions associated with sport and exercise, ethics, coaching, women's issues, fitness and health, and sports science. Case studies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ORTHO97Q ISS
 DTSTART;TZID=America/Los_Angeles:20170405T151500
-CREATED:20160925T011618
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T174000;BYDAY=WE
+CREATED:20170109T213909
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T174500;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

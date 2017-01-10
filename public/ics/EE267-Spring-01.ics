@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses47c88388-c20a-4154-8151-88b999ed140e
-DTSTAMP:20160925T011632
-LOCATION:540-108
+LAST-MODIFIED:20170109T213832
+UID:explore_courses510f5b71-9abf-482d-9401-edded5b202be
+DTSTAMP:20170109T213832
+LOCATION:380-380C
 DESCRIPTION:OpenGL, real-time rendering, 3D display systems, display optics &amp; electronics, IMUs and sensors, tracking, haptics, rendering pipeline, multimodel human perception and depth perception, stereo rendering, presence. Emphasis is on VR technology. Hands-on programming assignments. Final project: create your own virtual environment. Prerequistites: strong programming skills. Helpful: basic computer graphics / OpenGL.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE267 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

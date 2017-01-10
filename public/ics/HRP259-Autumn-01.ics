@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20160925T011613
-UID:explore_courses66fe28e5-a9cc-44c3-85ea-6c8155cd8191
-DTSTAMP:20160925T011613
+LAST-MODIFIED:20170109T213859
+UID:explore_courses574df540-24e7-4474-ac78-541caaf7e5fb
+DTSTAMP:20170109T213859
 LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:Topics: random variables, expectation, variance, probability distributions, the central limit theorem, sampling theory, hypothesis testing, confidence intervals. Correlation, regression, analysis of variance, and nonparametric tests. Introduction to least squares and maximum likelihood estimation. Emphasis is on medical applications. Differential between 3 and 4 units is the amount of out-of-class work required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP259 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20160925T011613
+CREATED:20170109T213859
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

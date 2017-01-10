@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20160925T011643
-UID:explore_courses67a905c1-f56a-4a59-8cf8-355540616f75
-DTSTAMP:20160925T011643
+LAST-MODIFIED:20170109T213707
+UID:explore_courses2567c029-f4d9-42c2-a5cf-231b42246b31
+DTSTAMP:20170109T213707
 LOCATION:50-52H
 DESCRIPTION:Introduction to statistical concepts and methods that are essential to the study of questions in biology, environment, health and related areas. The course will teach and use the computer language R and Python (you learn both, choose one). Topics include distributions, probabilities, likelihood, linear models; illustrations will be based on recent research.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO108 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20160925T011643
+CREATED:20170109T213707
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

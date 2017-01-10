@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20160925T011711
-UID:explore_coursesa249d8a3-59eb-4794-9e1b-552f954cc59a
-DTSTAMP:20160925T011711
+LAST-MODIFIED:20170109T213802
+UID:explore_coursesdc8cacce-ca83-4751-8dc7-ef6f73bbbf62
+DTSTAMP:20170109T213802
 LOCATION:Green Earth Sciences150
 DESCRIPTION:The origins of quantum mechanics and wave mechanics.  Schr&ouml;dinger equation and solutions for one-dimensional systems. Commutation relations. Generalized uncertainty principle. Time-energy uncertainty principle. Separation of variables and solutions for three-dimensional systems; application to hydrogen atom.  Spherically symmetric potentials and angular momentum eigenstates. Spin angular momentum.  Addition of angular momentum. Prerequisites: PHYSICS 65 or PHYSICS 70 and MATH 131P or MATH 173. MATH 173 can be taken concurrently. Pre- or corequisites: PHYSICS 120.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS130 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20160925T011711
+CREATED:20170109T213802
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

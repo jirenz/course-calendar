@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T115000
-LAST-MODIFIED:20160925T011628
-UID:explore_courses95c2b223-ad03-4f0d-87a3-74f858f482d3
-DTSTAMP:20160925T011628
+LAST-MODIFIED:20170109T213823
+UID:explore_coursesb81bd5e9-3b1d-4691-a4e8-5ed43a38b000
+DTSTAMP:20170109T213823
 LOCATION:200-305
 DESCRIPTION:Data analysis, spectra and correlations, sampling theorem, nonperiodic data, and windowing; spectral methods for numerical solution of partial differential equations; accuracy and computational cost; fast Fourier transform, Galerkin, collocation, and Tau methods; spectral and pseudospectral methods based on Fourier series and eigenfunctions of singular Sturm-Liouville problems; Chebyshev, Legendre, and Laguerre representations; convergence of eigenfunction expansions; discontinuities and Gibbs phenomenon; aliasing errors and control; efficient implementation of spectral methods; spectral methods for complicated domains; time differencing and numerical stability.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME322 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20160925T011628
+CREATED:20170109T213823
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,45 +22,45 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T132000
-LAST-MODIFIED:20160925T011654
-UID:explore_courses938fad23-ae49-4928-aa8d-25780a98920c
-DTSTAMP:20160925T011654
-LOCATION:160-321
-DESCRIPTION:An examination of American journalism, focusing on how news is produced, distributed, and financially supported. Emphasis on current media controversies and puzzles, and on designing innovations in discovering and telling stories. (Graduate students register for COMM 225.)
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:COMM125 LEC
-DTSTART;TZID=America/Los_Angeles:20160929T120000
-CREATED:20160925T011654
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T132000
-LAST-MODIFIED:20160925T011654
-UID:explore_courses5148eb58-7ad8-4d0b-a090-145a4022d88d
-DTSTAMP:20160925T011654
-LOCATION:160-317
-DESCRIPTION:An examination of American journalism, focusing on how news is produced, distributed, and financially supported. Emphasis on current media controversies and puzzles, and on designing innovations in discovering and telling stories. (Graduate students register for COMM 225.)
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:COMM125 LEC
-DTSTART;TZID=America/Los_Angeles:20160929T120000
-CREATED:20160925T011654
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20160925T011654
-UID:explore_courses264b8f76-954c-4eac-93bd-1e691b395cd3
-DTSTAMP:20160925T011654
+LAST-MODIFIED:20170109T213723
+UID:explore_coursese2bf572c-86f0-45a2-a4b5-ef971ad791a3
+DTSTAMP:20170109T213723
 LOCATION:260-113
 DESCRIPTION:An examination of American journalism, focusing on how news is produced, distributed, and financially supported. Emphasis on current media controversies and puzzles, and on designing innovations in discovering and telling stories. (Graduate students register for COMM 225.)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMM125 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T120000
-CREATED:20160925T011654
+CREATED:20170109T213723
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T132000
+LAST-MODIFIED:20170109T213723
+UID:explore_courses252ed081-bbcb-492d-b701-00d09321b06b
+DTSTAMP:20170109T213723
+LOCATION:160-317
+DESCRIPTION:An examination of American journalism, focusing on how news is produced, distributed, and financially supported. Emphasis on current media controversies and puzzles, and on designing innovations in discovering and telling stories. (Graduate students register for COMM 225.)
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:COMM125 LEC
+DTSTART;TZID=America/Los_Angeles:20160929T120000
+CREATED:20170109T213723
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T132000
+LAST-MODIFIED:20170109T213723
+UID:explore_coursesc7b75423-ec79-434a-ab60-a92a2715e785
+DTSTAMP:20170109T213723
+LOCATION:160-321
+DESCRIPTION:An examination of American journalism, focusing on how news is produced, distributed, and financially supported. Emphasis on current media controversies and puzzles, and on designing innovations in discovering and telling stories. (Graduate students register for COMM 225.)
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:COMM125 LEC
+DTSTART;TZID=America/Los_Angeles:20160929T120000
+CREATED:20170109T213723
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

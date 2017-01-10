@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20160925T011654
-UID:explore_courses967c87d3-684d-42a5-865a-8008934e3817
-DTSTAMP:20160925T011654
-LOCATION:120-452
+LAST-MODIFIED:20170109T213723
+UID:explore_courses1dc229f7-8a53-4fb0-aae0-7540996f9138
+DTSTAMP:20170109T213723
+LOCATION:
 DESCRIPTION:The social and psychological processes involved in asking and answering questions via questionnaires for the social sciences; optimizing questionnaire design; open versus closed questions; rating versus ranking; rating scale length and point labeling; acquiescence response bias; don't-know response options; response choice order effects; question order effects; social desirability response bias; attitude and behavior recall; and introspective accounts of the causes of thoughts and actions.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMM339 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T120000
-CREATED:20160925T011654
+CREATED:20170109T213723
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

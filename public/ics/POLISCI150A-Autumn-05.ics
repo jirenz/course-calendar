@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T122000
-LAST-MODIFIED:20160925T011712
-UID:explore_coursesf4f9b97d-d54c-45e8-9ef6-99926cfdd36c
-DTSTAMP:20160925T011712
-LOCATION:300-303
+DTEND;TZID=America/Los_Angeles:20160929T172000
+LAST-MODIFIED:20170109T213804
+UID:explore_coursesa19eb473-fe3d-451c-825a-112048230ae3
+DTSTAMP:20170109T213804
+LOCATION:Encina West 101
 DESCRIPTION:Data science is quickly changing the way we understand and and engage in the political process.  In this course we will develop fundamental techniques of data science and apply them to large political datasets on elections, campaign finance, lobbying, and more.  The objective is to give students the skills to carry out cutting edge quantitative political studies in both academia and the private sector.  Students with technical backgrounds looking to study politics quantitatively are encouraged to enroll.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI150A DIS
-DTSTART;TZID=America/Los_Angeles:20160930T113000
-CREATED:20160925T011712
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20160929T163000
+CREATED:20170109T213804
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

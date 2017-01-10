@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170626T152000
-LAST-MODIFIED:20160925T011714
-UID:explore_courses6907186a-8f73-469d-a086-409dc3b3f490
-DTSTAMP:20160925T011714
+LAST-MODIFIED:20170109T213805
+UID:explore_coursesa63e00db-dc96-4462-8650-12ad49f0e8d0
+DTSTAMP:20170109T213805
 LOCATION:
 DESCRIPTION:Have you ever collected data and then not know how to analyze it? Bayesian data analysis is a general purpose data analysis approach for making explicit hypotheses about where the data came from (e.g. the hypothesis that data from 2 experimental conditions came from two different distributions). In this course, we will explore and learn how to use Bayesian data analytic tools for analyzing data from psychology experiments. Students will develop a strong foundation for statistical intuitions and build on these intuitions to conduct Bayesian analyses of experimental data. The course will focus on the practicalities of running Bayesian analyses, of describing analyses for purposes of publication, and of making inferences about data and design decisions for subsequent experiments. This course is ideal for graduate or advanced-undergraduate students in Psychology, Linguistics, and related fields, who conduct experiments on human behavior; also appropriate for students without experience in psychological experiments but with experience in statistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH201S SEM
 DTSTART;TZID=America/Los_Angeles:20170626T133000
-CREATED:20160925T011714
+CREATED:20170109T213805
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

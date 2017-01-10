@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20160925T011707
-UID:explore_courses58ad7e28-d756-42ee-9f61-db94e0afbb21
-DTSTAMP:20160925T011707
+LAST-MODIFIED:20170109T213755
+UID:explore_coursesd62341b4-7fb9-485c-80a5-c7fb129daa19
+DTSTAMP:20170109T213755
 LOCATION:380-381U
 DESCRIPTION:This course will be an introduction to Riemannian Geometry. Topics will include the Levi-Civita connection, Riemann curvature tensor, Ricci and scalar curvature, geodesics, parallel transport, completeness, geodesics and Jacobi fields, and comparison techniques. Prerequisites 146 or 215B
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH215C LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20160925T011707
+CREATED:20170109T213755
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

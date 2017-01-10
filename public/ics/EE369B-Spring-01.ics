@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20160925T011632
-UID:explore_coursesbda5ca0c-9f11-48ff-b3a9-e36e5e4412eb
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses6faf23dd-f7e3-428f-b3cd-5de5d718ce28
+DTSTAMP:20170109T213832
 LOCATION:300-300
 DESCRIPTION:Imaging internal structures within the body using non-ionizing radiation studied from a systems viewpoint. Modalities include ultrasound and magnetic resonance. Analysis of ultrasonic systems including diffraction and noise. Analysis of magnetic resonance systems including physics, Fourier properties of image formation, and noise. Prerequisite: EE 261
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE369B LEC
 DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

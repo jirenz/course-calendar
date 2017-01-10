@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170407T175000
-LAST-MODIFIED:20160925T011635
-UID:explore_coursescc31512b-9e5c-4dcb-ae39-bde2fa825053
-DTSTAMP:20160925T011635
-LOCATION:380-380D
+LAST-MODIFIED:20170109T213838
+UID:explore_coursesca45a237-738f-430d-8227-c69749745f79
+DTSTAMP:20170109T213838
+LOCATION:200-034
 DESCRIPTION:The nature of turbulent flows, statistical and spectral description of turbulence, coherent structures, spatial and temporal scales of turbulent flows. Averaging, two-point correlations and governing equations. Reynolds averaged equations and stresses. Free shear flows, turbulent jet, turbulent kinetic energy and kinetic energy dissipation, and kinetic energy budget. Kolmogorov's hypothesis and energy spectrum. Wall bounded flows, viscous scales, and law of the wall. Turbulence closure modeling for Reynolds averaged Navier Stokes equations. Direct and large eddy simulation of turbulent flows. Subgrid scale modeling.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME361 DIS
 DTSTART;TZID=America/Los_Angeles:20170407T163000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

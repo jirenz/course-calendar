@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T192000
-LAST-MODIFIED:20160925T011650
-UID:explore_courses6d7be640-d56b-47de-8e74-c3ab9aa0f4e5
-DTSTAMP:20160925T011650
-LOCATION:ScienceTeachingLearningCntr115
-DESCRIPTION:The structure and reactivity of mono- and polyfunctionalized molecules; retrosynthetic analysis and multi-step chemical synthesis.  Course will emphasize deductive logic and reasoning skills through conceptual learning.  Students gain an appreciation for the profound impact of organic chemistry on humankind in fields ranging from biology and medicine to gastronomy, agriculture, and materials science.  A three hour lab section provides hands on experience with modern chemical methods for preparative and analytical chemistry.  Prerequisite: Chem 33
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:CHEM35 LEC
-DTSTART;TZID=America/Los_Angeles:20170405T180000
-CREATED:20160925T011650
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T192000;BYDAY=WE
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T122000
-LAST-MODIFIED:20160925T011650
-UID:explore_courses456f8703-9227-4187-8c8f-cf42471442ce
-DTSTAMP:20160925T011650
+LAST-MODIFIED:20170109T213719
+UID:explore_courses89e4ab11-e023-41d6-a18a-d1d418ed15af
+DTSTAMP:20170109T213719
 LOCATION:ScienceTeachingLearningCntr114
 DESCRIPTION:The structure and reactivity of mono- and polyfunctionalized molecules; retrosynthetic analysis and multi-step chemical synthesis.  Course will emphasize deductive logic and reasoning skills through conceptual learning.  Students gain an appreciation for the profound impact of organic chemistry on humankind in fields ranging from biology and medicine to gastronomy, agriculture, and materials science.  A three hour lab section provides hands on experience with modern chemical methods for preparative and analytical chemistry.  Prerequisite: Chem 33
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM35 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T113000
-CREATED:20160925T011650
+CREATED:20170109T213719
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170405T192000
+LAST-MODIFIED:20170109T213719
+UID:explore_coursesf6f59714-5077-49ed-bfb0-5baad4ee51b1
+DTSTAMP:20170109T213719
+LOCATION:ScienceTeachingLearningCntr115
+DESCRIPTION:The structure and reactivity of mono- and polyfunctionalized molecules; retrosynthetic analysis and multi-step chemical synthesis.  Course will emphasize deductive logic and reasoning skills through conceptual learning.  Students gain an appreciation for the profound impact of organic chemistry on humankind in fields ranging from biology and medicine to gastronomy, agriculture, and materials science.  A three hour lab section provides hands on experience with modern chemical methods for preparative and analytical chemistry.  Prerequisite: Chem 33
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHEM35 LEC
+DTSTART;TZID=America/Los_Angeles:20170405T180000
+CREATED:20170109T213719
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T192000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

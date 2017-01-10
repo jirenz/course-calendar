@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161024T175000
-LAST-MODIFIED:20160925T011600
-UID:explore_courses9ec2bb58-19a7-450b-b76f-7ba7d17474f2
-DTSTAMP:20160925T011600
-LOCATION:GSB McClelland 105
-DESCRIPTION:As technology-driven ventures are having more and more impact, entrepreneurial ecosystems have been emerging in recent years in developing economies. Following the lead of Silicon Valley, these newly formed industry networks that include universities, incubators and accelerator programs, angel investor networks and venture capital firms can now support local entrepreneurs and innovation better than ever before. As these economies grow and get more connected, exciting opportunities arise across markets and industries such as replicating a successful business model, leapfrogging the last technology, targeting the base of the pyramid or starting a venture capital firm. Despite the fertile ground for new endeavors, entrepreneurs face particular challenges and risks that they would not encounter in Silicon Valley.nnThis case driven course will include the participation of investors and entrepreneurs that have seized these opportunities across the world. By taking this course, you will be better equipped to observe and explain emerging ecosystems and the opportunities they present. It is targeted towards students who are thinking about creating or investing in new ventures in emerging markets.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:STRAMGT547 CAS
-DTSTART;TZID=America/Los_Angeles:20161024T150000
-CREATED:20160925T011600
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161028T175000;BYDAY=MO,WE,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20161107T175000
-LAST-MODIFIED:20160925T011600
-UID:explore_courses769c8faf-acb5-4e1a-9697-f24eff0724ea
-DTSTAMP:20160925T011600
+LAST-MODIFIED:20170109T213845
+UID:explore_courses70e170ea-75c0-4ef9-868f-5a470931c405
+DTSTAMP:20170109T213845
 LOCATION:
 DESCRIPTION:As technology-driven ventures are having more and more impact, entrepreneurial ecosystems have been emerging in recent years in developing economies. Following the lead of Silicon Valley, these newly formed industry networks that include universities, incubators and accelerator programs, angel investor networks and venture capital firms can now support local entrepreneurs and innovation better than ever before. As these economies grow and get more connected, exciting opportunities arise across markets and industries such as replicating a successful business model, leapfrogging the last technology, targeting the base of the pyramid or starting a venture capital firm. Despite the fertile ground for new endeavors, entrepreneurs face particular challenges and risks that they would not encounter in Silicon Valley.nnThis case driven course will include the participation of investors and entrepreneurs that have seized these opportunities across the world. By taking this course, you will be better equipped to observe and explain emerging ecosystems and the opportunities they present. It is targeted towards students who are thinking about creating or investing in new ventures in emerging markets.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STRAMGT547 CAS
 DTSTART;TZID=America/Los_Angeles:20161107T150000
-CREATED:20160925T011600
+CREATED:20170109T213845
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161111T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20161024T175000
+LAST-MODIFIED:20170109T213845
+UID:explore_coursese6bd971e-5f3d-4c52-b9a4-46d805cbba46
+DTSTAMP:20170109T213845
+LOCATION:GSB McClelland 105
+DESCRIPTION:As technology-driven ventures are having more and more impact, entrepreneurial ecosystems have been emerging in recent years in developing economies. Following the lead of Silicon Valley, these newly formed industry networks that include universities, incubators and accelerator programs, angel investor networks and venture capital firms can now support local entrepreneurs and innovation better than ever before. As these economies grow and get more connected, exciting opportunities arise across markets and industries such as replicating a successful business model, leapfrogging the last technology, targeting the base of the pyramid or starting a venture capital firm. Despite the fertile ground for new endeavors, entrepreneurs face particular challenges and risks that they would not encounter in Silicon Valley.nnThis case driven course will include the participation of investors and entrepreneurs that have seized these opportunities across the world. By taking this course, you will be better equipped to observe and explain emerging ecosystems and the opportunities they present. It is targeted towards students who are thinking about creating or investing in new ventures in emerging markets.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STRAMGT547 CAS
+DTSTART;TZID=America/Los_Angeles:20161024T150000
+CREATED:20170109T213845
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161028T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

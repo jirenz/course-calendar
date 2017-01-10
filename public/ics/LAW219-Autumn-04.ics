@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160908T123500
-LAST-MODIFIED:20160925T011603
-UID:explore_courses09d4157a-cd59-4ee4-82d7-c21dfdced533
-DTSTAMP:20160925T011603
-LOCATION:Law185
-DESCRIPTION:Legal Research and Writing is a two-unit course taught as a simulation. Students work on a legal problem starting with an initial interview, and they conduct fact investigation and legal research related to that problem.  Students receive rigorous training in reading and analyzing legal authority, and in using persuasive strategies--legal analysis, narrative, rhetoric, legal theory, and public policy--to frame and develop legal arguments.  Students write predictive memos and persuasive briefs, and are introduced to the professional norms of ethics, timeliness, and courtesy.  This course is part of the required first-year JD curriculum.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:LAW219 LEC
-DTSTART;TZID=America/Los_Angeles:20160908T112000
-CREATED:20160925T011603
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T123500;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160912T165000
-LAST-MODIFIED:20160925T011603
-UID:explore_courses0e793dc4-6f26-439b-9f3d-749f63768b3e
-DTSTAMP:20160925T011603
+LAST-MODIFIED:20170109T213846
+UID:explore_coursesba93a8ea-f65b-4751-bc58-d4569fe3b78e
+DTSTAMP:20170109T213846
 LOCATION:Law185
 DESCRIPTION:Legal Research and Writing is a two-unit course taught as a simulation. Students work on a legal problem starting with an initial interview, and they conduct fact investigation and legal research related to that problem.  Students receive rigorous training in reading and analyzing legal authority, and in using persuasive strategies--legal analysis, narrative, rhetoric, legal theory, and public policy--to frame and develop legal arguments.  Students write predictive memos and persuasive briefs, and are introduced to the professional norms of ethics, timeliness, and courtesy.  This course is part of the required first-year JD curriculum.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW219 LEC
 DTSTART;TZID=America/Los_Angeles:20160912T154500
-CREATED:20160925T011603
+CREATED:20170109T213846
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T165000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160908T123500
+LAST-MODIFIED:20170109T213846
+UID:explore_courses8e7e8970-9df3-4c4c-ac8f-754de82f7d21
+DTSTAMP:20170109T213846
+LOCATION:Law185
+DESCRIPTION:Legal Research and Writing is a two-unit course taught as a simulation. Students work on a legal problem starting with an initial interview, and they conduct fact investigation and legal research related to that problem.  Students receive rigorous training in reading and analyzing legal authority, and in using persuasive strategies--legal analysis, narrative, rhetoric, legal theory, and public policy--to frame and develop legal arguments.  Students write predictive memos and persuasive briefs, and are introduced to the professional norms of ethics, timeliness, and courtesy.  This course is part of the required first-year JD curriculum.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW219 LEC
+DTSTART;TZID=America/Los_Angeles:20160908T112000
+CREATED:20170109T213846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T123500;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

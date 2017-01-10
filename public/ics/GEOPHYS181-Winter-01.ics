@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20160925T011606
-UID:explore_coursesd3ccef02-7486-4274-985f-d2c6924f51fb
-DTSTAMP:20160925T011606
+LAST-MODIFIED:20170109T213852
+UID:explore_courses6d8f56b5-d89d-4970-8005-229f824de7dc
+DTSTAMP:20170109T213852
 LOCATION:
 DESCRIPTION:Interdisciplinary problems involving the state and movement of fluids in crustal systems, and computational methods to model these processes. Examples of processes include: nonlinear, time-dependent flow in porous rocks; coupling in porous rocks between fluid flow, stress, deformation, and heat and chemical transport; percolation of partial melt; diagenetic processes; pressure solution and the formation of stylolites; and transient pore pressure in fault zones. MATLAB, Lattice-Boltzmann, and COMSOL Multiphysics. Term project. No experience with COMSOL Multiphysics required. Offered every other year, winter quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS181 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20160925T011606
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+CREATED:20170109T213852
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=00090317T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

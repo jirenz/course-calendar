@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T112000
-LAST-MODIFIED:20160925T011605
-UID:explore_courses011eaf58-c4a8-4e3a-a0cc-3da962091df4
-DTSTAMP:20160925T011605
-LOCATION:Y2E2 335
+DTEND;TZID=America/Los_Angeles:20170112T165000
+LAST-MODIFIED:20170109T213850
+UID:explore_courses5a5ed975-4f85-4dfb-878c-b7f679c5667c
+DTSTAMP:20170109T213850
+LOCATION:SpilkerEng&AppliedSci218
 DESCRIPTION:Restricted to second year E-IPER PhD students only. Actively pursue one or more writing goals relevant to this stage in their graduate studies in a structured setting.  Set specific writing goals, create and follow a plan for reaching these goals, and receive substantive feedback on their written products from their peers. Examples of writing products include, but are not limited to, the student&iquest;s dissertation proposal, E-IPER Fields of Inquiry essay, a literature review, or a grant or fellowship application. By the end of the course, students are expected to have completed or have made substantial progress toward their writing goal.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENVRES340 SEM
-DTSTART;TZID=America/Los_Angeles:20170113T093000
-CREATED:20160925T011605
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170112T150000
+CREATED:20170109T213850
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T165000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

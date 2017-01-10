@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T175000
-LAST-MODIFIED:20160925T011630
-UID:explore_coursesb8128b3e-6f88-4958-bdf9-5a98fbe195f1
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213830
+UID:explore_courses93d13d15-2c71-4b23-977a-3ba0e96a491d
+DTSTAMP:20170109T213830
 LOCATION:420-050
 DESCRIPTION:Contents of this course change with each offering. Past offerings have included geometric matching, surface reconstruction, collision detection, computational topology. May be repeated for credit. Winter 2013/14 iteration will cover Computational Symmetry &amp; Regularity and spring quarter 2013/14 will cover data-driven shape analysis. Prerequisites: Math 52 or equivalent, basic coding.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS468 SEM
 DTSTART;TZID=America/Los_Angeles:20170404T163000
-CREATED:20160925T011630
+CREATED:20170109T213830
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

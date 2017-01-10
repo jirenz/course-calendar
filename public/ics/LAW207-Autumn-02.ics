@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160907T153000
-LAST-MODIFIED:20160925T011603
-UID:explore_courses4b104b69-5f12-4c16-8159-aaf42f3b9ffb
-DTSTAMP:20160925T011603
-LOCATION:Law285
-DESCRIPTION:This course is part of the required first-year JD curriculum.  It examines the traditional general issues in the substantive criminal law, including the purposes of punishment and the appropriate limits on the use of the criminal sanction. It focuses predominantly on how criminal statutes are organized around objective offense elements (conduct, causation, and attendant circumstances) and mental states, and to a lesser degree on inchoate crimes, complicity, justification and excuse.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:LAW207 LEC
-DTSTART;TZID=America/Los_Angeles:20160907T141500
-CREATED:20160925T011603
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T153000;BYDAY=WE
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160908T110000
-LAST-MODIFIED:20160925T011603
-UID:explore_courses37912687-3be9-4f83-929e-e0d88483aeb2
-DTSTAMP:20160925T011603
+LAST-MODIFIED:20170109T213846
+UID:explore_courses9a950d28-2541-4d19-a198-e0b64da4818d
+DTSTAMP:20170109T213846
 LOCATION:Law285
 DESCRIPTION:This course is part of the required first-year JD curriculum.  It examines the traditional general issues in the substantive criminal law, including the purposes of punishment and the appropriate limits on the use of the criminal sanction. It focuses predominantly on how criminal statutes are organized around objective offense elements (conduct, causation, and attendant circumstances) and mental states, and to a lesser degree on inchoate crimes, complicity, justification and excuse.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW207 LEC
 DTSTART;TZID=America/Los_Angeles:20160908T094500
-CREATED:20160925T011603
+CREATED:20170109T213846
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T110000;BYDAY=TH,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160907T153000
+LAST-MODIFIED:20170109T213846
+UID:explore_courses4869c41b-e3c6-49d9-8eaf-a6e435940bd7
+DTSTAMP:20170109T213846
+LOCATION:Law285
+DESCRIPTION:This course is part of the required first-year JD curriculum.  It examines the traditional general issues in the substantive criminal law, including the purposes of punishment and the appropriate limits on the use of the criminal sanction. It focuses predominantly on how criminal statutes are organized around objective offense elements (conduct, causation, and attendant circumstances) and mental states, and to a lesser degree on inchoate crimes, complicity, justification and excuse.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW207 LEC
+DTSTART;TZID=America/Los_Angeles:20160907T141500
+CREATED:20170109T213846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T153000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

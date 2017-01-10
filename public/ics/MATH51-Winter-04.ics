@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20160925T011707
-UID:explore_courses5f940da5-32f3-4736-a4d8-440d909d2daf
-DTSTAMP:20160925T011707
-LOCATION:Shriram Ctr BioChemE 104
+LAST-MODIFIED:20170109T213755
+UID:explore_courses0f80a196-040b-4d19-8b71-51681381e2de
+DTSTAMP:20170109T213755
+LOCATION:420-041
 DESCRIPTION:Geometry and algebra of vectors, matrices and linear transformations, eigenvalues of symmetric matrices, vector-valued functions and functions of several variables, partial derivatives and gradients, derivative as a matrix, chain rule in several variables, critical points and Hessian, least-squares, , constrained and unconstrained optimization in several variables, Lagrange multipliers.  Prerequisite:  21, 42, or the math placement diagnostic (offered through the Math Department website) in order to register for this course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH51 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20160925T011707
+CREATED:20170109T213755
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

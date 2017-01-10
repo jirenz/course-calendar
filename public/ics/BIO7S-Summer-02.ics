@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170629T112000
-LAST-MODIFIED:20160925T011643
-UID:explore_courses04c6d58f-9e0f-4ec1-a3f3-6cdfa8298d67
-DTSTAMP:20160925T011643
+LAST-MODIFIED:20170109T213707
+UID:explore_courses920a1d7b-8450-420b-937c-c5160465fb98
+DTSTAMP:20170109T213707
 LOCATION:
 DESCRIPTION:Introduction to several major fields of biology, including biochemistry, cell biology, genetics, evolution, and biodiversity.  Introduces the general approaches used by scientists to study life and explores recent advances in each area during weekly discussion section.  Not intended for biology majors, but provides the foundation for higher-level biology courses.  Prerequisite: high school biology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO7S DIS
 DTSTART;TZID=America/Los_Angeles:20170629T103000
-CREATED:20160925T011643
+CREATED:20170109T213707
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T112000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

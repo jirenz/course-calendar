@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses5f5a40d1-feeb-4e01-80c4-6131eb3e034a
-DTSTAMP:20160925T011630
-LOCATION:
+LAST-MODIFIED:20170109T213829
+UID:explore_coursesecfd18d6-f3e8-402a-b033-022253702639
+DTSTAMP:20170109T213829
+LOCATION:Gates B1
 DESCRIPTION:For advanced undergraduates and graduate students. Theory and practice of cryptographic techniques used in computer security. Topics: encryption (symmetric and public key), digital signatures, data integrity, authentication, key management, PKI, zero-knowledge protocols, and real-world applications. Prerequisite: basic probability theory.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS255 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

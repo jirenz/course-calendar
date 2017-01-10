@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T182000
-LAST-MODIFIED:20160925T011625
-UID:explore_courses439b030e-6ea1-4a37-b579-df2af9d87340
-DTSTAMP:20160925T011625
-LOCATION:Alway Building, Room M112
+LAST-MODIFIED:20170109T213819
+UID:explore_courses1a2a3ecb-d775-48f8-97f7-a37b386be691
+DTSTAMP:20170109T213819
+LOCATION:
 DESCRIPTION:In this two-quarter course series (BIOE 374A/B, MED 272A/B, ME 368A/B, OIT 384/5), multidisciplinary student teams identify real-world unmet healthcare needs, invent new medtech products to address them, and plan for their development into patient care. During the first quarter (winter 2017), students select and characterize an important unmet healthcare problem, validate it through primary interviews and secondary research, and then brainstorm and screen initial technology-based solutions. In the second quarter (spring 2017), teams select a lead solution and move it toward the market through prototyping, technical re-risking, strategies to address healthcare-specific requirements (regulation, reimbursement), and business planning. Final presentations in winter and spring are made to a panel of prominent medtech experts and investors. Class sessions include faculty-led instruction and case demonstrations, coaching sessions by industry specialists, expert guest lecturers, and interactive team meetings. Enrollment is by application only, and students are expected to participate in both quarters of the course. Visit http://biodesign.stanford.edu/programs/stanford-courses/biodesign-innovation.html to access the application, examples of past projects, and student testimonials. More information about Stanford Biodesign, which has led to the creation of more than 40 venture-backed healthcare companies and has helped hundreds of student launch health technology careers, can be found at http://biodesign.stanford.edu/.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE374A LEC
 DTSTART;TZID=America/Los_Angeles:20170110T163000
-CREATED:20160925T011625
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=TU
+CREATED:20170109T213819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

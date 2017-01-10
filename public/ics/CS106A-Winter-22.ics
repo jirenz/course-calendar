@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170113T172000
-LAST-MODIFIED:20160925T011630
-UID:explore_coursesae92376c-fab2-4c81-b36b-2fe5a84e4e71
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_coursese018a15b-3d5f-456c-85b2-06998274ac56
+DTSTAMP:20170109T213829
 LOCATION:Thornt209
 DESCRIPTION:Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the Java programming language. Emphasis is on good programming style and the built-in facilities of the Java language. No prior programming experience required. Summer quarter enrollment is limited.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106A DIS
 DTSTART;TZID=America/Los_Angeles:20170113T163000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

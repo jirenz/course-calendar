@@ -22,45 +22,45 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160905T122000
-LAST-MODIFIED:20160925T011615
-UID:explore_courses6fc8b328-f025-4345-b59a-0cec39042051
-DTSTAMP:20160925T011615
-LOCATION:
-DESCRIPTION:Structure, function, disease, and therapeutics of the renal/genito-urinary system, the gastrointestinal system,  the endocrine system, male and female reproductive systems, and women's health.  See INDE 221 for a description of the Human Health and Disease block .
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:INDE222 LEC
-DTSTART;TZID=America/Los_Angeles:20160905T093000
-CREATED:20160925T011615
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,TU,FR
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161020T122000
-LAST-MODIFIED:20160925T011615
-UID:explore_courses2b78f1ec-0bb3-4195-b2c2-210d96d994cc
-DTSTAMP:20160925T011615
-LOCATION:Li Ka Shing Center, room 120
-DESCRIPTION:Structure, function, disease, and therapeutics of the renal/genito-urinary system, the gastrointestinal system,  the endocrine system, male and female reproductive systems, and women's health.  See INDE 221 for a description of the Human Health and Disease block .
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:INDE222 LEC
-DTSTART;TZID=America/Los_Angeles:20161020T093000
-CREATED:20160925T011615
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161020T122000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160922T122000
-LAST-MODIFIED:20160925T011615
-UID:explore_coursesf7d80e8e-a174-4754-ba7d-08c585bfc815
-DTSTAMP:20160925T011615
+LAST-MODIFIED:20170109T213903
+UID:explore_coursesf196a83a-4b3b-4161-8372-6a6f33009f2b
+DTSTAMP:20170109T213903
 LOCATION:
 DESCRIPTION:Structure, function, disease, and therapeutics of the renal/genito-urinary system, the gastrointestinal system,  the endocrine system, male and female reproductive systems, and women's health.  See INDE 221 for a description of the Human Health and Disease block .
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE222 LEC
 DTSTART;TZID=America/Los_Angeles:20160922T093000
-CREATED:20160925T011615
+CREATED:20170109T213903
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160929T122000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20161020T122000
+LAST-MODIFIED:20170109T213903
+UID:explore_coursesf9f99191-60ef-4af8-9e40-d199056b570d
+DTSTAMP:20170109T213903
+LOCATION:Li Ka Shing Center, room 120
+DESCRIPTION:Structure, function, disease, and therapeutics of the renal/genito-urinary system, the gastrointestinal system,  the endocrine system, male and female reproductive systems, and women's health.  See INDE 221 for a description of the Human Health and Disease block .
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:INDE222 LEC
+DTSTART;TZID=America/Los_Angeles:20161020T093000
+CREATED:20170109T213903
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161020T122000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160905T122000
+LAST-MODIFIED:20170109T213903
+UID:explore_coursesdbd6e954-6a56-4257-b576-66e1c837dddf
+DTSTAMP:20170109T213903
+LOCATION:
+DESCRIPTION:Structure, function, disease, and therapeutics of the renal/genito-urinary system, the gastrointestinal system,  the endocrine system, male and female reproductive systems, and women's health.  See INDE 221 for a description of the Human Health and Disease block .
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:INDE222 LEC
+DTSTART;TZID=America/Los_Angeles:20160905T093000
+CREATED:20170109T213903
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,TU,FR
 END:VEVENT
 END:VCALENDAR

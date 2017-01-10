@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses96fd8cef-696f-4cb8-937c-80674d9201ad
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213834
+UID:explore_coursesfce407d6-061e-4f80-bb12-bd796f964499
+DTSTAMP:20170109T213834
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Analytical techniques such as linear and integer programming, Monte Carlo simulation, forecasting, decision analysis, and Markov chains in the environment of the spreadsheet. Probability management. Materials include spreadsheet add-ins for implementing these and other techniques. Emphasis is on building intuition through interactive modeling, and extending the applicability of this type of analysis through integration with existing business data structures.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E207 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

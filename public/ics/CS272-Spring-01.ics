@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20160925T011630
-UID:explore_coursesb5d96679-7005-4925-9cf8-3d0fc4521b6b
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_courses538b3731-2234-4d83-be01-f82c3cbaca25
+DTSTAMP:20170109T213829
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:Capstone Biomedical Informatics (BMI) experience. Hands-on software building. Student teams conceive, design, specify, implement, evaluate, and report on a software project in the domain of biomedicine. Creating written proposals, peer review, providing status reports, and preparing final reports. Issues related to research reproducibility. Guest lectures from professional biomedical informatics systems builders on issues related to the process of project management. Software engineering basics. Because the team projects start in the first week of class, attendance that week is strongly recommended. Prerequisites: BIOMEDIN 210 or 211 or 214 or 217. Preference to BMI graduate students. Consent of instructor required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS272 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

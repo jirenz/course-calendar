@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160930T122000
-LAST-MODIFIED:20160925T011718
-UID:explore_coursescb73f297-2249-41fd-a3db-c89baa4c56b1
-DTSTAMP:20160925T011718
+LAST-MODIFIED:20170109T213811
+UID:explore_courses3a9fd37f-5285-427d-abe6-919b7c7a69dc
+DTSTAMP:20170109T213811
 LOCATION:Huang Engineerig Center 18
 DESCRIPTION:(SCPD students register for 240P.) Regression analysis and applications to investment models. Principal components and multivariate analysis. Likelihood inference and Bayesian methods. Financial time series. Estimation and modeling of volatilities. Statistical methods for portfolio management. Prerequisite: STATS 200 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS240 LEC
 DTSTART;TZID=America/Los_Angeles:20160930T103000
-CREATED:20160925T011718
+CREATED:20170109T213811
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

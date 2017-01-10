@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170306T112000
-LAST-MODIFIED:20160925T011611
-UID:explore_courses7e525b9a-26a9-439f-a2de-4291bab83d1e
-DTSTAMP:20160925T011611
-LOCATION:
+LAST-MODIFIED:20170109T213855
+UID:explore_coursesb700d32f-2095-4be8-87e4-bbac4e25d93d
+DTSTAMP:20170109T213855
+LOCATION:Li Ka Shing Center, rms203/204
 DESCRIPTION:Autumn quarter enrollment limited to ADVANCE students; instructor consent required for enrollment. Topics include: basics of R (widely used, open-source programming and data analysis environment) programming language and data structures, reading/writing files, graphics tools for figure generation, basic statistical and regression operations, survey of relevant R library packages.  Interactive format combining lectures and computer lab. For course and enrollment information, see http://bios205.stanford.edu.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS205 LEC
 DTSTART;TZID=America/Los_Angeles:20170306T093000
-CREATED:20160925T011611
+CREATED:20170109T213855
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170324T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20160925T011624
-UID:explore_courses4922b69f-1eae-4898-af3d-5a50229355e9
-DTSTAMP:20160925T011624
+LAST-MODIFIED:20170109T213818
+UID:explore_coursesf7e183b0-1158-448e-8938-a96b02352a17
+DTSTAMP:20170109T213818
 LOCATION:McCullough 126
 DESCRIPTION:Physics and engineering of plasmas, including space and laboratory plasmas.  Debye length and distribution functions.  Single-particle motion and drifts.  Plasmas as fluids and fluid drifts.  Waves in plasmas, including electrostatic and electromagnetic.  Diffusion and resistivity.  Magnetohydrodynamics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA244A LEC
 DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20160925T011624
+CREATED:20170109T213818
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

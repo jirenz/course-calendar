@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T152000
-LAST-MODIFIED:20160925T011658
-UID:explore_coursese6f5ea43-f366-40fb-afc2-acc65a50ef0e
-DTSTAMP:20160925T011658
-LOCATION:380-380D
+DTEND;TZID=America/Los_Angeles:20160930T122000
+LAST-MODIFIED:20170109T213737
+UID:explore_courses14b76da3-e734-40e8-93f4-6c851671f274
+DTSTAMP:20170109T213737
+LOCATION:260-244
 DESCRIPTION:Analysis and description of labor markets. Determination of employment, unemployment, hours of work, wages. Welfare programs and work effort. Wage differentials by schooling, experience, gender, and race. Income inequality, changes in inequality, and differences in inequality.  Employment contracts, labor unions, and bargaining. International comparisons. Prerequisites: ECON 51, ECON 102B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON145 DIS
-DTSTART;TZID=America/Los_Angeles:20160930T143000
-CREATED:20160925T011658
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20160930T113000
+CREATED:20170109T213737
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

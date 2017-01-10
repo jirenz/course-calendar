@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20160925T011606
-UID:explore_courses278d4fb7-692c-48ae-ab40-0397976e542f
-DTSTAMP:20160925T011606
+LAST-MODIFIED:20170109T213852
+UID:explore_coursesf7e52cfc-f8fd-43ff-9846-7ee99548079e
+DTSTAMP:20170109T213852
 LOCATION:Thornt210
 DESCRIPTION:What processes determine the large-scale structure and motion of Earth? How does convection deep within Earth drive plate tectonics and the formation of ocean basins and mountain ranges? Drawing from fundamental principles of mechanics and thermodynamics, we develop mathematical theories for heat flow, mantle convection, and the bending and breaking of Earth's brittle crust. Scaling arguments and dimensional analysis provide intuition that is refined through analytical and numerical solution (in MATLAB) of the governing equations and validated through comparison with observations. Prerequisites: differential equations (CME 104 or MATH 53); mechanics and thermodynamics (PHYSICS 41 and 45); prior programming experience (CME 192 or CS 106A) is recommended. Offered every other year.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS250 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20160925T011606
+CREATED:20170109T213852
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

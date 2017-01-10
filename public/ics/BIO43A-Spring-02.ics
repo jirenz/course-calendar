@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20160925T011643
-UID:explore_courses937301f1-5305-4512-99ad-09491478da19
-DTSTAMP:20160925T011643
+LAST-MODIFIED:20170109T213707
+UID:explore_courses0c39ee5e-ad89-464d-b573-f553946d64c0
+DTSTAMP:20170109T213707
 LOCATION:ScienceTeachingLearningCntr119
 DESCRIPTION:Students enrolled in Bio43 lecture and regular discussion sections attend two additional 80 min sections per week. The objective of the course is to help students to solidify basic concepts, identify areas to work on, and apply core concepts learned that week in Bio43 lecture and section. Space is limited, by application only. Co-Requisite: Bio 43.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO43A SEM
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20160925T011643
+CREATED:20170109T213707
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

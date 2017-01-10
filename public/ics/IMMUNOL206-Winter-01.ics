@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T152000
-LAST-MODIFIED:20160925T011614
-UID:explore_coursesf450b888-67af-422e-9d0c-b8d66f739299
-DTSTAMP:20160925T011614
-LOCATION:Li Ka Shing Center, room 306
+DTEND;TZID=America/Los_Angeles:20170111T152000
+LAST-MODIFIED:20170109T213900
+UID:explore_courses20179a1b-c117-4a4f-8922-14688763b92e
+DTSTAMP:20170109T213900
+LOCATION:
 DESCRIPTION:Introduction to computational tools for analyses of immunological data sets, including but not limited to single-cell data such as that from flow cytometry of CyTOF, as well as genomic anlayses.  Students become familiar with major web-based databases and analysis suites for immunological and genomic data; gain a working knowledge of the major software/algorithms for working with major data types, and be able to apply at least one computational tool in these areas to analyze a public data set.  Students taking the course for 2 units will complete a computational analysis project and present it to the class.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:IMMUNOL206 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20160925T011614
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170111T133000
+CREATED:20170109T213900
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

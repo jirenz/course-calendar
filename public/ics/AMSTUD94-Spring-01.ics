@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20160925T011636
-UID:explore_coursesb2ef19db-c055-4bbf-9a4b-1d3314dd683a
-DTSTAMP:20160925T011636
-LOCATION:100-101K
-DESCRIPTION:From the Beat Generation and 1960s counterculture to today&iquest;s tech boom, San Francisco has long been a hotbed of culture, politics, and technology. This class examines how the San Francisco Bay Area has shaped and been shaped by American popular culture. Students will visit Bay Area landmarks to conduct first-hand observations. Course materials include film, TV shows, political posters, cookbooks, advertisements, short stories, and travel guides.
+DTEND;TZID=America/Los_Angeles:20170403T122000
+LAST-MODIFIED:20170109T213635
+UID:explore_coursese7b8c438-06c0-43e1-a3f9-b0bd017cbfdd
+DTSTAMP:20170109T213635
+LOCATION:200-015
+DESCRIPTION:This course examines food in the United States over the last hundred years as it relates to the broad themes of nature, disease, technology, and labor. Though firmly grounded in American Studies, an interdisciplinary perspective draws from the material and methods of anthropology, cultural studies, art history, and history.  Specific topics include diet-related disease, tipping and the subminimum wage, the concept of agrarian democracy, supermarkets, and food preservation. Creative assignments include writing a menu, conducting a food observation, and reviewing a restaurant. Students will actively engage with paintings, sculpture, film, advertisements, restaurant reviews, commercials, and music videos.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AMSTUD94 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T093000
-CREATED:20160925T011636
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170403T113000
+CREATED:20170109T213635
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170627T152000
-LAST-MODIFIED:20160925T011632
-UID:explore_coursesf4548298-36f8-41fa-8797-c75e44f9b8be
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses89fdef3c-17ca-44ad-9fc8-56fc5985c278
+DTSTAMP:20170109T213832
 LOCATION:
 DESCRIPTION:Integrated approach to the fundamental scientific principles that are the cornerstones of engineering analysis: conservation of mass, atomic species, charge, momentum, angular momentum, energy, production of entropy expressed in the form of balance equations on carefully defined systems, and incorporating simple physical models. Emphasis is on setting up analysis problems arising in engineering. Topics: simple analytical solutions, numerical solutions of linear algebraic equations, and laboratory experiences. Provides the foundation and tools for subsequent engineering courses. Prerequisite: AP Physics and AP Calculus or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR10 LEC
 DTSTART;TZID=America/Los_Angeles:20170627T133000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

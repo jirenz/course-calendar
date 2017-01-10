@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20160925T011710
-UID:explore_courses3f984b1a-1edd-4a25-b6da-4cfe02eecbe2
-DTSTAMP:20160925T011710
-LOCATION:McMurtry Building rm 360
+LAST-MODIFIED:20170109T213800
+UID:explore_courses1923f729-786f-4fa8-b7ef-5012040e4b62
+DTSTAMP:20170109T213800
+LOCATION:260-301
 DESCRIPTION:The ancient Pyrrhonian skeptics who think that for any claim there is no more reason to assert it than deny it and that a life without any beliefs is the best route to happiness.  Some ancient opponents of the Pyrrhonian skeptics and some relations between ancient and modern skepticism.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL206 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011710
+CREATED:20170109T213800
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

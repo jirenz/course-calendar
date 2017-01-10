@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T172000
-LAST-MODIFIED:20160925T011604
-UID:explore_courses755670e0-2cb8-4ef1-869b-d114e87c5174
-DTSTAMP:20160925T011604
+LAST-MODIFIED:20170109T213848
+UID:explore_coursesd2fd15ad-c09e-46cd-82c3-4e11bf6986cf
+DTSTAMP:20170109T213848
 LOCATION:Y2E2 101
 DESCRIPTION:The use of satellite remote sensing to monitor land use and land cover, with emphasis on terrestrial changes. Topics include pre-processing data, biophysical properties of vegetation observable by satellite, accuracy assessment of maps derived from remote sensing, and methodologies to detect changes such as urbanization, deforestation, vegetation health, and wildfires.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS242 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T153000
-CREATED:20160925T011604
+CREATED:20170109T213848
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

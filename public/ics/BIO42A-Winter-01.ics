@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20160925T011643
-UID:explore_coursesdc5b46c3-e3b9-4b7c-9df1-76351b955855
-DTSTAMP:20160925T011643
+LAST-MODIFIED:20170109T213707
+UID:explore_coursesb0b538f2-c5b6-4b4b-ac4c-465ef91a170d
+DTSTAMP:20170109T213707
 LOCATION:Gilbert Biological Science 117
 DESCRIPTION:Students enrolled in Bio42 lecture and regular discussion sections attend two additional 80 min sections per week. The objective of the course is to help students to solidify basic concepts, identify areas to work on, and apply core concepts learned that week in Bio42 lecture and section. Space is limited, by application only. Co-Requisite: Bio 42.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO42A SEM
 DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20160925T011643
+CREATED:20170109T213707
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

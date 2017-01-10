@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T142000
-LAST-MODIFIED:20160925T011622
-UID:explore_courses73a19960-b612-4a46-8531-7c3119c339ac
-DTSTAMP:20160925T011622
+LAST-MODIFIED:20170109T213919
+UID:explore_coursesd0932abb-e2b0-4273-a251-5531e67eeb79
+DTSTAMP:20170109T213919
 LOCATION:
 DESCRIPTION:Introduces students to human anatomy of the head and neck through a dissection based course. Students use proper anatomical terminology to describe structures and their relationships. Emphasis on typical anatomy as seen in healthy individuals, with some examples of anatomical variation introduced through dissection and clinical cases. Ideal for senior undergraduate students who have completed SURG 101 or equivalent, are familiar with basic anatomy, and have some dissection experience. Prerequisites: Surgery 101 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SURG101A LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20160925T011622
+CREATED:20170109T213919
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T152000
-LAST-MODIFIED:20160925T011604
-UID:explore_courses78319abf-1af4-403b-9ee5-65fe3ef59c79
-DTSTAMP:20160925T011604
+LAST-MODIFIED:20170109T213848
+UID:explore_courses240d61db-0583-48fb-87f8-5bfcf3413f4a
+DTSTAMP:20170109T213848
 LOCATION:Shriram Ctr BioChemE 108
 DESCRIPTION:Simulation models are a powerful tool for environmental research, if used properly. The major concepts and techniques for building and evaluating models. Topics include model calibration, model selection, uncertainty and sensitivity analysis, and Monte Carlo and bootstrap methods. Emphasis is on gaining hands-on experience using the R programming language. Prerequisite: Basic knowledge of statistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS211 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T143000
-CREATED:20160925T011604
+CREATED:20170109T213848
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T152000
+LAST-MODIFIED:20170109T213821
+UID:explore_courses9cba308e-a0cb-41f5-abbf-de1848f17d14
+DTSTAMP:20170109T213821
+LOCATION:McMurtry Building rm 350
+DESCRIPTION:The architecture of Michelangelo Buonarroti (1475-1564), &quot;Father and Master of all the Arts,&quot; redefined the possibilities of architectural expression for generations. This course considers his civic, ecclesiastic, and palatial works. It proceeds from his beginnings in Medicean Florence to his fulfillment in Papal Rome. It examines the anxiety of influence following his death and his enduring legacy in modernism. Topics include: Michelangelo's debt to Classical and Early Renaissance prototypes; his transformation of the canon; the iterative sketch as disegno; architecture and the body; the queering of architectural language; sketch, scale, and materiality; Modernism and Michelangelo. The historiography of Michelangelo has predominantly favored studies in painting and sculpture. Our focus on architecture encourages students to test new ideas and alternative approaches to his work.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE33A SEM
+DTSTART;TZID=America/Los_Angeles:20170109T133000
+CREATED:20170109T213821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

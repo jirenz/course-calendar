@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20160925T011630
-UID:explore_coursesb604ecc4-c908-4e26-8073-b5679987749b
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_courses956c0886-620e-46bb-89e6-988ef919c4ab
+DTSTAMP:20170109T213829
 LOCATION:Bishop Auditorium
 DESCRIPTION:Mathematical foundations required for computer science, including propositional predicate logic, induction, sets, functions, and relations. Formal language theory, including regular expressions, grammars, finite automata, Turing machines, and NP-completeness. Mathematical rigor, proof techniques, and applications. Prerequisite: 106A or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS103 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T112000
-LAST-MODIFIED:20160925T011635
-UID:explore_coursesed0a8c1a-ccd9-4971-81b5-0a76a6c9b922
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_courses18646031-bd22-49e1-a22a-3e87b3a3dba9
+DTSTAMP:20170109T213838
 LOCATION:530-127
 DESCRIPTION:The principles of heat transfer by conduction, convection, and radiation with examples from the engineering of practical devices and systems. Topics include transient and steady conduction, conduction by extended surfaces, boundary layer theory for forced and natural convection, boiling, heat exchangers, and graybody radiative exchange. Prerequisites: 70, ENGR 30. Recommended: intermediate calculus, ordinary differential equations.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME131A LEC
 DTSTART;TZID=America/Los_Angeles:20160927T093000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T175000
-LAST-MODIFIED:20160925T011627
-UID:explore_courses28d3228a-6177-412e-a5e2-f4f41be14ad2
-DTSTAMP:20160925T011627
-LOCATION:
-DESCRIPTION:Construction engineering is a series of technical activities to meet project objectives related to cost and schedule, safety, quality, and sustainability. These activities include: 1) designing temporary works and construction work processes; 2) providing the required temporary and permanent resources; and 3) integrating activities to consider construction during all project phases and between projects. The objectives of CEE 252Q are to learn about the technical fundamentals, resources, and field operations required to complete construction engineering activities and to develop a foundation for continued related learning. The course requires reviewing recorded presentations and other online resources, completing queries, participating in class sessions with guest speakers and in field trips, and completing group exercises and projects. The exercises, completed by all of the student groups, include construction engineering activities for earthwork, concrete construction, and steel erection. Each group will also complete a project to analyze one of the following types of systems or facilities: building electrical systems, lighting systems, HVAC systems, control systems, solar photovoltaic power plant, and wind turbine power plant.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:CEE252Q PRA
-DTSTART;TZID=America/Los_Angeles:20160926T163000
-CREATED:20160925T011627
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20160925T011627
-UID:explore_courses3e2fd4eb-f625-4f68-a403-dd57cdd68685
-DTSTAMP:20160925T011627
+LAST-MODIFIED:20170109T213822
+UID:explore_courses11971786-be37-4a0a-92a6-2838df21d3e4
+DTSTAMP:20170109T213822
 LOCATION:
 DESCRIPTION:Construction engineering is a series of technical activities to meet project objectives related to cost and schedule, safety, quality, and sustainability. These activities include: 1) designing temporary works and construction work processes; 2) providing the required temporary and permanent resources; and 3) integrating activities to consider construction during all project phases and between projects. The objectives of CEE 252Q are to learn about the technical fundamentals, resources, and field operations required to complete construction engineering activities and to develop a foundation for continued related learning. The course requires reviewing recorded presentations and other online resources, completing queries, participating in class sessions with guest speakers and in field trips, and completing group exercises and projects. The exercises, completed by all of the student groups, include construction engineering activities for earthwork, concrete construction, and steel erection. Each group will also complete a project to analyze one of the following types of systems or facilities: building electrical systems, lighting systems, HVAC systems, control systems, solar photovoltaic power plant, and wind turbine power plant.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE252Q PRA
 DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20160925T011627
+CREATED:20170109T213822
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T175000
+LAST-MODIFIED:20170109T213822
+UID:explore_courses0a887329-41bc-44d2-b603-330d6a2c96f6
+DTSTAMP:20170109T213822
+LOCATION:
+DESCRIPTION:Construction engineering is a series of technical activities to meet project objectives related to cost and schedule, safety, quality, and sustainability. These activities include: 1) designing temporary works and construction work processes; 2) providing the required temporary and permanent resources; and 3) integrating activities to consider construction during all project phases and between projects. The objectives of CEE 252Q are to learn about the technical fundamentals, resources, and field operations required to complete construction engineering activities and to develop a foundation for continued related learning. The course requires reviewing recorded presentations and other online resources, completing queries, participating in class sessions with guest speakers and in field trips, and completing group exercises and projects. The exercises, completed by all of the student groups, include construction engineering activities for earthwork, concrete construction, and steel erection. Each group will also complete a project to analyze one of the following types of systems or facilities: building electrical systems, lighting systems, HVAC systems, control systems, solar photovoltaic power plant, and wind turbine power plant.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE252Q PRA
+DTSTART;TZID=America/Los_Angeles:20160926T163000
+CREATED:20170109T213822
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

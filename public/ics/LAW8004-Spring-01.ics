@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T181500
-LAST-MODIFIED:20160925T011603
-UID:explore_courses12041ef3-0caa-4302-9399-4bafb6b385ba
-DTSTAMP:20160925T011603
+DTEND;TZID=America/Los_Angeles:20170405T203000
+LAST-MODIFIED:20170109T213846
+UID:explore_courses48b59415-de7c-4f6d-8b0e-e2432139c188
+DTSTAMP:20170109T213846
 LOCATION:
 DESCRIPTION:(Formerly Law 704)  The Law, Science &amp; Technology Colloquium offers students in the Law, Science &amp; Technology LLM Program the opportunity to discuss cutting-edge legal issues at the intersection of law and technology with leading experts in the field, including Stanford faculty, visiting scholars, technology and IP lawyers, entrepreneurs, and executives from Silicon Valley technology companies.  During most class meetings, an invited guest lecturer will present research, a paper, or their experiences to the class on a specific topic related to law, science, and technology. Following these presentations, all students will participate with the lecturer in a class discussion based on assigned readings, the presentation, and students' own experience in the area.  Attendance and preparation are vital to the success of the Colloquium and, accordingly, will constitute an important factor in the overall grade. Also, each student will individually write weekly commentary papers that evaluate, critique, and/or discuss key issues from the assigned reading.  Elements used in grading: Class participation, attendance and weekly commentary papers.  Satisfies the colloquium requirement for Law, Science, and Technology LLM (LST) candidates.  Open to LLM students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW8004 SEM
-DTSTART;TZID=America/Los_Angeles:20170406T161500
-CREATED:20160925T011603
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170526T181500;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170405T183000
+CREATED:20170109T213846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170526T203000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

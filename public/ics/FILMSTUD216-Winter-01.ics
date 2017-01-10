@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T162000
+LAST-MODIFIED:20170109T213743
+UID:explore_coursesc43f5df0-0096-4d43-967b-7611f8bac196
+DTSTAMP:20170109T213743
+LOCATION:McMurtry Building rm 370
+DESCRIPTION:A collaborative consideration of Robert Altman&iquest;s prolific and varied work as a director.  The course will examine well-known films such as the narratively and stylistically innovative Nashville, creative genre revisions such as McCabe and Mrs. Miller, The Long Goodbye, and Gosford Park; and the culturally iconic M.A.S.H.  We will also pay close attention to less famous work such as Secret Honor, and Buffalo Bill and the Indians, or Sitting Bull&iquest;s History Lesson with the aim of describing and assessing a complex oeuvre.  There will be a course bibliography, but required reading will be relatively light to make time for both careful and extensive viewing.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD216 LEC
+DTSTART;TZID=America/Los_Angeles:20170111T133000
+CREATED:20170109T213743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T192000
+LAST-MODIFIED:20170109T213743
+UID:explore_courses93361c90-0a48-4f66-91fc-24798d9cf09d
+DTSTAMP:20170109T213743
+LOCATION:McMurtry Building rm 350
+DESCRIPTION:A collaborative consideration of Robert Altman&iquest;s prolific and varied work as a director.  The course will examine well-known films such as the narratively and stylistically innovative Nashville, creative genre revisions such as McCabe and Mrs. Miller, The Long Goodbye, and Gosford Park; and the culturally iconic M.A.S.H.  We will also pay close attention to less famous work such as Secret Honor, and Buffalo Bill and the Indians, or Sitting Bull&iquest;s History Lesson with the aim of describing and assessing a complex oeuvre.  There will be a course bibliography, but required reading will be relatively light to make time for both careful and extensive viewing.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD216 LEC
+DTSTART;TZID=America/Los_Angeles:20170110T163000
+CREATED:20170109T213743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T192000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

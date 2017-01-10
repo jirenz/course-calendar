@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20160925T011632
-UID:explore_coursesd49ea912-c049-4749-ab92-ed95508a18d2
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses7bdbb6f5-c2ba-4555-8c98-d67fac6f4e55
+DTSTAMP:20170109T213832
 LOCATION:160-319
 DESCRIPTION:Students will study the theory of operation of instruments such as the time-domain reflectometer, sampling oscilloscope and vector network analyzer. They will build on that theoretical foundation by designing, constructing and characterizing numerous wireless building blocks in the upper-UHF range (e.g., up to about 500MHz), in a running series of laboratory exercises that conclude in a final project. Examples include impedance-matching and coupling structures, filters, narrowband and broadband amplifiers, mixers/modulators, and voltage-controlled oscillators. Prerequisite: EE 114 or EE 214A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE251 LAB
 DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

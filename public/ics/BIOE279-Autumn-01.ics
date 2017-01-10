@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20160925T011625
-UID:explore_courses1d2972f0-ca4d-4209-b1f4-2e81fb9f73fb
-DTSTAMP:20160925T011625
+LAST-MODIFIED:20170109T213819
+UID:explore_courses4aa8737e-e0ba-4bd3-87f3-704d064b6d3b
+DTSTAMP:20170109T213819
 LOCATION:Econ 140
 DESCRIPTION:Computational techniques for investigating and designing the three-dimensional structure and dynamics of biomolecules and cells.  These computational methods play an increasingly important role in drug discovery, medicine, bioengineering, and molecular biology.  Course topics include protein structure prediction, protein design, drug screening, molecular simulation, cellular-level simulation, image analysis for microscopy, and methods for solving structures from crystallography and electron microscopy data.  Prerequisites: elementary programming background (CS 106A or equivalent) and an introductory course in biology or biochemistry.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE279 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20160925T011625
+CREATED:20170109T213819
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

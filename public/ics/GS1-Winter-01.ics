@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T142000
-LAST-MODIFIED:20160925T011606
-UID:explore_coursesba92a2d2-007e-42d5-84c5-6ff4662c7400
-DTSTAMP:20160925T011606
+DTEND;TZID=America/Los_Angeles:20170109T152000
+LAST-MODIFIED:20170109T213852
+UID:explore_coursesa1b47043-3b95-4300-bddd-30d745cf6e14
+DTSTAMP:20170109T213852
 LOCATION:320-220
-DESCRIPTION:For non-majors or prospective majors in the Earth Sciences. Lectures, hands-on laboratories, in-class activities, and one field trip. Focus is on the physical and chemical processes of heat and mass transfer within the earth and its fluid envelopes, including deep-earth, crustal, surface, and atmospheric processes. Topics include plate tectonics, the cycling and formation of different types of rocks, and how geologists use rocks to understand Earth's history. Only one of GS 1A, 1B, or 1C may be taken for credit.
+DESCRIPTION:Lectures, hands-on laboratories, in-class activities, and one field trip. Focus is on the physical and chemical processes of heat and mass transfer within the earth and its fluid envelopes, including deep-earth, crustal, surface, and atmospheric processes. Topics include plate tectonics, the cycling and formation of different types of rocks, and how geologists use rocks to understand Earth's history.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GS1 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011606
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170109T143000
+CREATED:20170109T213852
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

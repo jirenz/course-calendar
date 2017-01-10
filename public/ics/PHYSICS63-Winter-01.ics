@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170113T162000
+LAST-MODIFIED:20170109T213802
+UID:explore_coursesb5befbb2-7c85-4218-ac64-e59f5916bd9c
+DTSTAMP:20170109T213802
+LOCATION:Lathrop 190
+DESCRIPTION:(Second in a three-part advanced freshman physics series: PHYSICS 61, PHYSICS 63, PHYSICS 65.) This course covers the foundations of electricity and magnetism for students with a strong high school mathematics and physics background, who are contemplating a major in Physics or Engineering Physics, or are interested in a rigorous treatment of physics. Electricity, magnetism, and waves with some description of optics. Electrostatics and Gauss' law. Electric potential, electric field, conductors, image charges. Electric currents, DC circuits. Moving charges, magnetic field, Ampere's law. Solenoids, transformers, induction, AC circuits, resonance. Relativistic point of view for moving charges. Displacement current, Maxwell's equations. Electromagnetic waves, dielectrics. Diffraction, interference, refraction, reflection, polarization. Prerequisite: PHYSICS 61 and MATH 51. Pre- or corequisite: MATH 52.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHYSICS63 LEC
+DTSTART;TZID=America/Los_Angeles:20170113T150000
+CREATED:20170109T213802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20160925T011711
-UID:explore_courses03ab4b20-f001-4b79-977a-44bed5de5208
-DTSTAMP:20160925T011711
-LOCATION:Hewlett Teaching Center 201
+LAST-MODIFIED:20170109T213802
+UID:explore_courses8339c490-8298-4707-b838-7fc200d55f7b
+DTSTAMP:20170109T213802
+LOCATION:Lathrop 180
 DESCRIPTION:(Second in a three-part advanced freshman physics series: PHYSICS 61, PHYSICS 63, PHYSICS 65.) This course covers the foundations of electricity and magnetism for students with a strong high school mathematics and physics background, who are contemplating a major in Physics or Engineering Physics, or are interested in a rigorous treatment of physics. Electricity, magnetism, and waves with some description of optics. Electrostatics and Gauss' law. Electric potential, electric field, conductors, image charges. Electric currents, DC circuits. Moving charges, magnetic field, Ampere's law. Solenoids, transformers, induction, AC circuits, resonance. Relativistic point of view for moving charges. Displacement current, Maxwell's equations. Electromagnetic waves, dielectrics. Diffraction, interference, refraction, reflection, polarization. Prerequisite: PHYSICS 61 and MATH 51. Pre- or corequisite: MATH 52.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS63 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20160925T011711
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE,FR
+CREATED:20170109T213802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

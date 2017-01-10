@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T112000
-LAST-MODIFIED:20160925T011559
-UID:explore_coursesc07e68b7-ca1c-46eb-8fd9-2b9a4f2e1daa
-DTSTAMP:20160925T011559
+LAST-MODIFIED:20170109T213842
+UID:explore_courses2ca0ec11-2c6b-4350-b2cf-1a59a5a8453c
+DTSTAMP:20170109T213842
 LOCATION:GSB Class of 1968 110
 DESCRIPTION:The course aims to develop a thorough understanding of Bayesian inference, with a special focus on empirical applications in marketing. The course will start with a brief theoretical foundation to Bayesian inference and will subsequently focus on empirical methods. Initial topics would include Bayesian linear regression, multivariate regression, importance sampling and its applications. Subsequently, the course will focus on Markov Chain Monte Carlo (MCMC) methods including the Gibbs Sampler and the Metropolis-Hastings algorithm and their applications. The overall focus of the course will be on applying these methods for empirical research using a programming language such as R.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MKTG646 SEM
 DTSTART;TZID=America/Los_Angeles:20160927T083000
-CREATED:20160925T011559
+CREATED:20170109T213842
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

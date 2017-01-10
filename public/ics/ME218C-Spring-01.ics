@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T142000
-LAST-MODIFIED:20160925T011635
-UID:explore_coursesb4356049-f395-494b-99c1-5a43d912affe
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_courses2b727137-01d4-4450-b001-1b0d327bea46
+DTSTAMP:20170109T213838
 LOCATION:550-200
 DESCRIPTION:Lecture/lab. Advanced level in series on programmable electromechanical systems design. Topics: inter-processor communication, system design with multiple microprocessors, architecture and assembly language programming for the PIC microcontroller, controlling the embedded software tool chain, A/D and D/A techniques, electronic manufacturing technology. Team project. Lab fee. Limited enrollment. Prerequisite: 218B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME218C LEC
 DTSTART;TZID=America/Los_Angeles:20170404T123000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

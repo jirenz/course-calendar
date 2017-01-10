@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T142000
-LAST-MODIFIED:20160925T011704
-UID:explore_courses5a14b4dd-a82f-4659-bd39-af5f6e44adf0
-DTSTAMP:20160925T011704
+LAST-MODIFIED:20170109T213751
+UID:explore_courses7239b045-eeff-4403-8dd0-7af28ab676a1
+DTSTAMP:20170109T213751
 LOCATION:160-314
 DESCRIPTION:This course aims to provide a firm grounding in the foundations of probability and statistics, with a focus on analyzing data from the health sciences. Students will learn how to read, interpret, and critically evaluate the statistics in medical and biological studies. The course also prepares students to be able to analyze their own data, guiding them on how to choose the correct statistical test, avoid common statistical pitfalls, and perform basic functions in R deducer.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO89 DIS
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011704
+CREATED:20170109T213751
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

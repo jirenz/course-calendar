@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T125000
-LAST-MODIFIED:20160925T011635
-UID:explore_coursesba0fe753-c6e5-4575-bf53-cf46e5272951
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_courses8c19968a-5749-4f22-a4f4-2f28a8c051c5
+DTSTAMP:20170109T213838
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:Principles of design analysis for aircraft gas turbines and automotive piston engines. Analysis for aircraft engines performed for Airbus A380 type aircraft. Design parameters determined considering aircraft aerodynamics, gas turbine thermodynamics, compressible flow physics, and material limitations. Additional topics include characteristics of main engine components, off-design analysis, and component matching. Performance of automotive piston engines including novel engine concepts in terms of engine thermodynamics, intake and exhaust flows, and in-cylinder flow.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME357 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T113000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T125000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

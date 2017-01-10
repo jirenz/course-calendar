@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20160925T011606
-UID:explore_courses5770091e-c8ce-4083-bfaa-2c2f927092c4
-DTSTAMP:20160925T011606
+LAST-MODIFIED:20170109T213852
+UID:explore_courses5abe2b2c-4183-4164-bdcf-d595dc4eba32
+DTSTAMP:20170109T213852
 LOCATION:Thornt210
 DESCRIPTION:Introductory application of continuum mechanics to ice sheets and glaciers, water waves and tsunamis, and volcanoes. Emphasis on physical processes and mathematical description using balance of mass and momentum, combined with constitutive equations for fluids and solids. Designed for undergraduates with no prior geophysics background; also appropriate for beginning graduate students. Prerequisites: CME 100 or MATH 52 and PHYSICS 41 (or equivalent). Offered every year.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS120 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20160925T011606
+CREATED:20170109T213852
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

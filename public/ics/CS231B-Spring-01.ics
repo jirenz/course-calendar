@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20160925T011630
-UID:explore_coursesb67e4dcf-97ca-4ee8-ab3e-6881500745f3
-DTSTAMP:20160925T011630
-LOCATION:Herrin T185
+LAST-MODIFIED:20170109T213829
+UID:explore_coursesd88224f1-de9a-4b53-adfe-33337d56ecd6
+DTSTAMP:20170109T213829
+LOCATION:Encina Hall C464
 DESCRIPTION:(Formerly 223C) More than one-third of the brain is engaged in visual processing, the most sophisticated human sensory system. Yet visual recognition technology has fundamentally influenced our lives on the same scale and scope as text-based technology has, thanks to Google, Twitter, Facebook, etc. This course is designed for those students who are interested in cutting edge computer vision research, and/or are aspiring to be an entrepreneur using vision technology. Course will guide students through the design and implementation of three core vision technologies: segmentation, detection and classification on three highly practical, real-world problems. Course will focus on teaching the fundamental theory, detailed algorithms, practical engineering insights, and guide them to develop state-of-the-art systems evaluated based on the most modern and standard benchmark datasets. Prerequisites: CS2223B or equivalent and a good machine learning background (i.e. CS221, CS228, CS229). Fluency in Matlab and C/C++.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS231B LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

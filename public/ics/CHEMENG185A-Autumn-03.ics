@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T180000
-LAST-MODIFIED:20160925T011625
-UID:explore_coursesb6386a25-4e1c-4c75-b3b8-8b84c80224ec
-DTSTAMP:20160925T011625
+DTEND;TZID=America/Los_Angeles:20160930T180000
+LAST-MODIFIED:20170109T213820
+UID:explore_coursesf8c8320a-176c-4489-9237-301d33c99b6b
+DTSTAMP:20170109T213820
 LOCATION:
-DESCRIPTION:CHEMENG185A: First quarter of two-quarter sequence.  Experimental aspects of chemical engineering.  Experimental research skills will be developed and practiced through guided lab modules.  Emphasizes laboratory work, experimental design, and development of communication skills.  In addition to lectures, students are required to attend one weekly lab section (5 hours each) where lab work will be conducted in student pairs.  Students must enroll in a lab section on Axess.  Final project will be a written research proposal prepared by student teams to be carried out in the following quarter in CHEMENG185B.  Satisfies the Writing in the Major (WIM) requirement.  Prerequisites: CHEMENG 120A, 120B, 181.
+DESCRIPTION:First quarter of two-quarter sequence. Experimental aspects of chemical engineering. Experimental research skills will be developed and practiced through guided lab modules. Emphasizes laboratory work, experimental design, and development of communication skills. In addition to lectures, students are required to attend one weekly lab section (5 hours each) where lab work will be conducted in student pairs. Students must enroll in a lab section on Axess. Final project will be a written research proposal prepared by student teams to be carried out in the following quarter in CHEMENG185B.  Satisfies the Writing in the Major (WIM) requirement. Prerequisites: CHEMENG 120A, CHEMENG 120B, CHEMENG 181.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG185A LBS
-DTSTART;TZID=America/Los_Angeles:20160928T130000
-CREATED:20160925T011625
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T180000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20160930T130000
+CREATED:20170109T213820
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T180000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

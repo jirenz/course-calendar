@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses8de0bef6-2878-4631-89e9-f7a782e74083
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213834
+UID:explore_coursesc8dbadbc-bb4e-4f0c-9866-84c262f329f5
+DTSTAMP:20170109T213834
 LOCATION:Skillaud
 DESCRIPTION:Focus is on time-dependent random phenomena. Topics: discrete and continuous time Markov chains, renewal processes, queueing theory, and applications. Emphasis is on building a framework to formulate and analyze probabilistic systems. Prerequisite: 220 or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E221 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

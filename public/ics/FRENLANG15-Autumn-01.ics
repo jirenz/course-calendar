@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20160925T011700
-UID:explore_courses17d91e0f-3b21-4cf7-b47a-3c816a92dff0
-DTSTAMP:20160925T011700
+LAST-MODIFIED:20170109T213743
+UID:explore_courses353db4d6-4cc9-4fae-b638-5b956f3b4f14
+DTSTAMP:20170109T213743
 LOCATION:School of Education 230
-DESCRIPTION:For students who have completed the first-year language requirement. May be repeated once for credit.
+DESCRIPTION:For students who have completed FRENLANG 3 or FRENLANG 2A (end of first-year). Emphasis is on current events and news in the French and Francophone world. May be repeated once for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FRENLANG15 LNG
 DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20160925T011700
+CREATED:20170109T213743
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T132000
-LAST-MODIFIED:20160925T011633
-UID:explore_coursesdf1cc86f-0f60-475e-bdd7-4c098b3dc30a
-DTSTAMP:20160925T011633
-LOCATION:Thornt102
+LAST-MODIFIED:20170109T213834
+UID:explore_coursese1520ede-144a-4894-bd49-439365b40552
+DTSTAMP:20170109T213834
+LOCATION:NVIDIA Auditorium
 DESCRIPTION:Applications, theories, and algorithms for finite-dimensional linear and nonlinear optimization problems with continuous variables. Elements of convex analysis, first- and second-order optimality conditions, sensitivity and duality. Algorithms for unconstrained optimization, and linearly and nonlinearly constrained problems. Modern applications in communication, game theory, auction, and economics. Prerequisites: MATH 113, 115, or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E311 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

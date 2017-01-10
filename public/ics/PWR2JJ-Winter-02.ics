@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T132000
-LAST-MODIFIED:20160925T011609
-UID:explore_coursesc82d5bca-7803-4eb8-993c-ce4975f23ec8
-DTSTAMP:20160925T011609
+DTEND;TZID=America/Los_Angeles:20170110T132000
+LAST-MODIFIED:20170109T213817
+UID:explore_courses7e4a1fde-0f2a-44fc-b380-75f73b1baacc
+DTSTAMP:20170109T213817
 LOCATION:160-123
-DESCRIPTION:Prerequisite: PWR 1. Further work in developing skills in argument and research-based writing, with emphasis on both written and oral/multimedia presentation of research. For more information about PWR 2, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-2. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
+DESCRIPTION:Prerequisite: PWR 1. In this writing and speaking course, you'll consider the construction and negotiation of power and difference through language as it intersects with gender, sexuality, race, ability, and class. We'll explore how this happens across spheres such as politics, education, science, sports and the media, intertwined with forces like globalization, immigration, and technology. For more information about PWR 2, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-2. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR2JJ SEM
-DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20160925T011609
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170110T113000
+CREATED:20170109T213817
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

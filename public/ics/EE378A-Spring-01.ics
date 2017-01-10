@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20160925T011632
-UID:explore_coursesf08593dd-72cc-44ec-a019-1398b6c5cd40
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses02c20e89-c4ed-4f61-bbb2-3815b47433f7
+DTSTAMP:20170109T213832
 LOCATION:540-108
 DESCRIPTION:Random signals in electrical engineering. Discrete-time random processes: stationarity and ergodicity, covariance sequences, power spectral density, parametric models for stationary processes. Fundamentals of linear estimation: minimum mean squared error estimation, optimum linear estimation, orthogonality principle, the Wold decomposition. Causal linear estimation of stationary processes: the causal Wiener filter, Kalman filtering. Parameter estimation: criteria of goodness of estimators, Fisher information, Cramer-Rao inequality, Chapman-Robbins inequality, maximum likelihood estimation, method of moments, consistency, efficiency. ARMA parameter estimation: Yule-Walker equations, Levinson-Durbin algorithm, least squares estimation, moving average parameter estimation, modified Yule-Walker method for model order selection. Spectrum estimation: sample covariances, covariance estimation, Bartlett formula, periodogram, periodogram averaging, windowed periodograms. Prerequisites: EE 278
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE378A LEC
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T192000
-LAST-MODIFIED:20160925T011623
-UID:explore_courses8f2290d0-27be-461e-99ae-0d316cb5e098
-DTSTAMP:20160925T011623
-LOCATION:Lathrop 282
+DTEND;TZID=America/Los_Angeles:20170110T205000
+LAST-MODIFIED:20170109T213840
+UID:explore_coursesf6d6fab4-558e-445a-a501-df43b900cedd
+DTSTAMP:20170109T213840
+LOCATION:ArrillagaOutdoorEducRecCtr103B
 DESCRIPTION:Resilience is the ability to bounce back in the face of life&iquest;s challenges, whether these challenges are getting a poor test grade, breaking-up with a significant other, battling illness, or taking on any number of other tough events. In this course students study insights from the emerging field of resilience to learn about and practice the skills that allow them to bounce back more quickly and effectively from life&iquest;s setbacks. Models of resilience will be presented and students will learn about the cognitive, emotional, and social aspects that allow them to enhance their capacity to rise above life adversity and thrive, even in the midst of tough times.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:WELLNESS204 ACT
-DTSTART;TZID=America/Los_Angeles:20170110T180000
-CREATED:20160925T011623
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T192000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170110T193000
+CREATED:20170109T213840
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T205000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

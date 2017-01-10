@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20160925T011711
-UID:explore_courses705ce491-e99d-44c4-8bc3-c52924ba35c4
-DTSTAMP:20160925T011711
+LAST-MODIFIED:20170109T213802
+UID:explore_coursese653512e-c57e-41c9-b2c3-199eb780f889
+DTSTAMP:20170109T213802
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Numerical methods for solving problems in mechanics, astrophysics, electromagnetism, quantum mechanics, and statistical mechanics. Methods include numerical integration; solutions of ordinary and partial differential equations; solutions of the diffusion equation, Laplace's equation and Poisson's equation with various methods; statistical methods including Monte Carlo techniques; matrix methods and eigenvalue problems. Short introduction to Python, used for class examples; class projects may be programmed in any language such as C, python or julia. No Prerequisites. Previous programming experience not required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS113 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20160925T011711
+CREATED:20170109T213802
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

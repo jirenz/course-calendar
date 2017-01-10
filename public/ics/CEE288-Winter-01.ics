@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20160925T011627
-UID:explore_courses1d2d5a14-32a5-47aa-8ced-ef78604d0c4e
-DTSTAMP:20160925T011627
-LOCATION:Littlefield 103
+DTEND;TZID=America/Los_Angeles:20170110T122000
+LAST-MODIFIED:20170109T213822
+UID:explore_courses9f1cf3fd-4131-4bca-b761-fa4ddb0316b5
+DTSTAMP:20170109T213822
+LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:Earthquake phenomena, faulting, ground motion, earthquake hazard formulation, effects of earthquakes on manmade structures, response spectra, Fourier spectra, soil effects on ground motion and structural damage, methods for structural damage evaluation, and formulation of the performance-based earthquake engineering problems. Prerequisites: 203, 283.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE288 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20160925T011627
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+CREATED:20170109T213822
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

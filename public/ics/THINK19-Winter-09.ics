@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T142000
-LAST-MODIFIED:20160925T011608
-UID:explore_courses7dde27b3-9b58-4cba-ae15-21baec87d112
-DTSTAMP:20160925T011608
-LOCATION:200-013
+DTEND;TZID=America/Los_Angeles:20170110T155000
+LAST-MODIFIED:20170109T213815
+UID:explore_courses9906779b-efbf-43f4-ac34-08656dfa22c4
+DTSTAMP:20170109T213815
+LOCATION:Littlefield 104
 DESCRIPTION:When, if ever, is war justified?  How are ethical norms translated into rules that govern armed conflict?  Are these rules still relevant in light of the changing nature of warfare? We will examine seminal readings on just war theory, investigate the legal rules that govern the resort to and conduct of war, and study whether these rules affect the conduct of states and individuals.  We will examine alternative ethical frameworks, competing disciplinary approaches to war, and tensions between the outcomes suggested by ethical norms, on the one hand, and legal rules, on the other.  Students will engage actively with these questions by participating in an interactive role-playing simulation, in which they will be assigned roles as government officials, advisors, or other actors.  The class will confront various ethical, legal, and strategic problems as they make decisions about military intervention and policies regarding the threat and use of force in an international crisis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:THINK19 DIS
-DTSTART;TZID=America/Los_Angeles:20170111T133000
-CREATED:20160925T011608
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=WE,FR
+DTSTART;TZID=America/Los_Angeles:20170110T150000
+CREATED:20170109T213815
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T155000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

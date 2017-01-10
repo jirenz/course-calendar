@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses052e3adc-9926-4ef0-930c-aadc0adbe399
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses5e0263d8-f05e-48f7-9ec9-74a841331122
+DTSTAMP:20170109T213832
 LOCATION:160-315
 DESCRIPTION:Introduction to probability and statistics and their role in modeling and analyzing real world phenomena. Events, sample space, and probability. Discrete random variables, probability mass functions, independence and conditional probability, expectation and conditional expectation. Continuous random variables, probability density functions, independence and expectation, derived densities. Transforms, moments, sums of independent random variables. Simple random processes. Limit theorems. Introduction to statistics: significance, estimation and detection. Prerequisites: basic calculus.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE178 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

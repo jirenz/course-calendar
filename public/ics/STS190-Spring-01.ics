@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20160925T011715
-UID:explore_courses38fd8d1f-6a68-47b1-aa83-c4fd4f41d369
-DTSTAMP:20160925T011715
+DTEND;TZID=America/Los_Angeles:20170403T105000
+LAST-MODIFIED:20170109T213807
+UID:explore_courses30a0263f-9a5c-435a-8485-c664d568eb5c
+DTSTAMP:20170109T213807
 LOCATION:200-201
 DESCRIPTION:Humans have long shaped and reshaped the natural world with technologies. Once a menacing presence to conquer or an infinite reserve for resources, nature is now understood to require constant protection from damage and loss. This course will examine humanity's varied relationship with the environment, with a focus on the role of technology. Topics include: industrialization, modernism, nuclear technology, and biotechnology. Students will explore theoretical and methodological approaches in STS and conduct original research that addresses this human-nature-technology nexus.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STS190 SEM
 DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20160925T011715
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE
+CREATED:20170109T213807
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T105000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

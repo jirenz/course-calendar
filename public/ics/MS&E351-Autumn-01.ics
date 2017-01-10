@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses1d623632-0514-4a12-8172-a527c4d450a7
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213834
+UID:explore_courses7041bae2-dce5-4b0b-adc1-e068ee4c0bdc
+DTSTAMP:20170109T213834
 LOCATION:McCullough 126
 DESCRIPTION:Markov population decision chains in discrete and continuous time. Risk posture. Present value and Cesaro overtaking optimality. Optimal stopping. Successive approximation, policy improvement, and linear programming methods. Team decisions and stochastic programs; quadratic costs and certainty equivalents. Maximum principle. Controlled diffusions. Examples from inventory, overbooking, options, investment, queues, reliability, quality, capacity, transportation. MATLAB. Prerequisites: MATH 113, 115; Markov chains; linear programming.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E351 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

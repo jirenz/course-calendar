@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170605T112000
-LAST-MODIFIED:20160925T011611
-UID:explore_courses034574d5-d7c4-4298-9b73-5cffce269cf9
-DTSTAMP:20160925T011611
+LAST-MODIFIED:20170109T213855
+UID:explore_courses028ca334-98d9-4654-99dd-26c4f88bb164
+DTSTAMP:20170109T213855
 LOCATION:
 DESCRIPTION:Three-week course at Hopkins Marine Station. Focuses on the embryology and larval development of a broad range of marine invertebrate phyla. The goal of the course is to give students an appreciation of the range of developmental strategies and larval forms in the ocean and why this is critical for constructing hypotheses of EvoDevo and animal evolution. Includes observation and documentation of the development of embryos and larvae by scientific illustration and photo/video microscopy. Pre-requisite: Developmental Biology coursework and instructor consent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS236 LAB
 DTSTART;TZID=America/Los_Angeles:20170605T103000
-CREATED:20160925T011611
+CREATED:20170109T213855
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170616T112000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

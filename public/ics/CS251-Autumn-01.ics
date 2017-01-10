@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses4eef7882-59b1-4f1d-b5fc-6b5732721c3d
-DTSTAMP:20160925T011630
-LOCATION:420-040
+LAST-MODIFIED:20170109T213829
+UID:explore_courses477dcd95-917c-431a-ad69-d1779fe6a7be
+DTSTAMP:20170109T213829
+LOCATION:Skillaud
 DESCRIPTION:For advanced undergraduates and for graduate students.  The potential applications for Bitcoin-like technologies is enormous.  The course will cover the technical aspects of crypto-currencies, blockchain technologies, and distributed consensus. Students will learn how these systems work and how to engineer secure software that interacts with the Bitcoin network and other crypto currencies. Prerequisite: CS110. Recommended: CS255.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS251 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

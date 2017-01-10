@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses2b2dedae-2e2a-4701-8e1f-aa7d06504f74
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213836
+UID:explore_coursesd07a9a93-3b24-421d-b050-46d5f12a1561
+DTSTAMP:20170109T213836
 LOCATION:Mitchb67
 DESCRIPTION:Introduction to quantum mechanics and its application to the properties of materials.  No prior background beyond a working knowledge of calculus and high school physics is presumed. Topics include: The Schrodinger equation and applications to understanding of the properties of quantum dots, semiconductor heterostructures, nanowires, and bulk solids.  Tunneling processes and applications to nanoscale devices; the scanning tunneling microscope, and quantum cascade lasers. Simple models for the electronic properties and band structure of materials including semiconductors, insulators and metals and applications to semiconductor devices.  Time-dependent perturbation theory and interaction of light with materials with applications to laser technology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI157 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20160925T011633
+CREATED:20170109T213836
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

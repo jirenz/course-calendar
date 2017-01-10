@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T182000
+LAST-MODIFIED:20170109T213630
+UID:explore_coursesca6a1552-59d2-4f01-a728-6f79b5911d30
+DTSTAMP:20170109T213630
+LOCATION:School of Education 334
+DESCRIPTION:This course examines the history and contemporary landscape of lesbian, gay, bisexual, transgender, and queer (LGBTQ) issues in U.S. K-12 education. Students explore the legal, political, pedagogical, and empirical questions that have been central to this field over the last three decades. Topics include both the gains and limitations of the &quot;safe schools&quot; movement, controversies about transgender student rights, intersectional approaches to LGBTQ issues in schools, risk and resilience among LGBTQ adolescents, and implications for elementary school practice.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC385 SEM
+DTSTART;TZID=America/Los_Angeles:20170111T153000
+CREATED:20170109T213630
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

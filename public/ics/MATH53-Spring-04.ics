@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T112000
-LAST-MODIFIED:20160925T011707
-UID:explore_coursesd556be95-c867-4348-99c8-b1f2666a340f
-DTSTAMP:20160925T011707
+LAST-MODIFIED:20170109T213755
+UID:explore_courses26f9b3fc-e8e1-461d-87eb-585957ddff0b
+DTSTAMP:20170109T213755
 LOCATION:Sequoia Hall 200
 DESCRIPTION:Ordinary differential equations and initial value problems, systems of linear differential equations with constant coefficients, applications of second-order equations to oscillations, matrix exponentials, Laplace transforms, stability of non-linear systems and phase plane analysis, numerical methods. Prerequisite: 51 or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH53 DIS
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20160925T011707
+CREATED:20170109T213755
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

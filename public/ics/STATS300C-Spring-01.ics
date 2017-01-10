@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20160925T011718
-UID:explore_courses259ec617-ff1c-416d-b299-7904319cfa51
-DTSTAMP:20160925T011718
+LAST-MODIFIED:20170109T213811
+UID:explore_courses03651249-028c-453b-b1bf-8b60a73e5f6c
+DTSTAMP:20170109T213811
 LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:Decision theory formulation of statistical problems. Minimax, admissible procedures. Complete class theorems (&quot;all&quot; minimax or admissible procedures are &quot;Bayes&quot;), Bayes procedures, conjugate priors, hierarchical models. Bayesian non parametrics: diaichlet, tail free, polya trees, bayesian sieves. Inconsistency of bayes rules.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS300C LEC
 DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20160925T011718
+CREATED:20170109T213811
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T102000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses7da2367c-a7c7-4b90-8c9b-5ceb2374f31f
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses0d6673a1-2e6c-4ef7-a6d4-5887aa08b2e3
+DTSTAMP:20170109T213832
 LOCATION:Gates B1
 DESCRIPTION:Emphasis is on applications in modern devices and systems. Topics include: Schr&ouml;dinger's equation, eigenfunctions and eigenvalues, solutions of simple problems including quantum wells and tunneling, quantum harmonic oscillator, coherent states, operator approach to quantum mechanics, Dirac notation, angular momentum, hydrogen atom, calculation techniques including matrix diagonalization, perturbation theory, variational method,  and time-dependent perturbation theory with applications to optical absorption, nonlinear optical coefficients, and Fermi's golden rule. Prerequisites: MATH 52 and 53, EE 65 or PHYSICS 65 (or PHYSICS 43 and 45).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE222 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

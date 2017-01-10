@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T122000
-LAST-MODIFIED:20160925T011640
-UID:explore_coursesaf8e9231-6fdd-405d-b013-ac2e8ba97a4b
-DTSTAMP:20160925T011640
+DTEND;TZID=America/Los_Angeles:20170404T132000
+LAST-MODIFIED:20170109T213657
+UID:explore_courses6fcb75f2-b828-4fa5-9a77-3be2979ee021
+DTSTAMP:20170109T213657
 LOCATION:ARTGAL110
 DESCRIPTION:This upper level studio course will continue and create a sustained investigation into designed interactivity in real space. Students will create interactive installations, or public interventions using sensors or other computational devices.  Prerequisites include one of the following - Embodied Interfaces, Media Archaeologies, Making it with Arduino, Digital Art 1, Electronic Art or permission of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTSTUDI264 PRA
-DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20160925T011640
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170404T113000
+CREATED:20170109T213657
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

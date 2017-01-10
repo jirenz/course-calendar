@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20160925T011616
-UID:explore_coursesebc65d5a-fcb0-4e9d-a3f9-f2c6c3638358
-DTSTAMP:20160925T011616
+LAST-MODIFIED:20170109T213903
+UID:explore_courses4361868c-e835-4caf-812a-21232744019e
+DTSTAMP:20170109T213903
 LOCATION:
 DESCRIPTION:For graduate and medical students, and advanced undergraduates; required of first-year graduate students in Microbiology and Immunology. The molecular mechanisms by which microorganisms invade animal and human hosts, express their genomes, interact with macromolecular pathways in the infected host, and induce disease. Current literature.  Undergraduate students interested in taking this class must meet with the instructor to obtain approval before enrolling.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MI210 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T113000
-CREATED:20160925T011616
+CREATED:20170109T213903
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

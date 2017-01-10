@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses42472909-e188-45f1-b699-bda9c180dc18
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213834
+UID:explore_courses01c33195-d724-46be-aabe-9c98856c295b
+DTSTAMP:20170109T213834
 LOCATION:Skillaud
 DESCRIPTION:Basic concepts of modern quantitative finance and investments. Focus is on the financial theory and empirical evidence that are useful for investment decisions. Topics: basic interest rates; evaluating investments: present value and internal rate of return; fixed-income markets: bonds, yield, duration, portfolio immunization; term structure of interest rats; measuring risk: volatility and value at risk; designing optimal portfolios; risk-return tradeoff: capital asset pricing model and extensions. No prior knowledge of finance is required. Concepts are applied in a stock market simulation with real data. Prerequisite: basic preparation in probability, statistics, and optimization.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E245A LEC
 DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

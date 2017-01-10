@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20160925T011655
-UID:explore_coursescdbd8606-902a-4174-96bf-1bd05ee3b45c
-DTSTAMP:20160925T011655
-LOCATION:50-52H
-DESCRIPTION:This course is the continuation of COMPLIT 248A Reading Turkish I and COMPLIT 248B Reading Turkish II. Refining advanced grammar, reading, and translation skills in modern Turkish through intensive reading and translation from a variety of source texts. Emphasis on Turkish cultural, historical, literary, and political texts depending on students' academic interests. Prerequisites COMPLIT 248A &amp; B or prior knowledge of Turkish and consultation with the instructor is necessary.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:COMPLIT248C SEM
-DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20160925T011655
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170405T165000
-LAST-MODIFIED:20160925T011655
-UID:explore_courses2621069a-e322-4d69-a093-9a1b7a2212a4
-DTSTAMP:20160925T011655
+LAST-MODIFIED:20170109T213724
+UID:explore_courses0f27021b-9a50-4d02-867e-e9fd46a65ac9
+DTSTAMP:20170109T213724
 LOCATION:160-322
 DESCRIPTION:This course is the continuation of COMPLIT 248A Reading Turkish I and COMPLIT 248B Reading Turkish II. Refining advanced grammar, reading, and translation skills in modern Turkish through intensive reading and translation from a variety of source texts. Emphasis on Turkish cultural, historical, literary, and political texts depending on students' academic interests. Prerequisites COMPLIT 248A &amp; B or prior knowledge of Turkish and consultation with the instructor is necessary.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPLIT248C SEM
 DTSTART;TZID=America/Los_Angeles:20170405T150000
-CREATED:20160925T011655
+CREATED:20170109T213724
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T165000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T112000
+LAST-MODIFIED:20170109T213724
+UID:explore_coursesb323f75c-4541-4bd8-8691-45bdcd986626
+DTSTAMP:20170109T213724
+LOCATION:50-52H
+DESCRIPTION:This course is the continuation of COMPLIT 248A Reading Turkish I and COMPLIT 248B Reading Turkish II. Refining advanced grammar, reading, and translation skills in modern Turkish through intensive reading and translation from a variety of source texts. Emphasis on Turkish cultural, historical, literary, and political texts depending on students' academic interests. Prerequisites COMPLIT 248A &amp; B or prior knowledge of Turkish and consultation with the instructor is necessary.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:COMPLIT248C SEM
+DTSTART;TZID=America/Los_Angeles:20170403T093000
+CREATED:20170109T213724
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170217T094500
-LAST-MODIFIED:20160925T011600
-UID:explore_coursesad8f69c7-d224-4812-9a16-2cecf3c72f84
-DTSTAMP:20160925T011600
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170220T094500
+LAST-MODIFIED:20170109T213843
+UID:explore_courses9efedb6d-6c5b-4356-b8cc-7191d4e0cfdb
+DTSTAMP:20170109T213843
+LOCATION:GSB McClelland 104
 DESCRIPTION:How do some people turn ideas into enterprises that endure? Why do some people succeed why so many others fail? Based on more than 200 interviews with leading entrepreneurs conducted over the past five years by Amy Wilkinson, this course will focus on the six skills of successful entrepreneurs. The class will include brief lectures, experiential cases, personalized skills assessment through a diagnostic tool, and class discussions with a set of the successful entrepreneurs featured in a recent book authored by the instructor, &quot;The Creator's Code.&quot; The class is designed to help students integrate these skills into their own future ventures.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OB547 SEM
-DTSTART;TZID=America/Los_Angeles:20170217T080000
-CREATED:20160925T011600
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T094500;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170220T080000
+CREATED:20170109T213843
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T094500;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

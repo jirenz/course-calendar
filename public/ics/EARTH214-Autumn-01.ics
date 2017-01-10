@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20160925T011603
-UID:explore_coursesa14b7fb2-ee86-4085-81a0-c562bb3638ce
-DTSTAMP:20160925T011603
+LAST-MODIFIED:20170109T213847
+UID:explore_coursese3f7ec60-3a37-4367-b685-a5d5d4fa7888
+DTSTAMP:20170109T213847
 LOCATION:Mitch452
 DESCRIPTION:This course introduces software design and development in modern Fortran. Course covers the functional, object-oriented-, and parallel programming features introduced in the Fortran 95, 2003, and 2008 standards, respectively, in the context of numerical approximations to ordinary and partial differential equations; introduces object-oriented design and design schematics based on the Unified Modeling Language (UML) structure, behavior, and interaction diagrams; cover the basic use of several open-source tools for software building, testing, documentation generation, and revision control. Recommended: Familiarity with programming in Fortran 90, basic numerical analysis and linear algebra, or instructor approval
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTH214 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20160925T011603
+CREATED:20170109T213847
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

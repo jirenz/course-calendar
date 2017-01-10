@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T175000
-LAST-MODIFIED:20160925T011624
-UID:explore_courses6db3079a-dcb7-4189-84a7-c1391e8afca1
-DTSTAMP:20160925T011624
+LAST-MODIFIED:20170109T213818
+UID:explore_courses1b1231d7-263d-4c23-871f-57c4e86c95e9
+DTSTAMP:20170109T213818
 LOCATION:540-108
 DESCRIPTION:Analysis and design techniques for multivariable feedback systems. State-space concepts, observability, controllability, eigenvalues, eigenvectors, stability, and canonical representations. Approaches for robust feedback control design, chiefly H2, H-infinity, and mu-synthesis. System identification and adaptive control design. Use of computer-aided design with MATLAB. Prerequisite: ENGR 105, ENGR 205. Recommended: Linear algebra (EE 263 or equivalent).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA212 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20160925T011624
+CREATED:20170109T213818
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

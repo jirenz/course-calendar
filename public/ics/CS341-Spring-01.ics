@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T175000
-LAST-MODIFIED:20160925T011630
-UID:explore_coursesc348c6f6-245f-484e-b402-863cff8b9727
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_courses0b41718d-d57b-466d-a851-c2abf3f05a24
+DTSTAMP:20170109T213829
 LOCATION:380-380Y
 DESCRIPTION:Team project in data-mining of very large-scale data, including the problem statement and implementation and evaluation of a solution.  Teams consist of three students each, and they will meet regularly with a &quot;coach&quot; chosen from participating staff.  Early lectures will cover the use of Amazon EC2 and certain systems like Hadoop and Hive.  Occasional lectures thereafter will feature outside speakers, special topics of interest, and progress reports by the teams.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS341 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T163000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

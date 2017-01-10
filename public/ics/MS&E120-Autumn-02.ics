@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160930T102000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses09576ea2-4524-4dc2-b46d-bc06a3c6377f
-DTSTAMP:20160925T011633
-LOCATION:160-329
+LAST-MODIFIED:20170109T213834
+UID:explore_courses1e1be938-fdff-49ec-bbde-3a8604ba0be2
+DTSTAMP:20170109T213834
+LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Concepts and tools for the analysis of problems under uncertainty, focusing on focusing on structuring, model building, and analysis. Examples from legal, social, medical, and physical problems. Topics include axioms of probability, probability trees, random variables, distributions, conditioning, expectation, change of variables, and limit theorems. Prerequisite: CME 100 or MATH 51.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E120 DIS
 DTSTART;TZID=America/Los_Angeles:20160930T093000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T175000
-LAST-MODIFIED:20160925T011630
-UID:explore_coursesb2b53b35-56ff-4a9a-9cd4-ff942efe0555
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_coursesda8430eb-92a1-47c8-a568-c3ec9a2f8d03
+DTSTAMP:20170109T213829
 LOCATION:Herrin T175
 DESCRIPTION:Continuation of CS210A. Focus is on real-world software development. Corporate partners seed projects with loosely defined challenges from their R&amp;D labs; students innovate to build their own compelling software solutions. Student teams are treated as start-up companies with a budget and a technical advisory board comprised of the instructional staff and corporate liaisons. Teams will typically travel to the corporate headquarters of their collaborating partner, meaning some teams will travel internationally. Open loft classroom format such as found in Silicon Valley software companies. Exposure to: current practices in software engineering; techniques for stimulating innovation; significant development experience with creative freedoms; working in groups; real world software engineering challenges; public presentation of technical work; creating written descriptions of technical work. Prerequisites: CS 210A
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS210B LEC
 DTSTART;TZID=America/Los_Angeles:20170404T163000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

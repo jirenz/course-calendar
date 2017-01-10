@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T114500
-LAST-MODIFIED:20160925T011558
-UID:explore_coursesa4e1956f-6ac5-4889-9e43-a5cc69e7cb48
-DTSTAMP:20160925T011558
-LOCATION:GSB Faculty East 259
+LAST-MODIFIED:20170109T213841
+UID:explore_courses0ba46337-0f81-4b31-b6c5-552cde3ad276
+DTSTAMP:20170109T213841
+LOCATION:GSB Zambrano 301
 DESCRIPTION:This is the first course in the sequence in graduate econometrics. The course covers some of the probabilistic and statistical underpinnings of econometrics, and explores the large-sample properties of maximum likelihood estimators. You are assumed to have introductory probability and statistics and matrix theory, and to have exposure to basic real analysis. Topics covered in the course include random variables, distribution functions, functions of random variables, expectations, conditional probabilities and Bayes' law, convergence and limit laws, hypothesis testing, confidence intervals, maximum likelihood estimation, and decision theory.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MGTECON603 SEM
 DTSTART;TZID=America/Los_Angeles:20160927T100000
-CREATED:20160925T011558
+CREATED:20170109T213841
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T114500;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

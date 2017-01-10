@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20160925T011604
-UID:explore_courses3a916405-b310-47ff-aca1-92b9a57c75fd
-DTSTAMP:20160925T011604
+LAST-MODIFIED:20170109T213848
+UID:explore_courses6a565d7c-5773-422a-bc44-3723da0c109d
+DTSTAMP:20170109T213848
 LOCATION:
 DESCRIPTION:Required for Earth Systems students in the oceans track.  Interdisciplinary look at how oceanic environments control the form and function of marine life.  Topics include distributions of planktonic production and abundance, nutrient cycling, the role of ocean biology in the climate system, expected effects of climate changes on ocean biology.  Local weekend field trips.  Designed to be taken concurrently with Marine Chemistry (EESS/EARTHSYS 152/252).  Prerequisites: BIO 43 and EESS 8 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS151 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T093000
-CREATED:20160925T011604
+CREATED:20170109T213848
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T193000
+LAST-MODIFIED:20170109T213846
+UID:explore_coursesf572070a-7eb8-4798-9f16-cf2ee7d489b4
+DTSTAMP:20170109T213846
+LOCATION:GSB Gunn 102
+DESCRIPTION:(Formerly Law 774)  This case study-oriented course will focus on the critical skills needed to evaluate, develop, finance (on a non-recourse basis), and complete standalone energy and infrastructure projects. The primary course materials will be documents from several representative projects - e.g., solar, wind, storage, carbon capture, transmission, combined heat &amp; power - covering key areas including market and feasibility studies, environmental permitting and regulatory decisions, financial disclosure from bank and bond transactions, and construction, input, and offtake contracts. For virtually every clean energy project, legal documents and financial/business models tend to highly customized.  By examining actual projects and transactions we can learn how developers, financiers, and lawyers work to get deals over the finish line--deals that meet the demands of the market, the requirements of the law, and (sometimes) broader societal goals, in particular climate change, economic competitiveness, and energy security.  Elements used in grading:  Class Participation (35 %), Lecture-based Assignment (15 %), Group Project (50 %).  Absences affect grade.  Also open to engineering graduate students. Cross-listed with Graduate School of Business (GSBGEN 335).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW2509 SEM
+DTSTART;TZID=America/Los_Angeles:20170109T163000
+CREATED:20170109T213846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T193000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161201T175000
-LAST-MODIFIED:20160925T011613
-UID:explore_courses4d7adee1-4899-4b8b-b2a3-11fd50619928
-DTSTAMP:20160925T011613
-LOCATION:CCSR 4205
-DESCRIPTION:The course will consist of an introduction to the fundamentals of clinical research at Stanford, including the science of clinical research (design and analysis) and logistics (GCP, data management, regulatory). Material will be covered in approximately 4-6 3 hour sessions per quarter.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:HRP273 LEC
-DTSTART;TZID=America/Los_Angeles:20161201T150000
-CREATED:20160925T011613
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20161110T175000
-LAST-MODIFIED:20160925T011613
-UID:explore_coursesa27fbd53-63a0-42dc-8bd8-9eb94352c9f3
-DTSTAMP:20160925T011613
+LAST-MODIFIED:20170109T213859
+UID:explore_courses6e9aec5f-7a1b-47ec-99fb-049ffac3c62e
+DTSTAMP:20170109T213859
 LOCATION:CCSR 4205
 DESCRIPTION:The course will consist of an introduction to the fundamentals of clinical research at Stanford, including the science of clinical research (design and analysis) and logistics (GCP, data management, regulatory). Material will be covered in approximately 4-6 3 hour sessions per quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP273 LEC
 DTSTART;TZID=America/Los_Angeles:20161110T150000
-CREATED:20160925T011613
+CREATED:20170109T213859
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161118T175000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20161201T175000
+LAST-MODIFIED:20170109T213859
+UID:explore_coursesd65fdc9c-f48a-47ca-a553-e85e6bbcd551
+DTSTAMP:20170109T213859
+LOCATION:CCSR 4205
+DESCRIPTION:The course will consist of an introduction to the fundamentals of clinical research at Stanford, including the science of clinical research (design and analysis) and logistics (GCP, data management, regulatory). Material will be covered in approximately 4-6 3 hour sessions per quarter.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HRP273 LEC
+DTSTART;TZID=America/Los_Angeles:20161201T150000
+CREATED:20170109T213859
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

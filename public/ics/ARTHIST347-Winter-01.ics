@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20160925T011640
-UID:explore_courses1d52f894-5cde-43ab-88cb-a50fef8e6e22
-DTSTAMP:20160925T011640
-LOCATION:200-305
+DTEND;TZID=America/Los_Angeles:20170321T132000
+LAST-MODIFIED:20170109T213654
+UID:explore_coursesfe843f02-bace-403d-88d8-eb0aa47fa1cc
+DTSTAMP:20170109T213654
+LOCATION:McMurtry Building rm 350
 DESCRIPTION:The development of modern art and visual culture in Europe and the US, beginning with Paris in the 1860s, the period of Haussmann, Baudelaire and Manet, and ending with the Bauhaus and Surrealism in the 1920s and 30s. Modernism in art, architecture and design (e.g., Gauguin, Picasso, Duchamp, Mondrian, Le Corbusier, Breuer, Dali) will be explored as a compelling dream of utopian possibilities involving multifaceted and often ambivalent, even contradictory responses to the changes brought about by industrialization, urbanization, and the rise of mass culture.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTHIST347 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T113000
-CREATED:20160925T011640
+DTSTART;TZID=America/Los_Angeles:20170321T113000
+CREATED:20170109T213654
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

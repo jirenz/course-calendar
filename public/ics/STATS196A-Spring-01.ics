@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170405T172000
-LAST-MODIFIED:20160925T011718
-UID:explore_coursese41fb888-d2fe-47cf-8b43-295da037bd81
-DTSTAMP:20160925T011718
-LOCATION:380-380F
+LAST-MODIFIED:20170109T213811
+UID:explore_coursescceff582-7d53-4c1a-bf4b-67a2a4988bd7
+DTSTAMP:20170109T213811
+LOCATION:Littlefield 107
 DESCRIPTION:Multilevel data analysis examples using R. Topics include: two-level nested data, growth curve modeling, generalized linear models for counts and categorical data, nonlinear models, three-level analyses. For more information, see course website:  http://rogosateaching.com/stat196/
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS196A WKS
 DTSTART;TZID=America/Los_Angeles:20170405T153000
-CREATED:20160925T011718
+CREATED:20170109T213811
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

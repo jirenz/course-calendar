@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160912T190000
-LAST-MODIFIED:20160925T011610
-UID:explore_courses853631dd-9267-43d3-9d9d-b0139c69d74d
-DTSTAMP:20160925T011610
+LAST-MODIFIED:20170109T213854
+UID:explore_courses349a69f9-ae6d-48f7-9f8e-bd796f10a704
+DTSTAMP:20170109T213854
 LOCATION:Beckman Center B402
 DESCRIPTION:Open to first year Biochemistry students and to other PhD students with consent of instructor.  Hands-on, week-long immersion in biochemical methods and practice, high-throughput sequencing and data analysis, theory and application of light microscopy, and computational approaches to modern biological problems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOC202 LEC
 DTSTART;TZID=America/Los_Angeles:20160912T090000
-CREATED:20160925T011610
+CREATED:20170109T213854
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160913T190000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

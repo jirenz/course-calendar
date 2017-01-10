@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20160925T011700
-UID:explore_coursesa525e6bd-ef8a-4977-ab40-938ea8773873
-DTSTAMP:20160925T011700
-LOCATION:200-217
+DTEND;TZID=America/Los_Angeles:20170111T145000
+LAST-MODIFIED:20170109T213742
+UID:explore_courses01dbf553-4bc5-4c68-8a94-dd046a3fe7db
+DTSTAMP:20170109T213742
+LOCATION:110-101
 DESCRIPTION:Theory, methods, and research in feminist, gender, and sexuality studies, through presentations of ongoing work by students, faculty, and guest speakers, and discussion of recent literature and controversies, feminist pedagogy and career development issues. Restricted to doctoral students. Repeatable for credit. Required for PhD Minors in Feminist, Gender, and Sexuality Studies (3 quarters min.).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FEMGEN299 WKS
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20160925T011700
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170111T133000
+CREATED:20170109T213742
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

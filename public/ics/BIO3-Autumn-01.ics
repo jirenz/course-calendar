@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160928T172000
-LAST-MODIFIED:20160925T011643
-UID:explore_courses924fce12-4deb-4d02-ad49-9e507f88f5cd
-DTSTAMP:20160925T011643
+LAST-MODIFIED:20170109T213707
+UID:explore_coursesfcf41fa1-5dd1-424c-9665-88c75dcbdd25
+DTSTAMP:20170109T213707
 LOCATION:200-303
 DESCRIPTION:An introduction to contemporary research in marine biology, including ecology, conservation biology, environmental toxicology, behavior, biomechanics, evolution, neurobiology, and molecular biology. Emphasis is on new discoveries and the technologies used to make them. Weekly lectures by faculty from the Hopkins Marine Station.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO3 LEC
 DTSTART;TZID=America/Los_Angeles:20160928T163000
-CREATED:20160925T011643
+CREATED:20170109T213707
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20160925T011628
-UID:explore_courses57527ed2-0e27-4ab9-b4b9-93217690bf1f
-DTSTAMP:20160925T011628
+LAST-MODIFIED:20170109T213823
+UID:explore_courses8d66d793-5033-4e71-8359-6928ce147e9d
+DTSTAMP:20170109T213823
 LOCATION:Gates B1
 DESCRIPTION:Computation and visualization using MATLAB.  Differential vector calculus:  analytic geometry in space, functions of several variables, partial derivatives, gradient, unconstrained maxima and minima, Lagrange multipliers. Introduction to linear algebra: matrix operations, systems of algebraic equations, methods of solution and applications. Integral vector calculus:  multiple integrals in Cartesian, cylindrical, and spherical coordinates, line integrals, scalar potential, surface integrals, Green&iquest;s, divergence, and Stokes&iquest; theorems.  Examples and applications drawn from various engineering fields. Prerequisites: 10 units of AP credit (Calc BC with 4 or 5, or Calc AB with 5), or Math 41 and 42.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME100 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20160925T011628
+CREATED:20170109T213823
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

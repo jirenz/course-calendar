@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T182000
-LAST-MODIFIED:20160925T011643
-UID:explore_coursesda137c03-bbc2-43bb-a004-0286e3fd5034
-DTSTAMP:20160925T011643
+DTEND;TZID=America/Los_Angeles:20170403T162000
+LAST-MODIFIED:20170109T213707
+UID:explore_courses3c2fcee4-a5ee-46cd-b209-f2c3d142143d
+DTSTAMP:20170109T213707
 LOCATION:ScienceTeachingLearningCntr115
 DESCRIPTION:Principles and application of the science of preserving biological diversity. Conceptually, this course is designed to explore 4 major components relevant to the conservation of biodiversity, as exemplified by the Latin American region. The conceptual frameworks and principles, however, should be generally applicable, and provide insights for all regions of the world, including those of lesser biodiversity. Satisfies Central Menu Area 4 for Bio majors. Prerequisite: BIO 101, or BIO 43 or HUMBIO 2A with consent of instructor. Graduate level students will be expected to conduct a literature research exercise leading to a written paper, addressing a topic of their choosing, derived from any of the themes discussed in class.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO234 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T153000
-CREATED:20160925T011643
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T182000;BYDAY=MO
+CREATED:20170109T213707
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

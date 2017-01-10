@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses2253885a-ff2e-4d24-aaa8-a5d0d40b95aa
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_courses154f8897-458a-43cd-be99-369a692e1061
+DTSTAMP:20170109T213829
 LOCATION:Beckman Center B302
 DESCRIPTION:Introduction to computational biology through an informatic exploration of the human genome. Topics include: genome sequencing (technologies, assembly, personalized sequencing); functional landscape (genes, gene regulation, repeats, RNA genes, epigenetics); genome evolution (comparative genomics, ultraconservation, co-option). Additional topics may include population genetics, personalized genomics, and ancient DNA. Course includes primers on molecular biology, the UCSC Genome Browser, and text processing languages. Guest lectures from genomic researchers. No prerequisites. Seehttp://cs273a.stanford.edu/.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS273A LEC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

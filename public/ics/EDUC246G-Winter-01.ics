@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T152000
-LAST-MODIFIED:20160925T011602
-UID:explore_coursese115a4e9-2cf9-41dd-965a-54cffc52fa88
-DTSTAMP:20160925T011602
-LOCATION:
-DESCRIPTION:Integrating theory and practice in teacher development. Topics include: equity, democracy, and social justice in the context of teaching and learning; teacher reflection, inquiry, and research; parent/teacher relationships; youth development and community engagement; professional growth and development; teacher leadership and school change processes; preparation for the job search, the STEP Elementary Portfolio, and the STEP Elementary Conference. Prerequisite: STEP student.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:EDUC246G PRC
-DTSTART;TZID=America/Los_Angeles:20170113T123000
-CREATED:20160925T011602
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170111T192000
-LAST-MODIFIED:20160925T011602
-UID:explore_courses4599cd6b-8dd3-41f9-8ff9-e088e0010864
-DTSTAMP:20160925T011602
-LOCATION:
+LAST-MODIFIED:20170109T213630
+UID:explore_courses5bb21cf6-f8d6-4dc7-8b08-e2848c5ae723
+DTSTAMP:20170109T213630
+LOCATION:Ceras 204
 DESCRIPTION:Integrating theory and practice in teacher development. Topics include: equity, democracy, and social justice in the context of teaching and learning; teacher reflection, inquiry, and research; parent/teacher relationships; youth development and community engagement; professional growth and development; teacher leadership and school change processes; preparation for the job search, the STEP Elementary Portfolio, and the STEP Elementary Conference. Prerequisite: STEP student.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC246G PRC
 DTSTART;TZID=America/Los_Angeles:20170111T150000
-CREATED:20160925T011602
+CREATED:20170109T213630
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T192000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170113T152000
+LAST-MODIFIED:20170109T213630
+UID:explore_courses7432ccbe-ed8e-4822-b0f5-fae4e9f184fb
+DTSTAMP:20170109T213630
+LOCATION:Ceras 204
+DESCRIPTION:Integrating theory and practice in teacher development. Topics include: equity, democracy, and social justice in the context of teaching and learning; teacher reflection, inquiry, and research; parent/teacher relationships; youth development and community engagement; professional growth and development; teacher leadership and school change processes; preparation for the job search, the STEP Elementary Portfolio, and the STEP Elementary Conference. Prerequisite: STEP student.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC246G PRC
+DTSTART;TZID=America/Los_Angeles:20170113T123000
+CREATED:20170109T213630
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

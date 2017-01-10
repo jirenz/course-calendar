@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T102000
-LAST-MODIFIED:20160925T011707
-UID:explore_courses87675288-0235-428a-832f-9ff52778d369
-DTSTAMP:20160925T011707
+LAST-MODIFIED:20170109T213755
+UID:explore_courses4d3b9877-a87e-46e1-a874-043d9ca413ff
+DTSTAMP:20170109T213755
 LOCATION:McCullough 126
 DESCRIPTION:Third part of a proof-based sequence in discrete mathematics. This course covers several topics in probability (random variables, independence and correlation, concentration bounds, the central limit theorem) and topology (metric spaces, point-set topology, continuous maps, compactness, Brouwer's fixed point and the Borsuk-Ulam theorem), with some applications in combinatorics. Prerequisites: 61DM or 61CM
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH63DM LEC
 DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20160925T011707
+CREATED:20170109T213755
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

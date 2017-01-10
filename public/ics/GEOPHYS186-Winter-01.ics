@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20160925T011606
-UID:explore_courses24b56461-112d-4ac8-9a20-0c6683cd344f
-DTSTAMP:20160925T011606
+LAST-MODIFIED:20170109T213852
+UID:explore_courses2ab41624-c26a-4fd6-9a17-d5ee31663c7c
+DTSTAMP:20170109T213852
 LOCATION:Mitch350
 DESCRIPTION:The physics of faulting and plate tectonics. Topics: plate driving forces, lithospheric rheology, crustal faulting, and the state of stress in the lithosphere. Exercises: lithospheric temperature and strength profiles, calculation of seismic strain from summation of earthquake moment tensors, slip on faults in 3D, and stress triggering and inversion of stress from earthquake focal mechanisms. Offered every other year, winter quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS186 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20160925T011606
+CREATED:20170109T213852
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

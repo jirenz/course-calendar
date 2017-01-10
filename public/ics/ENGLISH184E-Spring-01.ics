@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20160925T011658
-UID:explore_courses3a984e84-3f27-4b0e-8fd8-c6fdadc62f11
-DTSTAMP:20160925T011658
+LAST-MODIFIED:20170109T213739
+UID:explore_courses74a05186-2a0a-4b7f-89d8-d57e1b0dbb86
+DTSTAMP:20170109T213739
 LOCATION:Lathrop 294
 DESCRIPTION:This course will train students in applied methods for computationally analyzing texts for humanities research. The skills students will gain will include basic programming for textual analysis, applied statistical evaluation of results and the ability to present these results within a formal research paper or presentation. As an introduction, students in this course will also learn the prerequisite steps of such an analysis including corpus selection and cleaning, metadata collection, and selecting and creating an appropriate visualization for the results.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGLISH184E SEM
 DTSTART;TZID=America/Los_Angeles:20170403T153000
-CREATED:20160925T011658
+CREATED:20170109T213739
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

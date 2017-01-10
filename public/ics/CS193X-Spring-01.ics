@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T142000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses4fde2a7d-9bca-40f1-b04d-ac4849eb36bc
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_courses82c5f8c7-1932-451c-8692-f513913cbaf2
+DTSTAMP:20170109T213829
 LOCATION:Shriram Ctr BioChemE 104
-DESCRIPTION:Introduction to full-stack web development with an emphasis on fundamentals. Client-side topics include layout and rendering through HTML and CSS, event-driven programming through JavaScript, and single-threaded asynchronous programming techniques including Promises. Focus on modern standardized APIs and best practices. Server-side topics include the development of RESTful APIs, JSON services, and basic server-side storage techniques. Covers desktop and mobile web development. Enrollment is limited. Prerequisite: 106A or equivalent.
+DESCRIPTION:Introduction to full-stack web development with an emphasis on fundamentals. Client-side topics include layout and rendering through HTML and CSS, event-driven programming through JavaScript, and single-threaded asynchronous programming techniques including Promises. Focus on modern standardized APIs and best practices. Server-side topics include the development of RESTful APIs, JSON services, and basic server-side storage techniques. Covers desktop and mobile web development. Enrollment is limited. Application required. Prerequisite: 106B or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS193X LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

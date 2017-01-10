@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20160925T011625
-UID:explore_courses2145acf8-2558-4217-8c09-0ca0c13ebec1
-DTSTAMP:20160925T011625
+LAST-MODIFIED:20170109T213819
+UID:explore_coursese4c5a231-2145-4992-8d68-37567b4db6ae
+DTSTAMP:20170109T213819
 LOCATION:CCSR0247
-DESCRIPTION:Physics and Engineering of Radionuclide-based Medical Imaging (RAD 221)nPhysics, instrumentation, and algorithms for radionuclide-based medical imaging, with a focus on positron emission tomography (PET) and single photon emission computed tomography (SPECT). Topics include basic physics of photon emission from the body and detection, sensors, readout and data acquisition electronics, system design, strategies for tomographic image reconstruction, system calibration and data correction algorithms, methods of image quantification, and image quality assessment, and current developments in the field. Prerequisites: A year of university-level mathematics and physics.
+DESCRIPTION:Physics, instrumentation, and algorithms for radionuclide-based medical imaging, with a focus on positron emission tomography (PET) and single photon emission computed tomography (SPECT). Topics include basic physics of photon emission from the body and detection, sensors, readout and data acquisition electronics, system design, strategies for tomographic image reconstruction, system calibration and data correction algorithms, methods of image quantification, and image quality assessment, and current developments in the field. Prerequisites: A year of university-level mathematics and physics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE221 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20160925T011625
+CREATED:20170109T213819
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

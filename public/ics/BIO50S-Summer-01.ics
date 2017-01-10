@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170627T115000
-LAST-MODIFIED:20160925T011643
-UID:explore_coursesaf89f2b0-fddb-48a2-a87b-fed806f3e102
-DTSTAMP:20160925T011643
+LAST-MODIFIED:20170109T213707
+UID:explore_courses8cebd9d5-3149-41c0-84b8-6c6d9c4eeaaa
+DTSTAMP:20170109T213707
 LOCATION:
 DESCRIPTION:Introduction to the molecular basis of cancer. This course will examine the biological processes that are disrupted in cancer, such as DNA repair, cell cycle control and signaling pathways, as well as the science behind some current treatments. Prerequisites: general biology
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO50S SEM
 DTSTART;TZID=America/Los_Angeles:20170627T103000
-CREATED:20160925T011643
+CREATED:20170109T213707
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

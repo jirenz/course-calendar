@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20160925T011632
-UID:explore_coursesbff4b587-2840-4063-8190-dd0b9866238a
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213833
+UID:explore_courses1e8fbb63-3f78-4e2e-98e3-34fe0e54012e
+DTSTAMP:20170109T213833
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Analytical and numerical methods for solving ordinary differential equations arising in engineering applications: Solution of initial and boundary value problems, series solutions, Laplace transforms, and nonlinear equations; numerical methods for solving ordinary differential equations, accuracy of numerical methods, linear stability theory, finite differences. Introduction to MATLAB programming as a basic tool kit for computations. Problems from various engineering fields. Prerequisite: 10 units of AP credit (Calc BC with 4 or 5, or Calc AB with 5), or Math 41 and 42. Recommended: CME100.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR155A LEC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20160925T011632
+CREATED:20170109T213833
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

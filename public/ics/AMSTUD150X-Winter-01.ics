@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20160925T011636
-UID:explore_courses2c54752c-db54-4cf6-93bf-66a36185f3e0
-DTSTAMP:20160925T011636
-LOCATION:McMurtry Building rm 350
-DESCRIPTION:This class will examine the history of San Francisco from Native American and colonial settlement through the present.  Focus is on social, environmental, and political history, with the theme of power in the city.  Topics include Indians and Spanish settlers, the Gold Rush, immigration and nativism, earthquake and fire, progressive reform and unionism, gender, race and civil rights, sexuality and politics, redevelopment and gentrification.
+DTEND;TZID=America/Los_Angeles:20170110T162000
+LAST-MODIFIED:20170109T213635
+UID:explore_courses590e20ee-dac8-4167-b9c3-271f136ef843
+DTSTAMP:20170109T213635
+LOCATION:260-007
+DESCRIPTION:This class will examine the history of San Francisco from Native American and colonial settlement through the present. Focus is on social, environmental, and political history, with the theme of power in the city. Topics include Native Americans, the Gold Rush, immigration and nativism, railroads and robber barons, earthquake and fire, progressive reform and unionism, gender, race and civil rights, sexuality and politics, counterculture, redevelopment and gentrification. Students write final project in collaboration with ShapingSF, a participatory community history project documenting and archiving overlooked stories and memories of San Francisco. (Cardinal Course certified by the Haas Center)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AMSTUD150X SEM
-DTSTART;TZID=America/Los_Angeles:20170110T120000
-CREATED:20160925T011636
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170110T150000
+CREATED:20170109T213635
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

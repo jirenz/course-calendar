@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T142000
-LAST-MODIFIED:20160925T011625
-UID:explore_courses949cac6f-e80d-4596-bc26-51cf8a772c09
-DTSTAMP:20160925T011625
-LOCATION:260-002
-DESCRIPTION:Fundamentals of electronic structure theory as it applies to chemical reaction kinetics in homogeneous and heterogeneous reaction systems. Development and application of the theory of chemical kinetics, including traditional and harmonic transition state theories. Relationships between thermodynamics and kinetics to overall mechanism predictions. Lab involves chemical modeling including _ab initio_ electronic structure calculations (Hartree-Fock, configuration interaction, coupled cluster, and many-body perturbation theory) and thermodynamic predictions. DFT calculations for catalysis applications are also covered. Prerequisite: quantum mechanics.
+LAST-MODIFIED:20170109T213820
+UID:explore_courses8bf49328-6c09-4e3b-83ab-1543bce6da66
+DTSTAMP:20170109T213820
+LOCATION:School of Education 128
+DESCRIPTION:Fundamentals of electronic structure theory to describe materials properties and chemical reactivity. nLearning objectives:  Understand the basis for modern electronic structure calculations,  understand the relationship between electronic structure,  materials properties, and  chemical kinetics,  be able to read the current literature, be able to do own calculations. nImportant components of the lectures:  An overview of quantum chemical methods, introduction to methods for periodic systems, density functional theory and current approximations to describe exchange and correlation effects, methods to describe excited states, transition state theory and methods to calculate partition functions. nThe Lab:  Leaning to do DFT calculations.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG444 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011625
+CREATED:20170109T213820
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

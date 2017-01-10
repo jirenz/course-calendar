@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20160925T011714
-UID:explore_coursesa6b26d85-1e07-425f-b71c-91a71524cccf
-DTSTAMP:20160925T011714
+DTEND;TZID=America/Los_Angeles:20170404T175000
+LAST-MODIFIED:20170109T213805
+UID:explore_courses51b7220c-f855-47c2-893a-4bef306b20c6
+DTSTAMP:20170109T213805
 LOCATION:380-380C
 DESCRIPTION:This course aims to offer an understanding of how human cognition &iquest; the ability to think, reason, and learn about the world &iquest; changes in the first few years of life. We will review and evaluate both classic findings and state-of-the-art research on cognitive development, and learn about the methods used to reveal what children know and think about the world. The course will help students to understand, discuss, and critically evaluate the major theories and explanations of intellectual growth, and consider implications of cognitive development research on real-world issues in education and social policy. Prerequisites: Psych 1.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH141 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20160925T011714
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170404T163000
+CREATED:20170109T213805
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

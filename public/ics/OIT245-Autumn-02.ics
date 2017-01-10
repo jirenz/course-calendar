@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20160925T011559
-UID:explore_courses04505574-650f-4c02-907a-679b33b013ad
-DTSTAMP:20160925T011559
+LAST-MODIFIED:20170109T213843
+UID:explore_coursescc0edadd-9e95-4ad1-bdd0-5fbb38b7d5a9
+DTSTAMP:20170109T213843
 LOCATION:GSB Bass 312
 DESCRIPTION:This course provides basic skills in quantitative modeling. The objective is to familiarize students with the main steps in an analytical approach to business decision making: constructing an abstract model for a relevant business problem, formulating it in a spreadsheet environment such as Microsoft Excel, and using the tools of optimization, Monte Carlo simulation and sensitivity analysis to generate and interpret recommendations. The class will be taught in a lab style, with short in-class exercises done in small teams, focusing on a variety of applications drawn from online advertising, healthcare, finance, supply chain management, revenue and yield optimization.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT245 WKS
 DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20160925T011559
+CREATED:20170109T213843
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,FR
 END:VEVENT
 END:VCALENDAR

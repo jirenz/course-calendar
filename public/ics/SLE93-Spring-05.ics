@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T165000
-LAST-MODIFIED:20160925T011608
-UID:explore_coursesa59ed22d-e0db-4dfc-b92b-66d4aba88481
-DTSTAMP:20160925T011608
-LOCATION:
-DESCRIPTION:Focusing on great works of philosophy, religion, literature, painting, and film drawn largely from the Western tradition, the SLE curriculum places particular emphasis on artists and intellectuals who brought new ways of thinking and new ways of creating into the world, often overthrowing prior traditions in the process. These are the works that redefined beauty, challenged the authority of conventional wisdom, raised questions of continuing importance to us today, and&iquest;for good or ill&iquest;created the world we still live in.  Texts may include: Marx, Nietzsche, Freud, Du Bois, Eliot, Woolf, Kafka, Brecht, Vertov, Beauvoir, Sartre, Fanon, Gandhi, and Morrison.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:SLE93 DIS
-DTSTART;TZID=America/Los_Angeles:20170406T150000
-CREATED:20160925T011608
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T165000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T170000
-LAST-MODIFIED:20160925T011608
-UID:explore_courses22e307c4-998c-42ba-ab68-8c67c81640b9
-DTSTAMP:20160925T011608
+DTEND;TZID=America/Los_Angeles:20170405T162000
+LAST-MODIFIED:20170109T213815
+UID:explore_courses6792a994-f2e9-48e7-b86c-c49f2ff3d556
+DTSTAMP:20170109T213815
 LOCATION:
 DESCRIPTION:Focusing on great works of philosophy, religion, literature, painting, and film drawn largely from the Western tradition, the SLE curriculum places particular emphasis on artists and intellectuals who brought new ways of thinking and new ways of creating into the world, often overthrowing prior traditions in the process. These are the works that redefined beauty, challenged the authority of conventional wisdom, raised questions of continuing importance to us today, and&iquest;for good or ill&iquest;created the world we still live in.  Texts may include: Marx, Nietzsche, Freud, Du Bois, Eliot, Woolf, Kafka, Brecht, Vertov, Beauvoir, Sartre, Fanon, Gandhi, and Morrison.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SLE93 DIS
 DTSTART;TZID=America/Los_Angeles:20170405T153000
-CREATED:20160925T011608
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T170000;BYDAY=WE
+CREATED:20170109T213815
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170406T165000
+LAST-MODIFIED:20170109T213815
+UID:explore_coursesd72bcd1c-8cfc-49b7-ae2f-d5f42e04bc4e
+DTSTAMP:20170109T213815
+LOCATION:
+DESCRIPTION:Focusing on great works of philosophy, religion, literature, painting, and film drawn largely from the Western tradition, the SLE curriculum places particular emphasis on artists and intellectuals who brought new ways of thinking and new ways of creating into the world, often overthrowing prior traditions in the process. These are the works that redefined beauty, challenged the authority of conventional wisdom, raised questions of continuing importance to us today, and&iquest;for good or ill&iquest;created the world we still live in.  Texts may include: Marx, Nietzsche, Freud, Du Bois, Eliot, Woolf, Kafka, Brecht, Vertov, Beauvoir, Sartre, Fanon, Gandhi, and Morrison.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SLE93 DIS
+DTSTART;TZID=America/Los_Angeles:20170406T150000
+CREATED:20170109T213815
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T165000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

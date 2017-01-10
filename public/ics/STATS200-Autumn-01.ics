@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20160925T011718
-UID:explore_courses76744b00-024b-4dbe-9ab3-16c84ec581ed
-DTSTAMP:20160925T011718
-LOCATION:McCullough 115
+LAST-MODIFIED:20170109T213811
+UID:explore_courses9d821d41-7d4f-4a52-8899-89993abfefc7
+DTSTAMP:20170109T213811
+LOCATION:370-370
 DESCRIPTION:Modern statistical concepts and procedures derived from a mathematical framework. Statistical inference, decision theory; point and interval estimation, tests of hypotheses; Neyman-Pearson theory. Bayesian analysis; maximum likelihood, large sample theory. Prerequisite: 116.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS200 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20160925T011718
+CREATED:20170109T213811
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

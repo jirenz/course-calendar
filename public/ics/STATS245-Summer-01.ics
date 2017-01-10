@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170627T145000
-LAST-MODIFIED:20160925T011718
-UID:explore_coursesf44cc51e-b52f-4473-94b8-9bdaecd394fe
-DTSTAMP:20160925T011718
+LAST-MODIFIED:20170109T213811
+UID:explore_coursesbf2dbe42-735e-4c17-a718-33433f17ead4
+DTSTAMP:20170109T213811
 LOCATION:
 DESCRIPTION:Statistical models and decision theory. Online A/B testing, comparative effective studies of medical treatments. Introduction to recommender systems in online services, personalized medicine and marketing. Prerequisite or corequisite: STATS 202, or CS 229, or CME 250, or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS245 LEC
 DTSTART;TZID=America/Los_Angeles:20170627T133000
-CREATED:20160925T011718
+CREATED:20170109T213811
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

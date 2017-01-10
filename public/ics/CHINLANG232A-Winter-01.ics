@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T112000
-LAST-MODIFIED:20160925T011653
-UID:explore_courses5149c42e-762f-4cfe-9d85-0d47f7c293e3
-DTSTAMP:20160925T011653
+DTEND;TZID=America/Los_Angeles:20170109T112000
+LAST-MODIFIED:20170109T213721
+UID:explore_courses02a21ae2-2e16-4f71-a9f8-20352d203c8b
+DTSTAMP:20170109T213721
 LOCATION:260-002
 DESCRIPTION:One of the two components of fifth-year Chinese, second quarter: 'A' content focuses on politics, the economy, technology and society.  Sequence facilitates advanced training in listening, speaking, reading and writing.  Targeted functional abilities include presentational and socioculturally appropriate language in formal and informal, academic, and professional contexts.  Students can take 232A alone for 2 units, or take 232A concurrently with 232B for 4 units.  Prerequisite: Placement Test, CHINLANG 231A, or CHINLANG 231B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHINLANG232A LNG
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20160925T011653
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170109T103000
+CREATED:20170109T213721
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

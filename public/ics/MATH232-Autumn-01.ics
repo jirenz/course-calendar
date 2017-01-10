@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20160925T011707
-UID:explore_coursesed4beff6-9b5e-4a9b-a89b-b2358be685d0
-DTSTAMP:20160925T011707
+LAST-MODIFIED:20170109T213755
+UID:explore_courses6e9af3d6-eec3-4455-a709-84b90f4c93ca
+DTSTAMP:20170109T213755
 LOCATION:380-380X
-DESCRIPTION:An introduction to some of the most important theorems and open problems in percolation theory.  Topics include some of the difficult early breakthroughs of Kesten, Menshikov, Aizenman and others, and recent fields-medal winning works of Schramm, Lawler, Werner and Smirnov.  Prerequisites: graduate-level probability.  Offered every 1-2 years.
+DESCRIPTION:An introduction to first passage percolation and related general tools and models. Topics include early results on shape theorems and fluctuations, more modern development using hyper-contractivity, recent breakthrough regarding scaling exponents, and providing exposure to some fundamental long-standing open problems. Course prerequisite: graduate-level probability.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH232 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20160925T011707
+CREATED:20170109T213755
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T165000
-LAST-MODIFIED:20160925T011711
-UID:explore_coursesa5631109-6073-4f58-b3cb-449b1b638657
-DTSTAMP:20160925T011711
+DTEND;TZID=America/Los_Angeles:20170403T172000
+LAST-MODIFIED:20170109T213802
+UID:explore_coursesd01b99a7-b9b8-4b3a-9606-4252d1de7376
+DTSTAMP:20170109T213802
 LOCATION:380-380W
 DESCRIPTION:Basis for higher level courses on atomic solid state and particle physics.  Problems related to measurement theory and introduction to quantum computing.  Approximation methods for time-independent and time-dependent perturbations. Semiclassical and quantum theory of radiation, second quantization of radiation and matter fields. Systems of identical particles and many electron atoms and molecules. Prerequisite: PHYSICS 230.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS231 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T153000
-CREATED:20160925T011711
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T165000;BYDAY=MO,WE
+CREATED:20170109T213802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

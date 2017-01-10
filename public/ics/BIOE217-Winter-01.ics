@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20160925T011625
-UID:explore_courses7f20a60f-37e4-4cbd-8f7a-6fd5a18e0b2b
-DTSTAMP:20160925T011625
-LOCATION:Herrin T195
+LAST-MODIFIED:20170109T213819
+UID:explore_courses19a1b185-bdcf-4aaf-ac53-ffe14afefc5a
+DTSTAMP:20170109T213819
+LOCATION:Gates B3
 DESCRIPTION:Computational methods for the translation of biomedical data into diagnostic, prognostic, and therapeutic applications in medicine. Topics: multi-scale omics data generation and analysis, utility and limitations of public biomedical resources, machine learning and data mining, issues and opportunities in drug discovery, and mobile/digital health solutions. Case studies and course project. Prerequisites: programming ability at the level of CS 106A and familiarity with biology and statistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE217 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20160925T011625
+CREATED:20170109T213819
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

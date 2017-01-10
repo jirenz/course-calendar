@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T115000
+LAST-MODIFIED:20170109T213846
+UID:explore_courses5c933356-1b12-4c6f-bf8b-50aef386c978
+DTSTAMP:20170109T213846
+LOCATION:William H. Neukom building 104
+DESCRIPTION:(Same as AMSTUD 105Q) This seminar focuses on the interface between two important subjects: law and popular culture. Before class, students will see a series of films or television shows relating to law, lawyers, and the legal system. There is also a weekly homework assignment based on materials in the assigned text and the assigned film or TV show. We will discuss the pop culture treatment of subjects such as the adversary system, good and bad lawyers, female and gay lawyers, the work life of lawyers, legal education, ethical issues, the jury system, and criminal and civil justice. The seminar discussions will draw on film theory and film-making technique to deepen understanding of the interrelationship between law and popular culture. The discussions will illuminate the ways in which pop culture products both reflect and change social views about law and lawyers. The assigned text is Michael Asimow &amp; Shannon Mader, &quot;Law &amp; Popular Culture: A Course Book&quot; (Peter Lang, 2d edition, 2013).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAWGEN105Q ISS
+DTSTART;TZID=America/Los_Angeles:20170110T103000
+CREATED:20170109T213846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

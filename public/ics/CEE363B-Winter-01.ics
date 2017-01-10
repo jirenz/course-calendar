@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20160925T011627
-UID:explore_coursesc578538f-ab8b-44c4-90f8-b1be225fb2ca
-DTSTAMP:20160925T011627
+LAST-MODIFIED:20170109T213822
+UID:explore_courses3992c3c5-c43a-4dcd-9c86-ef573cc0ba97
+DTSTAMP:20170109T213822
 LOCATION:Y2E2 335
 DESCRIPTION:An overview of the statistical analysis of unsteady flows, with a focus on chaos and turbulence. Topics will include random variables and statistical analysis; self-similarity, scaling, and symmetries; the turbulent energy cascade and the Kolmogorov similarity hypotheses; intermittency, refined similarity, and multifractal analysis; mixing and transport in chaotic and turbulent flows; and an overview of the effects of additional conservation laws on flow statistics.  Prerequisites: CEE 262A or ME 351A, or permission of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE363B LEC
 DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20160925T011627
+CREATED:20170109T213822
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

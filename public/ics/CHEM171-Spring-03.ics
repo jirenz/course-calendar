@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20160925T011650
-UID:explore_coursesba7cabe4-7647-456f-ad4e-a86a6940fad8
-DTSTAMP:20160925T011650
+LAST-MODIFIED:20170109T213719
+UID:explore_courses13c1586d-4492-4201-aa61-626b764d53f5
+DTSTAMP:20170109T213719
 LOCATION:ScienceTeachingLearningCntr115
 DESCRIPTION:Laws of thermodynamics, properties of gases, phase transitions and phase equilibrium, chemical equilibrium, chemical kinetics, reaction rate, thermal motion and energy barriers, kinetic molecular models. The MATLAB programming language with hands-on experiences will be introduced in discussion sections and used for simulations of chemical systems.  Prerequisites: CHEM 33; PHYS 41; either CME 100 or MATH 51.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM171 DIS
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20160925T011650
+CREATED:20170109T213719
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

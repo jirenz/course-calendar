@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T122000
-LAST-MODIFIED:20160925T011640
-UID:explore_coursesd6fddc12-d1a0-49ee-aa03-8efbcb734bd3
-DTSTAMP:20160925T011640
+LAST-MODIFIED:20170109T213657
+UID:explore_coursesf45afe38-20b1-4454-abd7-9a495f8240f9
+DTSTAMP:20170109T213657
 LOCATION:McMurtry Building rm 011B
 DESCRIPTION:Students use electronics and software to create kinetic and interactive elements in artwork. No prior knowledge of electronics or software is required. Students learn to program the Arduino, a small easy-to-use microprocessor control unit ( see http://www.arduino.cc/ ). Learn to connect various sensors such as light, motion, sound and touch and use them to control software. Learn to interface actuators like motors, lights and solenoids to create movement. Learn to connect the Arduino to theMAX/MSP/Jitter programming environment to create media-intensive video and audio environments. Explore the social dimensions of electronic art. (lower level)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTSTUDI231A PRC
 DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20160925T011640
+CREATED:20170109T213657
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

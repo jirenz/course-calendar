@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20160925T011718
-UID:explore_coursescc46cd1e-61ae-42d3-832f-6d731e3f0765
-DTSTAMP:20160925T011718
+LAST-MODIFIED:20170109T213811
+UID:explore_courses412f650f-295a-4140-8035-27d2538fed6b
+DTSTAMP:20170109T213811
 LOCATION:Sequoia Hall 200
 DESCRIPTION:Finite sample optimality of statistical procedures; Decision theory: loss, risk, admissibility; Principles of data reduction: sufficiency, ancillarity, completeness; Statistical models: exponential families, group families, nonparametric families; Point estimation: optimal unbiased and equivariant estimation, Bayes estimation, minimax estimation; Hypothesis testing and confidence intervals: uniformly most powerful tests, uniformly most accurate confidence intervals, optimal unbiased and invariant tests. Prerequisites: Real analysis, introductory probability (at the level of STATS 116), and introductory statistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS300A LEC
 DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20160925T011718
+CREATED:20170109T213811
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

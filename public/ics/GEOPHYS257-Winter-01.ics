@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T102000
-LAST-MODIFIED:20160925T011606
-UID:explore_courses00c9c3b0-59d4-4e83-8ca8-05120ed8455b
-DTSTAMP:20160925T011606
+LAST-MODIFIED:20170109T213852
+UID:explore_coursesd6a1a33a-9bfb-4e47-b9b2-21a49cd4248b
+DTSTAMP:20170109T213852
 LOCATION:Mitch452
 DESCRIPTION:Techniques for mapping numerically intensive algorithms to modern high performance computers such as the Center for Computational Earth and Environmental Science's (CEES) . Topics include computer architecture  performance analysis, and parallel programming. Topics covered include pthreads  OpenMP;  MPI, Cilk++, and CUDA.. Exercises using SMP and cluster computers. May be repeated for credit. Offered every other year, winter quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS257 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20160925T011606
+CREATED:20170109T213852
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

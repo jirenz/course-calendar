@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20160925T011658
-UID:explore_courses19dbbeaf-362f-4478-9ae1-30e05b21d4cf
-DTSTAMP:20160925T011658
+LAST-MODIFIED:20170109T213737
+UID:explore_coursesb95b7360-172a-4a45-8a22-09d95a2a49d7
+DTSTAMP:20170109T213737
 LOCATION:Econ 218
 DESCRIPTION:Rigorous introduction to the theory of economic mechanisms under asymmetric information. Covers applications to price discrimination, taxation, regulation, long-term relationships, single-unit and multi-unit auctions. Forms a sequence with ECON 180 and ECON 182, but can be taken independently.  Prerequisite:  Experience with abstract mathematics and willingness to work hard. No prior knowledge of economics is required, although basic knowledge in game theory is useful.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON181 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011658
+CREATED:20170109T213737
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

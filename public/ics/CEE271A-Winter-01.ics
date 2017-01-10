@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T092000
-LAST-MODIFIED:20160925T011627
-UID:explore_coursesdb3de8a0-5c64-4997-8ad7-01e459fb2c75
-DTSTAMP:20160925T011627
+LAST-MODIFIED:20170109T213822
+UID:explore_coursesf622dd4b-4838-4493-b6ba-432597a03729
+DTSTAMP:20170109T213822
 LOCATION:Y2E2 111
 DESCRIPTION:Physical and chemical unit operations for water treatment, emphasizing process combinations for drinking water supply. Application of the principles of chemistry, rate processes, fluid dynamics, and process engineering to define and solve water treatment problems by flocculation, sedimentation, filtration, disinfection, oxidation, aeration, and adsorption. Investigative paper on water supply and treatment. Prerequisites: CEE 101B (or CEE 162A);  CEE 270. Recommended: 273.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE271A LEC
 DTSTART;TZID=America/Los_Angeles:20170109T083000
-CREATED:20160925T011627
+CREATED:20170109T213822
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T092000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

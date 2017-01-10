@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T122000
-LAST-MODIFIED:20160925T011627
-UID:explore_courses0aab5ab2-15dc-4035-ac72-224cf4c6dc3b
-DTSTAMP:20160925T011627
+LAST-MODIFIED:20170109T213822
+UID:explore_courses8064f913-8d31-44e2-af34-aea61f343f23
+DTSTAMP:20170109T213822
 LOCATION:Turingaud
 DESCRIPTION:Introduction to optimization (design variables, objective functions, constraints, etc); Multi-objective concept; Pareto optimization; Solution of optimization problems using differential and variational calculus; Mathematical programming methods; Lagrange multipliers and mini-max problems; Penalty function methods; Karush-Kuhn-Tucker (KKT) optimality conditions; Sensitivity analysis (analytical, semi-analytical and numerical methods); Introduction to topology optimization; Optimization process in practice (many applications); Graphics statics. Rapid prototyping and 3D printing techniques; Prerequisite: CEE 280 or equivalent in advanced structural analysis, and Matlab programming.  Recommended: CEE 281 or equivalent in finite element analysis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE307 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20160925T011627
+CREATED:20170109T213822
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

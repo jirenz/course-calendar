@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T112000
-LAST-MODIFIED:20160925T011658
-UID:explore_coursesa100e7a7-2a6d-45cc-8407-b1a54ecdecb7
-DTSTAMP:20160925T011658
-LOCATION:Gates100
+DTEND;TZID=America/Los_Angeles:20160930T162000
+LAST-MODIFIED:20170109T213737
+UID:explore_coursesfa7455ab-4406-4ca8-9eb0-1e877f661f32
+DTSTAMP:20170109T213737
+LOCATION:Econ 140
 DESCRIPTION:(Non-Economics graduate students register for 202N.) Open to advanced undergraduates with consent of instructors. Theory of the consumer and the implications of constrained maximization; uses of indirect utility and expenditure functions; theory of the producer, profit maximization, and cost minimization; monotone comparative statics; behavior under uncertainty; partial equilibrium analysis and introduction to models of general equilibrium. Limited enrollment. Prerequisite: thorough understanding of the elements of multivariate calculus and linear algebra.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON202 DIS
-DTSTART;TZID=America/Los_Angeles:20160930T093000
-CREATED:20160925T011658
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20160930T143000
+CREATED:20170109T213737
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

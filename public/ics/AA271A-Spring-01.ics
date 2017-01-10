@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20160925T011624
-UID:explore_courses2fbcf807-9745-4b92-b677-6b9b60d7fa73
-DTSTAMP:20160925T011624
+LAST-MODIFIED:20170109T213818
+UID:explore_courses2e366c80-21de-4333-873e-0405b6dfef79
+DTSTAMP:20170109T213818
 LOCATION:Mitchb67
 DESCRIPTION:The dynamic behavior of aircraft and spacecraft, and the design of automatic control systems for them. For aircraft: non-linear and linearized longitudinal and lateral dynamics; linearized aerodynamics; natural modes of motion; autopilot design to enhance stability, control the flight path, and perform automatic landings. For spacecraft in orbit: natural longitudinal and lateral dynamic behavior and the design of attitude control systems. Prerequisites: AA242A, ENGR 105.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA271A LEC
 DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20160925T011624
+CREATED:20170109T213818
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

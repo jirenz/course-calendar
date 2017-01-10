@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T173000
-LAST-MODIFIED:20160925T011613
-UID:explore_coursesca7391cb-d2a3-4f59-b2ce-e1e20a82e940
-DTSTAMP:20160925T011613
+LAST-MODIFIED:20170109T213858
+UID:explore_courses16cca659-3dcb-45b6-8bea-892dcd86f83c
+DTSTAMP:20170109T213858
 LOCATION:
 DESCRIPTION:Genetic approaches to C. elegans, practice in designing experiments and demonstrations of its growth and anatomy. Probable topics include: growth and genetics, genome map and sequence, mutant screens that start with a desired phenotype, reverse genetics and RNAi screens, genetic duplications, uses of null phenotype non-null alleles, genetic interactions and pathway analysis, and embryogenesis and cell lineage. Focus of action, mosaic analysis, and interface with embryological and evolutionary approaches.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE235 SEM
 DTSTART;TZID=America/Los_Angeles:20170404T160000
-CREATED:20160925T011613
+CREATED:20170109T213858
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T173000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

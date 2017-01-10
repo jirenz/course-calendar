@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20160925T011658
-UID:explore_courses70e82592-26d0-4577-acc8-4c666aff0f6b
-DTSTAMP:20160925T011658
+LAST-MODIFIED:20170109T213739
+UID:explore_courses30a620fd-6b17-43c9-911a-ebc4e0fb4522
+DTSTAMP:20170109T213739
 LOCATION:160-321
 DESCRIPTION:In this course we will explore the intersection between Digital Humanities and aesthetic theory. Although quantitative analysis is frequently called reductive when it comes to the study of text, we will study how computational methods can help nuance or expand our understanding of aesthetic phenomenon. In addition to studying the background theories to operationalize, much of our time will be spent learning computational methods with which to analyze text. No prior experience with programming or digital humanities methods is required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGLISH353 SEM
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20160925T011658
+CREATED:20170109T213739
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20160925T011628
-UID:explore_courses8a8d0d8c-f1cd-4739-b02b-e562dce42874
-DTSTAMP:20160925T011628
+LAST-MODIFIED:20170109T213823
+UID:explore_coursesd83715b0-2630-4980-a435-3f95a6ed242d
+DTSTAMP:20170109T213823
 LOCATION:370-370
 DESCRIPTION:This short course runs for the first four weeks of the quarter. It is recommended for students who are familiar with programming at least at the level of CS106A and want to translate their programming knowledge to Python with the goal of becoming proficient in the scientific computing and data science stack. Lectures will be interactive with a focus on real world applications of scientific computing. Technologies covered include Numpy, SciPy, Pandas, Scikit-learn, and others. Topics will be chosen from Linear Algebra, Optimization, Machine Learning, and Data Science. Prior knowledge of programming will be assumed, and some familiarity with Python is helpful, but not mandatory.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME193 WKS
 DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20160925T011628
+CREATED:20170109T213823
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T172000
-LAST-MODIFIED:20160925T011704
-UID:explore_courses45076c19-49cf-44fd-9c38-8921e2bdb085
-DTSTAMP:20160925T011704
-LOCATION:240-201
+DTEND;TZID=America/Los_Angeles:20170111T172000
+LAST-MODIFIED:20170109T213751
+UID:explore_coursesf40c5646-3d8a-4ae9-b2ac-dfb7f8871da0
+DTSTAMP:20170109T213751
+LOCATION:160-329
 DESCRIPTION:Major determinants of health in a community. Working with community partners to identify health issues and plan programs and policies to prevent disease and promote health. Service learning component involving students in community health assessment techniques. Final grade given upon completion of HUMBIO 127B. Service Learning Course (certified by Haas Center). Prerequisite: 4B or equivalent, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO127A SEM
-DTSTART;TZID=America/Los_Angeles:20170109T153000
-CREATED:20160925T011704
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170111T153000
+CREATED:20170109T213751
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

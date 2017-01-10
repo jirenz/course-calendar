@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20160925T011636
-UID:explore_coursesb50e796c-d5c9-40f9-8b25-450fea825d98
-DTSTAMP:20160925T011636
-LOCATION:McMurtry Building rm 360
-DESCRIPTION:Competitive eating, Weight Watchers, Iron Chef, and Beyonc&eacute;&iquest;s lemonade diet: American popular culture is a feast of food issues. As a class, we will investigate the role of food in American popular culture, paying close attention to ideas of celebrity and consumerism. Course materials include cookbooks, paintings and art installations, diet books, TV shows, film, and advertisements.
+DTEND;TZID=America/Los_Angeles:20170109T122000
+LAST-MODIFIED:20170109T213635
+UID:explore_courses744244ff-25d1-42c8-8391-7f45f90e0d3a
+DTSTAMP:20170109T213635
+LOCATION:320-220
+DESCRIPTION:This course introduces students to the social history, political economy and aesthetics of eating in America, paying particular attention to representations of food in popular culture over the last hundred years.  Though firmly grounded in American Studies, an interdisciplinary perspective draws from the material and methods of anthropology, cultural studies, art history, and history. Topics include the California citrus industry, competitive eating, food art, utopias, and edible landscapes. Students will actively engage with primary sources including  cookbooks, paintings and art installations, diet books, TV shows, film, and advertisements.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AMSTUD93 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20160925T011636
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170109T113000
+CREATED:20170109T213635
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160928T162000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses9f903fa8-063c-412c-bc0e-6ea8377b651d
-DTSTAMP:20160925T011630
-LOCATION:380-381U
+LAST-MODIFIED:20170109T213829
+UID:explore_courses0adc9cd3-3833-430b-bbaa-b61d59974cbb
+DTSTAMP:20170109T213829
+LOCATION:200-305
 DESCRIPTION:An introduction to computational complexity theory. Topics include the P versus NP problem; diagonalization; space complexity: PSPACE, Savitch's theorem, and NL=coNL; counting problems and #P-completeness; circuit complexity; pseudorandomness and derandomization; complexity of approximation; quantum computing; complexity barriers.  Prerequisites: 154 or equivalent; mathematical maturity.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS254 LEC
 DTSTART;TZID=America/Los_Angeles:20160928T150000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

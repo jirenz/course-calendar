@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T132000
-LAST-MODIFIED:20160925T011606
-UID:explore_coursesc37571ea-ce60-4675-89ff-05ed3c9798c5
-DTSTAMP:20160925T011606
+LAST-MODIFIED:20170109T213852
+UID:explore_courses3e7353ee-24e6-4890-99b3-b070eed2fb6f
+DTSTAMP:20170109T213852
 LOCATION:Mitch350
 DESCRIPTION:How to integrate well log and laboratory data to determine and theoretically generalize rock physics transforms between sediment wave properties (acoustic and elastic impendence), bulk properties (porosity, lithology, texture, permeability), and pore fluid conditions (pore fluid and pore pressure). These transforms are used in seismic interpretation for reservoir properties, and seismic forward modeling in what-if scenarios.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS260 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20160925T011606
+CREATED:20170109T213852
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

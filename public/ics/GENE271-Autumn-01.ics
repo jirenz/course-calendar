@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20160925T011613
-UID:explore_courses8c79df49-ef63-47d5-8856-56343cd3bdfa
-DTSTAMP:20160925T011613
+LAST-MODIFIED:20170109T213858
+UID:explore_coursesd0460a80-e2a8-4c8f-ae25-c944146fb673
+DTSTAMP:20170109T213858
 LOCATION:
 DESCRIPTION:For genetic counseling students, graduate students in genetics, medical students, residents, and postdoctoral fellows interested in the practice of medical genetics and genomics. Gene structure and function; the impact of mutation and polymorphism as they relate to developmental pathways and human disease; mitochondrial genetics; approaches to the study of complex genetic conditions; GWAS and genome sequencing technologies; variant interpretation; gene therapy, stem cell biology, and pharmacogenetics. Undergraduates require consent of instructor and a basic genetics course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE271 SEM
 DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20160925T011613
+CREATED:20170109T213858
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

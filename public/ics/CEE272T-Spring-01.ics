@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170406T145000
-LAST-MODIFIED:20160925T011627
-UID:explore_courses934dd664-9a5e-4089-b431-50913e13329d
-DTSTAMP:20160925T011627
+LAST-MODIFIED:20170109T213822
+UID:explore_coursesd878af58-f06b-4ae0-9e2c-b3ebc7e8ce91
+DTSTAMP:20170109T213822
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:A series of seminar and lectures focused on power engineering. Renowned researchers from universities and national labs will deliver bi-weekly seminars on the state of the art of power system engineering. Seminar topics may include: power system analysis and simulation, control and stability, new market mechanisms, computation challenges and solutions, detection and estimation, and the role of communications in the grid. The instructors will cover relevant background materials in the in-between weeks. The seminars are planned to continue throughout the next academic year, so the course may be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE272T SEM
 DTSTART;TZID=America/Los_Angeles:20170406T133000
-CREATED:20160925T011627
+CREATED:20170109T213822
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

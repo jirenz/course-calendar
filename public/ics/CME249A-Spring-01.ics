@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T133000
-LAST-MODIFIED:20160925T011628
-UID:explore_coursesf236f050-d159-42cf-b1f0-283ec4d071d3
-DTSTAMP:20160925T011628
+LAST-MODIFIED:20170109T213823
+UID:explore_coursesdf89e3e0-966c-4617-b21b-26c212efa374
+DTSTAMP:20170109T213823
 LOCATION:School of Education 128
 DESCRIPTION:Course will cover trading strategies that are bottom up, market neutral, with trading driven by statistical or econometric models and strategies such as pair trading and index arbitrage.  Models may focus on tendency of short term returns to revert, leads/lags among correlated instruments, volume momentum, or behavioral effects.  nTopics include: (a) a taxonomy of market participants and what motivates trading, (b) methods of exploring relationships between instruments, (c) portfolio construction across a large number of instruments, (d) risks inherent in statistical arbitrage (e) nonstationarity of relationships due to changes in market regulations, fluctuations in market volatility and other factors and (f) frictions such as costs of trading and constraints.  Students will team to analyze the provided data sets which cover distinct dynamic market regimes.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME249A WKS
 DTSTART;TZID=America/Los_Angeles:20170404T120000
-CREATED:20160925T011628
+CREATED:20170109T213823
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T133000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

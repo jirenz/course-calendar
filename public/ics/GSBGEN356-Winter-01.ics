@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T181500
-LAST-MODIFIED:20160925T011559
-UID:explore_coursesbc97db48-aa66-4c7d-ae53-febb98990ec7
-DTSTAMP:20160925T011559
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170110T175000
+LAST-MODIFIED:20170109T213842
+UID:explore_courses3c227063-f5b2-4961-a0d2-de9a39327219
+DTSTAMP:20170109T213842
+LOCATION:GSB Patterson 107
 DESCRIPTION:This course will examine the world of wine with a fresh and contemporary lens. It will explore the market dynamics of this fascinating global industry. The goal of the course is to provide insight into the branding, marketing, and distribution dynamics that shape what consumers can buy and consume with a focus on the strategies of some of the world's leading wine brands. Attention will also be paid to the legal, regulatory, and market dynamics that define the U.S. wine industry as well as to issues of contested authenticity in the world of wine.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GSBGEN356 CAS
 DTSTART;TZID=America/Los_Angeles:20170110T163000
-CREATED:20160925T011559
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T181500;BYDAY=TU,TH
+CREATED:20170109T213842
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

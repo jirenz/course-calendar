@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses0a875e55-c44a-4c7e-99d8-4f371816465f
-DTSTAMP:20160925T011632
-LOCATION:McCullough 122
-DESCRIPTION:The course will consider data from real-world systems, with an emphasis on &iquest;things that move&iquest;. Methods of sensing movement, denoising movement data through filtering, and algorithms for reconstructing trajectories from snapshots will be discussed. Principles of creating a &iquest;movement database&iquest; and using it for anomaly detection, launching ad hoc queries to get into the movement of large fleets (buses, trains, taxis) and passengers. Novel variants of the traveling salesman problems and its application to delivery systems will also be covered.
+DTEND;TZID=America/Los_Angeles:20170109T122000
+LAST-MODIFIED:20170109T213832
+UID:explore_courseseda307b5-dd4e-495a-834d-bc740fd7cd0f
+DTSTAMP:20170109T213832
+LOCATION:Hewlett Teaching Center Rm 101
+DESCRIPTION:The course will consider data from sensors in large-scale networks such as Cloud Computing Systems and the Internet of Moving Things.  Methods for sensing, denoising the sensed data, and reconstructing the evolution of the network in  fine detail from snapshot observations will be discussed.  Techniques for synchronizing clocks across a large data center, and using machine learning to perform real-time inference at scale will be presented.  The principles of creating an interactive database for detecting anomalies, raising alerts, and serving insights to the user will be discussed.  The course will involve a team-based project. Required prerequisites: basic computer networks as in CS 144 or CS 244. Recommended: basic statistics or machine learning, as in EE 278 or CS 229.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE392K LEC
-DTSTART;TZID=America/Los_Angeles:20170109T143000
-CREATED:20160925T011632
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170109T113000
+CREATED:20170109T213832
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

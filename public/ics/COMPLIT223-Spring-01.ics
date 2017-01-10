@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T192000
-LAST-MODIFIED:20160925T011655
-UID:explore_courses4a04a71e-25b2-4e47-b2fe-bc848e6c6566
-DTSTAMP:20160925T011655
-LOCATION:Green Earth Sciences131
+DTEND;TZID=America/Los_Angeles:20170405T162000
+LAST-MODIFIED:20170109T213724
+UID:explore_courses9fbdbcde-ebe9-4438-99da-19aa88a5cc3c
+DTSTAMP:20170109T213724
+LOCATION:110-114
 DESCRIPTION:This course introduces students to the ways literature has been used to think through the ethics of human subjects research and experimental medicine. We will focus primarily on readings that imaginatively revisit experiments conducted on vulnerable populations: namely groups placed at risk by their classification according to perceived human and cultural differences. We will begin with Mary Shelley's Frankenstein (1818), and continue our study via later works of fiction, drama and literary journalism, including Toni Morrison's Beloved, David Feldshuh's Miss Evers Boys, Hannah Arendt's Eichmann and Vivien Spitz's Doctors from Hell, Rebecca Skloot's Immortal Life of Henrietta Lacks, and Kazuo Ishiguro's Never Let Me Go. Each literary reading will be paired with medical, philosophical and policy writings of the period; and our ultimate goal will be to understand modes of ethics deliberation that are possible via creative uses of the imagination, and literature's place in a history of ethical thinking about humane research and care.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPLIT223 SEM
-DTSTART;TZID=America/Los_Angeles:20170405T163000
-CREATED:20160925T011655
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T192000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170405T133000
+CREATED:20170109T213724
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

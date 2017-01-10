@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20160925T011602
-UID:explore_courses83b9168b-fc10-4be9-95bd-48ec777ccdb5
-DTSTAMP:20160925T011602
-LOCATION:
+LAST-MODIFIED:20170109T213630
+UID:explore_coursesba5b6046-236d-47c9-9ada-03cee42aab56
+DTSTAMP:20170109T213630
+LOCATION:Ceras 108
 DESCRIPTION:The course will cover the following topics: a) the logic of causal inference and the Fisher/Neyman/Rubin counterfactual causal model (Fisher, 1935; Heckman, 1979; Holland, 1986; Neyman, 1990; Rubin, 1978); b) randomized experiments; c) complex randomized experiments in education (cluster randomized trials, multi-site trials, staggered implementation via randomization, etc.); d) policy experiments with randomization; e) meta-analysis; and f) power in randomized experiments; g) the ethics and politics of randomized experiments.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC255A LEC
 DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20160925T011602
+CREATED:20170109T213630
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

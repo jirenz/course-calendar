@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170405T175000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses3923d628-f1d4-4a71-b70e-e9ccd7a7a564
-DTSTAMP:20160925T011632
-LOCATION:
+LAST-MODIFIED:20170109T213832
+UID:explore_coursesa2c4d810-2f9f-4ed5-bcc9-95769081444b
+DTSTAMP:20170109T213832
+LOCATION:Gates B3
 DESCRIPTION:Live presentations of current research in the design, implementation, analysis, and applications of computer systems. Topics range over a wide range and are different every quarter. Topics may include fundamental science, mathematics, cryptography, device physics, integrated circuits, computer architecture, programming, programming languages, optimization, applications, simulation, graphics, social implications, venture capital, patent and copyright law, networks, computer security, and other topics of related to computer systems. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE380 COL
 DTSTART;TZID=America/Los_Angeles:20170405T163000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T182000
-LAST-MODIFIED:20160925T011711
-UID:explore_courses5498622e-a421-4d41-b707-fe9c010f4ed0
-DTSTAMP:20160925T011711
-LOCATION:Hewlett Teaching Center 103
+DTEND;TZID=America/Los_Angeles:20160929T102000
+LAST-MODIFIED:20170109T213802
+UID:explore_courses699795eb-b1b6-47e3-a565-62af757ec9bb
+DTSTAMP:20170109T213802
+LOCATION:200-124
 DESCRIPTION:Experimental methods in particle physics, particle astrophysics and cosmology. The course will cover detector fundamentals including the passage of radiation through matter, signal production and collection in detector media, and front-end electronics, with a focus on the fundamental limits of technology.  The course will include case studies of specific experiments chosen to illustrate a range of experimental techniques, what the underlying physics questions are and how they are probed with the instrumentation.  A typical case study will include instrumentation papers that describe the detector design and a physics results paper that elucidates how the measurement follows from the detector capabilities. Students will make an oral presentation on an experiment, covering both the design of the experiment, and a science result that exploits the apparatus.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS367 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T163000
-CREATED:20160925T011711
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20160929T083000
+CREATED:20170109T213802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

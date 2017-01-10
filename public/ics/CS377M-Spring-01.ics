@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T205000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses1c1825a9-5cac-46b3-90ad-ebd78a338fa6
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_courses94a71ac8-40d5-42fa-8fcf-62b6b5c60f06
+DTSTAMP:20170109T213829
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Mixed Reality (MR) combines physical and virtual worlds together in one unified user experience. With Oculus Rift and Microsoft Hololens releasing in 2016, MR represents the forefront of HCI innovation. In this course, students engage with a range of issues around design and development of MR systems and develop their own MR interactions. The course begins with use, analysis, and redesign of an existing MR system, followed by larger group projects integrating concepts from the course to prototype novel MR interactions. Students work in project teams, prototyping their concept and communicating their progress through demonstration, final report, and presentation. Prerequisites: CS 147 or 247.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS377M LEC
 DTSTART;TZID=America/Los_Angeles:20170403T180000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T205000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

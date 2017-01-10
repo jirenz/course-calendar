@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T095000
-LAST-MODIFIED:20160925T011558
-UID:explore_courses578339e5-2a8e-4187-949f-6f30720c6fe2
-DTSTAMP:20160925T011558
+LAST-MODIFIED:20170109T213841
+UID:explore_coursesdd26d05a-0c31-45f2-b272-d7a5131913fe
+DTSTAMP:20170109T213841
 LOCATION:GSB McClelland 110
 DESCRIPTION:This course is an introductory PhD level course in financial economics. We begin with individual choice under uncertainty, then move on to equilibrium models, the stochastic discount factor methodology, no-arbitrage pricing and corporate finance. We will also address some empirical puzzles relating to asset markets, and explore the models that have been developed to try to explain them.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FINANCE620 SEM
 DTSTART;TZID=America/Los_Angeles:20160927T083000
-CREATED:20160925T011558
+CREATED:20170109T213841
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T095000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

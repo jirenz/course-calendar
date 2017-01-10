@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20160925T011627
-UID:explore_coursesea6d651f-a4f3-48b3-a0ae-18e91e0f8b7e
-DTSTAMP:20160925T011627
+LAST-MODIFIED:20170109T213822
+UID:explore_courses58ed1786-85a1-4a82-8d53-7137e3f9154a
+DTSTAMP:20170109T213822
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Focus is on Power Engineering from a systems point of view. Topics covered may include modeling of generation, transmission and distribution systems, load flow analysis, transient and steady-state stability analysis. Special emphasis given to modern market operations and dispatch, modeling intermittent controllable power sources, storage technologies, mechanisms for demand response, sensing the grid and the role of market mechanisms for deep integration. Course content may vary year to year.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE272R LEC
 DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20160925T011627
+CREATED:20170109T213822
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

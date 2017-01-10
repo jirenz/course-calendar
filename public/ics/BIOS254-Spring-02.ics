@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170601T172000
-LAST-MODIFIED:20160925T011611
-UID:explore_courses89cb9143-fca7-4738-ae58-cf4957a3147d
-DTSTAMP:20160925T011611
+LAST-MODIFIED:20170109T213855
+UID:explore_courses3a274af9-7ad8-47d8-b853-8f2e7f2d836d
+DTSTAMP:20170109T213855
 LOCATION:Li Ka Shing Center, rms203/204
 DESCRIPTION:Increasingly, research in the biosciences involves data in digital formats and scientists spend a significant fraction of their time building and using software to harvest insight from digital data. A central goal of this course is to expose students to concepts adopted from computer science and data science regarding data management, data curation, and analytical workflows for analyzing digital data. We will focus on digital images since this image type is used in diverse sub-fields in the biosciences. The course will consist of a two-day workshop/lab&iquest;SoftwareCarpentry&iquest;and six DataLucence::Images+Hackathon class meetings.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS254 LBS
 DTSTART;TZID=America/Los_Angeles:20170601T093000
-CREATED:20160925T011611
+CREATED:20170109T213855
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170601T172000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

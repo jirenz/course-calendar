@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T162000
+LAST-MODIFIED:20170109T213823
+UID:explore_coursesee328eb2-0614-4672-9630-57f6163c9a3c
+DTSTAMP:20170109T213823
+LOCATION:Shriram Ctr BioChemE 054
+DESCRIPTION:The main algorithms and software for constrained optimization emphasizing the sparse-matrix methods needed for their implementation. Iterative methods for linear equations and least squares. The simplex method. Basis factorization and updates. Interior methods. The reduced-gradient method, augmented Lagrangian methods, and SQP methods. Prerequisites: Basic numerical linear algebra, including LU, QR, and SVD factorizations, and an interest in MATLAB, sparse-matrix methods, and gradient-based algorithms for constrained optimization. Recommended: MS&amp;E 310, 311, 312, 314, or 315; CME 108, 200,  302, 304, 334, or 335.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CME338 LEC
+DTSTART;TZID=America/Los_Angeles:20170403T150000
+CREATED:20170109T213823
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

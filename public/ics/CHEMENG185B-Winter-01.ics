@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T115000
-LAST-MODIFIED:20160925T011625
-UID:explore_coursese0feba89-9b05-4ca6-8cdf-cd96b34936a7
-DTSTAMP:20160925T011625
+LAST-MODIFIED:20170109T213820
+UID:explore_coursesb4decf1d-bd0e-4c24-80c9-53f005275dd5
+DTSTAMP:20170109T213820
 LOCATION:Wilfred Uytengsu TchngCntr132
-DESCRIPTION:CHEMENG185B: Second quarter of two-quarter sequence.  Experimental aspects of chemical engineering.  Emphasizes experimental design, project execution, team organization, and communication skills.  Lab section times will not be assigned, though students should expect to spend at least 5 hours per week on average in the lab working on their team research projects.  Labs will typically be available M-F between 9am-6pm; to be arranged separately.  Prerequisite: CHEMENG 185A.  Corequisite: CHEMENG 150.
+DESCRIPTION:Second quarter of two-quarter sequence. Experimental aspects of chemical engineering.  Emphasizes experimental design, project execution, team organization, and communication skills. Lab section times will not be assigned, though students should expect to spend at least 5 hours per week on average in the lab working on their team research projects. Labs will typically be available M-F between 9am-6pm; to be arranged separately. Prerequisite: CHEMENG 185A. Corequisite: CHEMENG 150.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG185B LAB
 DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20160925T011625
+CREATED:20170109T213820
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T132000
-LAST-MODIFIED:20160925T011618
-UID:explore_courses15ae7357-8468-401d-9913-13d59e0d4ff2
-DTSTAMP:20160925T011618
+DTEND;TZID=America/Los_Angeles:20180511T132000
+LAST-MODIFIED:20170109T213909
+UID:explore_courses8907516e-bd22-4c1f-928c-739d22358068
+DTSTAMP:20170109T213909
 LOCATION:Li Ka Shing Center, rms304/305
 DESCRIPTION:Seminar series designed to expose students to the field, including its subspecialties and commonly performed procedures. Goals: supplement anatomical knowledge with clinical correlates; understand basic diagnosis, pathophysiology, and management of ENT problems commonly seen in primary care practice; how to perform a thorough head and neck examination. Seminars, given by faculty experts, cover major topics relating to each of the subdivisions within ENT. Attendance to a minimum of seven sessions is required to receive credit for the course.  May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OTOHNS200 SEM
-DTSTART;TZID=America/Los_Angeles:20170113T123000
-CREATED:20160925T011618
+DTSTART;TZID=America/Los_Angeles:20180511T123000
+CREATED:20170109T213909
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

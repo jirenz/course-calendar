@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T132000
-LAST-MODIFIED:20160925T011635
-UID:explore_courses365ab098-125c-44cd-92d5-96df347e513e
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_coursescb3dd730-f3b2-433b-b2b1-7fddceac09d7
+DTSTAMP:20170109T213838
 LOCATION:530-127
 DESCRIPTION:Explore the use of smartphones and tablets as enabling components within modern mechatronic systems. Emphasis on leveraging Android resources (user interface, communications, sensors) in combination with the Arduino microcontroller platform to design and build complex mechatronic devices. Topics include: basic Android application development, Android communications, sensors, Arduino, Arduino peripherals. Large, open-ended team project. Android device and programming hardware required. Limited enrollment. Prerequisites: ME210, ME218, or permission of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME202 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T113000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

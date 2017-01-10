@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20160925T011605
-UID:explore_coursesf9b36aff-0200-4faf-8e2f-2f62e71a83a1
-DTSTAMP:20160925T011605
+LAST-MODIFIED:20170109T213849
+UID:explore_courses8d996efd-4a6d-492e-ba38-61a6e8a05b6b
+DTSTAMP:20170109T213849
 LOCATION:Green Earth Sciences104
 DESCRIPTION:The physics, theories, and methods of evaluating chemical, miscible, and thermal enhanced oil recovery projects. Existing methods and screening techniques, and analytical and simulation based means of evaluating project effectiveness. Dispersion-convection-adsorption equations, coupled heat, and mass balances and phase behavior provide requisite building blocks for evaluation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY227 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20160925T011605
+CREATED:20170109T213849
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

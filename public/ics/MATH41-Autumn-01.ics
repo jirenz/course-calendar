@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20160925T011707
-UID:explore_courses1eed8766-a76b-4403-b9e0-56717add8ebe
-DTSTAMP:20160925T011707
+LAST-MODIFIED:20170109T213755
+UID:explore_coursesd133de12-4769-481d-a1a8-0660ed8a437c
+DTSTAMP:20170109T213755
 LOCATION:380-380C
 DESCRIPTION:Introduction to differential and integral calculus of functions of one variable.  Topics: limits, rates of change, the derivative and applications, introduction to the definite integral and integration. Math 41 and 42 cover the same material as Math 19-20-21, but in two quarters rather than three.  Prerequisites: trigonometry, advanced algebra, and analysis of elementary functions, including exponentials and logarithms. *If you have not previously taken a calculus course at Stanford then you must have taken the math placement diagnostic (offered through the Math Department website) in order to register for this course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH41 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20160925T011707
+CREATED:20170109T213755
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

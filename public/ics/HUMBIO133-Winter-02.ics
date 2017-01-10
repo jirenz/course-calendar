@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T155000
-LAST-MODIFIED:20160925T011704
-UID:explore_courses40036a44-b85b-42fe-a1e2-75f9e13e7cfe
-DTSTAMP:20160925T011704
-LOCATION:380-380C
+DTEND;TZID=America/Los_Angeles:20170112T162000
+LAST-MODIFIED:20170109T213751
+UID:explore_coursesb1070e79-7ad7-43b5-8ca0-d9db85731473
+DTSTAMP:20170109T213751
+LOCATION:ScienceTeachingLearningCntr118
 DESCRIPTION:Human physiology will be examined by organ systems: cardiovascular, respiratory, renal, gastrointestinal and endocrine. Molecular and cell biology and signaling principles that underlie organ development, pathophysiology and opportunities for regenerative medicine are discussed, as well as integrative control mechanisms and fetal development.  Prerequisite: Biology or Human Biology core.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO133 DIS
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20160925T011704
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T155000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170112T150000
+CREATED:20170109T213751
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20161003T162000
-LAST-MODIFIED:20160925T011628
-UID:explore_coursesd1e8ba8b-c2ed-487a-992f-f790584099ac
-DTSTAMP:20160925T011628
+LAST-MODIFIED:20170109T213823
+UID:explore_coursesefe98523-2228-44ea-ba13-b7c522cc3dec
+DTSTAMP:20170109T213823
 LOCATION:200-030
 DESCRIPTION:Bring your data to life with beautiful and interactive visualizations. This course is designed to provide practical experience on combining data science and graphic design to effectively communicate knowledge buried inside complex data. Each lecture will explore a different set of free industry-standard tools, for example d3.js, three.js, ggplots2, and processing; enabling students to think critically about how to architect their own interactive visualization for data exploration, web, presentations, and publications. Geared towards scientists and engineers, and with a particular emphasis on web, this course assumes an advanced background in programming methodology in multiple languages (particularly R and Javascript). Assignments are short and focus on visual experimentation with interesting data sets or the students' own data. Topics: data, visualization, web. Prerequisites: some experience with general programming is required to understand the lectures and assignments.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME151 WKS
 DTSTART;TZID=America/Los_Angeles:20161003T150000
-CREATED:20160925T011628
+CREATED:20170109T213823
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161024T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

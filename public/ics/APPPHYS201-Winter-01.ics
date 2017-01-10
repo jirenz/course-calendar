@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20160925T011638
-UID:explore_courses93f97c8d-d2af-4c89-b9fe-4c5765afa7da
-DTSTAMP:20160925T011638
+LAST-MODIFIED:20170109T213648
+UID:explore_coursesd776224c-bbbe-4d9a-87c6-4479163c92a0
+DTSTAMP:20170109T213648
 LOCATION:100-101K
 DESCRIPTION:Applied Physics Core course appropriate for graduate students and advanced undergraduate students with prior knowledge of elementary quantum mechanics, electricity and magnetism, and special relativity. Interaction of electrons with intense electromagnetic fields from microwaves to x- ray, including electron accelerators, x-ray lasers and synchrotron light sources, attosecond laser-atom interactions, and x-ray matter interactions. Mechanisms of radiation, free-electron lasing, and advanced techniques for generating ultrashort brilliant pulses. Characterization of electronic properties of advanced materials, prospects for single-molecule structure determination using x-ray lasers, and imaging attosecond molecular dynamics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS201 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20160925T011638
+CREATED:20170109T213648
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

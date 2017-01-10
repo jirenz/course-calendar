@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T182000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses83ffb6d1-bdcb-4ebc-be59-3fa36e6d6cea
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_courses348e1c6d-f9bb-489e-8fbe-5ae3801c2710
+DTSTAMP:20170109T213829
 LOCATION:200-305
 DESCRIPTION:Priority given to first-year Computer Science Ph.D. students. CS Masters students admitted if space is available.  Presentations by members of the department faculty, each describing informally his or her current research interests and views of computer science as a whole.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS300 SEM
 DTSTART;TZID=America/Los_Angeles:20160926T163000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

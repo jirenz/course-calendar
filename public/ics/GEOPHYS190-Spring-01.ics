@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T112000
-LAST-MODIFIED:20160925T011606
-UID:explore_coursesce77b894-0da9-48fe-86be-4fed2d7ee413
-DTSTAMP:20160925T011606
+LAST-MODIFIED:20170109T213852
+UID:explore_coursesd9b4b7dd-740d-46f6-a7ea-9654407de06d
+DTSTAMP:20170109T213852
 LOCATION:Mitch372
 DESCRIPTION:Introduction to the integration of geophysical field measurements and laboratory measurements for imaging and characterizing the top 100 meters of Earth.  Examples will focus on applications related to water resource management.  The link between the measured geophysical properties of rocks, soils, and sediments, and their material properties. Forward modeling and inversion of geophysical data sets. Each week includes two hours of lectures; plus one two-hour lab that involves acquisition of field or lab data, or computer modeling/analysis of data. Pre-requisite: CME 100 or Math 51, or co-registration in either.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS190 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20160925T011606
+CREATED:20170109T213852
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

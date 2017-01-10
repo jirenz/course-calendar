@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T132000
-LAST-MODIFIED:20160925T011615
-UID:explore_courses037fce2e-fef0-43c6-b322-bfefaea111b2
-DTSTAMP:20160925T011615
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170110T132000
+LAST-MODIFIED:20170109T213902
+UID:explore_courses6aa7ece6-90ae-4fe7-8c28-0b78d550c6ad
+DTSTAMP:20170109T213902
+LOCATION:CCSR 0235
 DESCRIPTION:Second in a three-quarter seminar series is the core tutorial for first-year Health Policy and Health Services Research graduate students. Major themes in fields of study including health insurance, healthcare financing and delivery, health systems and reform and disparities in the US and globally, health and economic development, health law and policy, resource allocation, efficiency and equity, healthcare quality, measurement and the efficacy and effectiveness of interventions. Blocks of session led by Stanford expert faculty in particular fields of study.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED215B SEM
-DTSTART;TZID=America/Los_Angeles:20170111T113000
-CREATED:20160925T011615
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170110T113000
+CREATED:20170109T213902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170111T162000
-LAST-MODIFIED:20160925T011714
-UID:explore_coursesa6d5dc8c-6a44-47e3-8c48-6bfcf0473017
-DTSTAMP:20160925T011714
+LAST-MODIFIED:20170109T213805
+UID:explore_courses8787eec0-e991-46b9-8fac-9a1c549bea49
+DTSTAMP:20170109T213805
 LOCATION:420-419
 DESCRIPTION:This seminar will discuss the state of the art in methods for the modeling and analysis of functional magnetic resonance imaging data.  Potential topics include connectivity modeling, causal modeling, multivariate pattern analysis, encoding models, and classification analysis. The seminar will include hands-on analysis exercises in addition to lectures.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH248 SEM
 DTSTART;TZID=America/Los_Angeles:20170111T133000
-CREATED:20160925T011714
+CREATED:20170109T213805
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

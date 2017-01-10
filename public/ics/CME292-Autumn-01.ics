@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20161004T102000
-LAST-MODIFIED:20160925T011628
-UID:explore_coursesdee917fe-f085-4f16-b6fa-390880afb673
-DTSTAMP:20160925T011628
+LAST-MODIFIED:20170109T213823
+UID:explore_coursesdf191208-c259-41e1-b0f6-928fa0984197
+DTSTAMP:20170109T213823
 LOCATION:160-322
 DESCRIPTION:Short course running first four weeks of the quarter (8 lectures) with interactive lectures and application based assignment.  Students will be introduced to advanced MATLAB features, syntaxes, and toolboxes not traditionally found in introductory courses.  Material will be reinforced with in-class examples, demos, and homework assignment involving topics from scientific computing. MATLAB topics will be drawn from: advanced graphics (2D/3D plotting, graphics handles, publication quality graphics, animation), MATLAB tools (debugger, profiler), code optimization (vectorization, memory management), object-oriented programming, compiled MATLAB (MEX files and MATLAB coder), interfacing with external programs, toolboxes (optimization, parallel computing, symbolic math, PDEs).  Scientific computing topics will include: numerical linear algebra, numerical optimization, ODEs, and PDEs.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME292 WKS
 DTSTART;TZID=America/Los_Angeles:20161004T090000
-CREATED:20160925T011628
+CREATED:20170109T213823
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161025T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

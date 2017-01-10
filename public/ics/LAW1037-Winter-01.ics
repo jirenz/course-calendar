@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T145000
+LAST-MODIFIED:20170109T213846
+UID:explore_courses7f0c00e2-0f52-42bf-97da-083fb3929632
+DTSTAMP:20170109T213846
+LOCATION:GSB McClelland 104
+DESCRIPTION:(Formerly Law 487)  This course was originally designed to provide an overview of the crisis in financial markets that began in 2007, and of the various policies that were devised in response to the crisis' both short-term stabilization efforts and longer-term regulatory reform. However, as time goes on the course has evolved to spend less time on a historical review of those past events (though they are still significant and worth studying) and more time looking at the present and the future. We will be more focused on process --- thinking through the things we analyze --- rather than in making sure we cover a fully comprehensive set of topics. We have guest speakers for about half of the classes. The list changes from year to year, but here is 2016's list: Tanya Beder, Kevin Warsh, Ron Beck, David Booth, Jay Crandall, Tom Kempner, Katie Hall, Hal Varian, and Larry Summers.  Elements used in grading:  No Exam. Participation 50% Projects/Papers 50%.  Mandatory attendance. Absences impact grade.  Cross-listed with Graduate School of Business (MGTECON 343).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW1037 SEM
+DTSTART;TZID=America/Los_Angeles:20170110T133000
+CREATED:20170109T213846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

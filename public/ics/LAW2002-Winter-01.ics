@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T123000
-LAST-MODIFIED:20160925T011603
-UID:explore_coursesf44a383a-aa53-44fe-9ffa-3e2191d6d209
-DTSTAMP:20160925T011603
-LOCATION:
-DESCRIPTION:(Formerly Law 312)  The law school offers two survey courses dealing with constitutional criminal procedure. &quot;Criminal Adjudication&quot; covers the formal pretrial and trial processes, including the right of counsel, prosecutorial charging criteria, grand juries, bail, speedy trial, discovery, plea bargaining, trial by jury, and double jeopardy. This course, &quot;Criminal Investigation,&quot; covers police investigation in the form of searches and seizures, interrogations, lineups, and undercover operations, and hence examines the Fourth and Fifth (and, to a limited extent, the Sixth) Amendment rules regulating the police in these endeavors.  Students may take both Criminal Investigation and Criminal Adjudication. (There is, of course, no requirement to do so.) Elements used in grading: Final exam (in-school, open book), plus small adjustments for exceptional class participation.
+LAST-MODIFIED:20170109T213846
+UID:explore_coursese48439e2-d1b8-4d02-9b55-602bc500e95e
+DTSTAMP:20170109T213846
+LOCATION:Law190
+DESCRIPTION:(Formerly Law 312) The law school offers two survey courses dealing with constitutional criminal procedure.  This course, &quot;Criminal Investigation,&quot; covers the constitutional restrictions on police investigations, especially searches, seizures, and interrogations.  &quot;Criminal Adjudication&quot; covers the rules governing judicial proceedings following arrest or formal criminal charges.  Neither course is a prerequisite for the other.  Grades in this class will be based on an in-class, partial open-book final exam.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW2002 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T111000
-CREATED:20160925T011603
+CREATED:20170109T213846
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T123000;BYDAY=MO,TU,WE
 END:VEVENT
 END:VCALENDAR

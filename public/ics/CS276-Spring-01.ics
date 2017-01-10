@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T175000
-LAST-MODIFIED:20160925T011630
-UID:explore_coursesb53c9c17-0a1e-4aa3-a1db-e0f3d11d6086
-DTSTAMP:20160925T011630
-LOCATION:
+LAST-MODIFIED:20170109T213829
+UID:explore_coursesd06bffa1-f221-4b5d-915f-b2d1c0e0946e
+DTSTAMP:20170109T213829
+LOCATION:NVIDIA Auditorium
 DESCRIPTION:Text information retrieval systems; efficient text indexing; Boolean, vector space, and probabilistic retrieval models; ranking and rank aggregation; evaluating IR systems; text clustering and classification; Web search engines including crawling and indexing, link-based algorithms, web metadata, and question answering; distributed word representations. Prerequisites: CS 107, CS 109, CS 161.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS276 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T163000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses6b9609b6-ec17-43fe-a1c6-1ea87ee693b0
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213834
+UID:explore_courses2b0b100b-26f3-4c11-805d-44daf617a5a8
+DTSTAMP:20170109T213834
 LOCATION:380-380D
 DESCRIPTION:Introduction of core algorithmic techniques and proof strategies that underlie the best known provable guarantees for minimizing high dimensional convex functions. Focus on broad canonical optimization problems and survey results for efficiently solving them, ultimately providing the theoretical foundation for further study in optimization. In particular, focus will be on first-order methods for both smooth and non-smooth convex function minimization as well as methods for structured convex function minimization, discussing algorithms such as gradient descent, accelerated gradient descent, mirror descent, Newton's method, interior point methods, and more. Prerequisite: 111 or 211, or equivalent
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E213 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

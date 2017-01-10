@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20160925T011624
-UID:explore_coursesfb4e98b7-ba41-4248-bee5-c4bfa43a6ed5
-DTSTAMP:20160925T011624
+LAST-MODIFIED:20170109T213818
+UID:explore_courses3fef30f4-15e2-47f3-b256-109774ed88fd
+DTSTAMP:20170109T213818
 LOCATION:Huang Engineerig Center 18
 DESCRIPTION:For M.S.-level graduate students. Covers the hierarchy of mathematical models for compressible flows. Introduction to finite difference, finite volume, and finite element methods for their computation. Ideal potential flow; transonic potential flow; Euler equations; Navier-Stokes equations; representative model problems; shocks, expansions, and contact discontinuities; treatment of boundary conditions; time and pseudo-time integration schemes. Prerequisites: basic knowledge of linear algebra and ODEs (CME 206 or equivalent).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA214B LEC
 DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20160925T011624
+CREATED:20170109T213818
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

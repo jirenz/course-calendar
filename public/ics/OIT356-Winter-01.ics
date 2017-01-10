@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T175000
-LAST-MODIFIED:20160925T011559
-UID:explore_coursesd6c9aa65-55ed-420a-beb2-b05ddd2755d1
-DTSTAMP:20160925T011559
-LOCATION:
-DESCRIPTION:The course focuses on the analysis and design of business models that are enabled by information technology.  It considers the impact of information technology on multiple industries and how you can take advantage of new opportunities that are enabled by new technologies. nThe course is a compressed 2-unit course, with three double-sessions during the first week of the course and three double-sessions during the third week. During the intermediate week, students work on a final project where they design or analyze a business model. nnEach double-session analyzes a different aspect of business models that are enabled by information technology. Topics include online platforms, business models for online retail, electronic commerce logistics, disruptive technologies, value chain coordination in healthcare, and mobile value chains.nnThe course requires a strong analytic background and knowledge of fundamental aspects of information technology. MSx students may petition to take the course.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:OIT356 CAS
-DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20160925T011559
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170113T175000;BYDAY=MO,WE,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170123T175000
-LAST-MODIFIED:20160925T011559
-UID:explore_coursesd21b10b6-4605-4c72-8107-e3b342566a4b
-DTSTAMP:20160925T011559
+LAST-MODIFIED:20170109T213843
+UID:explore_coursesf40fddd0-5087-492c-b34f-587e28bdb24f
+DTSTAMP:20170109T213843
 LOCATION:
 DESCRIPTION:The course focuses on the analysis and design of business models that are enabled by information technology.  It considers the impact of information technology on multiple industries and how you can take advantage of new opportunities that are enabled by new technologies. nThe course is a compressed 2-unit course, with three double-sessions during the first week of the course and three double-sessions during the third week. During the intermediate week, students work on a final project where they design or analyze a business model. nnEach double-session analyzes a different aspect of business models that are enabled by information technology. Topics include online platforms, business models for online retail, electronic commerce logistics, disruptive technologies, value chain coordination in healthcare, and mobile value chains.nnThe course requires a strong analytic background and knowledge of fundamental aspects of information technology. MSx students may petition to take the course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT356 CAS
 DTSTART;TZID=America/Los_Angeles:20170123T150000
-CREATED:20160925T011559
+CREATED:20170109T213843
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170127T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T175000
+LAST-MODIFIED:20170109T213843
+UID:explore_coursesd5738ab5-b2d0-41be-be83-ed4545b9c68f
+DTSTAMP:20170109T213843
+LOCATION:GSB Patterson 102
+DESCRIPTION:The course focuses on the analysis and design of business models that are enabled by information technology.  It considers the impact of information technology on multiple industries and how you can take advantage of new opportunities that are enabled by new technologies. nThe course is a compressed 2-unit course, with three double-sessions during the first week of the course and three double-sessions during the third week. During the intermediate week, students work on a final project where they design or analyze a business model. nnEach double-session analyzes a different aspect of business models that are enabled by information technology. Topics include online platforms, business models for online retail, electronic commerce logistics, disruptive technologies, value chain coordination in healthcare, and mobile value chains.nnThe course requires a strong analytic background and knowledge of fundamental aspects of information technology. MSx students may petition to take the course.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OIT356 CAS
+DTSTART;TZID=America/Los_Angeles:20170109T150000
+CREATED:20170109T213843
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170113T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

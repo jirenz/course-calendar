@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T175000
-LAST-MODIFIED:20160925T011610
-UID:explore_courses8cf892b4-429b-44e9-9aaf-d72a38d92db2
-DTSTAMP:20160925T011610
+LAST-MODIFIED:20170109T213854
+UID:explore_courses1ec6a6ae-bd8b-429a-b5c5-06419745dddb
+DTSTAMP:20170109T213854
 LOCATION:
 DESCRIPTION:Discussions with Biochemistry faculty on their research careers.  Getting to know the faculty, how they think, what drives them, how they chose their directions, and how they made tactical and strategic research decisions along the way.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOC257 SEM
 DTSTART;TZID=America/Los_Angeles:20160926T163000
-CREATED:20160925T011610
+CREATED:20170109T213854
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

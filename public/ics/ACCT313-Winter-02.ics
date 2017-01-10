@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20160925T011557
-UID:explore_courses7d94adab-f98f-40e4-a1ca-1ad2a17becb1
-DTSTAMP:20160925T011557
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170110T175000
+LAST-MODIFIED:20170109T213840
+UID:explore_coursesb5377d19-11ab-4ae4-ab75-3d9cf7357961
+DTSTAMP:20170109T213840
+LOCATION:GSB McClelland 109
 DESCRIPTION:This course is designed to develop students' ability to interpret and use financial accounting information in an equity valuation context. The perspective taken is that of an outsider relying on publicly available financial information for investment purposes.  The course relies heavily upon financial statement analysis tools and the residual income framework for equity valuation.  Through lectures, in-depth case studies, and real-time exercises, the first half of the course covers traditional financial statement analysis-based tools for critically analyzing and assessing a firm's current financial performance and economic condition, including ratio analysis, accounting quality analysis and financial distress / bankruptcy prediction models.  The second half of the course introduces the accounting-based valuation framework and develops the link between financial statement analysis, forecasting and equity valuation.  The capstone to the course is the completion of a comprehensive, real-time valuation of a publicly traded firm (or registered IPO candidate).  The course is structured for students to gain a deeper understanding of the economic pressures behind the valuation creation and valuation process, and will be useful to those students who anticipate making investment or credit decisions at least partially based on historical and prospective financial statement information.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ACCT313 CAS
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20160925T011557
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170110T163000
+CREATED:20170109T213840
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170114T173000
-LAST-MODIFIED:20160925T011615
-UID:explore_coursesd6d98c82-7571-4fb6-b745-27c52f876d3d
-DTSTAMP:20160925T011615
-LOCATION:
-DESCRIPTION:The quality of health care often depends as much on the interpreter as the provider. This foundation courses prepares bilingual students to work as medical interpreters in hospital and clinic settings. Students learn basic interpreting skills; ethics; communication techniques; medical vocabulary; key healthcare information; communication skills for advocacy; how to draft practical, working solutions, and professional development. By application only; must be an accepted Cardinal Free Clinic (CFC) interpreter volunteer. Applications accepted in Fall for Winter quarter and in Winter for Spring quarter. Students registering for this 2-unit course are required to interpret at the clinic a minimum of 2 weekend sessions; upon completion of this course, students can continue to volunteer at CFC for academic credit.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:MED149 LEC
-DTSTART;TZID=America/Los_Angeles:20170114T093000
-CREATED:20160925T011615
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T173000;BYDAY=SA
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170113T170000
-LAST-MODIFIED:20160925T011615
-UID:explore_courses74f1ac6a-0280-43a2-8f8b-ba2ba2adf092
-DTSTAMP:20160925T011615
+LAST-MODIFIED:20170109T213902
+UID:explore_courses3ecde7be-1f61-4b08-bc88-c1cee06d12e8
+DTSTAMP:20170109T213902
 LOCATION:
 DESCRIPTION:The quality of health care often depends as much on the interpreter as the provider. This foundation courses prepares bilingual students to work as medical interpreters in hospital and clinic settings. Students learn basic interpreting skills; ethics; communication techniques; medical vocabulary; key healthcare information; communication skills for advocacy; how to draft practical, working solutions, and professional development. By application only; must be an accepted Cardinal Free Clinic (CFC) interpreter volunteer. Applications accepted in Fall for Winter quarter and in Winter for Spring quarter. Students registering for this 2-unit course are required to interpret at the clinic a minimum of 2 weekend sessions; upon completion of this course, students can continue to volunteer at CFC for academic credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED149 LEC
 DTSTART;TZID=America/Los_Angeles:20170113T130000
-CREATED:20160925T011615
+CREATED:20170109T213902
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T170000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170114T173000
+LAST-MODIFIED:20170109T213902
+UID:explore_courses8505b9a4-4ad2-45a8-a2c4-9ea2fb048b20
+DTSTAMP:20170109T213902
+LOCATION:
+DESCRIPTION:The quality of health care often depends as much on the interpreter as the provider. This foundation courses prepares bilingual students to work as medical interpreters in hospital and clinic settings. Students learn basic interpreting skills; ethics; communication techniques; medical vocabulary; key healthcare information; communication skills for advocacy; how to draft practical, working solutions, and professional development. By application only; must be an accepted Cardinal Free Clinic (CFC) interpreter volunteer. Applications accepted in Fall for Winter quarter and in Winter for Spring quarter. Students registering for this 2-unit course are required to interpret at the clinic a minimum of 2 weekend sessions; upon completion of this course, students can continue to volunteer at CFC for academic credit.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED149 LEC
+DTSTART;TZID=America/Los_Angeles:20170114T093000
+CREATED:20170109T213902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T173000;BYDAY=SA
 END:VEVENT
 END:VCALENDAR

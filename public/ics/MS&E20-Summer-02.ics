@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170626T132000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses262112a4-83d7-4b60-8a5d-1b718da29d61
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213834
+UID:explore_courses21058c52-147a-4da9-8aed-e088bcd3d897
+DTSTAMP:20170109T213834
 LOCATION:
-DESCRIPTION:Concepts and tools for the analysis of problems under uncertainty, focusing on structuring, model building, and analysis.  Examples from legal, social, medical, and physical problems. Topics include axioms of probability, probability trees, belief networks, random variables, conditioning, and expectation.
+DESCRIPTION:Fundamental concepts and tools for the analysis of problems under uncertainty, focusing on structuring, model building, and analysis. Examples from legal, social, medical, and physical problems. Topics include axioms of probability, probability trees, belief networks, random variables, conditioning, and expectation. The course is fast-paced, but it has no prerequisites.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E20 DIS
 DTSTART;TZID=America/Los_Angeles:20170626T123000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

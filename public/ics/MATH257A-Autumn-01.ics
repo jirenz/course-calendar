@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20160925T011707
-UID:explore_coursesbb97c1b1-9c95-4955-a82d-c41b4305ac48
-DTSTAMP:20160925T011707
+LAST-MODIFIED:20170109T213755
+UID:explore_coursesc9b9a0f4-05bd-4059-a2dc-e24292abceff
+DTSTAMP:20170109T213755
 LOCATION:380-380W
 DESCRIPTION:Linear symplectic geometry and linear Hamiltonian systems. Symplectic manifolds and their Lagrangian submanifolds, local properties. Symplectic geometry and mechanics. Contact geometry and contact manifolds. Relations between symplectic and contact manifolds. Hamiltonian systems with symmetries. Momentum map and its properties. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH257A LEC
 DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20160925T011707
+CREATED:20170109T213755
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

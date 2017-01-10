@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T132000
-LAST-MODIFIED:20160925T011640
-UID:explore_courses319e6c53-4aa0-4555-be40-13da0678678d
-DTSTAMP:20160925T011640
+DTEND;TZID=America/Los_Angeles:20170113T152000
+LAST-MODIFIED:20170109T213657
+UID:explore_coursesbf79538c-28f5-4c59-a6c6-257fd34ba16f
+DTSTAMP:20170109T213657
 LOCATION:McMurtry Building rm 130
 DESCRIPTION:This course is designed to develop diversity of concepts and strategies within the student's artistic practice.  The course includes a survey of artists using different media taught in the department's studio program such as painting, drawing, video and digital art, printmaking, photography, and sculpture. This seminar-style class seeks to expand the artistic practice outside of traditional media boundaries and focuses on the translation of concepts across various media. Priority to Art Practice majors and minors. (upper level)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTSTUDI230 PRA
-DTSTART;TZID=America/Los_Angeles:20170113T103000
-CREATED:20160925T011640
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170113T123000
+CREATED:20170109T213657
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

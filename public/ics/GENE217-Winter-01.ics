@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20160925T011613
-UID:explore_coursesabf18518-a8e2-4ffb-bf03-78d32e932a85
-DTSTAMP:20160925T011613
-LOCATION:Herrin T195
+LAST-MODIFIED:20170109T213858
+UID:explore_coursesa4e076a8-b91f-4923-8c5c-56382d0598e3
+DTSTAMP:20170109T213858
+LOCATION:Gates B3
 DESCRIPTION:(Same as BIOMEDIN 217, CS 275) Analytic, storage, and interpretive methods to optimize the transformation of genetic, genomic, and biological data into diagnostics and therapeutics for medicine. Topics: access and utility of publicly available data sources; types of genome-scale measurements in molecular biology and genomic medicine; analysis of microarray data; analysis of polymorphisms, proteomics, and protein interactions; linking genome-scale data to clinical data and phenotypes; and new questions in biomedicine using bioinformatics. Case studies. Prerequisites: programming ability at the level of CS 106A and familiarity with statistics and biology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE217 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20160925T011613
+CREATED:20170109T213858
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

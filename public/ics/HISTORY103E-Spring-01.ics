@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20160925T011703
-UID:explore_courses5039e1ae-0765-4e96-a7d1-bb70cc201060
-DTSTAMP:20160925T011703
-LOCATION:200-030
+DTEND;TZID=America/Los_Angeles:20170403T102000
+LAST-MODIFIED:20170109T213749
+UID:explore_coursese1bde231-7dcb-4132-a020-fbd1864a0cf9
+DTSTAMP:20170109T213749
+LOCATION:Huang Engineerig Center 18
 DESCRIPTION:An introduction to the history of nuclear weapons from World War II to the present. The focus is on politics, but the role of technology transfer, whether legal or illicit, in the development of nuclear weapons will be examined; so too will the theories about the military and political utility of nuclear weapons.  We will look at the efforts to control and abolish nuclear weapons and at the international institutions created to reduce the danger of nuclear war.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY103E LEC
-DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20160925T011703
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,TU,WE,TH
+DTSTART;TZID=America/Los_Angeles:20170403T093000
+CREATED:20170109T213749
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=MO,TU,WE,TH
 END:VEVENT
 END:VCALENDAR

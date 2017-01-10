@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T115000
-LAST-MODIFIED:20160925T011717
-UID:explore_coursesf71f1502-946e-421b-920c-76710ae0a435
-DTSTAMP:20160925T011717
-LOCATION:School of Education 41
+DTEND;TZID=America/Los_Angeles:20170109T122000
+LAST-MODIFIED:20170109T213810
+UID:explore_courseseef3aead-c360-4720-b0b5-caeab0dd13bc
+DTSTAMP:20170109T213810
+LOCATION:Bolivar House
 DESCRIPTION:Continuation of SPECLANG 101A. Distance learning combined with periodic on-site instruction, conducted primarily in Nahuatl. Course emphasizes developing effective communication at a basic level, covering grammatical structures, vocabulary, and sentence patterns through speaking, reading, writing, and listening in everyday situations. Nahuatl culture. Some knowledge of Spanish is useful. Prerequisite: SPECLANG 101A or consent of instructor
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPECLANG101B LNG
 DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20160925T011717
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=MO,WE,FR
+CREATED:20170109T213810
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

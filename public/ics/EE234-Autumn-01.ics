@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses82e8b4c4-5421-4307-93c1-fa1dc8ea8b4f
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_coursesafdbb995-7ef5-47b3-a4a1-462169726e53
+DTSTAMP:20170109T213832
 LOCATION:SpilkerEng&AppliedSci143
 DESCRIPTION:Photonics and fiber optics with a focus on communication and sensing. Experimental characterization of semiconductor lasers, optical fibers, photodetectors, receiver circuitry, fiber optic links, optical amplifiers, and optical sensors and photonic crystals. Prerequisite: EE 242 or equivalent.  Recommended: EE 236A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE234 LAB
 DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

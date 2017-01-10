@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170717T142000
-LAST-MODIFIED:20160925T011611
-UID:explore_coursesc96e249b-bd45-4668-a0b8-d11af4e6efd0
-DTSTAMP:20160925T011611
+LAST-MODIFIED:20170109T213855
+UID:explore_coursesd9ccb568-616f-40a4-8464-041f657f78cc
+DTSTAMP:20170109T213855
 LOCATION:
 DESCRIPTION:Plant anatomy and cell biology.  This two-week mini course will introduce the cell types of major organ systems in flowering plants through lectures and readings.  Classic and modern techniques to highlight plant cell structures and dynamic processes such as changes in hormone concentration and microtubule dynamics will be presented in laboratory sections immediately following each lecture.  Limited to 8 registered students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS261 LEC
 DTSTART;TZID=America/Los_Angeles:20170717T133000
-CREATED:20160925T011611
+CREATED:20170109T213855
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170728T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170407T145000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses8994a3a9-e031-46bc-8157-2b3d77636fdc
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213834
+UID:explore_courses973aff15-8019-446a-9efa-cb155b0578f3
+DTSTAMP:20170109T213834
 LOCATION:200-201
 DESCRIPTION:Formulation and analysis of linear optimization problems. Solution using Excel solver. Polyhedral geometry and duality theory. Applications to contingent claims analysis, production scheduling, pattern recognition, two-player zero-sum games, and network flows. Prerequisite: CME 100 or MATH 51.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E111 DIS
 DTSTART;TZID=America/Los_Angeles:20170407T133000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

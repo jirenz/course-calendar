@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170111T145000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses52442a16-4349-4a20-8c91-2e26becf1a7c
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213834
+UID:explore_courses75d210aa-cf10-4380-bc1b-e0b6c2eacb76
+DTSTAMP:20170109T213834
 LOCATION:ScienceTeachingLearningCntr115
 DESCRIPTION:Understanding how to sell and scale dual-use technologies in the business-to-government (B2G) market. Dual-use technologies are viable consumer and commercial technologies with relevance in government, or B2G, marketplaces. Government technology needs, government acquisitions channels, and how to locate and access government funding. Students gain exposure to Silicon Valley venture investors familiar with funding dual-use technologies. Topics introduced are particularly relevant to technology researchers in academia, founders of technology companies, and future employees of startups pursuing dual-use technologies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E477 SEM
 DTSTART;TZID=America/Los_Angeles:20170111T133000
-CREATED:20160925T011633
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=WE
+CREATED:20170109T213834
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

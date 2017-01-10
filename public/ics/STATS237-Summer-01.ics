@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170627T102000
-LAST-MODIFIED:20160925T011718
-UID:explore_courses4d08b377-c555-44b1-a3fa-31e97059d66c
-DTSTAMP:20160925T011718
+LAST-MODIFIED:20170109T213811
+UID:explore_coursesb3491526-50ca-4100-aa67-e7c7810d284f
+DTSTAMP:20170109T213811
 LOCATION:
-DESCRIPTION:Asset returns and their volatilities. Markowitz&iquest;s portfolio theory, capital asset pricing model, multifactor pricing models. Measures of market risk. Financial derivatives and hedging. Black&iquest;Scholes pricing of European options. Valuation of American options. Implied volatility and the Greeks. Prerequisite: STATS 116 or equivalent
+DESCRIPTION:Asset returns and their volatilities. Markowitz portfolio theory, capital asset pricing model, multifactor pricing models. Measures of market risk. Financial derivatives and hedging. Black-Scholes pricing of European options. Valuation of American options. Implied volatility and the Greeks. Prerequisite: STATS 116 or equivalent
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS237 LEC
 DTSTART;TZID=America/Los_Angeles:20170627T090000
-CREATED:20160925T011718
+CREATED:20170109T213811
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

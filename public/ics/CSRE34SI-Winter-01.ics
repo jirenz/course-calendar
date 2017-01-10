@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170112T202000
+LAST-MODIFIED:20170109T213726
+UID:explore_courses85502d12-406f-4491-b229-465185496eb7
+DTSTAMP:20170109T213726
+LOCATION:School of Education 230
+DESCRIPTION:By the year 2050, Latinos will make up a quarter of the United States population, doubling in its current size. Without a doubt, this increase in population is sure to affect American economy and policy. Unfortunately, Latinos seem to be on the slow path to social mobility in the United States, and face many setbacks as a community. More specifically, the Latinx pupil dropout rate is the highest amongst all ethnic groups. While Latinos are enrolling in college at higher rates than ever before they are not graduating with four-year degrees as often as other students. Our course will cover the dynamic linguistic, cultural, and economic themes involved in this discourse. We will reimagine citizenship as it pertains to accessing higher education and discuss tracks and pipelines that have lead Latinx students to different outlets. More specifically, we will cover the impact that location and environment have on a pupil's perception of themselves and their capabilities, while also reflecting on Chicago's history of education and racial segregation.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CSRE34SI ACT
+DTSTART;TZID=America/Los_Angeles:20170112T183000
+CREATED:20170109T213726
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T202000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

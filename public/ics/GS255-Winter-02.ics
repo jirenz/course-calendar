@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20160925T011606
-UID:explore_coursesae93f4e8-3ed2-427d-875b-4303c0d861cc
-DTSTAMP:20160925T011606
+LAST-MODIFIED:20170109T213852
+UID:explore_courses86846ff0-7fe6-40f2-8239-ec8b133eb863
+DTSTAMP:20170109T213852
 LOCATION:
 DESCRIPTION:For advanced undergraduates or graduate students. Students use stratigraphy, subsurface maps, and basic well log, lithologic, paleontologic, and geochemical data to construct 1-D, 2-D, and 3-D models of petroleum systems that predict the extent of source-rock thermal maturity, petroleum migration paths, and the volumes and compositions of accumulations through time (4-D). Recent software such as PetroMod designed to reconstruct basin geohistory. Recommended: 251 or 253.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GS255 LBS
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011606
+CREATED:20170109T213852
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

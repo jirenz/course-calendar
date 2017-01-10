@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160928T212000
-LAST-MODIFIED:20160925T011718
-UID:explore_coursese24f774c-5058-44e8-9325-4bb7d1bea643
-DTSTAMP:20160925T011718
+LAST-MODIFIED:20170109T213811
+UID:explore_coursesc6d05e31-9e33-4f52-81b6-43976fc814a1
+DTSTAMP:20170109T213811
 LOCATION:460-126
 DESCRIPTION:Parallel exploration of philosophical and computational approaches to modeling the construction of linguistic meaning.  In philosophy of language:  lexical sense extension, figurative speech, the semantics/pragmatics interface, contextualism debates.  In CS:  natural language understanding, from formal compositional models of knowledge representation to statistical and deep learning approaches.  We will develop an appreciation of the complexities of language understanding and communication; this will inform discussion of the broader prospects for Artificial Intelligence.  Special attention will be paid to epistemological questions on the nature of linguistic explanation, and the relationship between theory and practice. PREREQUISITES:  PHIL80; some exposure to philosophy of language and/or computational language processing is recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SYMSYS112 SEM
 DTSTART;TZID=America/Los_Angeles:20160928T183000
-CREATED:20160925T011718
+CREATED:20170109T213811
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T212000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

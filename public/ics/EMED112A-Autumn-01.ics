@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T200000
-LAST-MODIFIED:20160925T011612
-UID:explore_courses9c8d3bc8-2a5f-41f6-970d-c6e986e2f251
-DTSTAMP:20160925T011612
+LAST-MODIFIED:20170109T213858
+UID:explore_courses9112fa10-1814-4369-a3e2-303667e8d525
+DTSTAMP:20170109T213858
 LOCATION:
-DESCRIPTION:Ongoing training for current EMS providers. Students practice BLS assessments and medical care through simulated patient encounters. Topics include airway and stroke management, abdominal emergencies, prehospital pharmacology, and teaching skills. Students taking the course for 3 units also serve as teaching assistants for Surgery 111, the Stanford EMT training course. Prerequisites: SURG 111/211 A-C (or equivalent EMT Certification course), CPR-PR certification, and consent of instructor.
+DESCRIPTION:Ongoing training for current EMS providers. Students practice BLS assessments and medical care through simulated patient encounters. Topics include assessment and treatment of the undifferentiated trauma patient (including airway management, monitoring, and evaluation) and prehospital care in nontraditional locations. Students taking the course for units, also serve as teaching assistants for EMED 111, the Stanford EMT training course.  Prerequisites: EMED 111/211 A-C (or equivalent EMT Certification course), CPR-PR certification, and consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EMED112A LEC
 DTSTART;TZID=America/Los_Angeles:20160927T180000
-CREATED:20160925T011612
+CREATED:20170109T213858
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T200000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

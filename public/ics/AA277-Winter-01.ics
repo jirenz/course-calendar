@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T175000
-LAST-MODIFIED:20160925T011624
-UID:explore_courses40a03996-2af3-4406-9711-dd718d0e426d
-DTSTAMP:20160925T011624
+LAST-MODIFIED:20170109T213818
+UID:explore_coursesc7184ecb-758b-4e4d-866f-a1d8c40a97e1
+DTSTAMP:20170109T213818
 LOCATION:540-108
 DESCRIPTION:Survey of current research topics in multi-robot systems including multi-agent consensus, formation control, coverage control and sensor deployment, collision avoidance, cooperative mapping, and distributed Bayesian filtering.  Students will develop skills in evaluating and critiquing research papers, and will conduct a final research project.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA277 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T163000
-CREATED:20160925T011624
+CREATED:20170109T213818
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

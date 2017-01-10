@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses8e63d0b4-f44f-4083-8dda-79c7b2e51ea6
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_courses74ac06a0-894c-4165-a287-02d573ad426f
+DTSTAMP:20170109T213829
 LOCATION:School of Education 128
 DESCRIPTION:Algorithms for network optimization: max-flow, min-cost flow, matching, assignment, and min-cut problems. Introduction to linear programming. Use of LP duality for design and analysis of algorithms. Approximation algorithms for NP-complete problems such as Steiner Trees, Traveling Salesman, and scheduling problems. Randomized algorithms. Introduction to online algorithms. Prerequisite: 161 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS261 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

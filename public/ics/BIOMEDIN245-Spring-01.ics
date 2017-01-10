@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20160925T011611
-UID:explore_courses3a92194f-d4d4-4356-acec-8ce8bff568ab
-DTSTAMP:20160925T011611
+LAST-MODIFIED:20170109T213855
+UID:explore_courses1ead8033-af10-493a-bb85-0f36b901ced8
+DTSTAMP:20170109T213855
 LOCATION:ScienceTeachingLearningCntr105
 DESCRIPTION:Introduction to statistical and computational methods for genomics. Sample topics include: expectation maximization, hidden Markov model, Markov chain Monte Carlo, ensemble learning, probabilistic graphical models, kernel methods and other modern machine learning paradigms. Rationales and techniques illustrated with existing implementations used in population genetics, disease association, and functional regulatory genomics studies. Instruction includes lectures and discussion of readings from primary literature.  Homework and projects require implementing some of the algorithms and using existing toolkits for analysis of genomic datasets.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOMEDIN245 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20160925T011611
+CREATED:20170109T213855
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170407T162000
-LAST-MODIFIED:20160925T011625
-UID:explore_courses8de2fc5d-906f-4a78-bfbb-81d9b35a1d4f
-DTSTAMP:20160925T011625
+LAST-MODIFIED:20170109T213820
+UID:explore_coursesba443370-eef5-429a-a6b2-27e1c92f6f93
+DTSTAMP:20170109T213820
 LOCATION:Herrin T175
 DESCRIPTION:Overview of chemical engineering through discussion and engineering analysis of physical and chemical processes. Topics: overall staged separations, material and energy balances, concepts of rate processes, energy and mass transport, and kinetics of chemical reactions. Applications of these concepts to areas of current technological importance: biotechnology, energy, production of chemicals, materials processing, and purification. Prerequisite: CHEM 31.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG20 DIS
 DTSTART;TZID=America/Los_Angeles:20170407T153000
-CREATED:20160925T011625
+CREATED:20170109T213820
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

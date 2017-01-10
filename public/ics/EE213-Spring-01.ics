@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses53bbd121-3796-469b-ad86-757ff3cf3497
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_coursesafc0f816-84d5-4bbb-8dd3-6112b59034dd
+DTSTAMP:20170109T213832
 LOCATION:380-380X
 DESCRIPTION:Looks a little more deeply at how digital circuits operate, what makes a gate digital, and how to &quot;cheat&quot; to improve performance or power. To aid this analysis we create a number of different models for MOS transistors and choose the simplest one that can explain our the circuit's operation, using both hand and computer analysis. We explore static, dynamic, pulse-mode, and current mode logic, and show how they are are used in SRAM design. Topics include sizing for min delay, noise and noise margins, power dissipation. The class uses memory design (SRAM) as a motivating example. DRAM and EEPROM design issues are also covered.  Formerly EE 313.  Prerequisites: EE 101B, EE 108. Recommended: EE 271.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE213 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

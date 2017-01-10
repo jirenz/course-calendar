@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20160925T011711
-UID:explore_courses6027749c-6f68-485c-bf14-438c35d0eb4b
-DTSTAMP:20160925T011711
+LAST-MODIFIED:20170109T213802
+UID:explore_coursesd0110015-d32f-423d-b4fe-bb075e4bc992
+DTSTAMP:20170109T213802
 LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:Analog electronics including Ohm's law, passive circuits and transistor and op amp circuits, emphasizing practical circuit design skills to prepare undergraduates for laboratory research. Short design project. Minimal use of math and physics, no electronics experience assumed beyond introductory physics. Prerequisite: PHYSICS 43 or  PHYSICS 63.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS105 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20160925T011711
+CREATED:20170109T213802
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

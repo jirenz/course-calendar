@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T132000
-LAST-MODIFIED:20160925T011615
-UID:explore_courses2e3ca5a3-6850-405c-829d-01707f60c61e
-DTSTAMP:20160925T011615
+DTEND;TZID=America/Los_Angeles:20160928T132000
+LAST-MODIFIED:20170109T213902
+UID:explore_courses4da0ea0b-e511-4087-9e03-85402a7cf843
+DTSTAMP:20170109T213902
 LOCATION:50-52H
 DESCRIPTION:Course will cover various topics in health economics, from theoretical and empirical perspectives. Topics will include public financing and public policy in health care and health insurance; demand and supply of health insurance and healthcare; physicians' incentives; patient decision-making; competition policy in healthcare markets, intellectual property in the context of pharmaceutical drugs and medical technology; other aspects of interaction between public and private sectors in healthcare and health insurance markets. Key emphasis on recent work and empirical methods and modelling. Prerequisites: Micro and Econometrics first year sequences (or equivalent).nCurricular prerequisites (if applicable): First year graduate Microeconomics and Econometrics sequences (or equivalent)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED249 LEC
+DTSTART;TZID=America/Los_Angeles:20160928T113000
+CREATED:20170109T213902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T132000
+LAST-MODIFIED:20170109T213902
+UID:explore_courses7e43fb82-f43f-4c98-b090-f5c85ce6ccde
+DTSTAMP:20170109T213902
+LOCATION:50-52E
+DESCRIPTION:Course will cover various topics in health economics, from theoretical and empirical perspectives. Topics will include public financing and public policy in health care and health insurance; demand and supply of health insurance and healthcare; physicians' incentives; patient decision-making; competition policy in healthcare markets, intellectual property in the context of pharmaceutical drugs and medical technology; other aspects of interaction between public and private sectors in healthcare and health insurance markets. Key emphasis on recent work and empirical methods and modelling. Prerequisites: Micro and Econometrics first year sequences (or equivalent).nCurricular prerequisites (if applicable): First year graduate Microeconomics and Econometrics sequences (or equivalent)
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED249 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20160925T011615
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=MO,WE
+CREATED:20170109T213902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

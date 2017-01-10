@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20160925T011622
-UID:explore_courses625a7906-df0a-40c6-bbc2-fdf50c6183d9
-DTSTAMP:20160925T011622
+LAST-MODIFIED:20170109T213919
+UID:explore_courses4a66e0df-0642-46fa-b8b1-f72878182e87
+DTSTAMP:20170109T213919
 LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:Enrollment limited to seniors and graduate students. Comprises two parts, lecture and lab, both of which are required.  Lectures in regional anatomy and dissection of the human cadaver; the anatomy of the trunk and limbs through the dissection process, excluding the head and neck.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SURG101 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011622
+CREATED:20170109T213919
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses85113cf0-e9ee-49c4-ad55-6c7e146daed8
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213834
+UID:explore_courses791997f1-ca64-4e9f-ad53-e221e2316f1d
+DTSTAMP:20170109T213834
 LOCATION:380-380X
 DESCRIPTION:Combinatorial and mathematical programming (integer and non-linear) techniques for optimization. Topics: linear program duality and LP solvers; integer programming; combinatorial optimization problems on networks including minimum spanning trees, shortest paths, and network flows; matching and assignment problems; dynamic programming; linear approximations to convex programs; NP-completeness. Hands-on exercises. Prerequisites: 111 or MATH 103, CS 106A or X.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E112 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

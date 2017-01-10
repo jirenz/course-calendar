@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses4eaeb1da-679e-4deb-bc25-bd8caf02dd7f
-DTSTAMP:20160925T011633
-LOCATION:Thornt102
+LAST-MODIFIED:20170109T213834
+UID:explore_courses81611d6e-c929-47bb-a2fc-821ad78a4358
+DTSTAMP:20170109T213834
+LOCATION:Skillaud
 DESCRIPTION:Concepts and tools for the analysis of problems under uncertainty, focusing on model building and communication: the structuring, processing, and presentation of probabilistic information. Examples from legal, social, medical, and physical problems. Spreadsheets illustrate and solve problems as a complement to analytical closed-form solutions. Topics: axioms of probability, probability trees, random variables, distributions, conditioning, expectation, change of variables, and limit theorems. Prerequisite: CME 100 or MATH 51. Recommended: knowledge of spreadsheets.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E220 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

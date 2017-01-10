@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20160925T011627
-UID:explore_courses49f05cbb-abef-4eca-8cd2-931bc292e61f
-DTSTAMP:20160925T011627
+LAST-MODIFIED:20170109T213822
+UID:explore_coursesf219a440-0583-4fc9-87f2-21f596c4697b
+DTSTAMP:20170109T213822
 LOCATION:Shriram Ctr BioChemE 366
 DESCRIPTION:Flow and mass transport in porous media. Applications of potential flow theory and numerical modeling methods to practical groundwater problems: flow to and from wells, rivers, lakes, drainage ditches; flow through and under dams; streamline tracing; capture zones of wells; and mixing schemes for in-situ remediation. Prerequisites: calculus and introductory fluid mechanics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE268 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20160925T011627
+CREATED:20170109T213822
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

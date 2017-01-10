@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170221T181500
+LAST-MODIFIED:20170109T213845
+UID:explore_coursesc6eda6ef-d8ef-4f27-b722-6de0e34b8cc8
+DTSTAMP:20170109T213845
+LOCATION:GSB Faculty West 104
+DESCRIPTION:How do you get the best new social innovations to reach the hundreds of millions of people who need it the most? And how do ensure that they are developed, deployed and scaled in a way that is relevant, appropriate and sustainable?nnnInnovators tackling the world&acirc;s most difficult problems often ignore, misunderstand, and under-invest in the critical business challenges involved in crossing &acirc;the middle of the value chain.&acirc; This is innovation&acirc;s valley of death: product and system adaption and evaluation; evidence generation and design validation; business and partnership planning; formal or informal regulatory approval and registration. How do you design, introduce, and optimize the intervention&acirc;s uptake before it can be taken to scale by markets, governments or other systems? nnnThe class is taught be Steve Davis, President &amp; CEO of PATH (www.path.org), a leader in global health innovation, and former global Director of Social Innovation at McKinsey &amp; Company.nnnWe take an inter-disciplinary approach to look at the factors that pull innovation forward, push it from behind, and (often to the world&acirc;s detriment) block its successful implementation and scaling. First grounding the discussion in research on innovation and social change, we then apply business principles, real world experiences and several important case studies in global health to examine the way good ideas get stuck, and how good ideas can turn into innovation that matters. We focus on root causes for failure, success factors, and business practices and tools to enable millions of lives to be impacted by social innovation. The seminar combines lectures, case studies, visiting practitioners and team projects focused on the business case for scaling specific social innovations. The goal is to help the next generation of social innovation leaders think more about some of the mistakes of the past, lessons for the future, and new ways of approaching old problems, all from a practitioner&acirc;s point of view.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STRAMGT545 CAS
+DTSTART;TZID=America/Los_Angeles:20170221T163000
+CREATED:20170109T213845
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T181500;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

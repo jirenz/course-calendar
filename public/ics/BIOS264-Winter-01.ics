@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170122T170000
+LAST-MODIFIED:20170109T213855
+UID:explore_courses3c321135-0a11-4c3d-98fc-f5eac573c94d
+DTSTAMP:20170109T213855
+LOCATION:Li Ka Shing Center, room 120
+DESCRIPTION:This practical, interactive workshop will introduce participants to concepts, skills and tools for effective management and analysis of genomics data using R, an open source programming language. Topics will include cloud computing for genomics, the command line, data wrangling and processing, and data analysis and processing in R. Students will engage in hands on analyses of genomics data using the Data Carpentry workshop format (see datacarpentry.org). Participants must bring their own laptop, and should plan to participate actively. This class is for any researcher who has data they want to analyze. No prior computational experience is required.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS264 WKS
+DTSTART;TZID=America/Los_Angeles:20170122T080000
+CREATED:20170109T213855
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170122T170000;BYDAY=SU,SA
+END:VEVENT
+END:VCALENDAR

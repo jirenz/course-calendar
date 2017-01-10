@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T115000
-LAST-MODIFIED:20160925T011615
-UID:explore_courses8ef033f0-855c-4c12-88b9-e6a57e0b2283
-DTSTAMP:20160925T011615
-LOCATION:Li Ka Shing Center,rms101/102
-DESCRIPTION:First course in a two-course series exploring microbiology, pathogenesis, and clinical issues associated with infectious diseases. Patient cases springboard discussion on viral, bacterial, fungal, protozoal and helminthic pathogens. Online videos and self-assessments followed by interactive sessions and problem sets.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:INDE263 LEC
-DTSTART;TZID=America/Los_Angeles:20170112T113000
-CREATED:20160925T011615
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T112000
-LAST-MODIFIED:20160925T011615
-UID:explore_coursesa05f2f54-634b-48af-a0e3-028c36c83df9
-DTSTAMP:20160925T011615
+LAST-MODIFIED:20170109T213903
+UID:explore_courses293496eb-240b-4eb6-8374-4a55e3c8e2a0
+DTSTAMP:20170109T213903
 LOCATION:Li Ka Shing Center,rms101/102
 DESCRIPTION:First course in a two-course series exploring microbiology, pathogenesis, and clinical issues associated with infectious diseases. Patient cases springboard discussion on viral, bacterial, fungal, protozoal and helminthic pathogens. Online videos and self-assessments followed by interactive sessions and problem sets.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE263 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20160925T011615
+CREATED:20170109T213903
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

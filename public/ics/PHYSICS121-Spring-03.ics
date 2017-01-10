@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170407T145000
-LAST-MODIFIED:20160925T011711
-UID:explore_courses0531a0ae-849d-4d67-8054-195ef045d809
-DTSTAMP:20160925T011711
+LAST-MODIFIED:20170109T213802
+UID:explore_courses42880e8c-42b6-4d34-b70f-06681ab85208
+DTSTAMP:20170109T213802
 LOCATION:Green Earth Sciences150
 DESCRIPTION:Conservation laws and electromagnetic waves, Poynting's theorem, tensor formulation, potentials and fields.  Plane wave problems (free space, conductors and dielectric materials, boundaries). Dipole and quadruple radiation. Special relativity and transformation between electric and magnetic fields.  Prerequisites: PHYS 120 and MATH 131P or MATH 173; Recommended: PHYS 112.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS121 DIS
 DTSTART;TZID=America/Los_Angeles:20170407T133000
-CREATED:20160925T011711
+CREATED:20170109T213802
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

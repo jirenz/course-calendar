@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T122000
+LAST-MODIFIED:20170109T213758
+UID:explore_courses94809c36-9911-442e-946e-7a31640972c1
+DTSTAMP:20170109T213758
+LOCATION:Dinkelspiel  Rehearsal Room
+DESCRIPTION:Students to explore their creative voices by learning the practical nuts and bolts of making sounds with computers and professional audio equipment. Basic concepts include mixing and production techniques used in podcasts, documentaries, live performance, electronic music, and sound art. Students will create a midterm soundscape project as well as a final class project that is focused on their particular creative interests.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC101 LEC
+DTSTART;TZID=America/Los_Angeles:20170109T103000
+CREATED:20170109T213758
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20160925T011635
-UID:explore_courses7fc52103-0ad0-407c-aec7-56afd28af086
-DTSTAMP:20160925T011635
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170404T145000
+LAST-MODIFIED:20170109T213838
+UID:explore_courses62c61cb9-9c46-41a9-8368-ee76ed1b7e15
+DTSTAMP:20170109T213838
+LOCATION:380-380Y
 DESCRIPTION:Conservation equations. Thermodynamics of ideal gases. Isentropic flows. Crocco-Vazsonyi&iquest;s equation, creation and destruction of vorticity by compressibility effects. Acoustics and generation of sound by turbulence. Shock waves. Kovasznay's modal decomposition of compressible flow, linear and nonlinear modal interactions, interaction of turbulence with shock waves. Turbulent Mach number. Shocklets. Energetics of compressible turbulence, effects of compressibility on homogeneous turbulence, free-shear flows and turbulent boundary layers. Van Driest transformation, recovery temperature, and shock/boundary layer interaction. Strong Reynolds analogy. Subgrid-scale modeling for compressible turbulence. Hypervelocity flows. Prerequisites: Familiarity with compressible laminar flows (ME 355) and incompressible turbulence (ME 361), or consent of the instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME451C LEC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20160925T011635
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170404T133000
+CREATED:20170109T213838
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20160925T011707
-UID:explore_coursesd8f0cf13-d8a8-4e36-89cb-c297b8748c82
-DTSTAMP:20160925T011707
+LAST-MODIFIED:20170109T213755
+UID:explore_coursesd760646c-b2f4-44ea-b4fb-aefe44320150
+DTSTAMP:20170109T213755
 LOCATION:50-52H
 DESCRIPTION:Symmetric function theory unifies large parts of combinatorics. Theorems about permutations, partitions, and graphs now follow in a unified way. Topics: The usual bases (monomial, elementary, complete, and power sums). Schur functions. Representation theory of the symmetric group. Littlewood-Richardson rule, quasi-symmetric functions, combinatorial Hopf algebras, introduction to Macdonald polynomials. Throughout, emphasis is placed on applications (e.g. to card shuffling and random matrix theory).  Prerequisite: 210A and 210B, or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH263A LEC
 DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20160925T011707
+CREATED:20170109T213755
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

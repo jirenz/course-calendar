@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T112000
-LAST-MODIFIED:20160925T011635
-UID:explore_courses191f4024-fac1-4b87-b2c1-fe18715a2b71
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_courses4ebc30f4-7bd9-47e7-96e6-f11ce25c1b8a
+DTSTAMP:20170109T213838
 LOCATION:530-127
 DESCRIPTION:The application of dynamics, kinematics, and control theory to the analysis and design of ground vehicle behavior. Simplified models of ride, handling, and braking, their role in developing intuition, and limitations in engineering design. Suspension design fundamentals. Performance and safety enhancement through automatic control systems. In-car laboratory assignments for model validation and kinesthetic understanding of dynamics. Limited enrollment. Prerequisites: ENGR 105, consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME227 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T093000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

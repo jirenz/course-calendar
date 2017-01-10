@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T162000
-LAST-MODIFIED:20160925T011623
-UID:explore_coursesb887feb7-f350-4d4a-ab15-a7bdbd439157
-DTSTAMP:20160925T011623
-LOCATION:Li Ka Shing Center, rms304/305
-DESCRIPTION:Discusses the intersection of art and anatomy and provides the opportunity to explore one art medium in depth. Students select a medium from drawing, painting, sculpture, digital art and art appreciation, and work in small groups with a mentor artist.  Class time includes art instruction, creation and feedback.  May be repeated for credit. May be taken for 1-3 units; units awarded commensurate with project time. Prerequisites: SURG 203A, SURG 203B, or SURG 101.
+DTEND;TZID=America/Los_Angeles:20170406T162000
+LAST-MODIFIED:20170109T213919
+UID:explore_courses4dbbe8b7-481d-479b-bf78-565147328005
+DTSTAMP:20170109T213919
+LOCATION:CCSR0001
+DESCRIPTION:Lectures highlight the intersections and influences between human anatomy and art. Studio sessions provide an opportunity for students to immerse in anatomically inspired studio projects. Drawing, mixed media, and some painting mediums will be used during the studio sessions. Plastic models, dry bones, cadaveric specimens, and live models will be used for the studio sessions. Class time includes art instruction, creation and feedback. May be repeated for credit. Honing individual style is encouraged; both beginning and advanced students are welcome. Previous coursework in anatomy is recommended, but not required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SURG242 PRA
-DTSTART;TZID=America/Los_Angeles:20170405T133000
-CREATED:20160925T011623
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170406T133000
+CREATED:20170109T213919
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

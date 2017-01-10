@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20160925T011719
-UID:explore_courses517711f9-0e1d-4a56-b585-64b173f950ae
-DTSTAMP:20160925T011719
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170109T132000
+LAST-MODIFIED:20170109T213812
+UID:explore_coursesc411fce9-8163-4f49-9e7d-029fa99d42e7
+DTSTAMP:20170109T213812
+LOCATION:ROBLEG136
 DESCRIPTION:A substantive introduction to the basics of the craft of acting, this course gives all incoming students the foundation of a common vocabulary. Students will learn fundamental elements of dramatic analysis, and how to apply it in action.  Topics include scene analysis, environment work, psychological and physical scoring, and development of a sound and serviceable rehearsal technique.  Scene work will be chosen from accessible, contemporary, and realistic plays. Outside rehearsal time required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS120A PRC
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20160925T011719
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170109T113000
+CREATED:20170109T213812
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

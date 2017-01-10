@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20160925T011628
-UID:explore_courses26413130-1bb5-45ea-8ffc-838ad57b5697
-DTSTAMP:20160925T011628
-LOCATION:Gates B12
+LAST-MODIFIED:20170109T213823
+UID:explore_courses226c851d-8adb-4826-a252-bb985df3b6b8
+DTSTAMP:20170109T213823
+LOCATION:NVIDIA Auditorium
 DESCRIPTION:Convex sets, functions, and optimization problems. The basics of convex analysis and theory of convex programming: optimality conditions, duality theory, theorems of alternative, and applications. Least-squares, linear and quadratic programs, semidefinite programming, and geometric programming. Numerical algorithms for smooth and equality constrained problems; interior-point methods for inequality constrained problems. Applications to signal processing, communications, control, analog and digital circuit design, computational geometry, statistics, machine learning, and mechanical engineering. Prerequisite: linear algebra such as EE263, basic probability.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME364A LEC
 DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20160925T011628
+CREATED:20170109T213823
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

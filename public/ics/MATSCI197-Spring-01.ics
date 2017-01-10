@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T112000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses67375cb9-58a5-4bf2-a704-a9e5c32094c5
-DTSTAMP:20160925T011633
-LOCATION:Herrin T195
-DESCRIPTION:Diffusion and phase transformations in solids. Diffusion topics: Fick's laws, atomic theory of diffusion, and diffusion in alloys. Phase transformation topics: nucleation, growth, diffusional transformations, spinodal decomposition, and interface phenomena. Material builds on the mathematical, thermodynamic, and statistical mechanical foundations in the prerequisites. Prerequisites: 194/204. Undergraduates register for 197 for 4 units; graduates register for 207 for 3 units.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:MATSCI197 LEC
-DTSTART;TZID=America/Los_Angeles:20170406T103000
-CREATED:20160925T011633
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T122000
-LAST-MODIFIED:20160925T011633
-UID:explore_coursesb8d03c7b-ec6f-4952-a08f-6d1ad4e98b60
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213836
+UID:explore_courses7652a135-6098-49c1-a1f0-7ebe1fbc63db
+DTSTAMP:20170109T213836
 LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Diffusion and phase transformations in solids. Diffusion topics: Fick's laws, atomic theory of diffusion, and diffusion in alloys. Phase transformation topics: nucleation, growth, diffusional transformations, spinodal decomposition, and interface phenomena. Material builds on the mathematical, thermodynamic, and statistical mechanical foundations in the prerequisites. Prerequisites: 194/204. Undergraduates register for 197 for 4 units; graduates register for 207 for 3 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI197 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T113000
-CREATED:20160925T011633
+CREATED:20170109T213836
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170406T112000
+LAST-MODIFIED:20170109T213836
+UID:explore_courses8755bbff-d0fe-40c7-8ab1-874582b2d585
+DTSTAMP:20170109T213836
+LOCATION:Herrin T195
+DESCRIPTION:Diffusion and phase transformations in solids. Diffusion topics: Fick's laws, atomic theory of diffusion, and diffusion in alloys. Phase transformation topics: nucleation, growth, diffusional transformations, spinodal decomposition, and interface phenomena. Material builds on the mathematical, thermodynamic, and statistical mechanical foundations in the prerequisites. Prerequisites: 194/204. Undergraduates register for 197 for 4 units; graduates register for 207 for 3 units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MATSCI197 LEC
+DTSTART;TZID=America/Los_Angeles:20170406T103000
+CREATED:20170109T213836
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

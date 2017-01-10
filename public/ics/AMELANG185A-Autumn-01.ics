@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T142000
-LAST-MODIFIED:20160925T011636
-UID:explore_coursesbf01f5e5-6439-4d0a-8d46-a210ef971370
-DTSTAMP:20160925T011636
-LOCATION:260-007
+DTEND;TZID=America/Los_Angeles:20160927T165000
+LAST-MODIFIED:20170109T213633
+UID:explore_courses85a176ee-4fc3-439a-afb5-feae5e9e0d82
+DTSTAMP:20170109T213633
+LOCATION:Lathrop 195
 DESCRIPTION:Continuation of AMELANG 184C. Designed for students with previous knowledge of Turkish who wish to learn in depth about Turkish culture, history, social life, literature, cuisine and artistic trends. Emphasis on developing intermediate proficiency in reading, writing, listening and speaking. Class discussions and activities aim to enable students to perform various tasks in the target language. Prerequisite: AMELANG 184C.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AMELANG185A LNG
-DTSTART;TZID=America/Los_Angeles:20160926T123000
-CREATED:20160925T011636
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20160927T150000
+CREATED:20170109T213633
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T165000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

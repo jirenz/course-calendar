@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses0bf4bbb2-e62c-48cb-b361-7da75857c774
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses1e56f5da-565e-4afd-9158-2fbd3e3c4026
+DTSTAMP:20170109T213832
 LOCATION:Huang Engineerig Center 18
 DESCRIPTION:For students interested in the physical bases and practical methods of silicon VLSI chip fabrication, or the impact of technology on device and circuit design, or intending to pursue doctoral research involving the use of Stanford's Nanofabrication laboratory. Process simulators illustrate concepts. Topics: principles of integrated circuit fabrication processes, physical and chemical models for crystal growth, oxidation, ion implantation, etching, deposition, lithography, and back-end processing. Required for 410.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE212 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

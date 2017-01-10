@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20160925T011632
-UID:explore_coursesbb839356-b078-4e87-9035-35eb314046b5
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses8cdaa537-4e52-47c2-a6de-798aaaa598d9
+DTSTAMP:20170109T213832
 LOCATION:Sequoia Hall 200
 DESCRIPTION:Fibers: single- and multi-mode, attenuation, modal dispersion, group-velocity dispersion, polarization-mode dispersion. Nonlinear effects in fibers: Raman, Brillouin, Kerr. Self- and cross-phase modulation, four-wave mixing. Sources: light-emitting diodes, laser diodes, transverse and longitudinal mode control, modulation, chirp, linewidth, intensity noise. Modulators: electro-optic, electro-absorption. Photodiodes: p-i-n, avalanche, responsivity, capacitance, transit time. Receivers: high-impedance, transimpedance, bandwidth, noise. Digital intensity modulation formats: non-return-to-zero, return-to-zero. Receiver performance: Q factor, bit-error ratio, sensitivity, quantum limit. Sensitivity degradations: extinction ratio, intensity noise, jitter, dispersion. Wavelength-division multiplexing. System architectures: local-area, access, metropolitan-area, long-haul. Prerequisites: EE 102A and EE 142.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE247 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

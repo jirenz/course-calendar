@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20160925T011605
-UID:explore_coursesc31a6f4c-9b10-4b87-90ad-14474d28566f
-DTSTAMP:20160925T011605
+LAST-MODIFIED:20170109T213851
+UID:explore_coursesf9ec8218-67e2-4781-8e2a-9280e38afc31
+DTSTAMP:20170109T213851
 LOCATION:Turingaud
 DESCRIPTION:Formerly CEE 164. The dynamic basis of oceanography. Topics: physical environment; conservation equations for salt, heat, and momentum; geostrophic flows; wind-driven flows; the Gulf Stream; equatorial dynamics and ENSO; thermohaline circulation of the deep oceans; and tides. Prerequisite: PHYSICS 41 (formerly 53).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS148 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20160925T011605
+CREATED:20170109T213851
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

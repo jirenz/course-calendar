@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T132000
-LAST-MODIFIED:20160925T011612
-UID:explore_courses8b0fa11d-9a2f-48bf-a5e1-fda960d507e1
-DTSTAMP:20160925T011612
-LOCATION:Li Ka Shing Center,rms101/102
-DESCRIPTION:An introduction to the specialty of emergency medicine, including the emergency stabilization of patients in both the pre-hospital phase and in the emergency department.  The course will include both lectures and hands on practical sessions.  Topics consist of management of trauma patients and common medical emergencies, with hands on sessions including how to manage airway emergencies and suturing.  2 units includes two four-hour emergency department shadow shifts.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:EMED220 LEC
-DTSTART;TZID=America/Los_Angeles:20160929T123000
-CREATED:20160925T011612
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20160925T011612
-UID:explore_courses41cd943b-9625-41a8-adfd-08ff49d2326a
-DTSTAMP:20160925T011612
+LAST-MODIFIED:20170109T213858
+UID:explore_coursesa35fd876-83ce-4847-a00f-06176814328e
+DTSTAMP:20170109T213858
 LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:An introduction to the specialty of emergency medicine, including the emergency stabilization of patients in both the pre-hospital phase and in the emergency department.  The course will include both lectures and hands on practical sessions.  Topics consist of management of trauma patients and common medical emergencies, with hands on sessions including how to manage airway emergencies and suturing.  2 units includes two four-hour emergency department shadow shifts.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EMED220 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T123000
-CREATED:20160925T011612
+CREATED:20170109T213858
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T132000
+LAST-MODIFIED:20170109T213858
+UID:explore_coursescfbf1836-caf9-43f1-a820-27bab3d0a4c4
+DTSTAMP:20170109T213858
+LOCATION:Li Ka Shing Center,rms101/102
+DESCRIPTION:An introduction to the specialty of emergency medicine, including the emergency stabilization of patients in both the pre-hospital phase and in the emergency department.  The course will include both lectures and hands on practical sessions.  Topics consist of management of trauma patients and common medical emergencies, with hands on sessions including how to manage airway emergencies and suturing.  2 units includes two four-hour emergency department shadow shifts.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EMED220 LEC
+DTSTART;TZID=America/Los_Angeles:20160929T123000
+CREATED:20170109T213858
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

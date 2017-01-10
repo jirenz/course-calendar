@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T114500
-LAST-MODIFIED:20160925T011558
-UID:explore_coursesc2d88325-20bb-41be-9d35-6b3a0dcce251
-DTSTAMP:20160925T011558
+LAST-MODIFIED:20170109T213841
+UID:explore_courses791ca2b3-e998-4d92-b052-c838fc02f001
+DTSTAMP:20170109T213841
 LOCATION:GSB Faculty East 102
 DESCRIPTION:This course is an introduction to multiperiod models in finance, mainly pertaining to optimal portfolio choice and asset pricing. The course begins with discrete-time models for portfolio choice and security prices, and then moves to a continuous-time setting. The topics then covered include advanced derivative pricing models, models of the term structure of interest rates, the valuation of corporate securities, portfolio choice in continuous-time settings, and finally general-equilibrium and over-the-counter asset pricing models. Students should have had some previous exposure to general equilibrium theory and some basic courses in investments. Strong backgrounds in calculus, linear algebra, and probability theory are recommended. Problem assignments are frequent and, for most students, demanding. Prerequisite: F620 and MGTECON600 (or equivalent), or permission of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FINANCE622 WKS
 DTSTART;TZID=America/Los_Angeles:20160927T100000
-CREATED:20160925T011558
+CREATED:20170109T213841
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T114500;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

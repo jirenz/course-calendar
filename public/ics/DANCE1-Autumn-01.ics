@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20160925T011655
-UID:explore_coursesee071933-49e2-4a54-855a-0535d31e1858
-DTSTAMP:20160925T011655
+DTEND;TZID=America/Los_Angeles:20160926T102000
+LAST-MODIFIED:20170109T213727
+UID:explore_coursesd7355d24-004e-451a-a59a-13dc9a735a51
+DTSTAMP:20170109T213727
 LOCATION:ROBLEG115
 DESCRIPTION:This introductory contemporary dance class focuses on the fundamental techniques of dance to develop form, posture, flexibility, rhythm and ultimately, ease and flow.  Drawing from various movement practices, including ballet, modern, lyrical, Tai chi and yoga, students will gain freedom dancing with others and obtain the essential tools to continue in any dance style. Presence and expressiveness is emphasized throughout the class. Designed for beginners, we welcome athletes, dancers from diverse dance styles, advanced dancers who want to have more grace, and the student mover who desires more beauty and fluidity in their everyday life. Live accompaniment in every class.nFor further information, contact the instructor at ahayes1@stanford.edu.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DANCE1 PRA
 DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20160925T011655
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE,FR
+CREATED:20170109T213727
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

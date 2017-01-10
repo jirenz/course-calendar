@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses6185c291-ad44-4fc0-8259-1d553ddd82e3
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213834
+UID:explore_courses08f67780-1a02-47e9-b069-3e3151a08d37
+DTSTAMP:20170109T213834
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Optimization theory and modeling. The role of prices, duality, optimality conditions, and algorithms in finding and recognizing solutions. Perspectives: problem formulation, analytical theory, computational methods, and recent applications in engineering, finance, and economics. Theories: finite dimensional derivatives, convexity, optimality, duality, and sensitivity. Methods: simplex and interior-point, gradient, Newton, and barrier. Prerequisite: CME 100 or MATH 51.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E211 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T120000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

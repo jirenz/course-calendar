@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T152000
-LAST-MODIFIED:20160925T011605
-UID:explore_courses55e086f5-2aa1-47c9-8537-ed7df52da922
-DTSTAMP:20160925T011605
+LAST-MODIFIED:20170109T213851
+UID:explore_courses446b8e07-a548-4168-954c-b2e19cae2f9d
+DTSTAMP:20170109T213851
 LOCATION:380-380W
 DESCRIPTION:Simulation models are a powerful tool for environmental research, if used properly. The major concepts and techniques for building and evaluating models. Topics include model calibration, model selection, uncertainty and sensitivity analysis, and Monte Carlo and bootstrap methods. Emphasis is on gaining hands-on experience using the R programming language. Prerequisite: Basic knowledge of statistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS211 DIS
 DTSTART;TZID=America/Los_Angeles:20160926T143000
-CREATED:20160925T011605
+CREATED:20170109T213851
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

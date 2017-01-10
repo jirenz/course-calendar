@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170407T102000
-LAST-MODIFIED:20160925T011658
-UID:explore_courses32e7506c-5486-4760-9547-b68c4948ecc6
-DTSTAMP:20160925T011658
+LAST-MODIFIED:20170109T213737
+UID:explore_coursesa14d33e4-4dce-475e-9285-15e369173cf7
+DTSTAMP:20170109T213737
 LOCATION:200-201
 DESCRIPTION:Modern portfolio theory and corporate finance. Topics: present value and discounting, interest rates and yield to maturity, various financial instruments including financial futures, mutual funds, the efficient market theory, basic asset pricing theory, the capital asset pricing model, and models for pricing options and other contingent claims. Use of derivatives for hedging. Prerequisites: ECON 51, ECON 102A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON140 DIS
 DTSTART;TZID=America/Los_Angeles:20170407T093000
-CREATED:20160925T011658
+CREATED:20170109T213737
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

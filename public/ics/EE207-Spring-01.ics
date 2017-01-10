@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20160925T011632
-UID:explore_coursesa2fd005f-995d-4a25-ac52-a59910e0caa0
-DTSTAMP:20160925T011632
-LOCATION:380-380Y
+LAST-MODIFIED:20170109T213832
+UID:explore_coursesc7ad6ce1-1567-4d6b-9dbc-d70d8ffe8472
+DTSTAMP:20170109T213832
+LOCATION:Shriram Ctr BioChemE 366
 DESCRIPTION:(Formerly EE 304) Neuromorphic systems run perceptual, cognitive and motor tasks in real-time on a network of highly interconnected nonlinear units. To maximize density and minimize energy, these units--like the brain's neurons--are heterogeneous and stochastic. The first half of the course covers learning algorithms that automatically synthesize network configurations to perform a desired computation on a given heterogeneous neural substrate. The second half of the course surveys system-on-a-chip architectures that efficiently realize highly interconnected networks and mixed analog-digital circuit designs that implement area and energy-efficient nonlinear units. Prerequisites: EE102A and EE108 are required; EE114 is recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE207 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

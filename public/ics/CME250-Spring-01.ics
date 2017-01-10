@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T175000
-LAST-MODIFIED:20160925T011628
-UID:explore_coursese02169d8-bfd0-4b8e-8b9d-7230954a3142
-DTSTAMP:20160925T011628
+LAST-MODIFIED:20170109T213823
+UID:explore_courses4cab5cb3-8faf-4f9f-8e7f-64e165ab1b24
+DTSTAMP:20170109T213823
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:A Short course presenting the principles behind when, why, and how to apply modern machine learning algorithms. We will discuss a framework for reasoning about when to apply various machine learning techniques, emphasizing questions of over-fitting/under-fitting, regularization, interpretability, supervised/unsupervised methods, and handling of missing data. The principles behind various algorithms--the why and how of using them--will be discussed, while some mathematical detail underlying the algorithms--including proofs--will not be discussed. Unsupervised machine learning algorithms presented will include k-means clustering, principal component analysis (PCA), and independent component analysis (ICA). Supervised machine learning algorithms presented will include support vector machines (SVM), classification and regression trees (CART), boosting, bagging, and random forests. Imputation, the lasso, and cross-validation concepts will also be covered. The R programming language will be used for examples, though students need not have prior exposure to R. Prerequisite: undergraduate-level linear algebra and statistics; basic programming experience (R/Matlab/Python).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME250 WKS
 DTSTART;TZID=America/Los_Angeles:20170404T163000
-CREATED:20160925T011628
+CREATED:20170109T213823
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

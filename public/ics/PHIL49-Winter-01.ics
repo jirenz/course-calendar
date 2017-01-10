@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20160925T011710
-UID:explore_courses05ad769a-91e8-4263-bd39-c73ffd0c3481
-DTSTAMP:20160925T011710
-LOCATION:McMurtry Building rm 360
+DTEND;TZID=America/Los_Angeles:20170110T102000
+LAST-MODIFIED:20170109T213800
+UID:explore_courses4cf6a2f1-9f10-4d22-ab87-2026fcd3b842
+DTSTAMP:20170109T213800
+LOCATION:70-72A1
 DESCRIPTION:Survey of important formal methods used in philosophy. The course covers the basics of propositional and elementary predicate logic, probability and decision theory, game theory, and statistics, highlighting philosophical issues and applications. Specific topics include the languages of propositional and predicate logic and their interpretations, rationality arguments for the probability axioms, Nash equilibrium and dominance reasoning, and the meaning of statistical significance tests. Assessment is through a combination of problem sets and short-answer questions designed to solidify competence with the mathematical tools and to test conceptual understanding. This course replaces PHIL 50.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL49 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20160925T011710
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170110T090000
+CREATED:20170109T213800
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T132000
-LAST-MODIFIED:20160925T011602
-UID:explore_courses02f6aa33-e727-47ca-90a2-c2ff97a97487
-DTSTAMP:20160925T011602
+DTEND;TZID=America/Los_Angeles:20170111T132000
+LAST-MODIFIED:20170109T213630
+UID:explore_coursesb48c2752-6eea-44ab-851b-a3c9a53cd02a
+DTSTAMP:20170109T213630
 LOCATION:Ceras 204
 DESCRIPTION:(Same as LAW 303) This course is co-taught by Tom Ehrlich, GSE, and Mariatte Denman, Office of the Vice Provost for Teaching &amp; Learning.  It provides doctoral and masters students with an opportunity to focus on teaching and learning along with graduate students from many disciplines throughout the university.  Students watch and interview master teachers at Stanford, prepare a syllabus module for a workshop or class they might teach, and learn a range of effective pedagogical methods.  The course is open not only to masters students and doctoral students from all schools who expect to work in higher education, but also to students interested in K-12 education, and they may develop a teaching module for use in those schools.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC297 SEM
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20160925T011602
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170111T103000
+CREATED:20170109T213630
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

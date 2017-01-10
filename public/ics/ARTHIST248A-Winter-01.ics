@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170113T112000
+LAST-MODIFIED:20170109T213654
+UID:explore_courses206e552f-96f7-4a2d-8867-0197e2131b29
+DTSTAMP:20170109T213654
+LOCATION:Shriram Ctr BioChemE 052
+DESCRIPTION:This advanced seminar introduces students to the seemingly inconspicuous relation between architecture and gender.  The course studies how modern societies create easily, controlled docile spaces, thus pursuing the absent bodies of its members - be it through symbolic or material means.  This troubled history of the powers of architecture to neglect sexuality and impose strict gender roles is analyzed  in class discussions through recent feminist and queer theoretical approaches and tested on case studies.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTHIST248A SEM
+DTSTART;TZID=America/Los_Angeles:20170113T093000
+CREATED:20170109T213654
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

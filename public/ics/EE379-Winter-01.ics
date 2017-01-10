@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses6db3140c-d518-4b21-aab5-0c78d78f6839
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses2176063b-02d1-4532-ba46-72238b9c1cc9
+DTSTAMP:20170109T213832
 LOCATION:Thornt102
 DESCRIPTION:Modulation: linear, differential and orthogonal methods; signal spaces; power spectra; bandwidth requirements. Detection: maximum likelihood and maximum a posteriori probability principles; sufficient statistics; correlation and matched-filter receivers; coherent, differentially coherent and noncoherent methods; error probabilities; comparison of modulation and detection methods. Intersymbol interference: single-carrier channel model; Nyquist requirement; whitened matched filter; maximum likelihood sequence detection; Viterbi algorithm; linear equalization; decision-feedback equalization. Multi-carrier modulation: orthogonal frequency-division multiplexing; capacity of parallel Gaussian channels; comparison of single- and multi-carrier techniques.  Prerequisite: EE102B, EE278
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE379 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

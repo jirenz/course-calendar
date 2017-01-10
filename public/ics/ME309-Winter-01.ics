@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T125000
-LAST-MODIFIED:20160925T011635
-UID:explore_coursesc47c6c64-3e5b-4dc4-a164-f557fc8031ef
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_courses946ba718-951d-4597-9ce8-c866c5fd340e
+DTSTAMP:20170109T213838
 LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Basic concepts of finite elements, with applications to problems confronted by mechanical designers. Linear static, modal, and thermal formulations emphasized; nonlinear and dynamic formulations introduced. Application of a commercial finite element code in analyzing design problems. Issues: solution methods, modeling techniques, features of various commercial codes, basic problem definition. Individual projects focus on the interplay of analysis and testing in product design/development. Prerequisites: Math 51, or equivalent. Recommended: ME80 or CEE101A, or equivalent in structural and/or solid mechanics; some exposure to principles of heat transfer.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME309 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T113000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T125000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

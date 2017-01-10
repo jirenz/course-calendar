@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T182000
+LAST-MODIFIED:20170109T213821
+UID:explore_courses3af52987-c60c-4bab-910e-3f2587585a39
+DTSTAMP:20170109T213821
+LOCATION:Roble Hall Seminar Room M129
+DESCRIPTION:This course introduces students to the concepts of sustainability economics, system optimization, and life cycle costing.  In essence, students will be building the &quot;business case&quot; for various proposed sustainability efforts tied to an on-campus system.  Examples of such systems are on an on-campus dormitory (.e.g Roble Hall), service provider (e.g. Axe and Palm Restaurant), or infrastructure system (e.g. campus water system).  Students interested in CEE 126B do not need to have taken CEE 126B as a prerequisite.  This course is an approved equivalent for CEE 146A/246A.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE126B LEC
+DTSTART;TZID=America/Los_Angeles:20170110T163000
+CREATED:20170109T213821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

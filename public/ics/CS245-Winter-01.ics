@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses5069dc29-fbc0-4406-ae52-b329b9a26df6
-DTSTAMP:20160925T011630
-LOCATION:
+LAST-MODIFIED:20170109T213829
+UID:explore_coursesc578d8af-8c80-4c79-9ab5-3953f73f0435
+DTSTAMP:20170109T213829
+LOCATION:NVIDIA Auditorium
 DESCRIPTION:File organization and access, buffer management, performance analysis, and storage management. Database system architecture, query optimization, transaction management, recovery, concurrency control. Reliability, protection, and integrity. Design and management issues. Prerequisites: 145, 161.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS245 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

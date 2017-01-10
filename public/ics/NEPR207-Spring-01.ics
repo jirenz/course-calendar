@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T105000
-LAST-MODIFIED:20160925T011617
-UID:explore_courses7bf9d904-4d04-44b3-93cd-63f4648fd2bd
-DTSTAMP:20160925T011617
-LOCATION:Alway Building, Room M208
-DESCRIPTION:For first-year Neurosciences graduate students; open to other graduate students as space permits with preference given to Neuroscience students. Focus is on several domains of cognitive function where cognitive neuroscience approaches have been successfully applied across many different model systems from mice to monkeys to humans: attention, decision-making, and memory.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:NEPR207 WKS
-DTSTART;TZID=America/Los_Angeles:20170405T100000
-CREATED:20160925T011617
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T105000;BYDAY=WE
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T161500
-LAST-MODIFIED:20160925T011617
-UID:explore_courses1201cfe7-3fd4-423b-80e8-80f10174f1d0
-DTSTAMP:20160925T011617
+LAST-MODIFIED:20170109T213906
+UID:explore_courses47af3b70-ed3b-4c17-8e8c-1443d4ec3eda
+DTSTAMP:20170109T213906
 LOCATION:Alway Building, Room M208
 DESCRIPTION:For first-year Neurosciences graduate students; open to other graduate students as space permits with preference given to Neuroscience students. Focus is on several domains of cognitive function where cognitive neuroscience approaches have been successfully applied across many different model systems from mice to monkeys to humans: attention, decision-making, and memory.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NEPR207 WKS
 DTSTART;TZID=America/Los_Angeles:20170404T140000
-CREATED:20160925T011617
+CREATED:20170109T213906
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T161500;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170405T105000
+LAST-MODIFIED:20170109T213906
+UID:explore_coursesb243deaa-5ec8-4d45-b675-36d797fe8c81
+DTSTAMP:20170109T213906
+LOCATION:Alway Building, Room M208
+DESCRIPTION:For first-year Neurosciences graduate students; open to other graduate students as space permits with preference given to Neuroscience students. Focus is on several domains of cognitive function where cognitive neuroscience approaches have been successfully applied across many different model systems from mice to monkeys to humans: attention, decision-making, and memory.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:NEPR207 WKS
+DTSTART;TZID=America/Los_Angeles:20170405T100000
+CREATED:20170109T213906
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T105000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

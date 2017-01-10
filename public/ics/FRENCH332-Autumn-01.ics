@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T200000
-LAST-MODIFIED:20160925T011701
-UID:explore_courses029f7116-a1c4-4dd1-beac-a98bd5847110
-DTSTAMP:20160925T011701
-LOCATION:160-120
-DESCRIPTION:Examines the current debates in France regarding national identity, secularism, and the integration of immigrants, notably from the former colonies. Confronts films' and other media's visual and discursive rhetorical strategies used to represent ethnic or religious minorities, discrimination, radicalization, terrorism, inter-racial marriages, or women's rights within immigrant communities. By embodying such themes in stories of love, hardships, or solidarity, the motion pictures make the movements and emotions inherent to immigration tangible: to what effect? Taught in English. Films in French with English subtitles. Additional paper for students enrolled in 332.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:FRENCH332 SEM
-DTSTART;TZID=America/Los_Angeles:20160926T180000
-CREATED:20160925T011701
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T200000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160929T152000
-LAST-MODIFIED:20160925T011701
-UID:explore_courses42304ebe-5aaa-47ce-b9a2-fdc0df123608
-DTSTAMP:20160925T011701
+LAST-MODIFIED:20170109T213744
+UID:explore_courses98d1b147-ba60-4310-9bf7-0a63022518c0
+DTSTAMP:20170109T213744
 LOCATION:160-319
 DESCRIPTION:Examines the current debates in France regarding national identity, secularism, and the integration of immigrants, notably from the former colonies. Confronts films' and other media's visual and discursive rhetorical strategies used to represent ethnic or religious minorities, discrimination, radicalization, terrorism, inter-racial marriages, or women's rights within immigrant communities. By embodying such themes in stories of love, hardships, or solidarity, the motion pictures make the movements and emotions inherent to immigration tangible: to what effect? Taught in English. Films in French with English subtitles. Additional paper for students enrolled in 332.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FRENCH332 SEM
 DTSTART;TZID=America/Los_Angeles:20160929T133000
-CREATED:20160925T011701
+CREATED:20170109T213744
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T200000
+LAST-MODIFIED:20170109T213744
+UID:explore_courses42058f1c-34d2-4311-8284-bb5c93d406b5
+DTSTAMP:20170109T213744
+LOCATION:160-120
+DESCRIPTION:Examines the current debates in France regarding national identity, secularism, and the integration of immigrants, notably from the former colonies. Confronts films' and other media's visual and discursive rhetorical strategies used to represent ethnic or religious minorities, discrimination, radicalization, terrorism, inter-racial marriages, or women's rights within immigrant communities. By embodying such themes in stories of love, hardships, or solidarity, the motion pictures make the movements and emotions inherent to immigration tangible: to what effect? Taught in English. Films in French with English subtitles. Additional paper for students enrolled in 332.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FRENCH332 SEM
+DTSTART;TZID=America/Los_Angeles:20160926T180000
+CREATED:20170109T213744
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T200000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

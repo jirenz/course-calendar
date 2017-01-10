@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20160925T011718
-UID:explore_courses23d6120b-5a8d-47d9-a4fb-e8a2992b709a
-DTSTAMP:20160925T011718
+LAST-MODIFIED:20170109T213811
+UID:explore_coursesf4dc9c4b-620f-4409-88d7-ea16a374135c
+DTSTAMP:20170109T213811
 LOCATION:380-380D
 DESCRIPTION:This course is on the theory of empirical processes. In the course we will focus on weak convergence of stochastic processes, M-estimation and empirical risk minimization. The course will cover topics like covering numbers and bracketing numbers, maximal inequalities, chaining and symmetrization, uniform law of large numbers and uniform central limit theorems, rates of convergence of MLEs and (penalized) least squares estimators, and concentration inequalities.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS368 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20160925T011718
+CREATED:20170109T213811
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20160925T011700
-UID:explore_coursesf2bba8fc-9602-497e-8aa1-bfd141df78fc
-DTSTAMP:20160925T011700
-LOCATION:McMurtry Building rm 102
-DESCRIPTION:The close analysis of film. Emphasis is on formal and narrative techniques in structure and style, and detailed readings of brief sequences. Elements such as cinematography, mise-en-sc&egrave;ne, composition, sound, and performance. Films from various historical periods, national cinemas, directors, and genres. Prerequisite: FILMSTUD 4 or equivalent. Recommended:  ARTHIST 1 or FILMSTUD 102. Course can be repeated twice for a max of 8 units.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:FILMSTUD301 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20160925T011700
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160928T212000
-LAST-MODIFIED:20160925T011700
-UID:explore_courses1cac00ca-019c-43e1-b1a8-887704271518
-DTSTAMP:20160925T011700
+LAST-MODIFIED:20170109T213743
+UID:explore_courses152d2a8e-c2bf-4590-9a51-c7acfc155d6b
+DTSTAMP:20170109T213743
 LOCATION:McMurtry Building rm 115
 DESCRIPTION:The close analysis of film. Emphasis is on formal and narrative techniques in structure and style, and detailed readings of brief sequences. Elements such as cinematography, mise-en-sc&egrave;ne, composition, sound, and performance. Films from various historical periods, national cinemas, directors, and genres. Prerequisite: FILMSTUD 4 or equivalent. Recommended:  ARTHIST 1 or FILMSTUD 102. Course can be repeated twice for a max of 8 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FILMSTUD301 LEC
 DTSTART;TZID=America/Los_Angeles:20160928T193000
-CREATED:20160925T011700
+CREATED:20170109T213743
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T212000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T162000
+LAST-MODIFIED:20170109T213743
+UID:explore_courses7907320b-9e3e-4fe6-a493-a4f06b9506b7
+DTSTAMP:20170109T213743
+LOCATION:McMurtry Building 102, Oshman
+DESCRIPTION:The close analysis of film. Emphasis is on formal and narrative techniques in structure and style, and detailed readings of brief sequences. Elements such as cinematography, mise-en-sc&egrave;ne, composition, sound, and performance. Films from various historical periods, national cinemas, directors, and genres. Prerequisite: FILMSTUD 4 or equivalent. Recommended:  ARTHIST 1 or FILMSTUD 102. Course can be repeated twice for a max of 8 units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD301 LEC
+DTSTART;TZID=America/Los_Angeles:20160927T150000
+CREATED:20170109T213743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

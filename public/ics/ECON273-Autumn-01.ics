@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T152000
-LAST-MODIFIED:20160925T011658
-UID:explore_coursesc8c1d240-4186-48f3-bd02-4a43410ce0dc
-DTSTAMP:20160925T011658
+LAST-MODIFIED:20170109T213737
+UID:explore_courses50f1359e-96ee-4c1f-8c09-e60b2c3f81d5
+DTSTAMP:20170109T213737
 LOCATION:Econ 206
 DESCRIPTION:Possible topics: parametric asymptotic theory. M and Z estimators. General large sample results for maximum likelihood; nonlinear least squares; and nonlinear instrumental variables estimators including the generalized method of moments estimator under general conditions. Model selection test. Consistent model selection criteria. Nonnested hypothesis testing. Markov chain Monte Carlo methods. Nonparametric and semiparametric methods. Quantile Regression methods.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON273 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20160925T011658
+CREATED:20170109T213737
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

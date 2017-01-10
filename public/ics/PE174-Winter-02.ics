@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20160925T011623
-UID:explore_courses59f5a765-1042-4a5e-b054-221bcdb06e7d
-DTSTAMP:20160925T011623
+DTEND;TZID=America/Los_Angeles:20170110T142000
+LAST-MODIFIED:20170109T213839
+UID:explore_courses4c03b9d5-5333-4287-9981-f30cbe479c3b
+DTSTAMP:20170109T213839
 LOCATION:ArrilagaOutdoorEducRecCtrFitne
 DESCRIPTION:This course is designed to teach the fundamentals of weight training, including equipment use, exercise technique and safety procedures. By the end of the course, students should be able to safely demonstrate a variety of exercise techniques, as well as have a general appreciation for the benefits of strength training. Fee. (AU)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PE174 ACT
-DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20160925T011623
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170110T133000
+CREATED:20170109T213839
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

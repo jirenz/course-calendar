@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T152000
-LAST-MODIFIED:20160925T011658
-UID:explore_courses3b9956f0-649f-4149-8205-6e68f4230d42
-DTSTAMP:20160925T011658
-LOCATION:Econ 218
+DTEND;TZID=America/Los_Angeles:20170110T195000
+LAST-MODIFIED:20170109T213737
+UID:explore_coursesaaeb4056-ccd8-417f-a7f9-d3ac3113456a
+DTSTAMP:20170109T213737
+LOCATION:Econ 139
 DESCRIPTION:European economic history from middle ages to the twentieth century. Topics: competing hypotheses in explaining long term trends in economic growth and cross-country differences in long-term economic growth; formation, function, and persistence of institutions and organizations; the role of institutions and organizations (e.g. apprenticeship, servitude, partnerships, cooperatives, social networks, share cropping, and communes) as solutions to contractual problems; the economics of migration; the changing economic role of the family.  Use of economic theory in guiding hypothesis testing, as well as construction of new datasets and the execution of empirical analysis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON227 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20160925T011658
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170110T180000
+CREATED:20170109T213737
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T195000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

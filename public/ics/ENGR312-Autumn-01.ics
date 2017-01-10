@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160928T172000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses04d2f873-7be2-41ec-b60c-d821ea9e09df
-DTSTAMP:20160925T011632
-LOCATION:160-120
+LAST-MODIFIED:20170109T213833
+UID:explore_coursesb9703a7c-f00c-4f6e-91f5-ded39c0c9f0a
+DTSTAMP:20170109T213833
+LOCATION:420-050
 DESCRIPTION:For students interested in an academic career and who anticipate designing science or engineering courses at the undergraduate or graduate level. Goal is to apply research on science and engineering learning to the design of effective course materials. Topics include syllabus design, course content and format decisions, assessment planning and grading, and strategies for teaching improvement.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR312 SEM
 DTSTART;TZID=America/Los_Angeles:20160928T153000
-CREATED:20160925T011632
+CREATED:20170109T213833
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

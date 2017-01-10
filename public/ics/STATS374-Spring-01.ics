@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20160925T011718
-UID:explore_coursesb6ec3d35-7c85-4f6f-8885-050fb04a1131
-DTSTAMP:20160925T011718
+LAST-MODIFIED:20170109T213811
+UID:explore_courses02be01c9-abf4-49b6-b5bd-08353204be79
+DTSTAMP:20170109T213811
 LOCATION:240-201
 DESCRIPTION:Combinatorial estimates and the method of types. Large deviation probabilities for partial sums and for empirical distributions, Cramer's and Sanov's theorems and their Markov extensions. Applications in statistics, information theory, and statistical mechanics. Prerequisite: MATH 230A or STATS 310.  Offered every 2-3 years.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS374 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20160925T011718
+CREATED:20170109T213811
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

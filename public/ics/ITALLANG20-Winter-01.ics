@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170112T145000
+LAST-MODIFIED:20170109T213752
+UID:explore_coursesbda18c40-07e7-4960-965c-e514d930b595
+DTSTAMP:20170109T213752
+LOCATION:260-007
+DESCRIPTION:Second-year conversational and presentational skills developed through exposure to movie clips, slide shows, and other authentic multimedia materials. Guest lectures on Italian culture including opera, pop music, wine, and food culture. Preview of the Florentine experience with Florence returnees sharing their experiences in Italy. Prerequisite:  ITALLANG 2A, ITALLANG 3. Repeatable for credit twice.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ITALLANG20 LNG
+DTSTART;TZID=America/Los_Angeles:20170112T133000
+CREATED:20170109T213752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20160925T011704
-UID:explore_courses4ac318f5-d07b-489f-b356-a05f64637e46
-DTSTAMP:20160925T011704
-LOCATION:Mitchb67
+LAST-MODIFIED:20170109T213752
+UID:explore_coursesf6dc7f22-2f8a-4cfb-9644-a3f3179bc225
+DTSTAMP:20170109T213752
+LOCATION:School of Education 229
 DESCRIPTION:Second-year conversational and presentational skills developed through exposure to movie clips, slide shows, and other authentic multimedia materials. Guest lectures on Italian culture including opera, pop music, wine, and food culture. Preview of the Florentine experience with Florence returnees sharing their experiences in Italy. Prerequisite:  ITALLANG 2A, ITALLANG 3. Repeatable for credit twice.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ITALLANG20 LNG
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20160925T011704
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+CREATED:20170109T213752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

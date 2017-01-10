@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170626T142000
-LAST-MODIFIED:20160925T011650
-UID:explore_courses93fe38b8-a153-4b18-a363-cca6f0ea896d
-DTSTAMP:20160925T011650
+LAST-MODIFIED:20170109T213719
+UID:explore_courses1c4596ba-5226-4333-8ed4-39874fc278f9
+DTSTAMP:20170109T213719
 LOCATION:
 DESCRIPTION:Advanced organic lab course that introduces multi-step synthesis, NMR spectroscopy, and polymer chemistry. Learn how to use modern analytical and spectroscopic techniques to determine the structure of organic compounds. Prerequisite: Chem 2L or course equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM3L LEC
 DTSTART;TZID=America/Los_Angeles:20170626T133000
-CREATED:20160925T011650
+CREATED:20170109T213719
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T142000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

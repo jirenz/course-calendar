@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T172000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses08cbc416-55ed-44d5-b396-2d9a6b197c0c
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses7b304a9d-a287-465d-aca9-5f90527bd0da
+DTSTAMP:20170109T213832
 LOCATION:Gates260
 DESCRIPTION:Student/faculty discussions of research problems in the design of reliable digital systems. Areas: fault-tolerant systems, design for testability, production testing, and system reliability. Emphasis is on student presentations and Ph.D. thesis research. May be repeated for credit. Prerequisite: consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE385A SEM
 DTSTART;TZID=America/Los_Angeles:20160926T163000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

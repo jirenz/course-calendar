@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T132000
-LAST-MODIFIED:20160925T011704
-UID:explore_courses1c5a2e48-64de-4d54-a05a-be6f7a2f49d7
-DTSTAMP:20160925T011704
+DTEND;TZID=America/Los_Angeles:20170404T172000
+LAST-MODIFIED:20170109T213751
+UID:explore_courses7327e6fb-979c-4941-951a-518625dee386
+DTSTAMP:20170109T213751
 LOCATION:
 DESCRIPTION:Are you prepared for your internship this summer? This workshop series will help you make the most of your internship experience by setting learning goals in advance; negotiating and communicating clear roles and expectations; preparing for a professional role in a non-profit, government, or community setting; and reflecting with successful interns and community partners on how to prepare sufficiently ahead of time. You will read, discuss, and hear from guest speakers, as well as develop a learning plan specific to your summer or academic year internship placement. This course is primarily designed for students who have already identified an internship for summer or a later quarter. You are welcome to attend any and all workshops, but must attend the entire series and do the assignments for 1 unit of credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO9 SEM
-DTSTART;TZID=America/Los_Angeles:20170405T123000
-CREATED:20160925T011704
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170404T163000
+CREATED:20170109T213751
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

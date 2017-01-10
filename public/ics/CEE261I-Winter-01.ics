@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T142000
-LAST-MODIFIED:20160925T011627
-UID:explore_coursesb41f9fea-b54b-44f6-a366-6cec95d1e921
-DTSTAMP:20160925T011627
+LAST-MODIFIED:20170109T213822
+UID:explore_courses9366d7ab-b325-42c6-9594-67064eae0081
+DTSTAMP:20170109T213822
 LOCATION:Y2E2 111
 DESCRIPTION:Introduction to the physics governing the circulation of the atmosphere and ocean and their control on climate with emphasis on the atmospheric circulation. Topics include the global energy balance, the greenhouse effect, the vertical and meridional structure of the atmosphere, dry and moist convection, the equations of motion for the atmosphere and ocean, including the effects of rotation, and the poleward transport of heat by the large-scale atmospheric circulation and storm systems.  Prerequisites: MATH 51 or CME100 and PHYSICS 41.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE261I LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011627
+CREATED:20170109T213822
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

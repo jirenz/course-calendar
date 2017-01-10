@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T200000
-LAST-MODIFIED:20160925T011612
-UID:explore_coursesb9d9ece2-7d80-47aa-a0d6-7b35e28d2a7f
-DTSTAMP:20160925T011612
+LAST-MODIFIED:20170109T213858
+UID:explore_courses431c2386-33cc-4337-8f65-9b35783d218f
+DTSTAMP:20170109T213858
 LOCATION:
-DESCRIPTION:Ongoing training for current EMS providers. Students practice BLS assessments and medical care through simulated patient encounters. Topics include mass casualty incidents, assaults, and pediatric emergencies.Expanded scope topics may be included - ACLS, ultrasound, and suturing. Students taking the course for 3 units also serve as teaching assistants for Surgery 111, the Stanford EMT training course. Prerequisites: SURG 111/211 A-C (or equivalent EMT Certification course), CPR-PR certification, and consent of instructor.
+DESCRIPTION:Ongoing training for current EMS providers. Students practice BLS assessments and medical care through simulated patient encounters. Topics include assessment and treatment of the undifferentiated trauma patient (including airway management, monitoring, and evaluation) and prehospital care in nontraditional locations. Students taking the course for units, also serve as teaching assistants for EMED 111, the Stanford EMT training course.  Prerequisites: EMED 111/211 A-C (or equivalent EMT Certification course), CPR-PR certification, and consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EMED112C LEC
 DTSTART;TZID=America/Los_Angeles:20170404T180000
-CREATED:20160925T011612
+CREATED:20170109T213858
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T200000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

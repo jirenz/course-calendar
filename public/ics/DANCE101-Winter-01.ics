@@ -23,16 +23,30 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20160925T011655
-UID:explore_coursesb5c5cb51-852e-4098-92cc-3bdc7891703a
-DTSTAMP:20160925T011655
-LOCATION:Cubberley Auditorium
+LAST-MODIFIED:20170109T213727
+UID:explore_coursesc256fe33-3fbd-41a4-9aa4-c551144fa56d
+DTSTAMP:20170109T213727
+LOCATION:ROBLEG139
 DESCRIPTION:This course will explore the imaginative ways black Americans have expressed their desire for freedom through dance, movement, visual art, and musical performance. Each week, historian Clayborne Carson will discuss the theme of assertive performance during various periods of African American history, and dance Lecturer Aleta Hayes will guide students as they perform their own interpretations through distinctive historical periods and styles. Course will culminate in informal performance by participating students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DANCE101 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011655
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
+CREATED:20170109T213727
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T145000
+LAST-MODIFIED:20170109T213727
+UID:explore_coursesbfa71b0b-2ded-480d-ae60-3f2485f59928
+DTSTAMP:20170109T213727
+LOCATION:ROBLEG113
+DESCRIPTION:This course will explore the imaginative ways black Americans have expressed their desire for freedom through dance, movement, visual art, and musical performance. Each week, historian Clayborne Carson will discuss the theme of assertive performance during various periods of African American history, and dance Lecturer Aleta Hayes will guide students as they perform their own interpretations through distinctive historical periods and styles. Course will culminate in informal performance by participating students.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:DANCE101 LEC
+DTSTART;TZID=America/Los_Angeles:20170111T133000
+CREATED:20170109T213727
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

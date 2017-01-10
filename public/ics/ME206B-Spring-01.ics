@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T122000
-LAST-MODIFIED:20160925T011635
-UID:explore_courses76de3d8b-2061-4b46-9424-6f59ac67f471
-DTSTAMP:20160925T011635
-LOCATION:550-STUDIO 2
-DESCRIPTION:Part two of two-quarter project course jointly offered by School of Engineering and Graduate School of Business. Second quarter emphasizes prototyping and implementation of specific projects identified in first quarter. Students work in cross-disciplinary project teams.  Industry and adviser interaction, weekly design reviews; final course presentation. Prerequisite: 206A.n(Jointly offered as GSB OIT333B) Design Institute class; see http://dschool.stanford.edu.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:ME206B LEC
-DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20160925T011635
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T205000
-LAST-MODIFIED:20160925T011635
-UID:explore_courses81cff45f-2035-4cca-ac65-65c0cb56502f
-DTSTAMP:20160925T011635
+DTEND;TZID=America/Los_Angeles:20170406T213000
+LAST-MODIFIED:20170109T213838
+UID:explore_coursescb5469a8-3447-468a-afbc-32746de47594
+DTSTAMP:20170109T213838
 LOCATION:550-STUDIO 2
 DESCRIPTION:Part two of two-quarter project course jointly offered by School of Engineering and Graduate School of Business. Second quarter emphasizes prototyping and implementation of specific projects identified in first quarter. Students work in cross-disciplinary project teams.  Industry and adviser interaction, weekly design reviews; final course presentation. Prerequisite: 206A.n(Jointly offered as GSB OIT333B) Design Institute class; see http://dschool.stanford.edu.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME206B LEC
 DTSTART;TZID=America/Los_Angeles:20170406T193000
-CREATED:20160925T011635
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T205000;BYDAY=TH
+CREATED:20170109T213838
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T213000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T122000
+LAST-MODIFIED:20170109T213838
+UID:explore_courses20837d11-99ef-46c6-b05c-92990df66852
+DTSTAMP:20170109T213838
+LOCATION:550-STUDIO 2
+DESCRIPTION:Part two of two-quarter project course jointly offered by School of Engineering and Graduate School of Business. Second quarter emphasizes prototyping and implementation of specific projects identified in first quarter. Students work in cross-disciplinary project teams.  Industry and adviser interaction, weekly design reviews; final course presentation. Prerequisite: 206A.n(Jointly offered as GSB OIT333B) Design Institute class; see http://dschool.stanford.edu.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ME206B LEC
+DTSTART;TZID=America/Los_Angeles:20170403T103000
+CREATED:20170109T213838
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

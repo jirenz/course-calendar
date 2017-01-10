@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20160925T011707
-UID:explore_courses51fbe9a5-1eed-449c-afef-710f7b829af6
-DTSTAMP:20160925T011707
+LAST-MODIFIED:20170109T213755
+UID:explore_courses07ff6e4a-3299-4332-a1ee-1f32fc0dfdc0
+DTSTAMP:20170109T213755
 LOCATION:McCullough 126
-DESCRIPTION:Methods in combinatorics that prove the existence of certain objects without constructing them explicitly: The probabilistic method (concentration of measure, Lovasz local lemma), topological methods (Sperner's lemma, Brouwer's fixed-point and Borsuk-Ulam theorems), and algebraic methods (Nullstellensatz, the polynomial method and interlacing polynomials). We will also discuss the computational question of constructing the respective objects efficiently.
+DESCRIPTION:LP duality and min-max formulas; matchings, spanning trees, matroids, matroid union and intersection; packing of trees and arborescences; submodular functions, continuous extensions and optimization.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH233B LEC
 DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20160925T011707
+CREATED:20170109T213755
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

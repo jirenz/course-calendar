@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T112000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses1660defc-405c-4d31-9950-3f0aec58aa6b
-DTSTAMP:20160925T011630
-LOCATION:360-361A
+DTEND;TZID=America/Los_Angeles:20160929T172000
+LAST-MODIFIED:20170109T213829
+UID:explore_coursesf9e734cf-db7b-484d-863a-909a0b6fec62
+DTSTAMP:20170109T213829
+LOCATION:Green Earth Sciences134
 DESCRIPTION:Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the Java programming language. Emphasis is on good programming style and the built-in facilities of the Java language. No prior programming experience required. Summer quarter enrollment is limited.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106A DIS
-DTSTART;TZID=America/Los_Angeles:20160930T103000
-CREATED:20160925T011630
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20160929T163000
+CREATED:20170109T213829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

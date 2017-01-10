@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20160925T011650
-UID:explore_courses26a60174-bb19-4ac3-a269-547c6d3bb7ed
-DTSTAMP:20160925T011650
+DTEND;TZID=America/Los_Angeles:20170113T132000
+LAST-MODIFIED:20170109T213719
+UID:explore_coursesfbcb2092-1c7e-4726-966e-3b98244e1ce2
+DTSTAMP:20170109T213719
 LOCATION:ScienceTeachingLearningCntr115
 DESCRIPTION:Theories of electronic structure, stereochemistry, and symmetry properties of inorganic molecules. Topics: ionic and covalent interactions, electron-deficient bonding, and molecular orbital theories. Emphasis is on the chemistry of the metallic elements. An introduction to the Gaussian program will be covered in the discussion sections, used for electronic calculations in the computer and problem set exercises. Prerequisites: 35. Recommended: 171.
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:CHEM151 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20160925T011650
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU
+SUMMARY:CHEM151 DIS
+DTSTART;TZID=America/Los_Angeles:20170113T123000
+CREATED:20170109T213719
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

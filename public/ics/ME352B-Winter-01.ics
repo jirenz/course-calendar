@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20160925T011635
-UID:explore_coursesae3efcfe-43ef-4679-91d8-a8f36aa43d2f
-DTSTAMP:20160925T011635
-LOCATION:GSB Littlefield 104
+LAST-MODIFIED:20170109T213838
+UID:explore_coursesce946f71-d5a2-472d-9368-3f28faebf597
+DTSTAMP:20170109T213838
+LOCATION:Littlefield 104
 DESCRIPTION:Physical description of heat conduction in solids, liquids, and gases. The heat diffusion equation and its solution using analytical and numerical techniques. Data and microscopic models for the thermal conductivity of solids, liquids, and gases, and for the thermal resistance at solid-solid and solid-liquid boundaries. Introduction to the kinetic theory of heat transport, focusing on applications for composite materials, semiconductor devices, micromachined sensors and actuators, and rarefied gases. Prerequisite: consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME352B LEC
 DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

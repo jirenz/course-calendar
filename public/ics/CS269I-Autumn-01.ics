@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses1419f813-5ea5-4a72-9790-a8320ab3be91
-DTSTAMP:20160925T011630
-LOCATION:Mitchb67
+LAST-MODIFIED:20170109T213829
+UID:explore_courses21e4d6f5-a36f-4e0a-9641-d2b932f4a4f6
+DTSTAMP:20170109T213829
+LOCATION:School of Education 128
 DESCRIPTION:Many 21st-century computer science applications require the design of software or systems that interact with multiple self-interested participants.  This course will provide students with the vocabulary and modeling tools to reason about such design problems.  Emphasis will be on understanding basic economic and game theoretic concepts that are relevant across many application domains, and on case studies that demonstrate how to apply these concepts to real-world design problems.  Topics include auction and contest design, equilibrium analysis, cryptocurrencies, design of networks and network protocols, reputation systems, social choice, and social network analysis.  Case studies include BGP routing, Bitcoin, eBay's reputation system, Facebook's advertising mechanism, Mechanical Turk, and dynamic pricing in Uber/Lyft. Prerequisites: CS106B/X and CS161, or permission from the instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS269I LEC
 DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

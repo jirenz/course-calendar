@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20160925T011715
-UID:explore_coursesf4c0f7eb-8127-4458-8029-193a49132326
-DTSTAMP:20160925T011715
-LOCATION:Encina Hall C464
+LAST-MODIFIED:20170109T213806
+UID:explore_courses5e81d50b-d780-4364-b73d-778680b4171a
+DTSTAMP:20170109T213806
+LOCATION:200-303
 DESCRIPTION:A survey of significant religious traditions of the world with emphasis on contemporary manifestations. We will address aspects of Buddhism, Christianity, Hinduism, Islam, Judaism, and Sikhism. In addition, we will discuss interaction between individuals and communities in diverse and complex religious settings such as East Asia, the Middle East, and North America.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:RELIGST1 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20160925T011715
+CREATED:20170109T213806
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

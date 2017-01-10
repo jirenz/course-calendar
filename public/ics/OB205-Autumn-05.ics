@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160922T113000
-LAST-MODIFIED:20160925T011600
-UID:explore_courses54a658ba-9c42-4d4a-8bdc-9e66d202a069
-DTSTAMP:20160925T011600
-LOCATION:
-DESCRIPTION:This course introduces you to the structures and processes that affect group performance and highlights some of the common pitfalls associated with working in teams. Topics include team culture, fostering creativity and coordination, making group decisions, and dealing with a variety of personalities. You will participate in a number of group exercises to illustrate principles of teamwork and to give you practice not only diagnosing team problems but also taking action to improve total team performance.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:OB205 WKS
-DTSTART;TZID=America/Los_Angeles:20160922T080000
-CREATED:20160925T011600
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160923T113000;BYDAY=TH,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160919T170000
-LAST-MODIFIED:20160925T011600
-UID:explore_coursesc2f38d87-45e6-47df-ac8b-576745f1b193
-DTSTAMP:20160925T011600
+LAST-MODIFIED:20170109T213843
+UID:explore_courses97fdc314-30a8-43ae-a24a-fd85b00b4a41
+DTSTAMP:20170109T213843
 LOCATION:GSB Class of 1968 105
 DESCRIPTION:This course introduces you to the structures and processes that affect group performance and highlights some of the common pitfalls associated with working in teams. Topics include team culture, fostering creativity and coordination, making group decisions, and dealing with a variety of personalities. You will participate in a number of group exercises to illustrate principles of teamwork and to give you practice not only diagnosing team problems but also taking action to improve total team performance.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OB205 WKS
 DTSTART;TZID=America/Los_Angeles:20160919T133000
-CREATED:20160925T011600
+CREATED:20170109T213843
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160923T170000;BYDAY=MO,TU,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160922T113000
+LAST-MODIFIED:20170109T213843
+UID:explore_coursesbd225bc3-f458-4e43-b5b7-389a5d9245b5
+DTSTAMP:20170109T213843
+LOCATION:
+DESCRIPTION:This course introduces you to the structures and processes that affect group performance and highlights some of the common pitfalls associated with working in teams. Topics include team culture, fostering creativity and coordination, making group decisions, and dealing with a variety of personalities. You will participate in a number of group exercises to illustrate principles of teamwork and to give you practice not only diagnosing team problems but also taking action to improve total team performance.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OB205 WKS
+DTSTART;TZID=America/Los_Angeles:20160922T080000
+CREATED:20170109T213843
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160923T113000;BYDAY=TH,FR
 END:VEVENT
 END:VCALENDAR

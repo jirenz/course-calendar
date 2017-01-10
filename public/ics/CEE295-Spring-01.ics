@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20160925T011627
-UID:explore_courses489a45e4-2e72-4a9d-a69f-f26e2e5c024a
-DTSTAMP:20160925T011627
+LAST-MODIFIED:20170109T213822
+UID:explore_coursese3137494-9d22-4d80-adac-725b876a5e94
+DTSTAMP:20170109T213822
 LOCATION:McCullough 122
 DESCRIPTION:Rate-independent elastoplasticity; classical plasticity models for metals and cohesive-frictional materials; cap plasticity models for porous materials; return-mapping algorithm; shear bands, faults, and other discontinuities; Lagrange multipliers, penalty and augmented Lagrangian methods for frictional contact; multiscale techniques: extended finite element and strong discontinuity methods; fault rupture dynamics with bulk plasticity. Prerequisite: CEE 281 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE295 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20160925T011627
+CREATED:20170109T213822
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

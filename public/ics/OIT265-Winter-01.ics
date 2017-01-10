@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T115000
+LAST-MODIFIED:20170109T213843
+UID:explore_coursese9b0bf93-d255-4ff6-8f9f-8693e81fbcaf
+DTSTAMP:20170109T213843
+LOCATION:GSB Gunn 101
+DESCRIPTION:This is the base version of D&amp;D. This course introduces the fundamental concepts and techniques for analyzing risk and formulating sound decisions in uncertain environments. Approximately half of the course focuses on probability and its application. The remainder of the course examines statistical methods for interpreting and analyzing data including sampling concepts, regression analysis, and hypothesis testing. Applications include inventory management, demand analysis, portfolio analysis, surveys and opinion polls, A/B testing, environmental contamination, online advertising and the role of analytics in business settings more generally. The course emphasizes analytical techniques and concepts that are broadly applicable to business problems.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OIT265 CAS
+DTSTART;TZID=America/Los_Angeles:20170109T103000
+CREATED:20170109T213843
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=MO,FR
+END:VEVENT
+END:VCALENDAR

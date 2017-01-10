@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20160925T011635
-UID:explore_courses36f2e838-eed0-4923-ab65-9ec2911f1788
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_courses8f598422-3847-4a7e-9ca0-26d37d653232
+DTSTAMP:20170109T213838
 LOCATION:320-220
 DESCRIPTION:Introduction to linear and nonlinear continuum mechanics of solids. Introduction to tensor algebra and tensor analysis. Kinematics of motion. Balance equations of mass, linear and angular momentum, energy, and entropy. Constitutive equations of isotropic and anisotropic hyperelastic solids. Introduction to numerical solution techniques.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME333C LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

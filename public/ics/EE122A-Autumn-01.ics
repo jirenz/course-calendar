@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20160925T011632
-UID:explore_coursesaccdfb00-e3aa-4068-b08e-4581068577a1
-DTSTAMP:20160925T011632
-LOCATION:Herrin T185
+LAST-MODIFIED:20170109T213832
+UID:explore_courses3bfb4841-ea38-4f25-92f1-941ed77dc537
+DTSTAMP:20170109T213832
+LOCATION:200-030
 DESCRIPTION:The course covers practical applications of mixed-signal circuits, including simple amplifiers, filters (passive, op-amp, switched-capacitor and digital-signal-processor-based), oscillators, power supplies, sensors and interface (input/output) circuits. Practical design skills, computer-aided design, and circuit fabrication and debugging are core topics. The design process is learned through proposing, designing, simulating, building, debugging, and demonstrating a substantial and novel team project. Radio frequency and largely digital projects not suitable for EE 122. Prerequisite: basic electronics laboratory experience with solid working knowledge of circuit analysis, Fourier and Laplace methods.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE122A LAB
 DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

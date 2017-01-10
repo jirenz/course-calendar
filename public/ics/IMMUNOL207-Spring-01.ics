@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T175000
-LAST-MODIFIED:20160925T011614
-UID:explore_coursesa2a3a522-1c29-43e8-a9d3-236c43dc3ee7
-DTSTAMP:20160925T011614
+LAST-MODIFIED:20170109T213900
+UID:explore_coursesa0509867-8304-4f73-b510-b77c68fc9f84
+DTSTAMP:20170109T213900
 LOCATION:Li Ka Shing Center, rms304/305
 DESCRIPTION:Introduction to the major underpinnings of systems immunology: first principles of development of computational approaches to immunological questions and research; details of the algorithms and statistical principles underlying commonly used tools; aspects of study design and analysis of data sets. Prerequisites: CS106a and CS161 strongly recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:IMMUNOL207 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T163000
-CREATED:20160925T011614
+CREATED:20170109T213900
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

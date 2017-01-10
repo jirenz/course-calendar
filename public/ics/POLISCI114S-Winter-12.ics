@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T132000
-LAST-MODIFIED:20160925T011712
-UID:explore_courses1d54b11a-e521-48e6-ba69-00239e1a3e5a
-DTSTAMP:20160925T011712
-LOCATION:Encina Hall C464
+DTEND;TZID=America/Los_Angeles:20170111T112000
+LAST-MODIFIED:20170109T213804
+UID:explore_coursesb8e8532f-439e-41d6-af65-32c197408918
+DTSTAMP:20170109T213804
+LOCATION:380-381T
 DESCRIPTION:This class surveys the most pressing global security problems facing the world today and includes an award-winning two-day international crisis simulation.  Past guest lecturers have included former Secretary of Defense William Perry, former U.S. Ambassador to Afghanistan Gen. Karl Eikenberry, and former Secretary of State Condoleezza Rice. Major topics covered: changing types of warfare, ethics and conduct of war, nuclear proliferation, insurgency and terrorism, Russia, and ISIS. No prior background in international relations is necessary.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI114S DIS
-DTSTART;TZID=America/Los_Angeles:20170111T123000
-CREATED:20160925T011712
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170111T103000
+CREATED:20170109T213804
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

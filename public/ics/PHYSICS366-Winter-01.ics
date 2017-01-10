@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T165000
-LAST-MODIFIED:20160925T011711
-UID:explore_courses20a6a5bf-9288-4431-a543-56ea9651c9b0
-DTSTAMP:20160925T011711
-LOCATION:Hewlett Teaching Center 102
-DESCRIPTION:Existing and emerging statistical techniques and their application to astronomical surveys and cosmological data analysis. Topics covered will include statistical frameworks (Bayesian inference and frequentist statistics), numerical methods including Markov Chain Monte Carlo, and machine learning applied to classification and regression. Hands on activities based on open-source software in python. Recommended prerequisites: PHYSICS 260 and 261, or equivalent. Familiarity with Python coding and basic statistics at level of STATS 116. This course runs for the first five weeks of the quarter.
+DTEND;TZID=America/Los_Angeles:20170110T162000
+LAST-MODIFIED:20170109T213802
+UID:explore_coursesb27f3271-26b8-48dc-8013-fb28ec6062a0
+DTSTAMP:20170109T213802
+LOCATION:380-381T
+DESCRIPTION:Existing and emerging statistical techniques and their application to astronomical surveys and cosmological data analysis. Topics covered will include statistical frameworks (Bayesian inference and frequentist statistics), numerical methods including Markov Chain Monte Carlo, and machine learning applied to classification and regression. Hands on activities based on open-source software in python.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS366 LEC
-DTSTART;TZID=America/Los_Angeles:20170112T150000
-CREATED:20160925T011711
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T165000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170110T150000
+CREATED:20170109T213802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

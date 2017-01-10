@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T102000
+LAST-MODIFIED:20170109T213852
+UID:explore_courses26e5e2a9-c330-4ea8-895c-2a8ab36b357c
+DTSTAMP:20170109T213852
+LOCATION:Green Earth Sciences134
+DESCRIPTION:Solid, aqueous, and gaseous phases comprising the environment, their natural compositional variations, and chemical interactions. Contrast between natural sources of hazardous elements and compounds and types and sources of anthropogenic contaminants and pollutants. Chemical and physical processes of weathering and soil formation. Chemical factors that affect the stability of solids and aqueous species under earth surface conditions. The release, mobility, and fate of contaminants in natural waters and the roles that water and dissolved substances play in the physical behavior of rocks and soils. The impact of contaminants and design of remediation strategies. Case studies. Prerequisite: 90 or consent of instructor.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GS270 LEC
+DTSTART;TZID=America/Los_Angeles:20170109T093000
+CREATED:20170109T213852
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

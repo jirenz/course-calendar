@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T182000
-LAST-MODIFIED:20160925T011635
-UID:explore_coursesf8ec0cc7-a7f3-4a08-afe8-af97083e985e
-DTSTAMP:20160925T011635
+DTEND;TZID=America/Los_Angeles:20170403T175000
+LAST-MODIFIED:20170109T213632
+UID:explore_courses2cfbdc8b-7ada-472f-8442-70de10b01fb3
+DTSTAMP:20170109T213632
 LOCATION:160-120
 DESCRIPTION:This seminar examines how communities of color have critiqued and transformed capitalism in America through concepts of economic independence, entrepreneurship, and sovereignty.  By tracing concepts such as the double-duty dollar, casino/tribal capitalisms, retail boycotts, and buying black, the course traces ethnic entrepreneurialism in America. Students will also consider the international context of such US-based movements, particularly in relation to American imperialism and global supply-chain capitalism.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AFRICAAM120F SEM
 DTSTART;TZID=America/Los_Angeles:20170403T163000
-CREATED:20160925T011635
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T182000;BYDAY=MO,WE
+CREATED:20170109T213632
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

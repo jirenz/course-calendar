@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170220T114500
-LAST-MODIFIED:20160925T011559
-UID:explore_coursesc49c55b8-28f1-4de1-b758-49cc394b2e97
-DTSTAMP:20160925T011559
-LOCATION:
-DESCRIPTION:HRMGT 284 will focus on the organization strategy of the firm. The success of a firm depends not just on a well-designed product market strategy, but on how well that strategy is executed to align the goals of the employees with those of the firm. Topics covered include meeting strategic objectives, hiring, pay, training, teamwork, promotions, performance evaluation, pay for top executives, management practices in startups, and organizational transformation. While the general theme is the management of the firm, the topics also lend themselves to developing perspectives on how you manage your personal career.
+DTEND;TZID=America/Los_Angeles:20170221T114500
+LAST-MODIFIED:20170109T213842
+UID:explore_courses5309cb28-f47b-473d-8d4f-473755ce3d6c
+DTSTAMP:20170109T213842
+LOCATION:GSB Class of 1968 105
+DESCRIPTION:The average CEO, C-suite manager, or funder, will say that a firm&iquest;s success hinges on hiring and motivating the right people. Therefore, this class aims to examine the people management strategies you might choose from as you build a young firm, or as you grow a larger firm. There are three facets to this course. The first is to acknowledge that the People Management Strategy that you choose must be selected with the overall external strategy of the firm in mind. Technology-based firms will have different strategies than brick-n-mortar retail firms. The second facet is to discuss the evolution of people management strategies as the firm grows over time: a very small firm will have few formal processes; a large firm typically can&iquest;t live without them and may need to change them over time. The third facet covered is an analysis of the detailed issues you should consider as you set up your HR practices surrounding hiring, compensation, and promotion. Classes will have guest speakers, and cases will draw from LinkedIn, Box, Royal Bank of Canada, Tesla, the Gap, and various startups.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRMGT284 CAS
-DTSTART;TZID=America/Los_Angeles:20170220T100000
-CREATED:20160925T011559
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T114500;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20170221T100000
+CREATED:20170109T213842
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T114500;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

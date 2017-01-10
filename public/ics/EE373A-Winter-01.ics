@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses11285f52-3608-4c35-803b-3c84379f7278
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses3422d33b-169f-4fb4-b5e8-c747bd76404f
+DTSTAMP:20170109T213832
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Learning algorithms for adaptive digital filters. Self-optimization. Wiener filter theory. Quadratic performance functions, their eigenvectors and eigenvalues. Speed of convergence. Asymptotic performance versus convergence rate. Applications of adaptive filters to statistical prediction, process modeling, adaptive noise canceling, adaptive antenna arrays, adaptive inverse control, and equalization and echo canceling in modems. Artificial neural networks. Cognitive memory/human and machine. Natural and artificial synapses. Hebbian learning. The Hebbian-LMS algorithm. Theoretical and experimental research projects in adaptive filter theory, communications, audio systems, and neural networks. Biomedical research projects, supervised jointly by EE and Medical School faculty. Recommended: EE263, EE264, EE278.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE373A LEC
 DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

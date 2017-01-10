@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T112000
-LAST-MODIFIED:20160925T011609
-UID:explore_courses4e08058d-e1c7-4490-91cb-6f36fe7b5957
-DTSTAMP:20160925T011609
-LOCATION:160-125
+DTEND;TZID=America/Los_Angeles:20170403T112000
+LAST-MODIFIED:20170109T213817
+UID:explore_courses2654a71c-19af-4ef4-a346-40afc2a868b8
+DTSTAMP:20170109T213817
+LOCATION:160-330
 DESCRIPTION:Rhetorical analysis of readings, research, and argument. Focus is on development of a substantive research-based argument using multiple sources. Individual conferences with instructor. For more information about PWR 1, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-1. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR1JPA SEM
-DTSTART;TZID=America/Los_Angeles:20170404T093000
-CREATED:20160925T011609
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170403T093000
+CREATED:20170109T213817
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

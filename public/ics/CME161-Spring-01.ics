@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20160925T011628
-UID:explore_courses5d57d757-d55a-47d7-9fc9-565965dcf917
-DTSTAMP:20160925T011628
+LAST-MODIFIED:20170109T213823
+UID:explore_courses8da3e089-9f4b-4310-8f5e-bd1264b24aaf
+DTSTAMP:20170109T213823
 LOCATION:200-303
 DESCRIPTION:Provides practical experience on combining data science and graphic design to effectively communicate knowledge buried inside complex data. Topics: data, visualization and web; will explore different sets of free industry-standard tools, for example d3.js, three.js, and processing.js; enabling students to think critically about how to architect their own interactive visualization for data exploration, web, presentations, and publications. Advanced topics including immersive 3D visualization using Google Cardboard and dynamic visualization using sensors are explored. Assignments are interactive online tutorials that focus on visual experimentation with interesting data sets or the students' own data. Prerequisites: intermediate level programming experience is required to understand the lectures and assignments.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME161 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20160925T011628
+CREATED:20170109T213823
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

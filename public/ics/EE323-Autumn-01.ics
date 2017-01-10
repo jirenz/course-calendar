@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses1f29207f-c870-4572-a234-b7f77e4cbf17
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_coursesf5f08c02-3617-4b3c-b83a-d6f34877c6e9
+DTSTAMP:20170109T213832
 LOCATION:160-124
-DESCRIPTION:This course examines energy in modern nanoelectronics, from fundamentals to system-level issues.  Topics include fundamental aspects like energy transfer through electrons and phonons, ballistic limits of current and heat, meso- to macroscale mobility and thermal conductivity. The course also nexamines applied topics including power dissipation in nanoscale devices (FinFETs, phase-change memory, nanowires, graphene, nanotubes), circuit leakage, thermal breakdown, thermometry, heat sinks, and thermal challenges in densely integrated systems. Recommended: EE 216 or equivalent.
+DESCRIPTION:EE 323 examines energy in modern nanoelectronics, from fundamentals to systems. Fundamental topics include energy storage and transfer via electrons and phonons, ballistic limits of current and heat, meso- to macroscale mobility and thermal conductivity. Applied topics include power in nanoscale devices (1D nanotubes and nanowires, 2D materials, 3D silicon CMOS, resistive memory and interconnects), circuit leakage, temperature measurements, thermoelectric energy conversion, and thermal challenges in densely integrated systems. Basic knowledge of semiconductors, transistors, and Matlab (or similar) are recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE323 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

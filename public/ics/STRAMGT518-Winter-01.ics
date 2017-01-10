@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170130T175000
-LAST-MODIFIED:20160925T011600
-UID:explore_courses853514b2-fea4-4e61-8bf4-e8824cba1283
-DTSTAMP:20160925T011600
-LOCATION:
-DESCRIPTION:The Global advertising market is forecast to top $600 Billion in 2016, with advances in advertising technology, such as online publishing, digital and mobile advertising platforms, as well as new ways of consuming video content, driving a rapid evolution of the market. We analyze this evolution from the perspective of three main constituents: 1) Marketers who rely on advertising to launch and sustain product sales, 2) Publishers and media owners for whom advertising often represents the largest source of monetization, and 3) Advertising agencies who design, plan and buy media for advertising campaigns. From the marketer's perspective, we will look at the metrics and methods that are used in optimizing the use of advertising in an increasingly fragmented, complex marketplace.nnFrom the media side, we will look at different selling and delivery strategies that can help publishers, particularly digital ones, monetize their audience more effectively.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:STRAMGT518 SEM
-DTSTART;TZID=America/Los_Angeles:20170130T150000
-CREATED:20160925T011600
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170203T175000;BYDAY=MO,WE,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170213T175000
-LAST-MODIFIED:20160925T011600
-UID:explore_coursesa10c1d11-7a91-47fd-9b23-395925bc789e
-DTSTAMP:20160925T011600
-LOCATION:
+LAST-MODIFIED:20170109T213845
+UID:explore_coursesc9b234d4-a821-4b6a-bc88-3f468b6b181a
+DTSTAMP:20170109T213845
+LOCATION:GSB Class of 1968 106
 DESCRIPTION:The Global advertising market is forecast to top $600 Billion in 2016, with advances in advertising technology, such as online publishing, digital and mobile advertising platforms, as well as new ways of consuming video content, driving a rapid evolution of the market. We analyze this evolution from the perspective of three main constituents: 1) Marketers who rely on advertising to launch and sustain product sales, 2) Publishers and media owners for whom advertising often represents the largest source of monetization, and 3) Advertising agencies who design, plan and buy media for advertising campaigns. From the marketer's perspective, we will look at the metrics and methods that are used in optimizing the use of advertising in an increasingly fragmented, complex marketplace.nnFrom the media side, we will look at different selling and delivery strategies that can help publishers, particularly digital ones, monetize their audience more effectively.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STRAMGT518 SEM
 DTSTART;TZID=America/Los_Angeles:20170213T150000
-CREATED:20160925T011600
+CREATED:20170109T213845
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170217T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170130T175000
+LAST-MODIFIED:20170109T213845
+UID:explore_courses99516119-2078-4827-9427-5eb6c7ae2948
+DTSTAMP:20170109T213845
+LOCATION:GSB Class of 1968 106
+DESCRIPTION:The Global advertising market is forecast to top $600 Billion in 2016, with advances in advertising technology, such as online publishing, digital and mobile advertising platforms, as well as new ways of consuming video content, driving a rapid evolution of the market. We analyze this evolution from the perspective of three main constituents: 1) Marketers who rely on advertising to launch and sustain product sales, 2) Publishers and media owners for whom advertising often represents the largest source of monetization, and 3) Advertising agencies who design, plan and buy media for advertising campaigns. From the marketer's perspective, we will look at the metrics and methods that are used in optimizing the use of advertising in an increasingly fragmented, complex marketplace.nnFrom the media side, we will look at different selling and delivery strategies that can help publishers, particularly digital ones, monetize their audience more effectively.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STRAMGT518 SEM
+DTSTART;TZID=America/Los_Angeles:20170130T150000
+CREATED:20170109T213845
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170203T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

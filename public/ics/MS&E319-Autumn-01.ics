@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20160925T011633
-UID:explore_coursesfba83341-d09f-475f-aba1-4adcbfb6562b
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213834
+UID:explore_coursesf254cc9b-48ce-4082-a26c-ac2e5c01195b
+DTSTAMP:20170109T213834
 LOCATION:Thornt210
 DESCRIPTION:Combinatorial and mathematical programming techniques to derive approximation algorithms for NP-hard optimization problems. Prossible topics include: greedy algorithms for vertex/set cover; rounding LP relaxations of integer programs; primal-dual algorithms; semidefinite relaxations. May be repeated for credit. Prerequisites: 112 or CS 161.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E319 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

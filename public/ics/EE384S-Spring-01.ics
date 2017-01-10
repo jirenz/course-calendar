@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T175000
-LAST-MODIFIED:20160925T011632
-UID:explore_coursesd94f918c-90fb-4803-b840-d642cd9dfdd1
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_coursesf7e552c7-fd5c-4964-88ef-6c5ad3a08b0b
+DTSTAMP:20170109T213832
 LOCATION:School of Education 313
 DESCRIPTION:Modeling and control methodologies for high-performance network engineering, including: Markov chains and stochastic modeling, queueing networks and congestion management, dynamic programming and task/processor scheduling, network dimensioning and optimization, and simulation methods. Applications for design of high-performance architectures for wireline/wireless networks and the Internet, including: traffic modeling, admission and congestion control, quality of service support, power control in wireless networks, packet scheduling in switches, video streaming over wireless links, and virus/worm propagation dynamics and countermeasures. Enrollment limited to 30. Prerequisites: basic networking technologies and probability.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE384S LEC
 DTSTART;TZID=America/Los_Angeles:20170404T163000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20160925T011635
-UID:explore_courses16e23d59-8130-4583-901e-b15a505f7575
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_coursesb4b7f2e0-5687-4442-9dc5-de1f7b6135f7
+DTSTAMP:20170109T213838
 LOCATION:160-315
 DESCRIPTION:The last two decades have seen the widespread use of Computational Fluid Dynamics (CFD) for analysis and design of thermal-fluids systems in a wide variety of engineering fields. Numerical methods used in CFD have reached a high degree of sophistication and accuracy. The objective of this course is to introduce &iquest;classical&iquest; approaches and algorithms used for the numerical simulations of incompressible flows. In addition, some of the more recent developments are described, in particular as they pertain to unstructured meshes and parallel computers. An in-depth analysis of the procedures required to certify numerical codes and results will conclude the course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME469 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20160925T011630
-UID:explore_coursesd86094b7-c95b-44d8-8857-682bafe25775
-DTSTAMP:20160925T011630
-LOCATION:
+LAST-MODIFIED:20170109T213829
+UID:explore_coursesb219e591-dbcd-48f9-be6d-52cb1bf473da
+DTSTAMP:20170109T213829
+LOCATION:Gates100
 DESCRIPTION:Topics vary. Focus is on emerging research themes such as programmable open mobile Internet that spans multiple system topics such as human-computer interaction, programming systems, operating systems, networking, and security. May be repeated for credit. Prerequisites: CS 103 and 107.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS294S LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

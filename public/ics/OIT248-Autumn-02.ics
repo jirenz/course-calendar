@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20160925T011559
-UID:explore_courseseb0e6717-7eac-482c-b037-fcecf54231c8
-DTSTAMP:20160925T011559
+LAST-MODIFIED:20170109T213843
+UID:explore_courses4f680103-367b-4481-af11-0d9d300b6c7b
+DTSTAMP:20170109T213843
 LOCATION:GSB Class of 1968 106
 DESCRIPTION:This is the Advanced Applications option in the menu of courses that satisfy the Management Perspectives requirement in Optimization and Simulation Modeling (OSM). The course is tailored to students who already have command of basic optimization and modeling techniques, or who have a quantitative background that will allow them to catch up quickly. Some basic programming will be required, so experience with at least one programming language is recommended. The course will focus on using optimization techniques in practice. We will start by discussing different types of optimization models, including linear, integer, and quadratic optimization models. We will then discuss modeling techniques to make these models more realistic, such as multi-objective approaches and using regression models within optimization formulations. Lastly, we will cover tips and tricks for solving large models in practice, such as setting solving limits and heuristics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT248 CAS
 DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20160925T011559
+CREATED:20170109T213843
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,TH
 END:VEVENT
 END:VCALENDAR

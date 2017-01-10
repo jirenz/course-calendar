@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses05a3feeb-9742-418f-823a-dc1380fe52c5
-DTSTAMP:20160925T011630
-LOCATION:McCullough 126
+LAST-MODIFIED:20170109T213829
+UID:explore_coursesfdd770d1-1cf4-41f1-805f-e1fd6064eb63
+DTSTAMP:20170109T213829
+LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:In-depth coverage of the architectural techniques used in modern, multi-core chips for mobile and server systems. Advanced processor design techniques (superscalar cores, VLIW cores, multi-threaded cores, energy-efficient cores), cache coherence, memory consistency, vector processors, graphics processors, heterogeneous processors, and hardware support for security and parallel programming. Students will become familiar with complex trade-offs between performance-power-complexity and hardware-software interactions. A central part of CS316 is a project on an open research question on multi-core technologies. Prerequisites: EE 180 (formerly 108B). Recommended: CS 149, EE 282.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS316 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

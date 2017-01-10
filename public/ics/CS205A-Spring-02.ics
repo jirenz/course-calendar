@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170407T122000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses3783c9a8-4888-46c1-9ad2-a75f98f984ab
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_courses85b4e1e3-7e3a-4d21-b76d-a1a02e8ef815
+DTSTAMP:20170109T213829
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:Continuous mathematics background necessary for research in robotics, vision, and graphics. Possible topics: linear algebra; the conjugate gradient method; ordinary and partial differential equations; vector and tensor calculus. Prerequisites: 106B or X; MATH 51; or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS205A DIS
 DTSTART;TZID=America/Los_Angeles:20170407T113000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

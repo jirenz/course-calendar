@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20160925T011609
-UID:explore_courses5d5d9d24-3b4c-4196-a89b-0c66cc9693a0
-DTSTAMP:20160925T011609
-LOCATION:160-127
-DESCRIPTION:Prerequisite: PWR 1. Further work in developing skills in argument and research-based writing, with emphasis on both written and oral/multimedia presentation of research. For more information about PWR 2, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-2. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
+DTEND;TZID=America/Los_Angeles:20170109T132000
+LAST-MODIFIED:20170109T213817
+UID:explore_coursesf5a92bfa-07c4-4227-b688-c2cc1d6ecb3d
+DTSTAMP:20170109T213817
+LOCATION:160-123
+DESCRIPTION:Prerequisite: PWR 1. Sea-level rise, the halting of major ocean circulatory currents, outbreaks of superstorms leading to floods and droughts - can an energy revolution still save a planet on the edge? This class explores the intricacies of sustainable energy, focusing on the myths, slogans, and rhetorical narratives that surround these debates. For example, is environmentalism inherently at odds with economic prosperity? Does living an environmentally conscious lifestyle require personal sacrifice and suffering? How does rhetorical framing affect the research, implementation, and public perception of new technologies in the field of sustainable energy? For more information about PWR 2, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-2. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR2KM SEM
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011609
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170109T113000
+CREATED:20170109T213817
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

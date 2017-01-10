@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20160925T011606
-UID:explore_courses1d3fede7-b91d-4bdd-92f5-b29da219e1ff
-DTSTAMP:20160925T011606
+LAST-MODIFIED:20170109T213852
+UID:explore_coursesa3348354-b8c1-45c3-bf94-c9f1e6dcf184
+DTSTAMP:20170109T213852
 LOCATION:Mitch350
 DESCRIPTION:The use of geophysical methods for imaging and characterizing the top 100 meters of Earth for hydrogeologic applications. Includes material properties, forward modeling, data acquisition, inversion, and integration with other forms of measurement. Each week includes three hours of lectures; plus one three-hour lab that involves acquisition of data at campus or nearby sites, or computer modeling of data. Offered occasionally.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS284 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20160925T011606
+CREATED:20170109T213852
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

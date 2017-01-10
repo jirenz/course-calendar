@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T162000
-LAST-MODIFIED:20160925T011605
-UID:explore_courses51583e6d-cc4b-4275-9a78-35d49a9462d9
-DTSTAMP:20160925T011605
-LOCATION:Y2E2 253
-DESCRIPTION:Preference will be given to ESS first-year grad students. Techniques to track biological, chemical, and physical processes operating across the San Francisquito Creek watershed, encompassing upland, aquatic, estuarine, and marine environments. Topics include gas and water flux measurement, assessment of microbiological communities, determination of biological productivity, isotopic analysis, soil and water chemistry determination, and identification of rock strata and weathering processes.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:ESS212 SEM
-DTSTART;TZID=America/Los_Angeles:20170112T150000
-CREATED:20160925T011605
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20160925T011605
-UID:explore_courses074dadb5-599e-4f65-9987-d215dc3495d6
-DTSTAMP:20160925T011605
+LAST-MODIFIED:20170109T213851
+UID:explore_courses2d59a3af-e00e-47a6-bfa1-20729e838d47
+DTSTAMP:20170109T213851
 LOCATION:Y2E2 253
 DESCRIPTION:Preference will be given to ESS first-year grad students. Techniques to track biological, chemical, and physical processes operating across the San Francisquito Creek watershed, encompassing upland, aquatic, estuarine, and marine environments. Topics include gas and water flux measurement, assessment of microbiological communities, determination of biological productivity, isotopic analysis, soil and water chemistry determination, and identification of rock strata and weathering processes.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS212 SEM
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20160925T011605
+CREATED:20170109T213851
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170112T162000
+LAST-MODIFIED:20170109T213851
+UID:explore_coursesdcd0282e-c3a0-4ad0-a71f-ccf921296f41
+DTSTAMP:20170109T213851
+LOCATION:Y2E2 253
+DESCRIPTION:Preference will be given to ESS first-year grad students. Techniques to track biological, chemical, and physical processes operating across the San Francisquito Creek watershed, encompassing upland, aquatic, estuarine, and marine environments. Topics include gas and water flux measurement, assessment of microbiological communities, determination of biological productivity, isotopic analysis, soil and water chemistry determination, and identification of rock strata and weathering processes.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ESS212 SEM
+DTSTART;TZID=America/Los_Angeles:20170112T150000
+CREATED:20170109T213851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

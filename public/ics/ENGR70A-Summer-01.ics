@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170626T122000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses39784b1f-6dc3-42aa-845f-0bbdaa1715f5
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses9daed748-f373-4e91-8703-d710e7ed354c
+DTSTAMP:20170109T213832
 LOCATION:
 DESCRIPTION:Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the Java programming language. Emphasis is on good programming style and the built-in facilities of the Java language. No prior programming experience required. Summer quarter enrollment is limited.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR70A LEC
 DTSTART;TZID=America/Los_Angeles:20170626T113000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T122000;BYDAY=MO,TU,WE,TH
 END:VEVENT
 END:VCALENDAR

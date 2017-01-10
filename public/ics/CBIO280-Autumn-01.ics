@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160928T142000
-LAST-MODIFIED:20160925T011611
-UID:explore_coursesf9eb509b-e0ec-4d5c-acac-dd0b494c4cf7
-DTSTAMP:20160925T011611
+LAST-MODIFIED:20170109T213856
+UID:explore_coursesfd87a92b-6d5d-4acc-902e-40442d2271eb
+DTSTAMP:20170109T213856
 LOCATION:Alway Building, Room M114
 DESCRIPTION:Required of and limited to first- and second-year graduate students in Cancer Biology. Recent papers in the literature presented by graduate students. When possible, discussion relates to and precedes cancer-related seminars at Stanford. Attendance at the relevant seminar required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CBIO280 COL
 DTSTART;TZID=America/Los_Angeles:20160928T123000
-CREATED:20160925T011611
+CREATED:20170109T213856
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

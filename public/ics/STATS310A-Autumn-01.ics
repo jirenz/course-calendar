@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20160925T011718
-UID:explore_coursesc325bb75-185f-4b70-9abb-4b1df308cb6b
-DTSTAMP:20160925T011718
+LAST-MODIFIED:20170109T213811
+UID:explore_courses250fd2de-5854-4e57-a5ff-5dc3b5223b86
+DTSTAMP:20170109T213811
 LOCATION:School of Education 128
 DESCRIPTION:Mathematical tools: sigma algebras, measure theory, connections between coin tossing and Lebesgue measure, basic convergence theorems. Probability: independence, Borel-Cantelli lemmas, almost sure and Lp convergence, weak and strong laws of large numbers. Large deviations. Weak convergence; central limit theorems; Poisson convergence; Stein's method. Prerequisites: 116, MATH 171.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS310A PRC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20160925T011718
+CREATED:20170109T213811
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T170000
-LAST-MODIFIED:20160925T011615
-UID:explore_coursesb0f8e2b6-0114-4b3c-b35e-5742bdad6f07
-DTSTAMP:20160925T011615
+DTEND;TZID=America/Los_Angeles:20170310T170000
+LAST-MODIFIED:20170109T213902
+UID:explore_courses7328b866-10f1-4306-b4e3-c188bcae9fd0
+DTSTAMP:20170109T213902
 LOCATION:
 DESCRIPTION:(For clinical MD students only) Prepares students to manage the victim of a cardiac arrest. Knowledge and skills necessary for resuscitation of critically ill patients. Clinical scenarios and small group discussions address cardiovascular pharmacology, arrhythmia recognition and therapy, acute coronary syndrome including myocardial infarction, ventricular dysrhythmias and defibrillation, and acute ischemic stroke. Requires pre-course preparation and an intensive two-day session on a Friday and Saturday. Students should get the approval of their Clerkship Coordinator before registering for the course.  Recommended prerequisites: Medicine 300A, Pediatrics 300A, or Surgery 300A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED295 PRC
-DTSTART;TZID=America/Los_Angeles:20170113T080000
-CREATED:20160925T011615
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T170000;BYDAY=FR,SA
+DTSTART;TZID=America/Los_Angeles:20170310T080000
+CREATED:20170109T213902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170311T170000;BYDAY=FR,SA
 END:VEVENT
 END:VCALENDAR

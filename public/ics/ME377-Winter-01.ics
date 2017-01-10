@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20160925T011635
-UID:explore_courses5c5aa311-fb04-45c2-b455-53036affaacc
-DTSTAMP:20160925T011635
-LOCATION:Gates100
+DTEND;TZID=America/Los_Angeles:20170110T112000
+LAST-MODIFIED:20170109T213838
+UID:explore_coursesa2824797-b581-4399-86a7-bc8a23d822f9
+DTSTAMP:20170109T213838
+LOCATION:550-STUDIO 1
 DESCRIPTION:Design Thinking Studio is an immersive introduction to design thinking. You will engage in the real world, with your eyes, with your mind, with your hands, and with classmates to learn, practice, and use the tools and attitudes of design. The fundamental goal of the class is to cultivate the creative, synthetic, and divergent thinking of students. This is a project-based class, asking students to take on new behaviors of work: collaboration, experimentation, empathizing, visualization, craft and inference. Field work and collaboration with teammates are required and critical for student success. Winter 2016: This quarter, we will work on exercising your design muscles, the things designers do everyday (outside of projects or process) that shape their practice. In addition to teamwork, we will practice different core design capacities to stimulate creativity, and make you a better communicator and collaborator. Admission by application. See dschool.stanford.edu/classesnfor more information.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME377 WKS
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011635
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170110T090000
+CREATED:20170109T213838
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

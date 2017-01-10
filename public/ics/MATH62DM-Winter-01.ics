@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T102000
-LAST-MODIFIED:20160925T011707
-UID:explore_courses86ce2b26-caf8-493d-a2e6-59d645e5f27e
-DTSTAMP:20160925T011707
-LOCATION:380-380X
+LAST-MODIFIED:20170109T213755
+UID:explore_courses59225983-e447-4197-a008-9bfc7bdb65d7
+DTSTAMP:20170109T213755
+LOCATION:380-380F
 DESCRIPTION:This is the second part of a proof-based sequence in discrete mathematics.  This course covers topics in elementary number theory, group theory, and discrete Fourier analysis.  For example, we'll discuss the basic examples of abelian groups arising from congruences in elementary number theory, as well as the non-abelian symmetric group of permutations.  Prerequisites: 61DM or 61CM.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH62DM LEC
 DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20160925T011707
+CREATED:20170109T213755
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T142000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses6baddcae-e0ce-4cb2-b7a6-f5ea58a35641
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_courses8640114b-13f3-4770-b346-e2e07bffa09a
+DTSTAMP:20170109T213829
 LOCATION:McCullough 126
 DESCRIPTION:Supplemental lab to 106B and 106X. Additional features of standard C++ programming practice. Possible topics include advanced C++ language features, standard libraries, STL containers and algorithms, object memory management, operator overloading, and inheritance. Prerequisite: consent of instructor. Corequisite: 106B or 106X.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106L LAB
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

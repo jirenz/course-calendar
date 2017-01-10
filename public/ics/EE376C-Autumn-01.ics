@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses1635aade-90ea-4788-8571-a13fa59b9d35
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_coursesae1f0385-34ea-4f32-9a68-208ec8dd8268
+DTSTAMP:20170109T213832
 LOCATION:200-203
 DESCRIPTION:Universal schemes for lossless and lossy compression, channel coding and decoding, prediction, denoising, and filtering. Characterization of performance limitations in the stochastic settting: entropy rate, rate-distortion function, channel capacity, Bayes envelope for prediction, denoising, and filtering. Lempel-Ziv lossless compression, and Lempel-Ziv based schemes for lossy compression, channel coding, prediction, and filtering. Discrete universal denoising. Compression-based approach to denoising. The compound decision problem. Prerequisites: EE376A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE376C LEC
 DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T182000
-LAST-MODIFIED:20160925T011628
-UID:explore_courses8271da33-c31c-4528-805a-cdb35aaea25f
-DTSTAMP:20160925T011628
+LAST-MODIFIED:20170109T213823
+UID:explore_courses12eb52ef-6095-4d8a-a1f6-827d8cfd9fb6
+DTSTAMP:20170109T213823
 LOCATION:Bishop Auditorium
 DESCRIPTION:Probability: random variables, independence, and conditional probability; discrete and continuous distributions, moments, distributions of several random variables. Topics in mathematical statistics: random sampling, point estimation, confidence intervals, hypothesis testing, non-parametric tests, regression and correlation analyses; applications in engineering, industrial manufacturing, medicine, biology, and other fields. Prerequisite: CME 100/ENGR154 or MATH 51 or 52.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME106 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T163000
-CREATED:20160925T011628
+CREATED:20170109T213823
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

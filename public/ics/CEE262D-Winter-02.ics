@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20160925T011627
-UID:explore_coursesb9d5634c-c762-48fd-b147-1ab60dd8ee23
-DTSTAMP:20160925T011627
+LAST-MODIFIED:20170109T213822
+UID:explore_courses5188467e-7bcf-457c-8f30-9ea77337f0c7
+DTSTAMP:20170109T213822
 LOCATION:300-300
 DESCRIPTION:Formerly CEE 164. The dynamic basis of oceanography. Topics: physical environment; conservation equations for salt, heat, and momentum; geostrophic flows; wind-driven flows; the Gulf Stream; equatorial dynamics and ENSO; thermohaline circulation of the deep oceans; and tides. Prerequisite: PHYSICS 41 (formerly 53).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE262D DIS
 DTSTART;TZID=America/Los_Angeles:20170110T120000
-CREATED:20160925T011627
+CREATED:20170109T213822
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

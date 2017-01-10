@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170112T152000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses01b39be6-2cf9-48da-b974-473e0087b06c
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_courseseb85f256-a8c1-4c3d-b13b-8ad3fc77d843
+DTSTAMP:20170109T213829
 LOCATION:School of Education 230
 DESCRIPTION:Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the Java programming language. Emphasis is on good programming style and the built-in facilities of the Java language. No prior programming experience required. Summer quarter enrollment is limited.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106A DIS
 DTSTART;TZID=America/Los_Angeles:20170112T143000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

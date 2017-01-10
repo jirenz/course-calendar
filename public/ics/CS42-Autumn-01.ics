@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20160925T011630
-UID:explore_coursesa007a2ef-6d20-403f-b3f0-6b9cea67cd09
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_coursesbd3aa9e3-1f25-4d6a-9d27-5a1fade4fd70
+DTSTAMP:20170109T213829
 LOCATION:200-034
 DESCRIPTION:Introduction to the JavaScript programming language with a focus on building contemporary applications. Course consists of in-class activities and programming assignments that challenge students to create functional web apps (e.g. Yelp, Piazza, Instagram). Topics include syntax/semantics, event-based programming, document object model (DOM), application programming interfaces (APIs), asynchronous JavaScript and XML (AJAX), jQuery, Node.js, and MongoDB. Prerequisite: CS 107.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS42 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T093000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

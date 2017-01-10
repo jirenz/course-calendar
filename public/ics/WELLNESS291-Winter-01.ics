@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T175000
-LAST-MODIFIED:20160925T011623
-UID:explore_courses42e4e43f-3ed9-4f71-9f34-203ce22ecc68
-DTSTAMP:20160925T011623
-LOCATION:Lathrop 282
+DTEND;TZID=America/Los_Angeles:20170111T172000
+LAST-MODIFIED:20170109T213840
+UID:explore_coursesab3dff15-da7f-4c8a-9bff-0b58b8bd2515
+DTSTAMP:20170109T213840
+LOCATION:160-328
 DESCRIPTION:Explores how physical factors (proper nutrition, adequate exercise, stress management, and effective sleep practices) serve as the foundation for wellness. Examines current controversies and research in the field of mind-body wellness and holistic health, with specific emphasis on the relationship between physical factors and psychological states. Provides guided-practices on using established wellness principles to live a healthy and happy life.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:WELLNESS291 ACT
-DTSTART;TZID=America/Los_Angeles:20170112T150000
-CREATED:20160925T011623
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170111T153000
+CREATED:20170109T213840
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

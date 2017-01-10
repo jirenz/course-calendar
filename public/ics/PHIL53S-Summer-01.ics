@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170626T145000
-LAST-MODIFIED:20160925T011710
-UID:explore_coursesa05825a7-9fc0-421e-ad3a-4a0b439dafea
-DTSTAMP:20160925T011710
+LAST-MODIFIED:20170109T213800
+UID:explore_courses5b89633a-15a3-4c83-b83d-fc0c329336ba
+DTSTAMP:20170109T213800
 LOCATION:
 DESCRIPTION:The course covers formal techniques for logical reasoning with both diagrams and sentences. The sentential part covers the same material as a standard course on first-order logic, though in less depth. It includes syntax, semantics and proof theory, but does not include any meta-theory. The diagrammatic part is novel, focusing on techniques for solving reasoning problems using diagrams and sentences in concert. We take seriously the idea that diagrams convey information in the same sense that sentences do and that it is possible to provide forma criteria for logically correct reasoning with diagrams. We use the Hyperproof courseware package which includes desktop software, an online assessment service which allows student to experiment hands-on with the material, and other online resources.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL53S LEC
 DTSTART;TZID=America/Los_Angeles:20170626T133000
-CREATED:20160925T011710
+CREATED:20170109T213800
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

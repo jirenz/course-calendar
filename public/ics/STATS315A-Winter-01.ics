@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20160925T011718
-UID:explore_courses25980c75-74f3-46b7-ad30-696eb7e788ce
-DTSTAMP:20160925T011718
+LAST-MODIFIED:20170109T213811
+UID:explore_courses663ac10f-594f-442e-b5f1-e3658c6c21ce
+DTSTAMP:20170109T213811
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:Overview of supervised learning. Linear regression and related methods. Model selection, least angle regression and the lasso, stepwise methods. Classification. Linear discriminant analysis, logistic regression, and support vector machines (SVMs).  Basis expansions, splines and regularization. Kernel methods. Generalized additive models. Kernel smoothing. Gaussian mixtures and the EM algorithm. Model assessment and selection: crossvalidation and the bootstrap. Pathwise coordinate descent. Sparse graphical models. Prerequisites: STATS 305, 306A,B or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS315A LEC
 DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20160925T011718
+CREATED:20170109T213811
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

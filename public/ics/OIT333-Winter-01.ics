@@ -23,30 +23,30 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20160925T011559
-UID:explore_coursesb940b022-85b8-4f18-bc9a-7719f7ca6823
-DTSTAMP:20160925T011559
+LAST-MODIFIED:20170109T213843
+UID:explore_coursesdb5e2c13-4cf3-4ce8-9c5f-5e68bb4c316a
+DTSTAMP:20170109T213843
 LOCATION:550-STUDIO 2
 DESCRIPTION:This course is a Bass Seminar. Project course jointly offered by School of Engineering and Graduate School of Business. Students apply engineering and business skills to design product or service prototypes, distribution systems, and business plans for entrepreneurial ventures that meet that challenges faced by the world's poor. Topics include user empathy, appropriate technology design, rapid prototype engineering and testing, social technology entrepreneurship, business modeling, and project management. Weekly design reviews; final course presentation. Industry and adviser interaction. Limited enrollment via application; see http://extreme.stanford.edu/index.html for details.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT333 SEM
 DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20160925T011559
+CREATED:20170109T213843
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T205000
-LAST-MODIFIED:20160925T011559
-UID:explore_courses4fd3e1eb-d2f7-4ac4-9b72-875909fb1a8d
-DTSTAMP:20160925T011559
+DTEND;TZID=America/Los_Angeles:20170112T213000
+LAST-MODIFIED:20170109T213843
+UID:explore_coursesa0160c4f-9ec2-4f5c-b9e9-b7f191b54065
+DTSTAMP:20170109T213843
 LOCATION:550-STUDIO 2
 DESCRIPTION:This course is a Bass Seminar. Project course jointly offered by School of Engineering and Graduate School of Business. Students apply engineering and business skills to design product or service prototypes, distribution systems, and business plans for entrepreneurial ventures that meet that challenges faced by the world's poor. Topics include user empathy, appropriate technology design, rapid prototype engineering and testing, social technology entrepreneurship, business modeling, and project management. Weekly design reviews; final course presentation. Industry and adviser interaction. Limited enrollment via application; see http://extreme.stanford.edu/index.html for details.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT333 SEM
 DTSTART;TZID=America/Los_Angeles:20170112T193000
-CREATED:20160925T011559
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T205000;BYDAY=TH
+CREATED:20170109T213843
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T213000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

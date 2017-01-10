@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20160925T011719
-UID:explore_courses5f5f29c3-29d6-44c3-9855-71ccd8be29d8
-DTSTAMP:20160925T011719
+DTEND;TZID=America/Los_Angeles:20170109T152000
+LAST-MODIFIED:20170109T213812
+UID:explore_coursesc52e446c-c039-438e-962e-5525d6838f02
+DTSTAMP:20170109T213812
 LOCATION:Memaud204
 DESCRIPTION:The improvisational theater techniques that teach spontaneity, cooperation, team building, and rapid problem solving, emphasizing common sense, attention to reality, and helping your partner. Based on TheatreSports by Keith Johnstone. Readings, papers, and attendance at performances of improvisational theater. Limited enrollment.  Improv, Improvisation, creativity and creative expression.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS103 PRA
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20160925T011719
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170109T133000
+CREATED:20170109T213812
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

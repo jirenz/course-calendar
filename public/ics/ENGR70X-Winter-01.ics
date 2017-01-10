@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T142000
-LAST-MODIFIED:20160925T011632
-UID:explore_coursesc3d995b5-2c7f-45f7-af18-fec2016d520f
-DTSTAMP:20160925T011632
-LOCATION:McMurtry Building rm 102
+LAST-MODIFIED:20170109T213832
+UID:explore_courses927f37ae-c936-48ec-8a69-83295e21a795
+DTSTAMP:20170109T213832
+LOCATION:200-030
 DESCRIPTION:Intensive version of 106B for students with a strong programming background interested in a rigorous treatment of the topics at an accelerated pace. Additional advanced material and more challenging projects. Prerequisite: excellence in 106A or equivalent, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR70X LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

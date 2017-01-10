@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T152000
-LAST-MODIFIED:20160925T011635
-UID:explore_courses1a693016-81de-4215-b277-80b07ff7d28e
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_courses970bac52-08cc-45a8-b0eb-6b403af59ddf
+DTSTAMP:20170109T213838
 LOCATION:550-200
 DESCRIPTION:Lecture/lab.  Second in team design project series on programmable electromechanical systems design. Topics: user I/O, timer systems, interrupts, signal conditioning, software design for embedded systems, statecharts, sensors, actuators, noise, and power supplies. Lab fee. Limited enrollment. Prerequisite: 218A or passing the smart product design fundamentals proficiency examination.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME218B LEC
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

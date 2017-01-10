@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T112000
-LAST-MODIFIED:20160925T011632
-UID:explore_courses6818058f-9a6e-44ab-9698-1972b32d4898
-DTSTAMP:20160925T011632
-LOCATION:Hewlett Teaching Center 200
+LAST-MODIFIED:20170109T213832
+UID:explore_courses885077b4-0a9b-45a7-a981-266269f4d96c
+DTSTAMP:20170109T213832
+LOCATION:Gates B1
 DESCRIPTION:Technologies involved in mechatronics (intelligent electro-mechanical systems), and techniques to apply this technology to mecatronic system design. Topics include: electronics (A/D, D/A converters, op-amps, filters, power devices); software program design, event-driven programming; hardware and DC stepper motors, solenoids, and robust sensing. Large, open-ended team project. Prerequisites: ENGR 40, CS 106, or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE118 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

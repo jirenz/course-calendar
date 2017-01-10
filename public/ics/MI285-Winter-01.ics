@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T113000
+LAST-MODIFIED:20170109T213903
+UID:explore_coursesde6407a5-e0e5-4d0f-86a5-018976428bad
+DTSTAMP:20170109T213903
+LOCATION:Fairchild Science Bldg D300
+DESCRIPTION:For advanced undergraduates and graduate students.  1/3rd of the course consists of lectures by the instructor/colleagues. These cover, at an advanced level, with emphasis on bacteria, topics not covered elsewhere, e.g., phylogeny, molecular regulation, and bioenergetics. The remainder of the course involves interactive discussion of a topic of current interest in microbiology, chosen with student participation, and includes student presentations. (The topic last year was: Gene therapy.) Satisfies Central Menu Area 3 for BIO majors. Prerequisites: CHEM 31X, Biology core.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MI285 LEC
+DTSTART;TZID=America/Los_Angeles:20170109T103000
+CREATED:20170109T213903
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T113000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

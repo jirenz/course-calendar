@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T162000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses3bef8a1d-87d9-42f3-8a97-20d90bcbef79
-DTSTAMP:20160925T011630
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170111T132000
+LAST-MODIFIED:20170109T213829
+UID:explore_coursesb9b0f8ca-d0bc-404c-a8a6-644b805003f6
+DTSTAMP:20170109T213829
+LOCATION:Skillaud
 DESCRIPTION:Supplement to CS 246 providing additional material on Hadoop. Students will learn how to implement data mining algorithms using Hadoop, how to implement and debug complex MapReduce jobs in Hadoop, and how to use some of the tools in the Hadoop ecosystem for data mining and machine learning. Topics: Hadoop, MapReduce, HDFS, combiners, secondary sort, distributed cache, SQL on Hadoop, Hive, Cloudera ML/Oryx, Mahout, Hadoop streaming, implementing Hadoop jobs, debugging Hadoop jobs, TF-IDF, Pig, Sqoop, Oozie, HBase, Impala. Prerequisite: CS 107 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS246H LEC
-DTSTART;TZID=America/Los_Angeles:20170111T150000
-CREATED:20160925T011630
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170111T113000
+CREATED:20170109T213829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

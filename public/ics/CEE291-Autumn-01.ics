@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20160925T011627
-UID:explore_coursesa2fdd048-4e0b-40f4-af2d-5786cd39444c
-DTSTAMP:20160925T011627
+LAST-MODIFIED:20170109T213822
+UID:explore_coursese2847982-4d11-4ce6-8b90-b4d5fe094231
+DTSTAMP:20170109T213822
 LOCATION:Y2E2 111
-DESCRIPTION:Introduction to vectors and tensors; kinematics, deformation, forces, and stress concept of continua and structures; balance principles; aspects of objectivity; hyperelastic materials; thermodynamics of materials; variational principles; applications to structural engineering.
+DESCRIPTION:Vector and tensor algebra; vector and tensor analysis; kinetics, basic physical quantities, global and local balance laws, representative material models of 1D and 3D continua at small strains; thermodynamics of general internal variable formulations of inelasticity; integration algorithms for inelastic 1D and 3D materials; basic solution techniques for boundary value problems in 1D and 3D.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE291 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20160925T011627
+CREATED:20170109T213822
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

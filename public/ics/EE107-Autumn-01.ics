@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T172000
-LAST-MODIFIED:20160925T011632
-UID:explore_coursesb1a3ce58-8e63-407d-9475-69de00a12ba9
-DTSTAMP:20160925T011632
-LOCATION:160-314
+LAST-MODIFIED:20170109T213832
+UID:explore_coursesc8224c24-b2d9-4df9-a62a-3b70932e50bf
+DTSTAMP:20170109T213832
+LOCATION:200-034
 DESCRIPTION:Networked embedded systems are often hidden from our view, but they are a key component that enables our modern society. Embedded systems bridge our physical world with powerful digital measurement and control systems. Applications of today's embedded systems range from stabilization in drones  authentication in credit cards, and even temperature control in toasters. In this class, students will learn about how to build an networked embedded system from the ground up. The lectures will focus on the key enabling components of embedded systems, including: Clocks, GPIO, Interrupts, Busses, Amplifiers, Regulators, Power supplies, ADC/DAC, DMA, and Storage. The goal of the class is to familiarize the students with these components such that they can build their own embedded systems in devices. Prerequisites: EE 102A or ENGR 40M.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE107 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T163000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

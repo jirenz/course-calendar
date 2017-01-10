@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T112000
-LAST-MODIFIED:20160925T011658
-UID:explore_coursesce8b2b16-612c-43e8-98af-2b0d1e0ec773
-DTSTAMP:20160925T011658
+LAST-MODIFIED:20170109T213737
+UID:explore_coursescba1af34-9804-4998-8874-29874965695e
+DTSTAMP:20170109T213737
 LOCATION:Econ 139
 DESCRIPTION:Theory and  computational methods necessary to implement state-of-the-art econometric methods used in theory-based empirical work.  Topics covered include:  computation of nonlinear M-estimators subject to equality and inequality constraints, simulation estimators, indirect inference, Markov Chain Monte Carlo methods, resampling (bootstrap and sub-sampling) methods for estimation and inference, dynamic discrete choice models, continuous and discrete mixture models and estimation and inference for partially identified models.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON276 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20160925T011658
+CREATED:20170109T213737
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

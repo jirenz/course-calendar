@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20160925T011718
-UID:explore_courses40a21637-b9bd-4ea3-a5bf-0ae77089c665
-DTSTAMP:20160925T011718
+LAST-MODIFIED:20170109T213811
+UID:explore_courses81662b69-f961-4c6e-bc9f-cede8fd64ce1
+DTSTAMP:20170109T213811
 LOCATION:50-52H
 DESCRIPTION:Time series models used in economics and engineering. Trend fitting, autoregressive and moving average models and spectral analysis, Kalman filtering, and state-space models. Seasonality, transformations, and introduction to financial time series. Prerequisite: basic course in Statistics at the level of 200.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS207 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20160925T011718
+CREATED:20170109T213811
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

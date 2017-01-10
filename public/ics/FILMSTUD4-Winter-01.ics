@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T132000
-LAST-MODIFIED:20160925T011700
-UID:explore_courses93f5135f-0f5c-46f8-b4cc-6f11e1e9aa43
-DTSTAMP:20160925T011700
-LOCATION:McMurtry Building rm 102
+DTEND;TZID=America/Los_Angeles:20170109T145000
+LAST-MODIFIED:20170109T213743
+UID:explore_coursesdc5a5f0a-ed07-4aa3-bbd8-d3221eb76672
+DTSTAMP:20170109T213743
+LOCATION:McMurtry Building 102, Oshman
 DESCRIPTION:Formal, historical, and cultural issues in the study of film. Classical narrative cinema compared with alternative narrative structures, documentary films, and experimental cinematic forms. Issues of cinematic language and visual perception, and representations of gender, ethnicity, and sexuality. Aesthetic and conceptual analytic skills with relevance to cinema.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FILMSTUD4 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T123000
-CREATED:20160925T011700
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170109T133000
+CREATED:20170109T213743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T213000
-LAST-MODIFIED:20160925T011700
-UID:explore_courses4c7283da-ff84-4780-92a8-1215d448445f
-DTSTAMP:20160925T011700
-LOCATION:McMurtry Building rm 102
+LAST-MODIFIED:20170109T213743
+UID:explore_coursesa9723073-f8ae-44b7-8c2e-c91f00e45cd4
+DTSTAMP:20170109T213743
+LOCATION:McMurtry Building 102, Oshman
 DESCRIPTION:Formal, historical, and cultural issues in the study of film. Classical narrative cinema compared with alternative narrative structures, documentary films, and experimental cinematic forms. Issues of cinematic language and visual perception, and representations of gender, ethnicity, and sexuality. Aesthetic and conceptual analytic skills with relevance to cinema.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FILMSTUD4 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T193000
-CREATED:20160925T011700
+CREATED:20170109T213743
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T213000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

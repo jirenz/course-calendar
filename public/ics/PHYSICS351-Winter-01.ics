@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20160925T011711
-UID:explore_courses37f028ee-fdc3-418a-a51b-c40e43aabb48
-DTSTAMP:20160925T011711
+LAST-MODIFIED:20170109T213802
+UID:explore_coursesf710c814-cbab-4921-9661-0373045fa029
+DTSTAMP:20170109T213802
 LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:Symmetries, group theory, gauge invariance, Lagrangian of the Standard Model, flavor group, flavor-changing neutral currents, CKM quark mixing matrix, GIM mechanism, rare processes, neutrino masses, seesaw mechanism, QCD confinement and chiral symmetry breaking, instantons, strong CP problem, QCD axion. Prerequisite: PHYSICS 330.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS351 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20160925T011711
+CREATED:20170109T213802
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

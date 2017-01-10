@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20160925T011718
-UID:explore_courses8b52e0a0-c2f0-4667-80b0-babb28260938
-DTSTAMP:20160925T011718
+LAST-MODIFIED:20170109T213811
+UID:explore_courses445662cf-5aff-487d-b3af-91a988cbdac8
+DTSTAMP:20170109T213811
 LOCATION:380-380F
 DESCRIPTION:Continuous time stochastic processes: martingales, Brownian motion, stationary independent increments, Markov jump processes and Gaussian processes. Invariance principle, random walks, LIL and functional CLT. Markov and strong Markov property. Infinitely divisible laws. Some ergodic theory.  Prerequisite: 310B or MATH 230B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS310C LEC
 DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20160925T011718
+CREATED:20170109T213811
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

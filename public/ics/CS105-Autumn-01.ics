@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T142000
-LAST-MODIFIED:20160925T011630
-UID:explore_courses9761c4d0-b13c-4038-bd53-098d6ec71806
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_courses2cfbd35e-6449-49e3-9d04-df3e1503695e
+DTSTAMP:20170109T213829
 LOCATION:Herrin T175
 DESCRIPTION:For non-technical majors. What computers are and how they work. Practical experience in programming. Construction of computer programs and basic design techniques. A survey of Internet technology and the basics of computer hardware. Students in technical fields and students looking to acquire programming skills should take 106A or 106X. Students with prior computer science experience at the level of 106 or above require consent of instructor. Prerequisite: minimal math skills.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS105 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

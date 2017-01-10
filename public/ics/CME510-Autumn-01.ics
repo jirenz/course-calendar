@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160929T175000
-LAST-MODIFIED:20160925T011628
-UID:explore_courses9df80971-0ca9-42e8-abe1-4b495defeb9d
-DTSTAMP:20160925T011628
+LAST-MODIFIED:20170109T213823
+UID:explore_courses3fc8b35e-4bb1-4a36-a60f-45d426913826
+DTSTAMP:20170109T213823
 LOCATION:Y2E2 101
 DESCRIPTION:Recent developments in numerical linear algebra and numerical optimization. Guest speakers from other institutions and local industry. Goal is to bring together scientists from different theoretical and application fields to solve complex scientific computing problems. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME510 SEM
 DTSTART;TZID=America/Los_Angeles:20160929T163000
-CREATED:20160925T011628
+CREATED:20170109T213823
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

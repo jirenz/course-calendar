@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T165000
-LAST-MODIFIED:20160925T011613
-UID:explore_coursesc09b2564-a0f5-4a2b-b0a7-4ed9feb0d07a
-DTSTAMP:20160925T011613
-LOCATION:Li Ka Shing Center, room 306
+DTEND;TZID=America/Los_Angeles:20170111T175000
+LAST-MODIFIED:20170109T213858
+UID:explore_courses78b425ee-b290-4e90-adad-6e617b167b6a
+DTSTAMP:20170109T213858
+LOCATION:
 DESCRIPTION:Tai chi is a recognized form of complimentary and alternative medicine. Class is intended to promote student health and well-being and to decrease stress, depression, and anxiety through tai chi practice. Course focuses on weekly practice and analysis of the literature/research regarding health benefits of tai chi.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FAMMED213 WKS
-DTSTART;TZID=America/Los_Angeles:20170111T153000
-CREATED:20160925T011613
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T165000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170111T163000
+CREATED:20170109T213858
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T122000
+LAST-MODIFIED:20170109T213632
+UID:explore_coursesbffc5ced-46fa-43fb-8600-e62067c4ba8a
+DTSTAMP:20170109T213632
+LOCATION:Lathrop 292
+DESCRIPTION:This class juxtaposes the works of two landmark experimental novelists: Joseph Conrad, one of the first major modernist writers of the early 20th century; and Ng&iquest;g&iquest; wa Thiong'o, the first East African novelist published in English and a leading voice of political activism in Kenya. Novels will include, among others, Conrad's <i>Under Western Eyes</i> and <i>Nostromo</i>; Ng&iquest;g&iquest; wa Thiong'o's <i>A Grain of Wheat</i> and <i>Petals of Blood.</i>
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AFRICAAM179D SEM
+DTSTART;TZID=America/Los_Angeles:20170109T103000
+CREATED:20170109T213632
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

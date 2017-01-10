@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T122000
-LAST-MODIFIED:20160925T011640
-UID:explore_courses1a3bbdac-7a4e-4184-ac6b-0e9e8dfd3414
-DTSTAMP:20160925T011640
-LOCATION:McMurtry Building rm 011B
-DESCRIPTION:Color is a sensation (red), a property of objects (red chair), a metaphor (red alert), a cultural phenomenon (red light district), a political statement (red flag). Color has been studied for millennia, but the open questions about it still outnumber the answered ones. In this course, a series of hands-on projects will lead you to explore color in all its complexity. You will experiment with your own color perception, study public spaces through color, and create a series of artworks that will challenge yours and spectators understanding and perception of color. You will learn how to use digital photography tools and simple physical aids to create color experiments, create unique color experiences that are impossible in the real world, manipulate color of light and objects to create spaces, and delve into cultural and philosophical topics in the class discussions and reading.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:ARTSTUDI135B PRA
-DTSTART;TZID=America/Los_Angeles:20160930T103000
-CREATED:20160925T011640
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160930T142000
-LAST-MODIFIED:20160925T011640
-UID:explore_courses7a2e50f4-4434-400f-934b-6d53f2bede7c
-DTSTAMP:20160925T011640
-LOCATION:McMurtry Building rm 102
+LAST-MODIFIED:20170109T213657
+UID:explore_coursesde6de272-2aa8-4a9f-9d67-38f9557abbad
+DTSTAMP:20170109T213657
+LOCATION:McMurtry Building 102, Oshman
 DESCRIPTION:Color is a sensation (red), a property of objects (red chair), a metaphor (red alert), a cultural phenomenon (red light district), a political statement (red flag). Color has been studied for millennia, but the open questions about it still outnumber the answered ones. In this course, a series of hands-on projects will lead you to explore color in all its complexity. You will experiment with your own color perception, study public spaces through color, and create a series of artworks that will challenge yours and spectators understanding and perception of color. You will learn how to use digital photography tools and simple physical aids to create color experiments, create unique color experiences that are impossible in the real world, manipulate color of light and objects to create spaces, and delve into cultural and philosophical topics in the class discussions and reading.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTSTUDI135B PRA
 DTSTART;TZID=America/Los_Angeles:20160930T123000
-CREATED:20160925T011640
+CREATED:20170109T213657
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160930T122000
+LAST-MODIFIED:20170109T213657
+UID:explore_coursese3de193e-1102-4763-b946-b9d5fe4d9c3f
+DTSTAMP:20170109T213657
+LOCATION:McMurtry Building rm 011C
+DESCRIPTION:Color is a sensation (red), a property of objects (red chair), a metaphor (red alert), a cultural phenomenon (red light district), a political statement (red flag). Color has been studied for millennia, but the open questions about it still outnumber the answered ones. In this course, a series of hands-on projects will lead you to explore color in all its complexity. You will experiment with your own color perception, study public spaces through color, and create a series of artworks that will challenge yours and spectators understanding and perception of color. You will learn how to use digital photography tools and simple physical aids to create color experiments, create unique color experiences that are impossible in the real world, manipulate color of light and objects to create spaces, and delve into cultural and philosophical topics in the class discussions and reading.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSTUDI135B PRA
+DTSTART;TZID=America/Los_Angeles:20160930T103000
+CREATED:20170109T213657
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

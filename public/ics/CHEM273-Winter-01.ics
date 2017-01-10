@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T132000
-LAST-MODIFIED:20160925T011650
-UID:explore_coursese70c4d11-73c4-42ea-8f7e-cbc5603cb645
-DTSTAMP:20160925T011650
+LAST-MODIFIED:20170109T213719
+UID:explore_courses4a8b8095-ccab-47d3-80ed-1beafe8886e0
+DTSTAMP:20170109T213719
 LOCATION:ScienceTeachingLearningCntr105
 DESCRIPTION:Statistical mechanics is a fundamental bridge that links microscopic world of quantum mechanics to macroscopic thermodynamic properties.  We discuss the principles and methods of statistical mechanics from the ensemble point of view. Applications include statistical thermodynamics, quantum systems, heat capacities of gases and solids, chemical equilibrium, pair correlation functions in liquids, and phase transitions. Prerequisite: 271.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM273 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T123000
-CREATED:20160925T011650
+CREATED:20170109T213719
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

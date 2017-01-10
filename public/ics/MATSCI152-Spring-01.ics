@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses6bda58d4-e25c-4843-b6db-855de45c7ba2
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213836
+UID:explore_coursesc0183e4e-4b74-413d-a920-1b03d1da1e90
+DTSTAMP:20170109T213836
 LOCATION:380-380D
 DESCRIPTION:Materials science and engineering for electronic device applications. Kinetic molecular theory and thermally activated processes; band structure; electrical conductivity of metals and semiconductors; intrinsic and extrinsic semiconductors; elementary p-n junction theory; operating principles of light emitting diodes, solar cells, thermoelectric coolers, and transistors. Semiconductor processing including crystal growth, ion implantation, thin film deposition, etching, lithography, and nanomaterials synthesis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI152 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20160925T011633
+CREATED:20170109T213836
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20160925T011632
-UID:explore_coursesdda36c64-2075-407e-9427-459a4468a1c4
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_coursesad0a5b2d-ac53-4f78-96d9-128b302b7f40
+DTSTAMP:20170109T213832
 LOCATION:Gates B3
 DESCRIPTION:Provides a quick introduction to MOS transistors and IC fabrication and then creates abstractions to allow you to create and reason about complex digital systems.  It uses a switch resistor model of a transistor, uses it to model gates, and then shows how gates and physical layout can be synthesized from Verilog or SystemVerilog descriptions.  Most of the class will be spent on providing techniques to create designs that can be validated, are low power, provide good performance, and can be completed in finite time. Prerequisites: 101A, 108A and 108B; familiarity with transistors, logic design, Verilog and digital system organization
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE271 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

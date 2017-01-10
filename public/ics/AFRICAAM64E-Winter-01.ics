@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170111T145000
+LAST-MODIFIED:20170109T213632
+UID:explore_courses76263b15-0b34-453c-b67f-728ad126f380
+DTSTAMP:20170109T213632
+LOCATION:ROBLEG113
+DESCRIPTION:This course will explore the imaginative ways black Americans have expressed their desire for freedom through dance, movement, visual art, and musical performance. Each week, historian Clayborne Carson will discuss the theme of assertive performance during various periods of African American history, and dance Lecturer Aleta Hayes will guide students as they perform their own interpretations through distinctive historical periods and styles. Course will culminate in informal performance by participating students.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AFRICAAM64E LEC
+DTSTART;TZID=America/Los_Angeles:20170111T133000
+CREATED:20170109T213632
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20160925T011635
-UID:explore_coursesb089704e-2cb3-491f-b4dc-21452b9ca494
-DTSTAMP:20160925T011635
-LOCATION:Cubberley Auditorium
+LAST-MODIFIED:20170109T213632
+UID:explore_courses874b86d7-7f3c-4c78-9af7-5599ae2f0195
+DTSTAMP:20170109T213632
+LOCATION:ROBLEG139
 DESCRIPTION:This course will explore the imaginative ways black Americans have expressed their desire for freedom through dance, movement, visual art, and musical performance. Each week, historian Clayborne Carson will discuss the theme of assertive performance during various periods of African American history, and dance Lecturer Aleta Hayes will guide students as they perform their own interpretations through distinctive historical periods and styles. Course will culminate in informal performance by participating students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AFRICAAM64E LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20160925T011635
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
+CREATED:20170109T213632
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

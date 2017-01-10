@@ -22,73 +22,73 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160829T112000
-LAST-MODIFIED:20160925T011610
-UID:explore_courses252d8dbf-fcde-4ec9-be0f-c84eddb35078
-DTSTAMP:20160925T011610
-LOCATION:Li Ka Shing Center, room 130
-DESCRIPTION:For medical students. The course emphasizes the impact of molecular biology on medicine.  Topics include the structure, replication, recombination, and repair of DNA; gene expression by transcription and translation; biotechnology; and genomics. Medical relevance receives special emphasis in patient presentations and small group discussions of original articles from the medical literature.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:BIOC205 LEC
-DTSTART;TZID=America/Los_Angeles:20160829T093000
-CREATED:20160925T011610
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160923T112000;BYDAY=MO,TU,TH,FR
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160901T182000
-LAST-MODIFIED:20160925T011610
-UID:explore_courseseeb3355e-a211-4d5d-8d9a-0820ab8b4860
-DTSTAMP:20160925T011610
-LOCATION:
-DESCRIPTION:For medical students. The course emphasizes the impact of molecular biology on medicine.  Topics include the structure, replication, recombination, and repair of DNA; gene expression by transcription and translation; biotechnology; and genomics. Medical relevance receives special emphasis in patient presentations and small group discussions of original articles from the medical literature.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:BIOC205 LEC
-DTSTART;TZID=America/Los_Angeles:20160901T173000
-CREATED:20160925T011610
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160916T182000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160908T122000
-LAST-MODIFIED:20160925T011610
-UID:explore_coursesfe846210-7f64-43c1-9117-08dcc6337fb0
-DTSTAMP:20160925T011610
+LAST-MODIFIED:20170109T213854
+UID:explore_courses29c139f7-5d25-4de8-ab2b-7a96bf22a78a
+DTSTAMP:20170109T213854
 LOCATION:
 DESCRIPTION:For medical students. The course emphasizes the impact of molecular biology on medicine.  Topics include the structure, replication, recombination, and repair of DNA; gene expression by transcription and translation; biotechnology; and genomics. Medical relevance receives special emphasis in patient presentations and small group discussions of original articles from the medical literature.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOC205 LEC
 DTSTART;TZID=America/Los_Angeles:20160908T113000
-CREATED:20160925T011610
+CREATED:20170109T213854
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160908T122000;BYDAY=TH
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160902T144000
-LAST-MODIFIED:20160925T011610
-UID:explore_courses4c11d553-a9e8-42a3-8b11-34ee28c81b4e
-DTSTAMP:20160925T011610
+LAST-MODIFIED:20170109T213854
+UID:explore_coursesb29de032-31c5-4bab-9b8c-7468eb9d8086
+DTSTAMP:20170109T213854
 LOCATION:
 DESCRIPTION:For medical students. The course emphasizes the impact of molecular biology on medicine.  Topics include the structure, replication, recombination, and repair of DNA; gene expression by transcription and translation; biotechnology; and genomics. Medical relevance receives special emphasis in patient presentations and small group discussions of original articles from the medical literature.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOC205 LEC
 DTSTART;TZID=America/Los_Angeles:20160902T133000
-CREATED:20160925T011610
+CREATED:20170109T213854
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160916T144000;BYDAY=FR
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160831T152000
-LAST-MODIFIED:20160925T011610
-UID:explore_courses8bf17dd2-a573-4972-a912-201ff923c386
-DTSTAMP:20160925T011610
+LAST-MODIFIED:20170109T213854
+UID:explore_coursesae6e7be8-39b9-4d94-801b-e84fb6bce373
+DTSTAMP:20170109T213854
 LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:For medical students. The course emphasizes the impact of molecular biology on medicine.  Topics include the structure, replication, recombination, and repair of DNA; gene expression by transcription and translation; biotechnology; and genomics. Medical relevance receives special emphasis in patient presentations and small group discussions of original articles from the medical literature.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOC205 LEC
 DTSTART;TZID=America/Los_Angeles:20160831T133000
-CREATED:20160925T011610
+CREATED:20170109T213854
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160907T152000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160829T112000
+LAST-MODIFIED:20170109T213854
+UID:explore_courses88859664-c6b9-4ef7-b166-4fa22a91a49f
+DTSTAMP:20170109T213854
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:For medical students. The course emphasizes the impact of molecular biology on medicine.  Topics include the structure, replication, recombination, and repair of DNA; gene expression by transcription and translation; biotechnology; and genomics. Medical relevance receives special emphasis in patient presentations and small group discussions of original articles from the medical literature.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOC205 LEC
+DTSTART;TZID=America/Los_Angeles:20160829T093000
+CREATED:20170109T213854
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160923T112000;BYDAY=MO,TU,TH,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160901T182000
+LAST-MODIFIED:20170109T213854
+UID:explore_coursescc3b27e6-4169-4b56-940e-2cbdab42644c
+DTSTAMP:20170109T213854
+LOCATION:
+DESCRIPTION:For medical students. The course emphasizes the impact of molecular biology on medicine.  Topics include the structure, replication, recombination, and repair of DNA; gene expression by transcription and translation; biotechnology; and genomics. Medical relevance receives special emphasis in patient presentations and small group discussions of original articles from the medical literature.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOC205 LEC
+DTSTART;TZID=America/Los_Angeles:20160901T173000
+CREATED:20170109T213854
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160916T182000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

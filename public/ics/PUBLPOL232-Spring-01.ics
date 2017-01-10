@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T122000
-LAST-MODIFIED:20160925T011714
-UID:explore_courses3b523c67-88b9-4ba5-8ff6-1b698318c8d5
-DTSTAMP:20160925T011714
-LOCATION:50-52H
+DTEND;TZID=America/Los_Angeles:20170406T112000
+LAST-MODIFIED:20170109T213805
+UID:explore_courses0759211b-6945-4aa3-a85d-96711433666e
+DTSTAMP:20170109T213805
+LOCATION:420-050
 DESCRIPTION:Public policymaking in the United States is part of a political process that can take years or even decades to play out. A familiarity with the politics of policymaking is key to understanding why some reform attempts are successful while others are not. This course will give students a behind-the-scenes look at how policy actually gets made.  Students will gain exposure to the theory and literature behind policy formulation, and engage in debates over historical and contemporary efforts at reform.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PUBLPOL232 SEM
-DTSTART;TZID=America/Los_Angeles:20170405T103000
-CREATED:20160925T011714
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170406T093000
+CREATED:20170109T213805
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

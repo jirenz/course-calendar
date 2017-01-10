@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses9864385b-9a3a-498a-b548-c4c81cf52504
-DTSTAMP:20160925T011633
-LOCATION:Shriram Ctr BioChemE 052
+DTEND;TZID=America/Los_Angeles:20170110T145000
+LAST-MODIFIED:20170109T213834
+UID:explore_coursesff610d89-ef73-4590-ba24-4361e3b62e5e
+DTSTAMP:20170109T213834
+LOCATION:380-380F
 DESCRIPTION:Over the past decade there has been an explosion in activity in designing new provably efficient fast graph algorithms. Leveraging techniques from disparate areas of computer science and optimization researchers have made great strides on improving upon the best known running times for fundamental optimization problems on graphs, in many cases breaking long-standing barriers to efficient algorithm design. In this course we will survey these results and cover the key algorithmic tools they leverage to achieve these breakthroughs. Possible topics include but are not limited to, spectral graph theory, sparsification, oblivious routing, local partitioning, Laplacian system solving, and maximum flow. Prerequisites: calculus and linear algebra.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E313 RES
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20160925T011633
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170110T133000
+CREATED:20170109T213834
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

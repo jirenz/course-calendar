@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses6dae59d0-f3f5-424d-8b33-cf3a7ce095e4
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213836
+UID:explore_coursesef1ab228-4a66-4642-81ed-bdf34a12c542
+DTSTAMP:20170109T213836
 LOCATION:School of Education 313
 DESCRIPTION:The science of synthesis of nanometer scale materials. Examples including solution phase synthesis of nanoparticles, the vapor-liquid-solid approach to growing nanowires, formation of mesoporous materials from block-copolymer solutions, and formation of photonic crystals. Relationship of the synthesis phenomena to the materials science driving forces and kinetic mechanisms. Materials science concepts including capillarity, Gibbs free energy, phase diagrams, and driving forces.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI155 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20160925T011633
+CREATED:20170109T213836
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

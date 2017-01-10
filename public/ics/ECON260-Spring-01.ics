@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T152000
-LAST-MODIFIED:20160925T011658
-UID:explore_courses63cd0a6c-8a0d-498a-b8e0-66a7e7552f17
-DTSTAMP:20160925T011658
-LOCATION:Econ 139
-DESCRIPTION:Current research and policy questions in industrial organization. Course combines lectures by the instructors with student presentations, with an emphasis on initiating dissertation research in industrial organization.  Prerequisites: ECON 257, ECON 258.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:ECON260 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20160925T011658
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=TU,TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170407T162000
-LAST-MODIFIED:20160925T011658
-UID:explore_coursesf5b09288-73a8-45c4-aafa-e4f99070b513
-DTSTAMP:20160925T011658
+LAST-MODIFIED:20170109T213737
+UID:explore_courses5e0579a4-068c-431c-b0a8-906495a0cda4
+DTSTAMP:20170109T213737
 LOCATION:Econ 139
 DESCRIPTION:Current research and policy questions in industrial organization. Course combines lectures by the instructors with student presentations, with an emphasis on initiating dissertation research in industrial organization.  Prerequisites: ECON 257, ECON 258.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON260 LEC
 DTSTART;TZID=America/Los_Angeles:20170407T133000
-CREATED:20160925T011658
+CREATED:20170109T213737
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T152000
+LAST-MODIFIED:20170109T213737
+UID:explore_coursesae236b22-2acc-422c-9163-fbe5290788ec
+DTSTAMP:20170109T213737
+LOCATION:Econ 139
+DESCRIPTION:Current research and policy questions in industrial organization. Course combines lectures by the instructors with student presentations, with an emphasis on initiating dissertation research in industrial organization.  Prerequisites: ECON 257, ECON 258.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON260 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T133000
+CREATED:20170109T213737
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

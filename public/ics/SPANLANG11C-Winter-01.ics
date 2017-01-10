@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20160925T011717
-UID:explore_courses1b9ea5ee-0fbd-4e2a-bb7e-4228774eacc4
-DTSTAMP:20160925T011717
-LOCATION:160-317
+DTEND;TZID=America/Los_Angeles:20170109T112000
+LAST-MODIFIED:20170109T213809
+UID:explore_coursesa6698206-da44-4e8d-991b-f9d246a2fcf0
+DTSTAMP:20170109T213809
+LOCATION:Lathrop 198
 DESCRIPTION:Continuation of SPANLANG 3 or SPANLANG 2A. Sequence integrating culture and language, with emphasis on developing advanced proficiency in oral and written discourse. Targeted functional abilities include presentational and socioculturally appropriate language in formal and informal, academic, and professional contexts. `C' content focuses on societal and cultural components of the Spanish-speaking world. Prerequisite: Placement Test, SPANLANG 3 or SPANLANG 2A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPANLANG11C LNG
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20160925T011717
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170109T093000
+CREATED:20170109T213809
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

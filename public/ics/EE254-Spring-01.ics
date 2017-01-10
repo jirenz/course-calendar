@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20160925T011632
-UID:explore_coursesa2ec091b-58a0-4378-9bca-9639ca5f5b25
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses3d34ad47-1823-4588-b349-8a077ac7e3e0
+DTSTAMP:20170109T213832
 LOCATION:160-323
 DESCRIPTION:In this course, we will study the practical issues related to the practical design of power electronic converters. We will also explore the trade-offs involved in selecting among the different circuits used to convert ac to dc, dc to ac and back to dc over a wide range of power levels suitable for different applications. In Advanced Topics in Power Electronic, as a multidisciplinary field, we will discuss power electronics circuits, extraction of transfer functions in Continuous and discontinuous conduction mode, voltage and current control of power converters, design of input/output filters to meet Electro Magnetic Interference specifications, layout of power electronics circuits and put this knowledge in a very practical context. Prerequisites: EE 153/253.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE254 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T102000
-LAST-MODIFIED:20160925T011627
-UID:explore_coursesad94ed75-ae39-4ad7-8dcc-b914dfb2fe1b
-DTSTAMP:20160925T011627
-LOCATION:Thornt110
+LAST-MODIFIED:20170109T213822
+UID:explore_courses547a3e07-319e-412a-ac9c-bc25ab739c72
+DTSTAMP:20170109T213822
+LOCATION:540-108
 DESCRIPTION:Introduction to methods of geometric and material nonlinear analysis, emphasizing modeling approaches for framed structures. Large-displacement analysis, concentrated and distributed plasticity models, and nonlinear solution methods. Applications to frame stability and performance-based seismic design. Assignments emphasize computer implementation and applications. Prerequisites: 280 and an advanced course in structural behavior (e.g., 285A, 285B or equivalent).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE282 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T083000
-CREATED:20160925T011627
+CREATED:20170109T213822
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

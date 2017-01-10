@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses1968a7cf-b3f4-4504-b238-3fcdbe57bbc7
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213834
+UID:explore_courses016786f3-d5ee-4cb2-9412-a3ecda2b2a75
+DTSTAMP:20170109T213834
 LOCATION:380-380D
 DESCRIPTION:Ito integral, existence and uniqueness of solutions of stochastic differential equations (SDEs), diffusion approximations, numerical solutions of SDEs, controlled diffusions and the Hamilton-Jacobi-Bellman equation, and statistical inference of SDEs. Applications to finance and queueing theory. Prerequisites: 221 or STATS 217: MATH 113, 115.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E322 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

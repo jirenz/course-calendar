@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T175000
-LAST-MODIFIED:20160925T011633
-UID:explore_courses328a94c0-f777-4d42-86d8-a148d9b9ef9d
-DTSTAMP:20160925T011633
+LAST-MODIFIED:20170109T213834
+UID:explore_courses61e720af-2001-4612-986b-6af99f8eecff
+DTSTAMP:20170109T213834
 LOCATION:380-380X
 DESCRIPTION:Architecture of the Internet and performance engineering of computer systems and networks. Switching, routing and shortest path algorithms. Congestion management and queueing networks.  Peer-to-peer networking. Wireless and mobile networking. Information service engineering and management. Search engines and recommendation systems. Reputation systems and social networking technologies. Security and trust. Information markets. Select special topics and case studies. Prerequisites: 111, 120, and CS 106A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E130 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T163000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

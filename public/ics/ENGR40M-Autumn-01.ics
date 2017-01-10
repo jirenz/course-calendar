@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20160925T011632
-UID:explore_coursesb6cb7f04-302b-498d-82ef-7737e7619849
-DTSTAMP:20160925T011632
+LAST-MODIFIED:20170109T213832
+UID:explore_courses6830b406-9818-4f27-b064-ed565f087841
+DTSTAMP:20170109T213832
 LOCATION:320-105
 DESCRIPTION:Is a hands-on class where students learn to make stuff. Through the process of building, you are introduced to the basic areas of EE. Students build a &quot;useless box&quot; and learn about circuits, feedback, and programming hardware, a light display for your desk and bike and learn about coding, transforms, and LEDs, a solar charger and an EKG machine and learn about power, noise, feedback, more circuits, and safety. And you get to keep the toys you build. Prerequisite: CS 106A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR40M LEC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20160925T011632
+CREATED:20170109T213832
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

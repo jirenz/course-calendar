@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170405T162000
-LAST-MODIFIED:20160925T011633
-UID:explore_coursesac754707-fa7a-47f4-ad2a-ba0d33ccbb0f
-DTSTAMP:20160925T011633
-LOCATION:
+LAST-MODIFIED:20170109T213834
+UID:explore_coursesd119d069-e90d-43f2-9d7c-73c852350dec
+DTSTAMP:20170109T213834
+LOCATION:Huang Engineering Center 203
 DESCRIPTION:Restricted to PhD students, or by consent of instructor. Doctoral research seminar covering current topics in energy and environmental modeling and analysis.  Current emphasis on approaches to incorporation of uncertainty and technology dynamics into complex systems models. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E391 RES
 DTSTART;TZID=America/Los_Angeles:20170405T133000
-CREATED:20160925T011633
+CREATED:20170109T213834
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

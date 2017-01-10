@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T132000
-LAST-MODIFIED:20160925T011630
-UID:explore_coursesd7132275-5f85-436c-a53e-8aa38ec58d22
-DTSTAMP:20160925T011630
+LAST-MODIFIED:20170109T213829
+UID:explore_courses6324772d-1746-4d77-8cb1-6e2d795f7dac
+DTSTAMP:20170109T213829
 LOCATION:200-305
 DESCRIPTION:Students in the class will work in small teams to implement high-impact projects for partner organizations. Taught by the CS+Social Good team, the aim of the class is to empower you to leverage technology for social good by inspiring action, facilitating collaboration, and forging pathways towards global change. Recommended: CS 106B, CS 42 or 142. Class is open to students of all years.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS50 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T123000
-CREATED:20160925T011630
+CREATED:20170109T213829
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

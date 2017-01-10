@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T132000
-LAST-MODIFIED:20160925T011635
-UID:explore_courses83bb9685-3a56-45f4-ae6f-0089ad197894
-DTSTAMP:20160925T011635
+LAST-MODIFIED:20170109T213838
+UID:explore_courses8af4a0b4-31ff-4aa6-9960-9e204e00eead
+DTSTAMP:20170109T213838
 LOCATION:530-127
 DESCRIPTION:(Graduate students only enroll in 261.)  Modeling, analysis, and measurement of mechanical and electromechanical systems. Numerical and closed form solutions of ordinary differential equations governing the behavior of single and multiple degree of freedom systems. Stability, resonance, amplification and attenuation, and control system design. Demonstrations and laboratory experiments. Prerequisite: Calculus (differentiation and integration), ordinary differential equations (e.g., CME 102 or MATH53), basic linear algebra (determinants and solving linear equations), and familiarity with basic dynamics (F=m*a) and electronics (v=i*R). ME undergraduates must enroll for 4 units with lab. All others should enroll for 3 units without lab.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME261 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T113000
-CREATED:20160925T011635
+CREATED:20170109T213838
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

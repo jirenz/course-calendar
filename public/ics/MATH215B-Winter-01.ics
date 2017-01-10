@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20160925T011707
-UID:explore_courses342170a0-11bc-4c47-b595-43c9352f1261
-DTSTAMP:20160925T011707
+LAST-MODIFIED:20170109T213755
+UID:explore_courses933644d0-8f49-4f83-8223-6e2bdbfc4ee5
+DTSTAMP:20170109T213755
 LOCATION:McCullough 115
 DESCRIPTION:Topics:  Basics of differentiable manifolds (tangent spaces, vector fields, tensor fields, differential forms), embeddings, tubular neighborhoods, integration and Stokes&iquest; Theorem, deRham cohomology, intersection theory via Poincare duality, Morse theory.  Prerequisite:  215A
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH215B LEC
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20160925T011707
+CREATED:20170109T213755
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR
