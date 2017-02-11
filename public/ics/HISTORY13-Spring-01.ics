@@ -23,16 +23,30 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T175000
-LAST-MODIFIED:20170109T213749
-UID:explore_coursesacd0fc2e-95b3-441e-abfd-0761cba509d7
-DTSTAMP:20170109T213749
+LAST-MODIFIED:20170211T123951
+UID:explore_courses60153e59-16e3-4c19-9440-7aa89bcf14eb
+DTSTAMP:20170211T123951
 LOCATION:420-040
 DESCRIPTION:This three-unit course is designed to complement History 3, which aims to provide the historical and geographical context necessary for understanding important global issues of the day. Students taking the three-unit course will, in addition to attending the weekly lectures, participate in a weekly seminar in which the same topics addressed in lecture will be examined in greater depth. Students will also be required to write a research paper on a generally neglected news topic of their own choosing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY13 SEM
 DTSTART;TZID=America/Los_Angeles:20170404T163000
-CREATED:20170109T213749
+CREATED:20170211T123951
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170406T175000
+LAST-MODIFIED:20170211T123951
+UID:explore_courses594af9ed-4dd3-473c-9368-98f777a95793
+DTSTAMP:20170211T123951
+LOCATION:200-013
+DESCRIPTION:This three-unit course is designed to complement History 3, which aims to provide the historical and geographical context necessary for understanding important global issues of the day. Students taking the three-unit course will, in addition to attending the weekly lectures, participate in a weekly seminar in which the same topics addressed in lecture will be examined in greater depth. Students will also be required to write a research paper on a generally neglected news topic of their own choosing.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY13 SEM
+DTSTART;TZID=America/Los_Angeles:20170406T163000
+CREATED:20170211T123951
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

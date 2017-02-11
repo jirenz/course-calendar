@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20170109T213829
-UID:explore_courses0f80668d-bc1f-4aed-9ced-097419604852
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124018
+UID:explore_coursesc0bce572-c2c6-4231-9b4e-f0855df5bfb6
+DTSTAMP:20170211T124018
 LOCATION:Thornt110
 DESCRIPTION:This course surveys recent developments in representation learning that are relevant to visual recognition and understanding tasks.  In particular we will examine: 1)  why representations matter; 2) classical and moderns methods of forming and learning representations in 2D and 3D computer vision; 3) how to close the loop between sensing and action for perception robotics;  4) how to connect visual-based representations with language;  5) methods for analyzing and visualizing representations. In addition to regular lectures and talks by invited speakers, we will read advanced papers on this topic, and carry out in-depth discussions of these papers as well as the students' own research projects.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS331B LEC
 DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20170109T213829
+CREATED:20170211T124018
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

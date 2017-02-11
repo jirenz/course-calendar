@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170109T213829
-UID:explore_coursesbf8b38e5-7e50-4fe1-8c87-874e924fc6aa
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124017
+UID:explore_courses6353226b-18a3-43e0-a271-55a748c483c3
+DTSTAMP:20170211T124017
 LOCATION:Gates B1
 DESCRIPTION:Intensive version of 106B for students with a strong programming background interested in a rigorous treatment of the topics at an accelerated pace. Additional advanced material and more challenging projects. Prerequisite: excellence in 106A or equivalent, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106X LEC
 DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170109T213829
+CREATED:20170211T124017
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

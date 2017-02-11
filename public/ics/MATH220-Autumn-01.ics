@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170109T213755
-UID:explore_courses3458d8a4-44cf-445d-9d35-1f950040b994
-DTSTAMP:20170109T213755
+LAST-MODIFIED:20170211T123955
+UID:explore_coursesb5c5e85a-7cfb-4a5b-924d-317fecb360d8
+DTSTAMP:20170211T123955
 LOCATION:Herrin T175
 DESCRIPTION:First-order partial differential equations; method of characteristics; weak solutions; elliptic, parabolic, and hyperbolic equations; Fourier transform; Fourier series; and eigenvalue problems. Prerequisite: Basic coursework in multivariable calculus and ordinary differential equations, and some prior experience with a proof-based treatment of the material as in Math 171 or Math 61CM (formerly Math 51H).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH220 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170109T213755
+CREATED:20170211T123955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

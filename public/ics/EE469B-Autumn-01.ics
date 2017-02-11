@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170109T213832
-UID:explore_coursesce9f289e-db34-4fb1-a6bf-eab1250a1f03
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses46cd0928-e3f3-48e2-bf1c-f4dbe40daa48
+DTSTAMP:20170211T124020
 LOCATION:Encina West 202
 DESCRIPTION:Magnetic resonance imaging (MRI) and spectroscopy (MRS) based on the use of radio frequency pulses to manipulate magnetization. Analysis and design of major types of RF pulses in one and multiple dimensions, analysis and design of sequences of RF pulses for fast imaging, and use of RF pulses for the creation of image contrast in MRI. Prerequisite: 369B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE469B LEC
 DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

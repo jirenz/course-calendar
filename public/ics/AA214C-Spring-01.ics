@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170109T213818
-UID:explore_courses1155bf76-1f83-4871-8f9f-ab775640998d
-DTSTAMP:20170109T213818
+LAST-MODIFIED:20170211T124011
+UID:explore_courses78096c20-d242-4787-a40d-efae9f1e4d3f
+DTSTAMP:20170211T124011
 LOCATION:Gilbert Biological Science 117
 DESCRIPTION:Numerical methods for solving parabolic sets of partial differential equations. Numerical approximation of the equations describing compressible viscous flow with adiabatic, isothermal, slip, and no-slip wall boundary conditions. Applications to the Navier-Stokes equations in two and three dimensions at high Reynolds number. Computational problems are assigned. Prerequisite: 214B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA214C LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213818
+CREATED:20170211T124011
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

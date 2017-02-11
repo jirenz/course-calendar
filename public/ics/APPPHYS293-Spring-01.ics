@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170109T213648
-UID:explore_courses9817a974-a964-45c6-8e3f-5389588f1e8a
-DTSTAMP:20170109T213648
+LAST-MODIFIED:20170211T123936
+UID:explore_courses8a0ec13e-7664-4622-9c51-52b3f9f7527a
+DTSTAMP:20170211T123936
 LOCATION:Herrin T175
 DESCRIPTION:Introduction to fundamental theoretical ideas that provide conceptual insights into how networks of neurons cooperatively mediate important brain functions. Topics include basic mathematical models of single neurons, neuronal computation through feedforward and recurrent network dynamics, principles of associative memory, applications of information theory to early sensory systems, correlations and neural population coding, network plasticity and the self-organization of stimulus selectivity, and supervised and unsupervised learning through multiple mechanisms of synaptic plasticity. Emphasis on developing mathematical and computational skills to analyze complex neural systems. Prerequisites: calculus, linear algebra, and basic probability theory, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS293 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170109T213648
+CREATED:20170211T123936
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

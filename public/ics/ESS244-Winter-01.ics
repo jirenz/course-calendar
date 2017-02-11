@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T102000
+LAST-MODIFIED:20170211T124031
+UID:explore_courses4ecf92b4-ad07-4c4d-b86a-757ed4f64dcf
+DTSTAMP:20170211T124031
+LOCATION:Y2E2 101
+DESCRIPTION:This course will provide the practical background necessary to construct and implement a 2-dimensional (space and time) numerical model of a simple marine ecosystem.  Instruction on computer programming, model design and parameterization, and model evaluation will be provided.  Throughout the 10-week course, each student will develop and refine their own multi-component marine ecosystem model.  Instructor consent required.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ESS244 LEC
+DTSTART;TZID=America/Los_Angeles:20170109T093000
+CREATED:20170211T124031
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,FR
+END:VEVENT
+END:VCALENDAR

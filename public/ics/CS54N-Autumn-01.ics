@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T201500
-LAST-MODIFIED:20170109T213829
-UID:explore_coursesf357a080-8c42-421c-9028-5171d5900599
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124017
+UID:explore_coursesd0e97751-e310-4946-9f81-921bea6c5bc2
+DTSTAMP:20170211T124017
 LOCATION:160-317
 DESCRIPTION:Stanford Introductory Seminar. Preference to freshmen. Covers the intellectual tradition of computer science emphasizing ideas that reflect the most important milestones in the history of the discipline.  No prior experience with programming is assumed.  Topics include programming and problem solving; implementing computation in hardware; algorithmic efficiency; the theoretical limits of computation; cryptography and security; and the philosophy behind artificial intelligence.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS54N ISF
 DTSTART;TZID=America/Los_Angeles:20160926T190000
-CREATED:20170109T213829
+CREATED:20170211T124017
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T201500;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

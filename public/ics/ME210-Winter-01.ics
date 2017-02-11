@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T112000
-LAST-MODIFIED:20170109T213838
-UID:explore_courses03cf5a99-21e2-4396-801e-d75c2a070728
-DTSTAMP:20170109T213838
+LAST-MODIFIED:20170211T124023
+UID:explore_coursesaba923e5-c44f-4149-bde0-9034fb85c9a5
+DTSTAMP:20170211T124023
 LOCATION:Gates B1
 DESCRIPTION:Technologies involved in mechatronics (intelligent electro-mechanical systems), and techniques to apply this technology to mecatronic system design. Topics include: electronics (A/D, D/A converters, op-amps, filters, power devices); software program design, event-driven programming; hardware and DC stepper motors, solenoids, and robust sensing. Large, open-ended team project. Prerequisites: ENGR 40, CS 106, or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME210 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20170109T213838
+CREATED:20170211T124023
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

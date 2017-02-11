@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170109T213821
-UID:explore_courses030db45b-0e35-41f8-9884-d1940d026ad0
-DTSTAMP:20170109T213821
+LAST-MODIFIED:20170211T124013
+UID:explore_coursesbda90843-2267-4030-b5ba-f1842197ba8e
+DTSTAMP:20170211T124013
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Formerly CEE 164. The dynamic basis of oceanography. Topics: physical environment; conservation equations for salt, heat, and momentum; geostrophic flows; wind-driven flows; the Gulf Stream; equatorial dynamics and ENSO; thermohaline circulation of the deep oceans; and tides. Prerequisite: PHYSICS 41 (formerly 53).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE162D DIS
 DTSTART;TZID=America/Los_Angeles:20170110T120000
-CREATED:20170109T213821
+CREATED:20170211T124013
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

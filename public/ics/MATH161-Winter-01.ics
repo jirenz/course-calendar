@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170109T213755
-UID:explore_coursesfc88b5ff-13a4-4d9d-9483-5bdc478b4808
-DTSTAMP:20170109T213755
+LAST-MODIFIED:20170211T123955
+UID:explore_courses18bc3ffc-c596-43f4-aed1-0890cfc82a4e
+DTSTAMP:20170211T123955
 LOCATION:Herrin T185
 DESCRIPTION:Informal and axiomatic set theory: sets, relations, functions, and set-theoretical operations. The Zermelo-Fraenkel axiom system and the special role of the axiom of choice and its various equivalents. Well-orderings and ordinal numbers; transfinite induction and transfinite recursion. Equinumerosity and cardinal numbers; Cantor's Alephs and cardinal arithmetic. Open problems in set theory. Prerequisite: students should be comfortable doing proofs.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH161 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170109T213755
+CREATED:20170211T123955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

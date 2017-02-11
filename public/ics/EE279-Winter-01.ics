@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses20439e86-4c33-4bf0-9f27-1f579a4e3bca
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_coursese8a20345-4cc9-4162-b972-4ad3e656ee50
+DTSTAMP:20170211T124020
 LOCATION:Thornt102
 DESCRIPTION:Digital communication is a rather unique field in engineering in which theoretical ideas have had an extraordinary impact on the design of actual systems. The course provides a basic understanding of the analysis and design of digital communication systems, building on various ideas from probability theory, stochastic processes, linear algebra and Fourier analysis. Topics include: detection and probability of error for binary and M-ary signals (PAM, QAM, PSK), receiver design and sufficient statistics, controlling the spectrum and the Nyquist criterion, bandpass communication and up/down conversion, design trade-offs: rate, bandwidth, power and error probability, coding and decoding (block codes, convolutional coding and Viterbi decoding).  Prerequisites: 179 or 261, and 178 or 278
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE279 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

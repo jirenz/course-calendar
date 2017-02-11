@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T132000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses459e2524-2194-4c24-9e6c-fa294e6045e2
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses656acfc7-dc4f-4b9f-a531-fc0fd477a968
+DTSTAMP:20170211T124020
 LOCATION:Huang Engineerig Center 18
 DESCRIPTION:Integrating electronics with sensing, stimulation, and locomotion capabilities into the body will allow us to restore or enhance physiological functions.  In order to be able to insert these electronics into the body, energy source is a major obstacle.  This course focuses on the analysis and design of wirelessly powered catheter-deliverable electronics.  Emphases will be on the interaction between human and electromagnetic fields in order to transfer power to the embedded electronics via electromagnetic fields, power harvesting circuitry, electrical-tissue interface, and sensing and actuating frontend designs.  Prerequisites: EE 252 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE303 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T120000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

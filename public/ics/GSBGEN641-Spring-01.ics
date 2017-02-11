@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170405T175000
-LAST-MODIFIED:20170109T213842
-UID:explore_courses0bb7f35d-b8e1-456d-b634-21c1dc91d6c0
-DTSTAMP:20170109T213842
+LAST-MODIFIED:20170211T124026
+UID:explore_courses2b5a3e00-02e4-4fba-ba10-6c2eb858a695
+DTSTAMP:20170211T124026
 LOCATION:
 DESCRIPTION:This course covers various advanced quantitative methods with applications in marketing and economics. Topics include simulation-based estimation, dynamic decision processes, and other topics relating to empirical models of demand and supply. The course stresses the conceptual understanding and application of each technique. Students will learn to apply these techniques using Matlab or an equivalent language.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GSBGEN641 SEM
 DTSTART;TZID=America/Los_Angeles:20170405T150000
-CREATED:20170109T213842
+CREATED:20170211T124026
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

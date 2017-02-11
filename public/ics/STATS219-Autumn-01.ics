@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20170109T213811
-UID:explore_courses3c2dd033-40ea-4178-b24e-f0188cec48e4
-DTSTAMP:20170109T213811
+LAST-MODIFIED:20170211T124005
+UID:explore_courses4fff992f-1a2d-4688-9375-86f81d91412d
+DTSTAMP:20170211T124005
 LOCATION:380-380F
 DESCRIPTION:Introduction to measure theory, Lp spaces and Hilbert spaces. Random variables, expectation, conditional expectation, conditional distribution. Uniform integrability, almost sure and Lp convergence. Stochastic processes: definition, stationarity, sample path continuity. Examples: random walk, Markov chains, Gaussian processes, Poisson processes, Martingales. Construction and basic properties of Brownian motion. Prerequisite: STATS 116 or MATH 151 or equivalent. Recommended: MATH 115 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS219 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20170109T213811
+CREATED:20170211T124005
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

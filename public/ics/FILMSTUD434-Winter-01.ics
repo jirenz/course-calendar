@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20170109T213743
-UID:explore_coursesd4176765-5c36-491b-95fd-1aafdd5fdc1f
-DTSTAMP:20170109T213743
-LOCATION:McMurtry Building rm 360
-DESCRIPTION:This seminar seeks to investigate relationships between performance, gender, and the body politic through a discussion of embodiment, body cultures, queerness, desire, representation. Through a weekly engagement with film texts from across the world as well as theoretical perspectives on gender and performance in various geo-political contexts, we will explore the intersections of gender with race, class, national discourse, and performance traditions. The seminar is conceived to be interdisciplinary and participants are encouraged to introduce and work with texts from other disciplines, including visual arts, theatre, dance, literature etc. No prior engagement with film studies is required. Screening times may range from 90 to 180 minutes.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:FILMSTUD434 SEM
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170109T213743
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T212000
-LAST-MODIFIED:20170109T213743
-UID:explore_courses917d0ce7-cb36-4cf5-9944-c92c79045689
-DTSTAMP:20170109T213743
+LAST-MODIFIED:20170211T123948
+UID:explore_courses75ed0965-b003-44d6-82f5-eb575622ef58
+DTSTAMP:20170211T123948
 LOCATION:McMurtry Building rm 115
 DESCRIPTION:This seminar seeks to investigate relationships between performance, gender, and the body politic through a discussion of embodiment, body cultures, queerness, desire, representation. Through a weekly engagement with film texts from across the world as well as theoretical perspectives on gender and performance in various geo-political contexts, we will explore the intersections of gender with race, class, national discourse, and performance traditions. The seminar is conceived to be interdisciplinary and participants are encouraged to introduce and work with texts from other disciplines, including visual arts, theatre, dance, literature etc. No prior engagement with film studies is required. Screening times may range from 90 to 180 minutes.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FILMSTUD434 SEM
 DTSTART;TZID=America/Los_Angeles:20170109T183000
-CREATED:20170109T213743
+CREATED:20170211T123948
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T212000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T162000
+LAST-MODIFIED:20170211T123948
+UID:explore_courses0ec11ede-8820-48ca-b2cc-6d55e5140e35
+DTSTAMP:20170211T123948
+LOCATION:McMurtry Building rm 360
+DESCRIPTION:This seminar seeks to investigate relationships between performance, gender, and the body politic through a discussion of embodiment, body cultures, queerness, desire, representation. Through a weekly engagement with film texts from across the world as well as theoretical perspectives on gender and performance in various geo-political contexts, we will explore the intersections of gender with race, class, national discourse, and performance traditions. The seminar is conceived to be interdisciplinary and participants are encouraged to introduce and work with texts from other disciplines, including visual arts, theatre, dance, literature etc. No prior engagement with film studies is required. Screening times may range from 90 to 180 minutes.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD434 SEM
+DTSTART;TZID=America/Los_Angeles:20170109T133000
+CREATED:20170211T123948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T173000
-LAST-MODIFIED:20170109T213856
-UID:explore_courses0a9e4922-d12f-42f1-965c-d7ee7b918618
-DTSTAMP:20170109T213856
+DTEND;TZID=America/Los_Angeles:20170407T163000
+LAST-MODIFIED:20170211T124036
+UID:explore_courses658c8a81-1260-41d6-92d7-e77003cdad71
+DTSTAMP:20170211T124036
 LOCATION:
 DESCRIPTION:Biological light microscopy: from theory to practice. This intensive laboratory and lecture course will provide participants with the theoretical and practical knowledge to utilize emerging imaging technologies. Students will learn the principles of light microscopy, as well as use of different types of cameras, laser scanning systems, functional fluorophores, probe delivery techniques. Topics include microscope optics, resolution limits, Koehler illumination, confocal fluorescence, two-photon, TIRF, FRET, photobleaching,  super-resolution (SIM, STED, STORM/PALM), and live-cell imaging and cell tracking approaches. Discussion of physical principles; involves partial assembly and extensive use of lab instruments. Lab. Prerequisites: some college physics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CSB222 LBS
-DTSTART;TZID=America/Los_Angeles:20170406T153000
-CREATED:20170109T213856
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T173000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170407T133000
+CREATED:20170211T124036
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T163000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

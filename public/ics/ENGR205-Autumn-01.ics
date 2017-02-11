@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170109T213833
-UID:explore_courses194cf758-f574-40dd-ba10-77c141a5134c
-DTSTAMP:20170109T213833
+LAST-MODIFIED:20170211T124020
+UID:explore_courses48d51ff2-fb79-4615-bbee-c82d681a47ac
+DTSTAMP:20170211T124020
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Review of root-locus and frequency response techniques for control system analysis and synthesis. State-space techniques for modeling, full-state feedback regulator design, pole placement, and observer design. Combined observer and regulator design. Lab experiments on computers connected to mechanical systems. Prerequisites: 105, MATH 103, 113. Recommended: Matlab.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR205 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20170109T213833
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

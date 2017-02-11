@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20170109T213819
-UID:explore_coursese3586acd-a300-46f6-b5bb-8fcd609eb28e
-DTSTAMP:20170109T213819
+LAST-MODIFIED:20170211T124011
+UID:explore_coursesfe75ea77-898f-4eca-83d6-32a846afedf0
+DTSTAMP:20170211T124011
 LOCATION:
 DESCRIPTION:Concepts and techniques for the design and implementation of engineered genetic systems.  Topics covered include the quantitative exploration of tools that support (a) molecular component engineering, (b) abstraction and composition of functional genetic devices, (c) use of control and dynamical systems theory in device and systems design, (d) treatment of molecular &quot;noise&quot;, (e) integration of DNA-encoded programs within cellular chassis, (f) designing for evolution, and (g) the use of standards in measurement, genetic layout architecture, and data exchange. Prerequisites: CME104, CME106, CHEM 33, BIO41, BIO42, BIOE41, BIOE42, and BIOE44 (or equivalents), or permission of the instructors.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE244 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20170109T213819
+CREATED:20170211T124011
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

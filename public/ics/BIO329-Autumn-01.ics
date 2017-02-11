@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20161004T153000
-LAST-MODIFIED:20170109T213708
-UID:explore_coursesb4755ffb-0de5-4329-a7e7-de7e99c425ce
-DTSTAMP:20170109T213708
+LAST-MODIFIED:20170211T123939
+UID:explore_coursesd7819bf3-1df8-4504-a0b0-9954eb1fcedf
+DTSTAMP:20170211T123939
 LOCATION:260-244
 DESCRIPTION:Types of matrices in dynamic &amp; stochastic models, covariances, rectangular data, networks. Spectral theorem, asymptotics, stability theory, Nonnegative matrices, ergodicity, Markov chains. Hermitian, covariance, SVD. Perturbation theory. Random matrix products, Lyapunov exponents. Open to Ph.D. students in Biology. Prerequisites: Calculus (AP level) required. Some knowledge of linear algebra, R, preferred.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO329 LEC
 DTSTART;TZID=America/Los_Angeles:20161004T140000
-CREATED:20170109T213708
+CREATED:20170211T123939
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161108T153000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

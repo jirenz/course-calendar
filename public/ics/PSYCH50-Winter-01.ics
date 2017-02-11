@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170109T213805
-UID:explore_courses8cc4d94d-1950-426b-a6c1-f8d99f0f9fbc
-DTSTAMP:20170109T213805
+LAST-MODIFIED:20170211T124001
+UID:explore_courses3d31553f-c145-4be3-a4e5-76f320670005
+DTSTAMP:20170211T124001
 LOCATION:420-041
 DESCRIPTION:Survey of topics relating brain activity to cognitive processes and behavior. The course begins with an overview of neurophysiology and techniques to measure brain activity. We then discuss perceptual and motor processes before investigating neural responses related to attention, memory, and cognitive control. The course concludes with a discussion of brain processes related to reward, decision making, and social cognition.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH50 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170109T213805
+CREATED:20170211T124001
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

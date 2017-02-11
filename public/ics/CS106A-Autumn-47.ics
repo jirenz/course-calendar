@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160929T132000
-LAST-MODIFIED:20170109T213829
-UID:explore_coursesc77c4630-bfc2-4a82-b68e-36b79a294763
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124017
+UID:explore_courses565491f6-cd15-4ef8-84cc-f0ed2155e559
+DTSTAMP:20170211T124017
 LOCATION:Econ 139
 DESCRIPTION:Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the Java programming language. Emphasis is on good programming style and the built-in facilities of the Java language. No prior programming experience required. Summer quarter enrollment is limited.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106A DIS
 DTSTART;TZID=America/Los_Angeles:20160929T113000
-CREATED:20170109T213829
+CREATED:20170211T124017
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T212000
-LAST-MODIFIED:20170109T213635
-UID:explore_courses5df60236-90ff-48f4-a3c5-c697da5b2ce3
-DTSTAMP:20170109T213635
-LOCATION:McMurtry Building rm 350
-DESCRIPTION:John Wayne's imposing corporeality and easy comportment combined to create an icon of masculinity, the American West, and America itself. Focus is on the films that contributed most to the establishment, maturation, and deconstruction of the iconography and mythology of the John Wayne character. The western and war film as genres; the crisis of and performance of masculinity in postwar culture; gender and sexuality in American national identity; relations among individualism, community, and the state; the Western and national memory; and patriotism and the Vietnam War.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:AMSTUD220B SEM
-DTSTART;TZID=America/Los_Angeles:20170110T193000
-CREATED:20170109T213635
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T212000;BYDAY=TU
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170111T172000
-LAST-MODIFIED:20170109T213635
-UID:explore_courses8e5873b1-aefc-42dd-878b-43e88ad1a208
-DTSTAMP:20170109T213635
+LAST-MODIFIED:20170211T123934
+UID:explore_courses75ce4995-6065-4d60-8a7f-586e12afdc69
+DTSTAMP:20170211T123934
 LOCATION:McMurtry Building rm 360
 DESCRIPTION:John Wayne's imposing corporeality and easy comportment combined to create an icon of masculinity, the American West, and America itself. Focus is on the films that contributed most to the establishment, maturation, and deconstruction of the iconography and mythology of the John Wayne character. The western and war film as genres; the crisis of and performance of masculinity in postwar culture; gender and sexuality in American national identity; relations among individualism, community, and the state; the Western and national memory; and patriotism and the Vietnam War.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AMSTUD220B SEM
 DTSTART;TZID=America/Los_Angeles:20170111T143000
-CREATED:20170109T213635
+CREATED:20170211T123934
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170110T212000
+LAST-MODIFIED:20170211T123934
+UID:explore_courses16c10200-b11b-4ef7-b20b-d3a6412c3747
+DTSTAMP:20170211T123934
+LOCATION:McMurtry Building rm 360
+DESCRIPTION:John Wayne's imposing corporeality and easy comportment combined to create an icon of masculinity, the American West, and America itself. Focus is on the films that contributed most to the establishment, maturation, and deconstruction of the iconography and mythology of the John Wayne character. The western and war film as genres; the crisis of and performance of masculinity in postwar culture; gender and sexuality in American national identity; relations among individualism, community, and the state; the Western and national memory; and patriotism and the Vietnam War.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AMSTUD220B SEM
+DTSTART;TZID=America/Los_Angeles:20170110T183000
+CREATED:20170211T123934
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T212000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

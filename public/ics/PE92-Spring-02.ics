@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170418T125000
-LAST-MODIFIED:20170109T213839
-UID:explore_coursesbfb99a88-45c5-4c95-a2e9-360f774d08bd
-DTSTAMP:20170109T213839
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170404T125000
+LAST-MODIFIED:20170211T124024
+UID:explore_courses623eebd9-be50-4347-90b5-a487e400cad9
+DTSTAMP:20170211T124024
+LOCATION:ArrilagaOutdoorEducRecCtrClWal
 DESCRIPTION:This course is an introductory course. Students will learn skills necessary to get started exploring the world of indoor climbing.  These skills include technical safety skills for bouldering and top-roped climbing, essential physical and mental skills, and strategies for training.  Students will be taught with industry standard best practices in regards to safety, and provided with a multi-disciplinary approach to overall health and wellness.  No experience necessary.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PE92 ACT
-DTSTART;TZID=America/Los_Angeles:20170418T120000
-CREATED:20170109T213839
+DTSTART;TZID=America/Los_Angeles:20170404T120000
+CREATED:20170211T124024
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T125000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

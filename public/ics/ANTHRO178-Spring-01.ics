@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20170109T213646
-UID:explore_courses936d27b4-259b-4bfa-b30b-9c2497d71b53
-DTSTAMP:20170109T213646
+LAST-MODIFIED:20170211T123936
+UID:explore_coursesbc58a04d-ae6c-4175-b480-2f9998848cc1
+DTSTAMP:20170211T123936
 LOCATION:Bolivar House
 DESCRIPTION:The contribution of research in the Galapagos Islands to our current understanding of evolution and conservation.  Writings from Darwin to Dawkins, as they reveal patterns and processes of evolution including selection, adaptation, speciation, and coevolution.  Current conservation strategies in the archipelago, and urgent measures needed today before unique species and adaptations are lost.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO178 SEM
 DTSTART;TZID=America/Los_Angeles:20170403T153000
-CREATED:20170109T213646
+CREATED:20170211T123936
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

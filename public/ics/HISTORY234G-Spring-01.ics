@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T162000
-LAST-MODIFIED:20170109T213749
-UID:explore_courses310c1621-bf50-449c-8352-e609b746819d
-DTSTAMP:20170109T213749
-LOCATION:160-321
+DTEND;TZID=America/Los_Angeles:20170405T142000
+LAST-MODIFIED:20170211T123951
+UID:explore_courses630e041b-b4d0-4548-ae31-3f25afff9cf0
+DTSTAMP:20170211T123951
+LOCATION:School of Education 206
 DESCRIPTION:This course will explore the relationship between modern British literature and imperialism. We will attend to the way imperialism shaped the evolution of a range of styles and genres, from romantic to gothic to modern, epistolary to mystery to fantasy. We will read works by authors such as Charlotte Bronte, Rudyard Kipling, Joseph Conrad, E. M. Forster, complementing them with key works of literary criticism.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY234G COL
-DTSTART;TZID=America/Los_Angeles:20170406T133000
-CREATED:20170109T213749
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170405T113000
+CREATED:20170211T123951
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170627T182000
-LAST-MODIFIED:20170109T213833
-UID:explore_courses1422d2cd-1b01-4e17-b85b-63e596607478
-DTSTAMP:20170109T213833
-LOCATION:
+LAST-MODIFIED:20170211T124020
+UID:explore_courses18b47d6f-a502-4e19-8cbf-b1e179e5f3da
+DTSTAMP:20170211T124020
+LOCATION:200-002
 DESCRIPTION:Probability: random variables, independence, and conditional probability; discrete and continuous distributions, moments, distributions of several random variables. Topics in mathematical statistics: random sampling, point estimation, confidence intervals, hypothesis testing, non-parametric tests, regression and correlation analyses; applications in engineering, industrial manufacturing, medicine, biology, and other fields. Prerequisite: CME 100/ENGR154 or MATH 51 or 52.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR155C LEC
 DTSTART;TZID=America/Los_Angeles:20170627T163000
-CREATED:20170109T213833
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T182000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

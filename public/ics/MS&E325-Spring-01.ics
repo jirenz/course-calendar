@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170109T213834
-UID:explore_courses9a18a1bc-d1e8-425e-8ea3-f5223155a611
-DTSTAMP:20170109T213834
-LOCATION:Shriram Ctr BioChemE 054
+LAST-MODIFIED:20170211T124021
+UID:explore_courses3c31a499-a443-46d4-af13-d471c5aab9f2
+DTSTAMP:20170211T124021
+LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:Current stochastic models, motivated by a wide range of applications in engineering, business, and science, as well as the design and analysis of associated computational methods for performance analysis and control of such stochastic systems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E325 RES
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170109T213834
+CREATED:20170211T124021
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170113T152000
-LAST-MODIFIED:20170109T213829
-UID:explore_courses62d501b7-711e-4ef3-ad3c-5e35b32bfbe9
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124017
+UID:explore_courses2149ddb6-13e2-47b3-9556-4ac76a20bd40
+DTSTAMP:20170211T124017
 LOCATION:Thornt208
 DESCRIPTION:Intensive version of 106B for students with a strong programming background interested in a rigorous treatment of the topics at an accelerated pace. Additional advanced material and more challenging projects. Prerequisite: excellence in 106A or equivalent, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106X DIS
 DTSTART;TZID=America/Los_Angeles:20170113T143000
-CREATED:20170109T213829
+CREATED:20170211T124017
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

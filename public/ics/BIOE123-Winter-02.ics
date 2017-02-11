@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T172000
-LAST-MODIFIED:20170109T213819
-UID:explore_courses232022c7-b6bd-493b-bce3-04d891084ce0
-DTSTAMP:20170109T213819
+LAST-MODIFIED:20170211T124011
+UID:explore_courses93a1be19-a76d-4c2e-8812-9a63e3e05484
+DTSTAMP:20170211T124011
 LOCATION:
 DESCRIPTION:The Bioengineering System Prototyping Laboratory is a fast-paced, team-based system engineering experience, in which teams of 2-3 students design and build a fermenter that meets a set of common requirements along with a set of unique team-determined requirements.  Students learn-by-doing hands-on skills in electronics and mechanical design and fabrication.  Teams also develop process skills and an engineering mindset by aligning specifications with requirements, developing output metrics and measuring performance, and creating project proposals and plans.  The course culminates in demonstration of a fully functioning fermenter that meets the teams' self-determined metrics.nnLearning goals:n1.	Hands-on skills and experience with design, fabrication, integration, and characterization of practical electronic and mechanical hardware systems relevant to Bioengineeringn2.	Practice using modern rapid prototyping and device equipment and techniques, including CAD, 3D printing,  laser cutting, microcontrollers, design thinkingn3.	Experience working as a team to build an end-to-end functional biomedical system (e.g., a fermenter)nnPrerequisites: BIOE 41 and Matlab recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE123 LBS
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170109T213819
+CREATED:20170211T124011
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

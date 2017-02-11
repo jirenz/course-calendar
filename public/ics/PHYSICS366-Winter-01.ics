@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170109T213802
-UID:explore_coursesb27f3271-26b8-48dc-8013-fb28ec6062a0
-DTSTAMP:20170109T213802
+LAST-MODIFIED:20170211T123959
+UID:explore_coursesd3eef259-4436-405e-8d9f-3d940653df45
+DTSTAMP:20170211T123959
 LOCATION:380-381T
 DESCRIPTION:Existing and emerging statistical techniques and their application to astronomical surveys and cosmological data analysis. Topics covered will include statistical frameworks (Bayesian inference and frequentist statistics), numerical methods including Markov Chain Monte Carlo, and machine learning applied to classification and regression. Hands on activities based on open-source software in python.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS366 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170109T213802
+CREATED:20170211T123959
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

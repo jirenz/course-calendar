@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20170109T213633
-UID:explore_courses226f33ef-c8c1-4f03-8550-900b63652e74
-DTSTAMP:20170109T213633
-LOCATION:110-114
+DTEND;TZID=America/Los_Angeles:20170403T122000
+LAST-MODIFIED:20170211T123934
+UID:explore_coursese94d7bf9-721a-40c5-b314-730b36c5a669
+DTSTAMP:20170211T123934
+LOCATION:Thornt207
 DESCRIPTION:Continuation of AMELANG 70A. Completes the first-year sequence in two rather than three quarters. Students develop first-year proficiency in Swahili at an accelerated pace through active language use and participation in Swahili-speaking practices. Emphasis is on development of speaking, listening, reading, and writing through authentic materials and appropriate cultural contexts. Fulfills the University foreign language requirement. Prerequisite: AMELANG 70A or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AMELANG70B LNG
-DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20170109T213633
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20170403T113000
+CREATED:20170211T123934
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

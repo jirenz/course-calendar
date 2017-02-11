@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T175000
-LAST-MODIFIED:20170109T213823
-UID:explore_courses58ef1af7-2d55-45a3-896e-7bab631f5fbe
-DTSTAMP:20170109T213823
+LAST-MODIFIED:20170211T124014
+UID:explore_courses23d3667e-8fcb-4658-957a-e94a1dabcea7
+DTSTAMP:20170211T124014
 LOCATION:320-105
 DESCRIPTION:A Short course presenting the principles behind when, why, and how to apply modern machine learning algorithms. We will discuss a framework for reasoning about when to apply various machine learning techniques, emphasizing questions of over-fitting/under-fitting, regularization, interpretability, supervised/unsupervised methods, and handling of missing data. The principles behind various algorithms--the why and how of using them--will be discussed, while some mathematical detail underlying the algorithms--including proofs--will not be discussed. Unsupervised machine learning algorithms presented will include k-means clustering, principal component analysis (PCA), and independent component analysis (ICA). Supervised machine learning algorithms presented will include support vector machines (SVM), classification and regression trees (CART), boosting, bagging, and random forests. Imputation, the lasso, and cross-validation concepts will also be covered. The R programming language will be used for examples, though students need not have prior exposure to R. Prerequisite: undergraduate-level linear algebra and statistics; basic programming experience (R/Matlab/Python).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME250 WKS
 DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170109T213823
+CREATED:20170211T124014
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

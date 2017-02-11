@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170109T213852
-UID:explore_courses292bfde0-e406-4b28-8b28-af296f6629f7
-DTSTAMP:20170109T213852
+LAST-MODIFIED:20170211T124032
+UID:explore_courses4e014180-acc3-42db-bc3c-4b08015e443d
+DTSTAMP:20170211T124032
 LOCATION:School of Education 128
 DESCRIPTION:Geostatistical theory and practical methodologies for quantifying and simulating spatial and spatio-temporal patterns for the Earth Sciences. Real case development of models of spatial continuity, including variograms, Boolean models and training images. Estimation versus simulation of spatial patterns. Loss functions. Estimation by kriging, co-kriging with secondary data. Dealing with data on various scales. Unconditional and conditional Boolean simulation, sequential simulation for continuous and categorical variables. Multi-variate geostatistical simulation. Probabilistic and pattern-based approaches to multiple-point simulation. Trend, secondary variable, auxiliary variable and probability-type constraints. Quality control techniques on generated models. Workflows for practical geostatistical applications in mining, petroleum, hydrogeology, remote sensing and environmental sciences. prerequisites: Energy 160/260 or basic course in data analysis/statistics
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GS240 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213852
+CREATED:20170211T124032
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

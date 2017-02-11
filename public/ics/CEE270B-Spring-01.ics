@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170405T145000
-LAST-MODIFIED:20170109T213822
-UID:explore_courses3efda42a-0618-486f-bdf7-e303db062c61
-DTSTAMP:20170109T213822
+LAST-MODIFIED:20170211T124013
+UID:explore_courses8d7c9030-cda5-444b-b6fc-011692703b08
+DTSTAMP:20170211T124013
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:With over 70,000 chemicals now in production worldwide, predicting their fate in the environment is a difficult task. The course focuses on developing two key skillls. First, students should develop the ability to derive mass balance equations used to quantify the fate of chemicals in the environment. With so many chemicals having been introduced in the past ~60 years, many of the key parameters needed for mass balance models have not been measured experimentally. The class builds on CEE 270, which developed methods of predicting equilibrium partitioning coefficients. For many situations involving reactions of target contaminants, equilibrium is not attained. The course develops methods of predicting the reactivity of chemicals based upon their chemical structures both qualitatively and quantitatively. natural reaction processes covered include acid-base speciation, nucleophilic substitution, oxidation/reduction reactions, and photochemical reactions. Key treatment ractions (ozone, UV treatment and advanced oxidation) are also covered.  Prerequisites: CEE 270, Chem 31B/X.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE270B LEC
 DTSTART;TZID=America/Los_Angeles:20170405T133000
-CREATED:20170109T213822
+CREATED:20170211T124013
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

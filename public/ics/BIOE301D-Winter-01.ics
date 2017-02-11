@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170109T213819
-UID:explore_courses78793ab8-6e06-4d42-8eec-bc60bb9fae92
-DTSTAMP:20170109T213819
+LAST-MODIFIED:20170211T124011
+UID:explore_courseseab4bd24-1927-4fb6-a58b-6afa144bea6a
+DTSTAMP:20170211T124011
 LOCATION:
 DESCRIPTION:This course exposes students to the design, fabrication, and testing of microfluidic devices for biological applications through combination of lectures and hands-on lab sessions.  In teams of two, students will produce a working prototype devices designed to address specific design challenges within the biological community using photolithography, soft lithography, and imaging techniques.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE301D LAB
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170109T213819
+CREATED:20170211T124011
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

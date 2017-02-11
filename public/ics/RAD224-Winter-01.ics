@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20400116T142000
-LAST-MODIFIED:20170109T213917
-UID:explore_courses80fa6e7d-3011-4f62-bdc7-a3ace0208733
-DTSTAMP:20170109T213917
-LOCATION:160-323
+DTEND;TZID=America/Los_Angeles:20170109T102000
+LAST-MODIFIED:20170211T124051
+UID:explore_coursesa4f97f99-a2cd-4f7c-90cc-28a0159d7f5a
+DTSTAMP:20170211T124051
+LOCATION:Clark Center S361
 DESCRIPTION:Focuses on molecular contrast agents (a.k.a. &quot;probes&quot;) that interrogate and target specific cellular and molecular disease mechanisms. Covers the ideal characteristics of molecular probes and how to optimize their design for use as effective imaging reagents that enables readout of specific steps in biological pathways and reveal the nature of disease through noninvasive imaging assays. Prerequisites: none.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:RAD224 LEC
-DTSTART;TZID=America/Los_Angeles:20190429T183000
-CREATED:20170109T213917
+DTSTART;TZID=America/Los_Angeles:20170109T083000
+CREATED:20170211T124051
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

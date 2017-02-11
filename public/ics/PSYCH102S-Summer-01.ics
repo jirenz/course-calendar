@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170626T145000
-LAST-MODIFIED:20170109T213805
-UID:explore_courses9479a66d-8bc4-4c6b-827d-5d54d11d7b7c
-DTSTAMP:20170109T213805
-LOCATION:
+LAST-MODIFIED:20170211T124001
+UID:explore_courses98c4473d-769a-4fa5-a666-74178396dd11
+DTSTAMP:20170211T124001
+LOCATION:200-305
 DESCRIPTION:Introduction to structure and function of the nervous system. The course first surveys neuroscience research methods, physiology, and gross anatomy. We then study the brain systems which produce basic functions such as perception and motion, as well as complex processes like sleep, memory, and emotion. Finally, we examine these principles in cases of neurological and psychiatric disorders.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH102S LEC
 DTSTART;TZID=America/Los_Angeles:20170626T133000
-CREATED:20170109T213805
+CREATED:20170211T124001
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

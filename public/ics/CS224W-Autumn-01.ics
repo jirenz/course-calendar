@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20170109T213829
-UID:explore_courses6123cf57-28e7-4a04-89f1-a24e33d13db3
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124018
+UID:explore_courses90d41d55-af0f-4ae5-b896-311df6a4cd5a
+DTSTAMP:20170211T124018
 LOCATION:Gates B1
 DESCRIPTION:How do diseases spread? Who are the influencers? How can we predict friends and enemies in a social network? How information flows and mutates as it is passed through networks? Behind each of these questions there is an intricate wiring diagram, a network, that defines the interactions between the components. And we will never understand these questions unless we understand the networks behind them. The course will cover recent research on the structure and analysis of such large social and information networks and on models and algorithms that abstract their basic properties. Class will explore how to practically analyze large-scale network data and how to reason about it through models for network structure and evolution. Topics include methods for link analysis and network community detection, diffusion and information propagation on the web, virus outbreak detection in networks, and connections with work in the social sciences and economics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS224W LEC
 DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170109T213829
+CREATED:20170211T124018
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

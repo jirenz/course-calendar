@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170109T213754
-UID:explore_coursesf0f637e8-e574-4467-a805-4bcea9313397
-DTSTAMP:20170109T213754
-LOCATION:Bishop Auditorium
+LAST-MODIFIED:20170211T123955
+UID:explore_coursesa24600d4-9b1c-49f3-b4c6-b5c2c898fc2e
+DTSTAMP:20170211T123955
+LOCATION:420-040
 DESCRIPTION:Extracting meaning, information, and structure from human language text, speech, web pages, genome sequences, social networks. Methods include: string algorithms, edit distance, language modeling, the noisy channel, naive Bayes, inverted indices, collaborative filtering, PageRank. Applications such as question answering, sentiment analysis, information retrieval, text classification, social network models, chatbots, genomic sequence alignment, spell checking, speech processing, recommender systems. Prerequisite: CS103, CS107, CS109.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LINGUIST280 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170109T213754
+CREATED:20170211T123955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

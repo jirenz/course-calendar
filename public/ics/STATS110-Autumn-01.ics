@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170109T213811
-UID:explore_courses961e141d-c8f4-4218-970e-118e62837ec8
-DTSTAMP:20170109T213811
+LAST-MODIFIED:20170211T124005
+UID:explore_coursesfa01d4b0-f91f-4942-8977-6d7e07452f04
+DTSTAMP:20170211T124005
 LOCATION:320-105
 DESCRIPTION:Introduction to statistics for engineers and physical scientists. Topics: descriptive statistics, probability, interval estimation, tests of hypotheses, nonparametric methods, linear regression, analysis of variance, elementary experimental design. Prerequisite: one year of calculus.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS110 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170109T213811
+CREATED:20170211T124005
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,TU,WE,TH
 END:VEVENT
 END:VCALENDAR

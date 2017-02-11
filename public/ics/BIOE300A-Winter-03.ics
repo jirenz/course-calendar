@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170113T132000
-LAST-MODIFIED:20170109T213819
-UID:explore_coursesab3b3f3e-f93d-4e9c-89be-bde978813e8d
-DTSTAMP:20170109T213819
+LAST-MODIFIED:20170211T124011
+UID:explore_coursesef5ec8e7-3502-4166-b860-840bd86439b2
+DTSTAMP:20170211T124011
 LOCATION:Shriram Ctr BioChemE 108
 DESCRIPTION:The molecular and cellular bases of life from an engineering perspective. Analysis and engineering of biomolecular structure and dynamics, enzyme function, molecular interactions, metabolic pathways, signal transduction, and cellular mechanics. Quantitative primary literature. Prerequisites: CHEM 171 and BIO 41 or equivalents; MATLAB or an equivalent programming language.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE300A DIS
 DTSTART;TZID=America/Los_Angeles:20170113T123000
-CREATED:20170109T213819
+CREATED:20170211T124011
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

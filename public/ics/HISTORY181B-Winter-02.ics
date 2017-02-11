@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170112T162000
+LAST-MODIFIED:20170211T123951
+UID:explore_courses9f04f260-07a4-45f2-98f8-c92b274c3137
+DTSTAMP:20170211T123951
+LOCATION:School of Education 207
+DESCRIPTION:Focusing on the period from World War I to the recent past, the course emphasizes the eastern Arab world Egypt, greater Syria, and Iraq plus Saudi Arabia, Turkey, Iran, and Israel. Themes include: integration of the region into the world economy; imperialism and the formation of the contemporary state system; competing forms of identity (national states, pan-Arab nationalism, Islam) and ideology (liberalism, Marxism, fascism, Islamism); changing gender relations; Palestine/Israel, decolonization, the Cold War; the transition from British to U.S. hegemony; and several contemporary crises.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY181B DIS
+DTSTART;TZID=America/Los_Angeles:20170112T153000
+CREATED:20170211T123951
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

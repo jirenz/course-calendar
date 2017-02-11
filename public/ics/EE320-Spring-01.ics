@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170109T213832
-UID:explore_coursesbe59555b-8803-4ced-9ac3-ef2acf8f7148
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_coursesf4b7a664-4f5f-49de-b8e2-7900378aaf35
+DTSTAMP:20170211T124020
 LOCATION:420-041
 DESCRIPTION:This course covers the device physics and operation principles of nanoelectric devices, with a focus on devices for energy-efficient computation. Topics covered include devices based on new nanomaterials such as carbon nanotubes, semiconductor nanowires, and 2D layered materials such as graphene; non-FET based devices such as nanoelectromechanical (NEM) relay, single electron transistors (SET) and resonant tunneling diodes (RTD); as well as FET-based devices such as tunnel FET.  Devices targeted for both logic and memory applications are covered. Prerequisites: Undergraduate device physics, EE222, EE216, EE316. Recommended courses: EE223, EE228, EE311.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE320 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

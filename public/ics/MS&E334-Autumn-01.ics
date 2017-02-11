@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20170109T213834
-UID:explore_courses837d51e5-53ec-46de-85ce-42c7c00cc654
-DTSTAMP:20170109T213834
+LAST-MODIFIED:20170211T124021
+UID:explore_courses3c7c17e2-dc1c-4dc9-a66d-151e3f49dcce
+DTSTAMP:20170211T124021
 LOCATION:160-317
 DESCRIPTION:This course provides a survey of recent research in the study of social networks and large-scale social and behavioral data. Topics will include network models based on random graphs and their properties; centrality and ranking on graphs; ranking from comparisons; heavy-tailed statistical distributions for social data; the wisdom of crowds; homophily and social influence; experimentation and causal inference on networks. Prerequisites: 221, 226, CS161.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E334 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170109T213834
+CREATED:20170211T124021
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

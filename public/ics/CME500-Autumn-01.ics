@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T172000
-LAST-MODIFIED:20170109T213823
-UID:explore_courses69c285bc-ffa8-40fa-a09f-68a39ee1a84e
-DTSTAMP:20170109T213823
+LAST-MODIFIED:20170211T124014
+UID:explore_courses652e420a-2003-4394-8e80-79200be2f103
+DTSTAMP:20170211T124014
 LOCATION:Y2E2 111
 DESCRIPTION:Weekly research lectures by doctoral students, experts from academia, national laboratories, and industry. May be repeated for credit.  In autumn 2016 this seminar will primarily feature current graduate students talking about their research.  In winter and spring 2016-17, this seminar will feature a mix of graduate students and other researchers.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME500 COL
 DTSTART;TZID=America/Los_Angeles:20160926T163000
-CREATED:20170109T213823
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=MO
+CREATED:20170211T124014
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T202000
-LAST-MODIFIED:20170109T213821
-UID:explore_coursesc0d96c64-184d-426d-87fd-c247093dba4e
-DTSTAMP:20170109T213821
+LAST-MODIFIED:20170211T124013
+UID:explore_courses75dc0bc8-baa2-40da-91b8-a652eba47fff
+DTSTAMP:20170211T124013
 LOCATION:320-106
 DESCRIPTION:The foundational Building Information Modeling course introduces techniques for creating, managing, and applying of building information models in the building design and construction process. The course covers processes and tools for creating, organizing, and working with 2D and 3D computer representations of building components and geometries to produce models used in architectural design, construction planning and documentation, rendering and visualization, simulation and analysis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE220A LEC
 DTSTART;TZID=America/Los_Angeles:20160927T183000
-CREATED:20170109T213821
+CREATED:20170211T124013
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T202000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

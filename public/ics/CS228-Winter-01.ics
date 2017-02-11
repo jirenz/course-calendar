@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170109T213829
-UID:explore_coursesc918f340-e7ea-462f-baf6-b7d1c292e6cb
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124018
+UID:explore_coursesb8a5ee8a-f7e4-4e5d-ad99-c08e519773ab
+DTSTAMP:20170211T124018
 LOCATION:Skillaud
 DESCRIPTION:Probabilistic graphical modeling languages for representing complex domains, algorithms for reasoning using these representations, and learning these representations from data. Topics include: Bayesian and Markov networks, extensions to temporal modeling such as hidden Markov models and dynamic Bayesian networks, exact and approximate probabilistic inference algorithms, and methods for learning models from data. Also included are sample applications to various domains including speech recognition, biological modeling and discovery, medical diagnosis, message encoding, vision, and robot motion planning. Prerequisites: basic probability theory and algorithm design and analysis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS228 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20170109T213829
+CREATED:20170211T124018
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170316T162000
-LAST-MODIFIED:20170109T213855
-UID:explore_courses17c8a155-be8f-41fd-adc5-f09ae1ebdad5
-DTSTAMP:20170109T213855
+LAST-MODIFIED:20170211T124035
+UID:explore_courses5509e1da-dc46-4f42-8ce5-5c96a96a1a17
+DTSTAMP:20170211T124035
 LOCATION:CCSR 4205
 DESCRIPTION:This course provides an overview of statistical methods for analyzing human genetic variation and for understanding the genetic basis of complex traits. Topics include: principles of population genetics; effects of evolutionary forces on pattern of genomic variation; epidemiologic designs; genotype-phenotype association analyses of complex traits; missing heritability. Weekly interactive computing sessions will provide guided exercises analyzing real genomic data. Pre-requisite: basic understanding of probability and access to a laptop computer.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS259 LBS
 DTSTART;TZID=America/Los_Angeles:20170316T150000
-CREATED:20170109T213855
+CREATED:20170211T124035
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170324T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

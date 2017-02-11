@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170109T213754
-UID:explore_coursesc1f10933-3081-4b55-9b08-efe7d0a3056b
-DTSTAMP:20170109T213754
+LAST-MODIFIED:20170211T123955
+UID:explore_courses00b1c902-7a4a-45f6-a00f-711f3c7fdf5d
+DTSTAMP:20170211T123955
 LOCATION:Encina West 202
 DESCRIPTION:Computer programming techniques for collecting and analyzing data in linguistic research. Introduction to the UNIX, regular expressions, and Python scripting. Hands-on experience gathering, formatting, and manipulating corpus, field, and experimental data, combining data from multiple sources, and working with existing tools.  Knowledge of computer programming not required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LINGUIST278 SEM
 DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20170109T213754
+CREATED:20170211T123955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

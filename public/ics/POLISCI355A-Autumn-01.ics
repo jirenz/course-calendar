@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T112000
-LAST-MODIFIED:20170109T213804
-UID:explore_courses6f36a82b-d874-4c4c-be37-4498b4f8205b
-DTSTAMP:20170109T213804
+LAST-MODIFIED:20170211T124001
+UID:explore_courses972096b7-4c07-4ef6-9430-8fad3361d18f
+DTSTAMP:20170211T124001
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:Data science is quickly changing the way we understand and and engage in the political process.  In this course we will develop fundamental techniques of data science and apply them to large political datasets on elections, campaign finance, lobbying, and more.  The objective is to give students the skills to carry out cutting edge quantitative political studies in both academia and the private sector.  Students with technical backgrounds looking to study politics quantitatively are encouraged to enroll.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI355A LEC
 DTSTART;TZID=America/Los_Angeles:20160927T093000
-CREATED:20170109T213804
+CREATED:20170211T124001
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

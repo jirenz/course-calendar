@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20170109T213909
-UID:explore_coursesbbc7fcd7-4b3e-4664-8847-d614316e9652
-DTSTAMP:20170109T213909
-LOCATION:CCSR 4205
-DESCRIPTION:Principles of tissue engineering and design strategies for practical applications for tissue repair. Topics include tissue morphogenesis, stem cells, biomaterials, controlled drug and gene delivery, and paper discussions. Students will learn skills for lab research through interactive lectures, paper discussions and research proposal development. Students work in small teams to work on develop research proposal for authentic tissue engineering problems. Lab sessions will teach techniques for culturing cells in 3D, as well as fabricating and characterizing hydrogels as 3D cell niche.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:ORTHO260 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20170109T213909
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170407T162000
-LAST-MODIFIED:20170109T213909
-UID:explore_courses70d47740-d8b6-472c-968b-4c8be5b8bdbb
-DTSTAMP:20170109T213909
+LAST-MODIFIED:20170211T124045
+UID:explore_coursesc158d016-735b-4036-bab6-4e8fef16c3bd
+DTSTAMP:20170211T124045
 LOCATION:Alway Building, Room M106
 DESCRIPTION:Principles of tissue engineering and design strategies for practical applications for tissue repair. Topics include tissue morphogenesis, stem cells, biomaterials, controlled drug and gene delivery, and paper discussions. Students will learn skills for lab research through interactive lectures, paper discussions and research proposal development. Students work in small teams to work on develop research proposal for authentic tissue engineering problems. Lab sessions will teach techniques for culturing cells in 3D, as well as fabricating and characterizing hydrogels as 3D cell niche.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ORTHO260 LEC
 DTSTART;TZID=America/Los_Angeles:20170407T133000
-CREATED:20170109T213909
+CREATED:20170211T124045
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T102000
+LAST-MODIFIED:20170211T124045
+UID:explore_coursesc0c42192-a140-4297-8bc7-55fa2d8d8e32
+DTSTAMP:20170211T124045
+LOCATION:CCSR 4205
+DESCRIPTION:Principles of tissue engineering and design strategies for practical applications for tissue repair. Topics include tissue morphogenesis, stem cells, biomaterials, controlled drug and gene delivery, and paper discussions. Students will learn skills for lab research through interactive lectures, paper discussions and research proposal development. Students work in small teams to work on develop research proposal for authentic tissue engineering problems. Lab sessions will teach techniques for culturing cells in 3D, as well as fabricating and characterizing hydrogels as 3D cell niche.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ORTHO260 LEC
+DTSTART;TZID=America/Los_Angeles:20170404T090000
+CREATED:20170211T124045
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

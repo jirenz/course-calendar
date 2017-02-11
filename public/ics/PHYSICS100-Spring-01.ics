@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20170109T213802
-UID:explore_coursese5832039-a637-4258-b153-3dbcf6fd1b9b
-DTSTAMP:20170109T213802
+LAST-MODIFIED:20170211T123959
+UID:explore_courses6c343b0d-0fcd-4ed3-8707-a14b76bdaf6f
+DTSTAMP:20170211T123959
 LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:Designed for undergraduate physics majors but open to all students with a calculus-based physics background and some laboratory and coding experience. Students make and analyze observations using the telescopes at the Stanford Student Observatory. Topics covered include navigating the night sky, the physics of stars and galaxies, telescope instrumentation and operation, imaging and spectroscopic techniques, quantitative error analysis, and effective scientific communication. The course concludes with an independent project. Limited enrollment. Prerequisites: prior completion of Physics 40 or 60 series.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS100 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T163000
-CREATED:20170109T213802
+CREATED:20170211T123959
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

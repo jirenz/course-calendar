@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170109T213834
-UID:explore_courses50479e3a-2670-46ee-bea7-a9154891f8a6
-DTSTAMP:20170109T213834
-LOCATION:Lathrop 299
-DESCRIPTION:Data and algorithms are rapidly transforming law enforcement and criminal justice, including how police officers are deployed, how discrimination is detected, and how sentencing, probation, and parole terms are set. Modern computational and statistical methods offer the promise of greater efficiency, equity, and transparency, but their use also raises complex legal, social, and ethical questions.  In this course, we analyze recent court decisions, discuss methods from machine learning and game theory, and examine the often subtle relationship between law, public policy and statistics. Students work in interdisciplinary teams to explore these issues in an empirical or investigative project of their choice. Prerequisite: An introductory course in applied statistics (e.g. MS&amp;E 125). Recommended: experience programming in R or Python.
+DTEND;TZID=America/Los_Angeles:20170403T162000
+LAST-MODIFIED:20170211T124021
+UID:explore_coursesf29e6e1b-a71a-4e83-99a0-edb74a09cfb5
+DTSTAMP:20170211T124021
+LOCATION:Y2E2 105
+DESCRIPTION:Data and algorithms are rapidly transforming law enforcement and criminal justice, including how police officers are deployed, how discrimination is detected, and how sentencing, probation, and parole terms are set. Modern computational and statistical methods offer the promise of greater efficiency, equity, and transparency, but their use also raises complex legal, social, and ethical questions. In this course, we analyze recent court decisions, discuss methods from machine learning and game theory, and examine the often subtle relationship between law, public policy, and statistics. The class is centered around several data-intensive projects in criminal justice that students work on in interdisciplinary teams. Students work closely with criminal justice agencies to carry out these projects, with the goal of producing research that impacts policy. Students with a background in statistics, computer science, law, and/or public policy are encouraged to participate. Enrollment is limited, and project teams will be selected during the first week of class.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E330 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170109T213834
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170403T133000
+CREATED:20170211T124021
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

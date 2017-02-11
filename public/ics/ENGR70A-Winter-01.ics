@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses13ca49ce-54c4-4cb0-926e-f9ec62c09550
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_coursesd17553bb-7f4b-4429-9521-e67fefdb6a2e
+DTSTAMP:20170211T124020
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the Java programming language. Emphasis is on good programming style and the built-in facilities of the Java language. No prior programming experience required. Summer quarter enrollment is limited.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR70A LEC
 DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

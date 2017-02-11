@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T132000
-LAST-MODIFIED:20170109T213903
-UID:explore_courses52554549-6817-454e-8ae1-aa4d57730187
-DTSTAMP:20170109T213903
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170406T132000
+LAST-MODIFIED:20170211T124041
+UID:explore_courses1e88b180-e6f9-48be-8e6a-c24a629655f3
+DTSTAMP:20170211T124041
+LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:Explores specific, pertinent, and timely issues impacting the health of the lesbian, gay, bisexual, and transgender community; examines the role of the primary care physician in addressing the health care needs of this community. Guest lecturers provide a gender-sensitive approach to the medical care of the LGBT patient, breaking down homophobic barriers and reaffirming patient diversity.  May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE215 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T123000
-CREATED:20170109T213903
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170406T123000
+CREATED:20170211T124041
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

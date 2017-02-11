@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T125000
-LAST-MODIFIED:20170109T213802
-UID:explore_courses432bd2df-f548-44d1-af4c-3e869b0b3866
-DTSTAMP:20170109T213802
+LAST-MODIFIED:20170211T123959
+UID:explore_courses8fff49a3-49fe-463f-b66a-5a4654a4fa16
+DTSTAMP:20170211T123959
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Theory of renormalization. The renormalization group and applications to the theory of phase transitions. Renormalization of Yang-Mills theories. Applications of the renormalization group of quantum chromodynamics. Perturbation theory anomalies. Applications to particle phenomenology. Prerequisite: PHYSICS 331.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS332 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T113000
-CREATED:20170109T213802
+CREATED:20170211T123959
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T125000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

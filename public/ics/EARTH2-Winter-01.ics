@@ -23,16 +23,30 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170109T213847
-UID:explore_courses2533e0da-0e78-42b7-94b0-a3074ffcff4c
-DTSTAMP:20170109T213847
-LOCATION:Lathrop 299
+LAST-MODIFIED:20170211T124029
+UID:explore_coursesd1e2fb20-5c9c-408c-ad67-a7294fd7823d
+DTSTAMP:20170211T124029
+LOCATION:Lathrop 282
 DESCRIPTION:How and why is the climate changing? How might a changing climate affect human society? And what can we do to alter the course of climate change and adapt to any climatic changes that do occur? This course provides an introduction to the natural science and social science of climate change. The focus is on what science tells us about the causes, consequences, and solutions to climate change, as well as on how scientific progress is made on these issues.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTH2 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170109T213847
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
+CREATED:20170211T124029
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170113T112000
+LAST-MODIFIED:20170211T124029
+UID:explore_coursesd8e6e872-2d1c-4f64-b32f-fd8427488e3b
+DTSTAMP:20170211T124029
+LOCATION:Lathrop 299
+DESCRIPTION:How and why is the climate changing? How might a changing climate affect human society? And what can we do to alter the course of climate change and adapt to any climatic changes that do occur? This course provides an introduction to the natural science and social science of climate change. The focus is on what science tells us about the causes, consequences, and solutions to climate change, as well as on how scientific progress is made on these issues.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EARTH2 LEC
+DTSTART;TZID=America/Los_Angeles:20170113T103000
+CREATED:20170211T124029
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

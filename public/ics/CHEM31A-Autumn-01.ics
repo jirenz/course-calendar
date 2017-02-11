@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T192000
-LAST-MODIFIED:20170109T213719
-UID:explore_coursesbef7cdd1-bd49-4a02-9dcd-e578c8ecccc2
-DTSTAMP:20170109T213719
-LOCATION:Braunaud
-DESCRIPTION:For students with moderate or no background in chemistry. Stoichiometry; periodicity; electronic structure and bonding; gases; enthalpy; phase behavior. Emphasis is on skills to address structural and quantitative chemical questions; lab provides practice. Recitation.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:CHEM31A LEC
-DTSTART;TZID=America/Los_Angeles:20160926T180000
-CREATED:20170109T213719
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=MO,WE
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170109T213719
-UID:explore_coursesda2ef38e-dbbe-44d1-8b29-c216c8f48e5f
-DTSTAMP:20170109T213719
+LAST-MODIFIED:20170211T123940
+UID:explore_courses4b3b6321-a9d5-41eb-a5b0-3c384173ceef
+DTSTAMP:20170211T123940
 LOCATION:Braunaud
 DESCRIPTION:For students with moderate or no background in chemistry. Stoichiometry; periodicity; electronic structure and bonding; gases; enthalpy; phase behavior. Emphasis is on skills to address structural and quantitative chemical questions; lab provides practice. Recitation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM31A LEC
 DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170109T213719
+CREATED:20170211T123940
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T192000
+LAST-MODIFIED:20170211T123940
+UID:explore_courses81c42383-fafe-49f0-b6b0-1296479fbdf6
+DTSTAMP:20170211T123940
+LOCATION:Braunaud
+DESCRIPTION:For students with moderate or no background in chemistry. Stoichiometry; periodicity; electronic structure and bonding; gases; enthalpy; phase behavior. Emphasis is on skills to address structural and quantitative chemical questions; lab provides practice. Recitation.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHEM31A LEC
+DTSTART;TZID=America/Los_Angeles:20160926T180000
+CREATED:20170211T123940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

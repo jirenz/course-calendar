@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20170109T213719
-UID:explore_courses1c9b788e-d620-4b43-8fa6-2b770e5b081b
-DTSTAMP:20170109T213719
+LAST-MODIFIED:20170211T123940
+UID:explore_courses7cb8004b-6921-4028-bca6-d9bbbb802ab3
+DTSTAMP:20170211T123940
 LOCATION:ScienceTeachingLearningCntr115
 DESCRIPTION:Molecular theory of kinetics and statistical mechanics: transport and reactions in gases and liquids, ensembles and the Boltzmann distribution law, partition functions, molecular simulation, structure and dynamics of liquids. Diffusion and activation limited reactions, potential energy surfaces, collision theory, transition-state theory and Marcus theory of reaction rates. Prerequisites: 171, 173.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM175 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20170109T213719
+CREATED:20170211T123940
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

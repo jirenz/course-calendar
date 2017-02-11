@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170109T213811
-UID:explore_courses04b28cca-96df-40ec-87bd-464d7a6af01a
-DTSTAMP:20170109T213811
+LAST-MODIFIED:20170211T124005
+UID:explore_courses534ec158-8193-4129-9548-820da2c2ae1f
+DTSTAMP:20170211T124005
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:The fundamental ideas of information theory. Entropy and intrinsic randomness. Data compression to the entropy limit. Huffman coding. Arithmetic coding. Channel capacity, the communication limit. Gaussian channels. Kolmogorov complexity. Asymptotic equipartition property. Information theory and Kelly gambling. Applications to communication and data compression. Prerequisite: EE178 or STATS 116, or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS376A LEC
 DTSTART;TZID=America/Los_Angeles:20170110T120000
-CREATED:20170109T213811
+CREATED:20170211T124005
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

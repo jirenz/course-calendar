@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170405T222000
-LAST-MODIFIED:20170109T213758
-UID:explore_courses13c7a80e-a43b-4266-9090-e944a603ded9
-DTSTAMP:20170109T213758
+LAST-MODIFIED:20170211T123957
+UID:explore_coursesf3cdbae6-498b-41be-873f-5d554236de7b
+DTSTAMP:20170211T123957
 LOCATION:Knoll317
 DESCRIPTION:Classroom instantiation of the Stanford Laptop Orchestra (SLOrk) which includes public performances. An ensemble of more than 20 humans, laptops, controllers, and special speaker arrays designed to provide each computer-mediated instrument with its sonic identity and presence. Topics and activities include issues of composing for laptop orchestras, instrument design, sound synthesis, programming, and live performance. May be repeated four times for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC128 SEM
 DTSTART;TZID=America/Los_Angeles:20170405T193000
-CREATED:20170109T213758
+CREATED:20170211T123957
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T222000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

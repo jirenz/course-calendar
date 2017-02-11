@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170405T172000
-LAST-MODIFIED:20170109T213802
-UID:explore_courses88ee2122-996b-417d-ba61-b49cd0a30ed4
-DTSTAMP:20170109T213802
+LAST-MODIFIED:20170211T123959
+UID:explore_coursesed4e6599-fc70-4d26-a19a-27b946f33de7
+DTSTAMP:20170211T123959
 LOCATION:Lathrop 299
 DESCRIPTION:Additional assistance and applications for Physics 43. In-class problems in physics and engineering. Exercises in calculations of electric and magnetic forces and field to reinforce concepts and techniques; Calculations involving inductors, transformers, AC circuits, motors and generators. Highly recommended for students with limited or no high school physics or calculus.  Co-requisite: PHYSICS 43.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS43A LEC
 DTSTART;TZID=America/Los_Angeles:20170405T153000
-CREATED:20170109T213802
+CREATED:20170211T123959
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

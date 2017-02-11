@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T152000
-LAST-MODIFIED:20170109T213821
-UID:explore_coursesdf380784-bb50-481c-b4e2-8417011393ad
-DTSTAMP:20170109T213821
-LOCATION:
-DESCRIPTION:Global AEC student teams continue their project activity focusing on the most challenging concept developed in 222A  and chosen jointly with their client. Comprehensive team project focusing on design and construction, including: project development and documentation; detailing, 3D and 4D modeling, simulation, sustainable concepts, cost benefit analysis, and life-cycle cost analysis; and final project presentation of product and process. Prerequisite: CEE 222A.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:CEE222B LEC
-DTSTART;TZID=America/Los_Angeles:20170407T123000
-CREATED:20170109T213821
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170407T162000
-LAST-MODIFIED:20170109T213821
-UID:explore_coursese4e5147d-d789-48cb-bfda-994401f6703a
-DTSTAMP:20170109T213821
+LAST-MODIFIED:20170211T124013
+UID:explore_courses62215375-f008-4f54-8988-b9051021b264
+DTSTAMP:20170211T124013
 LOCATION:
 DESCRIPTION:Global AEC student teams continue their project activity focusing on the most challenging concept developed in 222A  and chosen jointly with their client. Comprehensive team project focusing on design and construction, including: project development and documentation; detailing, 3D and 4D modeling, simulation, sustainable concepts, cost benefit analysis, and life-cycle cost analysis; and final project presentation of product and process. Prerequisite: CEE 222A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE222B LEC
 DTSTART;TZID=America/Los_Angeles:20170407T153000
-CREATED:20170109T213821
+CREATED:20170211T124013
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170407T152000
+LAST-MODIFIED:20170211T124013
+UID:explore_coursesbe3ae805-7e41-4739-b682-f6eb4e67de69
+DTSTAMP:20170211T124013
+LOCATION:
+DESCRIPTION:Global AEC student teams continue their project activity focusing on the most challenging concept developed in 222A  and chosen jointly with their client. Comprehensive team project focusing on design and construction, including: project development and documentation; detailing, 3D and 4D modeling, simulation, sustainable concepts, cost benefit analysis, and life-cycle cost analysis; and final project presentation of product and process. Prerequisite: CEE 222A.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE222B LEC
+DTSTART;TZID=America/Los_Angeles:20170407T123000
+CREATED:20170211T124013
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

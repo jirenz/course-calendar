@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T175000
-LAST-MODIFIED:20170109T213829
-UID:explore_courses64f1650d-80f9-4a12-8cef-dd151d4c8c52
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124018
+UID:explore_courses352f40c0-35a1-426b-8c73-03f6ceb94f78
+DTSTAMP:20170211T124018
 LOCATION:Gates B1
 DESCRIPTION:Robotics foundations in modeling, design, planning, and control. Class covers relevant results from geometry, kinematics, statics, dynamics, motion planning, and control, providing the basic methodologies and tools in robotics research and applications. Concepts and models are illustrated through physical robot platforms, interactive robot simulations, and video segments relevant to historical research developments or to emerging application areas in the field. Recommended: matrix algebra.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS223A LEC
 DTSTART;TZID=America/Los_Angeles:20170109T163000
-CREATED:20170109T213829
+CREATED:20170211T124018
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

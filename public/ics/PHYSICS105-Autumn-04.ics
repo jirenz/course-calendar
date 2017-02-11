@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T175000
-LAST-MODIFIED:20170109T213802
-UID:explore_coursesf49ca57c-41b5-4b99-b645-df40f4001aac
-DTSTAMP:20170109T213802
+LAST-MODIFIED:20170211T123959
+UID:explore_courses6244b558-a87a-4513-9888-8aa3ebd25db2
+DTSTAMP:20170211T123959
 LOCATION:
 DESCRIPTION:Analog electronics including Ohm's law, passive circuits and transistor and op amp circuits, emphasizing practical circuit design skills to prepare undergraduates for laboratory research. Short design project. Minimal use of math and physics, no electronics experience assumed beyond introductory physics. Prerequisite: PHYSICS 43 or  PHYSICS 63.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS105 LBS
 DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170109T213802
+CREATED:20170211T123959
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

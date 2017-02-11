@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170627T112000
+LAST-MODIFIED:20170211T124020
+UID:explore_coursesa092889a-4645-4c34-a28a-008bddb475f3
+DTSTAMP:20170211T124020
+LOCATION:Herrin T175
+DESCRIPTION:Applied linear algebra and linear dynamical systems with applications to circuits, signal processing, communications, and control systems. Topics: least-squares approximations of over-determined equations, and least-norm solutions of underdetermined equations. Symmetric matrices, matrix norm, and singular-value decomposition. Eigenvalues, left and right eigenvectors, with dynamical interpretation. Matrix exponential, stability, and asymptotic behavior. Multi-input/multi-output systems, impulse and step matrices; convolution and transfer-matrix descriptions. Control, reachability, and state transfer; observability and least-squares state estimation. Prerequisites: linear algebra and matrices as in MATH104; differential equations and Laplace transforms as in EE102B.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EE263 LEC
+DTSTART;TZID=America/Los_Angeles:20170627T093000
+CREATED:20170211T124020
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T112000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170109T213834
-UID:explore_courses5211ac51-0c10-4dbd-a4ca-14b4bd2a0aff
-DTSTAMP:20170109T213834
+LAST-MODIFIED:20170211T124021
+UID:explore_courses17b0f8e9-a198-46af-b10d-6811f324f245
+DTSTAMP:20170211T124021
 LOCATION:Gates B3
 DESCRIPTION:Discrete-event systems, generation of uniform and non-uniform random numbers, Monte Carlo methods, programming techniques for simulation, statistical analysis of simulation output, efficiency-improvement techniques, decision making using simulation, applications to systems in computer science, engineering, finance, and operations research. Prerequisites: working knowledge of a programming language such as C, C++, Java, Python, or FORTRAN; calculus-base probability; and basic statistical methods.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E223 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20170109T213834
+CREATED:20170211T124021
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

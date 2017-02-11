@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160902T165000
-LAST-MODIFIED:20170109T213903
-UID:explore_courses267d3b55-42b9-47b9-8977-ef9264ddb04d
-DTSTAMP:20170109T213903
-LOCATION:
-DESCRIPTION:Focuses on the cell biology and structural organization of human tissues as self-renewing systems. Topics include identification and differentiation of stem cells, regulation of the cell cycle and apoptosis in normal and cancerous cells, cell adhesion and polarity in epithelial tissues, intracellular transport, and cell migration. Histology laboratory sessions examine normal and abnormal samples of blood, epithelia, connective tissue, muscle, bone and cartilage. Patient presentations and small group discussions of current medical literature illustrate how cell biology influences medical practice.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:INDE216 LEC
-DTSTART;TZID=America/Los_Angeles:20160902T150000
-CREATED:20170109T213903
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160923T165000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160829T162000
-LAST-MODIFIED:20170109T213903
-UID:explore_coursesd2a7784e-84c8-4616-8ac1-4b1d7b518c31
-DTSTAMP:20170109T213903
+LAST-MODIFIED:20170211T124041
+UID:explore_coursesdbb8d77c-5410-48da-82ec-4bf7a3a8abb9
+DTSTAMP:20170211T124041
 LOCATION:
 DESCRIPTION:Focuses on the cell biology and structural organization of human tissues as self-renewing systems. Topics include identification and differentiation of stem cells, regulation of the cell cycle and apoptosis in normal and cancerous cells, cell adhesion and polarity in epithelial tissues, intracellular transport, and cell migration. Histology laboratory sessions examine normal and abnormal samples of blood, epithelia, connective tissue, muscle, bone and cartilage. Patient presentations and small group discussions of current medical literature illustrate how cell biology influences medical practice.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE216 LEC
 DTSTART;TZID=America/Los_Angeles:20160829T133000
-CREATED:20170109T213903
+CREATED:20170211T124041
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160923T162000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160902T165000
+LAST-MODIFIED:20170211T124041
+UID:explore_courses0ef30c10-544b-4dc7-82a5-f1c655e0316f
+DTSTAMP:20170211T124041
+LOCATION:
+DESCRIPTION:Focuses on the cell biology and structural organization of human tissues as self-renewing systems. Topics include identification and differentiation of stem cells, regulation of the cell cycle and apoptosis in normal and cancerous cells, cell adhesion and polarity in epithelial tissues, intracellular transport, and cell migration. Histology laboratory sessions examine normal and abnormal samples of blood, epithelia, connective tissue, muscle, bone and cartilage. Patient presentations and small group discussions of current medical literature illustrate how cell biology influences medical practice.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:INDE216 LEC
+DTSTART;TZID=America/Los_Angeles:20160902T150000
+CREATED:20170211T124041
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160923T165000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

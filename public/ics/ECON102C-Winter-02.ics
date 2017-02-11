@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170113T112000
+LAST-MODIFIED:20170211T123946
+UID:explore_coursesbecd1c2a-b583-4b8b-a6d6-0c3dd0f1462b
+DTSTAMP:20170211T123946
+LOCATION:Econ 206
+DESCRIPTION:The program evaluation problem. Identifying and estimating the effects of policies on outcomes of interest (e.g., tax rates on labor supply, etc.). Identifying and estimating the effects of human capital on earnings and other labor market outcomes. Topics: Instrumental variables estimation; limited dependent variable models (probit, logit, Tobit models); Panel data techniques (fixed and random effect models, dynamic panel data models); Duration models; Bootstrap and Estimation by Simulation. Prerequisite: Econ 102B
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON102C DIS
+DTSTART;TZID=America/Los_Angeles:20170113T093000
+CREATED:20170211T123946
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

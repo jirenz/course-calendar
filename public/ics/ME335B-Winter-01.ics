@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170109T213838
-UID:explore_courses54573dcb-71f3-4baf-80d0-75a9578a3122
-DTSTAMP:20170109T213838
+LAST-MODIFIED:20170211T124023
+UID:explore_coursescfc2b758-88bb-45a5-b21a-da7816bd6dd0
+DTSTAMP:20170211T124023
 LOCATION:530-127
 DESCRIPTION:Finite element methods for linear dynamic analysis. Eigenvalue, parabolic, and hyperbolic problems. Mathematical properties of semi-discrete (t-continuous) Galerkin approximations. Modal decomposition and direct spectral truncation techniques. Stability, consistency, convergence, and accuracy of ordinary differential equation solvers. Asymptotic stability, over-shoot, and conservation laws for discrete algorithms. Mass reduction. Applications in heat conduction, structural vibrations, and elastic wave propagation. Computer implementation of finite element methods in linear dynamics. Implicit, explicit, and implicit-explicit algorithms and code architectures.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME335B LEC
 DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170109T213838
+CREATED:20170211T124023
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

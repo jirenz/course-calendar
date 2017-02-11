@@ -23,16 +23,30 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170407T152000
-LAST-MODIFIED:20170109T213655
-UID:explore_coursesda02772b-b809-4cf3-b85a-a56fc5e4b129
-DTSTAMP:20170109T213655
-LOCATION:
+LAST-MODIFIED:20170211T123937
+UID:explore_courses4cdafef4-4a13-4054-84a7-43c530fc12d4
+DTSTAMP:20170211T123937
+LOCATION:McMurtry Building rm 350
 DESCRIPTION:This course will cover changes in the business, economics, and practices of the popular music industry. It will provide a brief historical overview of the industry and its business models. The majority of the course will focus on the industry as it works today and on forces that are causing it to change rapidly. The course will feature guest artists and executives with current experience in the field, as well as project-based assignments designed to give students hands-on experience.Topics will include: Economics and business models of commercial music business,Technology and music production, Technology and music distribution, Technology and marketing, Leadership in the music industry: case studies, Managing creative projects, Copyright and legal issues
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTSINST150 SEM
 DTSTART;TZID=America/Los_Angeles:20170407T133000
-CREATED:20170109T213655
+CREATED:20170211T123937
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170407T152000
+LAST-MODIFIED:20170211T123937
+UID:explore_courses5bfbe410-f60a-484b-89cc-02053c10bcc5
+DTSTAMP:20170211T123937
+LOCATION:Knoll317
+DESCRIPTION:This course will cover changes in the business, economics, and practices of the popular music industry. It will provide a brief historical overview of the industry and its business models. The majority of the course will focus on the industry as it works today and on forces that are causing it to change rapidly. The course will feature guest artists and executives with current experience in the field, as well as project-based assignments designed to give students hands-on experience.Topics will include: Economics and business models of commercial music business,Technology and music production, Technology and music distribution, Technology and marketing, Leadership in the music industry: case studies, Managing creative projects, Copyright and legal issues
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSINST150 SEM
+DTSTART;TZID=America/Los_Angeles:20170407T133000
+CREATED:20170211T123937
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170414T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

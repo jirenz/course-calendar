@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses48fed964-7554-48f2-8b72-2ee6483812c4
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses589fe624-7c44-4f26-9d86-d8cec8388b88
+DTSTAMP:20170211T124020
 LOCATION:160-317
 DESCRIPTION:Electromagnetic phenomena at the nanoscale.  Dipolar interactions between emitters and nanostructures, weak and strong coupling, surface plasmon polaritons and localized plasmons, electromagnetic field enhancements, and near-field coupling between metallic nanostructures.  Numerical tools will be taught and used to simulate nano-optical phenomena. Prerequisite: EE 242 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE349 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

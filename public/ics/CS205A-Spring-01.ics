@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170109T213829
-UID:explore_coursesd3ca12c1-8497-4bf4-9d69-b55750967296
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124018
+UID:explore_courses56cc5835-58c7-429a-a7fa-9ae00235049a
+DTSTAMP:20170211T124018
 LOCATION:Gates B1
 DESCRIPTION:Continuous mathematics background necessary for research in robotics, vision, and graphics. Possible topics: linear algebra; the conjugate gradient method; ordinary and partial differential equations; vector and tensor calculus. Prerequisites: 106B or X; MATH 51; or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS205A LEC
 DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170109T213829
+CREATED:20170211T124018
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T192000
-LAST-MODIFIED:20170109T213749
-UID:explore_courseseb6b7476-7eac-4da1-a0ff-a4d84da87b53
-DTSTAMP:20170109T213749
-LOCATION:200-013
+DTEND;TZID=America/Los_Angeles:20170403T175000
+LAST-MODIFIED:20170211T123951
+UID:explore_courses68d43d3f-50c6-4ef6-a815-9b1b6725493e
+DTSTAMP:20170211T123951
+LOCATION:200-203
 DESCRIPTION:(Same as HISTORY 110C. History majors and others taking 5 units, register for 110C.) From the late 18th century to the present. How Europeans responded to rapid social changes caused by political upheaval, industrialization, and modernization. How the experience and legacy of imperialism and colonialism both influenced European society and put in motion a process of globalization that continues to shape international politics today.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY10C LEC
-DTSTART;TZID=America/Los_Angeles:20170403T180000
-CREATED:20170109T213749
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T192000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170403T163000
+CREATED:20170211T123951
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

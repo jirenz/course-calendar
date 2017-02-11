@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T102000
-LAST-MODIFIED:20170109T213832
-UID:explore_coursesae403d10-e1c1-4e74-be8d-7b683532fd9a
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses41fe85b0-1057-4869-8d68-3905094e64a9
+DTSTAMP:20170211T124020
 LOCATION:Gates B12
 DESCRIPTION:Fundamental properties of electrical activity in neurons, technology for measuring and altering neural activity, and operating principles of modern neurological and neural prosthetic medical systems. Topics: action potential generation and propagation, neuro-MEMS and measurement systems, experimental design and statistical data analysis, information encoding and decoding, clinical diagnostic systems, and fully-implantable neural prosthetic systems design. Prerequisite: EE 101A and EE 102A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE124 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

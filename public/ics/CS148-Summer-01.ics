@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170627T152000
-LAST-MODIFIED:20170109T213829
-UID:explore_coursese3fbd149-d214-4111-afbc-f5668b301a07
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124018
+UID:explore_courses28b03a9e-056a-4cdf-bb21-e62e3a6206db
+DTSTAMP:20170211T124018
 LOCATION:
 DESCRIPTION:Introductory prerequisite course in the computer graphics sequence introducing students to the technical concepts behind creating synthetic computer generated images. Focuses on using OpenGL to create visual imagery, as well as an understanding of the underlying mathematical concepts including triangles, normals, interpolation, texture mapping, bump mapping, etc. Course will cover fundamental understanding of light and color, as well as how it impacts computer displays and printers. Class will discuss more thoroughly how light interacts with the environment, constructing engineering models such as the BRDF, plus various simplifications into more basic lighting and shading models. Also covers ray tracing technology for creating virtual images, while drawing parallels between ray tracers and real world cameras to illustrate various concepts. Anti-aliasing and acceleration structures are also discussed. The final class mini-project consists of building out a ray tracer to create visually compelling images. Starter codes and code bits will be provided to aid in development, but this class focuses on what you can do with the code as opposed to what the code itself looks like. Therefore grading is weighted toward in person &quot;demos&quot; of the code in action - creativity and the production of impressive visual imagery are highly encouraged. Prerequisites: CS 107, MATH 51.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS148 LEC
 DTSTART;TZID=America/Los_Angeles:20170627T133000
-CREATED:20170109T213829
+CREATED:20170211T124018
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

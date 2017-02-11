@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20170109T213630
-UID:explore_coursesda208371-d223-4cb0-8310-928116060e12
-DTSTAMP:20170109T213630
+LAST-MODIFIED:20170211T123931
+UID:explore_courses25fe1a22-dea8-413c-8adb-1c6c3be5bc9f
+DTSTAMP:20170211T123931
 LOCATION:Ceras 108
 DESCRIPTION:Primarily for doctoral students; part of doctoral research core; prerequisite for advanced statistical methods courses in School of Education. Basic regression, a widely used data-analytic procedure, including multiple and curvilinear regression, regression diagnostics, analysis of residuals and model selection, logistic regression. Proficiency with statistical computer packages.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC250B LEC
 DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170109T213630
+CREATED:20170211T123931
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

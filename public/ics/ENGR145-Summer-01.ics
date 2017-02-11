@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170627T142000
-LAST-MODIFIED:20170109T213833
-UID:explore_coursesde643831-e3be-49d1-9b15-0c06ee1dfb88
-DTSTAMP:20170109T213833
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170626T122000
+LAST-MODIFIED:20170211T124020
+UID:explore_courses0ec8adf8-7e50-49d6-ad54-de0a2ab374b4
+DTSTAMP:20170211T124020
+LOCATION:Turingaud
 DESCRIPTION:How do you create a successful start-up? What is entrepreneurial leadership in a large firm? What are the differences between an idea and true opportunity? How does an entrepreneur form a team and gather the resources necessary to create a great enterprise? Mentor-guided project focused on developing students' startup ideas, immersion in nuances of innovation and early stage entrepreneurship, case studies, research on the entrepreneurial process, and the opportunity to network with Silicon Valley's top entrepreneurs and venture capitalists. For undergraduates of all majors who seek to understand the formation and growth of high-impact start-ups in areas such as information, energy, medical and consumer technologies. No prerequisites.  Limited enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR145 LEC
-DTSTART;TZID=America/Los_Angeles:20170627T123000
-CREATED:20170109T213833
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T142000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170626T103000
+CREATED:20170211T124020
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

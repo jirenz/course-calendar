@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170109T213820
-UID:explore_coursesa42a7b7c-0773-4122-a9a6-49b1b2041b92
-DTSTAMP:20170109T213820
+LAST-MODIFIED:20170211T124012
+UID:explore_courses4e4cdf8e-68a8-4901-83dc-ec63114e069d
+DTSTAMP:20170211T124012
 LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:Mathematical methods applied to engineering problems using chemical engineering examples. The development of mathematical models to describe chemical process dynamic behavior. Analytical and computer simulation techniques for the solution of ordinary differential equations. Dynamic behavior of linear first- and second-order systems. Introduction to process control. Dynamics and stability of controlled systems. Prerequisites: CHEMENG 20 or ENGR 20; CME 102 or MATH 53.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG100 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170109T213820
+CREATED:20170211T124012
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

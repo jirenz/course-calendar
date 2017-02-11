@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170109T213832
-UID:explore_coursesb19522c8-5dc7-4a17-ab7a-bb52b18e34f8
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses0df4c2a3-a138-43f8-9cf8-742735c5e34f
+DTSTAMP:20170211T124020
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Carrier generation, transport, recombination, and storage in semiconductors. Physical principles of operation of the p-n junction, heterojunction, metal semiconductor contact, bipolar junction transistor, MOS capacitor, MOS and junction field-effect transistors, and related optoelectronic devices such as CCDs, solar cells, LEDs, and detectors. First-order device models that reflect physical principles and are useful for integrated-circuit analysis and design. Prerequisite: 116 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE216 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

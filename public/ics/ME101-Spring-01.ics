@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20170109T213838
-UID:explore_coursesc7cb6e38-f04a-49a1-ae78-da401ee11c27
-DTSTAMP:20170109T213838
+DTEND;TZID=America/Los_Angeles:20170403T112000
+LAST-MODIFIED:20170211T124023
+UID:explore_courses417c3e54-7f36-4239-b0b4-5228eebb3262
+DTSTAMP:20170211T124023
 LOCATION:Lathrop 282
-DESCRIPTION:Lecture/lab. Visual thinking and language skills are developed and exercised in the context of solving design problems. Exercises for the mind's eye. Rapid visualization and prototyping with emphasis on fluent and flexible idea production. The relationship between visual thinking and the creative process. Limited enrollment.  Attend the first day of class.
+DESCRIPTION:Lecture/lab. Visual thinking and language skills are developed and exercised in the context of solving design problems. Exercises for the mind's eye. Rapid visualization and prototyping with emphasis on fluent and flexible idea production. The relationship between visual thinking and the creative process. Limited enrollment, attendance at first class required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME101 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T153000
-CREATED:20170109T213838
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170403T093000
+CREATED:20170211T124023
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

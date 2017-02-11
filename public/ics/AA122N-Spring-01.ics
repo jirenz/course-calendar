@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170109T213818
-UID:explore_coursesf8748a2a-30a9-43f4-b1ac-ffe7ef0a2751
-DTSTAMP:20170109T213818
+LAST-MODIFIED:20170211T124011
+UID:explore_coursescf5a729c-478e-4569-8330-4435f3b777ae
+DTSTAMP:20170211T124011
 LOCATION:50-51P
 DESCRIPTION:Unmanned aerial systems (UASs) have exploded on the scene in recent years, igniting a national debate about how to use them, how to regulate them, and how to make them safe. This seminar will dive into the many engineering challenges behind the headlines: in the future, how will we engineer UASs ranging in size from simple RC toys to highly-sophisticated autonomous scientific and military data gathering systems? This seminar will examine the key elements required to conceive, implement, deploy, and operate state-of-the-art of drone systems: What variety of problems can they help us solve? How autonomous are they and how autonomous do they need to be? What are the key technical bottlenecks preventing widespread deployment? How are they different from commercial aircraft? What kinds of companies will serve the market for UAV-related products and services? What business models will be successful and why? We will emphasize aspects of design, autonomy, reliability, navigation, sensing, and perception, as well as coordination/collaboration through a series of case studies drawn from our recent experience. Examples include imaging efforts to map the changing coral reefs in the South Pacific, using and controlling swarms of unmanned systems to perform search and rescue missions over large areas, and package delivery systems over large metropolitan areas. Hands-on experience with Stanford-developed UASs will be part of the seminar.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA122N ISF
 DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170109T213818
+CREATED:20170211T124011
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

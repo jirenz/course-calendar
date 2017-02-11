@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T213000
-LAST-MODIFIED:20170109T213743
-UID:explore_courses86b54038-f6bc-4ea1-9e3c-2e8ab95397a3
-DTSTAMP:20170109T213743
-LOCATION:McMurtry Building rm 115
-DESCRIPTION:From 1945 to the mid-80s, emphasizing Polish, Hungarian, Czech, Slovak, and Yugoslav contexts. The relationship between art and politics; postwar establishment of film industries; and emergence of national film movements such as the Polish school, Czech new wave, and new Yugoslav film. Thematic and aesthetic preoccupations of filmmakers such as Wajda, Jancso, Forman, and Kusturica. Permission of instructor required prior to the first day of classes.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:FILMSTUD445B SEM
-DTSTART;TZID=America/Los_Angeles:20160929T193000
-CREATED:20170109T213743
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T213000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T142000
-LAST-MODIFIED:20170109T213743
-UID:explore_courses63292026-8724-44d4-8a49-e20656f44751
-DTSTAMP:20170109T213743
+LAST-MODIFIED:20170211T123948
+UID:explore_courses1646477e-136c-400e-bffe-bebb95fee20c
+DTSTAMP:20170211T123948
 LOCATION:McMurtry Building rm 370
 DESCRIPTION:From 1945 to the mid-80s, emphasizing Polish, Hungarian, Czech, Slovak, and Yugoslav contexts. The relationship between art and politics; postwar establishment of film industries; and emergence of national film movements such as the Polish school, Czech new wave, and new Yugoslav film. Thematic and aesthetic preoccupations of filmmakers such as Wajda, Jancso, Forman, and Kusturica. Permission of instructor required prior to the first day of classes.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FILMSTUD445B SEM
 DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170109T213743
+CREATED:20170211T123948
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T213000
+LAST-MODIFIED:20170211T123948
+UID:explore_coursesd59d2727-82eb-46bd-a4e4-35b01991d728
+DTSTAMP:20170211T123948
+LOCATION:McMurtry Building rm 115
+DESCRIPTION:From 1945 to the mid-80s, emphasizing Polish, Hungarian, Czech, Slovak, and Yugoslav contexts. The relationship between art and politics; postwar establishment of film industries; and emergence of national film movements such as the Polish school, Czech new wave, and new Yugoslav film. Thematic and aesthetic preoccupations of filmmakers such as Wajda, Jancso, Forman, and Kusturica. Permission of instructor required prior to the first day of classes.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD445B SEM
+DTSTART;TZID=America/Los_Angeles:20160929T193000
+CREATED:20170211T123948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T213000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

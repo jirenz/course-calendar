@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170109T213648
-UID:explore_coursesbf1580c2-f272-41ea-8238-6132c937f281
-DTSTAMP:20170109T213648
+LAST-MODIFIED:20170211T123936
+UID:explore_courses258c59a7-e1f6-403f-9d64-7f193633b491
+DTSTAMP:20170211T123936
 LOCATION:Sequoia Hall 200
 DESCRIPTION:Theoretical analysis of dynamical processes: dynamical systems, stochastic processes, and spatiotemporal dynamics. Motivations and applications from biology and physics. Emphasis is on methods including qualitative approaches, asymptotics, and multiple scale analysis. Prerequisites: ordinary and partial differential equations, complex analysis, and probability or statistical physics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS223 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20170109T213648
+CREATED:20170211T123936
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

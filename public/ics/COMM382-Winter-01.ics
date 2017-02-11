@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170112T162000
-LAST-MODIFIED:20170109T213723
-UID:explore_courses2d7ffb7b-6d83-41e8-9950-27c43f45277a
-DTSTAMP:20170109T213723
+LAST-MODIFIED:20170211T123942
+UID:explore_courses40f80f74-f5db-4c31-a0bf-098100f12694
+DTSTAMP:20170211T123942
 LOCATION:
 DESCRIPTION:Massive datasets of text, images, video, so-called big data, are increasingly available for research because of the pervasive adoption of new information communication technologies such as social media. These data represent new opportunities for social science research, but prominent examples of big data and data science bear little resemblance to the research designs of social scientific inquiry for causal inference. In this course, we harness the power of big data for causal inference by using machine learning and statistical tools on large-scale digital media datasets to answer social science questions of cause and effect. Familiarity with Python recommended. Enrollment limited to PhD students in COMM or Social Science who have completed or are currently taking graduate quantitative methods sequences in Economics, Political Science, Sociology, or Statistics.  Contact blazzari@stanford.edu for a permission number to enroll.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMM382 SEM
 DTSTART;TZID=America/Los_Angeles:20170112T133000
-CREATED:20170109T213723
+CREATED:20170211T123942
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

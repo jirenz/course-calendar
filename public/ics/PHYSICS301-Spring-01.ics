@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20170109T213802
-UID:explore_courses16421bce-d13b-484a-8648-b55946980ba4
-DTSTAMP:20170109T213802
+LAST-MODIFIED:20170211T123959
+UID:explore_coursesc36cebe3-5df4-4028-bf81-a98591d705c3
+DTSTAMP:20170211T123959
 LOCATION:
 DESCRIPTION:Open to all graduate students with a calculus-based physics background and some laboratory experience.  Students make and analyze observations using telescopes at the Stanford Student Observatory. Topics include navigating the night sky, the physics of stars and galaxies, telescope instrumentation and operation, quantitative error analysis, and effective scientific communication. The course also introduces a number of hot topics in astrophysics and cosmology. Limited enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS301 LAB
 DTSTART;TZID=America/Los_Angeles:20170403T163000
-CREATED:20170109T213802
+CREATED:20170211T123959
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

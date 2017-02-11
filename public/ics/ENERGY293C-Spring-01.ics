@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170109T213849
-UID:explore_courses42146523-f48a-4a88-8c38-cbf27a674394
-DTSTAMP:20170109T213849
+LAST-MODIFIED:20170211T124030
+UID:explore_courses354af1b5-a64a-49d0-9d5a-fc88d09c5905
+DTSTAMP:20170211T124030
 LOCATION:320-107
 DESCRIPTION:This course focuses on the extraction of energy from wind, waves and tides.nThe emphasis in the course is technical leading to a solid understanding ofnestablished extraction systems and discussion of promising new technologies.nWe will also cover resource planning and production optimization through observations and computer simulations.nThe course includes at least one weekend field trip, and may include experimentsnin wind tunnel and/or flume.nnPrerequisites: CEE176B or EE293B,  programming experience, understanding of fluid mechanics, electrical systems, and engineering optimization.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY293C LEC
 DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20170109T213849
+CREATED:20170211T124030
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

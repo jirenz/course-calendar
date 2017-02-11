@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170109T213804
-UID:explore_courses9b1113d1-c7ca-49a3-8102-51a8ff307333
-DTSTAMP:20170109T213804
+LAST-MODIFIED:20170211T124001
+UID:explore_courses8755a4a8-197e-4cc5-ae8f-b4b8219ab1f1
+DTSTAMP:20170211T124001
 LOCATION:200-030
 DESCRIPTION:Covers advanced statistical tools that are useful for empirical research in political science.  Possible topics include missing data, survey sampling and experimental designs for field research, machine learning, text mining, clustering, Bayesian methods, spatial statistics, and web scraping.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI450D LEC
 DTSTART;TZID=America/Los_Angeles:20170110T120000
-CREATED:20170109T213804
+CREATED:20170211T124001
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

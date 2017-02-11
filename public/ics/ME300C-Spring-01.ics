@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T115000
-LAST-MODIFIED:20170109T213838
-UID:explore_coursesc03dab3a-1266-4581-8454-d700ddb5d567
-DTSTAMP:20170109T213838
+LAST-MODIFIED:20170211T124023
+UID:explore_coursesf5962238-7189-4a9c-9c41-cb2886174fd4
+DTSTAMP:20170211T124023
 LOCATION:Herrin T175
 DESCRIPTION:Numerical methods from a user's point of view. Lagrange interpolation, splines. Integration: trapezoid, Romberg, Gauss, adaptive quadrature; numerical solution of ordinary differential equations: explicit and implicit methods, multistep methods, Runge-Kutta and predictor-corrector methods, boundary value problems, eigenvalue problems; systems of differential equations, stiffness. Emphasis is on analysis of numerical methods for accuracy, stability, and convergence. Introduction to numerical solutions of partial differential equations; Von Neumann stability analysis; alternating direction implicit methods and nonlinear equations. Prerequisites: CME 200/ME 300A, CME 204/ME 300B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME300C LEC
 DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20170109T213838
+CREATED:20170211T124023
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

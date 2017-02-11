@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170109T213805
-UID:explore_courses10fc2b10-2bbe-429f-aea2-793086204dd4
-DTSTAMP:20170109T213805
+DTEND;TZID=America/Los_Angeles:20170406T192000
+LAST-MODIFIED:20170211T124001
+UID:explore_coursesd234ea22-547c-475a-b5a4-dff0681dc7df
+DTSTAMP:20170211T124001
 LOCATION:
-DESCRIPTION:This practicum is designed to build on the lessons learned in Psych 150. Students will be assigned to internships relevant to race and crime. Prerequisite: Psych 150.
+DESCRIPTION:This practicum is designed to build on the lessons learned in Psych 150: Race &amp; Crime. In this community service learning course, students will participate in community partnerships relevant to race and crime, as well as reflection to connect these experiences to research and course content. Interested students should complete an application for permission at: https://goo.gl/forms/CAut7RKX6MewBIuG3. nnPrerequisite: Psych 150 (taken concurrently or previously).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH150B PRA
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170109T213805
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170406T180000
+CREATED:20170211T124001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T192000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

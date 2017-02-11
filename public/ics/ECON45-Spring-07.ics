@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170407T152000
-LAST-MODIFIED:20170109T213737
-UID:explore_courses74fe07c3-9f43-4bd7-9b15-28f5bbf7f7d6
-DTSTAMP:20170109T213737
+LAST-MODIFIED:20170211T123946
+UID:explore_courses8d8d5707-4c57-481f-b3d4-9632dc95308f
+DTSTAMP:20170211T123946
 LOCATION:200-202
 DESCRIPTION:This course will show how &quot;big data&quot; can be used to understand and solve some of the most important social and economic problems of our time. The course will give students an introduction to frontier research in applied economics and social science in a non-technical manner. Topics include equality of opportunity, education, income inequality, racial segregation, innovation and entrepreneurship, social networks, urban planning, health, crime, and political partisanship. In the context of these topics, the course will also provide a non-technical introduction to basic statistical methods and data analysis techniques, including regression analysis, causal inference, quasi-experimental methods, and machine learning. Optional sections will provide a more advanced treatment of these methods for interested students. Each week, the course will include a guest lecturer from a Silicon Valley firm or government agency who will discuss real-world applications of data science.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON45 DIS
 DTSTART;TZID=America/Los_Angeles:20170407T143000
-CREATED:20170109T213737
+CREATED:20170211T123946
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

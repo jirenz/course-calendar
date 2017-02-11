@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170111T202000
-LAST-MODIFIED:20170109T213802
-UID:explore_coursesbfb9f510-ca1a-4d11-828d-4c62bc2e05f1
-DTSTAMP:20170109T213802
+LAST-MODIFIED:20170211T123959
+UID:explore_courses01c240a9-763d-48c9-b550-973c8f5c8067
+DTSTAMP:20170211T123959
 LOCATION:Lathrop 282
 DESCRIPTION:Additional assistance and applications for PHYSICS 41.  In-class problems in physics and engineering. Exercises in the concepts and calculations of vectors, translational and rotational velocity and acceleration, equations of motion for particles and rigid bodies, and principles of energy and linear/angular momentum. In-class participation required. Highly recommended for students with limited or no high school physics or calculus.  Co-requisite: PHYSICS 41.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS41A LEC
 DTSTART;TZID=America/Los_Angeles:20170111T183000
-CREATED:20170109T213802
+CREATED:20170211T123959
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T202000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

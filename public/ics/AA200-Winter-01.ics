@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170109T213818
-UID:explore_coursescb95a8ef-6bd2-4a2b-84c3-40e33daf905b
-DTSTAMP:20170109T213818
+LAST-MODIFIED:20170211T124011
+UID:explore_courses47893494-dd13-4783-a17e-0599462f3097
+DTSTAMP:20170211T124011
 LOCATION:Gates B1
 DESCRIPTION:Analytical and numerical techniques for the aerodynamic analysis of aircraft, focusing on airfoil theory, finite wing theory, far-field and Trefftz-plane analysis, two-dimensional laminar and turbulent boundary layers in airfoil analysis, laminar-to-turbulent transition, compressibility effects, and similarity rules.  Biweekly assignments require MATLAB or a suitable programming language.  Prerequisite: undergraduate courses in basic fluid mechanics and applied aerodynamics, AA 210A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA200 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T120000
-CREATED:20170109T213818
+CREATED:20170211T124011
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170109T213829
-UID:explore_coursesb187e8d5-d857-4918-9fdd-3a2fc5cd3c86
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124018
+UID:explore_courses7ae69fb9-d1e7-4f7f-8678-71c39c49bc3e
+DTSTAMP:20170211T124018
 LOCATION:300-300
 DESCRIPTION:Introduction to building applications for Android platform. Examines key concepts of Android programming: tool chain, application life-cycle, views, controls, intents, designing mobile UIs, networking, threading, and more. Features weekly lectures and a series of small programming projects. Phone not required, but a phone makes the projects more engaging. Prerequisites: 106B or Java experience at 106B level. Enrollment limited and application required: https://goo.gl/forms/ACKDYowYfOZD4vNd2
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS193A LEC
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170109T213829
+CREATED:20170211T124018
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

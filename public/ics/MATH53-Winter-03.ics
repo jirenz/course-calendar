@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170109T213755
-UID:explore_coursesa07cd3c0-6890-411d-ba1c-c84daf6df7e5
-DTSTAMP:20170109T213755
+LAST-MODIFIED:20170211T123955
+UID:explore_courses987c28c7-8815-425a-9305-630b0f639c3e
+DTSTAMP:20170211T123955
 LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:Ordinary differential equations and initial value problems, systems of linear differential equations with constant coefficients, applications of second-order equations to oscillations, matrix exponentials, Laplace transforms, stability of non-linear systems and phase plane analysis, numerical methods. Prerequisite: 51 or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH53 DIS
 DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20170109T213755
+CREATED:20170211T123955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

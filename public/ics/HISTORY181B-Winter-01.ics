@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T000000
-LAST-MODIFIED:20170109T213749
-UID:explore_courses30924a3a-5b05-41f3-99a0-fc9d1bcf5cb1
-DTSTAMP:20170109T213749
+DTEND;TZID=America/Los_Angeles:20170110T132000
+LAST-MODIFIED:20170211T123951
+UID:explore_courses7d2c5927-a8c9-473f-8905-029d911804e4
+DTSTAMP:20170211T123951
 LOCATION:200-205
 DESCRIPTION:Focusing on the period from World War I to the recent past, the course emphasizes the eastern Arab world Egypt, greater Syria, and Iraq plus Saudi Arabia, Turkey, Iran, and Israel. Themes include: integration of the region into the world economy; imperialism and the formation of the contemporary state system; competing forms of identity (national states, pan-Arab nationalism, Islam) and ideology (liberalism, Marxism, fascism, Islamism); changing gender relations; Palestine/Israel, decolonization, the Cold War; the transition from British to U.S. hegemony; and several contemporary crises.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY181B LEC
 DTSTART;TZID=America/Los_Angeles:20170110T120000
-CREATED:20170109T213749
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T000000;BYDAY=TU,TH
+CREATED:20170211T123951
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T102000
-LAST-MODIFIED:20170109T213852
-UID:explore_courses83713097-4bf9-42a8-8c01-df42b5980806
-DTSTAMP:20170109T213852
+LAST-MODIFIED:20170211T124032
+UID:explore_courses5a1f26a5-e6b9-4712-9259-91bb42a3f104
+DTSTAMP:20170211T124032
 LOCATION:540-108
 DESCRIPTION:Scientific computing and numerical analysis for physical sciences and engineering. Advanced version of CME206 that, apart from CME206 material, includes nonlinear PDEs, multidimensional interpolation and integration and an extended discussion of stability for initial boundary value problems. Recommended for students who have some prior numerical analysis experience. Topics include: 1D and multi-D interpolation, numerical integration in 1D and multi-D including adaptive quadrature, numerical solutions of ordinary differential equations (ODEs) including stability, numerical solutions of 1D and multi-D linear and nonlinear partial differential equations (PDEs) including concepts of stability and accuracy. Prerequisites: linear algebra, introductory numerical analysis (CME 108 or equivalent).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS217 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170109T213852
+CREATED:20170211T124032
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

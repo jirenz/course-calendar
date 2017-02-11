@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T142000
-LAST-MODIFIED:20170109T213904
-UID:explore_courses2a19f195-b109-4a42-b4eb-e3b18528e6a4
-DTSTAMP:20170109T213904
+LAST-MODIFIED:20170211T124043
+UID:explore_courses7e291159-fce1-42ba-ad14-4858e60e6339
+DTSTAMP:20170211T124043
 LOCATION:
 DESCRIPTION:How synapses, cells, and neural circuits process information relevant to a behaving organism. How phenomena of information processing emerge at several levels of complexity in the nervous system, including sensory transduction in molecular cascades, information transmission through axons and synapses, plasticity and feedback in recurrent circuits, and encoding of sensory stimuli in neural circuits.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NBIO258 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T123000
-CREATED:20170109T213904
+CREATED:20170211T124043
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

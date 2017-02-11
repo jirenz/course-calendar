@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20170109T213811
-UID:explore_courses4e7abc19-4f0e-476a-8bdb-6c16a03852e3
-DTSTAMP:20170109T213811
+LAST-MODIFIED:20170211T124005
+UID:explore_courses0335b944-beda-482e-bd63-6ea23ac20587
+DTSTAMP:20170211T124005
 LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:How best to take data and where to sample it. Examples include surveys and sampling from data warehouses. Emphasis is on methods for finite populations. Topics: simple random sampling, stratified sampling, cluster sampling, ratio and regression estimators, two stage sampling.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS204 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20170109T213811
+CREATED:20170211T124005
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

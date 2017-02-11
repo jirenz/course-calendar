@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T175000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses22b59a99-9054-46a0-b716-f1d382151112
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses1de19838-8e13-49ca-8c5e-2cca8f557d80
+DTSTAMP:20170211T124020
 LOCATION:200-034
 DESCRIPTION:Digital circuit, logic, and system design. Digital representation of information. CMOS logic circuits. Combinational logic design. Logic building blocks, idioms, and structured design. Sequential logic design and timing analysis. Clocks and synchronization. Finite state machines. Microcode control. Digital system design. Control and datapath partitioning.  Lab.  Undergraduates must enroll for 4 units.  *In Autumn, enrollment preference is given to EE majors.  Formerly EE 108A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE108 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T163000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

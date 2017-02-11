@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170109T213838
-UID:explore_coursesad608d28-9032-41b7-b2d6-4d6c3e071ad9
-DTSTAMP:20170109T213838
+LAST-MODIFIED:20170211T124023
+UID:explore_courses747c9ed7-89b8-485b-a6ee-6fc5b950862c
+DTSTAMP:20170211T124023
 LOCATION:200-203
 DESCRIPTION:Elements of fluid mechanics as applied to engineering problems. Equations of motion for incompressible ideal flow. Hydrostatics. Control volume laws for mass, momentum, and energy. Bernoulli equation. Dimensional analysis and similarity. Flow in ducts. Boundary layer flows. Lift and drag. Lab experiment demonstrations. Prerequisites: ENGR 14 and 30.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME70 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170109T213838
+CREATED:20170211T124023
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

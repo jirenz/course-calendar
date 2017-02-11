@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T122000
-LAST-MODIFIED:20170109T213810
-UID:explore_coursesf3785467-2b21-42f7-a340-2093b260f4da
-DTSTAMP:20170109T213810
+DTEND;TZID=America/Los_Angeles:20170110T112000
+LAST-MODIFIED:20170211T124005
+UID:explore_courses67dc506e-1fc0-426c-93d1-91a0fb8449b4
+DTSTAMP:20170211T124005
 LOCATION:Bolivar House
 DESCRIPTION:Distance learning combined with periodic on-site instruction, conducted primarily in Najuatl. Continuation of SPECLANG101 sequence integrating language and culture, with emphasis on developing proficiency in oral and written discourse. Targeted functional abilities include presentational and socio culturally appropriate language in formal and informal contexts. Prerequisite: Placement Test, SPECLANG102A
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPECLANG102B LNG
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170109T213810
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170110T093000
+CREATED:20170211T124005
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

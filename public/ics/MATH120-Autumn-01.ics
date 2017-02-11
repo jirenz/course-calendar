@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T142000
-LAST-MODIFIED:20170109T213755
-UID:explore_courses14e5ab15-28b1-48b5-9bc5-60c73f8d7a06
-DTSTAMP:20170109T213755
+LAST-MODIFIED:20170211T123955
+UID:explore_coursesf6af036b-86fa-4b53-ae13-9d1e45a404d8
+DTSTAMP:20170211T123955
 LOCATION:380-380Y
 DESCRIPTION:Recommended for Mathematics majors and required of honors Mathematics majors. Similar to 109 but altered content and more theoretical orientation. Groups acting on sets, examples of finite groups, Sylow theorems, solvable and simple groups. Fields, rings, and ideals; polynomial rings over a field; PID and non-PID. Unique factorization domains.  WIM.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH120 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170109T213755
+CREATED:20170211T123955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

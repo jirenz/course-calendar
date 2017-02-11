@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170109T213719
-UID:explore_courses37dda26a-2111-4fc4-80f7-3f56593f04c5
-DTSTAMP:20170109T213719
+LAST-MODIFIED:20170211T123940
+UID:explore_courses89ff6a8e-a713-4b60-91bf-6f2bd5bc1e84
+DTSTAMP:20170211T123940
 LOCATION:
 DESCRIPTION:Primary literature based seminar/discussion course covering classical and contemporary papers in biophysical chemistry.  Topics include: protein structure and stability, folding, single molecule fluorescence and force microscopy, simulations, ion channels, GPCRs, and ribosome structure/function. Course is restricted to undergraduates. Prerequisites: 171 and 181, with 173 strongly recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM185 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170109T213719
+CREATED:20170211T123940
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

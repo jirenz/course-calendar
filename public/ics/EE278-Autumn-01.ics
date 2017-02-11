@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses5949a95d-eb59-45f7-a851-a61de554ea40
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses051925e5-f1a6-43f3-bbfa-248330ed5553
+DTSTAMP:20170211T124020
 LOCATION:Sequoia Hall 200
 DESCRIPTION:Review of basic probability and random variables. Random vectors and processes; convergence and limit theorems; IID, independent increment, Markov, and Gaussian random processes; stationary random processes; autocorrelation and power spectral density; mean square error estimation, detection, and linear estimation. Formerly EE 278B. Prerequisites: EE178 and linear systems and Fourier transforms at the level of EE102A,B or EE261.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE278 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

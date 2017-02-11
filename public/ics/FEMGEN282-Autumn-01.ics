@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170109T213742
-UID:explore_coursesf0df66a4-61f0-4905-9dbf-2c00ed646110
-DTSTAMP:20170109T213742
-LOCATION:160-322
-DESCRIPTION:Analysis of representations of queer lives in films from the Spanish-speaking world (including the U.S.). We will be looking at the meaning each film produces about a wide variety of queer experience, in relation to a specific national, historical and cultural context. We will also practice doing close readings of how each film produces meaning about queer experience, focusing on the formal features mise-en-scene, cinematography, sound, editing , narrative and style.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:FEMGEN282 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T120000
-CREATED:20170109T213742
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160929T132000
-LAST-MODIFIED:20170109T213742
-UID:explore_courses48d2a3da-2719-4ef7-b4f9-e1c61805e0ff
-DTSTAMP:20170109T213742
+LAST-MODIFIED:20170211T123948
+UID:explore_coursese3d15228-0ff3-4beb-b0f4-ad6dd11b2130
+DTSTAMP:20170211T123948
 LOCATION:160-325
 DESCRIPTION:Analysis of representations of queer lives in films from the Spanish-speaking world (including the U.S.). We will be looking at the meaning each film produces about a wide variety of queer experience, in relation to a specific national, historical and cultural context. We will also practice doing close readings of how each film produces meaning about queer experience, focusing on the formal features mise-en-scene, cinematography, sound, editing , narrative and style.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FEMGEN282 SEM
 DTSTART;TZID=America/Los_Angeles:20160929T120000
-CREATED:20170109T213742
+CREATED:20170211T123948
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T145000
+LAST-MODIFIED:20170211T123948
+UID:explore_courses8d7a2069-b45b-4a78-88e1-b761c6543420
+DTSTAMP:20170211T123948
+LOCATION:160-322
+DESCRIPTION:Analysis of representations of queer lives in films from the Spanish-speaking world (including the U.S.). We will be looking at the meaning each film produces about a wide variety of queer experience, in relation to a specific national, historical and cultural context. We will also practice doing close readings of how each film produces meaning about queer experience, focusing on the formal features mise-en-scene, cinematography, sound, editing , narrative and style.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FEMGEN282 SEM
+DTSTART;TZID=America/Los_Angeles:20160927T120000
+CREATED:20170211T123948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

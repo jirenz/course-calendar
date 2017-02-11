@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T132000
-LAST-MODIFIED:20170109T213654
-UID:explore_courses30c2bb37-e446-4f2e-8b5d-1f6acdfcceb3
-DTSTAMP:20170109T213654
+DTEND;TZID=America/Los_Angeles:20170406T092000
+LAST-MODIFIED:20170211T123937
+UID:explore_coursesbdc905b9-9e9d-4093-b536-332e68e2a394
+DTSTAMP:20170211T123937
 LOCATION:420-245
 DESCRIPTION:This lecture course surveys the history of architecture and urbanism, from the first societies to the present, in Europe, West and East Asia, the Americas, and Africa. The course progresses by case studies of exemplary monuments and cities, and examines the built environment as both cultural artifact and architectural event. It considers the social and political circumstances of architectural invention as well as plumbing the depth of artistic context by which particular formal choices resonate with an established representational culture.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTHIST3 DIS
-DTSTART;TZID=America/Los_Angeles:20170405T123000
-CREATED:20170109T213654
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170406T083000
+CREATED:20170211T123937
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T092000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

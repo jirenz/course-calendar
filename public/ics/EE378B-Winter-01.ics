@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20170109T213832
-UID:explore_coursesfa04e99e-d804-4861-8190-afa148d9c8af
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses9978caa5-ddf3-4e40-ae49-016504ad3ad6
+DTSTAMP:20170211T124020
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:Techniques and models for signal, data and information processing, with emphasis on incomplete data, non-ordered index sets and robust low-complexity methods. Linear models; regularization and shrinkage; dimensionality reduction; streaming algorithms; sketching; clustering, search in high dimension; low-rank models; principal component analysis.nnApplications include: positioning from pairwise distances; distributed sensing; measurement/traffic monitoring in networks; finding communities/clusters in networks; recommendation systems; inverse problems.	Prerequisites: EE278 and EE263 or equivalent. Recommended but not required: EE378A
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE378B LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

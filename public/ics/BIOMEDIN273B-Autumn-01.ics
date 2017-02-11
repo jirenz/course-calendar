@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20170109T213855
-UID:explore_coursesef89c27f-9d1c-4f90-9fd6-cfb9a1094e7a
-DTSTAMP:20170109T213855
+LAST-MODIFIED:20170211T124034
+UID:explore_courses98c7088e-a204-4836-bde0-3c818ca84761
+DTSTAMP:20170211T124034
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:Recent breakthroughs in high-throughput genomic and biomedical data are transforming biological sciences into &quot;big data&quot; disciplines. In parallel, progress in deep neural networks are revolutionizing fields such as image recognition, natural language processing and, more broadly, AI. This course explores the exciting intersection between these two advances. The course will start with an introduction to deep learning and overview the relevant background in genomics and high-throughput biotechnology, focusing on the available data and their relevance. It will then cover the ongoing developments in deep learning (supervised, unsupervised and generative models) with the focus on the applications of these methods to biomedical data, which are beginning to produced dramatic results. In addition to predictive modeling, the course emphasizes how to visualize and extract interpretable, biological insights from such models. Recent papers from the literature will be presented and discussed. Students will be introduced to and work with popular deep learning software frameworks. Students will work in groups on a final class project using real world datasets. Prerequisites: College calculus, linear algebra, basic probability and statistics such as CS109, and basic machine learning such as CS229. No prior knowledge of genomics is necessary.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOMEDIN273B LEC
 DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20170109T213855
+CREATED:20170211T124034
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

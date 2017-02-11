@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170109T213755
-UID:explore_coursesa9b666bb-8126-4d33-aaac-6fc595a6e6e4
-DTSTAMP:20170109T213755
+LAST-MODIFIED:20170211T123955
+UID:explore_coursesa184a6b5-92d1-434c-80e2-777ed428826e
+DTSTAMP:20170211T123955
 LOCATION:McCullough 115
 DESCRIPTION:Euclid's algorithm, fundamental theorems on divisibility; prime numbers; congruence of numbers; theorems of Fermat, Euler, Wilson; congruences of first and higher degrees; quadratic residues; introduction to the theory of binary quadratic forms; quadratic reciprocity; partitions.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH152 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170109T213755
+CREATED:20170211T123955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

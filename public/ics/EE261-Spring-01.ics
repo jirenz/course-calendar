@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses364cc57b-d031-4059-9b16-fcf720ff493d
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses499f47c1-4bfa-48f2-beae-8f4906eaa26e
+DTSTAMP:20170211T124020
 LOCATION:Gates B12
 DESCRIPTION:The Fourier transform as a tool for solving physical problems. Fourier series, the Fourier transform of continuous and discrete signals and its properties. The Dirac delta, distributions, and generalized transforms. Convolutions and correlations and applications; probability distributions, sampling theory, filters, and analysis of linear systems. The discrete Fourier transform and the FFT algorithm. Multidimensional Fourier transform and use in imaging. Further applications to optics, crystallography. Emphasis is on relating the theoretical principles to solving practical engineering and science problems. Prerequisites: Math through ODEs, basic linear algebra, Comfort with sums and discrete signals, Fourier series at the level of 102A
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE261 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

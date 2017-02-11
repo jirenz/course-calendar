@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses3f6888c8-7fc7-4118-8ed2-9e5e361580dd
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses9ae9d870-4d26-4066-816d-75090f1232b2
+DTSTAMP:20170211T124020
 LOCATION:Gates B3
 DESCRIPTION:Course focuses on how to build modern computing systems, namely notebooks, smartphones, and data centers, covering primarily their hardware architecture and certain system software aspects. For each system class, we cover the system architecture, processor technology, advanced memory hierarchy and I/O organization, power and energy management, and reliability. We will also cover topics such as interactions with system software, virtualization, solid state storage, and security. The programming assignments allow students to explore performance/energy tradeoffs when using heterogeneous hardware resources on smartphone devices. Prerequisite: EE108B. Recommended: CS 140.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE282 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

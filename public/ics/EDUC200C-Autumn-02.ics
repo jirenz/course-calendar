@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160928T175000
-LAST-MODIFIED:20170109T213630
-UID:explore_courses0975e249-525c-42bc-9bb5-c1428f13be27
-DTSTAMP:20170109T213630
+LAST-MODIFIED:20170211T123931
+UID:explore_courses67052e2e-c6d3-4e05-b821-60fd1a62d6b9
+DTSTAMP:20170211T123931
 LOCATION:Ceras 108
 DESCRIPTION:(Formerly EDUC 160.) Basic techniques in descriptive and inferential statistics for educational research will be covered with an emphasis on rigorous preparation for intermediate and advanced courses.  Topics include central tendency, variance, probability, distributions, confidence interval, t-test, F-test, correlation, regression, and analysis of variance. Non-parametric statistics and graphical principles for data representation will also be addressed.  Students will also be introduced to STATA in preparation for subsequent higher level courses.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC200C DIS
 DTSTART;TZID=America/Los_Angeles:20160928T150000
-CREATED:20170109T213630
+CREATED:20170211T123931
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

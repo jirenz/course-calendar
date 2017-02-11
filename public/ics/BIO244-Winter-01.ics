@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170109T213707
-UID:explore_coursesf57e37fd-f578-4f52-b2b0-e0ad651fcaee
-DTSTAMP:20170109T213707
+LAST-MODIFIED:20170211T123939
+UID:explore_courses1e17cd5d-eb43-4ee4-a7bc-f9881623a1d9
+DTSTAMP:20170211T123939
 LOCATION:ScienceTeachingLearningCntr104
 DESCRIPTION:The inference of key molecular evolutionary processes from DNA and protein sequences. Topics include random genetic drift, coalescent models, effects and tests of natural selection, combined effects of linkage and natural selection, codon bias and genome evolution. Satisfies Central Menu Areas 1 or 4. Prerequisites: Biology core or graduate standing in any department, and consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO244 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170109T213707
+CREATED:20170211T123939
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

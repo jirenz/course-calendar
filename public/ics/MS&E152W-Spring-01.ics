@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T102000
+LAST-MODIFIED:20170211T124021
+UID:explore_coursesfe066664-a4f4-492e-8dcd-7da0d4a625ef
+DTSTAMP:20170211T124021
+LOCATION:Gates B1
+DESCRIPTION:How to make good decisions in a complex, dynamic, and uncertain world. People often make decisions that on close examination they regard as wrong. Decision analysis uses a structured conversation based on actional thought to obtain clarity of action in a wide variety of domains. Topics: distinctions, possibilities and probabilities, relevance, value of information and experimentation, relevance and decision diagrams, risk attitude. Students seeking to fulfill the Writing in the Major requirement should register for MS&amp;E 152W.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MS&E152W LEC
+DTSTART;TZID=America/Los_Angeles:20170404T090000
+CREATED:20170211T124021
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

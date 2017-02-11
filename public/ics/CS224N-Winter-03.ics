@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170111T212000
-LAST-MODIFIED:20170109T213829
-UID:explore_courses5f0590b0-ae59-4f57-ae1c-ea4865e12bcc
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124018
+UID:explore_coursesd3d061ff-4198-49a2-b6c8-683f0e249aeb
+DTSTAMP:20170211T124018
 LOCATION:Thornt110
 DESCRIPTION:Methods for processing human language information and the underlying computational properties of natural languages. Focus on deep learning approaches: understanding, implementing, training, debugging, visualizing, and extending neural network models for a variety of language understanding tasks. Exploration of natural language tasks ranging from simple word level and syntactic processing to coreference, question answering, and machine translation. Examination of representative papers and systems and completion of a final project applying a complex neural network model to a large-scale NLP problem. Prerequisites: calculus and linear algebra; CS124 or CS121/221.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS224N DIS
 DTSTART;TZID=America/Los_Angeles:20170111T183000
-CREATED:20170109T213829
+CREATED:20170211T124018
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T212000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

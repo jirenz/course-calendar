@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T182000
-LAST-MODIFIED:20170109T213815
-UID:explore_coursesc5128466-5c09-4e32-b1c7-ada1a6fdbf8e
-DTSTAMP:20170109T213815
+LAST-MODIFIED:20170211T124009
+UID:explore_coursesa9d56e88-b33a-4eac-847a-c05fec9f6400
+DTSTAMP:20170211T124009
 LOCATION:Lathrop 292
 DESCRIPTION:Why are humans drawn to making and breaking codes? To what extent is finding patterns both an art and a science? Cryptography has been used for millennia for secure communications, and its counterpart, cryptanalysis, or code breaking, has been around for just slightly less time. In this course we will explore the history of cryptography and cryptanalysis including the Enigma code, Navajo windtalkers, early computer science and the invention of modern Bayesian inference. We will try our own hand at breaking codes using some basic statistical tools for which no prior experience is necessary. Finally, we will consider the topic of patterns more generally, raising such questions as why we impute meaning to patterns, such as Biblical codes, and why we assume a complexity within a pattern when it's not there, such as the coincidence of birthdays in a group.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:THINK3 DIS
 DTSTART;TZID=America/Los_Angeles:20160926T173000
-CREATED:20170109T213815
+CREATED:20170211T124009
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

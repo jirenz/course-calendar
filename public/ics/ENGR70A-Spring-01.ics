@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T142000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses702003c6-575f-415b-a116-5ade30f0d644
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_coursesfd06d175-cf25-4812-bbb3-c414b6274bfd
+DTSTAMP:20170211T124020
 LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the Java programming language. Emphasis is on good programming style and the built-in facilities of the Java language. No prior programming experience required. Summer quarter enrollment is limited.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR70A LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

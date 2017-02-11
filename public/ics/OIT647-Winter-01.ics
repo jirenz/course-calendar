@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T192000
+LAST-MODIFIED:20170211T124027
+UID:explore_coursesa5fe33da-d260-4ace-b9fc-66fce3b49359
+DTSTAMP:20170211T124027
+LOCATION:GSB Faculty East 233
+DESCRIPTION:This course focuses on studying a broad set of econometric methods to conduct empirical research in Operations Management and related fields in Management Science. The course complements formal econometrics and statistics classes by focusing on the application of different econometric methods and identification strategies to research problems that are relevant in different areas within Operations Management, including Supply Chain Management, Service Operations, Healthcare and Retail. Although statistics/econometrics classes provide a rigorous revision of the methods, they put less emphasis on how to apply these methods in different settings. This course aims to fill that gap by providing a problem-oriented approach, where the focus is on identifying empirical questions relevant to Operations Management and choosing an appropriate empirical strategy to address them. The course has a seminar format combining paper presentations by students, computer assignments and a short research proposal.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OIT647 SEM
+DTSTART;TZID=America/Los_Angeles:20170109T163000
+CREATED:20170211T124027
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T192000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170130T175000
-LAST-MODIFIED:20170109T213843
-UID:explore_courses3d64ffe6-e95f-45ff-a699-c02c0ffda461
-DTSTAMP:20170109T213843
-LOCATION:GSB Faculty East 102
-DESCRIPTION:This course examines organization culture, how and why managers can use culture to maximize results within an organization, and how culture can undermine results. The course begins by situating cultural leadership and management within a culture-shaping framework and the opportunities, obligations and methods for leaders to impact culture. It also focuses on what is different in cultural management and why so many contemporary firms attempt to use it. We analyze the relationship between culture and strategy, seeking alignment between the two. The course also explores different kinds of cultures seen in high performing and low performing organizations, and seeks to understand how cultural content affects behavior and business results. Students will be asked to describe and define the culture of an organization needed for a given business and strategy, and to define the role of executives in shaping culture. The class identifies and analyzes the tools or levers that leaders can use to build an effective culture. We will spend a session on each of the following: culture and strategy alignment, architecture for shaping culture, selecting people for cultural alignment, aligning organizational practices, culture and society, cultural inflection points from start-up to scale, cultural aspects of high performance and cultural diagnostics. The course will end with a session on culture issues in merger and acquisition.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:OB518 CAS
-DTSTART;TZID=America/Los_Angeles:20170130T150000
-CREATED:20170109T213843
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170203T175000;BYDAY=MO,WE,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170213T175000
-LAST-MODIFIED:20170109T213843
-UID:explore_courses24943c24-6da1-4cae-a08c-f502a9f5557a
-DTSTAMP:20170109T213843
+LAST-MODIFIED:20170211T124027
+UID:explore_courses1a1191e0-3e5a-4a12-ba30-f72f688d238d
+DTSTAMP:20170211T124027
 LOCATION:GSB Faculty East 102
 DESCRIPTION:This course examines organization culture, how and why managers can use culture to maximize results within an organization, and how culture can undermine results. The course begins by situating cultural leadership and management within a culture-shaping framework and the opportunities, obligations and methods for leaders to impact culture. It also focuses on what is different in cultural management and why so many contemporary firms attempt to use it. We analyze the relationship between culture and strategy, seeking alignment between the two. The course also explores different kinds of cultures seen in high performing and low performing organizations, and seeks to understand how cultural content affects behavior and business results. Students will be asked to describe and define the culture of an organization needed for a given business and strategy, and to define the role of executives in shaping culture. The class identifies and analyzes the tools or levers that leaders can use to build an effective culture. We will spend a session on each of the following: culture and strategy alignment, architecture for shaping culture, selecting people for cultural alignment, aligning organizational practices, culture and society, cultural inflection points from start-up to scale, cultural aspects of high performance and cultural diagnostics. The course will end with a session on culture issues in merger and acquisition.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OB518 CAS
 DTSTART;TZID=America/Los_Angeles:20170213T150000
-CREATED:20170109T213843
+CREATED:20170211T124027
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170217T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170130T175000
+LAST-MODIFIED:20170211T124027
+UID:explore_courses7db7473a-4cb9-416d-97f9-cc37ac553494
+DTSTAMP:20170211T124027
+LOCATION:GSB Faculty East 102
+DESCRIPTION:This course examines organization culture, how and why managers can use culture to maximize results within an organization, and how culture can undermine results. The course begins by situating cultural leadership and management within a culture-shaping framework and the opportunities, obligations and methods for leaders to impact culture. It also focuses on what is different in cultural management and why so many contemporary firms attempt to use it. We analyze the relationship between culture and strategy, seeking alignment between the two. The course also explores different kinds of cultures seen in high performing and low performing organizations, and seeks to understand how cultural content affects behavior and business results. Students will be asked to describe and define the culture of an organization needed for a given business and strategy, and to define the role of executives in shaping culture. The class identifies and analyzes the tools or levers that leaders can use to build an effective culture. We will spend a session on each of the following: culture and strategy alignment, architecture for shaping culture, selecting people for cultural alignment, aligning organizational practices, culture and society, cultural inflection points from start-up to scale, cultural aspects of high performance and cultural diagnostics. The course will end with a session on culture issues in merger and acquisition.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OB518 CAS
+DTSTART;TZID=America/Los_Angeles:20170130T150000
+CREATED:20170211T124027
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170203T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

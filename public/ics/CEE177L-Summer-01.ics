@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T202000
-LAST-MODIFIED:20170109T213821
-UID:explore_courses0ca474d6-85ba-4136-87ad-1300dd84fb2a
-DTSTAMP:20170109T213821
-LOCATION:
-DESCRIPTION:The role of information technology (IT) in enabling mankind to improve the operations and sustainability of cities and communities. Review of what a &quot;smarter&quot; city of community might be, the role of IT in enabling them to become &quot;smarter&quot; (including what IT cannot achieve). Case studies on water, transportation, resilience, and open data &amp; citizen sensing.
+DTEND;TZID=America/Los_Angeles:20170626T132000
+LAST-MODIFIED:20170211T124013
+UID:explore_courses804e55d2-3aa1-4bb7-ac12-6fb8de9cd4d9
+DTSTAMP:20170211T124013
+LOCATION:Y2E2 111
+DESCRIPTION:A city is comprised of people and a complex system of systems. Data provides the connective tissue between those systems. Smart cities use information technology (IT) to harness that data for operational efficiency, efficacy of government services, and sustainability. Key enablers covered include: IoT, open data, analytics, cloud and cognitive computing, and systems of engagement. System case studies will include: water, energy, transportation, buildings, food production, urban design, and social services. The evolving relationship between a city and its citizens as well as the risks / challenges of smart cities will also be explored.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE177L LEC
-DTSTART;TZID=America/Los_Angeles:20170626T173000
-CREATED:20170109T213821
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T202000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170626T113000
+CREATED:20170211T124013
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T193000
-LAST-MODIFIED:20170109T213745
-UID:explore_coursesf8a511f8-55cb-4ae6-88e0-fd13a46f0c12
-DTSTAMP:20170109T213745
+DTEND;TZID=America/Los_Angeles:20170112T192000
+LAST-MODIFIED:20170211T123949
+UID:explore_coursesd3a081d6-102e-4ff1-98c2-e80d11746404
+DTSTAMP:20170211T123949
 LOCATION:Hausmt114
 DESCRIPTION:This course for students interested practising advanced-level conversation. Most appropriate for students who are taking Gerlang 21 or higher, heritage speakers, and students looking to practice professional German. Emphasis on discussion of cultural topics including politics, exploring media and news, and student interests. nAttendance is required to receive course credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GERLANG20C ACT
-DTSTART;TZID=America/Los_Angeles:20170109T183000
-CREATED:20170109T213745
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T193000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170112T183000
+CREATED:20170211T123949
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T192000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

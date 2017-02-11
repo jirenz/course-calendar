@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170109T213834
-UID:explore_courses6100e2d0-9306-484d-ae29-cd69f604ad74
-DTSTAMP:20170109T213834
+LAST-MODIFIED:20170211T124021
+UID:explore_courses4d3a044f-6376-49db-bbcb-a42217489371
+DTSTAMP:20170211T124021
 LOCATION:Shriram Ctr BioChemE 052
 DESCRIPTION:Credit risk modeling, valuation, and hedging emphasizing underlying economic, probabilistic, and statistical concepts. Point processes and their compensators. Structural, incomplete information and reduced form approaches. Single name products: corporate bonds, equity, equity options, credit and equity default swaps, forwards and swaptions. Multiname modeling: index and tranche swaps and options, collateralized debt obligations. Implementation, calibration and testing of models. Industry and market practice. Data and implementation driven group projects that focus on problems in the financial industry.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E347 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20170109T213834
+CREATED:20170211T124021
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses0759ef5f-fa14-49c1-90b3-583d2708478b
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses9465601b-9d6a-4d2b-8815-6efb840b5fcd
+DTSTAMP:20170211T124020
 LOCATION:540-103
 DESCRIPTION:Photonics, optical components, and fiber optics. Conceptual and mathematical tools for design and analysis of optical communication, sensor and imaging systems. Experimental characterization of semiconductor lasers, optical fibers, photodetectors, receiver circuitry, fiber optic links, optical amplifiers, and optical sensors. Class project on confocal microscopy or other method of sensing or analyzing biometric data. Laboratory experiments. Prerequisite: EE 102A and one of the following: EE 42, Physics 43, or Physics 63.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE134 LAB
 DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

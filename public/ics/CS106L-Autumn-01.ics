@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170109T213829
-UID:explore_courses7954aa51-a711-4855-9e0b-34d5ccdf0830
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124017
+UID:explore_courses295982f2-6c85-41f3-a5a6-fe0bcfc7e6d7
+DTSTAMP:20170211T124017
 LOCATION:Econ 140
 DESCRIPTION:Supplemental lab to 106B and 106X. Additional features of standard C++ programming practice. Possible topics include advanced C++ language features, standard libraries, STL containers and algorithms, object memory management, operator overloading, and inheritance. Prerequisite: consent of instructor. Corequisite: 106B or 106X.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106L LAB
 DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170109T213829
+CREATED:20170211T124017
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

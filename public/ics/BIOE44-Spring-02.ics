@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170109T213819
-UID:explore_coursesfa65ca83-067a-492e-8316-7c8c22e0c614
-DTSTAMP:20170109T213819
-LOCATION:Wilfred Uytengsu TchngCntr114
+DTEND;TZID=America/Los_Angeles:20170403T182000
+LAST-MODIFIED:20170211T124011
+UID:explore_coursesea4b9ccc-ada4-4685-ac27-8e441c0c0884
+DTSTAMP:20170211T124011
+LOCATION:
 DESCRIPTION:Introduction to next-generation techniques in genetic, molecular, biochemical, and cellular engineering. Lab modules build upon current research including: gene and genome engineering via decoupled design and construction of genetic material; component engineering focusing on molecular design and quantitative analysis of experiments; device and system engineering using abstracted genetically encoded objects; and product development based on useful applications of biological technologies. Concurrent or previous enrollment in BIO 41.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE44 LBS
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213819
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170403T153000
+CREATED:20170211T124011
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T182000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170109T213805
-UID:explore_coursesd98ade63-3926-437c-8e50-da1e66154ff2
-DTSTAMP:20170109T213805
+LAST-MODIFIED:20170211T124001
+UID:explore_courses12656b94-8985-4abd-8050-41825566b1e6
+DTSTAMP:20170211T124001
 LOCATION:
 DESCRIPTION:This course will provide a hands-on overview of methods for processing and analysis of functional magnetic resonance imaging data.  Topics include preprocessing, statistical modeling, spatial normalization, statistical power analysis, multiple comparison correction, connectivity modeling, machine learning, and Bayesian modeling. The seminar will include hands-on analysis exercises in addition to lectures.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH248A WKS
 DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170109T213805
+CREATED:20170211T124001
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

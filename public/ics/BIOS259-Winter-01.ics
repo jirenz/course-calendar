@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170314T122000
-LAST-MODIFIED:20170109T213855
-UID:explore_courses2581046b-76a6-4f2d-baca-d4a8fe932013
-DTSTAMP:20170109T213855
+LAST-MODIFIED:20170211T124035
+UID:explore_courses5efc6077-03b6-4a69-9950-8f3b91fd7203
+DTSTAMP:20170211T124035
 LOCATION:Li Ka Shing Center, room 308
 DESCRIPTION:This course provides an overview of statistical methods for analyzing human genetic variation and for understanding the genetic basis of complex traits. Topics include: principles of population genetics; effects of evolutionary forces on pattern of genomic variation; epidemiologic designs; genotype-phenotype association analyses of complex traits; missing heritability. Weekly interactive computing sessions will provide guided exercises analyzing real genomic data. Pre-requisite: basic understanding of probability and access to a laptop computer.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS259 LEC
 DTSTART;TZID=America/Los_Angeles:20170314T103000
-CREATED:20170109T213855
+CREATED:20170211T124035
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170324T122000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

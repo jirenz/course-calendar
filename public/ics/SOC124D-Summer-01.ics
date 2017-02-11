@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170627T145000
-LAST-MODIFIED:20170109T213808
-UID:explore_courses72b7901c-a2a6-4777-8f20-aa8e13986743
-DTSTAMP:20170109T213808
-LOCATION:
+LAST-MODIFIED:20170211T124004
+UID:explore_coursesa3525dda-7e6e-44e9-ab6c-7d5da2312a4d
+DTSTAMP:20170211T124004
+LOCATION:160-314
 DESCRIPTION:Understanding the intuition behind key statistics in social science research. The focus will be on reverse-engineering statistical tests by starting with asking what information we would need to answer questions about social life. From here, we will find that apparently complicated statistical tests are simply following the same logic necessary to reach conclusions about social life. Nearly all statistical tests start from the foundations of probability sampling, mean group differences, and variability. With these foundational concepts, students will understand the intuition behind (and similarity between) standard t-tests and the mechanics of multivariate regressions. By focusing on providing students with a firm grasp of the basic foundations of statistics, students will be better prepared to understand the purpose and logic of more complex statistical tests, which serve to answer social science&iquest;s most interesting questions.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC124D LEC
 DTSTART;TZID=America/Los_Angeles:20170627T133000
-CREATED:20170109T213808
+CREATED:20170211T124004
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

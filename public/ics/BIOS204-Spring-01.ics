@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170605T112000
-LAST-MODIFIED:20170109T213855
-UID:explore_courses504f7d7c-ef1a-40f8-a9f3-2d590490e2ff
-DTSTAMP:20170109T213855
-LOCATION:Li Ka Shing Center, room 208
-DESCRIPTION:Basics of ordinary differential equation modeling of signal transduction motifs, small circuits of regulatory proteins and genes that serve as building blocks of complex regulatory circuits.  Morning session covers numerical modeling experiments.  Afternoon session explores theory underpinning that day's modeling session.  Modeling done using Mathematica, Standard Edition provided to enrolled students.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:BIOS204 PRA
-DTSTART;TZID=America/Los_Angeles:20170605T103000
-CREATED:20170109T213855
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170613T112000;BYDAY=MO,TU,WE,TH,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170605T165000
-LAST-MODIFIED:20170109T213855
-UID:explore_coursesd67a118d-95a7-4351-ae56-ada3473ddf05
-DTSTAMP:20170109T213855
+LAST-MODIFIED:20170211T124035
+UID:explore_coursesc43cefe4-b45a-4f5e-9c77-d0db25077e22
+DTSTAMP:20170211T124035
 LOCATION:Alway Building, Room M212
 DESCRIPTION:Basics of ordinary differential equation modeling of signal transduction motifs, small circuits of regulatory proteins and genes that serve as building blocks of complex regulatory circuits.  Morning session covers numerical modeling experiments.  Afternoon session explores theory underpinning that day's modeling session.  Modeling done using Mathematica, Standard Edition provided to enrolled students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS204 PRA
 DTSTART;TZID=America/Los_Angeles:20170605T150000
-CREATED:20170109T213855
+CREATED:20170211T124035
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170613T165000;BYDAY=MO,TU,WE,TH,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170605T112000
+LAST-MODIFIED:20170211T124035
+UID:explore_courses1e931f8b-b1c8-4c9a-913e-220ed88659ba
+DTSTAMP:20170211T124035
+LOCATION:Li Ka Shing Center, room 208
+DESCRIPTION:Basics of ordinary differential equation modeling of signal transduction motifs, small circuits of regulatory proteins and genes that serve as building blocks of complex regulatory circuits.  Morning session covers numerical modeling experiments.  Afternoon session explores theory underpinning that day's modeling session.  Modeling done using Mathematica, Standard Edition provided to enrolled students.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS204 PRA
+DTSTART;TZID=America/Los_Angeles:20170605T103000
+CREATED:20170211T124035
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170613T112000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

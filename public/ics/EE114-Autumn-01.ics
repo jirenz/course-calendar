@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses1ba1dff4-062b-4f02-960c-44bc8ae96ae0
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses7d660c9d-9055-4200-829d-6ae8917a2597
+DTSTAMP:20170211T124020
 LOCATION:Skillaud
 DESCRIPTION:Analysis and simulation of elementary transistor stages, current mirrors, supply- and temperature-independent bias, and reference circuits. Overview of integrated circuit technologies, circuit components, component variations and practical design paradigms. Differential circuits, frequency response, and feedback will also be covered. Performance evaluation using computer-aided design tools. Undergraduates must take EE 114 for 4 units.  Prerequisite: 101B. GER:DB-EngrAppSci
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE114 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T192000
-LAST-MODIFIED:20170109T213838
-UID:explore_courses60d8ec3a-f444-492f-9145-091c67449383
-DTSTAMP:20170109T213838
+LAST-MODIFIED:20170211T124023
+UID:explore_courses015b99c9-b658-40ab-bd79-bcae19dcec4d
+DTSTAMP:20170211T124023
 LOCATION:610-615
 DESCRIPTION:Additive manufacturing and the associated emergence of algorithmic CAD software are changing the landscape for design engineers.  The next generation of software is not solely based on geometry, but asks engineers to specify the desired performance parameters of their solution and leaves it up to the computer to create a geometry that optimizes that solution.  Usually such geometries would be impossibly expensive or impossible to produce, but as additive manufacturing technologies and tools advance, we are approaching a world in which there will be virtually no geometric barriers associated with manufacturing cost.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME353 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T180000
-CREATED:20170109T213838
+CREATED:20170211T124023
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

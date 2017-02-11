@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170109T213833
-UID:explore_coursesdeb2a3a0-7fea-4266-84fd-22216f41d8b1
-DTSTAMP:20170109T213833
+LAST-MODIFIED:20170211T124020
+UID:explore_courses91e7f723-80de-42aa-852a-dfc6a210007f
+DTSTAMP:20170211T124020
 LOCATION:ScienceTeachingLearningCntr114
 DESCRIPTION:Introduction to nonlinear phenomena: multiple equilibria, limit cycles, bifurcations, complex dynamical behavior. Planar dynamical systems, analysis using phase plane techniques. Describing functions. Lyapunov stability theory. SISO feedback linearization, sliding mode control. Design examples. Prerequisite: 205.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR209A LEC
 DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20170109T213833
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

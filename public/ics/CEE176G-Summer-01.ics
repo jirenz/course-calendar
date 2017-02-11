@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T152000
-LAST-MODIFIED:20170109T213821
-UID:explore_courses6488de63-3e2d-4266-a163-b5dc98fd64bf
-DTSTAMP:20170109T213821
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170626T172000
+LAST-MODIFIED:20170211T124013
+UID:explore_coursese287d141-204e-40e2-856b-0b62b745b6d7
+DTSTAMP:20170211T124013
+LOCATION:160-124
 DESCRIPTION:Application design thinking to make sustainability compelling, impactful and realizable.  Analysis of contextual, functional and human-centered design thinking techniques to promote sustainable design of products and environments by holistically considering space, form, environment, energy, economics, and health. Includes Studio project work in prototyping, modeling, testing, and realizing sustainable design ideas.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE176G LEC
-DTSTART;TZID=America/Los_Angeles:20170626T133000
-CREATED:20170109T213821
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170626T153000
+CREATED:20170211T124013
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

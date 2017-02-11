@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses993b0343-b0a4-47e3-adf1-9d97c714e489
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_coursesaf96ea06-d71b-44ca-adae-1ae1c4f490b2
+DTSTAMP:20170211T124020
 LOCATION:Gates B12
-DESCRIPTION:Principles and applications of numerical techniques for solving practical electromagnetics problems. Finite-difference time-domain (FDTD) method and finite-difference frequency-domain (FDFD) method for solving 2D and 3D Maxwell&iquest;s equations. Numerical analysis of stability, dispersion, and dissipation. Perfectly matched layer (PML) absorbing boundaries. Total-field/scattered-field (TF/SF) method.  Interaction of electromagnetic waves with dispersive and anisotropic media. Homework assignments require programming and the use of MATLAB or other equivalent tools. Prerequisite: 242 or equivalent.
+DESCRIPTION:Principles and applications of numerical techniques for solving practical problems of electromagnetics. Finite-difference time-domain (FDTD) method and finite-difference frequency-domain (FDFD) method for solving Maxwell's equations. Numerical analysis of stability. Perfectly matched layer (PML) absorbing boundaries. Total-field/scattered-field (TF/SF) method. Waveguide mode analysis. Bloch boundary conditions. The course requires programming and the use of MATLAB or other equivalent tools. Prerequisite: EE 242 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE256 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

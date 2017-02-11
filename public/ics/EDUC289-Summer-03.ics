@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T175000
-LAST-MODIFIED:20170109T213630
-UID:explore_coursese8240325-8b55-4f21-9e32-1fd041586677
-DTSTAMP:20170109T213630
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170717T175000
+LAST-MODIFIED:20170211T123931
+UID:explore_coursesc2fac8e5-5497-4536-9a28-5f2f72891eed
+DTSTAMP:20170211T123931
+LOCATION:School of Education 210
 DESCRIPTION:(Formerly EDUC 166.) Focus is on principles in understanding, assessing, and supporting the reading and writing processes, and the acquisition of content area literacies in secondary schools. Literacy demands within particular disciplines and how to use oral language, reading, and writing to teach content area materials more effectively to all students. (STEP)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC289 DIS
-DTSTART;TZID=America/Los_Angeles:20170626T150000
-CREATED:20170109T213630
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T175000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20170717T150000
+CREATED:20170211T123931
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170728T175000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

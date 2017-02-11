@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170411T194500
-LAST-MODIFIED:20170109T213841
-UID:explore_courses5bec22ce-d6eb-48a4-8784-5b738a4b790c
-DTSTAMP:20170109T213841
+LAST-MODIFIED:20170211T124025
+UID:explore_courses00480a7b-e4db-4ca9-a2fd-7006f684af62
+DTSTAMP:20170211T124025
 LOCATION:
 DESCRIPTION:This course gives students a background to understand fundamental issues in international macroeconomics and finance. Key topics include international asset pricing, hedging exchange rate risk, the relation between interest rates and exchange rates, business cycle fluctuations in emerging markets as well as in developed countries, banking and currency crises. By the end of the course, students should be able to read and understand the discussions of these topics in a publication such as The Economist. Each week we will have one lecture on fundamental concepts and one that applies these to recent events.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MGTECON541 SEM
 DTSTART;TZID=America/Los_Angeles:20170411T180000
-CREATED:20170109T213841
+CREATED:20170211T124025
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170505T194500;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

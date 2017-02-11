@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T102000
-LAST-MODIFIED:20170109T213836
-UID:explore_courses7065cb27-8bd0-43b9-87f3-a49ff79047bb
-DTSTAMP:20170109T213836
-LOCATION:Mitchb67
+DTEND;TZID=America/Los_Angeles:20170404T145000
+LAST-MODIFIED:20170211T124022
+UID:explore_coursese9f3389d-4da3-4a97-883f-0c13dcaefcc9
+DTSTAMP:20170211T124022
+LOCATION:320-105
 DESCRIPTION:Introduction to the mechanical behavior of solids, emphasizing the relationships between microstructure and mechanical properties. Elastic, anelastic, and plastic properties of materials. The relations between stress, strain, strain rate, and temperature for plastically deformable solids. Application of dislocation theory to strengthening mechanisms in crystalline solids. The phenomena of creep, fracture, and fatigue and their controlling mechanisms. Prerequisites: 193/203. Undergraduates register for 198 for 4 units; graduates register for 208 for 3 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI198 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20170109T213836
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170404T133000
+CREATED:20170211T124022
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

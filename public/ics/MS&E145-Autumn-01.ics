@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170109T213834
-UID:explore_courses226e60e4-b406-4f30-8a96-52759b19ca7d
-DTSTAMP:20170109T213834
+LAST-MODIFIED:20170211T124021
+UID:explore_courses5e446deb-90b5-4fa6-81a2-b8aa84109e34
+DTSTAMP:20170211T124021
 LOCATION:200-205
 DESCRIPTION:Introduction to the financial concepts and empirical evidence that are useful for investment decisions. Time-value of money: understanding basic interest rates, evaluating investments with present value and internal rates of return, fixed-income securities. Risk-return tradeoff and pricing models: mean variance optimization and portfolio choice, capital asset pricing theory and extensions. No prior knowledge of finance is required. Concepts are applied in a stock market simulation with real data. Prerequisites: basic preparation in probability, statistics, and optimization as covered e.g. in 111 and 120.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E145 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170109T213834
+CREATED:20170211T124021
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

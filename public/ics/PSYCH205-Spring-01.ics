@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170109T213805
-UID:explore_courses2984a377-da26-44f4-869f-f0d08f601ef1
-DTSTAMP:20170109T213805
+DTEND;TZID=America/Los_Angeles:20170404T145000
+LAST-MODIFIED:20170211T124001
+UID:explore_coursese82020e5-0b8d-4aea-a063-aa1eb40a8ba8
+DTSTAMP:20170211T124001
 LOCATION:420-245
 DESCRIPTION:Topics: attention, memory, language, similarity and analogy, categories and concepts, learning, reasoning, and decision making. Emphasis is on processes that underlie the capacity to think and how these are implemented in the brain and modeled computationally. The nature of mental representations, language and thought, modular versus general purpose design, learning versus nativism. Prerequisite: 207 or consent of instructor. nOpen to Psychology PhD students only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH205 SEM
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213805
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170404T133000
+CREATED:20170211T124001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T152000
-LAST-MODIFIED:20170109T213821
-UID:explore_coursesbcd9ca25-f69c-4c2b-a497-96abe9a1acba
-DTSTAMP:20170109T213821
+LAST-MODIFIED:20170211T124013
+UID:explore_courses79475103-271f-43f7-9f2e-e9ef3bb1db98
+DTSTAMP:20170211T124013
 LOCATION:380-380X
 DESCRIPTION:Procedures for evaluating the safety of structural components and systems. First-and second-order estimates of failure probabilities of engineered systems. Sensitivity of failure probabilities to assumed parameter values. Measures of the relative importance of random variables. Reliability of systems with multiple failure modes. Reliability updating. Simulation methods and variance reduction techniques. Prerequisite: 203 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE204 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170109T213821
+CREATED:20170211T124013
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

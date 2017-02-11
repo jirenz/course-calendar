@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170406T162000
-LAST-MODIFIED:20170109T213802
-UID:explore_coursesf482a429-3355-45c7-bfcb-8dfb2ba63723
-DTSTAMP:20170109T213802
+LAST-MODIFIED:20170211T123959
+UID:explore_coursesa342fe88-4d40-43a3-a1e7-d9cf71d0b557
+DTSTAMP:20170211T123959
 LOCATION:
 DESCRIPTION:(Third in a three-part advanced freshman physics series: PHYSICS 61, PHYSICS 63, PHYSICS 65.) This course introduces the foundations of quantum and statistical mechanics for students with a strong high school mathematics and physics background, who are contemplating a major in Physics or Engineering Physics, or are interested in a rigorous treatment of physics.  Quantum mechanics: atoms, electrons, nuclei. Quantization of light, Planck's constant.  Photoelectric effect, Compton and Bragg scattering. Bohr model, atomic spectra. Matter waves, wave packets, interference.  Fourier analysis and transforms, Heisenberg uncertainty relationships. Schr&ouml;dinger equation, eigenfunctions and eigenvalues.  Particle-in-a-box, simple harmonic oscillator, barrier penetration, tunneling, WKB and approximate solutions. Time-dependent and multi-dimensional solution concepts. Coulomb potential and hydrogen atom structure. Thermodynamics and statistical mechanics: ideal gas, equipartition, heat capacity. Probability, counting states, entropy, equilibrium, chemical potential.  Laws of thermodynamics. Cycles, heat engines, free energy. Partition function, Boltzmann statistics, Maxwell speed distribution, ideal gas in a box, Einstein model.  Quantum statistical mechanics: classical vs. quantum distribution functions, fermions vs. bosons. Prerequisites: PHYSICS 61 &amp; PHYSICS 63. Pre- or corequisite: MATH 53.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS65 DIS
 DTSTART;TZID=America/Los_Angeles:20170406T150000
-CREATED:20170109T213802
+CREATED:20170211T123959
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

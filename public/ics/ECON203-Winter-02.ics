@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T192000
-LAST-MODIFIED:20170109T213737
-UID:explore_courses64ce8959-710c-493f-bae2-48692af92945
-DTSTAMP:20170109T213737
-LOCATION:Econ 139
+DTEND;TZID=America/Los_Angeles:20170113T152000
+LAST-MODIFIED:20170211T123946
+UID:explore_courses2190388e-f735-4b87-9827-b6dbe4187156
+DTSTAMP:20170211T123946
+LOCATION:Econ 140
 DESCRIPTION:(Non-Economics graduate students register for 203N.) Non-cooperative game theory including normal and extensive forms, solution concepts, games with incomplete information, and repeated games. Externalities and public goods. The theory of imperfect competition: static Bertrand and Cournot competition, dynamic oligopoly, entry decisions, entry deterrence, strategic behavior to alter market conditions. Limited enrollment. Prerequisite: ECON 202.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON203 DIS
-DTSTART;TZID=America/Los_Angeles:20170111T173000
-CREATED:20170109T213737
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T192000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170113T133000
+CREATED:20170211T123946
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

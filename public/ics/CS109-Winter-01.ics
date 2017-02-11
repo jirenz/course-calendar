@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T125000
-LAST-MODIFIED:20170109T213829
-UID:explore_courses49968f4b-8c96-429f-8a9c-7abdd7f09e72
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124017
+UID:explore_coursesa3faf371-dc38-4513-8525-316f1e338f86
+DTSTAMP:20170211T124017
 LOCATION:Bishop Auditorium
 DESCRIPTION:Topics include: counting and combinatorics, random variables, conditional probability, independence, distributions, expectation, point estimation, and limit theorems. Applications of probability in computer science including machine learning and the use of probability in the analysis of algorithms. Prerequisites: 103, 106B or X, multivariate calculus at the level of MATH 51 or CME 100 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS109 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20170109T213829
+CREATED:20170211T124017
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T125000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

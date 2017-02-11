@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170109T213707
-UID:explore_courses310af710-39f0-4f5c-9805-6254466cb10a
-DTSTAMP:20170109T213707
+LAST-MODIFIED:20170211T123939
+UID:explore_courses30c30d99-f567-4d23-a951-10d5d6e886bb
+DTSTAMP:20170211T123939
 LOCATION:Gilbert Biological Science 117
 DESCRIPTION:Students enrolled in Bio41 lecture and regular discussion sections attend two additional 80 min sections per week. The objective of the course is to help students to solidify basic concepts, identify areas to work on, and apply core concepts learned that week in Bio41 lecture and section. Space is limited, by application only. Co-Requisite: Bio 41.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO41A SEM
 DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170109T213707
+CREATED:20170211T123939
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

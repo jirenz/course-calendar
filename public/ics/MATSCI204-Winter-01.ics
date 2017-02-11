@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T132000
-LAST-MODIFIED:20170109T213836
-UID:explore_courses1689dd7b-eb11-42e1-8c83-172c02e8038f
-DTSTAMP:20170109T213836
-LOCATION:Mitchb67
-DESCRIPTION:The principles of heterogeneous equilibria and their application to phase diagrams. Thermodynamics of solutions; chemical reactions; non-stoichiometry in compounds; first order phase transitions and metastability; thermodynamics of surfaces, elastic solids, dielectrics, and magnetic solids. Undergraduates register for 194 for 4 units; graduates register for 204 for 3 units.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:MATSCI204 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T123000
-CREATED:20170109T213836
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170109T213836
-UID:explore_courses12f6cb4e-229a-4ae9-a212-befc6f468285
-DTSTAMP:20170109T213836
+LAST-MODIFIED:20170211T124022
+UID:explore_coursesd10ed55c-e605-4939-9e19-ef0c327de5d1
+DTSTAMP:20170211T124022
 LOCATION:370-370
 DESCRIPTION:The principles of heterogeneous equilibria and their application to phase diagrams. Thermodynamics of solutions; chemical reactions; non-stoichiometry in compounds; first order phase transitions and metastability; thermodynamics of surfaces, elastic solids, dielectrics, and magnetic solids. Undergraduates register for 194 for 4 units; graduates register for 204 for 3 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI204 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170109T213836
+CREATED:20170211T124022
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170109T132000
+LAST-MODIFIED:20170211T124022
+UID:explore_courses25a7b0f9-e481-4a38-9d68-387360805af3
+DTSTAMP:20170211T124022
+LOCATION:Mitchb67
+DESCRIPTION:The principles of heterogeneous equilibria and their application to phase diagrams. Thermodynamics of solutions; chemical reactions; non-stoichiometry in compounds; first order phase transitions and metastability; thermodynamics of surfaces, elastic solids, dielectrics, and magnetic solids. Undergraduates register for 194 for 4 units; graduates register for 204 for 3 units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MATSCI204 LEC
+DTSTART;TZID=America/Los_Angeles:20170109T123000
+CREATED:20170211T124022
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

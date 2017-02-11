@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20170109T213811
-UID:explore_courses07856535-4513-42b3-9484-16162c562cc3
-DTSTAMP:20170109T213811
+LAST-MODIFIED:20170211T124005
+UID:explore_coursesabe07b86-40a9-4314-aa29-35f39fe5d928
+DTSTAMP:20170211T124005
 LOCATION:200-305
 DESCRIPTION:Experiments vs observation. Confounding. Randomization. ANOVA.Blocking. Latin squares. Factorials and fractional factorials. Split plot. Response surfaces. Mixture designs. Optimal design. Central composite. Box-Behnken. Taguchi methods. Computer experiments and space filling designs. Prerequisites: probability at STATS 116 level or higher, and at least one course in linear models.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS363 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20170109T213811
+CREATED:20170211T124005
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T152000
-LAST-MODIFIED:20170109T213857
-UID:explore_courses256058b5-5973-498c-86d3-2df549a10a1f
-DTSTAMP:20170109T213857
-LOCATION:E.D. Stone Edwards Bldg R358
-DESCRIPTION:Preference to sophomores. Focus is on the laboratory mouse, a widely used and important research model. Topics include the ethics of animal use in research; the natural history, origin and husbandry of the mouse; characteristics of key mouse strains; its anatomy and physiology; common diseases and their effects on research; coat color genetics relative to human diseases; immunodeficient mouse models; and genetic engineering of mice. The laboratory includes necropsy, handling, introduction to anesthesia and surgery, identification methods, and common research techniques using live and dead mice. Enrollment limited to 14 students.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:COMPMED87Q ISS
-DTSTART;TZID=America/Los_Angeles:20160928T143000
-CREATED:20170109T213857
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=WE
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160930T152000
-LAST-MODIFIED:20170109T213857
-UID:explore_coursesb03cd20b-b637-4fd6-b398-27db21369a4b
-DTSTAMP:20170109T213857
+LAST-MODIFIED:20170211T124036
+UID:explore_coursesaad36fb7-d576-4830-8dbe-4d418f7d81ce
+DTSTAMP:20170211T124036
 LOCATION:
 DESCRIPTION:Preference to sophomores. Focus is on the laboratory mouse, a widely used and important research model. Topics include the ethics of animal use in research; the natural history, origin and husbandry of the mouse; characteristics of key mouse strains; its anatomy and physiology; common diseases and their effects on research; coat color genetics relative to human diseases; immunodeficient mouse models; and genetic engineering of mice. The laboratory includes necropsy, handling, introduction to anesthesia and surgery, identification methods, and common research techniques using live and dead mice. Enrollment limited to 14 students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPMED87Q ISS
 DTSTART;TZID=America/Los_Angeles:20160930T133000
-CREATED:20170109T213857
+CREATED:20170211T124036
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160928T152000
+LAST-MODIFIED:20170211T124036
+UID:explore_courses3118ec57-8c90-4388-b8d8-eac73db23cf3
+DTSTAMP:20170211T124036
+LOCATION:E.D. Stone Edwards Bldg R358
+DESCRIPTION:Preference to sophomores. Focus is on the laboratory mouse, a widely used and important research model. Topics include the ethics of animal use in research; the natural history, origin and husbandry of the mouse; characteristics of key mouse strains; its anatomy and physiology; common diseases and their effects on research; coat color genetics relative to human diseases; immunodeficient mouse models; and genetic engineering of mice. The laboratory includes necropsy, handling, introduction to anesthesia and surgery, identification methods, and common research techniques using live and dead mice. Enrollment limited to 14 students.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:COMPMED87Q ISS
+DTSTART;TZID=America/Los_Angeles:20160928T143000
+CREATED:20170211T124036
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

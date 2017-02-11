@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T200000
-LAST-MODIFIED:20170109T213858
-UID:explore_coursesfca82260-5bca-4361-8e97-2dd61f70c811
-DTSTAMP:20170109T213858
-LOCATION:Li Ka Shing Center,rms101/102
-DESCRIPTION:Continuation of 111B/211B.  Special topics in EMS. Topics include pediatric, obstetric, and gynecologic  emergencies, EMS operations, mass casualty incidents, and assault. Lectures, practicals, and applications. Upon completion of EMED 111A,B,C or 211A,B,C, students are eligible to sit for the National Registry EMT certification exam. Prerequisites: EMED 111B/211B, CPR-PR certification, and consent of instructor.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:EMED111C LEC
-DTSTART;TZID=America/Los_Angeles:20170404T180000
-CREATED:20170109T213858
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T200000;BYDAY=TU,TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170401T150000
-LAST-MODIFIED:20170109T213858
-UID:explore_coursesd44bf7c7-fb2f-4394-9c6a-ac37e205f0dd
-DTSTAMP:20170109T213858
+LAST-MODIFIED:20170211T124037
+UID:explore_coursesd08db459-aab1-4897-ae8f-cc2eb95141aa
+DTSTAMP:20170211T124037
 LOCATION:Alway Building, Room M208
 DESCRIPTION:Continuation of 111B/211B.  Special topics in EMS. Topics include pediatric, obstetric, and gynecologic  emergencies, EMS operations, mass casualty incidents, and assault. Lectures, practicals, and applications. Upon completion of EMED 111A,B,C or 211A,B,C, students are eligible to sit for the National Registry EMT certification exam. Prerequisites: EMED 111B/211B, CPR-PR certification, and consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EMED111C LEC
 DTSTART;TZID=America/Los_Angeles:20170401T090000
-CREATED:20170109T213858
+CREATED:20170211T124037
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170401T150000;BYDAY=SA
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T200000
+LAST-MODIFIED:20170211T124037
+UID:explore_coursesba1aac3a-427d-429a-9211-51f173229b1f
+DTSTAMP:20170211T124037
+LOCATION:Li Ka Shing Center,rms101/102
+DESCRIPTION:Continuation of 111B/211B.  Special topics in EMS. Topics include pediatric, obstetric, and gynecologic  emergencies, EMS operations, mass casualty incidents, and assault. Lectures, practicals, and applications. Upon completion of EMED 111A,B,C or 211A,B,C, students are eligible to sit for the National Registry EMT certification exam. Prerequisites: EMED 111B/211B, CPR-PR certification, and consent of instructor.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EMED111C LEC
+DTSTART;TZID=America/Los_Angeles:20170404T180000
+CREATED:20170211T124037
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T200000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

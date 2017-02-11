@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170109T213755
-UID:explore_courses69a32a84-3253-45b5-a63d-8f0cebdf0a8e
-DTSTAMP:20170109T213755
+LAST-MODIFIED:20170211T123955
+UID:explore_courses517fad28-601c-4240-9001-1438c9cd28b8
+DTSTAMP:20170211T123955
 LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:Geometry and algebra of vectors, matrices and linear transformations, eigenvalues of symmetric matrices, vector-valued functions and functions of several variables, partial derivatives and gradients, derivative as a matrix, chain rule in several variables, critical points and Hessian, least-squares, , constrained and unconstrained optimization in several variables, Lagrange multipliers.  Prerequisite:  21, 42, or the math placement diagnostic (offered through the Math Department website) in order to register for this course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH51 DIS
 DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20170109T213755
+CREATED:20170211T123955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T175000
-LAST-MODIFIED:20170109T213740
-UID:explore_courses401890e3-160a-42b4-bbb0-e2226843bb01
-DTSTAMP:20170109T213740
+DTEND;TZID=America/Los_Angeles:20170112T175000
+LAST-MODIFIED:20170211T123947
+UID:explore_courses4829fea7-e166-4146-bf36-3f42ae700a02
+DTSTAMP:20170211T123947
 LOCATION:260-008
 DESCRIPTION:For advanced graduate students completing major research projects. Revising and editing strategies for preparing papers, conference abstracts, and poster presentations. Adapting content and style to different audiences. Students present their research with participant feedback. Enrollment limited to 14. May be repeated once for credit. Prerequisite: EFSLANG 698B and EFSLANG 691 or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EFSLANG698C LNG
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170109T213740
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170112T150000
+CREATED:20170211T123947
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

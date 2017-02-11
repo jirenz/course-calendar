@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T175000
-LAST-MODIFIED:20170109T213823
-UID:explore_coursesf1d09300-291c-43b9-9997-5db68bbb639d
-DTSTAMP:20170109T213823
+LAST-MODIFIED:20170211T124014
+UID:explore_courses18acccb1-06a1-4ec3-8951-5bbfcadb882d
+DTSTAMP:20170211T124014
 LOCATION:
-DESCRIPTION:Description: Introduction to Energy and Commodity Markets (energy, metals, agriculturals, livestock) and issues related to renewable energy sources such as solar and wind power, and carbon emissions. Topics include: application of financial mathematics and dynamic game theory to a variety of problems, including forward curve models, oligoply models of energy production, financialization of commodity markets, and carbon emissions markets; traditional stochastic models for commodity futures curves. Schwartz models, capturing backwardation and contango, Samuelson effect, convenience yield and storage; game theoretic models of energy production. Cournot models, exhaustible resources, Hotelling&iquest;s rule, impact of renewables and shale oil (fracking). Stochastic differential games, and continuum mean field games.nPart 3: Financialization. Intertwining of equity and commodity markets through modern investment vehicles such as ETFs and commodity index funds. Models for carbon emissions markets. Prerequisites:familiarity with stochastic calculus (CME 308) and partial differential equations (CME303/306), or similar classes by consent of . May be repeat for credit
+DESCRIPTION:Description: Current topics for enrolled students in the MCF program: This course is an introduction to computational, statistical, and optimizations methods and their application to financial markets. Class will consist of lectures and real-time problem solving. Topics: Python &amp; R programming, interest rates, Black-Scholes model, financial time series, capital asset pricing model (CAPM), options, optimization methods, and machine learning algorithms. Appropriate for anyone with a technical and solid applied math background interested in honing skills in quantitative finance. Prerequisite: basic statistics and exposure to programming.Can be repeated up to three times.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME245 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T163000
-CREATED:20170109T213823
+CREATED:20170211T124014
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

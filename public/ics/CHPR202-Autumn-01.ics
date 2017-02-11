@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T172000
-LAST-MODIFIED:20170109T213857
-UID:explore_courses54806c45-7af0-42d3-bb6a-b8f56e6a76cd
-DTSTAMP:20170109T213857
+LAST-MODIFIED:20170211T124036
+UID:explore_coursesa7027468-0b45-4c74-b2ee-cc1e69673a21
+DTSTAMP:20170211T124036
 LOCATION:MSOBX303
 DESCRIPTION:This course is a practicum in which students will use the R programming language to analyze datasets by application of classical statistical methods. No prior experience with R (or other programming languages) is required, but a familiarity with basic descriptive and inferential statistics is assumed. Class sessions will include some lecture content but will emphasize coding demonstrations by the instructor and hands-on coding by each student on their own computers. Students will practice using R with open-source and simulated datasets. The primary goal of the course is to equip students with a fundamental understanding of R's capabilities, experience using R with practice datasets, and the ability to extend their facility with R as their needs dictate.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHPR202 PRC
 DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170109T213857
+CREATED:20170211T124036
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

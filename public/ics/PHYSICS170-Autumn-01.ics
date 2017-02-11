@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20170109T213802
-UID:explore_courses66eef776-8fec-40f1-b700-26e12da85be5
-DTSTAMP:20170109T213802
+LAST-MODIFIED:20170211T123959
+UID:explore_courses807863a0-2c45-403d-8561-a9ab4271e186
+DTSTAMP:20170211T123959
 LOCATION:Lathrop 190
 DESCRIPTION:Basic probability and statistics for random processes such as random walks. The derivation of laws of thermodynamics from basic postulates; the determination of the relationship between atomic substructure and macroscopic behavior of matter.  Temperature; equations of state, heat, internal energy, equipartition; entropy, Gibbs paradox; equilibrium and reversibility; heat engines; applications to various properties of matter; absolute zero and low-temperature phenomena.  Distribution functions, fluctuations, the partition function for classical and quantum systems, irreversible processes.  Pre- or corequisite: PHYSICS 130.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS170 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170109T213802
+CREATED:20170211T123959
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170627T132000
-LAST-MODIFIED:20170109T213834
-UID:explore_courses17172af3-ea1c-4beb-9cf8-701fcb050fe9
-DTSTAMP:20170109T213834
+DTEND;TZID=America/Los_Angeles:20170627T115000
+LAST-MODIFIED:20170211T124021
+UID:explore_coursesb643d459-bc68-4879-8307-9378426accc4
+DTSTAMP:20170211T124021
 LOCATION:
 DESCRIPTION:Non-majors and minors who have taken or are taking elementary accounting should not enroll. Introduction to accounting concepts and the operating characteristics of accounting systems. The principles of financial and cost accounting, design of accounting systems, techniques of analysis, and cost control. Interpretation and use of accounting information for decision making. Designed for the user of accounting information and not as an introduction to a professional accounting career.  Enrollment limited.  Admission by order of enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E140 LEC
-DTSTART;TZID=America/Los_Angeles:20170627T103000
-CREATED:20170109T213834
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T132000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170627T090000
+CREATED:20170211T124021
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T115000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

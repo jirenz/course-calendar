@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses7309dbb5-4943-4d5a-b202-e199e1e82805
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses1f3f0e76-8add-442f-a528-8feba51980a9
+DTSTAMP:20170211T124020
 LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Abstraction and its relation to programming. Software engineering principles of data abstraction and modularity. Object-oriented programming, fundamental data structures (such as stacks, queues, sets) and data-directed design. Recursion and recursive data structures (linked lists, trees, graphs). Introduction to time and space complexity analysis. Uses the programming language C++ covering its basic facilities. Prerequisite: 106A or equivalent. Summer quarter enrollment is limited.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR70B LEC
 DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

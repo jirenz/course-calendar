@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T102000
-LAST-MODIFIED:20170109T213811
-UID:explore_coursesb97e79cc-29c8-4cdc-8db3-d22f21f69294
-DTSTAMP:20170109T213811
+LAST-MODIFIED:20170211T124005
+UID:explore_courses570bb3f5-36a7-487e-abe4-d6bf2615cdb8
+DTSTAMP:20170211T124005
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Statistical tools for modern data analysis. Topics include regression and prediction, elements of the analysis of variance, bootstrap, and cross-validation. Emphasis is on conceptual rather than theoretical understanding. Applications to social/biological sciences. Student assignments/projects require use of the software package R. Recommended: 60, 110, or 141.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS191 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170109T213811
+CREATED:20170211T124005
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170109T213855
-UID:explore_courses279dea6e-565a-435a-930b-3c3c2d37fbdf
-DTSTAMP:20170109T213855
+LAST-MODIFIED:20170211T124034
+UID:explore_coursescc4ea520-43b9-4a97-91ae-fe7b2179f24f
+DTSTAMP:20170211T124034
 LOCATION:
 DESCRIPTION:The latest biological and medical imaging modalities and their applications in research and medicine. Focus is on computational analytic and interpretive approaches to optimize extraction and use of biological and clinical imaging data for diagnostic and therapeutic translational medical applications. Topics include major image databases, fundamental methods in image processing and quantitative extraction of image features, structured recording of image information including semantic features and ontologies, indexing, search and content-based image retrieval. Case studies include linking image data to genomic,  phenotypic and clinical data, developing representations of image phenotypes for use in medical decision support and research applications and the role that biomedical imaging informatics plays in new questions in biomedical science. Includes a project. Enrollment for 3 units requires instructor consent. Prerequisites: programming ability at the level of CS 106A, familiarity with statistics, basic biology. Knowledge of Matlab highly recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOMEDIN260 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213855
+CREATED:20170211T124034
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

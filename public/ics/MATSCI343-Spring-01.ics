@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170109T213836
-UID:explore_courses9a47b5f9-4262-443e-8ac0-a42c00174443
-DTSTAMP:20170109T213836
+LAST-MODIFIED:20170211T124022
+UID:explore_courses5e506519-0a04-4157-a282-7bfef14e4770
+DTSTAMP:20170211T124022
 LOCATION:200-203
 DESCRIPTION:The science of organic semiconductors and their use in electronic and photonic devices. Topics: methods for fabricating thin films and devices; relationship between chemical structure and molecular packing on properties such as band gap, charge carrier mobility and luminescence efficiency; doping; field-effect transistors; light-emitting diodes; lasers; biosensors; photodetectors and photovoltaic cells.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI343 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213836
+CREATED:20170211T124022
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

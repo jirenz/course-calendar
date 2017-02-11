@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170109T213755
-UID:explore_courses63c2ffe5-4cba-4163-806a-a7048269ca20
-DTSTAMP:20170109T213755
+LAST-MODIFIED:20170211T123955
+UID:explore_coursesd070ae40-e214-4307-bd05-eb66c9d6434f
+DTSTAMP:20170211T123955
 LOCATION:380-380W
 DESCRIPTION:An introduction to PDE; particularly suitable for non-Math majors. Topics include physical examples of PDE's, method of characteristics, D'Alembert's formula, maximum principles, heat kernel, Duhamel's principle, separation of variables, Fourier series, Harmonic functions, Bessel functions, spherical harmonics. Students who have taken MATH 171 should consider taking MATH 173 rather than 131P.  Prerequisite: 53.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH131P LEC
 DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170109T213755
+CREATED:20170211T123955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

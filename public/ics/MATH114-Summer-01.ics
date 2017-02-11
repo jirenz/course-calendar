@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170626T102000
-LAST-MODIFIED:20170109T213755
-UID:explore_coursesa7ed6408-048b-4213-8d36-92f7b12d3ec5
-DTSTAMP:20170109T213755
-LOCATION:
+LAST-MODIFIED:20170211T123955
+UID:explore_coursesf1757bc2-9504-448c-87fa-23f9a22c7be6
+DTSTAMP:20170211T123955
+LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Introduction to Scientific Computing Numerical computation for mathematical, computational, physical sciences and engineering: error analysis, floating-point arithmetic, nonlinear equations, numerical solution of systems of algebraic equations, banded matrices, least squares, unconstrained optimization, polynomial interpolation, numerical differentiation and integration, numerical solution of ordinary differential equations, truncation error, numerical stability for time dependent problems and stiffness. Implementation of numerical methods in MATLAB programming assignments. Prerequisites: MATH 51, 52, 53; prior programming experience (MATLAB or other language at level of CS 106A or higher). Graduate students should take it for 3 units and undergraduate students should take it for 4 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH114 LEC
 DTSTART;TZID=America/Los_Angeles:20170626T093000
-CREATED:20170109T213755
+CREATED:20170211T123955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T102000;BYDAY=MO,TU,WE,TH
 END:VEVENT
 END:VCALENDAR

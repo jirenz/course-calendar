@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T125000
-LAST-MODIFIED:20170109T213823
-UID:explore_coursesa5c6f1d9-22f9-4964-af52-9a3faa54d09f
-DTSTAMP:20170109T213823
+LAST-MODIFIED:20170211T124014
+UID:explore_coursese9d78542-f3ab-4c45-bbf0-e90f075c45a7
+DTSTAMP:20170211T124014
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Computer based solution of systems of algebraic equations obtained from engineering problems and eigen-system analysis, Gaussian elimination, effect of round-off error, operation counts, banded matrices arising from discretization of differential equations, ill-conditioned matrices, matrix theory, least square solution of unsolvable systems, solution of non-linear algebraic equations, eigenvalues and eigenvectors, similar matrices, unitary and Hermitian matrices, positive definiteness, Cayley-Hamilton theory and function of a matrix and iterative methods. Prerequisite: familiarity with computer programming, and MATH51.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME200 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170109T213823
+CREATED:20170211T124014
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T125000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

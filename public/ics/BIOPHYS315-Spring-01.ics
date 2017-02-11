@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170109T213716
-UID:explore_coursesae4228fe-f867-40cf-aece-72461eb5bf69
-DTSTAMP:20170109T213716
+LAST-MODIFIED:20170211T123940
+UID:explore_courses259fca59-7edd-4870-949e-4f69535d7f1e
+DTSTAMP:20170211T123940
 LOCATION:200-032
 DESCRIPTION:Methods of bioinformatics and biomolecular modeling from the standpoint of biophysical chemistry. Methods of genome analysis; cluster analysis, phylogenetic trees, microarrays; protein, RNA and DNA structure and dynamics, structural and functional homology; protein-protein interactions and cellular networks; molecular dynamics methods using massively parallel algorithms.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOPHYS315 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213716
+CREATED:20170211T123940
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

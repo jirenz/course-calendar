@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20170109T213819
-UID:explore_courses636cef30-d2e4-42f4-a278-6906100d0762
-DTSTAMP:20170109T213819
+LAST-MODIFIED:20170211T124011
+UID:explore_courses6a97812f-d3a5-4071-9677-2f95f0432469
+DTSTAMP:20170211T124011
 LOCATION:Alway Building, Room M114
 DESCRIPTION:Principles of transport, continuum mechanics, and fluids, with applications to cell biology. Topics include random walks, diffusion, Langevin dynamics, transport theory, low Reynolds number flow, and beam theory, with applications including quantitative models of protein trafficking in the cell, mechanics of the cell cytoskeleton, the effects of molecular noise in development, the electromagnetics of nerve impulses, and an introduction to cardiovascular fluid flow. Prerequisites:  MATH 41, 42; CHEM 31A, B (or 31X); strongly recommended: CS 106A, PHYSICS 41, CME 100 or MATH 51, and CME 106; or instructor approval.  4 units, Spr (Huang, K)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE42 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20170109T213819
+CREATED:20170211T124011
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T165000
-LAST-MODIFIED:20170109T213758
-UID:explore_courses58c20b15-602b-4c1b-a789-78c8eec34989
-DTSTAMP:20170109T213758
+LAST-MODIFIED:20170211T123957
+UID:explore_coursesbf98c235-2a75-492b-8093-cc8d04908e83
+DTSTAMP:20170211T123957
 LOCATION:Knoll217
 DESCRIPTION:Digital signal representations and transforms for music and audio research. Topics: complex numbers, sinusoids, spectrum representation, sampling and aliasing,  the Discrete Fourier Transform (DFT), Fourier theorems, z transform, Laplace transform, and associated Matlab software. See http://ccrma.stanford.edu/courses/320/.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC320A LEC
 DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170109T213758
+CREATED:20170211T123957
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T165000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

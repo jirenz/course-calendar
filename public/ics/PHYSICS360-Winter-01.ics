@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T155000
-LAST-MODIFIED:20170109T213802
-UID:explore_courses6c7ff919-ae42-4a6a-80eb-de2d13ecfabd
-DTSTAMP:20170109T213802
-LOCATION:380-380Y
+DTEND;TZID=America/Los_Angeles:20170109T145000
+LAST-MODIFIED:20170211T123959
+UID:explore_coursesc0675d02-3136-4506-b484-de6640ebfc31
+DTSTAMP:20170211T123959
+LOCATION:Varian208
 DESCRIPTION:Basic theory of production of radiation in stars, galaxies and diffuse interstellar and intergalactic media and and transfer of radiation throughout the universe. Magnetic fields, turbulence shocks and&nbsp; particle acceleration and transport around magnetospheres of planets to clusters of galaxies. Application to&nbsp; compact objects, pulsars and accretion in binary stars and super-massive black holes, supernova remnants, cosmic rays and active galactic nuclei&nbsp; Prerequisite: PHYSICS 260 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS360 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T143000
-CREATED:20170109T213802
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T155000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170109T133000
+CREATED:20170211T123959
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

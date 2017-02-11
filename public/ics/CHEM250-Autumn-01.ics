@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20170109T213719
-UID:explore_courses9636662e-6b10-4cef-84ee-510f3617000c
-DTSTAMP:20170109T213719
+LAST-MODIFIED:20170211T123940
+UID:explore_courses550c327f-1280-4b6d-8b91-f682963da96b
+DTSTAMP:20170211T123940
 LOCATION:
 DESCRIPTION:Practical X-ray crystallography for small molecule compounds, which will emphasize crystal growth, measurement strategies, structure solution and refinement, and report generation. Example structures will include absolute configuration of organic compounds (with the heaviest atom being oxygen), metal containing complexes, disordered small molecules and twinning. Students will learn how to get from a new compound to a single crystal, and then to a cif-file ready for publication submission. They will gain knowledge of the underlying theory and concepts for each step of structure determination.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM250 LAB
 DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170109T213719
+CREATED:20170211T123940
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

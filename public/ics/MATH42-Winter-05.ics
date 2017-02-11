@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T122000
-LAST-MODIFIED:20170109T213755
-UID:explore_courses89b93853-7176-4ed1-83ba-be246cb942fe
-DTSTAMP:20170109T213755
+LAST-MODIFIED:20170211T123955
+UID:explore_coursesb68cbccd-74ee-4d07-84bd-2052adde6ca6
+DTSTAMP:20170211T123955
 LOCATION:ScienceTeachingLearningCntr105
 DESCRIPTION:Continuation of 41.  Methods of symbolic and numerical integration, applications of the definite integral, introduction to differential equations, infinite series.  Prerequisite: 41 or equivalent. *If you have not previously taken a calculus course at Stanford then you must have taken the math placement diagnostic (offered through the Math Department website) in order to register for this course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH42 DIS
 DTSTART;TZID=America/Los_Angeles:20170110T113000
-CREATED:20170109T213755
+CREATED:20170211T123955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

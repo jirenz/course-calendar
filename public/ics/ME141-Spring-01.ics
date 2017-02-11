@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T142000
-LAST-MODIFIED:20170109T213838
-UID:explore_courses4816c59b-6960-492f-b766-b14fe3f6a3ff
-DTSTAMP:20170109T213838
+LAST-MODIFIED:20170211T124023
+UID:explore_courses0897e7a5-2ba8-46db-b690-bf1fce556ff5
+DTSTAMP:20170211T124023
 LOCATION:530-127
 DESCRIPTION:Capstone course. Energy analysis, diagnostics and engineering of selected alternative energy systems with an integrated thermodynamic, heat transfer, and fluid mechanic approach. Mixtures, transport, reactions, electrochemical processes and photovoltaic effects. Labs apply principles through hands-on experience with selected alternative energy systems and their components. Use of MATLAB as an analysis tool.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME141 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213838
+CREATED:20170211T124023
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

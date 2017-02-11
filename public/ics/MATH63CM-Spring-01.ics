@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T102000
-LAST-MODIFIED:20170109T213755
-UID:explore_courses911d209e-4efa-45eb-a5e6-ef49ec8d108e
-DTSTAMP:20170109T213755
+LAST-MODIFIED:20170211T123955
+UID:explore_courses24839b08-97cd-4806-9ad6-0a896dda9e40
+DTSTAMP:20170211T123955
 LOCATION:380-380X
 DESCRIPTION:A proof-based course on ordinary differential equations, continuing themes from Math 61CM and Math 62CM. Topics include linear systems of differential equations and necessary tools from linear algebra, stability and asymptotic properties of solutions to linear systems, existence and uniqueness theorems for nonlinear differential equations with some applications to manifolds, behavior of solutions near an equilibrium point, and Sturm-Liouville theory.  Prerequisites: Math 61CM and Math 62CM.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH63CM LEC
 DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20170109T213755
+CREATED:20170211T123955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

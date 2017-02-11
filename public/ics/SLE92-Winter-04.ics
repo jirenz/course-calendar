@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T165000
-LAST-MODIFIED:20170109T213815
-UID:explore_courses1f2963da-e3e0-4e15-9b12-31530e9b9acb
-DTSTAMP:20170109T213815
-LOCATION:
-DESCRIPTION:Focusing on great works of philosophy, religion, literature, painting, and film drawn largely from the Western tradition, the SLE curriculum places particular emphasis on artists and intellectuals who brought new ways of thinking and new ways of creating into the world, often overthrowing prior traditions in the process. These are the works that redefined beauty, challenged the authority of conventional wisdom, raised questions of continuing importance to us today, and&iquest;for good or ill&iquest;created the world we still live in. Texts may include: Augustine, the Qur'an, Dante, Rumi, Machiavelli, Montaigne, Shakespeare, Cervantes, Las Casas, Descartes, Locke, Mill, Schleiermacher, and Flaubert.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:SLE92 DIS
-DTSTART;TZID=America/Los_Angeles:20170112T150000
-CREATED:20170109T213815
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T165000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170111T162000
-LAST-MODIFIED:20170109T213815
-UID:explore_courses988aab15-23bc-4d07-91c2-1e4387580461
-DTSTAMP:20170109T213815
+LAST-MODIFIED:20170211T124009
+UID:explore_coursesefd1adde-da73-4a1d-9624-7648eaee6be5
+DTSTAMP:20170211T124009
 LOCATION:
 DESCRIPTION:Focusing on great works of philosophy, religion, literature, painting, and film drawn largely from the Western tradition, the SLE curriculum places particular emphasis on artists and intellectuals who brought new ways of thinking and new ways of creating into the world, often overthrowing prior traditions in the process. These are the works that redefined beauty, challenged the authority of conventional wisdom, raised questions of continuing importance to us today, and&iquest;for good or ill&iquest;created the world we still live in. Texts may include: Augustine, the Qur'an, Dante, Rumi, Machiavelli, Montaigne, Shakespeare, Cervantes, Las Casas, Descartes, Locke, Mill, Schleiermacher, and Flaubert.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SLE92 DIS
 DTSTART;TZID=America/Los_Angeles:20170111T153000
-CREATED:20170109T213815
+CREATED:20170211T124009
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170112T165000
+LAST-MODIFIED:20170211T124009
+UID:explore_courses87632f03-ed17-40b4-80c7-f1341daed193
+DTSTAMP:20170211T124009
+LOCATION:
+DESCRIPTION:Focusing on great works of philosophy, religion, literature, painting, and film drawn largely from the Western tradition, the SLE curriculum places particular emphasis on artists and intellectuals who brought new ways of thinking and new ways of creating into the world, often overthrowing prior traditions in the process. These are the works that redefined beauty, challenged the authority of conventional wisdom, raised questions of continuing importance to us today, and&iquest;for good or ill&iquest;created the world we still live in. Texts may include: Augustine, the Qur'an, Dante, Rumi, Machiavelli, Montaigne, Shakespeare, Cervantes, Las Casas, Descartes, Locke, Mill, Schleiermacher, and Flaubert.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SLE92 DIS
+DTSTART;TZID=America/Los_Angeles:20170112T150000
+CREATED:20170211T124009
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T165000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

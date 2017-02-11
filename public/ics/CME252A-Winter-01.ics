@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170109T213823
-UID:explore_coursesd6da06b2-0527-4465-abcb-902e49757c58
-DTSTAMP:20170109T213823
+LAST-MODIFIED:20170211T124014
+UID:explore_courses39bd480f-416a-4be0-b226-fd5813e677ba
+DTSTAMP:20170211T124014
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Introduction to traffic planning and engineering on the Internet. Overview of Internet architecture; applications of linear and nonlinear optimization to traffic matrix estimation; capacity planning and routing optimization and experimentation with algorithms in Julia. Requirements: some optimization and technical computing experience would help, but open to anyone interested in the topic  talk to instructor if unsure.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME252A WKS
 DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20170109T213823
+CREATED:20170211T124014
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

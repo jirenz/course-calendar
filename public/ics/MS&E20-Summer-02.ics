@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170626T132000
-LAST-MODIFIED:20170109T213834
-UID:explore_courses21058c52-147a-4da9-8aed-e088bcd3d897
-DTSTAMP:20170109T213834
-LOCATION:
+LAST-MODIFIED:20170211T124021
+UID:explore_courses76b37bb6-9b71-4988-a7bf-b1cc3a98da82
+DTSTAMP:20170211T124021
+LOCATION:McCullough 122
 DESCRIPTION:Fundamental concepts and tools for the analysis of problems under uncertainty, focusing on structuring, model building, and analysis. Examples from legal, social, medical, and physical problems. Topics include axioms of probability, probability trees, belief networks, random variables, conditioning, and expectation. The course is fast-paced, but it has no prerequisites.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E20 DIS
 DTSTART;TZID=America/Los_Angeles:20170626T123000
-CREATED:20170109T213834
+CREATED:20170211T124021
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

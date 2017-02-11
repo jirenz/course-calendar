@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170109T213818
-UID:explore_coursesa8d59777-96e0-48f3-be8e-ba249827cf67
-DTSTAMP:20170109T213818
+LAST-MODIFIED:20170211T124011
+UID:explore_courses6f1b5514-3a9b-4c07-9b61-a36f2b871954
+DTSTAMP:20170211T124011
 LOCATION:School of Education 313
 DESCRIPTION:Attitude representation and parametrization; unperturbed and perturbed attitude dynamics and stability; attitude sensors and actuators; linear and nonlinear attitude control; optimal attitude maneuvers; dynamics of flexible spacecraft and space tethers; invited lectures from industry. Prerequisites:  AA 242A, ENGR 105, AA 279A, and familiarity with MatLab.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA279C LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213818
+CREATED:20170211T124011
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

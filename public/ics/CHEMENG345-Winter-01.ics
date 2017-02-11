@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170109T213820
-UID:explore_coursesc86cc42a-fa2a-4da2-8a20-946e668ee0da
-DTSTAMP:20170109T213820
+LAST-MODIFIED:20170211T124012
+UID:explore_courses6b0dc939-d236-403f-8cf7-12b98348d6e1
+DTSTAMP:20170211T124012
 LOCATION:McMurtry Building 102, Oshman
 DESCRIPTION:Development of theoretical approaches to spectroscopy, including spectroscopic transitions, transition probabilities, and selection rules. Application to photon and electron spectroscopies of the gas and solid phases. Topics: rotational spectroscopy; infrared and Raman vibrational spectroscopies; fluorescence spectroscopy; Auger, x-ray and ultraviolet photoelectron spectroscopies. Prerequisite: CHEM 271 or course in quantum mechanics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG345 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170109T213820
+CREATED:20170211T124012
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

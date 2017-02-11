@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20170109T213823
-UID:explore_courses2f535165-2280-462a-8288-cc8dd277bbbc
-DTSTAMP:20170109T213823
+LAST-MODIFIED:20170211T124014
+UID:explore_courses9297d296-860d-47bd-9814-15b811bd7b8e
+DTSTAMP:20170211T124014
 LOCATION:320-105
 DESCRIPTION:Analytical and numerical methods for solving ordinary differential equations arising in engineering applications: Solution of initial and boundary value problems, series solutions, Laplace transforms, and nonlinear equations; numerical methods for solving ordinary differential equations, accuracy of numerical methods, linear stability theory, finite differences. Introduction to MATLAB programming as a basic tool kit for computations. Problems from various engineering fields. Prerequisite: 10 units of AP credit (Calc BC with 4 or 5, or Calc AB with 5), or Math 41 and 42. Recommended: CME100.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME102 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170109T213823
+CREATED:20170211T124014
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

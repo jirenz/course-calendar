@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T195000
-LAST-MODIFIED:20170109T213719
-UID:explore_coursesdbf56cc3-f4b8-4d56-b5c5-4b785a2756f4
-DTSTAMP:20170109T213719
+LAST-MODIFIED:20170211T123940
+UID:explore_coursesfe4a3314-290f-4b5c-a9ab-f64d7f3cca82
+DTSTAMP:20170211T123940
 LOCATION:ScienceTeachingLearningCntr105
 DESCRIPTION:Electronic structure and physical properties of transition metal complexes. Ligand field and molecular orbital theories, magnetism and magnetic susceptibility, electron paramagnetic resonance including hyperfine interactions and zero field splitting and electronic absorption spectroscopy including vibrational interactions. Prerequisite: 153 or the equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM253 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T180000
-CREATED:20170109T213719
+CREATED:20170211T123940
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T195000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T150500
-LAST-MODIFIED:20170109T213906
-UID:explore_coursesfc2307d3-c25f-498c-bb23-2b4bfa58e60f
-DTSTAMP:20170109T213906
+LAST-MODIFIED:20170211T124044
+UID:explore_courses41d083e4-75c9-4854-9af1-a22dc21a417f
+DTSTAMP:20170211T124044
 LOCATION:
 DESCRIPTION:For first-year Neurosciences graduate students; open to other graduate students as space permits with preference given to Neurosciences students. Introduces students to computational and theoretical methods in neuroscience. Emphasis on what questions are important, and how those questions can be answered with quantitative methods. Topics range from cellular/molecular to cognitive, and emphasizes similarity and differences of methods across neural scales.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NEPR208 WKS
 DTSTART;TZID=America/Los_Angeles:20170403T131500
-CREATED:20170109T213906
+CREATED:20170211T124044
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170421T150500;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

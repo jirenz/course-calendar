@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T152000
-LAST-MODIFIED:20170109T213648
-UID:explore_coursesa429c286-4da8-4a99-a0ea-7b8f779814ad
-DTSTAMP:20170109T213648
+LAST-MODIFIED:20170211T123936
+UID:explore_courses6bdca9ed-cf51-4104-a7e5-ded5ecdc0b2f
+DTSTAMP:20170211T123936
 LOCATION:
 DESCRIPTION:Laboratory and lectures. Advanced microscopy and imaging, emphasizing hands-on experience with state-of-the-art techniques. Students construct and operate working apparatus. Topics include microscope optics, Koehler illumination, contrast-generating mechanisms (bright/dark field, fluorescence, phase contrast, differential interference contrast), and resolution limits. Laboratory topics vary by year, but include single-molecule fluorescence, fluorescence resonance energy transfer, confocal microscopy, two-photon microscopy, microendoscopy, and optical trapping. Limited enrollment. Recommended: basic physics, Biology core or equivalent, and consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS232 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213648
+CREATED:20170211T123936
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170409T145000
-LAST-MODIFIED:20170109T213836
-UID:explore_coursesd0d57b3a-321a-42de-b80e-3fa8c271dabf
-DTSTAMP:20170109T213836
+DTEND;TZID=America/Los_Angeles:20170404T145000
+LAST-MODIFIED:20170211T124022
+UID:explore_courses3fb4a07d-6dda-431f-8d24-287c02c8038b
+DTSTAMP:20170211T124022
 LOCATION:380-380F
 DESCRIPTION:Why hasn't electricity from solar panels, wind turbines, and other environmentally friendly resources taken over our energy landscape? Why is a hybrid car or an all-electric vehicle so expansive? In this seminar we will explore energy technologies and focus on how development in materials science enables a greener future. This seminar takes a hands-on approach; we will make solar cells and batteries and generate our own electricity. We will also include field trips to companies running large-scale energy production and green energy for transportation. Lastly we will explore advanced energy materials research at Stanford and find what still needs to be done in order to achieve a sustainable energy landscape.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI84N ISF
-DTSTART;TZID=America/Los_Angeles:20170409T133000
-CREATED:20170109T213836
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=SU,TU,TH
+DTSTART;TZID=America/Los_Angeles:20170404T133000
+CREATED:20170211T124022
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

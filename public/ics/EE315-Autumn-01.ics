@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses275adaaa-47a1-4a60-8792-19992408b547
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses23baa673-17c2-4c44-bd4f-07d4a11598c3
+DTSTAMP:20170211T124020
 LOCATION:Huang Engineerig Center 18
 DESCRIPTION:Analysis and design of circuits and circuit architectures for signal conditioning and data conversion. Fundamental circuit elements such as operational transconductance amplifiers, active filters, sampling circuits, switched capacitor stages and voltage comparators. Sensor interfaces for micro-electromechanical and biomedical applications. Nyquist and oversampling A/D and D/A converters. Prerequisite: EE 214B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE315 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

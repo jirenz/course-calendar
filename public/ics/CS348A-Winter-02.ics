@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170113T142000
-LAST-MODIFIED:20170109T213829
-UID:explore_coursesd1165047-0968-40bc-80c1-495c885217a0
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124018
+UID:explore_coursesed6937c7-7d17-4119-bfcd-179bf1374578
+DTSTAMP:20170211T124018
 LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:The mathematical tools needed for the geometrical aspects of computer graphics and especially for modeling smooth shapes. Fundamentals: homogeneous coordinates, transformations, and perspective. Theory of parametric and implicit curve and surface models: polar forms, B&eacute;zier arcs and de Casteljau subdivision, continuity constraints, B-splines, tensor product, and triangular patch surfaces. Subdivision surfaces and multi-resolution representations of geometry. Representations of solids and conversions among them. Surface reconstruction from scattered data points. Geometry processing on meshes, including simplification and parameterization. Prerequisite: linear algebra at the level of CME103. Recommended: 248.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS348A LEC
 DTSTART;TZID=America/Los_Angeles:20170113T133000
-CREATED:20170109T213829
+CREATED:20170211T124018
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

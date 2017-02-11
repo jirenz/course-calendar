@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170109T213852
-UID:explore_coursesdbf691c4-2533-4658-af50-64162a18ec0f
-DTSTAMP:20170109T213852
+LAST-MODIFIED:20170211T124032
+UID:explore_courses514609f4-13ae-4129-9ae1-3808eb9316cf
+DTSTAMP:20170211T124032
 LOCATION:Mitch350
 DESCRIPTION:Introduction to seismology including: elasticity and the wave equation, P, S, and surface waves, dispersion, ray theory, reflection and transmission of seismic waves, seismic imaging, large-scale Earth structure, earthquake location, earthquake statistics and forecasting, magnitude scales, seismic source theory.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS130 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170109T213852
+CREATED:20170211T124032
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

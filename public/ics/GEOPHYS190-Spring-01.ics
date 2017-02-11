@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T112000
-LAST-MODIFIED:20170109T213852
-UID:explore_coursesd9b4b7dd-740d-46f6-a7ea-9654407de06d
-DTSTAMP:20170109T213852
+LAST-MODIFIED:20170211T124032
+UID:explore_courses81983dda-67e3-4494-bd21-4a57bc1eb5c2
+DTSTAMP:20170211T124032
 LOCATION:Mitch372
-DESCRIPTION:Introduction to the integration of geophysical field measurements and laboratory measurements for imaging and characterizing the top 100 meters of Earth.  Examples will focus on applications related to water resource management.  The link between the measured geophysical properties of rocks, soils, and sediments, and their material properties. Forward modeling and inversion of geophysical data sets. Each week includes two hours of lectures; plus one two-hour lab that involves acquisition of field or lab data, or computer modeling/analysis of data. Pre-requisite: CME 100 or Math 51, or co-registration in either.
+DESCRIPTION:Introduction to geophysical methods that can be used for imaging and characterizing groundwater systems; modeling and interpretation of the data. This Cardinal Class will be structured around solving a problem currently faced by a community in the Central Valley of California: How to select a site that can be used to recharge the groundwater? Where is there sand and gravel? clay? Where will the water go? We will review data from the area and develop a plan for the acquisition of geophysical data to image sediment texture in the subsurface. Data will be acquired during a weekend field trip to the community. Each week includes two hours of lectures; plus one 1.5-hour lab that involves acquisition of field data, or computer modeling/analysis of datanPre-requisite: CME 100 or Math 51, or co-registration in either.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS190 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170109T213852
+CREATED:20170211T124032
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

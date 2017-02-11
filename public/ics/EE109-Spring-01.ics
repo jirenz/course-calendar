@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T102000
-LAST-MODIFIED:20170109T213832
-UID:explore_coursesf6a77e7a-b33a-4b1a-bce1-80bd59a0e2a7
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses37a34834-8e65-42ff-a938-c6b280c5d2c1
+DTSTAMP:20170211T124020
 LOCATION:Gates100
 DESCRIPTION:The design of integrated digital systems encompassing both customized software and hardware. Software/hardware design tradeoffs. Algorithm design for pipelining and parallelism. System latency and throughput tradeoffs. FPGA optimization techniques. Integration with external systems and smart devices. Firmware configuration and embedded system considerations. Enrollment limited to 25;  preference to graduating seniors. Prerequisites: 108B, and CS 106B or X.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE109 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

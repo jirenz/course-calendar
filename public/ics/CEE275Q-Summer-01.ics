@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170626T192000
+LAST-MODIFIED:20170211T124013
+UID:explore_courses7654ea59-e40a-4640-8ed6-9557532d94fc
+DTSTAMP:20170211T124013
+LOCATION:Y2E2 111
+DESCRIPTION:Beyond the scientific and technological challenges of climate change, there are important psychological factors and barriers to individual attitude and behavior change. Students will analyze and identify barriers to individual action; distinguish between targeting individual behaviors vs. attitudes; understand specific psychological challenges and opportunities that climate change raises; develop strategies to address these factors in contexts where behavior change is sought. Students will propose and develop their own ideas for addressing a specific psychological barrier to individual action in an environmental context.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE275Q LEC
+DTSTART;TZID=America/Los_Angeles:20170626T173000
+CREATED:20170211T124013
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T192000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

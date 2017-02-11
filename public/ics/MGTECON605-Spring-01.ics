@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170109T213841
-UID:explore_courses130efbf3-125f-4d59-8868-8f7e79ca9172
-DTSTAMP:20170109T213841
+LAST-MODIFIED:20170211T124025
+UID:explore_courses8405936c-6808-4bb4-9797-5cc8bc7aa09a
+DTSTAMP:20170211T124025
 LOCATION:
 DESCRIPTION:This course completes the first-year sequence in econometrics. It develops nonparametric, semiparametric and nonlinear parametric models in detail, as well as optimization methods used to estimate nonlinear models. The instructor will discuss identification issues, the statistical properties of these estimators, and how they are used in practice. Depending on student and instructor interest, we will consider advanced topics and applications, including: simulation methods and Bayesian estimators.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MGTECON605 SEM
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170109T213841
+CREATED:20170211T124025
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

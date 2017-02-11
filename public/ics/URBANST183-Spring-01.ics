@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T175000
+LAST-MODIFIED:20170211T124007
+UID:explore_coursese0f14514-ac2b-41b2-a6f4-194ad3950e82
+DTSTAMP:20170211T124007
+LOCATION:Lathrop 299
+DESCRIPTION:This new class offers an exciting variation on the 'individual project' studio format. Students work as a team to propose a single consensus solution to a real-world design challenge. This collaborative studio experience more closely reflects the creative process in the design and planning professions where a group of individuals works together to brainstorm, shape, develop, and illustrate a community design solution. There are a number of benefits to this team-oriented approach: it is a more nurturing environment for students that do not have design backgrounds, it allows for more peer-to-peer learning, and it takes best advantage of varied student skill sets. But perhaps the greatest benefit is that a team of students working together on a common project will be able to develop a more comprehensive solution than any one student working alone. This means that the class &quot;deliverable&quot; at the end of quarter could be detailed enough to be of significant value to a stakeholder or client group from the larger community. This studio class, working under the guidance of an experienced instructor, functions like a design firm in providing professional-grade deliverables to real-world community design &quot;clients'.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:URBANST183 PRA
+DTSTART;TZID=America/Los_Angeles:20170404T150000
+CREATED:20170211T124007
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

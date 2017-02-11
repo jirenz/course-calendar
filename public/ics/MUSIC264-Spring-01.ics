@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170407T175000
-LAST-MODIFIED:20170109T213758
-UID:explore_courses6aa25c56-571c-4367-b6cf-f6279df68c3f
-DTSTAMP:20170109T213758
+LAST-MODIFIED:20170211T123957
+UID:explore_courses797bc738-ed22-4f02-8364-ff2a15ad7485
+DTSTAMP:20170211T123957
 LOCATION:Knoll217
 DESCRIPTION:The course will use data analysis to explore why people engage in music. The course will be one part lab, one part seminar, meeting once a week for two hours. Students will learn to apply correlation analysis to a vast corpus of actual performance data using the latest analytics and query tools, developing insights into what motivates the musical preferences and behaviors of both performers and listeners. A basic proficiency in Java, MatLab, and SQL query language will be developed along the way.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC264 SEM
 DTSTART;TZID=America/Los_Angeles:20170407T163000
-CREATED:20170109T213758
+CREATED:20170211T123957
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

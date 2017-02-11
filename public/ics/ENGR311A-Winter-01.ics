@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170112T172000
-LAST-MODIFIED:20170109T213833
-UID:explore_coursesfbfd7b9b-3b48-4b2c-ac84-deff1da8548c
-DTSTAMP:20170109T213833
+LAST-MODIFIED:20170211T124020
+UID:explore_courses3799f877-4746-49c4-a57c-c215d6f617e8
+DTSTAMP:20170211T124020
 LOCATION:300-300
 DESCRIPTION:Master's and Ph.D. seminar series driven by student interests. Possible topics: time management, career choices, health and family, diversity, professional development, and personal values. Guest speakers from academia and industry, student presentations with an emphasis on group discussion. Graduate students share experiences and examine scientific research in these areas. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR311A SEM
 DTSTART;TZID=America/Los_Angeles:20170112T163000
-CREATED:20170109T213833
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

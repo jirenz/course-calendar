@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20170109T213822
-UID:explore_courses4af6456e-ef0b-4d6a-b3af-76ea6988d9bb
-DTSTAMP:20170109T213822
+LAST-MODIFIED:20170211T124013
+UID:explore_courses29259669-f7d0-40d2-b16b-1c419765f98b
+DTSTAMP:20170211T124013
 LOCATION:SpilkerEng&AppliedSci143
 DESCRIPTION:The fluid mechanics of surface gravity waves in the ocean of relevance to engineers and oceanographers. Topics include irrotational waves, wave dispersion, wave spectra, effects of bathymetry (shoaling), mass transport, effects of viscosity, and mean currents driven by radiation stresses. Prerequisite: CEE 262A or a graduate class in fluid mechanics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE262F LEC
 DTSTART;TZID=America/Los_Angeles:20170403T153000
-CREATED:20170109T213822
+CREATED:20170211T124013
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

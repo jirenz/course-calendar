@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170109T213902
-UID:explore_courses2cf15282-90a8-4433-9eeb-f17dc727832e
-DTSTAMP:20170109T213902
-LOCATION:McMurtry Building rm 360
-DESCRIPTION:An introduction to medical technology design, ideation and prototyping. Students will work in teams on open-ended technology design projects that aim to address areas of under-met clinical need. Lecture topics will also include regulatory affairs, intellectual property, marketing and venture capital. Final deliverables include presentation of needs and solutions to an outside panel of experts in medical technology. This course is open to engineering and non-engineering students of all levels.
+LAST-MODIFIED:20170211T124041
+UID:explore_courses6cc7e2d0-3fac-4c3f-a880-0ae3c5a3d50a
+DTSTAMP:20170211T124041
+LOCATION:
+DESCRIPTION:MED 275B is an introduction to the Biodesign process for health technology innovation. This team-based course emphasizes interdisciplinary collaboration and hands-on learning at the intersection of medicine and technology. Students will work on projects in the space of medical devices, digital health, and healthcare technologies with the assistance of clinical and industry mentors. Applicants from all majors and stages in their education welcome. n nStudents will work in teams to develop solutions to current unmet medical needs, starting with a deep dive into understanding and characterizing important unmet medical needs through disease research, competitive analysis, market research, and stakeholder analysis. In the latter part of the course, students will go through the design cycle and build prototypes to their needs. The course will conclude with a pitch day where students will present and demonstrate their solution to a panel of judges, including prominent academics, industry professionals, and investors. Other topics that will be discussed include FDA regulation of medical technology, intellectual property, value proposition, and business model development. There will be guest speakers from Google X, IDEO, and more.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED275B LEC
 DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170109T213902
+CREATED:20170211T124041
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

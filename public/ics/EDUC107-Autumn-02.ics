@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160928T175000
-LAST-MODIFIED:20170109T213628
-UID:explore_courses702a28da-82ed-4448-bc90-9985fc399f80
-DTSTAMP:20170109T213628
+LAST-MODIFIED:20170211T123930
+UID:explore_coursese4b2814d-8fce-4c02-8b36-13de1bed970e
+DTSTAMP:20170211T123930
 LOCATION:
 DESCRIPTION:In this course, students will use data from the Stanford Education Data Archive (SEDA) to study the patterns, causes, consequences, and remedies of educational inequality in the US. SEDA is based on 200 million test score records, administrative data, and census data from every public school, school district, and community in the US. The course will include lectures, discussion, and small group research projects using SEDA and other data.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC107 DIS
 DTSTART;TZID=America/Los_Angeles:20160928T163000
-CREATED:20170109T213628
+CREATED:20170211T123930
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

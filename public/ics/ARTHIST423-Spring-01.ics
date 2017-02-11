@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T152000
-LAST-MODIFIED:20170109T213654
-UID:explore_courses7076c027-c708-4478-b7cb-40888622b697
-DTSTAMP:20170109T213654
-LOCATION:420-050
+DTEND;TZID=America/Los_Angeles:20170403T132000
+LAST-MODIFIED:20170211T123937
+UID:explore_coursesd36a1014-770c-43f0-988c-6f61e6443a07
+DTSTAMP:20170211T123937
+LOCATION:McMurtry Building rm 370
 DESCRIPTION:This seminar deals with the materials that artists have chosen in art and construction from antiquity to the early modern era. The particular focus is upon pre-modern perceptions of the inherent properties of materials, from amber and ivory to marble and granite, as well as the diverse ways in which societies have associated particular substances with social and cultural values. Particular emphasis is laid upon the architectural use of materials.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTHIST423 SEM
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213654
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170403T113000
+CREATED:20170211T123937
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,44 +23,44 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160929T115000
-LAST-MODIFIED:20170109T213723
-UID:explore_coursesba25dc4c-1f64-49f1-a9d6-b3da305c7e7a
-DTSTAMP:20170109T213723
-LOCATION:160-325
-DESCRIPTION:(Graduate students register for COMM 231.) The development of professionalism among American journalists, emphasizing the emergence of objectivity as a professional and the epistemological norm. An applied ethics course where questions of power, freedom, and truth autonomy are treated normatively so as to foster critical thinking about the origins and implications of commonly accepted standards of responsible journalism.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:COMM231 LEC
-DTSTART;TZID=America/Los_Angeles:20160929T103000
-CREATED:20170109T213723
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T115000
-LAST-MODIFIED:20170109T213723
-UID:explore_coursesbc12538e-8252-47cf-b53b-385159021fa8
-DTSTAMP:20170109T213723
+LAST-MODIFIED:20170211T123942
+UID:explore_courses3816f6a4-b57c-4481-a079-a139b6391d61
+DTSTAMP:20170211T123942
 LOCATION:200-217
 DESCRIPTION:(Graduate students register for COMM 231.) The development of professionalism among American journalists, emphasizing the emergence of objectivity as a professional and the epistemological norm. An applied ethics course where questions of power, freedom, and truth autonomy are treated normatively so as to foster critical thinking about the origins and implications of commonly accepted standards of responsible journalism.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMM231 LEC
 DTSTART;TZID=America/Los_Angeles:20160929T103000
-CREATED:20170109T213723
+CREATED:20170211T123942
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160929T115000
+LAST-MODIFIED:20170211T123942
+UID:explore_courses8bb92de9-f582-419c-a809-3e93f33ce3ae
+DTSTAMP:20170211T123942
+LOCATION:160-325
+DESCRIPTION:(Graduate students register for COMM 231.) The development of professionalism among American journalists, emphasizing the emergence of objectivity as a professional and the epistemological norm. An applied ethics course where questions of power, freedom, and truth autonomy are treated normatively so as to foster critical thinking about the origins and implications of commonly accepted standards of responsible journalism.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:COMM231 LEC
+DTSTART;TZID=America/Los_Angeles:20160929T103000
+CREATED:20170211T123942
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TH
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170109T213723
-UID:explore_coursesdc69f54f-a706-4e38-9898-18990248f29a
-DTSTAMP:20170109T213723
+LAST-MODIFIED:20170211T123942
+UID:explore_coursese539e52f-6f3c-4735-8a29-98df2517df65
+DTSTAMP:20170211T123942
 LOCATION:School of Education 128
 DESCRIPTION:(Graduate students register for COMM 231.) The development of professionalism among American journalists, emphasizing the emergence of objectivity as a professional and the epistemological norm. An applied ethics course where questions of power, freedom, and truth autonomy are treated normatively so as to foster critical thinking about the origins and implications of commonly accepted standards of responsible journalism.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMM231 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170109T213723
+CREATED:20170211T123942
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

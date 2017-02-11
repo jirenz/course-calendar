@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170109T213830
-UID:explore_courses29e62b0f-7af6-43c5-b0a2-74fab7be8c09
-DTSTAMP:20170109T213830
+LAST-MODIFIED:20170211T124018
+UID:explore_coursesb2f38b99-f47b-4f59-8061-283723b369ba
+DTSTAMP:20170211T124018
 LOCATION:300-303
 DESCRIPTION:Topic changes each quarter. Recent topics: computational photography, data visualization, character animation, virtual worlds, graphics architectures, advanced rendering.  See http://graphics.stanford.edu/courses for offerings and prerequisites. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS448H LEC
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170109T213830
+CREATED:20170211T124018
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

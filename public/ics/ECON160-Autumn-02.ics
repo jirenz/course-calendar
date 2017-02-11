@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160930T112000
-LAST-MODIFIED:20170109T213737
-UID:explore_coursesaec4591b-2dfe-4d31-bcbb-29823e31c9a2
-DTSTAMP:20170109T213737
+LAST-MODIFIED:20170211T123946
+UID:explore_coursesde1af1ad-9fc0-436d-bd8e-f4367f0cb4bb
+DTSTAMP:20170211T123946
 LOCATION:School of Education 36
 DESCRIPTION:Introduction to game theory and its applications to economics. Topics: strategic and extensive form games, dominant strategies, Nash equilibrium, subgame-perfect equilibrium, and Bayesian equilibrium. The theory is applied to repeated games, voting, auctions, and bargaining with examples from economics and political science. Prerequisites: Working knowledge of calculus and basic probability theory.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON160 DIS
 DTSTART;TZID=America/Los_Angeles:20160930T103000
-CREATED:20170109T213737
+CREATED:20170211T123946
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

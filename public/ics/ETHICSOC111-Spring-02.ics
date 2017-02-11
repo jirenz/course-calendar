@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T152000
-LAST-MODIFIED:20170109T213741
-UID:explore_courses7a665164-5f10-447b-8b02-bdfca3f1a096
-DTSTAMP:20170109T213741
-LOCATION:School of Education 229
-DESCRIPTION:This course will examine the responsibilities and challenges for those who occupy leadership roles in professional, business, non-profit, and academic settings. Topics will include: characteristics and styles of leadership, organizational dynamics, forms of influence, decision-making, diversity, and ethical responsibilities. Class sessions will include visitors who have occupied leadership roles. Students will also have the opportunity to participate in a placement for 1 additional unit through the Haas Center with leaders of local non-profit organizations, foundations, and government offices. Through these experiential placements, students will see the responsibilities and challenges of leadership firsthand, across a variety of sectors and organizational settings. Placements are limited, and interested students should indicate their interest when applying. Requirements will include class participation and short written weekly reflection papers (2-3 pages) on the assigned readings. Students should submit a resume and a description of no more than one page of relevant leadership experiences, interests, and motivations for taking the course. Application link here: http://web.stanford.edu/~rdeb/LeadershipChallengesApplication.fb
+DTEND;TZID=America/Los_Angeles:20170407T102000
+LAST-MODIFIED:20170211T123947
+UID:explore_courses22a2c982-1421-4462-8242-fa796725d8ff
+DTSTAMP:20170211T123947
+LOCATION:160-127
+DESCRIPTION:This course will examine the responsibilities and challenges for those who occupy leadership roles in professional, business, non-profit, and academic settings. Topics will include characteristics and styles of leadership, organizational dynamics, forms of influence, decision making, diversity, social change, and ethical responsibilities. Class sessions will include visitors who have occupied prominent leadership roles. Readings will include excerpts of relevant research, problems, exercises, and case studies. Requirements will include class participation and short written weekly reflection papers (2 to 3 pages) on the assigned readings. The class will be capped at 50 students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ETHICSOC111 DIS
-DTSTART;TZID=America/Los_Angeles:20170405T143000
-CREATED:20170109T213741
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170407T093000
+CREATED:20170211T123947
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

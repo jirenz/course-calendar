@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170109T213859
-UID:explore_coursesb31d49ca-acc6-4ea3-85f0-fc0d2c76a343
-DTSTAMP:20170109T213859
+LAST-MODIFIED:20170211T124038
+UID:explore_courses582d9ac2-bd8d-4542-8db2-bc3c5f44d6b8
+DTSTAMP:20170211T124038
 LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:Open to medical and graduate students; required of medical students in the Clinical Research Scholarly Concentration. Tools to evaluate medical literature. Topics include random variables, expectation, variance, probability distributions, the central limit theorem, sampling theory, hypothesis testing, confidence intervals, correlation, regression, analysis of variance, and survival analysis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP258 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213859
+CREATED:20170211T124038
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

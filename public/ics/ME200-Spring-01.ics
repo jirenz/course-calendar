@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T162000
-LAST-MODIFIED:20170109T213838
-UID:explore_courses51e5db41-4584-41ad-b648-93eab8e7e4e7
-DTSTAMP:20170109T213838
-LOCATION:Green Earth Sciences131
+DTEND;TZID=America/Los_Angeles:20170405T192000
+LAST-MODIFIED:20170211T124023
+UID:explore_coursesed6359e9-f09e-44f8-9673-c2a874839e1f
+DTSTAMP:20170211T124023
+LOCATION:
 DESCRIPTION:This seminar is for students to learn how to assess the impact of historical importance through the lens of the automobile. Students will participate in discussions about measuring and judging historical importance from a number of perspectives - engineering, aesthetic, historical, etc. They will then decide on criteria and use these to be a part of a judging team at the Pebble Beach Concours d'Elegance. The Pebble Beach event is the leading concours for automobiles in the United States. Using the criteria established by the students, the judging team, including the students, will decide the recipient of the Stanford/Revs Automotive History Trophy for 2017 and have the opportunity to present it on the lawn at Pebble Beach Lodge in August. Must apply using this application:&nbsp;http://revs.stanford.edu/course/703. Must attend first class to be considered for acceptance, no exceptions.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME200 SEM
-DTSTART;TZID=America/Los_Angeles:20170405T150000
-CREATED:20170109T213838
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170405T163000
+CREATED:20170211T124023
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T192000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

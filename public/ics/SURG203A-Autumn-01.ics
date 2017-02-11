@@ -22,45 +22,45 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160830T152000
-LAST-MODIFIED:20170109T213919
-UID:explore_courses18fd9ea3-cfb0-4a4c-83c2-0b9be77873f3
-DTSTAMP:20170109T213919
-LOCATION:Li Ka Shing Center, room 130
-DESCRIPTION:Introduction to human structure and function presented from a clinical perspective. Includes clinical scenarios, frequently used medical imaging techniques, and interventional procedures to illustrate the underlying anatomy.  Students are required to attend lectures and engage in dissection of the human body in the anatomy laboratory.  Surgery 203A presents structures of the thorax, abdomen, pelvis, back, upper and lower limbs.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:SURG203A LEC
-DTSTART;TZID=America/Los_Angeles:20160830T133000
-CREATED:20170109T213919
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=TU,TH
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160830T172000
-LAST-MODIFIED:20170109T213919
-UID:explore_courses13355f32-025f-4032-8835-6c7372767487
-DTSTAMP:20170109T213919
-LOCATION:CCSR0001
-DESCRIPTION:Introduction to human structure and function presented from a clinical perspective. Includes clinical scenarios, frequently used medical imaging techniques, and interventional procedures to illustrate the underlying anatomy.  Students are required to attend lectures and engage in dissection of the human body in the anatomy laboratory.  Surgery 203A presents structures of the thorax, abdomen, pelvis, back, upper and lower limbs.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:SURG203A LEC
-DTSTART;TZID=America/Los_Angeles:20160830T153000
-CREATED:20170109T213919
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=TU,TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160901T122000
-LAST-MODIFIED:20170109T213919
-UID:explore_courses59336d3e-5de4-4ac7-8b06-b5b60f25f9f3
-DTSTAMP:20170109T213919
+LAST-MODIFIED:20170211T124052
+UID:explore_coursesb7e6df42-e757-47aa-ae1a-e1999ac576e2
+DTSTAMP:20170211T124052
 LOCATION:Li Ka Shing Center, room 130
 DESCRIPTION:Introduction to human structure and function presented from a clinical perspective. Includes clinical scenarios, frequently used medical imaging techniques, and interventional procedures to illustrate the underlying anatomy.  Students are required to attend lectures and engage in dissection of the human body in the anatomy laboratory.  Surgery 203A presents structures of the thorax, abdomen, pelvis, back, upper and lower limbs.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SURG203A LEC
 DTSTART;TZID=America/Los_Angeles:20160901T113000
-CREATED:20170109T213919
+CREATED:20170211T124052
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160830T152000
+LAST-MODIFIED:20170211T124052
+UID:explore_coursesbafea241-7176-4125-980a-a4453d20d2ee
+DTSTAMP:20170211T124052
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:Introduction to human structure and function presented from a clinical perspective. Includes clinical scenarios, frequently used medical imaging techniques, and interventional procedures to illustrate the underlying anatomy.  Students are required to attend lectures and engage in dissection of the human body in the anatomy laboratory.  Surgery 203A presents structures of the thorax, abdomen, pelvis, back, upper and lower limbs.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SURG203A LEC
+DTSTART;TZID=America/Los_Angeles:20160830T133000
+CREATED:20170211T124052
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160830T172000
+LAST-MODIFIED:20170211T124052
+UID:explore_coursesd8b419f1-0e6e-48c5-9835-ea43b14f4fe2
+DTSTAMP:20170211T124052
+LOCATION:CCSR0001
+DESCRIPTION:Introduction to human structure and function presented from a clinical perspective. Includes clinical scenarios, frequently used medical imaging techniques, and interventional procedures to illustrate the underlying anatomy.  Students are required to attend lectures and engage in dissection of the human body in the anatomy laboratory.  Surgery 203A presents structures of the thorax, abdomen, pelvis, back, upper and lower limbs.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SURG203A LEC
+DTSTART;TZID=America/Los_Angeles:20160830T153000
+CREATED:20170211T124052
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

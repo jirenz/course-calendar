@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170404T132000
+LAST-MODIFIED:20170211T123936
+UID:explore_coursese938e1db-938a-483c-92dc-2e9230ae9252
+DTSTAMP:20170211T123936
+LOCATION:School of Education 230
+DESCRIPTION:(Formerly AMELANG 30). Arabic calligraphy stipulates no artistic skill for one to appreciate it and is the supreme art form of the Islamic world. Other Islamic arts (architecture, metal work, ceramics, glass, and textiles) draw on calligraphy as their principal source of embellishment. Interactive lecture-workshop sketches its development and illustrates the forms of Arabic calligraphy in use today. Prerequisite: knowledge of Arabic script and Arabic writing.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARABLANG10 LNG
+DTSTART;TZID=America/Los_Angeles:20170404T120000
+CREATED:20170211T123936
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

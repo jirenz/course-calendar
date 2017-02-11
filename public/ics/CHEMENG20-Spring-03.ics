@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170407T172000
-LAST-MODIFIED:20170109T213820
-UID:explore_courses01599b96-7a60-4ccb-9bb3-422efa9bb30d
-DTSTAMP:20170109T213820
-LOCATION:Herrin T175
+LAST-MODIFIED:20170211T124012
+UID:explore_courses03d0d113-c35b-4de2-bd10-68ff358c148d
+DTSTAMP:20170211T124012
+LOCATION:Shriram Ctr BioChemE 102
 DESCRIPTION:Overview of chemical engineering through discussion and engineering analysis of physical and chemical processes. Topics: overall staged separations, material and energy balances, concepts of rate processes, energy and mass transport, and kinetics of chemical reactions. Applications of these concepts to areas of current technological importance: biotechnology, energy, production of chemicals, materials processing, and purification. Prerequisite: CHEM 31.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG20 DIS
-DTSTART;TZID=America/Los_Angeles:20170407T163000
-CREATED:20170109T213820
+DTSTART;TZID=America/Los_Angeles:20170407T153000
+CREATED:20170211T124012
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

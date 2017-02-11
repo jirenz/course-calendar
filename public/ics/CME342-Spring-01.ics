@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170109T213823
-UID:explore_coursesabb811b1-fdda-4b99-a638-ebd86211bdf0
-DTSTAMP:20170109T213823
+LAST-MODIFIED:20170211T124014
+UID:explore_courses077ba522-6dbe-4d87-acde-6492a41f3ef8
+DTSTAMP:20170211T124014
 LOCATION:Herrin T195
 DESCRIPTION:Emphasis is on techniques for obtaining maximum parallelism in numerical algorithms, especially those occurring when solving matrix problems, partial differential equations, and the subsequent mapping onto the computer. Implementation issues on parallel computers. Topics: parallel architecture, programming models (MPI, GPU Computing with CUDA &iquest; quick review), matrix computations, FFT, fast multiple methods, domain decomposition, graph partitioning, discrete algorithms. Prerequisites: 302 or 200 (ME 300A), 213 or equivalent, or consent of instructor. Recommended: differential equations and knowledge of a high-level programming language such as C or C++ (F90/95 also allowable).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME342 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213823
+CREATED:20170211T124014
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

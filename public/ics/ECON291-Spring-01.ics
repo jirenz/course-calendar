@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20170109T213737
-UID:explore_courses9d47806c-3906-4a4e-aed1-148b34e1f873
-DTSTAMP:20170109T213737
+LAST-MODIFIED:20170211T123946
+UID:explore_courses79aa6692-b5c7-492d-b280-f1d7af648ae9
+DTSTAMP:20170211T123946
 LOCATION:Econ 206
 DESCRIPTION:Synthesis of research on social and economic networks by sociologists, economists, computer scientists, physicists, and mathematicians, with an emphasis on modeling.  Includes methods for describing and measuring networks, empirical observations about network structure, models of random and strategic network formation, as well as analyses of contagion, diffusion, learning, peer influence, games played on networks, and networked markets.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON291 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20170109T213737
+CREATED:20170211T123946
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170109T213851
-UID:explore_courses177fd52f-107c-4e2f-ab8c-fd596aa48ecc
-DTSTAMP:20170109T213851
+LAST-MODIFIED:20170211T124031
+UID:explore_courses5fab16e5-98d8-4d89-a9ac-ee8f4cdf0f65
+DTSTAMP:20170211T124031
 LOCATION:380-380F
 DESCRIPTION:Introduction of fundamental geostatistical tools for modeling spatial variability and uncertainty, and mapping of environmental attributes.  Additional topics include sampling design and incorporation of different types of information (continuous, categorical) in prediction.  Assignments consist of small problems to familiarize students with theoretical concepts, and applications dealing with the analysis and interpretation of various data sets (soil, water pollution, atmospheric constituents, remote sensing) primarily using Matlab.  No prior programming experience is required.  Open to graduates.  Open to undergraduates with consent from the instructor.  3-credit option includes midterm/final or student-developed project.  4-credit option requires both.  Prerequisite: College-level introductory statistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS214 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170109T213851
+CREATED:20170211T124031
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

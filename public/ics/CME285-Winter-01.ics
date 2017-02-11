@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20170109T213823
-UID:explore_courses8d2c6909-161e-4ef5-8cb6-62ecaed1854e
-DTSTAMP:20170109T213823
+LAST-MODIFIED:20170211T124014
+UID:explore_coursesecfa951f-588d-4a34-b632-99eb79ef5d8f
+DTSTAMP:20170211T124014
 LOCATION:Thornt209
 DESCRIPTION:This course introduces computational modeling methods for cardiovascular blood flow and physiology.  Topics in this course include analytical and computational methods for solutions of flow in deformable vessels, one-dimensional equations of blood flow, cardiovascular anatomy, lumped parameter models, vascular trees, scaling laws, biomechanics of the circulatory system, and 3D patient specific modeling with finite elements; course will provide an overview of the diagnosis and treatment of adult and congenital cardiovascular diseases and review recent research in the literature in a journal club format.  Students will use SimVascular software to do clinically-oriented projects in patient specific blood flow simulations.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME285 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T143000
-CREATED:20170109T213823
+CREATED:20170211T124014
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

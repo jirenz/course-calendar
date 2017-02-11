@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T092000
-LAST-MODIFIED:20170109T213743
-UID:explore_courses7cb37d10-44e7-4185-92fd-ed5862678906
-DTSTAMP:20170109T213743
+LAST-MODIFIED:20170211T123949
+UID:explore_courses289db1df-59a2-4e28-9cdb-1d51480c436f
+DTSTAMP:20170211T123949
 LOCATION:200-201
 DESCRIPTION:Completes first-year language sequence in two rather than three quarters. Recommended for students with previous knowledge of French who place into FRENLANG 1A on the placement test, or those who are familiar with another Romance language. FRENLANG 2A fulfills the University foreign language requirement. Prerequisite: Placement Test.or consent of coordinator.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FRENLANG1A LNG
 DTSTART;TZID=America/Los_Angeles:20160926T083000
-CREATED:20170109T213743
+CREATED:20170211T123949
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T092000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

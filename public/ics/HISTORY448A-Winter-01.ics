@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T175000
-LAST-MODIFIED:20170109T213749
-UID:explore_courses8a8ccf82-1582-457d-ba34-8118fc4c26ab
-DTSTAMP:20170109T213749
-LOCATION:160-321
+DTEND;TZID=America/Los_Angeles:20170112T183000
+LAST-MODIFIED:20170211T123951
+UID:explore_courses9e94b1ef-96a0-4eaa-82b1-87a0540d2700
+DTSTAMP:20170211T123951
+LOCATION:200-201
 DESCRIPTION:Colonialism set in motion profound transformations of African societies.  These transformations did not occur immediately following military conquest, nor did they occur uniformly throughout the continent.  This research seminar will focus directly on the encounter between the colonial state and African societies.  The seminar will examine problems of social transformation, the role of the colonial state, and the actions of Africans.  Following four weeks of collloquim style discussion, students then embark on independent research on the encounter between one colonial state and its constituent African societies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY448A SEM
-DTSTART;TZID=America/Los_Angeles:20170112T150000
-CREATED:20170109T213749
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170112T163000
+CREATED:20170211T123951
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T183000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

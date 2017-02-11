@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T122000
-LAST-MODIFIED:20170109T213755
-UID:explore_coursesfb29f303-8d7e-4975-9d59-cf80acf4af98
-DTSTAMP:20170109T213755
+LAST-MODIFIED:20170211T123955
+UID:explore_coursesf4898f4e-3e10-435f-9f90-ad2950451192
+DTSTAMP:20170211T123955
 LOCATION:Gates B12
 DESCRIPTION:Ordinary differential equations and initial value problems, systems of linear differential equations with constant coefficients, applications of second-order equations to oscillations, matrix exponentials, Laplace transforms, stability of non-linear systems and phase plane analysis, numerical methods. Prerequisite: 51 or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH53 DIS
 DTSTART;TZID=America/Los_Angeles:20160927T113000
-CREATED:20170109T213755
+CREATED:20170211T123955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

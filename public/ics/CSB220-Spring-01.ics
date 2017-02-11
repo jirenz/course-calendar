@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170406T155000
+LAST-MODIFIED:20170211T124036
+UID:explore_coursese121f2b2-32d8-43ef-8602-709d5b5c154a
+DTSTAMP:20170211T124036
+LOCATION:
+DESCRIPTION:The principles of organic and physical chemistry applied to biomolecules. The goal is a working knowledge of chemical principles that underlie biological processes. Chemical tools and techniques used to study and manipulate biological systems may be used to illustrate these principles. Prerequisites: organic chemistry and biochemistry, or consent of instructor.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CSB220 LEC
+DTSTART;TZID=America/Los_Angeles:20170406T143000
+CREATED:20170211T124036
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170630T155000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170619T142000
-LAST-MODIFIED:20170109T213856
-UID:explore_coursesc8539534-c5b9-4d59-be43-d338b7535e6f
-DTSTAMP:20170109T213856
-LOCATION:CCSR 4205
+LAST-MODIFIED:20170211T124036
+UID:explore_coursesec4d0f7c-ed25-4b4e-8edf-b259967dd268
+DTSTAMP:20170211T124036
+LOCATION:
 DESCRIPTION:The principles of organic and physical chemistry applied to biomolecules. The goal is a working knowledge of chemical principles that underlie biological processes. Chemical tools and techniques used to study and manipulate biological systems may be used to illustrate these principles. Prerequisites: organic chemistry and biochemistry, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CSB220 LEC
 DTSTART;TZID=America/Los_Angeles:20170619T133000
-CREATED:20170109T213856
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170630T142000;BYDAY=MO,WE,FR
+CREATED:20170211T124036
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170630T142000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

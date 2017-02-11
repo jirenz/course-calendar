@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses1229b637-f2e4-4d1f-b45d-9b6d0850eec1
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses63ad3352-5ead-4fff-b23f-4c7f7024cb04
+DTSTAMP:20170211T124020
 LOCATION:Shriram Ctr BioChemE 368
 DESCRIPTION:Electricity and magnetism and its essential role in modern electrical engineering devices and systems, such as sensors, displays, DVD players, and optical communication systems. The topics that will be covered include electrostatics, magnetostatics, Maxwell's equations, one-dimensional wave equation, electromagnetic waves, transmission lines, and one-dimensional resonators. Pre-requisites: MATH 42 or MATH 51 or CME 100 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE42 LAB
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170109T213724
-UID:explore_courses070f9b97-4453-4797-9b5a-61b7900f0fbd
-DTSTAMP:20170109T213724
+LAST-MODIFIED:20170211T123943
+UID:explore_coursesdfdea1c0-4b2d-4df9-bfe3-8b7743f3126f
+DTSTAMP:20170211T123943
 LOCATION:160-B36
 DESCRIPTION:How can we study computer code as literature? What can poetry teach us about programming and vice versa? These types of questions drive this course, which has two different tracks: one for computer science students and one for literature students. The focus is on the development of a shared conceptual middle ground at which these two tracks can meet. Topics include critical code studies, code poetry, and cognition. Authors include Elizabeth Bishop, Ada Lovelace, Hayden Carruth, and Donald Knuth.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPLIT232 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170109T213724
+CREATED:20170211T123943
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

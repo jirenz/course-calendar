@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170111T152000
-LAST-MODIFIED:20170109T213900
-UID:explore_courses20179a1b-c117-4a4f-8922-14688763b92e
-DTSTAMP:20170109T213900
-LOCATION:
+LAST-MODIFIED:20170211T124039
+UID:explore_courses1b2782d8-75c6-411e-9340-d93ead45644c
+DTSTAMP:20170211T124039
+LOCATION:Beckman Center B402
 DESCRIPTION:Introduction to computational tools for analyses of immunological data sets, including but not limited to single-cell data such as that from flow cytometry of CyTOF, as well as genomic anlayses.  Students become familiar with major web-based databases and analysis suites for immunological and genomic data; gain a working knowledge of the major software/algorithms for working with major data types, and be able to apply at least one computational tool in these areas to analyze a public data set.  Students taking the course for 2 units will complete a computational analysis project and present it to the class.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:IMMUNOL206 LEC
 DTSTART;TZID=America/Los_Angeles:20170111T133000
-CREATED:20170109T213900
+CREATED:20170211T124039
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

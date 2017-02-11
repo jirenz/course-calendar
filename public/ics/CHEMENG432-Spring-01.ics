@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T122000
-LAST-MODIFIED:20170109T213820
-UID:explore_courseseca39075-86e5-4c3b-b035-4a3a616f1ff5
-DTSTAMP:20170109T213820
-LOCATION:
+LAST-MODIFIED:20170211T124012
+UID:explore_courses1ea8bd1e-7a42-4df5-993f-ada8f268d5dd
+DTSTAMP:20170211T124012
+LOCATION:Gates B3
 DESCRIPTION:Electrochemistry is playing an increasingly important role in renewable energy. This course aims to cover the fundamentals of electrochemistry, and then build on that knowledge to cover applications of electrochemistry in energy conversion. Topics to be covered include fuel cells, solar water-splitting, CO2 conversion to fuels and chemicals, batteries, redox flow cells, and supercapacitors. Prerequisites: CHEM 31AB or 31 X, CHEM 33, CHEM 171, CHEM 175 or CHEMENG 170, or equivalents. Recommended: CHEM 173.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG432 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20170109T213820
+CREATED:20170211T124012
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

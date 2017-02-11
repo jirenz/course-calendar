@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T175000
-LAST-MODIFIED:20170109T213855
-UID:explore_coursesab3dd9af-c64f-4174-99f5-51b2587b3d0f
-DTSTAMP:20170109T213855
+LAST-MODIFIED:20170211T124034
+UID:explore_coursesdba9261b-08a3-45dd-90cd-07573b4ba8a2
+DTSTAMP:20170211T124034
 LOCATION:Gates B1
 DESCRIPTION:Topics: introduction to bioinformatics and computational biology, algorithms for alignment of biological sequences and structures, computing with strings, phylogenetic tree construction, hidden Markov models, basic structural computations on proteins, protein structure prediction, protein threading techniques, homology modeling, molecular dynamics and energy minimization, statistical analysis of 3D biological data, integration of data sources, knowledge representation and controlled terminologies for molecular biology, microarray analysis, machine learning (clustering and classification), and natural language text processing. Prerequisite: CS 106B; recommended: CS161; consent of instructor for 3 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOMEDIN214 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170109T213855
+CREATED:20170211T124034
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

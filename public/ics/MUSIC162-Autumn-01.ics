@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T220000
-LAST-MODIFIED:20170109T213758
-UID:explore_courses2b480f91-62e7-4f86-84c0-ac8c7a73ab4c
-DTSTAMP:20170109T213758
-LOCATION:
-DESCRIPTION:180- to 200-voice choral ensemble, performing major choral masterworks with orchestra. One concert per quarter. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure. By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:MUSIC162 PRC
-DTSTART;TZID=America/Los_Angeles:20160926T193000
-CREATED:20170109T213758
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T220000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160928T183000
-LAST-MODIFIED:20170109T213758
-UID:explore_coursesd6df8732-4225-4c8f-87ca-b05cc47b02ed
-DTSTAMP:20170109T213758
+LAST-MODIFIED:20170211T123957
+UID:explore_courses9513c978-868d-4080-949e-f0cc6b9b31a7
+DTSTAMP:20170211T123957
 LOCATION:
 DESCRIPTION:180- to 200-voice choral ensemble, performing major choral masterworks with orchestra. One concert per quarter. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure. By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC162 PRC
 DTSTART;TZID=America/Los_Angeles:20160928T173000
-CREATED:20170109T213758
+CREATED:20170211T123957
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T183000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160926T220000
+LAST-MODIFIED:20170211T123957
+UID:explore_coursesb853998c-01c2-43bd-a547-f9e069568ec4
+DTSTAMP:20170211T123957
+LOCATION:
+DESCRIPTION:180- to 200-voice choral ensemble, performing major choral masterworks with orchestra. One concert per quarter. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure. By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC162 PRC
+DTSTART;TZID=America/Los_Angeles:20160926T193000
+CREATED:20170211T123957
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T220000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

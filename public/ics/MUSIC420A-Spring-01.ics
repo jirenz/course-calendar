@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T165000
-LAST-MODIFIED:20170109T213758
-UID:explore_courses27f395fa-f005-450f-b889-7e95f0199f98
-DTSTAMP:20170109T213758
+LAST-MODIFIED:20170211T123957
+UID:explore_courses5040778c-16df-4990-9a60-e67466b587ed
+DTSTAMP:20170211T123957
 LOCATION:
 DESCRIPTION:Computational methods in musical sound synthesis and digital audio effects based on acoustic physical models. Topics: mass-spring-dashpot systems; electric circuit analogies; finite difference schemes; state-space models and the modal representation; impedance; ports; acoustic simulation using delay lines, digital filters, and nonlinear elements; interpolation and sampling-rate conversion; delay effects; wave digital filters; real-time computational models for musical instruments and effects, both acoustic and electronic. See http://ccrma.stanford.edu/courses/420/. Prerequisites: MUSIC 320A and MUSIC 320B or equivalent; PHYSICS 21 or equivalent course applying Newton's laws of motion; and CS 106B or equivalent programming in C and C++.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC420A LEC
 DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170109T213758
+CREATED:20170211T123957
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T165000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

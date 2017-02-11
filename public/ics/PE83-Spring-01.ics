@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T152000
+LAST-MODIFIED:20170211T124024
+UID:explore_courses97205de7-238c-44fc-90cb-3fca8056d79d
+DTSTAMP:20170211T124024
+LOCATION:ACSR Studio
+DESCRIPTION:This course will focus on techniques, training methods, history, and culture of Asian martial arts. Throughout the quarter, students will learn proper warm-ups, fundamental techniques, basic application, and conditioning. This course will focus on the development of (1) motor Martial Art skills for physical fitness and positive exercise experience, (2) knowledge of Martial Arts and basic components of health-related physical fitness, and (3) understanding of benefits of Martial Arts toward a positive attitude toward wellness and physical activity which will facilitate an active and healthy lifestyle.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PE83 ACT
+DTSTART;TZID=America/Los_Angeles:20170403T143000
+CREATED:20170211T124024
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

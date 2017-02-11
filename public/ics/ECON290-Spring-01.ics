@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170109T213737
-UID:explore_courses91f433dd-751b-4c29-9d63-3881631f1d6b
-DTSTAMP:20170109T213737
+LAST-MODIFIED:20170211T123946
+UID:explore_coursesb9f48855-be97-4d97-a3c8-d51d9f4f7319
+DTSTAMP:20170211T123946
 LOCATION:Econ 218
 DESCRIPTION:Students and faculty review and present recent research papers on basic theories and economic applications of decision theory, game theory and mechanism design. Applications include market design and analyses of incentives and strategic behavior in markets, and selected topics such as auctions, bargaining, contracting, and computation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON290 CAS
 DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170109T213737
+CREATED:20170211T123946
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

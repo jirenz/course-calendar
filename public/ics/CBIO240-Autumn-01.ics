@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170109T213856
-UID:explore_courses160c4a2e-b73f-4044-93c4-d88a763a953e
-DTSTAMP:20170109T213856
-LOCATION:Li Ka Shing Center, room 306
-DESCRIPTION:Required for first-year Cancer Biology graduate students. Focus is on fundamental concepts in the molecular biology of cancer, including oncogenes, tumor suppressor genes, and cellular signaling pathways. Emphasis will be given to seminal discoveries and key experiments in the field of cancer molecular biology.  Course consists of two 1 hour lectures and one 2 hour discussion per week.  Enrollment of undergraduates requires consent of the course director.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:CBIO240 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T083000
-CREATED:20170109T213856
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160930T152000
-LAST-MODIFIED:20170109T213856
-UID:explore_courses395c2eca-052b-4b7d-b78c-73cb45562f06
-DTSTAMP:20170109T213856
+LAST-MODIFIED:20170211T124035
+UID:explore_courses660f2ca4-2ba6-4958-b517-2ec156220ea0
+DTSTAMP:20170211T124035
 LOCATION:Alway Building, Room M114
 DESCRIPTION:Required for first-year Cancer Biology graduate students. Focus is on fundamental concepts in the molecular biology of cancer, including oncogenes, tumor suppressor genes, and cellular signaling pathways. Emphasis will be given to seminal discoveries and key experiments in the field of cancer molecular biology.  Course consists of two 1 hour lectures and one 2 hour discussion per week.  Enrollment of undergraduates requires consent of the course director.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CBIO240 LEC
 DTSTART;TZID=America/Los_Angeles:20160930T133000
-CREATED:20170109T213856
+CREATED:20170211T124035
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20160927T102000
+LAST-MODIFIED:20170211T124035
+UID:explore_courses7139aced-6175-491a-8640-aa77afeea5df
+DTSTAMP:20170211T124035
+LOCATION:Li Ka Shing Center, room 306
+DESCRIPTION:Required for first-year Cancer Biology graduate students. Focus is on fundamental concepts in the molecular biology of cancer, including oncogenes, tumor suppressor genes, and cellular signaling pathways. Emphasis will be given to seminal discoveries and key experiments in the field of cancer molecular biology.  Course consists of two 1 hour lectures and one 2 hour discussion per week.  Enrollment of undergraduates requires consent of the course director.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CBIO240 LEC
+DTSTART;TZID=America/Los_Angeles:20160927T083000
+CREATED:20170211T124035
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

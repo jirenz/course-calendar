@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T162000
+LAST-MODIFIED:20170211T124013
+UID:explore_courses84b9d77a-b802-467d-9272-827734a0a33e
+DTSTAMP:20170211T124013
+LOCATION:260-113
+DESCRIPTION:This class explores innovative methods for designing, developing, and financing high performance, low energy buildings.  Students will learn best practices to reduce building energy buildings.  Students will learn best practices to reduce building energy use and integrate solar PV generation in pursuit of commercial Net Zero Energy buildings.  Lectures include presentations and panels featuring leading practitioners and researchers in the field.  Optional site visits to local Net Zero Energy and LEED buildings provide context to support lectures.  CEE 176A and CEE 156/256 or similar courses are recommended prerequisites but not required.  All students are expected to participate in a group-based, term project focused on the design and development of a Net Zero Energy building.  Students taking the course for two units will not be required to complete in-class assignments for individual homework assignments.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE226E LEC
+DTSTART;TZID=America/Los_Angeles:20170403T153000
+CREATED:20170211T124013
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170405T172000
-LAST-MODIFIED:20170109T213821
-UID:explore_coursesaf580b76-d4ea-4a3e-90e8-2eb1d61c1feb
-DTSTAMP:20170109T213821
-LOCATION:Thornt110
-DESCRIPTION:Innovative methods and systems for the integrated design and evaluation of energy efficient buildings. Guest practitioners and researchers in energy efficient buildings. Student initiated final project.  Prerequisites: CEE 156 or CEE 256. All students are expected to participate in the group project assignments. Students taking the course for two units will not be required to complete in-class assignments or individual homework assignments.
+LAST-MODIFIED:20170211T124013
+UID:explore_coursesebcd70d8-4f3f-4444-b2d9-83f9be77d806
+DTSTAMP:20170211T124013
+LOCATION:260-113
+DESCRIPTION:This class explores innovative methods for designing, developing, and financing high performance, low energy buildings.  Students will learn best practices to reduce building energy buildings.  Students will learn best practices to reduce building energy use and integrate solar PV generation in pursuit of commercial Net Zero Energy buildings.  Lectures include presentations and panels featuring leading practitioners and researchers in the field.  Optional site visits to local Net Zero Energy and LEED buildings provide context to support lectures.  CEE 176A and CEE 156/256 or similar courses are recommended prerequisites but not required.  All students are expected to participate in a group-based, term project focused on the design and development of a Net Zero Energy building.  Students taking the course for two units will not be required to complete in-class assignments for individual homework assignments.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE226E LEC
 DTSTART;TZID=America/Los_Angeles:20170405T153000
-CREATED:20170109T213821
+CREATED:20170211T124013
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

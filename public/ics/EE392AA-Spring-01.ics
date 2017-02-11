@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses3e7610a3-263a-4d5c-8b74-ae2d75705959
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_coursesd5112071-3264-40f3-a98f-a87e15fa999f
+DTSTAMP:20170211T124020
 LOCATION:380-380C
 DESCRIPTION:This course will develop insights into fundamentals and design of state-of-the-art physical-layer transmission systems. Specific attention will be paid to transmission in non-ideal environments with limited spectra and spatial interference. A theory of parallel channels is used to develop multi-carrier methods, vector coding, and generalized decision-feedback approaches. Students will be expected to design and analyze performance of systems operating close to fundamental limits for a variety of practical channels, wireline or wireless.  Prerequisites: EE379 or equivalent; understanding of probability, random processes, digital signal processing (including basic matrix and nmatlab skills).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE392AA LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

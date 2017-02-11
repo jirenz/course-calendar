@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170109T213815
-UID:explore_coursesac44fa27-5a57-4ae3-a3b4-586cdb3a6b9c
-DTSTAMP:20170109T213815
+DTEND;TZID=America/Los_Angeles:20170404T142000
+LAST-MODIFIED:20170211T124009
+UID:explore_coursesf64a89b7-3c8f-49de-a200-bbde89febd12
+DTSTAMP:20170211T124009
 LOCATION:200-202
 DESCRIPTION:How has our approach to cancer been affected by clinical observations, scientific discoveries, social norms, politics, and economic interests? Approximately one in three Americans will develop invasive cancer during their lifetime; one in five Americans will die as a result of this disease. This course will expose you to multiple ways of approaching the cancer problem, including laboratory research, clinical trials, population studies, public health interventions, and health care economics. We will start with the 18th century discovery of the relationship between coal tar and cancer, and trace the role of scientific research in revealing the genetic basis of cancer. We will then discuss the development of new treatments for cancer as well as measures to screen for and prevent cancer, including the ongoing debate over tobacco control. Using cancer as a case study, you will learn important aspects of the scientific method including experimental design, data analysis, and the difference between correlation and causation.  You will learn how science can be used and misused with regard to the public good. You will also learn about ways in which social, political, and economic forces shape our knowledge about and response to disease.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:THINK23 DIS
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170109T213815
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+CREATED:20170211T124009
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

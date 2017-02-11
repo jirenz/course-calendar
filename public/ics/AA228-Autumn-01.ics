@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20170109T213818
-UID:explore_coursescc7476f9-26fd-4df5-85a8-2327b214d7b4
-DTSTAMP:20170109T213818
+LAST-MODIFIED:20170211T124011
+UID:explore_coursesd54b423c-2727-4456-b5f5-fc19cc3e254b
+DTSTAMP:20170211T124011
 LOCATION:Skillaud
 DESCRIPTION:This course is designed to increase awareness and appreciation for why uncertainty matters, particularly for aerospace applications. Introduces decision making under uncertainty from a computational perspective and provides an overview of the necessary tools for building autonomous and decision-support systems. Following an introduction to probabilistic models and decision theory, the course will cover computational methods for solving decision problems with stochastic dynamics, model uncertainty, and imperfect state information. Topics include: Bayesian networks, influence diagrams, dynamic programming, reinforcement learning, and partially observable Markov decision processes. Applications cover: air traffic control, aviation surveillance systems, autonomous vehicles, and robotic planetary exploration. Prerequisites: basic probability and fluency in a high-level programming language.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA228 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170109T213818
+CREATED:20170211T124011
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

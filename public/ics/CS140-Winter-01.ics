@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20170109T213829
-UID:explore_coursesdb3ff731-4c65-42a6-9efe-406b015b070e
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124017
+UID:explore_courses4f3d990c-bec6-4b38-896d-790c4f834872
+DTSTAMP:20170211T124017
 LOCATION:Skillaud
 DESCRIPTION:Operating systems design and implementation. Basic structure; synchronization and communication mechanisms; implementation of processes, process management, scheduling, and protection; memory organization and management, including virtual memory; I/O device management, secondary storage, and file systems. Prerequisite: CS 110.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS140 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20170109T213829
+CREATED:20170211T124017
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

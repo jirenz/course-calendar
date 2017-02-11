@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170113T172000
-LAST-MODIFIED:20170109T213829
-UID:explore_coursesd32345e1-c510-4613-be5a-6a5156a5a4e7
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124018
+UID:explore_courses6e077bef-cafe-496d-954d-5eb8823b5c5e
+DTSTAMP:20170211T124018
 LOCATION:380-380W
 DESCRIPTION:Worst and average case analysis. Recurrences and asymptotics. Efficient algorithms for sorting, searching, and selection. Data structures: binary search trees, heaps, hash tables. Algorithm design techniques: divide-and-conquer, dynamic programming, greedy algorithms, amortized analysis, randomization. Algorithms for fundamental graph problems: minimum-cost spanning tree, connected components, topological sort, and shortest paths. Possible additional topics: network flow, string searching. Prerequisite: 103 or 103B; 109 or STATS 116.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS161 DIS
 DTSTART;TZID=America/Los_Angeles:20170113T163000
-CREATED:20170109T213829
+CREATED:20170211T124018
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

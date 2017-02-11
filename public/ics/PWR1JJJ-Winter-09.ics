@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20170109T213817
-UID:explore_coursescea7cef8-3997-4fb1-8a89-1f30938cb460
-DTSTAMP:20170109T213817
-LOCATION:160-120
+LAST-MODIFIED:20170211T124010
+UID:explore_coursesef0c79b8-dde8-44ef-a39d-1fa97080a40e
+DTSTAMP:20170211T124010
+LOCATION:
 DESCRIPTION:Rhetorical and contextual analysis of readings; research; and argument. Focus is on development of a substantive research-based argument using multiple sources. Individual conferences with instructor.  See http://www.stanford.edu/dept/undergrad/cgi-bin/drupal_ual/AP_univ_req_PWR_Courses.html
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR1JJJ SEM
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170109T213817
+CREATED:20170211T124010
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

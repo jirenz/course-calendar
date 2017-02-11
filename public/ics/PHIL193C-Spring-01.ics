@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T162000
-LAST-MODIFIED:20170109T213800
-UID:explore_courses4b62f1b1-25b7-49cf-ba96-e5a5379fbad6
-DTSTAMP:20170109T213800
-LOCATION:160-325
-DESCRIPTION:Issues of authenticity, morality, personal identity, and the value of truth explored through film; philosophical investigation of the filmic medium itself. Screenings to include Blade Runner (Scott), Do The Right Thing (Lee), The Seventh Seal (Bergman), Fight Club (Fincher), La Jet&eacute;e (Marker), Memento (Nolan), and Eternal Sunshine of the Spotless Mind (Kaufman). Taught in English.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:PHIL193C SEM
-DTSTART;TZID=America/Los_Angeles:20170405T143000
-CREATED:20170109T213800
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=WE
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T210000
-LAST-MODIFIED:20170109T213800
-UID:explore_coursesbaacd0f5-eba6-4abf-bc6b-07b32b6e6c9b
-DTSTAMP:20170109T213800
+LAST-MODIFIED:20170211T123958
+UID:explore_coursesbb7e788b-e756-408b-b209-1aa3460907e5
+DTSTAMP:20170211T123958
 LOCATION:200-107
 DESCRIPTION:Issues of authenticity, morality, personal identity, and the value of truth explored through film; philosophical investigation of the filmic medium itself. Screenings to include Blade Runner (Scott), Do The Right Thing (Lee), The Seventh Seal (Bergman), Fight Club (Fincher), La Jet&eacute;e (Marker), Memento (Nolan), and Eternal Sunshine of the Spotless Mind (Kaufman). Taught in English.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL193C SEM
 DTSTART;TZID=America/Los_Angeles:20170403T180000
-CREATED:20170109T213800
+CREATED:20170211T123958
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T210000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170405T162000
+LAST-MODIFIED:20170211T123958
+UID:explore_courses36b5070f-fbd4-4a66-a055-5dc4b9f7ee0d
+DTSTAMP:20170211T123958
+LOCATION:160-325
+DESCRIPTION:Issues of authenticity, morality, personal identity, and the value of truth explored through film; philosophical investigation of the filmic medium itself. Screenings to include Blade Runner (Scott), Do The Right Thing (Lee), The Seventh Seal (Bergman), Fight Club (Fincher), La Jet&eacute;e (Marker), Memento (Nolan), and Eternal Sunshine of the Spotless Mind (Kaufman). Taught in English.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHIL193C SEM
+DTSTART;TZID=America/Los_Angeles:20170405T143000
+CREATED:20170211T123958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T102000
-LAST-MODIFIED:20170109T213755
-UID:explore_courses6b33f98d-f6a5-4983-ab25-ab7cfcbe63eb
-DTSTAMP:20170109T213755
+LAST-MODIFIED:20170211T123955
+UID:explore_coursesa353131d-851d-443a-9759-626e2c7a9694
+DTSTAMP:20170211T123955
 LOCATION:380-380W
 DESCRIPTION:This is the first part of a theoretical (i.e., proof-based) sequence in discrete mathematics and linear algebra. Covers general vector spaces, linear maps and duality, eigenvalues, inner product spaces, spectral theorem, counting techniques, and linear algebra methods in discrete mathematics including spectral graph theory and dimension arguments. Part of the linear algebra content is covered jointly with Math 61CM. Students should  have an interest in a theoretical approach to the subject. Prerequisite: score of 5 on the BC-level Advanced Placement calculus exam, or consent of the instructor.nnThis sequence is not appropriate for students planning to major in natural sciences, economics, or engineering, but is suitable for majors in any other field (such as MCS (&quot;data science&quot;), computer science, and mathematics).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH61DM LEC
 DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170109T213755
+CREATED:20170211T123955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

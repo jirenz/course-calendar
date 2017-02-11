@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T114500
-LAST-MODIFIED:20170109T213841
-UID:explore_coursesed2cb556-235b-474e-92b3-86e862b01893
-DTSTAMP:20170109T213841
+DTEND;TZID=America/Los_Angeles:20170404T114500
+LAST-MODIFIED:20170211T124025
+UID:explore_courses15fba776-5b0c-438a-83cf-9507ba22dd5d
+DTSTAMP:20170211T124025
 LOCATION:
 DESCRIPTION:This course covers auction theory, matching, and related parts of the literature on bargaining and pricing. Key papers in the early part of the course are Myerson and Satterthwaite on bargaining, Myerson on optimal auctions, and Milgrom and Weber's classic work. We then turn to markets in which complicated preferences and constraints, limitations on the use of cash, or variations in contract details among bidders play an important role. Emphasis is on matching markets such as the National Resident Matching Program and asset auctions such as the spectrum auctions.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MGTECON602 CAS
-DTSTART;TZID=America/Los_Angeles:20170403T100000
-CREATED:20170109T213841
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T114500;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170404T100000
+CREATED:20170211T124025
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T114500;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

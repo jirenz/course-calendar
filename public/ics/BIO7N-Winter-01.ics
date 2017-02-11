@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T152000
-LAST-MODIFIED:20170109T213707
-UID:explore_coursesb8ecf6f9-b30f-42d0-901a-e50134addf9a
-DTSTAMP:20170109T213707
-LOCATION:Gilbert Biological Science 117
-DESCRIPTION:Introduction to the field of conservation photography and the strategic use of visual communication in addressing issues concerning the environment and conservation. Students will be introduced to basic digital photography, digital image processing, and the theory and application of photographic techniques. Case studies of conservation issues will be examined through photographs and multimedia platforms including images, video, and audio. Lectures, tutorials, demonstrations, and optional field trips will culminate in the production of individual and group projects.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:BIO7N ISF
-DTSTART;TZID=America/Los_Angeles:20170113T133000
-CREATED:20170109T213707
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T142000
-LAST-MODIFIED:20170109T213707
-UID:explore_courses29b31513-4381-4642-a8a7-114ce7026207
-DTSTAMP:20170109T213707
+LAST-MODIFIED:20170211T123939
+UID:explore_coursesdeaefa25-3c89-43e2-a93a-988cff363e91
+DTSTAMP:20170211T123939
 LOCATION:Gilbert Biological Science 117
 DESCRIPTION:Introduction to the field of conservation photography and the strategic use of visual communication in addressing issues concerning the environment and conservation. Students will be introduced to basic digital photography, digital image processing, and the theory and application of photographic techniques. Case studies of conservation issues will be examined through photographs and multimedia platforms including images, video, and audio. Lectures, tutorials, demonstrations, and optional field trips will culminate in the production of individual and group projects.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO7N ISF
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170109T213707
+CREATED:20170211T123939
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=MO,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170113T152000
+LAST-MODIFIED:20170211T123939
+UID:explore_courses05f3bf0d-ab59-4658-bfb7-543956e297f6
+DTSTAMP:20170211T123939
+LOCATION:Gilbert Biological Science 117
+DESCRIPTION:Introduction to the field of conservation photography and the strategic use of visual communication in addressing issues concerning the environment and conservation. Students will be introduced to basic digital photography, digital image processing, and the theory and application of photographic techniques. Case studies of conservation issues will be examined through photographs and multimedia platforms including images, video, and audio. Lectures, tutorials, demonstrations, and optional field trips will culminate in the production of individual and group projects.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIO7N ISF
+DTSTART;TZID=America/Los_Angeles:20170113T133000
+CREATED:20170211T123939
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

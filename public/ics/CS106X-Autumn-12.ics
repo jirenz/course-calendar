@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160929T162000
-LAST-MODIFIED:20170109T213829
-UID:explore_coursesc52580b1-ad4d-44db-a612-ef9b615b958a
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124017
+UID:explore_courses41d72e58-b18d-4093-a7af-bc013fb12001
+DTSTAMP:20170211T124017
 LOCATION:
 DESCRIPTION:Intensive version of 106B for students with a strong programming background interested in a rigorous treatment of the topics at an accelerated pace. Additional advanced material and more challenging projects. Prerequisite: excellence in 106A or equivalent, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106X DIS
 DTSTART;TZID=America/Los_Angeles:20160929T150000
-CREATED:20170109T213829
+CREATED:20170211T124017
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

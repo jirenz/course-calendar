@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20170109T213829
-UID:explore_coursesd1316477-9859-4d8d-b703-fbbbeba37a5d
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124018
+UID:explore_coursesda10e86f-3ed3-493b-972b-a5c626ef5513
+DTSTAMP:20170211T124018
 LOCATION:Gates B3
 DESCRIPTION:Image sampling and quantization color, point operations, segmentation, morphological image processing, linear image filtering and correlation, image transforms, eigenimages, multiresolution image processing, noise reduction and restoration, feature extraction and recognition tasks, image registration. Emphasis is on the general principles of image processing. Students learn to apply material by implementing and investigating image processing algorithms in Matlab and optionally on Android mobile devices. Term project. Recommended: EE261, EE278.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS232 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170109T213829
+CREATED:20170211T124018
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

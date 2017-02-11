@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20170109T213829
-UID:explore_courses375fe2b9-1257-4554-b49f-f7198bcaac35
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124018
+UID:explore_coursesbad02dca-3175-4dbf-8932-d9f9f596190d
+DTSTAMP:20170211T124018
 LOCATION:Clark Center S361
 DESCRIPTION:Techniques for design and analysis of efficient geometric algorithms for objects in 2-, 3-, and higher dimensions. Topics: convexity, triangulations and simplicial complexes, sweeping, partitioning, and point location. Voronoi/Delaunay diagrams and their properties. Arrangements of curves and surfaces. Intersection and visibility problems. Geometric searching and optimization. Random sampling methods. Range searching. Impact of numerical issues in geometric computation. Example applications to robotic motion planning, visibility preprocessing and rendering in graphics, and model-based recognition in computer vision. Prerequisite: discrete algorithms at the level of 161. Recommended: 164.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS268 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20170109T213829
+CREATED:20170211T124018
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

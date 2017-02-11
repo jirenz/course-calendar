@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170112T172000
-LAST-MODIFIED:20170109T213804
-UID:explore_courses7db1fd70-edec-4adc-bb38-aa25839aeaf7
-DTSTAMP:20170109T213804
+LAST-MODIFIED:20170211T124000
+UID:explore_coursesd8e9d0a4-cf51-4341-9e39-518ea9f70e0e
+DTSTAMP:20170211T124000
 LOCATION:200-202
 DESCRIPTION:Machine learning---the use of algorithms to classify, predict, sort, learn and discover from data---has exploded in use across academic fields, industry, government, and non-profit.  This course provides an introduction to machine learning for social scientists.  We will introduce state of the art machine learning tools, show how to use those tools in the programming language R, and demonstrate why a social science focus is essential to effectively apply machine learning techniques.  Applications of the methods will include forecasting social phenomena, the analysis of social media data, and the automatic analysis of text data.  Political Science 150A or an equivalent is required. (Prerequisite 150A/355A)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI150B DIS
 DTSTART;TZID=America/Los_Angeles:20170112T163000
-CREATED:20170109T213804
+CREATED:20170211T124000
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

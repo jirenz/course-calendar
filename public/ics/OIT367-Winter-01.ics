@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T095000
-LAST-MODIFIED:20170109T213843
-UID:explore_courses3dc71b96-2fbd-4aa7-b0ef-79d9032520dc
-DTSTAMP:20170109T213843
+LAST-MODIFIED:20170211T124027
+UID:explore_coursesc9e6934f-7850-4c24-a756-f22299faf4c5
+DTSTAMP:20170211T124027
 LOCATION:GSB Bass 312
 DESCRIPTION:The objective of this course is to analyze real-world situations where significant competitive advantage can be obtained through large-scale data analysis, with special attention to what can be done with the data and where the potential pitfalls lie. Students will be challenged to develop business-relevant questions and then solve for them by manipulating large data sets. Problems from advertising, eCommerce, finance, healthcare, marketing, and revenue management are presented. Students learn to apply software (such as R and SQL) to data sets to create knowledge that will inform decisions. The course covers fundamentals of statistical modeling, machine learning, and data-driven decision making. Students are expected to layer these topics over an existing facility with mathematical notation, algebra, calculus, probability, and basic statistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT367 CAS
 DTSTART;TZID=America/Los_Angeles:20170109T083000
-CREATED:20170109T213843
+CREATED:20170211T124027
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T095000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

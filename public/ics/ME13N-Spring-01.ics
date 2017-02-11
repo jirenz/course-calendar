@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170109T213838
-UID:explore_courses4a2f5698-db7e-4a7e-9fd7-82d27e344619
-DTSTAMP:20170109T213838
+LAST-MODIFIED:20170211T124023
+UID:explore_coursesdc8bbae9-121d-4fe5-abca-4d8707b56643
+DTSTAMP:20170211T124023
 LOCATION:Thornt211
 DESCRIPTION:Basic rules of dimensional analysis were proposed by Sir Isaac Newton. Lord Rayleigh called the method &iquest;The Great Principle of Similitude.&iquest;  On its surface, it is a look at the relationships between physical quantities which uses their basic &iquest;units&iquest;.  In fact, it is a powerful and formalized method to analyze complex physical phenomena, including those for which we cannot pose, much less solve, governing equations.  The method is also valuable to engineers and scientist as it helps perform back-of-the-envelope estimates and derive scaling laws for the design of machines and processes.  The principle has been applied successfully to the study of complex phenomena in biology, aerodynamics, chemistry, sports, astrophysics, and forensics, among other areas.  In this course, the students will be provided with the basic tools to perform such flexible and powerful analyses.  We will then review particular example analyses.  These will include estimating the running speed of a hungry tyrannosaurus rex, a comparison of the flights of mosquitos and jet airliners, the cost of submarines, and the energy released by an atomic weapon.  We will then work together as a class to identify problems in everyday life and/or current world events to analyze with this powerful tool.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME13N ISF
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170109T213838
+CREATED:20170211T124023
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

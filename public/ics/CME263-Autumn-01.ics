@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170109T213823
-UID:explore_courses18a0ba37-43bf-41e6-93cd-ba1cf85865c5
-DTSTAMP:20170109T213823
+LAST-MODIFIED:20170211T124014
+UID:explore_courses70bd4b46-50b6-4cba-b317-d14c78414580
+DTSTAMP:20170211T124014
 LOCATION:Gates B1
 DESCRIPTION:Applied linear algebra and linear dynamical systems with applications to circuits, signal processing, communications, and control systems. Topics: least-squares approximations of over-determined equations, and least-norm solutions of underdetermined equations. Symmetric matrices, matrix norm, and singular-value decomposition. Eigenvalues, left and right eigenvectors, with dynamical interpretation. Matrix exponential, stability, and asymptotic behavior. Multi-input/multi-output systems, impulse and step matrices; convolution and transfer-matrix descriptions. Control, reachability, and state transfer; observability and least-squares state estimation. Prerequisites: linear algebra and matrices as in MATH104; differential equations and Laplace transforms as in EE102B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME263 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20170109T213823
+CREATED:20170211T124014
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

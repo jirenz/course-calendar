@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T112000
-LAST-MODIFIED:20170109T213809
-UID:explore_coursesa4321bdb-9d96-476f-a73f-3f8ec4505b07
-DTSTAMP:20170109T213809
-LOCATION:420-286
+DTEND;TZID=America/Los_Angeles:20170404T132000
+LAST-MODIFIED:20170211T124004
+UID:explore_coursese09bad35-7aac-4815-87a1-11db031a9038
+DTSTAMP:20170211T124004
+LOCATION:160-325
 DESCRIPTION:Continuation of SPANLANG 11C. Sequence integrating culture and language, with emphasis on developing advanced proficiency in oral and written discourse. Targeted functional abilities include presentational and socioculturally appropriate language in formal and informal, academic, and professional contexts. `C' content focuses on societal and cultural components of the Spanish-speaking world. Prerequisite: Placement Test, SPANLANG 11Ror 11SL
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPANLANG12C LNG
-DTSTART;TZID=America/Los_Angeles:20170404T093000
-CREATED:20170109T213809
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170404T113000
+CREATED:20170211T124004
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170109T213818
-UID:explore_courses7c44db46-b46b-4b48-af89-9e2194ab27fe
-DTSTAMP:20170109T213818
+LAST-MODIFIED:20170211T124011
+UID:explore_courses1e89132b-37f0-4789-84f8-143b958592d3
+DTSTAMP:20170211T124011
 LOCATION:McMurtry Building rm 350
 DESCRIPTION:Basic solution techniques for optimal control and dynamic optimization problems.  Dynamic programming, calculus of variations, and numerical techniques for trajectory optimization.  Special cases (chiefly LQR and robotic motion planning); modern solution approaches (such as MPC and MILP); and introduction to stochastic optimal control.  Examples in MATLAB and CVX.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA203 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170109T213818
+CREATED:20170211T124011
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

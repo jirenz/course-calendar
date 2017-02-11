@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170403T175000
-LAST-MODIFIED:20170109T213818
-UID:explore_courses1463d076-15e0-4fc8-8f70-0e53321bccf9
-DTSTAMP:20170109T213818
+LAST-MODIFIED:20170211T124011
+UID:explore_courses016109f4-50ed-4ce9-9157-e21df91b6cab
+DTSTAMP:20170211T124011
 LOCATION:540-108
 DESCRIPTION:Kalman filtering, recursive Bayesian filtering, and nonlinear filter architectures including the extended Kalman filter, particle filter, and unscented Kalman filter.  Observer-based state estimation for linear and non-linear systems.  Examples from aerospace, including state estimation for fixed-wing aircraft, rotorcraft, spacecraft, and planetary rovers, with applications to control, navigation, and autonomy.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA273 LEC
 DTSTART;TZID=America/Los_Angeles:20170403T163000
-CREATED:20170109T213818
+CREATED:20170211T124011
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

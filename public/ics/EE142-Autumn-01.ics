@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20170109T213832
-UID:explore_courses5fb3c2f2-6ec4-4a6d-9cb8-94d6c4f9d297
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses4f6503f8-5e43-4305-aae9-d95297c90e61
+DTSTAMP:20170211T124020
 LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:Introduction to electromagnetism and Maxwell's equations in static and dynamic regimes.  Electrostatics and magnetostatics: Gauss's, Coulomb's, Faraday's, Ampere's, Biot-Savart's laws.  Electric and magnetic potentials. Boundary conditions. Electric and magnetic field energy.  Electrodynamics: Wave equation; Electromagnetic waves; Phasor form of Maxwell's equations.nSolution of the wave equation in 1D free space: Wavelength, wave-vector, forward and backward propagating plane waves.Poynting's theorem. Propagation in lossy media, skin depth. Reflection and refraction at planar boundaries, total internal reflection. Solutions of wave equation for various 1D-3D problems: Electromagnetic resonators, waveguides periodic media, transmission lines. Formerly EE 141.  Pre-requisites: Phys 43 or EE 42, CME 100, CME 102 (recommended)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE142 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170109T213838
-UID:explore_courses2a83c5c4-5251-4cdf-a4c8-ab3ffc2b743b
-DTSTAMP:20170109T213838
+LAST-MODIFIED:20170211T124023
+UID:explore_coursesb6e52710-3c55-4f6d-882d-dbf1c2675e5c
+DTSTAMP:20170211T124023
 LOCATION:McCullough 126
 DESCRIPTION:An introduction to the aerodynamic design of rotor-based drones, for students with a background in robotics, aerospace, or fluids. Focus is on rotor-based drones operating at low Reynolds numbers, but material is applicable to drones, aviation and wind energy in general. Topics include: airfoil simulation, fundamentals of rotor aerodynamics, blade element analysis, rotor simulation and performance (e.g. mission duration, distance, maneuverability, and reliability). Midterm is the design of an airfoil for a drone, final is the aerodynamic design of a rotor for a drone; these projects will be peer-reviewed by students in the class.  Prereqs: background in fluid mechanics or aerodynamics; fluency with MATLAB. Recommended: take ME202 or AA241X before or after ME271, for practical applications in drone prototyping and control theory.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME271 LEC
 DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170109T213838
+CREATED:20170211T124023
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

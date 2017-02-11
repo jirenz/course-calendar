@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20170109T213822
-UID:explore_courses0f51abdb-73ad-47d3-9309-5e4b9c52ce31
-DTSTAMP:20170109T213822
+LAST-MODIFIED:20170211T124013
+UID:explore_coursesfb48b906-cdf9-47f0-a2be-90c6d01b693a
+DTSTAMP:20170211T124013
 LOCATION:Turingaud
 DESCRIPTION:Chemical principles and their application to the analysis and solution of problems in aqueous geochemistry (temperatures near 25&deg; C and atmospheric pressure). Emphasis is on natural water systems and the solution of specific chemical problems in water purification technology and water pollution control. Prerequisites: CHEM 31 and 33, or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE273 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20170109T213822
+CREATED:20170211T124013
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

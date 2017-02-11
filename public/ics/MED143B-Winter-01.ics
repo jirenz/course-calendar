@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170111T195000
-LAST-MODIFIED:20170109T213902
-UID:explore_courses1f5a4736-c21e-4955-be39-758edeede20e
-DTSTAMP:20170109T213902
+LAST-MODIFIED:20170211T124041
+UID:explore_coursese18f88aa-28bf-4fb5-93ec-05f84d949d15
+DTSTAMP:20170211T124041
 LOCATION:
 DESCRIPTION:Open to undergraduate, graduate, and medical students. For students who have completed MED 143A/243A and currently volunteer in one of the course-affiliated clinic sites. Objective is to expand health education skills, discuss more complex health education topics, and reflect upon experiences in the clinic. Includes readings and online reflections.  Prerequisite: successful completion of MED 143A/243A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED143B PRA
 DTSTART;TZID=America/Los_Angeles:20170111T180000
-CREATED:20170109T213902
+CREATED:20170211T124041
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T195000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

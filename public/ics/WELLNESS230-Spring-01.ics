@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T162000
-LAST-MODIFIED:20170109T213840
-UID:explore_courses30a3ec97-9b72-43b7-8c39-53209a6f4cd3
-DTSTAMP:20170109T213840
-LOCATION:Herrin T185
+DTEND;TZID=America/Los_Angeles:20170406T160000
+LAST-MODIFIED:20170211T124025
+UID:explore_coursesed98dabf-4bef-48f9-8b8c-74c93286b1c0
+DTSTAMP:20170211T124025
+LOCATION:ArrillagaOutdoorEducRecCtr103B
 DESCRIPTION:Introduces diverse forms of meditation practice in both theory (contemplative neuroscience, phenomenological traditions) and practice. Practices in guided imagery, compassion, loving kindness, positive emotion, mindfulness, and mantra meditation will be offered to enhance well-being. While meditation practices emerge from religious traditions, all practice and instruction will be secular.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:WELLNESS230 ACT
-DTSTART;TZID=America/Los_Angeles:20170405T153000
-CREATED:20170109T213840
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170406T150000
+CREATED:20170211T124025
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T160000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170109T213829
-UID:explore_courses4ce49aad-d7e9-4630-b26b-c983d6bfd8da
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124017
+UID:explore_courses10d806ea-b541-45c8-ac2c-c6ae76a4e9d7
+DTSTAMP:20170211T124017
 LOCATION:370-370
 DESCRIPTION:Introduces the essential ideas of computing: data representation, algorithms, programming &quot;code&quot;, computer hardware, networking, security, and social issues. Students learn how computers work and what they can do through hands-on exercises. In particular, students will see the capabilities and weaknesses of computer systems so they are not mysterious or intimidating. Course features many small programming exercises, although no prior programming experience is assumed or required. CS101 is not a complete programming course such as CS106A. CS101 is effectively an alternative to CS105. A laptop computer is recommended for the in-class exercises.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS101 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170109T213829
+CREATED:20170211T124017
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20170109T213716
-UID:explore_courses087f6077-72bd-4e2a-b2e1-fb22e644f485
-DTSTAMP:20170109T213716
-LOCATION:Econ 139
+LAST-MODIFIED:20170211T123940
+UID:explore_coursesc3a5dfbe-f0d8-43ea-95aa-f7e0f1c1c181
+DTSTAMP:20170211T123940
+LOCATION:Econ 140
 DESCRIPTION:Cutting-edge research on computational techniques for investigating and designing the three-dimensional structure and dynamics of biomolecules, cells, and everything in between.  These techniques, which draw on approaches ranging from physics-based simulation to machine learning, play an increasingly important role in drug discovery, medicine, bioengineering, and molecular biology.  Course is devoted primarily to reading, presentation, discussion, and critique of papers describing important recent research developments.  Prerequisite: CS 106A or equivalent, and an introductory course in biology or biochemistry. Recommended: some experience in mathematical modeling (does not need to be a formal course).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOPHYS371 LEC
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170109T213716
+CREATED:20170211T123940
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

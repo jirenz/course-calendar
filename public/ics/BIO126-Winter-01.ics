@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170109T213707
-UID:explore_courses5ee4d942-18d3-437b-aae4-c7236c10bcdb
-DTSTAMP:20170109T213707
-LOCATION:260-004
+LAST-MODIFIED:20170211T123939
+UID:explore_courses1d3eec9b-7e48-40db-86aa-ebbdb815c1f8
+DTSTAMP:20170211T123939
+LOCATION:Littlefield 103
 DESCRIPTION:Core course appropriate for advanced undergraduate students and graduate students with prior knowledge of calculus and a college physics course. Introduction to how physical principles offer insights into modern biology, with regard to the structural, dynamical, and functional organization of biological systems. Topics include the roles of free energy, diffusion, electromotive forces, non-equilibrium dynamics, and information in fundamental biological processes.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO126 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170109T213707
+CREATED:20170211T123939
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

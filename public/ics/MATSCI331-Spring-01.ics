@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20170109T213836
-UID:explore_courses667f1344-139d-4a6d-af79-0e2cb1917602
-DTSTAMP:20170109T213836
+LAST-MODIFIED:20170211T124022
+UID:explore_coursesbc027898-c994-4f76-afaf-72203b23e438
+DTSTAMP:20170211T124022
 LOCATION:McCullough 115
 DESCRIPTION:Introduction to atom-based computational methods for materials with emphasis on quantum methods. Topics include density functional theory, tight-binding and empirical approaches. Computation of optical, electronic, phonon properties. Bulk materials, interfaces, nanostructures. Molecular dynamics. Prerequisites - undergraduate quantum mechanics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI331 LEC
 DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20170109T213836
+CREATED:20170211T124022
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

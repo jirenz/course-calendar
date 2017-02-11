@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170623T140000
-LAST-MODIFIED:20170109T213859
-UID:explore_courses8eb8e3d8-a63a-4cf8-b08b-38e17d5aa152
-DTSTAMP:20170109T213859
-LOCATION:MSOBX303
+DTEND;TZID=America/Los_Angeles:20170626T140000
+LAST-MODIFIED:20170211T124038
+UID:explore_courses357b4db4-b531-4257-9827-117aa3b6b75b
+DTSTAMP:20170211T124038
+LOCATION:
 DESCRIPTION:Preference to trainees awarded Stanford internal KL2, TL1 grants. Focus is on students and junior faculty who have received a Spectrum KL2 or TL1 Award. Discussions include progress and challenges involved in starting and conducting clinical research, current courses, time management and resources; support from peers; education and professional development. All scholars are required to attend a weekly seminar series meeting throughout the year that will cover an array of cross-cutting methodological topics with published examples of implementation. Prerequisite: Awarded a Spectrum KL2, TL1 Grant or Spectrum UL1
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP229 SEM
-DTSTART;TZID=America/Los_Angeles:20170623T121500
-CREATED:20170109T213859
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170804T140000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170626T121500
+CREATED:20170211T124038
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T140000;BYDAY=
 END:VEVENT
 END:VCALENDAR

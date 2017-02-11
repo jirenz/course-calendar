@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170109T213737
-UID:explore_courses4a8971c8-bb35-4672-a274-a43bdf6c2b6e
-DTSTAMP:20170109T213737
-LOCATION:Econ 106
+DTEND;TZID=America/Los_Angeles:20170109T171500
+LAST-MODIFIED:20170211T123946
+UID:explore_coursesb41ed5f3-7cc9-4660-b2d7-4527daa45a7b
+DTSTAMP:20170211T123946
+LOCATION:GSB Class of 1968 108
 DESCRIPTION:This Ph.D. course will cover research topics at the boundary between macroeconomics and finance.  Topics will include the study of macroeconomic models with financial frictions,  the term structure of interest rates, conventional and unconventional monetary policy, sovereign debt crises, search frictions and segmentation in housing markets, (over)leveraging by households, heterogeneous expectations, excess volatility, financial bubbles and crises.  Student presentations and course paper requirement. Designed for second year PhD students in economics or finance.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON237 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170109T213737
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170109T153000
+CREATED:20170211T123946
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T171500;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170113T114500
+LAST-MODIFIED:20170211T123946
+UID:explore_courses512c1607-b91c-46cf-baca-44dc1798b14c
+DTSTAMP:20170211T123946
+LOCATION:GSB Faculty East 233
+DESCRIPTION:This Ph.D. course will cover research topics at the boundary between macroeconomics and finance.  Topics will include the study of macroeconomic models with financial frictions,  the term structure of interest rates, conventional and unconventional monetary policy, sovereign debt crises, search frictions and segmentation in housing markets, (over)leveraging by households, heterogeneous expectations, excess volatility, financial bubbles and crises.  Student presentations and course paper requirement. Designed for second year PhD students in economics or finance.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON237 LEC
+DTSTART;TZID=America/Los_Angeles:20170113T100000
+CREATED:20170211T123946
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T114500;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

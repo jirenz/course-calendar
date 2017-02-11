@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T175000
-LAST-MODIFIED:20170109T213830
-UID:explore_courses93d13d15-2c71-4b23-977a-3ba0e96a491d
-DTSTAMP:20170109T213830
-LOCATION:420-050
+DTEND;TZID=America/Los_Angeles:20170403T162000
+LAST-MODIFIED:20170211T124018
+UID:explore_courses8afd1a4a-a314-4e4f-a534-120bfd71b804
+DTSTAMP:20170211T124018
+LOCATION:Clark Center S361
 DESCRIPTION:Contents of this course change with each offering. Past offerings have included geometric matching, surface reconstruction, collision detection, computational topology. May be repeated for credit. Winter 2013/14 iteration will cover Computational Symmetry &amp; Regularity and spring quarter 2013/14 will cover data-driven shape analysis. Prerequisites: Math 52 or equivalent, basic coding.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS468 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T163000
-CREATED:20170109T213830
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170403T150000
+CREATED:20170211T124018
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

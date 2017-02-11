@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170406T195000
-LAST-MODIFIED:20170109T213902
-UID:explore_coursesea7f9a88-1ce6-48cf-845a-294d6cca454c
-DTSTAMP:20170109T213902
+LAST-MODIFIED:20170211T124041
+UID:explore_courses97f8f448-9fdd-4b92-bf72-11c1c4876a53
+DTSTAMP:20170211T124041
 LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:Teams of preclinical students meet weekly with a clinical student to hear the history and physical of a recent case the clinical student encountered on the wards. Following the presentation, the preclinical students work together under the guidance of the clinical student to develop a problem list and plan, which are then compared with the problem list, plan, and orders made by the actual admitting team. In the course of presenting the cases, the clinical student describes personal experiences and practical components of ward work and daily clinical routine.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED248 SEM
 DTSTART;TZID=America/Los_Angeles:20170406T183000
-CREATED:20170109T213902
+CREATED:20170211T124041
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T195000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

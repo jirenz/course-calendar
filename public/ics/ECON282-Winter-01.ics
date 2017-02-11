@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T112000
-LAST-MODIFIED:20170109T213737
-UID:explore_coursesbe2b8f58-bd61-4edf-941c-9c90f4237d89
-DTSTAMP:20170109T213737
+LAST-MODIFIED:20170211T123946
+UID:explore_courses052d01bb-3c77-44f4-bf54-69f15de655ec
+DTSTAMP:20170211T123946
 LOCATION:Econ 218
 DESCRIPTION:Basic theories and recent developments in mechanism design and the theory of contracts. Topics include: hidden characteristics and hidden action models with one and many agents, design of mechanisms and markets with limited communication, long-term relationships under commitment and under renegotiation, property rights and theories of the firm.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON282 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20170109T213737
+CREATED:20170211T123946
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

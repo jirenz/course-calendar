@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20170109T213849
-UID:explore_coursesbc7342ed-a748-47d9-a687-8e2d0ab23b87
-DTSTAMP:20170109T213849
+LAST-MODIFIED:20170211T124030
+UID:explore_courses18a6123b-cf8a-4f94-8e63-24806f4177f3
+DTSTAMP:20170211T124030
 LOCATION:Green Earth Sciences104
 DESCRIPTION:Lectures, problems, field trip. Engineering topics in petroleum recovery; origin, discovery, and development of oil and gas. Chemical, physical, and thermodynamic properties of oil and natural gas. Material balance equations and reserve estimates using volumetric calculations. Gas laws. Single phase and multiphase flow through porous media.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY120 LEC
 DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20170109T213849
+CREATED:20170211T124030
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

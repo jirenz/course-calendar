@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170411T094500
-LAST-MODIFIED:20170109T213841
-UID:explore_coursesd0676dab-98b8-4563-ba28-1298f804e4bb
-DTSTAMP:20170109T213841
+LAST-MODIFIED:20170211T124025
+UID:explore_coursesd8fe79e8-3c91-4e51-a9cb-6d7a32dcf9c9
+DTSTAMP:20170211T124025
 LOCATION:
 DESCRIPTION:This is a short course on data driven decision making. The purpose of the course is to help students become intelligent consumers and producers of data analytics in the business context. Each class meeting will consider a different case/caselet involving data and statistical analyses. We will spend a lot of time on understanding the difference between correlation and causation, and measurement issues such as small sample problems and selection bias. By the end of the course students will have sharpened analytical skills, and will be more critical of data and statistical analyses. This is *not* a data/statistical methods course, but is rather an analysis course. The course requires only the tools learned in D&amp;D.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MGTECON536 CAS
 DTSTART;TZID=America/Los_Angeles:20170411T080000
-CREATED:20170109T213841
+CREATED:20170211T124025
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170505T094500;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

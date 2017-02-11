@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T181500
-LAST-MODIFIED:20170109T213842
-UID:explore_coursesa0353f7e-85b1-49ee-81b0-d9fd53c8e970
-DTSTAMP:20170109T213842
+DTEND;TZID=America/Los_Angeles:20170403T114500
+LAST-MODIFIED:20170211T124026
+UID:explore_courses9a018708-b0c5-4a92-b9f6-34f6b996b3f2
+DTSTAMP:20170211T124026
 LOCATION:
 DESCRIPTION:As educators and scholars, academics must have the skills to effectively communicate their research to a wide range of audiences, including colleagues, students, professionals, and the general public, as well as in a variety of settings, from academic conferences and job talks to field seminars and the news media. nnnThis highly interactive course is designed to equip PhD students with critical communication skills, including best practices in academic presentations, public speaking, contributing in group settings, and shaping the public dissemination of your work.nnnWhether you are terrified of public speaking or simply looking to enhance an already strong skill set, you will have the opportunity to learn and practice strategies for getting comfortable on the stage, targeting your presentations to various audiences, managing Q&amp;A, creating an effective &quot;elevator pitch&quot; about your work, and telling the narrative of your research. Ultimately, students will gain confidence in their ability to engage, connect, and communicate with their audiences.nn
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GSBGEN622 WKS
-DTSTART;TZID=America/Los_Angeles:20170404T163000
-CREATED:20170109T213842
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T181500;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170403T100000
+CREATED:20170211T124026
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T114500;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

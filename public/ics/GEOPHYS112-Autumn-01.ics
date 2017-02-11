@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160930T132000
-LAST-MODIFIED:20170109T213852
-UID:explore_coursesbbbff5b9-d1d7-4251-838d-d83b6ac6bc89
-DTSTAMP:20170109T213852
+LAST-MODIFIED:20170211T124032
+UID:explore_courses1797afc4-338d-4871-b50d-dcdeed022cc9
+DTSTAMP:20170211T124032
 LOCATION:
 DESCRIPTION:How to use MATLAB as a tool for research and technical computing, including 2-D and 3-D visualization features, numerical capabilities, and toolboxes. Practical skills in areas such as data analysis, regressions, optimization, spectral analysis, differential equations, image analysis, computational statistics, and Monte Carlo simulations. Emphasis is on scientific and engineering applications. Offered every year, autumn quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS112 LEC
 DTSTART;TZID=America/Los_Angeles:20160930T123000
-CREATED:20170109T213852
+CREATED:20170211T124032
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

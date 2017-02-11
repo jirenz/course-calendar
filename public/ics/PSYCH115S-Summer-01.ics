@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T132000
-LAST-MODIFIED:20170109T213805
-UID:explore_coursesa42fa4a8-c991-42b8-b030-5542c66ced7b
-DTSTAMP:20170109T213805
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170626T122000
+LAST-MODIFIED:20170211T124001
+UID:explore_courses08a0b6a5-c584-42bf-94b0-bdd64c6de61d
+DTSTAMP:20170211T124001
+LOCATION:200-305
 DESCRIPTION:This course will focus on current empirical and theoretical approaches to personality. Lectures will be organized around the following questions central to personality research: How and why do people differ? How do we measure individual differences? Does personality change over time? How does personality interact with sociocultural factors to influence behavior?  What makes people happy? What are the physical, mental, and social consequences of personalities?
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH115S LEC
-DTSTART;TZID=America/Los_Angeles:20170626T113000
-CREATED:20170109T213805
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T132000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170626T103000
+CREATED:20170211T124001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

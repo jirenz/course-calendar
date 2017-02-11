@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T182000
-LAST-MODIFIED:20170109T213645
-UID:explore_courses52544e3c-f6f3-4060-904f-98e43ddd46ee
-DTSTAMP:20170109T213645
-LOCATION:50-51B
+DTEND;TZID=America/Los_Angeles:20170110T112000
+LAST-MODIFIED:20170211T123935
+UID:explore_courses205bbed3-cd18-47c2-8f26-e98b2d68ed8d
+DTSTAMP:20170211T123935
+LOCATION:50-51A
 DESCRIPTION:This course introduces basic anthropological concepts and presents the discipline&iquest;s distinctive perspective on society and culture.  The power of this perspective is illustrated by exploring vividly-written ethnographic cases that show how anthropological approaches illuminate contemporary social and political issues in a range of different cultural sites.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO1 DIS
-DTSTART;TZID=America/Los_Angeles:20170113T173000
-CREATED:20170109T213645
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170110T103000
+CREATED:20170211T123935
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

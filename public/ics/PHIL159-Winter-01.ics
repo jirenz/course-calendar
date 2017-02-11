@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170109T213800
-UID:explore_courses7db00247-e975-4a3f-accd-5c67dc30ca01
-DTSTAMP:20170109T213800
+LAST-MODIFIED:20170211T123958
+UID:explore_coursesf74de03b-3317-4495-8e4e-316a37410068
+DTSTAMP:20170211T123958
 LOCATION:380-380D
 DESCRIPTION:This course surveys a range of non-classical logics.  Each week, we discuss the formal rules and philosophical underpinnings of a different system.  Key topics include modal logic (the logic of possibility and necessity), many-valued logics (in which propositions can be both true and false, or neither), relevant logics (which aim to bring the concept of valid inference into line with everyday ideas about relevance), and logical pluralism (the view that there is more than one correct logic).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL159 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T120000
-CREATED:20170109T213800
+CREATED:20170211T123958
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

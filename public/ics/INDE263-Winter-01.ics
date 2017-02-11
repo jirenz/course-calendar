@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T112000
-LAST-MODIFIED:20170109T213903
-UID:explore_courses293496eb-240b-4eb6-8374-4a55e3c8e2a0
-DTSTAMP:20170109T213903
+LAST-MODIFIED:20170211T124041
+UID:explore_coursesb2fc092d-d6fb-46e7-9c71-76f8a47354fc
+DTSTAMP:20170211T124041
 LOCATION:Li Ka Shing Center,rms101/102
 DESCRIPTION:First course in a two-course series exploring microbiology, pathogenesis, and clinical issues associated with infectious diseases. Patient cases springboard discussion on viral, bacterial, fungal, protozoal and helminthic pathogens. Online videos and self-assessments followed by interactive sessions and problem sets.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE263 LEC
 DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20170109T213903
+CREATED:20170211T124041
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

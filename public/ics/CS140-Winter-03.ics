@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170109T213829
-UID:explore_courses97e9517a-7d8e-430f-8ca0-821ec1181971
-DTSTAMP:20170109T213829
+LAST-MODIFIED:20170211T124017
+UID:explore_courses3ea7effd-a35e-4d11-b1b4-03bd390f0724
+DTSTAMP:20170211T124017
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:Operating systems design and implementation. Basic structure; synchronization and communication mechanisms; implementation of processes, process management, scheduling, and protection; memory organization and management, including virtual memory; I/O device management, secondary storage, and file systems. Prerequisite: CS 110.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS140 DIS
 DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170109T213829
+CREATED:20170211T124017
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

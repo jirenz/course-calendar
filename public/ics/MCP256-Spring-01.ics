@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170403T162000
+LAST-MODIFIED:20170211T124042
+UID:explore_coursesdef079c6-8e27-4d8d-be2f-01b6fbd8aac8
+DTSTAMP:20170211T124042
+LOCATION:Beckman Center B100
+DESCRIPTION:Open to graduate and medical students, and advanced undergraduates. Dynamic aspects of cell behavior and function, including cellular energetics, homeostasis, heterogeneity of membranes, structure and function of organelles, solute and water transport, signaling and motility. Emphasis is on the principles of how coupling of molecular processes gives rise to essential functions at the cellular level. Mathematical models of cell function. Student presentations.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MCP256 LEC
+DTSTART;TZID=America/Los_Angeles:20170403T145000
+CREATED:20170211T124042
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

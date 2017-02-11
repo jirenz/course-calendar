@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170627T162000
+LAST-MODIFIED:20170211T123938
+UID:explore_coursesd744acdc-eb71-484f-939c-8109a1b49b83
+DTSTAMP:20170211T123938
+LOCATION:McMurtry Building rm 303
+DESCRIPTION:In this introductory class, we take drawing out into the world, exploring different environments, techniques, and approaches as we go. The fundamental nuts-and-bolts of basic drawing techniques: light logic, depicting depth and drawing the figure, are integrated into each environment. From the Stanford campus: its cafe's, architecture and landscaping, to redwoods and water, to more urban settings, drawings will range from high-speed gestures to longer, more contemplative work. Through pen, graphite, charcoal, ink, watercolor/gouache and mixed media, we explore dichotomous relationships, as well as those in seemingly perfect harmony. We move from the inanimate to animate, figure and architecture, motion and stillness, to the micro and macro, considering how even the smallest patch of earth may be as monumental as Hoover Tower. Both beginning and advanced students are welcome. Summer.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSTUDI141S PRA
+DTSTART;TZID=America/Los_Angeles:20170627T133000
+CREATED:20170211T123938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170109T213832
-UID:explore_coursesc061587a-4369-49f3-ad19-ece49d3dc1e5
-DTSTAMP:20170109T213832
+LAST-MODIFIED:20170211T124020
+UID:explore_courses0b6ea500-f45d-408c-af70-0f0e90e9d923
+DTSTAMP:20170211T124020
 LOCATION:200-030
 DESCRIPTION:Information theory forms the basis for the design of all modern day communication systems. The original theory was primarily point-to-point, studying how fast information can flow across an isolated noisy communication channel. Until recently, there has been only limited success in extending the theory to a network of interacting nodes. Progress has been made in the past decade driven by engineering interest in wireless networks. The course provides a unified overview of this recent progress made in information theory of wireless networks. Starting with an overview of the capacity of fading and multiple-antenna wireless channels, we aim to answer questions such as: What is the optimal way for users to cooperate and exchange information in a wireless network? How much benefit can optimal cooperation provide over traditional communication architectures? How can cooperation help to deal with interference between multiple wireless transmissions?  Formerly EE361. Prerequisites: EE376A
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE376D LEC
 DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170109T213832
+CREATED:20170211T124020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

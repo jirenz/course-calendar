@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20170109T213843
-UID:explore_coursesfe781ab5-1b8f-4ab9-a8ce-f0060c1068ee
-DTSTAMP:20170109T213843
+LAST-MODIFIED:20170211T124027
+UID:explore_coursesf7d42962-4510-4646-869c-9389f5cfe508
+DTSTAMP:20170211T124027
 LOCATION:GSB Gunn 101
 DESCRIPTION:This is the base version of D&amp;D. This course introduces the fundamental concepts and techniques for analyzing risk and formulating sound decisions in uncertain environments. Approximately half of the course focuses on probability and its application. The remainder of the course examines statistical methods for interpreting and analyzing data including sampling concepts, regression analysis, and hypothesis testing. Applications include inventory management, demand analysis, portfolio analysis, surveys and opinion polls, A/B testing, environmental contamination, online advertising and the role of analytics in business settings more generally. The course emphasizes analytical techniques and concepts that are broadly applicable to business problems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT265 CAS
 DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170109T213843
+CREATED:20170211T124027
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR
