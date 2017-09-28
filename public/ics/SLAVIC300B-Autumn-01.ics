@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T142000
-LAST-MODIFIED:20170211T124003
-UID:explore_courses1cca7a4a-d7f0-4325-ad05-4889aedd0b1e
-DTSTAMP:20170211T124003
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175849
+UID:explore_coursesf4edfbf1-e490-4a93-ad9e-621eb6234d73
+DTSTAMP:20170927T175849
+LOCATION:260-301
 DESCRIPTION:This course introduces graduate students in Slavic Studies to library, archival, and web resources for research, grant opportunities, publication strategies, and professional timelines. Open to PhD students in the Slavic Department and other departments and to MA students in CREEES. NOTE: Those wishing to enroll, please contact Prof. Safran to obtain the course's meeting time and location.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SLAVIC300B SEM
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T124003
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T120000
+CREATED:20170927T175849
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

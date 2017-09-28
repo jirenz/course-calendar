@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170211T124001
-UID:explore_courses0d6d171f-114a-4de8-9224-c1648e97f45a
-DTSTAMP:20170211T124001
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T175846
+UID:explore_courseseb4e576e-8b70-4a44-8c60-b650cbad6594
+DTSTAMP:20170927T175846
 LOCATION:
 DESCRIPTION:This seminar will examine the complexities and trade offs involved in foreign policy decision-making at the end of the twentieth century and the dawn of the post-9/11 era.  Students will analyze dilemmas confronting policymakers through case studies including post-conflict reconstruction and state-building, nuclear proliferation, democratization and peace negotiation.  The seminar will conclude with a 48-hour crisis simulation.  For advanced undergraduates and graduate students.  Application for enrollment required. Applications will be available for pick up in Political Science Department (Encina West 100) starting late-October.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI314R SEM
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

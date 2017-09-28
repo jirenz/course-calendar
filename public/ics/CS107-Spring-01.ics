@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T142000
-LAST-MODIFIED:20170211T124017
-UID:explore_coursescba5f93a-6f1e-4a5c-870c-0f9865bbde6c
-DTSTAMP:20170211T124017
-LOCATION:NVIDIA Auditorium
+DTEND;TZID=America/Los_Angeles:20180402T142000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses5afa6920-1485-43a3-bbd9-655d42916ea3
+DTSTAMP:20170927T175958
+LOCATION:
 DESCRIPTION:Introduction to the fundamental concepts of computer systems. Explores how computer systems execute programs and manipulate data, working from the C programming language down to the microprocessor. Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, elements of code compilation, memory organization and management, and performance evaluation and optimization. Prerequisites: 106B or X, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS107 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T123000
-CREATED:20170211T124017
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20180402T123000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T142000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

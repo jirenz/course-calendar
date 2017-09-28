@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170211T124004
-UID:explore_coursescf470c98-b034-4f89-952f-f2e76cf44f96
-DTSTAMP:20170211T124004
-LOCATION:Lathrop 282
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesa1e4426b-3db3-49c2-b049-04d57c425550
+DTSTAMP:20170927T175851
+LOCATION:Herrin T175
 DESCRIPTION:Over the last three decades, inequality in America has increased substantially. Why has this happened, and what can be done about it? The course will begin by surveying the basic features of poverty, inequality, and economic mobility in the 21st century. From here we will discuss issues related to discrimination, education and schools, criminal justice, and the changing nature of the family as forces that shape inequality. We will also focus on the main social policy options for addressing inequality in the United States, including income support for the poor, taxing higher incomes, efforts to encourage philanthropy, and other institutional reforms.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC235 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

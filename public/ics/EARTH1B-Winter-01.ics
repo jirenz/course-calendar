@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T152000
-LAST-MODIFIED:20170211T124029
-UID:explore_courses04f0f677-1b6d-4c61-bab9-0cd8622d38d2
-DTSTAMP:20170211T124029
-LOCATION:Green Earth Sciences104
+DTEND;TZID=America/Los_Angeles:20180110T152000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses68d24640-9004-4ae6-a854-a905535acf2f
+DTSTAMP:20170927T175938
+LOCATION:Y2E2 111
 DESCRIPTION:Interested in Big Data and how to apply it to global environmental and sustainability challenges? This course provides an introduction to Big Data and its applications in solving global challenges such as meeting global energy needs, food and water security, climate change, and natural hazards. The first half of the course will focus on foundational concepts of Big Data; the second half of the course will focus on applications of Big Data while introducing students to Stanford Earth alumni who are currently using these concepts in their work. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTH1B LEC
-DTSTART;TZID=America/Los_Angeles:20170111T143000
-CREATED:20170211T124029
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T143000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

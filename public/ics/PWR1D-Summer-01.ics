@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170627T122000
-LAST-MODIFIED:20170211T124010
-UID:explore_courses57929108-2c4c-4c91-b835-52a22bf8276a
-DTSTAMP:20170211T124010
-LOCATION:160-318
+DTEND;TZID=America/Los_Angeles:20180626T122000
+LAST-MODIFIED:20170927T175750
+UID:explore_courses4e28666c-374f-4590-bc5e-f4c87afaa168
+DTSTAMP:20170927T175750
+LOCATION:160-120
 DESCRIPTION:Offered only to participants in the Summer College for High School Students.  Develops critical reading, writing, and research skills applicable to any area of study.  Emphases include close reading, analysis of varied texts, development of strong theses, revision strategies, and introduction to research-based argument.  Classes are small, encouraging extensive interaction between students and instructors. Discussions of readings, peer work, and individual conferences with instructors.  Each section has a thematic emphasis developed by the instructor; students choose sections based on their individual interests. Does not meet the Stanford first-year writing requirement.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR1D SEM
-DTSTART;TZID=America/Los_Angeles:20170627T103000
-CREATED:20170211T124010
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T122000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180626T103000
+CREATED:20170927T175750
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T122000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

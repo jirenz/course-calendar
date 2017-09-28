@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T222000
-LAST-MODIFIED:20170211T124018
-UID:explore_courses12402bff-e763-453a-8ebf-edca0fa05a3b
-DTSTAMP:20170211T124018
+DTEND;TZID=America/Los_Angeles:20180404T222000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses5fbf7410-5345-4db4-b17e-deb6d164a50d
+DTSTAMP:20170927T175958
 LOCATION:Knoll317
-DESCRIPTION:Classroom instantiation of the Stanford Laptop Orchestra (SLOrk) which includes public performances. An ensemble of more than 20 humans, laptops, controllers, and special speaker arrays designed to provide each computer-mediated instrument with its sonic identity and presence. Topics and activities include issues of composing for laptop orchestras, instrument design, sound synthesis, programming, and live performance. May be repeated four times for credit.
+DESCRIPTION:Classroom instantiation of the Stanford Laptop Orchestra (SLOrk) which includes public performances. An ensemble of more than 20 humans, laptops, controllers, and special speaker arrays designed to provide each computer-mediated instrument with its sonic identity and presence. Topics and activities include issues of composing for laptop orchestras, instrument design, sound synthesis, programming, and live performance. May be repeated four times for credit. Space is limited; see https://ccrma.stanford.edu/courses/128 for information about the application and enrollment process. May be repeat for credit
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS170 SEM
-DTSTART;TZID=America/Los_Angeles:20170405T193000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T222000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T193000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T222000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

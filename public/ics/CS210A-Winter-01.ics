@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T175000
-LAST-MODIFIED:20170211T124018
-UID:explore_coursesb53d5e94-cb32-413b-8313-c98dfc19cbec
-DTSTAMP:20170211T124018
-LOCATION:Hewlett Teaching Center 201
+DTEND;TZID=America/Los_Angeles:20180109T175000
+LAST-MODIFIED:20170927T175958
+UID:explore_coursesd6275fe1-8b1a-4243-8a1c-17d1819dc2e4
+DTSTAMP:20170927T175958
+LOCATION:
 DESCRIPTION:Two-quarter project course. Focus is on real-world software development. Corporate partners seed projects with loosely defined challenges from their R&amp;D labs; students innovate to build their own compelling software solutions. Student teams are treated as start-up companies with a budget and a technical advisory board comprised of instructional staff and corporate liaisons. Teams will typically travel to the corporate headquarters of their collaborating partner, meaning some teams will travel internationally. Open loft classroom format such as found in Silicon Valley software companies. Exposure to: current practices in software engineering; techniques for stimulating innovation; significant development experience with creative freedoms; working in groups; real-world software engineering challenges; public presentation of technical work; creating written descriptions of technical work. Prerequisites: CS 109 and 110.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS210A LEC
-DTSTART;TZID=America/Los_Angeles:20170110T163000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T163000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

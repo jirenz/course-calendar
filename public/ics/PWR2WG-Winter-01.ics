@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T152000
-LAST-MODIFIED:20170211T124010
-UID:explore_courses360548c6-e147-4b02-a807-4e926605bf55
-DTSTAMP:20170211T124010
-LOCATION:160-328
+DTEND;TZID=America/Los_Angeles:20180109T152000
+LAST-MODIFIED:20170927T175750
+UID:explore_coursese53a34b7-c480-4a71-b24e-5f78e031465c
+DTSTAMP:20170927T175750
+LOCATION:160-125
 DESCRIPTION:Prerequisite: PWR 1. Building on a series of written assignments and oral presentations that culminate in a major research project, we'll explore the conventions and strategies that define the genre of American musical theater, analyzing how contemporary musicals mirror, revise, and even subvert these traditional rules. Watching musicals on film, reading reviews by theater critics, and attending a local production, we'll examine a range of cultural arguments made by American musicals. For more information about PWR 2, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-2. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR2WG SEM
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T124010
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175750
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

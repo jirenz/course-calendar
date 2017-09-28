@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T132000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses804e55d2-3aa1-4bb7-ac12-6fb8de9cd4d9
-DTSTAMP:20170211T124013
+DTEND;TZID=America/Los_Angeles:20180625T132000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses14dacb31-c7fc-450c-a2cd-68a77b4cf5f3
+DTSTAMP:20170927T175952
 LOCATION:Y2E2 111
 DESCRIPTION:A city is comprised of people and a complex system of systems. Data provides the connective tissue between those systems. Smart cities use information technology (IT) to harness that data for operational efficiency, efficacy of government services, and sustainability. Key enablers covered include: IoT, open data, analytics, cloud and cognitive computing, and systems of engagement. System case studies will include: water, energy, transportation, buildings, food production, urban design, and social services. The evolving relationship between a city and its citizens as well as the risks / challenges of smart cities will also be explored.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE177L LEC
-DTSTART;TZID=America/Los_Angeles:20170626T113000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T132000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180625T113000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

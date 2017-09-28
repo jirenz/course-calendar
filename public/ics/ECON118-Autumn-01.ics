@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses0ce1c318-4b74-4224-91ae-3f9e4454c439
-DTSTAMP:20170211T123946
-LOCATION:Econ 140
-DESCRIPTION:The microeconomic problems and policy concerns of less developed countries. Topics include: health and education; risk and insurance; microfinance; agriculture; technology; governance. Emphasis is on economic models and empirical evidence. Prerequisites: 51, 102B.
+DTEND;TZID=America/Los_Angeles:20170925T112000
+LAST-MODIFIED:20170927T175819
+UID:explore_coursesafcb2b71-1a6c-4cd7-830a-f021fb9e9f67
+DTSTAMP:20170927T175819
+LOCATION:Econ 139
+DESCRIPTION:The microeconomic problems and policy concerns of less developed countries. Topics include: health and education; risk and insurance; microfinance; agriculture; technology; governance. Emphasis is on economic models and empirical evidence. Prerequisites: ECON 51 (Public Policy majors may take PUBLPOL 51 as a substitute for ECON 51), ECON 102B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON118 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

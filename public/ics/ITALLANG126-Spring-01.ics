@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T212000
-LAST-MODIFIED:20170211T123953
-UID:explore_coursesede02e4a-ef29-4dd2-88c4-2eccd43956ba
-DTSTAMP:20170211T123953
-LOCATION:
-DESCRIPTION:May be repeated for credit.
+DTEND;TZID=America/Los_Angeles:20180404T212000
+LAST-MODIFIED:20170927T175832
+UID:explore_courses4821ab39-6cb1-4444-a4c3-35002580fef0
+DTSTAMP:20170927T175832
+LOCATION:School of Education 210
+DESCRIPTION:An introduction to Italian culture for residents of La Casa Italiana. Past topics have included: Italian Comedy; Contemporary Italy through Film; Italian Food Culture; Eight Great Italians; Regional Italy; European Italy. Enrollment restricted to residents of La Casa Italiana except with prior approval of the instructor. Taught in English. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ITALLANG126 LNG
-DTSTART;TZID=America/Los_Angeles:20170405T193000
-CREATED:20170211T123953
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T212000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T193000
+CREATED:20170927T175832
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T212000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

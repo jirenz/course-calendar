@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T200000
-LAST-MODIFIED:20170211T124008
-UID:explore_coursesc7dd9b2f-2455-4f35-b216-4397b0db4230
-DTSTAMP:20170211T124008
+DTEND;TZID=America/Los_Angeles:20180405T200000
+LAST-MODIFIED:20170927T175748
+UID:explore_courses1ffd9644-d498-4228-8ee8-1b9d86bc058d
+DTSTAMP:20170927T175748
 LOCATION:
 DESCRIPTION:Progressive analysis of the evolution of warfare from the ancient world to the present. Emphasis placed on causes of continuity and/or change of methods, as well as the influence of economic, moral, political, and technological factors on strategic thought.  Three hours of lecture per week. Course is offered in the Winter/Spring Quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ROTCNAVY20 SEM
-DTSTART;TZID=America/Los_Angeles:20170406T170000
-CREATED:20170211T124008
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T200000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T170000
+CREATED:20170927T175748
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T200000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

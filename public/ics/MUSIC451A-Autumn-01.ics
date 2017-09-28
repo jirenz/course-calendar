@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T132000
-LAST-MODIFIED:20170211T123957
-UID:explore_courses29efc5b2-1972-47bb-80b0-3e01a87cc2f8
-DTSTAMP:20170211T123957
-LOCATION:
-DESCRIPTION:Understanding basic concepts and techniques in cognitive neuroscience using electroencephalography (EEG) specific to auditory perception and music cognition via seminar and laboratory exercise work. Acquiring and practicing skills in experimental design, data analysis, and interpretation, writing for scientific reports and research proposals, and giving a critical review of others&iquest; scientific work. Seminar discusses related literature in neuroanatomy, neurophysiology, psychology, and neuroimaging. Laboratory focuses on electroencephalography (EEG) techniques, classic paradigms for recording evoked response, and associated data analysis methods.
+DTEND;TZID=America/Los_Angeles:20170925T132000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses6e4597a6-21dc-478e-8506-2d4cadcccb3a
+DTSTAMP:20170927T175841
+LOCATION:Knoll103
+DESCRIPTION:Understanding basic concepts and techniques in cognitive neuroscience using electroencephalography (EEG) specific to auditory perception and music cognition via seminar and laboratory exercise work. Acquiring and practicing skills in experimental design, data analysis, and interpretation, writing for scientific reports and research proposals, and giving a critical review of others' scientific work. Seminar discusses related literature in neuroanatomy, neurophysiology, psychology, and neuroimaging. Laboratory focuses on electroencephalography (EEG) techniques, classic paradigms for recording evoked response, and associated data analysis methods.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC451A RES
-DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T113000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

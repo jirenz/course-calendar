@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T132000
-LAST-MODIFIED:20170211T123951
-UID:explore_coursesdbbf5500-27c1-43c1-a957-cce9888da7a6
-DTSTAMP:20170211T123951
-LOCATION:Encina West 108
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses2392c740-3a71-4773-8146-82647104c288
+DTSTAMP:20170927T175933
+LOCATION:50-51B
 DESCRIPTION:Preference to sophomores. The inauguration of Nelson Mandela as president in May 1994 marked the end of an era and a way of life for South Africa. The changes have been dramatic, yet the legacies of racism and inequality persist. Focus: overlapping and sharply contested transitions. Who advocates and opposes change? Why? What are their historical and social roots and strategies? How do people reconstruct their society? Historical and current sources, including films, novels, and the Internet.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY48Q ISS
-DTSTART;TZID=America/Los_Angeles:20170109T123000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170211T123951
-UID:explore_coursescd468da7-b57e-4c15-bf2f-e668a9831767
-DTSTAMP:20170211T123951
-LOCATION:Encina West 108
+DTEND;TZID=America/Los_Angeles:20180108T132000
+LAST-MODIFIED:20170927T175933
+UID:explore_coursesd133a33c-4d1b-41e0-9e5b-800da0c78863
+DTSTAMP:20170927T175933
+LOCATION:Encina West 101
 DESCRIPTION:Preference to sophomores. The inauguration of Nelson Mandela as president in May 1994 marked the end of an era and a way of life for South Africa. The changes have been dramatic, yet the legacies of racism and inequality persist. Focus: overlapping and sharply contested transitions. Who advocates and opposes change? Why? What are their historical and social roots and strategies? How do people reconstruct their society? Historical and current sources, including films, novels, and the Internet.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY48Q ISS
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180108T123000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

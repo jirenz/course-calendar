@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170211T123951
-UID:explore_coursesf88b2829-2076-4afd-9d9a-739f08ed84c9
-DTSTAMP:20170211T123951
-LOCATION:300-300
-DESCRIPTION:This course explores the heterogeneous forces that have shaped our modern world. Analyzing a variety of documents and sources, including memoirs, novels, and films, we will investigate how key political ideas have transformed societies, cultures, and economies across the globe from the late eighteenth century through to the present.
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20170927T175829
+UID:explore_courses6e2b91f1-4df8-4bba-820a-84f434d87fa8
+DTSTAMP:20170927T175829
+LOCATION:DINKG10
+DESCRIPTION:How did the power of states evolve around the globe during the modern period? And how did it shape global experiences of modernity? In this course we will examine the development of technologies of rule from the eighteenth to the twenty-first century, from the age of empires and revolutions, through the world wars, the Cold War, and the war on terror. We will look at the political, social, cultural, and intellectual roots behind their invention and their results on the ground. In doing so, we will attempt to grasp the way they have shaped the history and experience of modernity. The course offers a broad overview not of a particular region but of the wider set of processes and technologies that connected the historical experiences of far-flung human communities. Topics include the evolution of government bureaucracies and classificatory schemes; the industrial revolution; technologies of rebellion and revolution; technologies of trade, including maps, ships, guns, and railroads; liberalism's urban technologies; airpower; the history and practice of development; camps and borders; and anti-colonial critiques of these various tools of empire. Through these, we will attempt to make sense of how the technologies of imperial power have shaped the bonds and inequalities of global capitalism and the world of nation-states. We will focus on different case studies each week to trace the unfolding of large-scale processes. Students will read primary sources (produced in the period) and historians&iquest; analyses of the events from a distance. The class is appropriate for beginning students, non-majors, and more advanced history students, and may be taken for different levels of credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY1C LEC
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

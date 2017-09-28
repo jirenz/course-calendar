@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T162000
-LAST-MODIFIED:20170211T123936
-UID:explore_coursesab6e5eab-1cf9-4281-b8e0-a6808507431a
-DTSTAMP:20170211T123936
+DTEND;TZID=America/Los_Angeles:20170927T162000
+LAST-MODIFIED:20170927T175758
+UID:explore_courses9ddb56a8-ad48-4d56-b9f3-56562e786994
+DTSTAMP:20170927T175758
 LOCATION:500-106
 DESCRIPTION:This course explores many aspects of food in human history from an archaeological perspective. We will discuss how the origins of agriculture helped to transform human society; how food and feasting played a prominent role in the emergence of social hierarchies and the development of civilization; and how various foodways influenced particular cultures. We will also conduct experimental studies to understand how certain methods of food procurement, preparation, and consumption can be recovered archaeologically.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARCHLGY124 LEC
-DTSTART;TZID=America/Los_Angeles:20160928T133000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T133000
+CREATED:20170927T175758
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

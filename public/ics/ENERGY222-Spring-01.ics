@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20170211T124030
-UID:explore_courses2be8d467-14ce-4f5b-af69-69bcd9a3d55a
-DTSTAMP:20170211T124030
+DTEND;TZID=America/Los_Angeles:20180402T112000
+LAST-MODIFIED:20170927T175941
+UID:explore_coursesdf893fbf-f058-41c4-81ee-054f00013c0d
+DTSTAMP:20170927T175941
 LOCATION:Green Earth Sciences104
 DESCRIPTION:Lectures, problems. General flow equations, tensor permeabilities, steady state radial flow, skin, and succession of steady states. Injectivity during fill-up of a depleted reservoir, injectivity for liquid-filled reservoirs. Flow potential and gravity forces, coning. Displacements in layered reservoirs. Transient radial flow equation, primary drainage of a cylindrical reservoir, line source solution, pseudo-steady state. May be repeated for credit. Prerequisite: 221.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY222 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20170927T175941
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T122000
-LAST-MODIFIED:20170211T123947
-UID:explore_courses1071c58c-7875-438b-87b7-164d6fb11219
-DTSTAMP:20170211T123947
-LOCATION:160-124
+DTEND;TZID=America/Los_Angeles:20170925T122000
+LAST-MODIFIED:20170927T175821
+UID:explore_coursesb9285372-d513-42f4-b307-ec4f5a6ff8ea
+DTSTAMP:20170927T175821
+LOCATION:Lathrop 282
 DESCRIPTION:Examination of the explosion of African American artistic expression during 1920s and 30s New York known as the Harlem Renaissance. Amiri Baraka once referred to the Renaissance as a kind of &quot;vicious Modernism&quot;, as a &quot;BangClash&quot;, that impacted and was impacted by political, cultural and aesthetic changes not only in the U.S. but Europe, the Caribbean and Latin America. Focus on the literature, graphic arts, and the music of the era in this global context.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGLISH152G LEC
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170925T113000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20170211T124020
-UID:explore_coursesdfc21cee-c967-4a3f-b634-41d6a009d438
-DTSTAMP:20170211T124020
-LOCATION:380-380D
-DESCRIPTION:Maxwell's equations, constitutive relations. Kramers-Kronig relations. Modes in waveguides: slab, rectangular, circular. Photonic crystals, surface plasmon modes. General properties of waveguide modes: orthogonality, phase and group indices, group velocity dispersion. Chirped pulse propagation in dispersive media and its connection to Gaussian beam propagation. Time lens. Waveguide technologies: glass, silicon, III-V semiconductor, metallic. Waveguide devices: fibers, lasers, modulators, arrayed waveguide gratings. Scattering matrix description of passive optical devices, and constraints from energy conservation, time-reversal symmetry and reciprocity. Mode coupling, directional couplers, distributed-feedback structures. Resonators from scattering matrix and input-output perspective. Micro-ring resonators.nFormerly EE 235. Prerequisites: EE 236A and EE 242 or familiarity with differential form of Maxwell's equations.
+DTEND;TZID=America/Los_Angeles:20180108T145000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses234b1659-127d-4de7-9860-1302445f2a56
+DTSTAMP:20170927T180001
+LOCATION:Green Earth Sciences150
+DESCRIPTION:Maxwell's equations, constitutive relations. Kramers-Kronig relations. Modes in waveguides: slab, rectangular, circular. Photonic crystals, surface plasmon modes. General properties of waveguide modes: orthogonality, phase and group indices, group velocity dispersion. Chirped pulse propagation in dispersive media and its connection to Gaussian beam propagation. Time lens. Waveguide technologies: glass, silicon, III-V semiconductor, metallic. Waveguide devices: fibers, lasers, modulators, arrayed waveguide gratings. Scattering matrix description of passive optical devices, and constraints from energy conservation, time-reversal symmetry and reciprocity. Mode coupling, directional couplers, distributed-feedback structures. Resonators from scattering matrix and input-output perspective. Micro-ring resonators. Prerequisites: EE 236A and EE 242 or familiarity with differential form of Maxwell's equations.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE236B LEC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

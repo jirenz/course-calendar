@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20170211T124004
-UID:explore_courses142fea39-b4ec-4dc7-b81b-b21184f9ac33
-DTSTAMP:20170211T124004
-LOCATION:260-008
+DTEND;TZID=America/Los_Angeles:20180108T152000
+LAST-MODIFIED:20170927T175851
+UID:explore_courses02d86d95-9452-4ac4-8a13-dd951a1e6f61
+DTSTAMP:20170927T175851
+LOCATION:260-002
 DESCRIPTION:Continuation of SPANLANG 11R. Sequence integrating geopolitics and language, with emphasis on developing advanced proficiency in oral and written discourse. Targeted functional abilities include presentational and socioculturally appropriate language in formal and informal, academic, and professional contexts. `R' content focuses on international relations and socioeconomics of the Spanish-speaking world. Prerequisite: Placement Test, SPANLANG 11 C or 11R or 11SL
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPANLANG12R LNG
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

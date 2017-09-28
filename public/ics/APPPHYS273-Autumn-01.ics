@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20170211T123936
-UID:explore_courses96893ad0-aea9-492e-a9bb-1c19722067bf
-DTSTAMP:20170211T123936
-LOCATION:Green Earth Sciences150
+DTEND;TZID=America/Los_Angeles:20170925T112000
+LAST-MODIFIED:20170927T175758
+UID:explore_courses2faf2b89-dd4d-4c42-b1df-5f63f1eeda46
+DTSTAMP:20170927T175758
+LOCATION:McCullough 122
 DESCRIPTION:Introduction to the many-body aspects of crystalline solids. Second quantization of phonons, anharmonic effects, polaritons, and scattering theory. Second quantization of Fermi fields. Electrons in the Hartree-Fock and random phase approximation; electron screening and plasmons. Magnetic exchange interactions. Electron-phonon interaction in ionic/covalent semiconductors and metals; effective attractive electron-electron interactions, Cooper pairing, and BCS description of the superconducting state. Prerequisite: APPPHYS 272 or PHYSICS 172.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS273 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175758
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

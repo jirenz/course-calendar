@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170211T124049
-UID:explore_courses2fab44c0-290b-4efa-a38d-ca38b340c432
-DTSTAMP:20170211T124049
-LOCATION:160-322
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175923
+UID:explore_coursescf943426-dd14-432f-a029-8416106fa2cd
+DTSTAMP:20170927T175923
+LOCATION:380-380F
 DESCRIPTION:Apply scientific methods and principles to discern and realize value. Read history, philosophy, ecology, economics, sociology, linguistics and psychology pertinent to emergence of valuescience as foundation for an increasing range of human action. Explore perceptual, cognitive, and cultural impediments to valuescience; strategies for overcoming these; and personal and social benefits of doing so. 4 units includes weekly practice (e.g., meditation, aerobic exercise). Students may enroll in PSYC 136A or PSYC 136B or both. Either may be taken first.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYC236A SEM
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T124049
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175923
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T123943
-UID:explore_coursesa58f62ee-6531-4e60-a70b-fcae961e7f7f
-DTSTAMP:20170211T123943
-LOCATION:Econ 106
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20170927T175811
+UID:explore_coursesff0831a9-a951-4326-904d-170367f8c9ec
+DTSTAMP:20170927T175811
+LOCATION:420-050
 DESCRIPTION:Introduction to the comparative literary study of important gay, lesbian, queer, bisexual, and transgender writers and their changing social, political, and cultural contexts from the 1880s to today: Oscar Wilde, Rachilde, Radclyffe Hall, Djuna Barnes, James Baldwin, Jean Genet, Audre Lorde, Cherrie Moraga, Jeanette Winterson, Alison Bechdel and others, discussed in the context of 20th-century feminist and queer literary and social theories of gender and sexuality.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPLIT110 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123943
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175811
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

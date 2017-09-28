@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T172000
-LAST-MODIFIED:20170211T124030
-UID:explore_courses8ca83e62-9d5c-4b40-a3dc-0f60ab05e6c3
-DTSTAMP:20170211T124030
+DTEND;TZID=America/Los_Angeles:20180405T172000
+LAST-MODIFIED:20170927T175940
+UID:explore_coursesfa1eab91-6ac2-47f6-9638-3dfc10705e29
+DTSTAMP:20170927T175940
 LOCATION:
 DESCRIPTION:Physical, chemical, and biological processes within soil systems. Emphasis is on factors governing nutrient availability, plant growth and production, land-resource management, and pollution within soils. How to classify soils and assess nutrient cycling and contaminant fate. Recommended: introductory chemistry and biology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS155 LBS
-DTSTART;TZID=America/Los_Angeles:20170406T143000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T143000
+CREATED:20170927T175940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

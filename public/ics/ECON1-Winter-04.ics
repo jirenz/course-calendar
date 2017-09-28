@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T192000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses0db4d92f-3961-40d1-bc06-c07cc4aada24
-DTSTAMP:20170211T123946
+DTEND;TZID=America/Los_Angeles:20180111T192000
+LAST-MODIFIED:20170927T175819
+UID:explore_coursesddc792a1-87ec-440b-b255-1801832cb323
+DTSTAMP:20170927T175819
 LOCATION:Lathrop 294
-DESCRIPTION:This is an introductory course in economics. We will cover both microeconomics (investigating decisions by individuals and firms) and macroeconomics (examining the economy as a whole).  The primary goal is to develop and then build on your understanding of the analytical tools and approaches used by economists. This will help you to interpret economic news and economic data at a much deeper level while also forming your own opinions on economic issues. The course will also provide a strong foundation for those of you who want to continue on with intermediate microeconomics and/or intermediate macroeconomics and possibly beyond.
+DESCRIPTION:This is an introductory course in economics. We will cover both microeconomics (investigating decisions by individuals and firms) and macroeconomics (examining the economy as a whole).  The primary goal is to develop and then build on your understanding of the analytical tools and approaches used by economists. This will help you to interpret economic news and economic data at a much deeper level while also forming your own opinions on economic issues. The course will also provide a strong foundation for those of you who want to continue on with intermediate microeconomics and/or intermediate macroeconomics and possibly beyond. In Spring 2017-2018 Econ 1 will use all class time for team-based learning instead of lectures; class attendance will be mandatory, and enrollment will be limited to 140 students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON1 DIS
-DTSTART;TZID=America/Los_Angeles:20170112T183000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T192000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T183000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T192000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T132000
-LAST-MODIFIED:20170211T124049
-UID:explore_coursese846f184-d194-419b-896e-c57f5d74f511
-DTSTAMP:20170211T124049
+DTEND;TZID=America/Los_Angeles:20180405T132000
+LAST-MODIFIED:20170927T175923
+UID:explore_courses9e6a44aa-4205-4381-b8d5-d54d820b3101
+DTSTAMP:20170927T175923
 LOCATION:Li Ka Shing Center, room 306
 DESCRIPTION:A  mentoring program designed to expose first and second year medical students to the rewarding field of child and adolescent psychiatry, and to increase awareness and education about child and adolescent mental health issues. Offers a year-long program wherein medical students are paired with child and adolescent psychiatrists, meeting bimonthly for clinical experiences and mentoring. Also provides opportunities for the students to get involved in cutting-edge scientific research, networking opportunities, and opportunities to attend professional conferences.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYC225 SEM
-DTSTART;TZID=America/Los_Angeles:20170406T123000
-CREATED:20170211T124049
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T123000
+CREATED:20170927T175923
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

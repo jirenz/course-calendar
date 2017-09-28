@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T132000
-LAST-MODIFIED:20170211T123953
-UID:explore_courses4c6da7b0-759a-4aad-b5e1-4707274cf9f1
-DTSTAMP:20170211T123953
-LOCATION:160-328
+DTEND;TZID=America/Los_Angeles:20170925T132000
+LAST-MODIFIED:20170927T175833
+UID:explore_courses7ab586cb-3457-4cda-b6f5-368088e4d2ca
+DTSTAMP:20170927T175833
+LOCATION:260-003
 DESCRIPTION:(formely JAPANLNG 121) The J111A, B, &amp; C course sequence is designed for students who wish to advance their speaking skills of the Japanese language to the advanced level.  Its goals are to help students gain proficiency and confidence in the use of Japanese and to prepare them for their lifelong study.nnThis is a &quot;students-driven, students-centered&quot; course.  The instructor will not &quot;teach.&quot;  Instead she is there to facilitate interactions and &quot;help the students obtain their goals.&quot;  Students are expected to come to class with their concrete goals as to what they want to do with their Japanese, and be ready to work hard in class to reach their goals.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:JAPANLNG111A LNG
-DTSTART;TZID=America/Los_Angeles:20160928T123000
-CREATED:20170211T123953
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T123000
+CREATED:20170927T175833
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

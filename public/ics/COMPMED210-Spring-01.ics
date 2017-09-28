@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T132000
-LAST-MODIFIED:20170211T124036
-UID:explore_coursese63ad996-0738-4397-becd-ad733ee0a16c
-DTSTAMP:20170211T124036
-LOCATION:Alway Building, Room M112
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20170927T175901
+UID:explore_courses755ba628-cbe6-478f-a15b-a956872c4bb3
+DTSTAMP:20170927T175901
+LOCATION:
 DESCRIPTION:Focus is on anatomy and histology (microscopic anatomy) of the entire mouse, proper instrument handling and dissection technique, proper tissue fixation, trimming and orientation in cassettes, identification of normal organ histology on H &amp; E-stained slides using a light microscope, use of special stains, and digital image acquisition. Basic pathological processes (inflammation, necrosis, apoptosis, hyperplasia, cancer) and how these manifest in different organs comprises the pathology aspect of this course. Participants present the pathology of their lab's mouse models. Preference to graduate students working with mouse models. Dissection labs. Comfort with mouse handling and previous participation in VSC mouse handling and euthanasia workshops recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPMED210 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T113000
-CREATED:20170211T124036
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T113000
+CREATED:20170927T175901
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

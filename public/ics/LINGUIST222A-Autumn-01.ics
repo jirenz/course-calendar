@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T132000
-LAST-MODIFIED:20170211T123955
-UID:explore_courses7ab7c6a7-6e9c-4cc2-8c39-8043e344cead
-DTSTAMP:20170211T123955
-LOCATION:School of Education 130
-DESCRIPTION:The roles of the verb and the lexicon in the determination of sentence syntax and their treatment in modern grammatical theories. Empirical underpinnings of core phenomena, including the argument/adjunct distinction, argument structure and argument realization, control and raising, operations on argument structure and grammatical function changing rules. Motivations for a lexicalist approach rooted in principles of lexical expression and subcategorization satisfaction. Prerequisite: 120 or permission of instructor.
+DTEND;TZID=America/Los_Angeles:20170925T152000
+LAST-MODIFIED:20170927T175836
+UID:explore_courses51a36658-d3dd-4e15-b22f-da259a2450cf
+DTSTAMP:20170927T175836
+LOCATION:Econ 106
+DESCRIPTION:The roles of the verb and the lexicon in the determination of sentence syntax and their treatment in modern grammatical theories. Empirical underpinnings of core phenomena, including the argument/adjunct distinction, argument structure and argument realization, control and raising, operations on argument structure and grammatical function changing rules. Motivations for a lexicalist approach rooted in principles of lexical expression and subcategorization satisfaction. Prerequisite: Permission of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:LINGUIST222A SEM
-DTSTART;TZID=America/Los_Angeles:20160928T113000
-CREATED:20170211T123955
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=WE,FR
+SUMMARY:LINGUIST222A LEC
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T175836
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T124051
-UID:explore_courses913f68ac-2d6a-4655-ac47-07ed80453131
-DTSTAMP:20170211T124051
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T175927
+UID:explore_coursesbb552eeb-3882-433f-89e3-abb87a7ef09d
+DTSTAMP:20170927T175927
 LOCATION:
-DESCRIPTION:For graduate, undergraduate and medical students. Focus is on fundamentals of stem cell biology and regenerative Medicine. Topics include exploration of the well-studied system of hematopoiesis, molecular pathways of pluripotency and tissue-specific stem cells and ends with coverage of aging as related to stem cell dynamics. Features include lectures on the basic science of each topic, followed by clinical applications in order to show the mechanisms and methods to translate findings to therapeutic applications, culminated with construction of a research proposal or business plan in an area of interest, to be further explored in STEMREM 203. Students enrolling for 3 units submit four of seven problem-sets; students enrolling for 4 units submit five of seven problem-sets; students enrolling for 5 units turn in seven of seven problem-sets.
+DESCRIPTION:For graduate, undergraduate and medical students. Focus is on the fundamentals of stem cell biology and stem cell applications in basic research and translational medicine. Topics include exploration of the well-studied system of hematopoiesis, molecular pathways of pluripotency and tissue-specific stem cells and ends with coverage of aging as related to stem cell dynamics. Lectures are topically paired to cover the basic science of each topic, followed by clinical applications within each field of study. Students will use lecture and literature content to construct a research proposal or business plan based on biological or clinical concepts learned during the quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STEMREM202 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T124051
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20170927T175927
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

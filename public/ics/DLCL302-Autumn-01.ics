@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T192000
-LAST-MODIFIED:20170211T123944
-UID:explore_courses09c7d550-4c48-4a49-a60e-4185a88bc65f
-DTSTAMP:20170211T123944
-LOCATION:30-101
-DESCRIPTION:Focuses on the research on advanced level reading and writing in second language contexts with a special focus on upper-level cultural texts.  Discussion of second language writing and reading assessment including a writing familiarization workshop.  Participants will focus on their cognizant language and literature for the completion of their assignments. Prerequisite: DLCL 301.
+DTEND;TZID=America/Los_Angeles:20170926T192000
+LAST-MODIFIED:20170927T175814
+UID:explore_coursesbbe02caf-e6e0-4357-bc1f-1effdeeb44e5
+DTSTAMP:20170927T175814
+LOCATION:30-102
+DESCRIPTION:This course is a follow-up to The Learning and Teaching of Second Languages (DLCL 301) and is structured to reflect the needs and challenges of students and teachers embarking on courses at the late second-year level and beyond. Participants will focus on a language and literary area within a chosen foreign language. They will interrogate how literature learning assists further language acquisition and how the level of language knowledge facilitates and impedes literary interpretation and reading comprehension. Prerequisite: DLCL 301.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DLCL302 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T173000
-CREATED:20170211T123944
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T173000
+CREATED:20170927T175814
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

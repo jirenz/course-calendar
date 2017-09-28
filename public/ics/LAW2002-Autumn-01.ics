@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T110000
-LAST-MODIFIED:20170211T124028
-UID:explore_courses95e4882a-5947-4617-acde-5f8c1cd900b0
-DTSTAMP:20170211T124028
-LOCATION:Law190
-DESCRIPTION:(Formerly Law 312)  The law school offers two survey courses dealing with constitutional criminal procedure. &quot;Criminal Adjudication&quot; covers the formal pretrial and trial processes, including the right of counsel, prosecutorial charging criteria, grand juries, bail, speedy trial, discovery, plea bargaining, trial by jury, and double jeopardy. This course, &quot;Criminal Investigation,&quot; covers police investigation in the form of searches and seizures, interrogations, lineups, and undercover operations, and hence examines the Fourth and Fifth (and, to a limited extent, the Sixth) Amendment rules regulating the police in these endeavors. It also incorporates some of the  federal laws governing electronic communications and privacy. Students may take both Criminal Investigation and Criminal Adjudication. (There is, of course, no requirement to do so.) Elements used in grading: Final exam (in-school, open book), plus small adjustments for exceptional class participation.
+DTEND;TZID=America/Los_Angeles:20170925T110000
+LAST-MODIFIED:20170927T175752
+UID:explore_coursesbb58a8b5-38b5-4d87-bc6c-c0bca7c0cf37
+DTSTAMP:20170927T175752
+LOCATION:Law180
+DESCRIPTION:(Formerly Law 312)  The law school offers two survey courses dealing with constitutional criminal procedure. &quot;Criminal Adjudication&quot; covers the formal pretrial and trial processes, including the right of counsel, prosecutorial charging criteria, grand juries, bail, speedy trial, discovery, plea bargaining, trial by jury, and double jeopardy. This course, &quot;Criminal Investigation,&quot; covers police investigation in the form of searches and seizures, interrogations, lineups, and undercover operations, and hence examines the Fourth and Fifth (and, to a limited extent, the Sixth) Amendment rules regulating the police in these endeavors. It also incorporates some of the  federal laws governing electronic communications and privacy. Students may take both Criminal Investigation and Criminal Adjudication. (There is, of course, no requirement to do so.) Elements used in grading: Final exam (in-class, open book), plus small adjustments for exceptional class participation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW2002 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T094000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T110000;BYDAY=MO,TU,WE
+DTSTART;TZID=America/Los_Angeles:20170925T094000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T110000;BYDAY=MO,TU,WE
 END:VEVENT
 END:VCALENDAR

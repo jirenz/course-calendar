@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T182000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses81948425-cba1-41d1-9f0c-709c1c7ea623
-DTSTAMP:20170211T124020
+DTEND;TZID=America/Los_Angeles:20170926T182000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursesa3fa3ba9-32b3-435a-896d-8ce16d52f969
+DTSTAMP:20170927T180001
 LOCATION:Bishop Auditorium
-DESCRIPTION:Computation and visualization using MATLAB.  Differential vector calculus:  analytic geometry in space, functions of several variables, partial derivatives, gradient, unconstrained maxima and minima, Lagrange multipliers. Introduction to linear algebra: matrix operations, systems of algebraic equations, methods of solution and applications. Integral vector calculus:  multiple integrals in Cartesian, cylindrical, and spherical coordinates, line integrals, scalar potential, surface integrals, Green&iquest;s, divergence, and Stokes&iquest; theorems.  Examples and applications drawn from various engineering fields. Prerequisites: 10 units of AP credit (Calc BC with 4 or 5, or Calc AB with 5), or Math 41 and 42.
+DESCRIPTION:Computation and visualization using MATLAB.  Differential vector calculus:  analytic geometry in space, functions of several variables, partial derivatives, gradient, unconstrained maxima and minima, Lagrange multipliers. Introduction to linear algebra: matrix operations, systems of algebraic equations, methods of solution and applications. Integral vector calculus:  multiple integrals in Cartesian, cylindrical, and spherical coordinates, line integrals, scalar potential, surface integrals, Green&iquest;s, divergence, and Stokes&iquest; theorems.  Examples and applications drawn from various engineering fields. Prerequisites: 10 units of AP credit (Calc BC with 5, or Calc AB with 5 or placing out of the single variable math placement test: https://exploredegrees-nextyear.stanford.edu/undergraduatedegreesandprograms/#aptextt), or Math 19-21.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR154 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T163000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T122000
-LAST-MODIFIED:20170211T124006
-UID:explore_courses37332bb0-6ff3-4039-af14-04e245b49a43
-DTSTAMP:20170211T124006
+DTEND;TZID=America/Los_Angeles:20180402T152000
+LAST-MODIFIED:20170927T175855
+UID:explore_coursesae65ed71-0914-41c0-85c0-b06c29782d1c
+DTSTAMP:20170927T175855
 LOCATION:Memaud126
 DESCRIPTION:This course introduces the goals, directives and techniques of designing costumes for performance.  From the first reading of the script to opening night, all aspects will be covered including director/designer relationships, design approach, research, rendering, fabric selection, procurement or construction of costumes, fittings and final dress rehearsals.  Each student will work on, or be assigned one main project of their choice. This class can coincide or be taken in advance of a student&iquest;s involvement in a campus show, utilizing the campus project as their main project in the class.  Smaller exercises will be given throughout the quarter to emphasize principles and invigorate design discussions.  All students will be required to attend the performances of their peers&iquest; projects.  One field trip to a professional theater may be planned.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS132 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T124006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175855
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

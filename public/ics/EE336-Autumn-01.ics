@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20170211T124020
-UID:explore_coursesa27cd4f1-bbbf-4a7d-8db4-cbda8ef56cac
-DTSTAMP:20170211T124020
-LOCATION:Huang Engineerig Center 18
+DTEND;TZID=America/Los_Angeles:20170926T162000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursesd81ad951-4fb3-4ea2-9543-89a4dc52e2bd
+DTSTAMP:20170927T180001
+LOCATION:Huang Engineering Center 18
 DESCRIPTION:Recent developments in micro- and nanophotonic materials and devices. Basic concepts of photonic crystals. Integrated photonic circuits. Photonic crystal fibers. Superprism effects. Optical properties of metallic nanostructures. Sub-wavelength phenomena and plasmonic excitations. Meta-materials. Prerequisite: Electromagnetic theory at the level of 242.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE336 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T150000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

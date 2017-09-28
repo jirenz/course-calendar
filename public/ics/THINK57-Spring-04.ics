@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T112000
-LAST-MODIFIED:20170211T124009
-UID:explore_courses8e1d4394-5f15-47f1-83b3-a065de219fd6
-DTSTAMP:20170211T124009
+DTEND;TZID=America/Los_Angeles:20180403T112000
+LAST-MODIFIED:20170927T175749
+UID:explore_coursesd7ff9bdc-ead4-4628-93d4-740f24bbb382
+DTSTAMP:20170927T175749
 LOCATION:160-326
-DESCRIPTION:What does it mean to be skeptical of the notion of progress? Where and when did we start believing in human progress and human perfectibility? Does progress imply that history has a particular direction? Is the idea of sustainability a viable alternative to the idea of progress? Much of our everyday thinking about politics, society, and even personal interactions depend on some concept of progress.  This course challenges that basic assumption by engaging with thinkers who have cast the idea of progress into radical doubt. We ask where and when our modern idea of progress originated and why it has come to dominate Western thinking.  The course engages with thinkers who argued in favor of progress as well as thinkers who attacked its presumptions. Reading and critically evaluating philosophical and literary texts, we will investigate the different consequences of our residual belief in progress, as well as the consequences of our abandonment of that belief.
+DESCRIPTION:Where and when did we start believing in human progress? Does progress imply that history has a particular direction or end-goal?nMuch of our everyday thinking about politics, society, and history depends on some implicit or explicit concept of progress. Have we reached a point where we need to replace the idea of progress with that of sustainability? These are some of the questions this course will raise as it looks at how ideas of progress inform western thinking about science, history, evolution, and politics. It will engage with thinkers who argued in favor of the idea of progress as well as thinkers who attacked its presumptions. Reading and critically evaluating philosophical, scientific, and literary texts, we will investigate the different consequences of our residual belief in progress, as well as the consequences of our possible abandonment of that belief.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:THINK57 DIS
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T124009
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T175749
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

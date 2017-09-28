@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T152000
-LAST-MODIFIED:20170211T124004
-UID:explore_coursesd5d8f949-127b-416d-b8f4-67953b214880
-DTSTAMP:20170211T124004
-LOCATION:50-51B
+DTEND;TZID=America/Los_Angeles:20180109T152000
+LAST-MODIFIED:20170927T175851
+UID:explore_courses20bc96bb-dc56-4f67-bdba-c562a9eb7fe6
+DTSTAMP:20170927T175851
+LOCATION:Thornt209
 DESCRIPTION:Continuation of SPANLANG 12. Integration of community engagement and language, with emphasis on developing advanced proficiency in oral and written discourse. Targeted functional abilities include presentational and socioculturally appropriate language in formal and informal, community and professional contexts. SL content focuses on immersion in civics-based reciprocity and service learning in the Spanish-speaking local community. Service Learning Course (certified by Haas Center). Prerequisite: Placement Test, SPANLANG 12C, 12R, 12M or 12S. Fulfills the IR major Language Requirement.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPANLANG13SL LNG
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

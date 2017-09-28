@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20170211T123944
-UID:explore_coursesbf53642f-863c-4953-9a01-3ea3ff285f22
-DTSTAMP:20170211T123944
+DTEND;TZID=America/Los_Angeles:20180108T152000
+LAST-MODIFIED:20170927T175813
+UID:explore_courses96fb154d-9c4a-4ffb-a684-c4b0b83626fd
+DTSTAMP:20170927T175813
 LOCATION:
 DESCRIPTION:Combining actual dancing with medical research, this Cardinal Course investigates the dynamic complementary relationship between two practices, medicine and dance, through the lens of Parkinson's disease (PD), a progressive neurological disease that manifests a range of movement disorders.  &quot;Dance for PD&quot; is an innovative approach to dancing --and to teaching dance --for those challenged by PD.  Course format consists of: 1.  Weekly Lecture/Seminar Presentation:  Partial list of instructors include Ms. Frank, Dr. Bronte-Stewart and other Stanford medical experts &amp; research scientists, David Leventhal (Director, &quot;Dance for PD&quot;) and Bay Area &quot;Dance for PD&quot; certified master teachers, film-maker Dave Iverson, Damara Ganley, and acclaimed choreographers Joe Goode, Alex Ketley, Judith Smith (AXIS Dance).  2.  Weekly Dance Class:  Stanford students will fully participate as dancers, and creative partners, in the Stanford Neuroscience Health Center's ongoing &quot;Dance for Parkinson's&quot; community dance class for people with PD.  This Community Engaged Learning component provides opportunity to engage meaningfully with people in the PD community.  Dancing together weekly, students will experience firsthand the embodied signature values of &quot;Dance for PD&quot; classes:  full inclusion, embodied presence, aesthetic and expressive opportunity for creative engagement, and community-building in action.  A weekly debriefing session within Friday's class time will allow students to integrate seminar material with their movement experiences.nnNO PRE-REQUISITES: No prior dance experience required.  Beginners are welcome.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DANCE100 PRC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T123944
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T175813
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170211T123958
-UID:explore_coursesdf68c65b-ed44-4a0e-bc55-75b8dede1f1c
-DTSTAMP:20170211T123958
-LOCATION:ScienceTeachingLearningCntr119
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T175843
+UID:explore_courses5b882bf7-4357-4a62-901a-8bd6a98dbd6c
+DTSTAMP:20170927T175843
+LOCATION:380-380F
 DESCRIPTION:(Graduate students register for 287.) Contemporary research in the philosophy of action.  Topics include:  What is it to be an agent? Is there a philosophically defensible contrast between being an agent and being a locus of causal forces to which one is subject? What is it to act purposively? What is intention? What is the relation between intention and belief? What is it to act intentionally? What is it to act for a reason? What is the relation between explaining why someone acted by citing the reasons for which she acted and causal explanation of her action? What is the relation between theoretical and practical rationality?  What is the nature of our knowledge of our own intentional activity?  What is it to act autonomously? What is shared cooperative activity?  Prerequisite: 80.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL187 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T123958
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175843
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

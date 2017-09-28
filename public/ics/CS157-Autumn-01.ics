@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20170211T124018
-UID:explore_courses5b6560c8-1d72-41dc-ad50-3c809accf808
-DTSTAMP:20170211T124018
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses855ea5cb-0f66-4377-9981-b0f6c4c7f225
+DTSTAMP:20170927T175958
 LOCATION:Gates B1
 DESCRIPTION:An elementary exposition from a computational point of view of propositional and predicate logic, axiomatic theories, and theories with equality and induction. Interpretations, models, validity, proof, strategies, and applications. Automated deduction: polarity, skolemization, unification, resolution, equality. Prerequisite: 103 or 103B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS157 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T120000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T120000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

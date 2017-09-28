@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T152000
-LAST-MODIFIED:20170211T124024
-UID:explore_courses9c6449bf-9b63-4a27-ac6b-740f38c6d29e
-DTSTAMP:20170211T124024
-LOCATION:Gold Driving Range
-DESCRIPTION:This course is designed to teach the fundamentals of the golf swing; putting, chipping, and sand play. We will also cover golf etiquette and rules. This course will utilize class discussions, class assignments and student participation to enable students to: (1) Understand basic components of skill-related and health-related physical fitness, (2) Develop physical fitness and motor skills, and (3) Develop a positive attitude toward wellness and physical activity which will facilitate a healthy lifestyle.
+DTEND;TZID=America/Los_Angeles:20180403T112000
+LAST-MODIFIED:20170927T175934
+UID:explore_coursesf7c9533b-e556-415a-aefd-87bfb332eec8
+DTSTAMP:20170927T175934
+LOCATION:Avery Recreational Pool
+DESCRIPTION:In this class you will learn how to relax in the water, breath effectively, float and tread, swim 4-5 strokes (freestyle, backstroke, sidestroke, elementary backstroke, and breaststroke, time permitting), jump in the water from the deck, use swimming equipment (kickboards, pull buoys, fins) and swim across a 25- yard pool.  This course will utilize class discussions, class assignments, and student participation to enable students to: (1) Swim each stroke with proper form and technique (2) Develop an understanding of how to stay healthy and conditioned to further enhance swim strokes and decrease the risk of injuries. (3) Develop a positive attitude toward wellness and physical activity, which will facilitate a healthy lifestyle. nIf you have fear or anxiety in the water, consider taking the PE 128 Confidence in Water class.  If you can swim across a 25 yard pool, you should take the PE 52: Intermediate Swim class. Prerequisite: non-swimmer, unable to swim across a 25 yard pool.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PE51 ACT
-DTSTART;TZID=America/Los_Angeles:20170404T143000
-CREATED:20170211T124024
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T175934
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

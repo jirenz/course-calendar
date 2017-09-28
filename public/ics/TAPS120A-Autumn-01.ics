@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T172000
-LAST-MODIFIED:20170211T124006
-UID:explore_courses31ef3b01-2493-48aa-99ef-1fcbd9dcef5f
-DTSTAMP:20170211T124006
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175855
+UID:explore_coursesa075320c-3560-4f03-941c-2650d24bc5f1
+DTSTAMP:20170927T175855
 LOCATION:Memaud204
 DESCRIPTION:A substantive introduction to the basics of the craft of acting, this course gives all incoming students the foundation of a common vocabulary. Students will learn fundamental elements of dramatic analysis, and how to apply it in action.  Topics include scene analysis, environment work, psychological and physical scoring, and development of a sound and serviceable rehearsal technique.  Scene work will be chosen from accessible, contemporary, and realistic plays. Outside rehearsal time required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS120A PRC
-DTSTART;TZID=America/Los_Angeles:20160926T153000
-CREATED:20170211T124006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170926T113000
+CREATED:20170927T175855
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

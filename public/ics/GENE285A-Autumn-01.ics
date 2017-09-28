@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T105000
-LAST-MODIFIED:20170211T124037
-UID:explore_courses8424d163-33c8-436e-902d-4a53fb89905e
-DTSTAMP:20170211T124037
+DTEND;TZID=America/Los_Angeles:20170925T105000
+LAST-MODIFIED:20170927T175903
+UID:explore_courses5a17e4d4-bcd8-46f5-b4a9-1d725852336a
+DTSTAMP:20170927T175903
 LOCATION:
-DESCRIPTION:Year-long seminar primarily for genetic counseling students. Autumn: basics of medical communication; crosscultural and disability sensitive communication about genetics, and principles of providing genetic counseling. Undergraduates may enroll in Autumn Quarter with consent of instructor. Extra paper required for 3 units.
+DESCRIPTION:Year-long seminar primarily for genetic counseling students. Autumn: basics of medical communication; crosscultural and disability sensitive communication about genetics, and principles of providing genetic counseling. Undergraduates may enroll in Autumn Quarter with consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE285A SEM
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T105000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175903
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T105000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

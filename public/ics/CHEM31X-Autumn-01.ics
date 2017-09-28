@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170211T123940
-UID:explore_courses243f2746-e410-499c-bff3-8bcac2da0811
-DTSTAMP:20170211T123940
-LOCATION:Braunlec
-DESCRIPTION:Accelerated; for students with substantial chemistry background. Chemical equilibria concepts, equilibrium constants, acids and bases, chemical thermodynamics, quantum concepts, models of ionic and covalent bonding, atomic and molecular orbital theory, periodicity, and bonding properties of matter. Recitation. Prerequisites: AP chemistry score of 5 or passing score on chemistry placement test, and AP Calculus AB score of 4 or Math 20 or Math 41. Recommended: high school physics.
+DTEND;TZID=America/Los_Angeles:20170927T162000
+LAST-MODIFIED:20170927T175804
+UID:explore_coursesb1f52f0f-6693-4ac0-8361-8360b8c91bf6
+DTSTAMP:20170927T175804
+LOCATION:STLC111
+DESCRIPTION:Accelerated; for students with substantial chemistry background. Chemical equilibria concepts, equilibrium constants, acids and bases, chemical thermodynamics, quantum concepts, models of ionic and covalent bonding, atomic and molecular orbital theory, periodicity, and bonding properties of matter. Recitation. Prerequisites: AP chemistry score of 5 or passing score on chemistry placement test, and AP Calculus AB score of 4 or Math 20. Recommended: high school physics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM31X LEC
-DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170927T150000
+CREATED:20170927T175804
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=WE
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20170211T123940
-UID:explore_courses51875dea-a198-4002-b694-21786eeea912
-DTSTAMP:20170211T123940
-LOCATION:Braunaud
-DESCRIPTION:Accelerated; for students with substantial chemistry background. Chemical equilibria concepts, equilibrium constants, acids and bases, chemical thermodynamics, quantum concepts, models of ionic and covalent bonding, atomic and molecular orbital theory, periodicity, and bonding properties of matter. Recitation. Prerequisites: AP chemistry score of 5 or passing score on chemistry placement test, and AP Calculus AB score of 4 or Math 20 or Math 41. Recommended: high school physics.
+DTEND;TZID=America/Los_Angeles:20170925T122000
+LAST-MODIFIED:20170927T175804
+UID:explore_coursesab490c4b-a4b6-4280-b3f8-6e07113f1b95
+DTSTAMP:20170927T175804
+LOCATION:STLC111
+DESCRIPTION:Accelerated; for students with substantial chemistry background. Chemical equilibria concepts, equilibrium constants, acids and bases, chemical thermodynamics, quantum concepts, models of ionic and covalent bonding, atomic and molecular orbital theory, periodicity, and bonding properties of matter. Recitation. Prerequisites: AP chemistry score of 5 or passing score on chemistry placement test, and AP Calculus AB score of 4 or Math 20. Recommended: high school physics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM31X LEC
-DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170925T113000
+CREATED:20170927T175804
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

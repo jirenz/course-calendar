@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T112000
-LAST-MODIFIED:20170211T124022
-UID:explore_coursesb857ef8b-ea58-4400-b59c-26244630a070
-DTSTAMP:20170211T124022
-LOCATION:Herrin T195
-DESCRIPTION:Diffusion and phase transformations in solids. Diffusion topics: Fick's laws, atomic theory of diffusion, and diffusion in alloys. Phase transformation topics: nucleation, growth, diffusional transformations, spinodal decomposition, and interface phenomena. Material builds on the mathematical, thermodynamic, and statistical mechanical foundations in the prerequisites. Prerequisites: 194/204. Undergraduates register for 197 for 4 units; graduates register for 207 for 3 units.
+DTEND;TZID=America/Los_Angeles:20180402T112000
+LAST-MODIFIED:20170927T180003
+UID:explore_coursesf6469bb8-7cde-4354-9c43-9eee8b561de4
+DTSTAMP:20170927T180003
+LOCATION:200-034
+DESCRIPTION:Diffusion and phase transformations in solids. Diffusion topics: Fick's laws, atomic theory of diffusion, and diffusion in alloys. Phase transformation topics: nucleation, growth, diffusional transformations, spinodal decomposition, and interface phenomena. Material builds on the mathematical, thermodynamic, and statistical mechanical foundations in the prerequisites. Prerequisites: MATSCI 194/204. Undergraduates register for 197 for 4 units; graduates register for 207 for 3 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI207 LEC
-DTSTART;TZID=America/Los_Angeles:20170406T103000
-CREATED:20170211T124022
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T122000
-LAST-MODIFIED:20170211T124022
-UID:explore_courses45a94d49-11f0-484e-b32f-824d703b5419
-DTSTAMP:20170211T124022
-LOCATION:Hewlett Teaching Center 200
-DESCRIPTION:Diffusion and phase transformations in solids. Diffusion topics: Fick's laws, atomic theory of diffusion, and diffusion in alloys. Phase transformation topics: nucleation, growth, diffusional transformations, spinodal decomposition, and interface phenomena. Material builds on the mathematical, thermodynamic, and statistical mechanical foundations in the prerequisites. Prerequisites: 194/204. Undergraduates register for 197 for 4 units; graduates register for 207 for 3 units.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:MATSCI207 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T113000
-CREATED:20170211T124022
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20170927T180003
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

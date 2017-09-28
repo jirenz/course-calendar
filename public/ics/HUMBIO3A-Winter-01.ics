@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T102000
-LAST-MODIFIED:20170211T123952
-UID:explore_coursesf3296018-64c2-4877-99f4-b21b326d0891
-DTSTAMP:20170211T123952
+DTEND;TZID=America/Los_Angeles:20180108T102000
+LAST-MODIFIED:20170927T175830
+UID:explore_coursese39179b3-e20c-4cc0-88f7-e6eb12b6981b
+DTSTAMP:20170927T175830
 LOCATION:320-105
-DESCRIPTION:The principles of the biology of cells: principles of human developmental biology, biochemistry of energetics and metabolism, the nature of membranes and organelles, hormone action and signal transduction in normal and diseased states (diabetes, cancer, autoimmune diseases), drug discovery, immunology, and drug addiction. HUMBIO 3A and 3B are designed to be taken concurrently and exams for both sides may include material from joint module lectures.  Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines. Prerequisite: college chemistry or completion of the HumBio Core on-line chemistry lecture series during the fall quarter.
+DESCRIPTION:The principles of the biology of cells: principles of human developmental biology, biochemistry of energetics and metabolism, the nature of membranes and organelles, hormone action and signal transduction in normal and diseased states (diabetes, cancer, autoimmune diseases), drug discovery, immunology, and drug addiction. HUMBIO 3A and HUMBIO 3B are designed to be taken concurrently and exams for both sides may include material from joint module lectures. Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines. Please note Human Biology majors are required to take the Human Biology Core Courses for a letter grade. Prerequisite: college chemistry or completion of the HumBio Core on-line chemistry lecture series during the fall quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO3A LEC
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,TU,WE,TH
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20170927T175830
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=MO,TU,WE,TH
 END:VEVENT
 END:VCALENDAR

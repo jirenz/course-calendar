@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T132000
-LAST-MODIFIED:20170211T123930
-UID:explore_coursesd6407efc-d534-4da9-aed6-9251a8d0aca8
-DTSTAMP:20170211T123930
+DTEND;TZID=America/Los_Angeles:20170929T132000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses25cb7a3e-ae2d-44ae-ad80-bcd74ec31be0
+DTSTAMP:20170927T175938
 LOCATION:
 DESCRIPTION:Education and Society Theme (EAST) House seminar. In autumn quarter, faculty and other scholars from around the University discuss the latest issues, debates, and research in the field of Education. In winter quarter, research and practice pertaining to sex, gender, and education are presented by professionals and scholars. In the spring, the seminar provides an inquiry into the culture at Stanford and one's personal values. Through an examination of these topics, students are able to share and develop their varied interests in educational research, policy, and practice. Notes: Attendance at first class required. Seminar meets in the EAST House Dining Hall located at 554 Governor's Ave. The seminar is open to all students at Stanford with first-priority given to pre-assign residents of EAST House followed by other residents of EAST and all other undergraduates. Graduate students are allowed to enroll on a space-available basis. Visitors/auditors are not allowed. The seminar is required for all pre-assigned residents of EAST House and is repeatable for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC100A SEM
-DTSTART;TZID=America/Los_Angeles:20160930T123000
-CREATED:20170211T123930
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170929T123000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T142000
-LAST-MODIFIED:20170211T124009
-UID:explore_coursesc285634e-942a-48cc-ad47-60b945aafff9
-DTSTAMP:20170211T124009
+DTEND;TZID=America/Los_Angeles:20170927T112000
+LAST-MODIFIED:20170927T175749
+UID:explore_coursesbd87b4c6-d0a3-44ce-8c55-b6857ed7763b
+DTSTAMP:20170927T175749
 LOCATION:Sweet403
 DESCRIPTION:This course will introduce freshmen to a range of ways of thinking about empathy.  How do we know and understand the other?  How does knowledge of another's experience and circumstances enable us to make moral decisions and take moral actions?  It will take students on an intellectual investigation of the topic of empathy from the Buddhist emphasis on compassion in the fifth century BCE to Jesus' teaching of parables in the first century CE to Enlightenment philosophy to Silicon Valley&iquest;s adoption of empathy in the twenty-first century.  The main focus will be on the modern period (from the 18th to 20th century) and students will be asked to approach different genres of text through the lens of empathy. The course will culminate with a one-week creative workshop on the question of empathy.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:THINK50 DIS
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T124009
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170927T103000
+CREATED:20170927T175749
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20170211T124011
-UID:explore_courses224d2b64-328c-4022-8735-9ff66996dfba
-DTSTAMP:20170211T124011
-LOCATION:530-127
+DTEND;TZID=America/Los_Angeles:20180108T145000
+LAST-MODIFIED:20170927T175947
+UID:explore_coursesd395aaa8-b9c4-43de-8077-2178d59d6a95
+DTSTAMP:20170927T175947
+LOCATION:School of Education 128
 DESCRIPTION:Basic principles for endowing mobile autonomous robots with perception, planning, and decision-making capabilities. Algorithmic approaches for robot perception, localization, and simultaneous localization and mapping; control of non-linear systems, learning-based control, and robot motion planning; introduction to methodologies for reasoning under uncertainty, e.g., (partially observable) Markov decision processes. Extensive use of the Robot Operating System (ROS) for demonstrations and hands-on activities. Prerequisite: CS 106A or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA274 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T175947
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

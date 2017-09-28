@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T102000
-LAST-MODIFIED:20170211T123939
-UID:explore_courses46a0b352-f3cf-4335-b8a4-c58d4d7c1119
-DTSTAMP:20170211T123939
-LOCATION:320-220
+DTEND;TZID=America/Los_Angeles:20180406T102000
+LAST-MODIFIED:20170927T175802
+UID:explore_courses4e8c8d72-da35-4dd8-8012-4c8dd1edf02f
+DTSTAMP:20170927T175802
+LOCATION:STLC118
 DESCRIPTION:The quest to understand how the body uses sugar and the overlapping quest for a diabetes cure have resulted in discoveries in every branch of biology.  Topics include insulin production, structure, and evolution; transduction of the insulin signal; transport of sugar into cells; sugar storage and release; how the brain transports and uses sugar; growth control; pancreas development; genetic and environmental causes of diabetes; engineering solutions to diabetes (artificial pancreas, stem cells), glucose homeostasis (modeling insulin action). Prerequisites: BIO 41, 42.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO167 DIS
-DTSTART;TZID=America/Los_Angeles:20170407T093000
-CREATED:20170211T123939
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180406T093000
+CREATED:20170927T175802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

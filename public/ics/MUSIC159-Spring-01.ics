@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T213000
-LAST-MODIFIED:20170211T123957
-UID:explore_courses7262d340-6974-4523-860a-197f102ea495
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180403T213000
+LAST-MODIFIED:20170927T175841
+UID:explore_coursesc6c6710d-ed49-459f-87f5-3516b2f4ec81
+DTSTAMP:20170927T175841
 LOCATION:Campbell Recital Hall 126
 DESCRIPTION:Small choir specializing in Medieval, Renaissance, and early Baroque vocal music. One major concert per quarter. May be repeated for credit for a total of 15 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC159 PRC
-DTSTART;TZID=America/Los_Angeles:20170404T193000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T213000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T193000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T213000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

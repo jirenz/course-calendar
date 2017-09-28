@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T112000
-LAST-MODIFIED:20170211T124004
-UID:explore_coursesf87a1c29-fbf4-4101-aa3e-b5c82b4e0f47
-DTSTAMP:20170211T124004
-LOCATION:110-101
+DTEND;TZID=America/Los_Angeles:20180406T112000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesf4f0195a-e05a-4d1b-aec5-e2389d197342
+DTSTAMP:20170927T175851
+LOCATION:110-114
 DESCRIPTION:Note: for first-year Sociology Doctoral Students only.nThis class will prepare you for the important roles as undergraduate instructors at Stanford. It rests on the idea that teaching is not only an art that we can all learn, continually improve, and cultivate; teaching can also become a source of great joy and personal meaning during your graduate career, and beyond. You will not only learn how to become an effective instructor in your day-to-day teaching roles (e.g., how to write a compelling syllabus, deliver a powerful lecture, lead an engaging discussion section, build an inclusive classroom, juggle with teaching logistics, make best use of technology, campus resources etc.); you will also discover that teaching is - above all  a deeply personal process. While your students will all have different backgrounds, stories and learning styles, we, too, all have different philosophies and ways of teaching. Throughout this class, we will help each other explore what these might be, how we can develop and cultivate them, and, finally, how we can actively employ them to foster learning environments that allow for both academic, as well as personal growth. It is my hope that, at the end of this class, you will embark on your very own educational journeys as teacher-learners who unlock the many great potentials that reside not only in your students, but also in you: plus est en vous! There is more in you (than you think!) With this in mind and the right tools in our hands, we can begin to positively transform our students, while allowing ourselves to be transformed by them at the very same time: this is the art and joy of teaching.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC300 WKS
-DTSTART;TZID=America/Los_Angeles:20170407T093000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180406T093000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

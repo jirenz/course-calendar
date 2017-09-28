@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T112000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses0da320ea-bfa2-4f61-bfe2-49140eedd448
-DTSTAMP:20170211T123931
+DTEND;TZID=America/Los_Angeles:20180112T112000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursesee73f7e8-5153-4700-934a-3312fe64cfe3
+DTSTAMP:20170927T175938
 LOCATION:
 DESCRIPTION:Forum for POLS students to link their academic learning to real world experience through in-class discussions, presentations, and reflective writing.  Fall Quarter is focused on understanding the intern's role within the larger organization. Winter Quarter is outward looking with a focus on understanding the broader fields the students' organizations reside within. Spring Quarter focus is on students learning from and being prepared to teach others.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC210 WKS
-DTSTART;TZID=America/Los_Angeles:20170113T083000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T083000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

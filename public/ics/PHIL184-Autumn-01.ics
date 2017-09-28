@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170211T123958
-UID:explore_courses12eb0f97-108d-446d-9afd-a290b0d2fe57
-DTSTAMP:20170211T123958
-LOCATION:Gates B12
+DTEND;TZID=America/Los_Angeles:20170926T162000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses97a818fa-be50-42ab-9f01-99d2afff16bc
+DTSTAMP:20170927T175933
+LOCATION:380-380D
 DESCRIPTION:This is an advanced introduction to core topics in epistemology -- the philosophical study of human knowledge. Questions covered will include: What is knowledge? Can we know anything outside our own minds? Must all knowledge rest on secure foundations? Does knowing something require knowing that you know it? What are the connections between knowledge and rationality? Does 'knowledge' mean the same in the philosophy classroom as it does in everyday life? Prerequisite Phil 80 or consent of the instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL184 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20170211T123958
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170926T150000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

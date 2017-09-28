@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20170211T123953
-UID:explore_coursese760d429-aed1-450b-b2ac-f339966b78e1
-DTSTAMP:20170211T123953
-LOCATION:Encina West 202
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20170927T175832
+UID:explore_coursesce005316-9f89-4240-9026-ce6612d0dfe8
+DTSTAMP:20170927T175832
+LOCATION:Encina West 101
 DESCRIPTION:First, this course analyzes the EU's greatest challenge, preserving the monetary union, and discusses the political and economic reforms needed to achieve that goal. In this context the course also studies the fiscal and budgetary polices of the EU. Second, the course discusses the EU's role in global politics, its desire to play a more prominent role, and the ways to reach that objective. Third, the course analyzes the EU's institutional challenges in its efforts to enhance its democratic character.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INTNLREL123 SEM
-DTSTART;TZID=America/Los_Angeles:20170403T143000
-CREATED:20170211T123953
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T150000
+CREATED:20170927T175832
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

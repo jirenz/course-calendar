@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T192000
-LAST-MODIFIED:20170211T124020
-UID:explore_coursesacea6ad9-c283-407b-a3af-56521fd08449
-DTSTAMP:20170211T124020
+DTEND;TZID=America/Los_Angeles:20180404T192000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursesa098e707-0083-4b4b-9d7f-2dad3008f8ae
+DTSTAMP:20170927T180001
 LOCATION:550-200
 DESCRIPTION:Once I get my degree, how do I get a life? What do you want out of life after Stanford?  Wondering how to weave together what fits, is doable, and will be truly meaningful?  Join us for Designing the Professional.  This course applies the innovation principles of design thinking to the &quot;wicked problem&quot; of designing your life and vocation in and beyond Stanford.  We'll approach these lifelong questions with a structured framework set in a seminar where you can work out your ideas in conversation with your peers. Seminar open to all graduate students (PhD, Masters) and Postdocs in all 7 schools.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR311B SEM
-DTSTART;TZID=America/Los_Angeles:20170405T173000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T192000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T173000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

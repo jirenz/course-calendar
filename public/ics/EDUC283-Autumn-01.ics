@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T182000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursescd18fbd3-a5b7-4cbf-8857-52af6388d8a8
-DTSTAMP:20170211T123931
+DTEND;TZID=America/Los_Angeles:20170927T192000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses6ba37f28-5848-4a03-a686-794459a8ab05
+DTSTAMP:20170927T175938
 LOCATION:
 DESCRIPTION:(Formerly EDUC 144). How schools form a context for children's social and cognitive development. Focus is on early and middle childhood. Transactional processes between children and learning opportunities in classroom contexts. Topics include: alternative theoretical perspectives on the nature of child development; early experience and fit with traditional school contexts; assessment practices and implications for developing identities as learners; psychological conceptions of motivational processes and alternative perspectives; the role of peer relationships in schools; and new designs for learning environments. Readings address social science and methodological issues. STEP Elementary only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC283 SEM
-DTSTART;TZID=America/Los_Angeles:20160928T143000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T143000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

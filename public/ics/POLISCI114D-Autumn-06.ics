@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T102000
-LAST-MODIFIED:20170211T124000
-UID:explore_courses0dc51c23-46e5-441f-9476-9f07e55ca399
-DTSTAMP:20170211T124000
-LOCATION:160-325
+DTEND;TZID=America/Los_Angeles:20170928T112000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses04f3fac0-e354-40b6-856e-603b70b45b1f
+DTSTAMP:20170927T175846
+LOCATION:Encina West 202
 DESCRIPTION:Links among the establishment of democracy, economic growth, and the rule of law. How democratic, economically developed states arise. How the rule of law can be established where it has been historically absent. Variations in how such systems function and the consequences of institutional forms and choices. How democratic systems have arisen in different parts of the world. Available policy instruments used in international democracy, rule of law, and development promotion efforts.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI114D DIS
-DTSTART;TZID=America/Los_Angeles:20160929T093000
-CREATED:20170211T124000
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T103000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

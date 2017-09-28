@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T182000
-LAST-MODIFIED:20170211T123949
-UID:explore_courses595c0ab7-f634-4908-adfa-7e2a9989658e
-DTSTAMP:20170211T123949
-LOCATION:250-201
-DESCRIPTION:A history of literary theory for entering graduate students in national literature departments and comparative literature.
+DTEND;TZID=America/Los_Angeles:20170928T182000
+LAST-MODIFIED:20170927T175824
+UID:explore_courses439171f6-e099-46c1-b970-53da6e5e9ee1
+DTSTAMP:20170927T175824
+LOCATION:School of Education 210
+DESCRIPTION:A survey of how literary theory and other methods have been made institutional since the nineteenth century. The readings and conversation are designed for entering Ph.D. students in the national literature departments and comparative literature.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FRENCH369 SEM
-DTSTART;TZID=America/Los_Angeles:20160929T163000
-CREATED:20170211T123949
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T163000
+CREATED:20170927T175824
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

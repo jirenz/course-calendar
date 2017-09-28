@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170211T123943
-UID:explore_courses60d399aa-9b93-4331-8a6f-b2389ffcb0a2
-DTSTAMP:20170211T123943
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20170927T175813
+UID:explore_courses729bf5d1-7547-43ef-be74-f32014bad0a3
+DTSTAMP:20170927T175813
 LOCATION:
 DESCRIPTION:How do social identities affect how people experience academic interactions? How can learning environments be better structured to support the success of all students? In this class, we will explore how a variety of identities such as race, gender, social class, and athletic participation can affect academic achievement, with the goal of identifying concrete strategies to make learning environments at Stanford and similar universities more inclusive. Readings will draw from psychology, sociology, education, and popular press. This class is a seminar format.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CSRE165 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T123943
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T175813
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

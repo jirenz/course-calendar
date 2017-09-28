@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T125000
-LAST-MODIFIED:20170211T124001
-UID:explore_coursesae393ce2-8adc-45f4-bf50-d4840df28f86
-DTSTAMP:20170211T124001
-LOCATION:Encina West 400
-DESCRIPTION:Theoretical aspects and empirical applications of statistical modeling in the social sciences. Guest speakers. Students present a research paper. Prerequisite: 350B or equivalent. May be repeat for credit.
+DTEND;TZID=America/Los_Angeles:20170927T125000
+LAST-MODIFIED:20170927T175846
+UID:explore_coursesc2ea8a5e-3a69-44e8-a5cf-25e837913ea7
+DTSTAMP:20170927T175846
+LOCATION:
+DESCRIPTION:Mathematical and statistical models and applications to political science.  Guest speakers, faculty, and students present research papers.  Prerequisite: 356A and 450B
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI353A WKS
-DTSTART;TZID=America/Los_Angeles:20160928T113000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T125000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T113000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T125000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

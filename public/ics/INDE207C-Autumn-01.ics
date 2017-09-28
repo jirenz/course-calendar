@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T122000
-LAST-MODIFIED:20170211T124041
-UID:explore_coursescb4f56c6-0dc9-4b0f-8fc6-fd311e18ae85
-DTSTAMP:20170211T124041
+DTEND;TZID=America/Los_Angeles:20170929T122000
+LAST-MODIFIED:20170927T175909
+UID:explore_courses9528bbbc-00c4-4194-9587-748d05ae2cee
+DTSTAMP:20170927T175909
 LOCATION:
 DESCRIPTION:Access advanced professional medical vocabulary, conduct medical research, and engage in discussions in Chinese. Aims at a proficiency level of medical interpreting or doing other independent work in Chinese. Students are also assisted in doing a project or projects related to a specific field of medicine. Students registering for 3 units participate in clinic visits, field activities or projects. Prerequisite: completion of Medical Mandarin II, or advanced Chinese proficiency.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE207C LNG
-DTSTART;TZID=America/Los_Angeles:20160930T113000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170929T113000
+CREATED:20170927T175909
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

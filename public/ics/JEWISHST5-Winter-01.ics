@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170211T123954
-UID:explore_courses9a44acf3-b2a1-43cc-8c0c-751d65fbfd55
-DTSTAMP:20170211T123954
-LOCATION:200-015
+DTEND;TZID=America/Los_Angeles:20180108T175000
+LAST-MODIFIED:20170927T175834
+UID:explore_courses296b8844-d7ef-4a9b-b899-cb1d3c5b1307
+DTSTAMP:20170927T175834
+LOCATION:420-050
 DESCRIPTION:(Formerly CLASSGRK 5.) This is a one term intensive class in Biblical Greek.  After quickly learning the basics of the language, we will then dive right into readings from the New Testament and the Septuagint, which is the ancient Greek translation of the Hebrew Bible.  No previous knowledge of Greek required.  If demand is high for a second term, an additional quarter will be offered in the Spring.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:JEWISHST5 LNG
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T123954
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180108T163000
+CREATED:20170927T175834
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

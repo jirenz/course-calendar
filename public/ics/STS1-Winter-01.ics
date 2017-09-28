@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20170211T124002
-UID:explore_courses2f363950-8c67-4676-aa35-a23fd2c9874d
-DTSTAMP:20170211T124002
-LOCATION:Hewlett Teaching Center 201
+DTEND;TZID=America/Los_Angeles:20180108T115000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses4f93abae-5c21-4637-9cde-fc57fe376407
+DTSTAMP:20170927T175933
+LOCATION:Dinkelspiel Auditorium
 DESCRIPTION:The course focuses on key social, cultural, and values issues raised by contemporary scientific and technological developments through the STS interdisciplinary lens by developing and applying skills in three areas: (a) The historical analysis of contemporary global matters (e.g., spread of technologies; climate change response); (b) The bioethical reasoning around health issues (e.g., disease management; privacy rights); and (c) The sociological study of knowledge (e.g., intellectual property, science publishing). A discussion section is required and will be assigned the first week of class.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STS1 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20170211T124002
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

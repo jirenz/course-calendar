@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170211T123953
-UID:explore_coursesf5ba308a-3336-4d96-8cd2-f1772133310a
-DTSTAMP:20170211T123953
-LOCATION:Encina Hall C464
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T175833
+UID:explore_coursesd576faa4-b768-4be1-beda-d8142c0c6f10
+DTSTAMP:20170927T175833
+LOCATION:200-015
 DESCRIPTION:Contemporary Japanese culture through Japanese films, documentaries, TV dramas, and animes. Structured for students with a strong desire to advance their Japanese language skills and who have limited class preparation time. Students will engage in in-depth discussion and exploration of social and cultural issues, expand the repertoire of vocabulary, and practice on advanced language skills. Topics may vary depending on student interests. Prerequisite: JAPANLNG 23. See http://japanese.stanford.edu/
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:JAPANLNG114F LNG
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T123953
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175833
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

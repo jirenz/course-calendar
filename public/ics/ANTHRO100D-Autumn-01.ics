@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T175000
-LAST-MODIFIED:20170211T123935
-UID:explore_coursesbfcc56ff-6c83-409f-b804-864f5b5c830d
-DTSTAMP:20170211T123935
-LOCATION:500-106
+DTEND;TZID=America/Los_Angeles:20170927T172000
+LAST-MODIFIED:20170927T175757
+UID:explore_courses0ee9fde9-f9ea-40d4-8c4d-be867e6d1bbf
+DTSTAMP:20170927T175757
+LOCATION:Green Earth Sciences131
 DESCRIPTION:Archaeological analytical techniques appropriate for data recovered during archaeological fieldwork in Chavin de Huantar, Peru. Open to all interested students; fieldwork participants are expected to take the course. Students work on data from the previous field season to produce synthetic written reports, focusing on specific methodological issues.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO100D SEM
-DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170211T123935
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170927T143000
+CREATED:20170927T175757
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T132000
-LAST-MODIFIED:20170211T123952
-UID:explore_courses1a39dca2-a6e1-4448-a7cd-e88a7529d8cd
-DTSTAMP:20170211T123952
-LOCATION:Encina West 101
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20170927T175832
+UID:explore_courses9fa9282d-78bd-47fd-936e-569e7e61f2f5
+DTSTAMP:20170927T175832
+LOCATION:260-011
 DESCRIPTION:The role of corruption in the growth and development experience of countries with a focus on the economics of corruption. Topics covered: the concept and measurement of corruption; theory and evidence on the impact of corruption on growth determinants and development outcomes, including public and private investment, financial flows, human capital accumulation, poverty and income inequality; the link between corruption and financial crises, including the recent crises in the US and the Eurozone; the cultural, economic, and political determinants of corruption; and policy measures for addressing corruption, including recent civil society initiatives and use of liberation technology.nPrerequisite: ECON 1.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:IPS207 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T113000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T113000
+CREATED:20170927T175832
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

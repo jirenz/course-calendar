@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses38a0bc17-2af9-4525-b218-023519148889
-DTSTAMP:20170211T123946
+DTEND;TZID=America/Los_Angeles:20170925T112000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses3f4b8009-ac9e-4180-8e4d-4192553c7bef
+DTSTAMP:20170927T175819
 LOCATION:Econ 351
 DESCRIPTION:Theoretical and empirical analyses of the determinants of market structure; firm behavior and market efficiency in oligopolies; price discrimination; price dispersion and consumer search; differentiated products; the role of information in markets, including insurance and adverse selection; auctions; collusion and cartel behavior; advertising; entry and market structure; market dynamics; strategic behavior.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON257 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

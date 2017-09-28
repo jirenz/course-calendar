@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161012T145000
-LAST-MODIFIED:20170211T124033
-UID:explore_courses9f3ffc4e-f5dc-4f0e-8adc-6cdd3e80c60e
-DTSTAMP:20170211T124033
+DTEND;TZID=America/Los_Angeles:20171018T145000
+LAST-MODIFIED:20170927T175857
+UID:explore_courses406f248c-0008-454a-a120-b3459492b767
+DTSTAMP:20170927T175857
 LOCATION:
 DESCRIPTION:Biochemistry 2nd year PhD students with permission of instructor only.  Students place their thesis research into a broader scientific perspective, identify important questions to ask, and learn to communicate these clearly.  The course includes a series of roundtable discussions with students and faculty about the students' proposed research topics. The initial focus is on developing the equivalent of a specific aims page for a research grant.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOC350 SEM
-DTSTART;TZID=America/Los_Angeles:20161012T133000
-CREATED:20170211T124033
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161116T145000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20171018T133000
+CREATED:20170927T175857
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

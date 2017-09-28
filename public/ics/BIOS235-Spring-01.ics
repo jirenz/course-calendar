@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170605T112000
-LAST-MODIFIED:20170211T124035
-UID:explore_courses0493c696-3148-40cf-a57a-a30bd0ff0964
-DTSTAMP:20170211T124035
+DTEND;TZID=America/Los_Angeles:20180402T172000
+LAST-MODIFIED:20170927T175859
+UID:explore_coursesaa4ff7fd-7361-4fc7-81e2-242af77c77c9
+DTSTAMP:20170927T175859
 LOCATION:
 DESCRIPTION:Preference to graduate students. Focuses on modern aspects of metabolism and metabolic biochemistry as it affects fitness and ecology of cells and organisms on a systems level. Students obtain a broad understanding of the governing principles and logic of metabolic pathways and their networks as well as an intuition of metabolism in context of natural selection and fitness acting on the cell or host. Emphasis is primarily on microorganisms and their habitats in nature and the human gut, but topics also include metabolism of cancer cells and of engineered microbes.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS235 LEC
-DTSTART;TZID=America/Los_Angeles:20170605T103000
-CREATED:20170211T124035
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170616T112000;BYDAY=MO,WE,FR
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20170211T124035
-UID:explore_courses18b12e13-e4e3-47aa-8bfb-48f0daa33009
-DTSTAMP:20170211T124035
-LOCATION:
-DESCRIPTION:Preference to graduate students. Focuses on modern aspects of metabolism and metabolic biochemistry as it affects fitness and ecology of cells and organisms on a systems level. Students obtain a broad understanding of the governing principles and logic of metabolic pathways and their networks as well as an intuition of metabolism in context of natural selection and fitness acting on the cell or host. Emphasis is primarily on microorganisms and their habitats in nature and the human gut, but topics also include metabolism of cancer cells and of engineered microbes.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:BIOS235 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T163000
-CREATED:20170211T124035
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170616T172000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T163000
+CREATED:20170927T175859
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20170211T124049
-UID:explore_coursese1123abb-774d-4ba0-af29-454e625e612a
-DTSTAMP:20170211T124049
+DTEND;TZID=America/Los_Angeles:20180108T145000
+LAST-MODIFIED:20170927T175923
+UID:explore_courses0fdb660f-31cd-4133-9f71-b5d69ee90658
+DTSTAMP:20170927T175923
 LOCATION:200-230
 DESCRIPTION:Ways in which a psychologcially-minded attitude can add to the appreciation of literature; how literature can be used to understand issues and themes of the developing personality. Using the well-known essay by psychoanalyst Erik Erikson, &quot;The Eight Ages of Man,&quot; as a foundation, works reflecting elements of an age or ages are read. &quot;Wisdom of the Ego&quot; by Dr. George Valliant serves as a resouce to better understand this model, as well as offering a more contemporary theory of personality development.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYC71N ISF
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T124049
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T175923
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

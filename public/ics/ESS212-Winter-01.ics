@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T162000
-LAST-MODIFIED:20170211T124031
-UID:explore_courses1ae01389-aa15-4701-bb96-b5873d3cece6
-DTSTAMP:20170211T124031
-LOCATION:Y2E2 253
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T175943
+UID:explore_courses1c4ef7b0-6580-43dc-942f-91b95a79c205
+DTSTAMP:20170927T175943
+LOCATION:
 DESCRIPTION:Preference will be given to ESS first-year grad students. Techniques to track biological, chemical, and physical processes operating across the San Francisquito Creek watershed, encompassing upland, aquatic, estuarine, and marine environments. Topics include gas and water flux measurement, assessment of microbiological communities, determination of biological productivity, isotopic analysis, soil and water chemistry determination, and identification of rock strata and weathering processes.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS212 SEM
-DTSTART;TZID=America/Los_Angeles:20170112T150000
-CREATED:20170211T124031
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175943
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170211T124031
-UID:explore_courses7874ebc8-649a-4003-a648-71a6a2a5ae1b
-DTSTAMP:20170211T124031
-LOCATION:Y2E2 253
+DTEND;TZID=America/Los_Angeles:20180111T162000
+LAST-MODIFIED:20170927T175943
+UID:explore_courseseaf0dc34-4637-4293-9041-1a7994c8d076
+DTSTAMP:20170927T175943
+LOCATION:
 DESCRIPTION:Preference will be given to ESS first-year grad students. Techniques to track biological, chemical, and physical processes operating across the San Francisquito Creek watershed, encompassing upland, aquatic, estuarine, and marine environments. Topics include gas and water flux measurement, assessment of microbiological communities, determination of biological productivity, isotopic analysis, soil and water chemistry determination, and identification of rock strata and weathering processes.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS212 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T124031
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180111T150000
+CREATED:20170927T175943
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

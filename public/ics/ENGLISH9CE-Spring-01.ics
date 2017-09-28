@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T152000
-LAST-MODIFIED:20170211T123947
-UID:explore_courses982e3e6b-7cc1-485b-8b24-b35817f7bb11
-DTSTAMP:20170211T123947
-LOCATION:School of Education 41
+DTEND;TZID=America/Los_Angeles:20180402T152000
+LAST-MODIFIED:20170927T175821
+UID:explore_coursese3c2bebd-13b6-47a8-b190-e8be9bf1b3ac
+DTSTAMP:20170927T175821
+LOCATION:Encina West 108
 DESCRIPTION:Primary focus on giving students a skill set to tap into their own creativity. Opportunities for students to explore their creative strengths, develop a vocabulary with which to discuss their own creativity, and experiment with the craft and adventure of their own writing. Students will come out of the course strengthened in their ability to identify and pursue their own creative interests. For undergrads only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGLISH9CE WKS
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

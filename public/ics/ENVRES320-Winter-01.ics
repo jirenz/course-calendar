@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T112000
-LAST-MODIFIED:20170211T124031
-UID:explore_coursesf67d681e-696d-45b2-a20e-a279a7fa7a4f
-DTSTAMP:20170211T124031
-LOCATION:Y2E2 164
+DTEND;TZID=America/Los_Angeles:20180109T112000
+LAST-MODIFIED:20170927T175942
+UID:explore_coursesc14b96fa-d794-4290-a0c2-8a366c36fe10
+DTSTAMP:20170927T175942
+LOCATION:
 DESCRIPTION:Required core course restricted to first year E-IPER Ph.D. students. Research design options for causal inference in environmentally related research. Major philosophies of knowledge and how they relate to research objectives and design choices. Identification of critical elements within a broad range of research designs. Evaluation of the types of research questions for which different designs are suited, emphasizing fit between objectives, design, methods, and argument. Development of individual research design proposals, including description and justification understandable to a non-specialist.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENVRES320 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20170211T124031
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T093000
+CREATED:20170927T175942
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

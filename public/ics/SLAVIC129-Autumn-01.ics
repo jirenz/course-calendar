@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170211T124003
-UID:explore_coursesf93ac8ea-2fda-4f8c-ac8f-37c193e3eef5
-DTSTAMP:20170211T124003
-LOCATION:School of Education 207
-DESCRIPTION:A survey of metric forms, rhyming principles and stanzaic patterns in the Russian poetry of the 18th - 21st centuries. Taught in Russian. Prerequisite: Two years of Russian.
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175849
+UID:explore_coursesc323ca1f-0758-454d-a3a2-0bab2cfc3615
+DTSTAMP:20170927T175849
+LOCATION:200-219
+DESCRIPTION:A survey of metric forms, rhyming principles and stanzaic patterns in the Russian poetry of the 18th - 21st centuries. Taught in Russian. Prerequisite: Two years of Russian.  NOTE: To be eligible for WAYS credit, you must take SLAVIC 129 for a minimum of 3 Units and a Letter Grade.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SLAVIC129 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T124003
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175849
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

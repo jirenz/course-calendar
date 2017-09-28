@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T192000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses84f236ff-989b-446d-b51c-a8a178b329ee
-DTSTAMP:20170211T123931
-LOCATION:Ceras 300
+DTEND;TZID=America/Los_Angeles:20180110T192000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursesb21eea52-a80b-428b-be15-ffc1ed098685
+DTSTAMP:20170927T175938
+LOCATION:
 DESCRIPTION:Preparation and practice in issues and strategies for teaching in classrooms with diverse students. Topics: instruction, curricular planning, classroom interaction processes, portfolio development, teacher professionalism, patterns of school organization, teaching contexts, and government educational policy. Classroom observation and student teaching with accompanying seminars during each quarter of STEP year. 16 units required for completion of the program. Prerequisite: STEP student. (STEP)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC246C PRC
-DTSTART;TZID=America/Los_Angeles:20170111T150000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T192000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T150000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T192000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

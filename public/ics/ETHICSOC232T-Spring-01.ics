@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170211T123947
-UID:explore_coursesd3f1e513-b3dc-4139-82a3-efa8b64785e0
-DTSTAMP:20170211T123947
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20170927T175822
+UID:explore_courses2b926f39-1753-4c1c-b836-b87c95a823fd
+DTSTAMP:20170927T175822
 LOCATION:100-101K
 DESCRIPTION:What is the basis of private action for the public good? How are charitable dollars distributed and what role do nonprofit organizations and philanthropic dollars play in a modern democracy? In the &iquest;Philanthropy Lab&iquest; component of the course, students will award $100,000 in grants to local nonprofits.  Students will explore how nonprofit organizations operate domestically and globally as well as the historical development and modern structure of civil society and philanthropy. Readings in political philosophy, history, political sociology, and public policy.  WIM for PoliSci students who enroll in PoliSci 236S.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ETHICSOC232T SEM
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175822
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

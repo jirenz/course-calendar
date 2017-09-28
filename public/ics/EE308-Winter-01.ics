@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses5dbc1fbf-aaeb-4329-bd8c-3316b52855d2
-DTSTAMP:20170211T124020
-LOCATION:540-108
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses38e52eb3-7ef4-46f1-95e0-c1dde2561d2c
+DTSTAMP:20170927T180001
+LOCATION:Gates100
 DESCRIPTION:Design of advanced analog circuits at the system level, including switching power converters, amplitude-stabilized and frequency-stabilized oscillators, voltage references and regulators, power amplifiers and buffers, sample-and-hold circuits, and application-specific op-amp compensation. Approaches for finding creative design solutions to problems with difficult specifications and hard requirements. Emphasis on feedback circuit techniques, design-oriented thinking, and hands-on experience with modern analog building blocks.  Several designs will be built and evaluated, along with associated laboratory projects. Prerequisite: EE 251 or EE 314A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE308 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

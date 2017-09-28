@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses7f03cb58-9e7f-4ddf-b0d9-ddcd5976fa93
-DTSTAMP:20170211T124041
-LOCATION:Li Ka Shing Center, room 208
+DTEND;TZID=America/Los_Angeles:20180108T122000
+LAST-MODIFIED:20170927T175908
+UID:explore_courses1fab9138-0a2c-4090-a486-9e88b762f68f
+DTSTAMP:20170927T175908
+LOCATION:Health Research & PolicyT138B
 DESCRIPTION:(Formerly 117Q) Prefersnce to freshmen. Explores how the availability of hormone therapy has affected various aspects of daily lives. Topics include the controversies concerning menopause and its treatment; use of hormones in athletics; cosmetic use of hormones to enhance growth, strength, and libido; use of hormones as anti-aging drugs; and how the hormone system has influenced our notions of gender. Includes the biochemistry and physiology of the human endocrine system; how hormones influence behavior, and how to read a scientific paper.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED71N ISF
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

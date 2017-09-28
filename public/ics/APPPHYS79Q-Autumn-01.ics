@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T112000
-LAST-MODIFIED:20170211T123936
-UID:explore_coursesc5916b3e-17c9-44f5-8610-dc59be8112a9
-DTSTAMP:20170211T123936
-LOCATION:200-105
-DESCRIPTION:Preference to freshmen. Choices for meeting the future energy needs of the U.S. and the world. Basic physics of energy sources, technologies that might be employed, and related public policy issues. Trade-offs and societal impacts of different energy sources. Policy options for making rational choices for a sustainable world energy economy.
+DTEND;TZID=America/Los_Angeles:20170926T112000
+LAST-MODIFIED:20170927T175758
+UID:explore_coursesb45e8c84-facc-4782-be25-26097c2fe884
+DTSTAMP:20170927T175758
+LOCATION:McCullough 130
+DESCRIPTION:Preference to sophomores.. Choices for meeting the future energy needs of the U.S. and the world. Basic physics of energy sources, technologies that might be employed, and related public policy issues. Trade-offs and societal impacts of different energy sources. Policy options for making rational choices for a sustainable world energy economy.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS79Q ISS
-DTSTART;TZID=America/Los_Angeles:20160927T093000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T093000
+CREATED:20170927T175758
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T165000
-LAST-MODIFIED:20170211T124009
-UID:explore_courses88344a55-ccc1-4e15-8718-6f089bada38c
-DTSTAMP:20170211T124009
+DTEND;TZID=America/Los_Angeles:20170928T165000
+LAST-MODIFIED:20170927T175748
+UID:explore_coursesa94cd59b-3f58-44d5-8b59-ffe2e58f62ea
+DTSTAMP:20170927T175748
 LOCATION:
 DESCRIPTION:Focusing on great works of philosophy, religion, literature, painting, and film drawn largely from the Western tradition, the SLE curriculum places particular emphasis on artists and intellectuals who brought new ways of thinking and new ways of creating into the world, often overthrowing prior traditions in the process. These are the works that redefined beauty, challenged the authority of conventional wisdom, raised questions of continuing importance to us today, and&iquest;for good or ill&iquest;created the world we still live in. Texts may include: Homer, Sappho, Greek tragedy, Plato, Aristotle, Zhuangzi, Confucius, the Heart Sutra, Hebrew Bible, New Testament, and the Aeneid.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SLE91 DIS
-DTSTART;TZID=America/Los_Angeles:20160929T150000
-CREATED:20170211T124009
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T165000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T150000
+CREATED:20170927T175748
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T165000;BYDAY=TH
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T162000
-LAST-MODIFIED:20170211T124009
-UID:explore_courses537de7fc-f1a3-4b1d-95ac-99a1114ac9f8
-DTSTAMP:20170211T124009
+DTEND;TZID=America/Los_Angeles:20170927T162000
+LAST-MODIFIED:20170927T175748
+UID:explore_coursese0416500-d659-4ba6-b781-0c0840238ae9
+DTSTAMP:20170927T175748
 LOCATION:
 DESCRIPTION:Focusing on great works of philosophy, religion, literature, painting, and film drawn largely from the Western tradition, the SLE curriculum places particular emphasis on artists and intellectuals who brought new ways of thinking and new ways of creating into the world, often overthrowing prior traditions in the process. These are the works that redefined beauty, challenged the authority of conventional wisdom, raised questions of continuing importance to us today, and&iquest;for good or ill&iquest;created the world we still live in. Texts may include: Homer, Sappho, Greek tragedy, Plato, Aristotle, Zhuangzi, Confucius, the Heart Sutra, Hebrew Bible, New Testament, and the Aeneid.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SLE91 DIS
-DTSTART;TZID=America/Los_Angeles:20160928T153000
-CREATED:20170211T124009
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T153000
+CREATED:20170927T175748
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

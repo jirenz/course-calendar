@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T124004
-UID:explore_courses4e93cae0-d61d-44a0-b461-a6b29d89a516
-DTSTAMP:20170211T124004
-LOCATION:Lathrop 197
+DTEND;TZID=America/Los_Angeles:20180108T132000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesd127660d-8e66-46fc-b262-9f4b489e92d4
+DTSTAMP:20170927T175851
+LOCATION:420-286
 DESCRIPTION:Criteria and skills to analyze Spanish grammatical structure. Identification of word functions in sentences and texts, types of sentences, and terminology. Structure of nouns, adjectives, and verbs, and their relationship with meaning. The differences between Spanish grammar as a formal system and in everyday life.Students who wish to participate in the optional community engaged learning component should sign up for Spanlang 101SL (below). Prerequisite: SPANLANG 13C, SPANLANG 13R, SPANLANG 13SL, or SPANLANG 23B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPANLANG101 LNG
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T113000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

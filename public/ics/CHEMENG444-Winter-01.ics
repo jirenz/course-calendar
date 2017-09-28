@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T142000
-LAST-MODIFIED:20170211T124012
-UID:explore_courses11af32ed-ea1b-4778-85ac-780b31a088c1
-DTSTAMP:20170211T124012
-LOCATION:School of Education 128
+DTEND;TZID=America/Los_Angeles:20180108T142000
+LAST-MODIFIED:20170927T175949
+UID:explore_coursesc148b46f-3672-4a77-9aae-04748affd551
+DTSTAMP:20170927T175949
+LOCATION:Shriram Ctr BioChemE 366
 DESCRIPTION:Fundamentals of electronic structure theory to describe materials properties and chemical reactivity. nLearning objectives:  Understand the basis for modern electronic structure calculations,  understand the relationship between electronic structure,  materials properties, and  chemical kinetics,  be able to read the current literature, be able to do own calculations. nImportant components of the lectures:  An overview of quantum chemical methods, introduction to methods for periodic systems, density functional theory and current approximations to describe exchange and correlation effects, methods to describe excited states, transition state theory and methods to calculate partition functions. nThe Lab:  Leaning to do DFT calculations.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG444 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T124012
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T175949
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

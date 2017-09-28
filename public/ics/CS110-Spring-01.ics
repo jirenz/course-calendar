@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170211T124017
-UID:explore_courses4a1f7bba-1920-4f2a-a2a4-31549897b18e
-DTSTAMP:20170211T124017
-LOCATION:Gates B1
+DTEND;TZID=America/Los_Angeles:20180402T132000
+LAST-MODIFIED:20170927T175958
+UID:explore_coursesf7796951-3068-4d2b-8679-fa0f62abca70
+DTSTAMP:20170927T175958
+LOCATION:320-105
 DESCRIPTION:Principles and practice of engineering of computer software and hardware systems. Topics include: techniques for controlling complexity; strong modularity using client-server design, virtual memory, and threads; networks; atomicity and coordination of parallel activities; security, and encryption; and performance optimizations. Prerequisite: 107.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS110 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T124017
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T113000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

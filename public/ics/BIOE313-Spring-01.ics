@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170211T124011
-UID:explore_coursese6782817-1ce3-4721-be37-7fd660d17323
-DTSTAMP:20170211T124011
-LOCATION:Shriram Ctr BioChemE 366
-DESCRIPTION:(Formerly EE 304) Neuromorphic systems run perceptual, cognitive and motor tasks in real-time on a network of highly interconnected nonlinear units. To maximize density and minimize energy, these units--like the brain's neurons--are heterogeneous and stochastic. The first half of the course covers learning algorithms that automatically synthesize network configurations to perform a desired computation on a given heterogeneous neural substrate. The second half of the course surveys system-on-a-chip architectures that efficiently realize highly interconnected networks and mixed analog-digital circuit designs that implement area and energy-efficient nonlinear units. Prerequisites: EE102A and EE108 are required; EE114 is recommended.
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20170927T175948
+UID:explore_courses46a91878-cd8d-4765-9e8a-00b67f02f140
+DTSTAMP:20170927T175948
+LOCATION:Y2E2 300
+DESCRIPTION:(Formerly EE 304) Neuromorphic systems run perceptual, cognitive and motor tasks in real-time on a network of highly interconnected nonlinear units. To maximize density and minimize energy, these units--like the brain's neurons--are heterogeneous and stochastic. The first half of the course covers learning algorithms that automatically synthesize network configurations to perform a desired computation on a given heterogeneous neural substrate. The second half of the course surveys system-on-a-chip architectures that efficiently realize highly interconnected networks and mixed analog-digital circuit designs that implement area and energy-efficient nonlinear units. Prerequisites: EE102A is required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE313 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T145000
-LAST-MODIFIED:20170211T124024
-UID:explore_courses683f3d0c-c675-4d11-b560-339e45267cf7
-DTSTAMP:20170211T124024
-LOCATION:Morrison Boat House
-DESCRIPTION:Students will have the opportunity to further development their sailing skills and techniques. This class utilization of class discussions, assignments and student participation will enable students to: (1) Understand basic components of health-related physical fitness, cardiovascular fitness, muscle endurance and flexibility (2) Develop physical fitness and motor skills, and (3) Develop a positive attitude toward wellness and physical activity which will facilitate a healthy lifestyle.
+DTEND;TZID=America/Los_Angeles:20170926T102000
+LAST-MODIFIED:20170927T175934
+UID:explore_courses50c31ef7-a225-45cf-ae11-3d8a8882fa94
+DTSTAMP:20170927T175934
+LOCATION:ACSR Studio
+DESCRIPTION:Exploration of a topic (to be determined) not covered by the standard curriculum but of interest to faculty and students in a particular quarter. May be repeated with change of content. For more information regarding specific course titles, please refer to the notes of each course section.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PE99 ACT
-DTSTART;TZID=America/Los_Angeles:20160929T120000
-CREATED:20170211T124024
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170926T093000
+CREATED:20170927T175934
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170508T175000
-LAST-MODIFIED:20170211T124027
-UID:explore_courses082e604e-1890-4b5f-aa86-3e44bfef6179
-DTSTAMP:20170211T124027
+DTEND;TZID=America/Los_Angeles:20180507T175000
+LAST-MODIFIED:20170927T175744
+UID:explore_coursesf8ded0d8-19e3-4710-93cb-1f8752a72a1d
+DTSTAMP:20170927T175744
 LOCATION:
 DESCRIPTION:This course is designed to improve students' skills in all phases of a negotiation: understanding prescriptive and descriptive negotiation theory as it applies to dyadic and multiparty negotiations, to buyer-seller transactions and the resolution of disputes, to the development of negotiation strategy and to the management of integrative and distributive aspects of the negotiation process. The course is based on a series of simulated negotiations in a variety of contexts including one-on-one, multi-party, and team negotiations. When playing a role in a simulated conflict, you will be free to try out tactics that might feel uncomfortable in a real one. You will get feedback from your classmates about how you come across. You will have an opportunity to reflect on your experience in your negotiation paper. In sum, you can use this course to expand your repertoire of conflict management and negotiation skills, to hone your skills, and to become more adept in choosing when to apply each skill. nnThis course represents a shorter, more intense version of OB 381-Conflict Management and Negotiations. Students should not take both courses, as there is considerable overlap in course content. Attendance and participation in the negotiation exercises is mandatory.
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:OB581 CAS
-DTSTART;TZID=America/Los_Angeles:20170508T150000
-CREATED:20170211T124027
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170519T175000;BYDAY=MO,WE,FR
+SUMMARY:OB581 WKS
+DTSTART;TZID=America/Los_Angeles:20180507T150000
+CREATED:20170927T175744
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180518T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

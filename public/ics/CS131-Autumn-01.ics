@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170211T124017
-UID:explore_coursesd79d2ef2-a949-4c95-82b9-63904f48f217
-DTSTAMP:20170211T124017
-LOCATION:370-370
-DESCRIPTION:Robots that can navigate space and perform duties, search engines that can index billions of images and videos, algorithms that can diagnose medical images for diseases, or smart cars that can see and drive safely: Lying in the heart of these modern AI applications are computer vision technologies that can perceive, understand and reconstruct the complex visual world. This course is designed for students who are interested in learning about the fundamental principles and important applications of computer vision. Course will introduce a number of fundamental concepts in computer vision and expose students to a number of real-world applications, plus guide students through a series of well designed projects such that they will get to implement cutting-edge computer vision algorithms. Prerequisites: Students should be familiar with Matlab (i.e. have programmed in Matlab before) and Linux; plus Calculus &amp; Linear Algebra.
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T175958
+UID:explore_coursesc77c9969-9f33-4d16-8216-5726fb1177d3
+DTSTAMP:20170927T175958
+LOCATION:200-002
+DESCRIPTION:Robots that can navigate space and perform duties, search engines that can index billions of images and videos, algorithms that can diagnose medical images for diseases, or smart cars that can see and drive safely: Lying in the heart of these modern AI applications are computer vision technologies that can perceive, understand and reconstruct the complex visual world. This course is designed for students who are interested in learning about the fundamental principles and important applications of computer vision. Course will introduce a number of fundamental concepts in computer vision and expose students to a number of real-world applications, plus guide students through a series of projects such that they will get to implement cutting-edge computer vision algorithms. Prerequisites: Students should be familiar with Python (i.e. have programmed in Python before) and Linux; plus Calculus &amp; Linear Algebra.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS131 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T124017
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

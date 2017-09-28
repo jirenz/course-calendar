@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T112000
-LAST-MODIFIED:20170211T124009
-UID:explore_courses792615cc-b78c-4b3f-8b30-38940c20eb7d
-DTSTAMP:20170211T124009
+DTEND;TZID=America/Los_Angeles:20180403T112000
+LAST-MODIFIED:20170927T175749
+UID:explore_courses0d29762c-dad5-41a6-a0f7-3d93e5a810e9
+DTSTAMP:20170927T175749
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:How has our approach to cancer been affected by clinical observations, scientific discoveries, social norms, politics, and economic interests? Approximately one in three Americans will develop invasive cancer during their lifetime; one in five Americans will die as a result of this disease. This course will expose you to multiple ways of approaching the cancer problem, including laboratory research, clinical trials, population studies, public health interventions, and health care economics. We will start with the 18th century discovery of the relationship between coal tar and cancer, and trace the role of scientific research in revealing the genetic basis of cancer. We will then discuss the development of new treatments for cancer as well as measures to screen for and prevent cancer, including the ongoing debate over tobacco control. Using cancer as a case study, you will learn important aspects of the scientific method including experimental design, data analysis, and the difference between correlation and causation.  You will learn how science can be used and misused with regard to the public good. You will also learn about ways in which social, political, and economic forces shape our knowledge about and response to disease.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:THINK23 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T124009
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T175749
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

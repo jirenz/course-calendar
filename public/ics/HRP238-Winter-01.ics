@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T124038
-UID:explore_coursesffbf1e5d-a282-460b-85e9-f8edbf4480f6
-DTSTAMP:20170211T124038
-LOCATION:Li Ka Shing Center, room 209
-DESCRIPTION:The historical, contemporary, and future research and practice among genetics, epidemiology, clinical medicine, and public health as a source of insight for medicine and public health. Genetic and environmental contributions to multifactorial diseases; multidisciplinary approach to enhancing detection and diagnosis. The impact of the Human Genome Project on analysis of cardiovascular and neurological diseases, and cancer. Ethical and social issues in the use of genetic information. Prerequisite: basic course in genetics; for undergraduates, Human Biology core or equivalent or consent of instructor.
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T175904
+UID:explore_coursese4602651-89cc-4ae6-bbbb-f23e2d96bafa
+DTSTAMP:20170927T175904
+LOCATION:Li Ka Shing Center, room 208
+DESCRIPTION:The historical, contemporary, and future research and practice among genetics, epidemiology, clinical medicine, and public health as a source of insight for medicine and public health. Genetic and environmental contributions to multifactorial diseases; multidisciplinary approach to enhancing detection and diagnosis. The impact of the Human Genome Project on analysis of cardiovascular and neurological diseases, and cancer. Ethical and social issues in the use of genetic information. Prerequisite: basic course in genetics; for undergraduates, Human Biology core or equivalent or consent of instructor. This course must be taken for a minimum of 3 units and a letter grade to be eligible for Ways credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP238 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T124038
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20170927T175904
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

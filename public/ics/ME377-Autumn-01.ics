@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170211T124023
-UID:explore_coursese3d19a4d-85a3-443f-85f3-11e221572666
-DTSTAMP:20170211T124023
-LOCATION:550-STUDIO 2
-DESCRIPTION:Design Thinking Studio is an immersive introduction to design thinking. You will engage in the real world, with your eyes, with your mind, with your hands, and with classmates to learn, practice, and use the tools and attitudes of design. The fundamental goal of the class is to cultivate the creative, synthetic, and divergent thinking of students. This is a project-based class, asking students to take on new behaviors of work: collaboration, experimentation, empathizing, visualization, craft and inference. Field work and collaboration with teammates are required and critical for student success. Winter 2016: This quarter, we will work on exercising your design muscles, the things designers do everyday (outside of projects or process) that shape their practice. In addition to teamwork, we will practice different core design capacities to stimulate creativity, and make you a better communicator and collaborator. Admission by application. See dschool.stanford.edu/classesnfor more information.
+DTEND;TZID=America/Los_Angeles:20170925T192000
+LAST-MODIFIED:20170927T180006
+UID:explore_coursesf303ebda-bd2c-4141-b782-801bd4fa5e63
+DTSTAMP:20170927T180006
+LOCATION:
+DESCRIPTION:Design Thinking Studio is an immersive introduction to design thinking. You will engage in the real world with your heart, hands and mind to learn and apply the tools and attitudes of design. The class is project-based and emphasizes adopting new behaviors of work. Fieldwork and collaboration with teammates are required and are a critical component of the class. Application required, see dschool.stanford.edu/classes for more information.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME377 WKS
-DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20170211T124023
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170925T163000
+CREATED:20170927T180006
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

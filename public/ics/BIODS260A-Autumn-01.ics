@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T145000
-LAST-MODIFIED:20170211T124033
-UID:explore_courses3bc0483b-865a-47ff-9f03-d65c610d1002
-DTSTAMP:20170211T124033
+DTEND;TZID=America/Los_Angeles:20170928T145000
+LAST-MODIFIED:20170927T175858
+UID:explore_courses6f424ca9-0e18-479d-9aa5-a2380f1fbbee
+DTSTAMP:20170927T175858
 LOCATION:MSOBX303
 DESCRIPTION:Applications of statistical techniques to current problems in medical science. To receive credit for one or two units, a student must attend every workshop. To receive two units, in addition to attending every workshop, the student is required to write an acceptable one page summary of two of the workshops, with choices made by the student.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIODS260A WKS
-DTSTART;TZID=America/Los_Angeles:20160929T133000
-CREATED:20170211T124033
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T133000
+CREATED:20170927T175858
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

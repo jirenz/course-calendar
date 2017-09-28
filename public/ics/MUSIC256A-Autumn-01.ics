@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T172000
-LAST-MODIFIED:20170211T123957
-UID:explore_courses18fb6444-9c61-40d7-a508-01bb2014d3cf
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20170925T172000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses468f5c0e-8e23-4343-80d4-e78622c4ae52
+DTSTAMP:20170927T175841
 LOCATION:Knoll217
 DESCRIPTION:Creative design for computer music software. Programming, audiovisual design, as well as software design for musical tools, instruments, toys, and games. Provides paradigms and strategies for designing and building music software, with emphases on interactive systems, aesthetics, and artful product design. Course work includes several programming assignments and a &quot;design+implement&quot; final project. Prerequisite: experience in C/C++ and/or Java.See https://ccrma.stanford.edu/courses/256a/
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC256A LEC
-DTSTART;TZID=America/Los_Angeles:20160926T153000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T153000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

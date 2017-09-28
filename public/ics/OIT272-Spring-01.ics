@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170410T094500
-LAST-MODIFIED:20170211T124027
-UID:explore_courses6d75557a-35eb-4abc-9de6-dfcc344238b4
-DTSTAMP:20170211T124027
+DTEND;TZID=America/Los_Angeles:20180410T094500
+LAST-MODIFIED:20170927T175744
+UID:explore_courses41cc9f4a-2030-4f2d-8a39-40ea9e0e9c55
+DTSTAMP:20170927T175744
 LOCATION:
-DESCRIPTION:How does Uber match drivers to passengers? How does Airbnb select the set of listings to show to a guest in a search? How does eBay manage trust and reputation between buyers and sellers? How does Google optimize auctions for billions of dollars&acirc; worth of online advertising? This course focuses on the basic analytic and data science tools used to address these and other challenges encountered in the most exciting online marketplaces in the world. With hands-on exercises we will open and understand the &acirc;black-box&acirc; of online marketplaces&acirc; operations. We will cover application areas such as transportation, rentals, sharing, e-commerce, labor markets, and advertising, leveraging tools from D&amp;D, OSM, and Micro (all base). Overall, the course will provide basic business knowledge for future investors, product managers, sales and marketing managers, operation managers, and anyone interested on online marketplaces.
+DESCRIPTION:How does Uber match drivers to passengers? How does Airbnb select the set of listings to show to a guest in a search? How does eBay manage trust and reputation between buyers and sellers? How does Google optimize auctions for billions of dollars' worth of online advertising? This course focuses on the basic analytic and data science tools used to address these and other challenges encountered in the most exciting online marketplaces in the world. With hands-on exercises we will open and understand the &quot;black-box&quot; of online marketplaces' operations. We will cover application areas such as transportation, rentals, sharing, e-commerce, labor markets, and advertising, leveraging tools from D&amp;D, OSM, and Micro (all base). Overall, the course will provide basic business knowledge for future investors, product managers, sales and marketing managers, operation managers, and anyone interested on online marketplaces.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT272 CAS
-DTSTART;TZID=America/Los_Angeles:20170410T080000
-CREATED:20170211T124027
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170505T094500;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20180410T080000
+CREATED:20170927T175744
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180504T094500;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

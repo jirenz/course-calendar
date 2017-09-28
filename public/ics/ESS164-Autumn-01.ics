@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T172000
-LAST-MODIFIED:20170211T124031
-UID:explore_courses9749dd3a-d374-4c5a-90a7-e8057baca2ab
-DTSTAMP:20170211T124031
-LOCATION:380-380Y
+DTEND;TZID=America/Los_Angeles:20170925T172000
+LAST-MODIFIED:20170927T175943
+UID:explore_courses421a3ec6-01c1-48e3-9369-0772aa2e378c
+DTSTAMP:20170927T175943
+LOCATION:Mitchb67
 DESCRIPTION:Survey of geographic information including maps, satellite imagery, and census data, approaches to spatial data, and tools for integrating and examining spatially-explicit data. Emphasis is on fundamental concepts of geographic information science and associated technologies. Topics include geographic data structure, cartography, remotely sensed data, statistical analysis of geographic data, spatial analysis, map design, and geographic information system software. Computer lab assignments. All students are required to attend a weekly lab session.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS164 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T153000
-CREATED:20170211T124031
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170925T153000
+CREATED:20170927T175943
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

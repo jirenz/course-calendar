@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20170211T124041
-UID:explore_coursesceb41db1-5247-419f-be1b-ccf2542f54c8
-DTSTAMP:20170211T124041
+DTEND;TZID=America/Los_Angeles:20180402T172000
+LAST-MODIFIED:20170927T175909
+UID:explore_courses9edb2c4d-7771-46b8-991e-45fcf8e7ec9f
+DTSTAMP:20170927T175909
 LOCATION:
-DESCRIPTION:Medical interview and physical examination skills, biomedical literature retrieval and appraisal, nutrition principles, evidence-based practice, biomedical ethics, and population health are covered. Students begin clinical problem-solving sessions to learn the approach to common and important clinical problems.  Cases integrate other course themes of population health, evidence-based practice, clinical ethics, nutrition, health policy, and behavioral medicine. Students begin transition from comprehensive to problem-focused patient encounters. Students also gain exposure to geriatrics, pediatrics, and interprofessional healthcare teams, and practice mental health interview skills. At the end of this quarter, students participate in a performance-based assessment of their medical interview and physical examination skills. See INDE 201 for a complete description of the Practice of Medicine course series.
+DESCRIPTION:Medical interview and physical examination skills, biomedical literature retrieval and appraisal, nutrition principles, evidence-based practice, biomedical ethics, and population health are covered. Students begin clinical problem-solving sessions to learn the approach to common and important clinical problems.  Cases integrate other course themes of population health, evidence-based practice, clinical ethics, nutrition, health policy, and behavioral medicine. Students begin transition from comprehensive to problem-focused patient encounters. Students also gain exposure to geriatrics, pediatrics, and interprofessional healthcare teams, and practice mental health interview skills. At the end of this quarter, students participate in a performance-based assessment of their medical interview and physical examination skills. See INDE 201 for a complete description of the Practice of Medicine course series. Course open to MD and MSPA students only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE203 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175909
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

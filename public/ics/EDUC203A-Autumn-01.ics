@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T205000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses6b3e7b75-3880-4704-8762-f07d6448c448
-DTSTAMP:20170211T123931
-LOCATION:160-314
+DTEND;TZID=America/Los_Angeles:20170926T205000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses1eeb9890-0197-4e6f-b081-5991f7b19284
+DTSTAMP:20170927T175938
+LOCATION:School of Education 313
 DESCRIPTION:Experience tutoring grade school readers in a low income community near Stanford under supervision. Training in tutoring; the role of instruction in developing literacy; challenges facing low income students and those whose first language is not English. How to see school and print through the eyes of a child. Ravenswood Reads tutors encouraged to enroll. Service Learning Course (certified by Haas Center). May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC203A SEM
-DTSTART;TZID=America/Los_Angeles:20160927T193000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T205000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T193000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T205000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

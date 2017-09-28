@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursesffec3853-470d-4bc1-88e0-8aca207fa3bd
-DTSTAMP:20170211T123931
-LOCATION:School of Education 130
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursesb23f2fce-e7db-4719-91d7-0fd4c106df6a
+DTSTAMP:20170927T175938
+LOCATION:420-050
 DESCRIPTION:This course will provide students with a basic knowledge of the relevant research in cognitive psychology and science education and the ability to apply that knowledge to enhance their ability to learn and teach science, particularly at the undergraduate level.  Course will involve readings, discussion, and application of the ideas through creation of learning activities.  It is suitable for advanced undergraduates and graduate students with some science background.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC280 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

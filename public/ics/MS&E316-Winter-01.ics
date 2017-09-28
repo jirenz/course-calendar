@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170211T124021
-UID:explore_courses9e868642-82c4-483f-96b9-5611afb323e4
-DTSTAMP:20170211T124021
-LOCATION:Bishop Auditorium
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T180002
+UID:explore_courses851367af-2d95-42da-b7ca-f27ddc033d03
+DTSTAMP:20170927T180002
+LOCATION:420-040
 DESCRIPTION:Topics: Basic Algebraic Graph Theory, Matroids and Minimum Spanning Trees, Submodularity and Maximum Flow, NP-Hardness, Approximation Algorithms, Randomized Algorithms, The Probabilistic Method, and Spectral Sparsification using Effective Resistances. Topics will be illustrated with applications from Distributed Computing, Machine Learning, and large-scale Optimization. Prerequisites: CS 261 is highly recommended, although not required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E316 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

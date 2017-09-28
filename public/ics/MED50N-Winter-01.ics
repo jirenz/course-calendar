@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T112000
-LAST-MODIFIED:20170211T124041
-UID:explore_coursesca2f04d4-ad0d-438b-84ec-af7a3959f9e7
-DTSTAMP:20170211T124041
-LOCATION:Alway Building, Room M112
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175908
+UID:explore_coursesec2079b5-97a3-4048-bff5-5e33d8277f74
+DTSTAMP:20170927T175908
+LOCATION:CCSR 4205
 DESCRIPTION:Investigates how scientific research informs how physicians take care of patients and how clinical research informs how scientific experiments are conducted. Topics include how these two processes have improved health and have resulted in innovation and scientic progress; specific human disease areas in allergy and immunology that affect all ages of patients globally, including food allergy; scientific concepts of research that helped in discovery of novel diagnostics and treatment of disease; ethical roles of physicians and scientists in conducting translational research in human disease.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED50N ISF
-DTSTART;TZID=America/Los_Angeles:20170110T100000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

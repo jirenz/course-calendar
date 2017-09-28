@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20170211T123936
-UID:explore_coursesda35bc9b-163c-493d-82ef-fbfd876f5802
-DTSTAMP:20170211T123936
-LOCATION:Sequoia Hall 200
+DTEND;TZID=America/Los_Angeles:20180108T152000
+LAST-MODIFIED:20170927T175758
+UID:explore_courses2ed98e15-d8cc-4923-bcf5-aa6defdfdf0a
+DTSTAMP:20170927T175758
+LOCATION:McCullough 115
 DESCRIPTION:Applied Physics Core course appropriate for graduate students and advanced undergraduate students with prior knowledge of elementary quantum mechanics. Introduction to materials and topics of current interest. Topics include superconductivity, magnetism, charge and spin density waves, frustration, classical and quantum phase transitions, multiferroics, and interfaces. Prerequisite: elementary course in quantum mechanics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS204 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T175758
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T191500
-LAST-MODIFIED:20170211T124028
-UID:explore_coursese008c66e-eaf2-4fae-bfd3-5d465585603d
-DTSTAMP:20170211T124028
-LOCATION:Law272
-DESCRIPTION:(Formerly Law 322)  This course simulates the strategy and pretrial preparation of a patent lawsuit.  The course materials include information typical to a patent lawsuit: a patent, file history, prior art, and information regarding the accused product.  Students will represent either the patentee or the accused infringer.  Students will plan litigation strategy, meet with and advise a client, conduct written discovery, take and defend depositions, and brief and argue claim construction and motions for summary judgment.  Some knowledge of patent law is presumed.  Special Instructions:  IP: Patents (Law 326) is a prerequisite for this course, but can be taken coterminously.  Students must attend the first class session (or contact the instructor) or they will be dropped from the class or waitlist.  Elements used in grading: Attendance, participation, writing assignments, exercises and oral arguments.
+DTEND;TZID=America/Los_Angeles:20170928T191500
+LAST-MODIFIED:20170927T175752
+UID:explore_courses028a0742-271b-4317-8889-cfa401fd83f3
+DTSTAMP:20170927T175752
+LOCATION:Law271
+DESCRIPTION:(Formerly Law 322) This course simulates the strategy and pretrial preparation of a patent lawsuit. The course materials include information typical to a patent lawsuit: a patent, file history, prior art, and information regarding the accused product. Students will represent either the patentee or the accused infringer. Students will draft claim construction charts, infringement charts, take and defend depositions, and brief and argue claim construction and motions for summary judgment of infringement and invalidity.  Some knowledge of patent law is presumed. Special Instructions: IP: Patents (Law 326) is a prerequisite for this course, but can be taken coterminously. Students must attend the first class session (or contact the instructor) or they will be dropped from the class or waitlist. Elements used in grading: Attendance, participation, writing assignments, exercises and oral arguments.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW4016 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T161500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T191500;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170928T161500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T191500;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

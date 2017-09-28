@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T175000
-LAST-MODIFIED:20170211T124020
-UID:explore_coursesb5adeeaa-18ce-4e22-9116-b3142915c9df
-DTSTAMP:20170211T124020
-LOCATION:Hewlett Teaching Center 102
-DESCRIPTION:Ethical responsibilities of engineers in relation to society, employers, colleagues, and clients; cost-benefit-risk analysis, safety, and informed consent; the ethics of whistleblowing; ethical issues that face engineers as expert witnesses, consultants, and managers; ethical issues in engineering research, design, testing, manufacturing, and operations; ethical issues arising from engineering work in foreign countries; and ethical issues arising from the social, cultural, and environmental contexts of contemporary engineering work. Historical and contemporary case studies. Limited enrollment. Students must attend and complete an application at the first class session.
+DTEND;TZID=America/Los_Angeles:20180109T175000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses4c444e85-126a-4947-9455-b1cead11799e
+DTSTAMP:20170927T180001
+LOCATION:200-205
+DESCRIPTION:Fundamental ethical responsibilities of engineers. Ethical responsibilities to society, employers, colleagues, and clients; ethics, cost-benefit-risk analysis, and safety; informed consent; ethical responsibilities of radical engineering design; the ethics of whistleblowing; ethical issues engineers face as expert witnesses, consultants, and managers; ethical issues in engineering research, design, testing, and manufacturing; ethical issues arising from engineering work in foreign countries; and ethical issues arising from the social, cultural, and environmental contexts of contemporary engineering work. Contemporary case studies. Enrollment strictly limited to 60. Students seeking a slot must attend and complete an application at the first class session.
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:ENGR131 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU
+SUMMARY:ENGR131 LEC
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

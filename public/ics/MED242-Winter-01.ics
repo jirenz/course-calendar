@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T132000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses87e513f9-c2f4-47bb-ad84-dfb1ad22f25e
-DTSTAMP:20170211T124041
-LOCATION:Li Ka Shing Center, room 120
+DTEND;TZID=America/Los_Angeles:20180108T132000
+LAST-MODIFIED:20170927T175908
+UID:explore_coursesee5846b4-692d-4599-86a0-9fa3bdfb0c00
+DTSTAMP:20170927T175908
+LOCATION:Alway Building, Room M106
 DESCRIPTION:Weekly lectures on how human rights violations affect health. Topics include: regional conflict and health, the health status of refugees and internally displaced persons; child labor; trafficking in women and children; HIV/AIDS; torture; poverty, the environment and health; access to clean water; domestic violence and sexual assault; and international availability of drugs. Guest speakers from national and international NGOs including Doctors Without Borders; McMaster University Institute for Peace Studies; UC Berkeley Human Rights Center; Kiva.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED242 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T123000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T123000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

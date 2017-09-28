@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T142000
-LAST-MODIFIED:20170211T124009
-UID:explore_courses82cc9f69-7dc6-4a89-be2a-fd2ecf786cd7
-DTSTAMP:20170211T124009
-LOCATION:Sweet303
+DTEND;TZID=America/Los_Angeles:20180403T125000
+LAST-MODIFIED:20170927T175749
+UID:explore_coursesf60d366f-0940-4506-a78b-b042d9bd4334
+DTSTAMP:20170927T175749
+LOCATION:240-101
 DESCRIPTION:What is the origin and ultimate fate of the universe? Can we know what came before the universe? Are there ultimate limits to human knowledge about the universe and are we reaching them? Cosmology (the study of the universe) raises profound questions about us, our place in the universe, and about the limits of our knowledge. It was only in the 20th century that cosmology developed from metaphysical and theological speculation to become an observational science and a recognized part of physics. In this course, students will explore questions about the Universe, its beginnings, its structure, its extent, its fate, from several perspectives - philosophical, experimental, and theoretical. We will discuss current research and the ongoing debates about the laws of nature on subatomic scales and the perplexing questions they raise regarding the universe and the limits of scientific inquiry.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:THINK45 DIS
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T124009
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T120000
+CREATED:20170927T175749
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T125000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

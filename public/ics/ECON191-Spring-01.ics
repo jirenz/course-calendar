@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T112000
-LAST-MODIFIED:20170211T123946
-UID:explore_coursesefee1b70-ab5e-40f4-b2a9-c2ad1844c9e4
-DTSTAMP:20170211T123946
+DTEND;TZID=America/Los_Angeles:20180403T112000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses61c56067-3173-4434-821b-613d95eaed6d
+DTSTAMP:20170927T175819
 LOCATION:Bishop Auditorium
 DESCRIPTION:Focuses on how managers use accounting information for decision making.  Students will study product and service costing, activity based costing, performance management and evaluation, CVP analysis, forecasting, factors to be considered in pricing decision, capital investment analysis, and quality management and measurement.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON191 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T093000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T093000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T175000
-LAST-MODIFIED:20170211T124027
-UID:explore_coursese409563a-35ed-4d07-ae72-41d6916d93b5
-DTSTAMP:20170211T124027
+DTEND;TZID=America/Los_Angeles:20180405T175000
+LAST-MODIFIED:20170927T175744
+UID:explore_coursesc6137e89-553e-43f3-ab5e-cbba86a50736
+DTSTAMP:20170927T175744
 LOCATION:
 DESCRIPTION:This course helps students become more effective leaders of creativity and innovation in organizations. Successful innovations begin as creative ideas, but creative ideas can be difficult to generate and accurately evaluate. Based on the latest research, this course teaches students a set of data-driven tools for generating creative ideas, forecasting which ideas are most likely to succeed, and implementing new ideas successfully. Through experiential exercises, students learn about their own personal strengths in developing and evaluating new ideas, and how to leverage the strengths of individuals, teams, and crowds to foster creativity and innovation in their organizations.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OB317 WKS
-DTSTART;TZID=America/Los_Angeles:20170406T150000
-CREATED:20170211T124027
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170606T175000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T150000
+CREATED:20170927T175744
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180605T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

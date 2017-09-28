@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T132000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses7b4841e2-436e-4b6b-bdc3-1971a6426925
-DTSTAMP:20170211T124041
-LOCATION:Lorry I LokeyStemCellRschG1002
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175908
+UID:explore_courses17abbd68-1e44-4a07-8396-4ef72b1e8412
+DTSTAMP:20170927T175908
+LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:The focus of MED223 is to fine tune critical thinking skills by analyzing original publications and understanding the current complexities of the cardiovascular system. Students will attend a lecture series presented by prominent external speakers on Tuesdays and learn new approaches and technology from Stanford faculty on Thursdays. Assigned reading  will be discussed and interpreted in class (1-2 papers per class).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED223 SEM
-DTSTART;TZID=America/Los_Angeles:20160929T123000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20170211T124041
-UID:explore_coursesb5771e37-0bf1-438e-af89-c345e3fba268
-DTSTAMP:20170211T124041
-LOCATION:Li Ka Shing Center, room 130
-DESCRIPTION:The focus of MED223 is to fine tune critical thinking skills by analyzing original publications and understanding the current complexities of the cardiovascular system. Students will attend a lecture series presented by prominent external speakers on Tuesdays and learn new approaches and technology from Stanford faculty on Thursdays. Assigned reading  will be discussed and interpreted in class (1-2 papers per class).
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:MED223 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T123000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T123000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

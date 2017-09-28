@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170807T122000
-LAST-MODIFIED:20170211T123940
-UID:explore_courses7540faca-5d54-4593-a77c-6516599e048b
-DTSTAMP:20170211T123940
-LOCATION:ScienceTeachingLearningCntr114
+DTEND;TZID=America/Los_Angeles:20180625T122000
+LAST-MODIFIED:20170927T175804
+UID:explore_courses13a2b218-b109-4472-ab9c-3295c8dc9033
+DTSTAMP:20170927T175804
+LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Third lecture class in summer organic intensive focusing on the structure and reactivity of a class of larger molecules, the biomolecules. Topics covered of interest to biochemistry include aromatic compounds, amines and heterocycles, amino acids, proteins, polysaccharides, nucleic acids and polymers. Prerequisite: Chem 35 or Chem 2 or course equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM3 LEC
-DTSTART;TZID=America/Los_Angeles:20170807T093000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170825T122000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20180625T093000
+CREATED:20170927T175804
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T122000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

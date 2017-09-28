@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T132000
-LAST-MODIFIED:20170211T123940
-UID:explore_coursesa2b69c31-a276-43c7-a88a-c4323dc7243c
-DTSTAMP:20170211T123940
-LOCATION:ScienceTeachingLearningCntr115
+DTEND;TZID=America/Los_Angeles:20180402T132000
+LAST-MODIFIED:20170927T175805
+UID:explore_courses0c57ed06-f57a-4cf4-b232-255f1ab5cff0
+DTSTAMP:20170927T175805
+LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:Explores the design and enablement of new medicines that were born from a convergence of concepts and techniques from chemistry and biology.  Topics include fundamental methods for biomolecule synthesis and engineering and application to hybrid chemical/biologic drugs, as well as modern approaches for target discovery and validation. Prerequisite:  One year of undergraduate organic chemistry, as well as familiarity with concepts in biochemistry and molecular biology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM227 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T123000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T123000
+CREATED:20170927T175805
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

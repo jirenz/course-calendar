@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170211T124031
-UID:explore_courses73aa59c5-b9e2-4821-8c68-6d096592ec72
-DTSTAMP:20170211T124031
-LOCATION:Shriram Ctr BioChemE 054
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20170927T175942
+UID:explore_courses9377cc29-58a8-4b63-8a76-c944bd07a90f
+DTSTAMP:20170927T175942
+LOCATION:
 DESCRIPTION:Required core course restricted to first year E-IPER Ph.D. students. How to develop and implement interdisciplinary research in environment and resources. Assignments include development of research questions, a preliminary literature review, and a summer funding proposal. Course is structured on peer critique and student presentations of work in progress. Corequisite: ENVRES 398 with a faculty member chosen to explore a possible dissertation topic.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENVRES330 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T124031
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T175942
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

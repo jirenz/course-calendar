@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T172000
-LAST-MODIFIED:20170211T124010
-UID:explore_courses1173c916-82e8-4349-b545-1cbf183dc853
-DTSTAMP:20170211T124010
-LOCATION:160-125
+DTEND;TZID=America/Los_Angeles:20180108T172000
+LAST-MODIFIED:20170927T175750
+UID:explore_courses03a44665-83a2-4201-a425-a0019041f7f7
+DTSTAMP:20170927T175750
+LOCATION:160-329
 DESCRIPTION:Prerequisite: PWR 1. In this course, we will inquire into how, exactly, inspiration works. Where do good ideas come from? What fosters creativity? And how do we inspire ourselves and others to follow through on those ideas? We&iquest;ll address these questions from many disciplinary angles, including the history of theories of genius and creativity, the uses of spiritual and literary &iquest;epiphany,&iquest; and recent psychology research into growth mindsets. For more information about PWR 2, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-2. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR2BRB SEM
-DTSTART;TZID=America/Los_Angeles:20170109T153000
-CREATED:20170211T124010
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T153000
+CREATED:20170927T175750
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T175000
-LAST-MODIFIED:20170211T123930
-UID:explore_courses713ea223-e5b9-472b-be8f-ed9cc0438220
-DTSTAMP:20170211T123930
-LOCATION:School of Education 210
+DTEND;TZID=America/Los_Angeles:20180404T162000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses9bc13cae-47e3-4a20-9275-ee10c8e2e8b6
+DTSTAMP:20170927T175938
+LOCATION:
 DESCRIPTION:Open only to recipients of the Haas Summer Fellowship, which offers students the opportunity to initiate and carry out an innovative service project in collaboration with a community partner. Goal is to expand upon the work fellows did during the application process with respect to the feasibility and sustainability of their field projects.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC170 WKS
-DTSTART;TZID=America/Los_Angeles:20170403T163000
-CREATED:20170211T123930
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180404T150000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

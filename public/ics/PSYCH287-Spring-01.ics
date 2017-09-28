@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T172000
-LAST-MODIFIED:20170211T124001
-UID:explore_coursese8a49d80-2f7a-4361-aead-21024fa4a1b8
-DTSTAMP:20170211T124001
-LOCATION:420-419
+DTEND;TZID=America/Los_Angeles:20180404T172000
+LAST-MODIFIED:20170927T175847
+UID:explore_courses14108b19-68c6-40ea-a489-98a3eb7086bc
+DTSTAMP:20170927T175847
+LOCATION:160-315
 DESCRIPTION:This course explores the current state of brain-machine interfaces: technologies that directly stimulate and/or record neural activity.  Such interfaces are being used to treat nervous system disorders, including hearing, seeing, and motor dysfunction. We expect that the range of applications will expand over the next decade to other neurological conditions and to augmentation of function. The material we cover aims to explain some of the existing technology and to clarify its limitations and promise. The course organization is designed to develop new ideas and promote new collaborations for extending the reach of these technologies. The class will feature lecturers with expertise in brain-machine interfaces of various sorts or related technologies and methods, as well as directed readings and discussion about new work in the field. In the previous year lectures were given by: Brian Wandell, Daniel Palanker, Nikos Logothetis, John Oghalai, Stephen Baccus, Paul Nuyujukian, Dan Yoshor and Nick Melosh.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH287 SEM
-DTSTART;TZID=America/Los_Angeles:20170405T143000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T143000
+CREATED:20170927T175847
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

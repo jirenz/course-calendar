@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T132000
-LAST-MODIFIED:20170211T124036
-UID:explore_courses8985a28d-31bf-45fd-85c9-10cd3ccbfbdb
-DTSTAMP:20170211T124036
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20170927T175901
+UID:explore_courses9813634e-b0a9-44e5-aed1-81ef34b7c671
+DTSTAMP:20170927T175901
 LOCATION:
 DESCRIPTION:The course will explore most common equine diseases, ranging from colic to lameness are reviewed using problem-oriented approach.  Topics include: equine infectious diseases, care of the newborn foal, medical emergencies, and neurological disorders. The course includes a 2 hour lab on  the physical and neurological examination of the horse at the Stanford Red Barn. Students will also have the opportunity to ride polo ponies and learn the basics of polo during a trip tot the Stanford Polo Team Fields.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPMED83 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T120000
-CREATED:20170211T124036
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T120000
+CREATED:20170927T175901
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

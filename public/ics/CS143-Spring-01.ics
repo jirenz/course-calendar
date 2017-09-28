@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170211T124018
-UID:explore_courses04be8df4-4134-40b5-9b08-8a41b3301bc6
-DTSTAMP:20170211T124018
-LOCATION:NVIDIA Auditorium
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses9f7cf899-2b37-41ce-b440-265f398d6c5d
+DTSTAMP:20170927T175958
+LOCATION:
 DESCRIPTION:Principles and practices for design and implementation of compilers and interpreters. Topics: lexical analysis; parsing theory; symbol tables; type systems; scope; semantic analysis; intermediate representations; runtime environments; code generation; and basic program analysis and optimization. Students construct a compiler for a simple object-oriented language during course programming projects. Prerequisites: 103 or 103B, and 107.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS143 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

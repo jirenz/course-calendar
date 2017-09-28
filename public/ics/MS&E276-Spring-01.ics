@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T162000
-LAST-MODIFIED:20170211T124021
-UID:explore_courses7d0653ef-16ec-4a13-a375-df8b1576e29c
-DTSTAMP:20170211T124021
-LOCATION:Littlefield 107
+DTEND;TZID=America/Los_Angeles:20180405T162000
+LAST-MODIFIED:20170927T180002
+UID:explore_coursese9eace91-58e1-4bf4-8f75-e5de123fbb95
+DTSTAMP:20170927T180002
+LOCATION:380-380F
 DESCRIPTION:For graduate students only, with a preference for engineering and science majors. Emphasis on managing high-growth, early-stage enterprises, especially those with innovation-based products and services. Students work in teams to develop skills and approaches necessary to becoming effective entrepreneurial leaders and managers. Topics include assessing risk, understanding business models, analyzing key operational metrics, modeling cash flow and capital requirements, evaluating sources of financing, structuring and negotiating investments, managing organizational culture and incentives,  managing the interplay between ownership and growth, and handling adversity and failure. Limited enrollment. Admission by application. Prerequisite: basic accounting.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E276 LEC
-DTSTART;TZID=America/Los_Angeles:20170406T133000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T133000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

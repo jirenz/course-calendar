@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T112000
-LAST-MODIFIED:20170211T124021
-UID:explore_courses7683edd4-cfad-4455-a8d9-b46237795e89
-DTSTAMP:20170211T124021
+DTEND;TZID=America/Los_Angeles:20180110T112000
+LAST-MODIFIED:20170927T180002
+UID:explore_courses2339656f-4318-45eb-bb64-90ea5895d493
+DTSTAMP:20170927T180002
 LOCATION:Thornt102
 DESCRIPTION:Skills needed to market new technology-based products to customers around the world. Case method discussions. Cases include startups and global high tech firms. Course themes: marketing toolkit, targeting markets and customers, product marketing and management, partners and distribution, sales and negotiation, and outbound marketing. Team-based take-home final exam. Limited enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E271 LEC
-DTSTART;TZID=America/Los_Angeles:20170111T093000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=WE,FR
+DTSTART;TZID=America/Los_Angeles:20180110T093000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

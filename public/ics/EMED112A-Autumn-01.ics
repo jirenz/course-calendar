@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T200000
-LAST-MODIFIED:20170211T124037
-UID:explore_coursesf53b1f79-6ff0-499c-8f0a-6dbd13ec16e7
-DTSTAMP:20170211T124037
+DTEND;TZID=America/Los_Angeles:20170926T203000
+LAST-MODIFIED:20170927T175902
+UID:explore_coursesf9fb699e-51c9-452a-a68d-5e8a0cebe8a7
+DTSTAMP:20170927T175902
 LOCATION:
-DESCRIPTION:Ongoing training for current EMS providers. Students practice BLS assessments and medical care through simulated patient encounters. Topics include assessment and treatment of the undifferentiated trauma patient (including airway management, monitoring, and evaluation) and prehospital care in nontraditional locations. Students taking the course for units, also serve as teaching assistants for EMED 111, the Stanford EMT training course.  Prerequisites: EMED 111/211 A-C (or equivalent EMT Certification course), CPR-PR certification, and consent of instructor.
+DESCRIPTION:EMED 112A/212A is a California and NREMT approved EMT refresher course which provides the equivalent of 24 hours of continuing education for recertification. Topics include both medical and traumatic emergencies as well as skills training. Students taking this course also serve as teaching assistants for EMED 111/211, the initial EMT training course. There will be one class activity on a Saturday or Sunday during the quarter, specific date will be announced during the first few weeks of class.nPrerequisites: Completion of an EMT certification course (such as EMED 111A-C), CPR for Healthcare Providers, and consent of instructor. See http://emt.stanford.edu for more details.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EMED112A LEC
-DTSTART;TZID=America/Los_Angeles:20160927T180000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T200000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T180000
+CREATED:20170927T175902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T203000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

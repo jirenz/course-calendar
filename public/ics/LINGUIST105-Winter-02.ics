@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T123955
-UID:explore_courses6ba271be-1fc6-49a1-afa7-fa4510023ce9
-DTSTAMP:20170211T123955
-LOCATION:460-429
-DESCRIPTION:Phonetics is the systematic study of speech.  In this class, we will learn about the physical gestures and timing involved in the articulation of spoken language and about the resulting acoustic signal that is decoded into linguistic units by the human auditory system.  The class is structured into two parts: A practical lab component, and a class component.  This course highlights both the complexity of the physical nature of producing spoken language, and the highly variable acoustic signal that is interpreted by listeners as language.  By the end of this course, you should: (1) Understand the process of preparing an utterance to articulating it; (2) Understand the basic acoustic properties of speech; (3) Provide detailed phonetic transcriptions of speech; (4) Produce and understand the gestures involved in nearly all of the world&iquest;s speech sounds, and (5) Understand the ways this knowledge can be used to advance our understanding of spoken language understanding by humans and machines.
+DTEND;TZID=America/Los_Angeles:20180110T152000
+LAST-MODIFIED:20170927T175836
+UID:explore_courses51ed8b8f-db3f-4aea-ac50-1f6c767952c3
+DTSTAMP:20170927T175836
+LOCATION:200-107
+DESCRIPTION:Phonetics is the systematic study of speech.  In this class, we will learn about the physical gestures and timing involved in the articulation of spoken language and about the resulting acoustic signal that is decoded into linguistic units by the human auditory system.  The class is structured into two parts: A practical lab component, and a class component.  This course highlights both the complexity of the physical nature of producing spoken language, and the highly variable acoustic signal that is interpreted by listeners as language.  By the end of this course, you should: (1) Understand the process of preparing an utterance to articulating it; (2) Understand the basic acoustic properties of speech; (3) Provide detailed phonetic transcriptions of speech; (4) Produce and understand the gestures involved in nearly all of the world's speech sounds, and (5) Understand the ways this knowledge can be used to advance our understanding of spoken language understanding by humans and machines.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LINGUIST105 DIS
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T123955
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180110T143000
+CREATED:20170927T175836
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

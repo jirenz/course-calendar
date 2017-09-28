@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T152000
-LAST-MODIFIED:20170211T124009
-UID:explore_courses318cb238-2647-451e-9d16-147081549ccd
-DTSTAMP:20170211T124009
-LOCATION:School of Education 130
+DTEND;TZID=America/Los_Angeles:20170926T112000
+LAST-MODIFIED:20170927T175749
+UID:explore_coursesab22076e-3f60-4467-aec2-ab7a0d9a6b8c
+DTSTAMP:20170927T175749
+LOCATION:50-52H
 DESCRIPTION:How have Americans remembered the Civil War - what it meant, what it accomplished, and what it failed to accomplish?  How did Americans reimagine the United States as a nation after the war?  Who belonged in the national community and who would be excluded? In 1865, the peace treaty was signed at Appomattox and the Thirteenth Amendment outlawed slavery, but the battle over memory and national identity had just begun.  The questions that the Civil War addressed - and failed to address - continue to affect our lives today.  We will focus on how Americans negotiated issues of cultural memory and national identity through a close analysis of historical texts, novels, poems, films, paintings, cartoons, photographs, and music.  Our interpretations will foreground the particular themes of race and nationhood, freedom and citizenship, and changing notions of individual and collective identity. Our assumption in this course is that history is not available to us as a set of events - fixed, past, and unchanging. Rather, history is known through each generation's interpretations of those events, and these interpretations are shaped by each generation's lived experience. What stories get told? Whose stories? And in what ways?  The stories we choose to tell about the past can shape not only our understanding of the present, but also the kind of future we imagine and strive to realize.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:THINK31 DIS
-DTSTART;TZID=America/Los_Angeles:20160926T143000
-CREATED:20170211T124009
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175749
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

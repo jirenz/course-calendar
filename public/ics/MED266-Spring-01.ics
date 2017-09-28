@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses75d7db02-3dc9-4fd4-9248-be34caed5b19
-DTSTAMP:20170211T124041
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20170927T175908
+UID:explore_coursesbdeeb334-ea24-46cc-b51f-adeb813e9131
+DTSTAMP:20170927T175908
 LOCATION:
 DESCRIPTION:This is a Community Engaged learning seminar style course that meets once a week for an hour and a half.  We will have seminar discussions and readings related to local health literacy issues, and the systemic factors affecting health literacy through collaborative problem-solving processes through course readings and community engagement experiences. Emphasis will be on active learning, with assignments calling for data gathering through interaction with community members to explore and address these issues for more positive health outcomes. The course is open to pre-clinical medical, undergraduate and graduate students. No prerequisites.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED266 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

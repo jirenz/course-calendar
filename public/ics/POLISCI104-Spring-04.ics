@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T112000
-LAST-MODIFIED:20170211T124000
-UID:explore_courses87bf60f7-848f-4796-a97c-9be854b55404
-DTSTAMP:20170211T124000
-LOCATION:160-332
+DTEND;TZID=America/Los_Angeles:20180406T132000
+LAST-MODIFIED:20170927T175846
+UID:explore_coursesf88656cc-90b0-496f-a4aa-9b119b5f2e49
+DTSTAMP:20170927T175846
+LOCATION:160-318
 DESCRIPTION:(Formerly POLISCI 4) Why are some countries prone to civil war and violence, while others remain peaceful? Why do some countries maintain democratic systems, while others do not? Why are some countries more prosperous than others? This course will provide an overview of the most basic questions in the comparative study of political systems, and will introduce the analytical tools that can help us answer them.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI104 DIS
-DTSTART;TZID=America/Los_Angeles:20170407T103000
-CREATED:20170211T124000
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180406T123000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

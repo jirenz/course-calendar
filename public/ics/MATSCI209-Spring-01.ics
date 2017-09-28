@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20170211T124022
-UID:explore_coursesfe89accf-18ab-4183-8188-51dbc3eb1146
-DTSTAMP:20170211T124022
-LOCATION:380-380C
-DESCRIPTION:The concepts of electronic energy bands and transports applied to metals, semiconductors, and insulators. The behavior of electronic and optical devices including p-n junctions, MOS-capacitors, MOSFETs, optical waveguides, quantum-well lasers, light amplifiers, and metallo-dielectric light guides. Emphasis is on relationships between structure and physical properties. Elementary quantum and statistical mechanics concepts are used. Prerequisite: 195/205 or equivalent. Undergraduates register for 199 for 4 units; graduates register for 209 for 3 units.
+DTEND;TZID=America/Los_Angeles:20180403T102000
+LAST-MODIFIED:20170927T180003
+UID:explore_coursesf5c63def-1d5c-4cf9-912c-c97cb128119a
+DTSTAMP:20170927T180003
+LOCATION:380-380Y
+DESCRIPTION:The concepts of electronic energy bands and transports applied to metals, semiconductors, and insulators. The behavior of electronic and optical devices including p-n junctions, MOS-capacitors, MOSFETs, optical waveguides, quantum-well lasers, light amplifiers, and metallo-dielectric light guides. Emphasis is on relationships between structure and physical properties. Elementary quantum and statistical mechanics concepts are used. Prerequisite: MATSCI 195/205 or equivalent. Undergraduates register for 199 for 4 units; graduates register for 209 for 3 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI209 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20170211T124022
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T090000
+CREATED:20170927T180003
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

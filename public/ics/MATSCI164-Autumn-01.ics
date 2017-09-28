@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T142000
-LAST-MODIFIED:20170211T124022
-UID:explore_coursesb8801fb8-755b-46ca-a744-90c60f959d25
-DTSTAMP:20170211T124022
-LOCATION:420-050
-DESCRIPTION:Lab course. Current electronic and photonic materials and devices. Device physics and micro-fabrication techniques. Students design, fabricate, and perform physical characterization on the devices they have fabricated. Established techniques and materials such as photolithography, metal evaporation, and Si technology; and novel ones such as soft lithography and organic semiconductors. Prerequisite: 152 or 199 or consent of instructor. Undergraduates register in 164 for 4 units; graduates register in 174 for 3 units.
+DTEND;TZID=America/Los_Angeles:20170925T142000
+LAST-MODIFIED:20170927T180003
+UID:explore_coursese4e27941-821a-4763-873c-9e22bbc000aa
+DTSTAMP:20170927T180003
+LOCATION:380-380F
+DESCRIPTION:Lab course. Current electronic and photonic materials and devices. Device physics and micro-fabrication techniques. Students design, fabricate, and perform physical characterization on the devices they have fabricated. Established techniques and materials such as photolithography, metal evaporation, and Si technology; and novel ones such as soft lithography and organic semiconductors. Prerequisite: MATSCI 152 or 199 or consent of instructor. Undergraduates register in 164 for 4 units; graduates register in 174 for 3 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI164 LAB
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T124022
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T180003
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T142000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses96ff1a8a-2588-4988-926a-3af5220048f0
-DTSTAMP:20170211T124020
-LOCATION:Shriram Ctr BioChemE 104
-DESCRIPTION:Analytical and numerical methods for solving ordinary differential equations arising in engineering applications: Solution of initial and boundary value problems, series solutions, Laplace transforms, and nonlinear equations; numerical methods for solving ordinary differential equations, accuracy of numerical methods, linear stability theory, finite differences. Introduction to MATLAB programming as a basic tool kit for computations. Problems from various engineering fields. Prerequisite: 10 units of AP credit (Calc BC with 4 or 5, or Calc AB with 5), or Math 41 and 42. Recommended: CME100.
+DTEND;TZID=America/Los_Angeles:20170925T145000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses0e97314d-837d-4680-a0af-4b90d9425009
+DTSTAMP:20170927T180001
+LOCATION:Gates B3
+DESCRIPTION:Analytical and numerical methods for solving ordinary differential equations arising in engineering applications: Solution of initial and boundary value problems, series solutions, Laplace transforms, and nonlinear equations; numerical methods for solving ordinary differential equations, accuracy of numerical methods, linear stability theory, finite differences. Introduction to MATLAB programming as a basic tool kit for computations. Problems from various engineering fields. Prerequisite: 10 units of AP credit (Calc BC with 5, or Calc AB with 5 or placing out of the single variable math placement test: https://exploredegreesnextyear.stanford.edu/undergraduatedegreesandprograms/#aptextt),), or Math 19-21. Recommended: CME100.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR155A LEC
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

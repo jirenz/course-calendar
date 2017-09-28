@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T152000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses3a4a4b7c-23d0-467c-8b9b-e362e87241c3
-DTSTAMP:20170211T123946
-LOCATION:Econ 139
-DESCRIPTION:Use of economic theory and analysis to design allocation mechanisms and market institutions. Course focuses on three areas: the design of matching algorithms to solve assignment problems, with applications to school choice, entry-level labor markets, and kidney exchanges; the design of auctions to solve general resource allocation problems, with applications to the sale of natural resources, financial assets, and advertising; and the design of platforms and exchanges, with applications to internet markets. Emphasis on connecting economic theory to practical applications. Students must write term paper. Prerequisites: recommended: ECON 51.
+DTEND;TZID=America/Los_Angeles:20170926T152000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses966bf133-3944-40b0-adf4-a753b86ef7aa
+DTSTAMP:20170927T175819
+LOCATION:Econ 140
+DESCRIPTION:Use of economic theory and analysis to design allocation mechanisms and market institutions. Course focuses on three areas: the design of matching algorithms to solve assignment problems, with applications to school choice, entry-level labor markets, and kidney exchanges; the design of auctions to solve general resource allocation problems, with applications to the sale of natural resources, financial assets, radio spectrum, and advertising; and the design of platforms and exchanges, with applications to internet markets. Emphasis on connecting economic theory to practical applications. Students must write term paper. Prerequisites: recommended: ECON 51 (Public Policy majors may take PUBLPOL 51 as a substitute for ECON 51).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON136 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

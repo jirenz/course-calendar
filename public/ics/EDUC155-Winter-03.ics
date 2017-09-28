@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T205000
-LAST-MODIFIED:20170211T123930
-UID:explore_courses369ba19b-2ce6-49c0-a8a7-b291d41049a9
-DTSTAMP:20170211T123930
+DTEND;TZID=America/Los_Angeles:20180109T205000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses9a85cc72-1700-441c-87ba-bb9afb0392c4
+DTSTAMP:20170927T175938
 LOCATION:School of Education 230
 DESCRIPTION:Restricted to first-year undergraduates; limited enrollment. There are two options for how to participate. You can either enroll in three class weekday sessions weeks 4, 5 &amp; 6 or one weekend section. These times provide a structured time for students to explore their identities, values, and the kind of lives they want to lead. Exercises and discussions led by faculty, staff, and upper-class student co-facilitators. Tuesday sessions will occur on 1/31, 2/7 &amp; 2/14; Wednesday sessions will occur on 2/1, 2/8 &amp; 2/115; Thursday sessions will occur on 2/2, 2/9 &amp; 2/16. Weekend sections are on Sunday, 2/5, Saturday, 2/11 OR Saturday, 2/18 (Weekend sessions are longer and students only participate in one).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC155 DIS
-DTSTART;TZID=America/Los_Angeles:20170110T193000
-CREATED:20170211T123930
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T205000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180109T193000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T205000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

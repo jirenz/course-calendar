@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T124024
-UID:explore_courses16f7845d-ecc8-4027-8b5d-3d97bc0ade2e
-DTSTAMP:20170211T124024
-LOCATION:Gold Driving Range
-DESCRIPTION:This course allows students to further development their golf game by engaging in various golf drills and the opportunity to practice on all facets of golf. Students will learn how to lower scores and manage the game on the course. This course will utilize class discussions, class assignments and student participation to enable students to: (1) Understand basic components of skill-related and health-related physical fitness, (2) Develop physical fitness and motor skills, and (3) Develop a positive attitude toward wellness and physical activity which will facilitate a healthy lifestyle.nPrerequisite: 52 or equivalent. Fee. (AU)
+DTEND;TZID=America/Los_Angeles:20180108T102000
+LAST-MODIFIED:20170927T175934
+UID:explore_coursesd2b70064-67da-4b21-9625-ba87dbe81940
+DTSTAMP:20170927T175934
+LOCATION:Avery Recreational Pool
+DESCRIPTION:This class is for those who can swim 100 yards freestyle continuously and have had an introduction to backstroke and breaststroke.  In this class you will learn: refinement of the 4 competitive swimming strokes: freestyle, breaststroke, backstroke, butterfly (review/intro) and efficient breathing techniques.  You will gain additional development of flipturns using intervals (100 yard repeats), competitive starts and turns, use of swimming equipment (kick boards, pull buoys, hand paddles, fins) for fitness, and videotaping with review.  nPrereq:  Swim 100 yards continuous of freestyle. If you have not had an introduction to Breaststroke or backstroke, we recommend you take PE 52: Swimming Intermediate.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PE53 ACT
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170211T124024
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20170927T175934
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T182000
-LAST-MODIFIED:20170211T124030
-UID:explore_coursese1052b82-89d6-4e32-bab0-54dc6046b46a
-DTSTAMP:20170211T124030
+DTEND;TZID=America/Los_Angeles:20170926T182000
+LAST-MODIFIED:20170927T175941
+UID:explore_coursesc9410b8d-0bbc-4343-931b-8a01bc887067
+DTSTAMP:20170927T175941
 LOCATION:Green Earth Sciences104
 DESCRIPTION:The combined forces of climate change, technological development, and geopolitics are disrupting the energy industry, yet the competitiveness and regulated nature of the mature markets for fuel, power, and materials have created meaningful barriers to entry for startup companies. In this case based course, students will study real energy startups to understand what challenges they have overcome and continue to face. Each week, the course will focus on a different company and the founder or CEO of that company will present. Topics will include advanced battery technologies, photovoltaic manufacturing, solar and wind project development, oil &amp; gas exploration &amp; production, advanced biofuels, electric vehicles, distributed power generation, and financing energy startups.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY216 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T163000
+CREATED:20170927T175941
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

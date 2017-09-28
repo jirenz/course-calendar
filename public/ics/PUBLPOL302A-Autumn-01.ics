@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T102000
-LAST-MODIFIED:20170211T124002
-UID:explore_coursesf19f18cb-4655-4d6d-bcc3-eeaab7973727
-DTSTAMP:20170211T124002
+DTEND;TZID=America/Los_Angeles:20170925T102000
+LAST-MODIFIED:20170927T175848
+UID:explore_courses658adbb5-1f89-4273-b118-7411affc6e0a
+DTSTAMP:20170927T175848
 LOCATION:Campbell Recital Hall 126
 DESCRIPTION:For undergraduates. The structure of the American legal system including the courts; American legal culture; the legal profession and its social role; the scope and reach of the legal system; the background and impact of legal regulation; criminal justice; civil rights and civil liberties; and the relationship between the American legal system and American society in general.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PUBLPOL302A LEC
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T124002
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=MO,TU,WE,TH
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175848
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,TU,WE,TH
 END:VEVENT
 END:VCALENDAR

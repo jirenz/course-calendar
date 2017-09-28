@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T192000
-LAST-MODIFIED:20170211T123943
-UID:explore_courses047c48a6-e423-49dc-805d-ac137a5eeda1
-DTSTAMP:20170211T123943
-LOCATION:200-217
-DESCRIPTION:From Sally Hemings to Barack Obama, this course explores the ways that racial identity has been experienced, represented and contested throughout American history.  Engaging historical, legal and literary texts and films, this course examines major historical transformations that have shaped our understanding of racial identity.  This course also draws on other imaginative modes including autobiography, memoir, photography and music to consider the ways that racial identity has been represented in American society.  Most broadly, this course interrogates the problem of American identity and examines the interplay between racial identity and American identity.  This course moves along both chronological and thematic axes to investigate the problems of racial mixture, mixed-race identity, racial passing and racial performance across historical periods.  Themes of ambiguous, hidden and hybrid identity will be critical to this course.  This course will also explore the interplay of the problems of class, gender and sexuality in the construction of racial identity.
+DTEND;TZID=America/Los_Angeles:20180403T175000
+LAST-MODIFIED:20170927T175813
+UID:explore_courses19408246-59f4-402b-94d1-c37f9489a963
+DTSTAMP:20170927T175813
+LOCATION:300-303
+DESCRIPTION:From Sally Hemings to Barack Obama, this course explores the ways that racial identity has been experienced, represented, and contested throughout American history. Engaging historical, legal, and literary texts and films, this course examines major historical transformations that have shaped our understanding of racial identity. This course also draws on other imaginative modes including autobiography, memoir, photography, and music to consider the ways that racial identity has been represented in American society. Most broadly, this course interrogates the problem of American identity and examines the interplay between racial identity and American identity.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CSRE255D COL
-DTSTART;TZID=America/Los_Angeles:20170404T163000
-CREATED:20170211T123943
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T192000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175813
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

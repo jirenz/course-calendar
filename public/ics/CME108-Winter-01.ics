@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170211T124014
-UID:explore_courses8dc1b749-114f-4df8-8979-bdbe95cdfb74
-DTSTAMP:20170211T124014
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175953
+UID:explore_courses8e383f6d-bf5e-4abc-a5a4-58a3d85c4ea6
+DTSTAMP:20170927T175953
 LOCATION:380-380Y
-DESCRIPTION:Introduction to Scientific Computing Numerical computation for mathematical, computational, physical sciences and engineering: error analysis, floating-point arithmetic, nonlinear equations, numerical solution of systems of algebraic equations, banded matrices, least squares, unconstrained optimization, polynomial interpolation, numerical differentiation and integration, numerical solution of ordinary differential equations, truncation error, numerical stability for time dependent problems and stiffness. Implementation of numerical methods in MATLAB programming assignments. Prerequisites: MATH 51, 52, 53; prior programming experience (MATLAB or other language at level of CS 106A or higher). Graduate students should take it for 3 units and undergraduate students should take it for 4 units.
+DESCRIPTION:Introduction to Scientific Computing Numerical computation for mathematical, computational, physical sciences and engineering: error analysis, floating-point arithmetic, nonlinear equations, numerical solution of systems of algebraic equations, banded matrices, least squares, unconstrained optimization, polynomial interpolation, numerical differentiation and integration, numerical solution of ordinary differential equations, truncation error, numerical stability for time dependent problems and stiffness. Implementation of numerical methods in MATLAB programming assignments. Prerequisites: MATH 51, 52, 53; prior programming experience (MATLAB or other language at level of CS 106A or higher).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME108 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20170211T124014
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175953
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

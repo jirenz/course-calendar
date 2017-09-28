@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170211T124014
-UID:explore_courses5596445a-c409-4a1c-a869-1a79fb38fd61
-DTSTAMP:20170211T124014
-LOCATION:Bishop Auditorium
-DESCRIPTION:Introduction to applied linear algebra with emphasis on applications. Vectors, norm, and angle; linear independence and orthonormal sets; applications to document analysis. Clustering and the k-means algorithm.  Matrices, left and right inverses, QR factorization. Least-squares and model fitting, regularization and cross-validation.  Constrained and nonlinear least-squares.  Applications include time-series prediction, tomography, optimal control, and portfolio optimization.  Prerequisites:MATH 51 or CME 100, and basic knowledge of computing (CS 106A is more than enough, and can be taken concurrently). EE103/CME103 and Math 104 cover complementary topics in applied linear algebra. The focus of EE103 is on a few linear algebra concepts, and many applications; the focus of Math 104 is on algorithms and concepts.
+DTEND;TZID=America/Los_Angeles:20170926T102000
+LAST-MODIFIED:20170927T175953
+UID:explore_courses4a64d3cb-cb52-433e-bdfb-781ab9a56b3e
+DTSTAMP:20170927T175953
+LOCATION:Hewlett Teaching Center 200
+DESCRIPTION:Introduction to applied linear algebra with emphasis on applications. Vectors, norm, and angle; linear independence and orthonormal sets; applications to document analysis. Clustering and the k-means algorithm.  Matrices, left and right inverses, QR factorization. Least-squares and model fitting, regularization and cross-validation.  Constrained and nonlinear least-squares.  Applications include time-series prediction, tomography, optimal control, and portfolio optimization. Undergraduate students should enroll for 5 units, and graduate students should enroll for 3 units. Prerequisites:MATH 51 or CME 100, and basic knowledge of computing (CS 106A is more than enough, and can be taken concurrently). EE103/CME103 and Math 104 cover complementary topics in applied linear algebra. The focus of EE103 is on a few linear algebra concepts, and many applications; the focus of Math 104 is on algorithms and concepts.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME103 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20170211T124014
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T090000
+CREATED:20170927T175953
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

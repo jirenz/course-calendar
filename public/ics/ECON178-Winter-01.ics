@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses2c1f4579-4395-401d-a5b5-e1de60516e39
-DTSTAMP:20170211T123946
+DTEND;TZID=America/Los_Angeles:20180109T152000
+LAST-MODIFIED:20170927T175819
+UID:explore_coursesc7d4d8e6-2957-49a4-a724-0ba6868524a4
+DTSTAMP:20170927T175819
 LOCATION:Lathrop 282
 DESCRIPTION:The field of behavioral economics draws on insights from other disciplines, especially psychology, to enrich our understanding of economic behavior. The course will discuss how people may display systematic behavioral patterns that diverge from the predictions of standard economic models, as well as the ways in which economists incorporate those considerations into their theories, and the implications of those theories for market outcomes and public policies. Prerequisites: ECON 50 and ECON 102A. Econ 51 is recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON178 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T112000
-LAST-MODIFIED:20170211T124037
-UID:explore_coursese4ced550-f4b8-467a-a8ad-a8d969dcfa41
-DTSTAMP:20170211T124037
-LOCATION:Alway Building, Room M106
+DTEND;TZID=America/Los_Angeles:20180112T162000
+LAST-MODIFIED:20170927T175903
+UID:explore_courses9b46aa27-1381-4e04-8192-809149e6bd38
+DTSTAMP:20170927T175903
+LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:The goal of this course is to explore how different experimental strategies are applied to a variety of biological questions. By experimental strategy, we refer to both the general method and the logic with which the method is applied. An underlying theme of the course is that each strategy we discuss can be applied to problems that cut across different disciplines, for example immunology, cancer biology, or embryology.  Genome evolution, organization, and function; technical, computational, and experimental approaches; hands-on experience with representative computational tools used in genome science; and a work knowledge of the scripting language Python
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE211 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180112T133000
+CREATED:20170927T175903
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=FR
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T162000
-LAST-MODIFIED:20170211T124037
-UID:explore_coursesf53bebe4-5095-4385-a5bc-20442fcbfe36
-DTSTAMP:20170211T124037
-LOCATION:Alway Building, Room M106
+DTEND;TZID=America/Los_Angeles:20180109T112000
+LAST-MODIFIED:20170927T175903
+UID:explore_courses2947ea34-45ff-4edc-8741-521ab19f0d77
+DTSTAMP:20170927T175903
+LOCATION:Alway Building, Room M112
 DESCRIPTION:The goal of this course is to explore how different experimental strategies are applied to a variety of biological questions. By experimental strategy, we refer to both the general method and the logic with which the method is applied. An underlying theme of the course is that each strategy we discuss can be applied to problems that cut across different disciplines, for example immunology, cancer biology, or embryology.  Genome evolution, organization, and function; technical, computational, and experimental approaches; hands-on experience with representative computational tools used in genome science; and a work knowledge of the scripting language Python
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE211 LEC
-DTSTART;TZID=America/Los_Angeles:20170113T133000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180109T093000
+CREATED:20170927T175903
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

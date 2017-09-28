@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170211T123951
-UID:explore_courses227a74e1-d1c5-4ba8-856e-baf163882904
-DTSTAMP:20170211T123951
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175829
+UID:explore_courses76edc2ce-70cc-4d0e-82ef-25b11c87b501
+DTSTAMP:20170927T175829
 LOCATION:200-002
 DESCRIPTION:(Same as HISTORY 147.  History majors and others taking 5 units, register for 147.) Introduction, focusing particularly on the modern era.  Topics include: precolonial African societies; European colonization; the impact of the mineral revolution; the evolution of African and Afrikaner nationalism; the rise and fall of the apartheid state; the politics of post-apartheid transformation; and the AIDS crisis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY47 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

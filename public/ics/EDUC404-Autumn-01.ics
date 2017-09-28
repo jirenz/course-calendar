@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursesaf83fc73-a3bd-4222-9a92-982c4d1f5cae
-DTSTAMP:20170211T123931
-LOCATION:Ceras 101
+DTEND;TZID=America/Los_Angeles:20170926T102000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses0d32ddbf-2036-401b-acb3-7f5435d08b91
+DTSTAMP:20170927T175938
+LOCATION:
 DESCRIPTION:The objective of this seminar is to provide students from different backgrounds an opportunity to learn about current issues and debates on Brazilian education. The seminar will cover topics on the history of Brazilian education; an overview of current school reforms at the federal level; educational assessments; education and economic growth; educational equity; teacher labor market; technology and education; early childhood; and higher education to Brazil.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC404 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T083000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T090000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

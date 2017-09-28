@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T175000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursesd78aa6dd-dc54-4439-a2bc-3701ee52a165
-DTSTAMP:20170211T123931
-LOCATION:50-52H
+DTEND;TZID=America/Los_Angeles:20180111T175000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses6b19879f-602a-4059-b740-eb40e13b0f9e
+DTSTAMP:20170927T175938
+LOCATION:260-004
 DESCRIPTION:Theoretical perspectives and empirical studies on the structural and cultural sources of educational expansion and differentiation, and on the cultural and structural consequences of educational institutionalization. Research topics: education and nation building; education, mobility, and equality; education, international organizations, and world culture.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC306D DIS
-DTSTART;TZID=America/Los_Angeles:20170112T163000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T163000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

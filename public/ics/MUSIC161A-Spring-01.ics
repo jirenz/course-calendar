@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T172000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursesa20d3d3b-7e73-4091-921e-699ff23913bd
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180405T182000
+LAST-MODIFIED:20170927T175841
+UID:explore_coursesbe65d200-2a27-43f7-a7eb-8ac0f09670a6
+DTSTAMP:20170927T175841
 LOCATION:
 DESCRIPTION:40- to 50-member ensemble performing transcriptions of symphonic music, brass band music, and repertoire composed specifically for symphonic band.  One concert per quarter. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC161A PRC
-DTSTART;TZID=America/Los_Angeles:20170406T153000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T163000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=TH
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T212000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursesa55fbbcb-fa03-4392-8e7f-01459961ea51
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180403T213000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses28a35744-76a9-4a8b-976e-e71290ea7c3f
+DTSTAMP:20170927T175841
 LOCATION:
 DESCRIPTION:40- to 50-member ensemble performing transcriptions of symphonic music, brass band music, and repertoire composed specifically for symphonic band.  One concert per quarter. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC161A PRC
-DTSTART;TZID=America/Los_Angeles:20170404T190000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T212000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T190000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T213000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

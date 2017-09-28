@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T122000
-LAST-MODIFIED:20170211T123939
-UID:explore_coursesb89a8101-9d76-4949-9dca-c3a83ee319fc
-DTSTAMP:20170211T123939
-LOCATION:360-361A
+DTEND;TZID=America/Los_Angeles:20170927T132000
+LAST-MODIFIED:20170927T175802
+UID:explore_courses69bf5da3-6394-48ea-927b-58f1436210b2
+DTSTAMP:20170927T175802
+LOCATION:STLC104
 DESCRIPTION:Animals living in the oceans experience a highly varied range of environmental stimuli.  An aquatic lifestyle requires an equally rich range of sensory adaptations, including some that are totally foreign to us.  In this course we will examine sensory system in marine animals from both an environmental and behavioral perspective and from the point of view of neuroscience and information systems engineering.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO12N ISF
-DTSTART;TZID=America/Los_Angeles:20160928T103000
-CREATED:20170211T123939
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T113000
+CREATED:20170927T175802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T152000
-LAST-MODIFIED:20170211T123938
-UID:explore_coursesa27caa4e-1249-400a-849c-a8ac5b762969
-DTSTAMP:20170211T123938
+DTEND;TZID=America/Los_Angeles:20180109T152000
+LAST-MODIFIED:20170927T175801
+UID:explore_courses130d4da8-ab2b-45da-895f-32400df329ac
+DTSTAMP:20170927T175801
 LOCATION:McMurtry Building rm 016
 DESCRIPTION:Through digital instruction, students learn to use a DSLR camera and to operate manual settings (focus, aperture, shutter speed, ISO, color temp/white balance). They become familiar with basic scanning techniques (appropriated images, not negatives) on a flatbed scanner, and basic digital printing (in color). They learn basic file management as well as the use of Adobe Lightroom software. They are taught to operate 17&iquest;-wide Epson digital printers, to print digital proof sheets, and to evaluate prints, correct files and re-print. Students acquire an essential knowledge of contemporary art photography, including standards of quality and image sequencing. They get a basic sense of aesthetics and of the critical discourse that exists around the cultural significance of images.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTSTUDI171 PRA
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T123938
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175801
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

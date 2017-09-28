@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170211T123951
-UID:explore_courses00a4fe74-7928-4a8a-aa2a-df263008c9d0
-DTSTAMP:20170211T123951
-LOCATION:200-202
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20170927T175829
+UID:explore_coursesc4c4934f-46de-496f-ab17-5529ce3347a4
+DTSTAMP:20170927T175829
+LOCATION:200-002
 DESCRIPTION:The American West is characterized by frontier mythology, vast distances, marked aridity, and unique political and economic characteristics. This course integrates several disciplinary perspectives into a comprehensive examination of Western North America: its history, physical geography, climate, literature, art, film, institutions, politics, demography, economy, and continuing policy challenges. Students examine themes fundamental to understanding the region: time, space, water, peoples, and boom and bust cycles.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY151 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170211T123947
-UID:explore_coursesc06500fe-ed4c-4e64-890c-a11158ed05d1
-DTSTAMP:20170211T123947
-LOCATION:200-303
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20170927T175822
+UID:explore_coursesad42a058-661d-4805-85b7-488166887aa1
+DTSTAMP:20170927T175822
+LOCATION:Gates B12
 DESCRIPTION:This course will examine the responsibilities and challenges for those who occupy leadership roles in professional, business, non-profit, and academic settings. Topics will include characteristics and styles of leadership, organizational dynamics, forms of influence, decision making, diversity, social change, and ethical responsibilities. Class sessions will include visitors who have occupied prominent leadership roles. Readings will include excerpts of relevant research, problems, exercises, and case studies. Requirements will include class participation and short written weekly reflection papers (2 to 3 pages) on the assigned readings. The class will be capped at 50 students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ETHICSOC111 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T143000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T143000
+CREATED:20170927T175822
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

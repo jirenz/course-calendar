@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170211T124020
-UID:explore_coursesa7c046bc-71e4-435b-8a82-f0fc225baec5
-DTSTAMP:20170211T124020
-LOCATION:540-108
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses9f1f96ec-e234-44ea-8f0e-5696d5921f4b
+DTSTAMP:20170927T180001
+LOCATION:380-380Y
 DESCRIPTION:Modern semiconductor devices and integrated circuits are based on unique energy band, carrier transport, and optical properties of semiconductor materials. How to choose these properties for operation of semiconductor devices. Emphasis is on quantum mechanical foundations of the properties of solids, energy bandgap engineering, semi-classical transport theory, semi-conductor statistics, carrier scattering, electro-magneto transport effects, high field ballistic transport, Boltzmann transport equation, quantum mechanical transitions, optical absorption, and radiative and non-radiative recombination that are the foundations of modern transistors and optoelectronic devices. Prerequisites: EE216 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE327 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

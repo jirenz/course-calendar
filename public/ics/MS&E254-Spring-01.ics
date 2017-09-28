@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T175000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursesc35d58e2-38af-4c6f-8159-abcfb6eafe40
-DTSTAMP:20170211T124021
-LOCATION:School of Education 206
+DTEND;TZID=America/Los_Angeles:20180403T175000
+LAST-MODIFIED:20170927T180002
+UID:explore_courses8b5b216b-cdf9-49ab-aead-3b47b018ea0a
+DTSTAMP:20170927T180002
+LOCATION:Green Earth Sciences150
 DESCRIPTION:The ethical responsibility for consequences of professional analysts who use technical knowledge in support of any individual, organization, or government. The means to form ethical judgments; questioning the desirability of physical coercion and deception as a means to reach any end. Human action and relations in society in the light of previous thought, and research on the desired form of social interactions. Attitudes toward ethical dilemmas through an explicit personal code.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E254 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

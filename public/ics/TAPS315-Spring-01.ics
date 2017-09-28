@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T115000
-LAST-MODIFIED:20170211T124006
-UID:explore_courses900fce59-5a3b-49f1-95e4-5b5a78f91059
-DTSTAMP:20170211T124006
-LOCATION:ROBLEG139
+DTEND;TZID=America/Los_Angeles:20180405T115000
+LAST-MODIFIED:20170927T175855
+UID:explore_courses4ecaa557-d737-4cfc-8ee5-1516d299a5e3
+DTSTAMP:20170927T175855
+LOCATION:ROBLEG137
 DESCRIPTION:In this seminar, we will take the conventional idea of dramaturgy for narrative performance as developed in Western European theater since the enlightenment, and investigate its relation to non-narrative forms of performance in 20th and 21st (performance art, conceptual dance). Further, we will use dramaturgical procedures to explore the ideological content of performance and position of art institutions in our society. Finally, the students will get acquainted with production dramaturgy and get necessary tools to take the role of dramaturgs in actual performance productions.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS315 SEM
-DTSTART;TZID=America/Los_Angeles:20170406T090000
-CREATED:20170211T124006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T090000
+CREATED:20170927T175855
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

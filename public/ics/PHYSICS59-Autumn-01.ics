@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T175000
-LAST-MODIFIED:20170211T123959
-UID:explore_courses92c696c5-c380-482d-ae5b-3f64a89e6ba4
-DTSTAMP:20170211T123959
+DTEND;TZID=America/Los_Angeles:20170928T175000
+LAST-MODIFIED:20170927T175844
+UID:explore_coursesb104134a-f7e3-447e-8af1-42ea927d78c5
+DTSTAMP:20170927T175844
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Recommended for prospective Physics or Engineering Physics majors or anyone with an interest in learning about the big questions and unknowns that physicists tackle in their research at Stanford. Weekly faculty presentations, in some cases followed by tours of experimental laboratories where the research is conducted.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS59 SEM
-DTSTART;TZID=America/Los_Angeles:20160929T163000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T163000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

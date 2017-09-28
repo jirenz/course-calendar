@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T122000
-LAST-MODIFIED:20170211T123952
-UID:explore_courses61098c6a-f1c2-462c-a4c9-226bcddca937
-DTSTAMP:20170211T123952
-LOCATION:Ceras 513
+DTEND;TZID=America/Los_Angeles:20180402T122000
+LAST-MODIFIED:20170927T175832
+UID:explore_courses893664ca-eba7-4168-924b-e99af4e5af53
+DTSTAMP:20170927T175832
+LOCATION:Encina West 202
 DESCRIPTION:This class provides economic and institutional background necessary to conduct policy analysis. We will examine the economic justification for government intervention and illustrate these concepts with applications drawn from different policy contexts. The goal of the course is to provide you with the conceptual foundations and the practical skills and experience you will need to be thoughtful consumers or producers of policy analysis. Prerequisites: ECON 102B or PUBLPOL 303D.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:IPS204B LEC
-DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20170927T175832
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

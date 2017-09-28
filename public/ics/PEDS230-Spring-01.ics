@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T125000
-LAST-MODIFIED:20170211T124048
-UID:explore_courses95de664b-ee9d-4570-b0ca-b21dda3c3a93
-DTSTAMP:20170211T124048
-LOCATION:Alway Building, Room M106
+DTEND;TZID=America/Los_Angeles:20180406T125000
+LAST-MODIFIED:20170927T175922
+UID:explore_courses3ea95c75-6786-49ca-ad48-f98d5ae3ad2c
+DTSTAMP:20170927T175922
+LOCATION:Alway Building, Room M112
 DESCRIPTION:Open to MD, graduate, and undergraduate students. Each session focuses on a current article in pediatric medicine. Discussions led by faculty experts in the area covered that session. Topics may range widely, depending on the available lieterature and students' interests. Students are expected to review the chosen article before class and participate in discussion.  Discussion includes methodology and statistical analysis of each study and its relevance to pediatric practice.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PEDS230 SEM
-DTSTART;TZID=America/Los_Angeles:20170407T120000
-CREATED:20170211T124048
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T125000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180406T120000
+CREATED:20170927T175922
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T125000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

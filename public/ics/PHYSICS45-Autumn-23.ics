@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170211T123959
-UID:explore_courses842e38d3-37b0-4580-ad01-bd558d078854
-DTSTAMP:20170211T123959
-LOCATION:
-DESCRIPTION:What is temperature? How do the elementary processes of mechanics, which are intrinsically reversible, result in phenomena that are clearly irreversible when applied to a very large number of particles, the ultimate example being life? In thermodynamics, students discover that the approach of classical mechanics is not sufficient to deal with the extremely large number of particles present in a macroscopic amount of gas. The paradigm of thermodynamics leads to a deeper understanding of real-world phenomena such as energy conversion and the performance limits of thermal engines. In optics, students see how a geometrical approach allows the design of optical systems based on reflection and refraction, while the wave nature of light leads to interference phenomena. The two approaches come together in understanding the diffraction limit of microscopes and telescopes. Discussions based on the language of mathematics, particularly calculus. Physical understanding fostered by peer interaction and demonstrations in lecture, and discussion sections based on interactive group problem solving. Prerequisite: PHYSICS 41 or equivalent. MATH 21 or MATH 42 or MATH 51 or CME 100 or equivalent.
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses77cd8d19-064c-463a-bec1-46ef3466e0e3
+DTSTAMP:20170927T175933
+LOCATION:60-108
+DESCRIPTION:What is temperature? How do the elementary processes of mechanics, which are intrinsically reversible, result in phenomena that are clearly irreversible when applied to a very large number of particles, the ultimate example being life? In thermodynamics, students discover that the approach of classical mechanics is not sufficient to deal with the extremely large number of particles present in a macroscopic amount of gas. The paradigm of thermodynamics leads to a deeper understanding of real-world phenomena such as energy conversion and the performance limits of thermal engines. In optics, students see how a geometrical approach allows the design of optical systems based on reflection and refraction, while the wave nature of light leads to interference phenomena. The two approaches come together in understanding the diffraction limit of microscopes and telescopes. Discussions based on the language of mathematics, particularly calculus. Physical understanding fostered by peer interaction and demonstrations in lecture, and discussion sections based on interactive group problem solving. Prerequisite: PHYSICS 41 or equivalent. MATH 21 or MATH 51 or CME 100 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS45 DIS
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

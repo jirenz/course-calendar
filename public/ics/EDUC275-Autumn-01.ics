@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T112000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses31636f09-2cc8-42b5-959d-b7ccf3367cd2
-DTSTAMP:20170211T123931
-LOCATION:420-050
+DTEND;TZID=America/Los_Angeles:20170928T162000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursesb83897ef-3890-4076-a7ed-41f89381f9f0
+DTSTAMP:20170927T175938
+LOCATION:School of Education 210
 DESCRIPTION:The landscape of schooling in the U.S. is dynamic and replete with ideologies, myths, and beliefs. Organizational theory, leadership theory, and empirical research are lenses through which students will develop a deeper and broader understanding of the similarities and differences among private schools, parochial schools, traditional K &iquest; 12 schools, charter schools, and alternative schools. Students will connect theory and research to practice by visiting and learning about two or more schools of their choosing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC275 LEC
-DTSTART;TZID=America/Los_Angeles:20160929T083000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T133000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

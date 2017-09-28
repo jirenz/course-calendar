@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T110000
-LAST-MODIFIED:20170211T124028
-UID:explore_coursesd03b3120-9480-473d-bd6f-1af7932bb106
-DTSTAMP:20170211T124028
-LOCATION:Law90
-DESCRIPTION:(Formerly Law 326)  In this course we cover the major aspects of patent law, primarily as applied in the United States: patentability (including patentable subject matter, novelty, nonobviousness, enablement, and definiteness); infringement; and remedies. The emphasis is on essential legal principles and a policy analysis of the patent system. The course is designed to be useful both as solid background for non-patent-specialists and for those planning a career in the field. Introduction to Intellectual Property or consent of the instructor is a prerequisite for this course. No technical background is required. Elements used in grading: Class participation, attendance, and final exam.
+DTEND;TZID=America/Los_Angeles:20180108T110000
+LAST-MODIFIED:20170927T175752
+UID:explore_coursesef647585-df0b-4a32-860f-3de66c71e2aa
+DTSTAMP:20170927T175752
+LOCATION:
+DESCRIPTION:(Formerly Law 326)  In this course we cover the major aspects of patent law, primarily as applied in the United States: patentability (including patentable subject matter, novelty, nonobviousness, enablement, and definiteness); infringement; and remedies. The emphasis is on essential legal principles and a policy analysis of the patent system. The course is designed to be useful both as solid background for non-patent-specialists and for those planning a career in the field. Introduction to Intellectual Property or consent of the instructor is a prerequisite for this course. No technical background is required.  Law students enrolled in this class will have the option of participating in a one-week extension of the course (Law 4030) in Tokyo, Japan during spring break for an additional credit.  Students may enroll for this course alone or for both this course and Law 4030.  The overseas option is limited to 12 students. (See Law 4030 for application instructions and deadline).  Elements used in grading: Class participation, attendance, and final exam.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW4010 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T110000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T110000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

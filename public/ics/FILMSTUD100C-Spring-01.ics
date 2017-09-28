@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T192000
-LAST-MODIFIED:20170211T123948
-UID:explore_coursesf9dd5552-cbf8-41d2-80ad-c1b1a3ae3080
-DTSTAMP:20170211T123948
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20170927T175823
+UID:explore_coursesd437018d-fb12-4834-8348-4cc0641e00ac
+DTSTAMP:20170927T175823
+LOCATION:McMurtry Building rm 350
+DESCRIPTION:This course will provide an overview of cinema from around the world since 1960, highlighting the cultural, political, and economic forces that have shaped various film movements over the last six decades. We will study some key film movements and national cinemas towards developing a historical appreciation of a variety of commercial and art film traditions. Through an exploration of films from Europe, Africa, Asia, and Latin America, we shall examine the industrial histories of non-Hollywood film production and exhibition practices that produce the particular cinematic cultures of each region.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD100C LEC
+DTSTART;TZID=America/Los_Angeles:20180402T150000
+CREATED:20170927T175823
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T202000
+LAST-MODIFIED:20170927T175823
+UID:explore_coursesb66fb16e-7e57-4960-8ef6-662e5a10f21b
+DTSTAMP:20170927T175823
 LOCATION:McMurtry Building rm 115
 DESCRIPTION:This course will provide an overview of cinema from around the world since 1960, highlighting the cultural, political, and economic forces that have shaped various film movements over the last six decades. We will study some key film movements and national cinemas towards developing a historical appreciation of a variety of commercial and art film traditions. Through an exploration of films from Europe, Africa, Asia, and Latin America, we shall examine the industrial histories of non-Hollywood film production and exhibition practices that produce the particular cinematic cultures of each region.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FILMSTUD100C LEC
-DTSTART;TZID=America/Los_Angeles:20170403T173000
-CREATED:20170211T123948
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T192000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170211T123948
-UID:explore_coursesa8f68049-c12e-4173-b8b2-aabba04d01d9
-DTSTAMP:20170211T123948
-LOCATION:ARTGAL7
-DESCRIPTION:This course will provide an overview of cinema from around the world since 1960, highlighting the cultural, political, and economic forces that have shaped various film movements over the last six decades. We will study some key film movements and national cinemas towards developing a historical appreciation of a variety of commercial and art film traditions. Through an exploration of films from Europe, Africa, Asia, and Latin America, we shall examine the industrial histories of non-Hollywood film production and exhibition practices that produce the particular cinematic cultures of each region.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:FILMSTUD100C LEC
-DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20170211T123948
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180403T173000
+CREATED:20170927T175823
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T202000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

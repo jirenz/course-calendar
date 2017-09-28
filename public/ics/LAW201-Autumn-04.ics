@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160912T110000
-LAST-MODIFIED:20170211T124028
-UID:explore_coursesc291b754-f944-4930-bf81-a79316ef6733
-DTSTAMP:20170211T124028
+DTEND;TZID=America/Los_Angeles:20170911T110000
+LAST-MODIFIED:20170927T175752
+UID:explore_courses6b522db0-8f2a-4564-8376-eeee12e1ec43
+DTSTAMP:20170927T175752
 LOCATION:Law95
 DESCRIPTION:This course is part of the required first-year JD curriculum.  This course is a study of the process of civil litigation from the commencement of a lawsuit through final judgment under modern statutes and rules of court, with emphasis on the federal rules of civil procedure.  May include class participation, written assignments, or other elements. Your instructor will advise you of the basis for grading.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW201 LEC
-DTSTART;TZID=America/Los_Angeles:20160912T094500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T110000;BYDAY=MO,TU,WE
+DTSTART;TZID=America/Los_Angeles:20170911T094500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T110000;BYDAY=MO,TU,WE
 END:VEVENT
 END:VCALENDAR

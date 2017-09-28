@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170211T123942
-UID:explore_courses303c2f11-ccc4-45df-8d49-8ff430a7cc8d
-DTSTAMP:20170211T123942
-LOCATION:80-113
-DESCRIPTION:(Formerly CLASSLAT 113.)  We will read selections spanning the entire Roman satirical tradition, looking at Lucilius and Persius in brief and focusing on the first books of Horace's and Juvenal's Satires. We will also devote attention to Greek precursors (in translation) and the later reception of satire. Classics majors and minors must take course for a letter grade and may repeat for credit with advance approval from the Director of Undergraduate Studies.
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20170927T175808
+UID:explore_courses30596a04-7db1-4bb7-b926-8a39416f569f
+DTSTAMP:20170927T175808
+LOCATION:460-429
+DESCRIPTION:(Formerly CLASSLAT 113.) Classics majors and minors must take course for a letter grade and may repeat for credit with advance approval from the Director of Undergraduate Studies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CLASSICS103L LNG
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T123942
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175808
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

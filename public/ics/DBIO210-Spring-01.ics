@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T105000
-LAST-MODIFIED:20170211T124036
-UID:explore_courses2aa1de18-353f-4970-adaf-6b9b8524e010
-DTSTAMP:20170211T124036
+DTEND;TZID=America/Los_Angeles:20180402T105000
+LAST-MODIFIED:20170927T175902
+UID:explore_courses845b3565-8e24-4619-95a0-c5f2af87dba1
+DTSTAMP:20170927T175902
 LOCATION:
 DESCRIPTION:Current areas of research in developmental biology. How organismic complexity is generated during embryonic and post-embryonic development. The roles of genetic networks, gene regulation ,organogenesis, tissue patterning, cell lineage, maternal inheritance, cell-cell communication, signaling, and regeneration in developmental processes in well- studied organisms such as vertebrates, insects, and nematodes. Team-taught. Students meet with faculty to discuss current papers from the literature. Prerequisite: graduate standing, consent of instructor. Recommended: familiarity with basic techniques and experimental rationales of molecular biology, biochemistry, and genetics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DBIO210 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20170211T124036
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T105000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T093000
+CREATED:20170927T175902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T105000;BYDAY=MO,WE
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T112000
-LAST-MODIFIED:20170211T124036
-UID:explore_courses106aadf2-68d3-4ac1-9453-16d9b0eba484
-DTSTAMP:20170211T124036
+DTEND;TZID=America/Los_Angeles:20180406T112000
+LAST-MODIFIED:20170927T175902
+UID:explore_coursesaa7f6425-bf01-47ec-b4ec-da68b3a379d1
+DTSTAMP:20170927T175902
 LOCATION:
 DESCRIPTION:Current areas of research in developmental biology. How organismic complexity is generated during embryonic and post-embryonic development. The roles of genetic networks, gene regulation ,organogenesis, tissue patterning, cell lineage, maternal inheritance, cell-cell communication, signaling, and regeneration in developmental processes in well- studied organisms such as vertebrates, insects, and nematodes. Team-taught. Students meet with faculty to discuss current papers from the literature. Prerequisite: graduate standing, consent of instructor. Recommended: familiarity with basic techniques and experimental rationales of molecular biology, biochemistry, and genetics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DBIO210 LEC
-DTSTART;TZID=America/Los_Angeles:20170407T093000
-CREATED:20170211T124036
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180406T093000
+CREATED:20170927T175902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

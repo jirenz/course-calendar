@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T202000
-LAST-MODIFIED:20170211T124013
-UID:explore_coursese6357e5e-460d-4492-b7bb-0bf21dda7a22
-DTSTAMP:20170211T124013
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170928T172000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses9ffbf259-6d21-43a1-ab29-537ac84ab016
+DTSTAMP:20170927T175952
+LOCATION:Roble Hall Seminar Room M129
 DESCRIPTION:Stanford's graduate students are a trove of knowledge -- and, just as important, curiosity -- about environmental sustainability.  This seminar will feature talks by graduate students that explore the biggest, most bedeviling questions about environmental sustainability locally and around the world.  The course will be structured as follows:  every other week, we will hear hour-long graduate student talks about sustainability questions and their research, and on the off weeks, we will discuss the unanswered, debatable questions that relate to the previous week's talk.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE126X SEM
-DTSTART;TZID=America/Los_Angeles:20160929T193000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T202000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T163000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

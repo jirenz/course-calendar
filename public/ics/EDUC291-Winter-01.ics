@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T132000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursesba84fc23-da34-4ea0-9e78-78499197c8b0
-DTSTAMP:20170211T123931
-LOCATION:160-124
+DTEND;TZID=America/Los_Angeles:20180108T132000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses84648cf7-5320-49f5-a3de-3d6a7739c47d
+DTSTAMP:20170927T175938
+LOCATION:Lathrop 299
 DESCRIPTION:Students and faculty present and critique new and original research relevant to the Learning Sciences and Technology Design doctoral program. Goal is to develop a community of scholars who become familiar with each other's work. Practice of the arts of presentation and scholarly dialogue while introducing seminal issues and fundamental works in the field.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC291 SEM
-DTSTART;TZID=America/Los_Angeles:20170109T123000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T123000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

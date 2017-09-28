@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20170211T123934
-UID:explore_coursesf7385fa8-bc27-436b-9296-bce09023093e
-DTSTAMP:20170211T123934
-LOCATION:360-361A
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20170927T175754
+UID:explore_coursesebe41d48-703e-4849-a629-616b01de69ae
+DTSTAMP:20170927T175754
+LOCATION:260-244
 DESCRIPTION:Continuation of AMELANG 145A. Expands students' proficiency in Persian language and culture at intermediate level through various texts and multimedia. It stresses oral fluency, written expression, and reading comprehension. Students will continue to learn the language with an emphasis on communicative and interactive classroom activities. Students will be introduced to contemporary as well as classical short poems by famous Persian poets like Rumi. Prerequisite: Placement Test, AMELANG 144A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AMELANG145B LNG
-DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20170211T123934
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T150000
+CREATED:20170927T175754
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

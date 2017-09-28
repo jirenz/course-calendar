@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T114500
-LAST-MODIFIED:20170211T124028
-UID:explore_courses61d9a890-4428-488d-a672-1d15b1b3b3cb
-DTSTAMP:20170211T124028
+DTEND;TZID=America/Los_Angeles:20170925T114500
+LAST-MODIFIED:20170927T175745
+UID:explore_courses429a3f76-cec5-4ab2-b3d1-11ab90c036a0
+DTSTAMP:20170927T175745
 LOCATION:GSB McClelland 101D
 DESCRIPTION:Startup Garage is an intensive hands-on, project-based course, in which students will apply the concepts of design thinking, engineering, finance, business and organizational skills to design and test new business concepts that address real world needs . Our aspiration is to help teams identify an unmet customer need, design new products or services that meet that need, and develop business models to support the creation and launch of startup products or services. Even those teams that do not successfully launch a venture, or individuals who decide not to move forward, will learn critical, cutting-edge techniques about starting and launching a venture. Collaborative, multi-disciplinary teams will identify and work with users, domain experts, and industry participants to identify and deeply understand customer needs, then proceed to design products or services and a business model to address those needs. Each team will conceive, design, build, and field-test critical aspects of both the product or service and the business model. This course is offered by the Graduate School of Business. It integrates methods from human-centered design, lean startup, and business model planning. The course focuses on developing entrepreneurial skills (using short lectures and in-class exercises) and then applying these skills to specific problems faced by those users identified by the teams. Teams will get out of the building and interact directly with users and advisers to develop a deep understanding of the challenges they face and to field test their proposed services, products, and business models.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STRAMGT356 WKS
-DTSTART;TZID=America/Los_Angeles:20160926T100000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T114500;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20170925T100000
+CREATED:20170927T175745
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T114500;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

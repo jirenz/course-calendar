@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T152000
-LAST-MODIFIED:20170211T123957
-UID:explore_courses75294522-189e-47af-b950-56b4ac19b1f8
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180112T152000
+LAST-MODIFIED:20170927T175840
+UID:explore_coursesa248e567-f339-44fb-b523-6c139b3e6cc9
+DTSTAMP:20170927T175840
 LOCATION:Braun111
-DESCRIPTION:This class is closed by design. To enroll, please sign up on the Axess waitlist and show up on the first day to receive a permission number for re-enrollment. Your place on the waitlist will be considered a reservation. If the waitlist is closed, there are no more spaces in the class. (A=level 1; B=level 2; C=level 3) Please visit http://music.stanford.edu/Academics/LessonSignups.html for class fee and signup information. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.
+DESCRIPTION:This class is closed by design. To enroll, please sign up on the Axess waitlist and show up on the first day to receive a permission number for re-enrollment. Your place on the waitlist will be considered a reservation. If the waitlist is closed, there are no more spaces in the class. (A=level 1; B=level 2; C=level 3) There is a fee for this class. Please visit http://music.stanford.edu/Academics/LessonSignups.html for class fee and signup information. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC12B PRA
-DTSTART;TZID=America/Los_Angeles:20170113T133000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T133000
+CREATED:20170927T175840
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

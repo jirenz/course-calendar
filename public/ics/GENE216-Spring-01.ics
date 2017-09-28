@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T115000
-LAST-MODIFIED:20170211T124037
-UID:explore_courses36e8378c-d60f-4e22-a8b6-10d0a74ec357
-DTSTAMP:20170211T124037
-LOCATION:Alway Building, Room M114
+DTEND;TZID=America/Los_Angeles:20180402T115000
+LAST-MODIFIED:20170927T175903
+UID:explore_courses174e9f48-492c-41f6-bb38-77825532f379
+DTSTAMP:20170927T175903
+LOCATION:Li Ka Shing Center, rms205/206
 DESCRIPTION:Provides an overview, fundamentals and practical considerations for different aspects of academic-industry collaborations by inviting current industrial experts to share their views and to answer questions. The different aspects include collaboration models, proposal building, IP right sharing, funding opportunities, sabbatical and internship in industry, industry job searching, etc. This class also serves as a platform to connect with Bay Area biotech and pharmaceutical executives and experts.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE216 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T100000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T100000
+CREATED:20170927T175903
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

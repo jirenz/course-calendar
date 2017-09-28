@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T152000
-LAST-MODIFIED:20170211T123938
-UID:explore_coursesd880fc4c-98c7-47fb-ba39-f7b76b57df75
-DTSTAMP:20170211T123938
+DTEND;TZID=America/Los_Angeles:20180403T152000
+LAST-MODIFIED:20170927T175801
+UID:explore_courses3d5aa083-11ae-4bc2-b14a-23e54dcba9b8
+DTSTAMP:20170927T175801
 LOCATION:McMurtry Building rm 007
 DESCRIPTION:Through film and dark room instruction, students learn to use a SLR 35-mm camera and to operate manual settings (focus, aperture, shutter speed). They develop an awareness of light and its various properties and possibilities. Students become familiar with black and white darkroom techniques creating contact sheets and to evaluating prints, make corrections and re-print.  They acquire essential knowledge of historical and contemporary black and white art photography, including standards of quality and image sequencing. They get a basic sense of aesthetics and of the critical discourse that exists around the cultural significance of images.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTSTUDI170 PRC
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123938
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175801
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

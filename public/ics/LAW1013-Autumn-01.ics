@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T160500
-LAST-MODIFIED:20170211T124028
-UID:explore_courses4f265dd9-ed7d-4921-8714-de7329b53a75
-DTSTAMP:20170211T124028
+DTEND;TZID=America/Los_Angeles:20170925T123000
+LAST-MODIFIED:20170927T175752
+UID:explore_coursesa9dbaaf9-37dd-4ad9-861b-e6a684b7105f
+DTSTAMP:20170927T175752
 LOCATION:Law190
-DESCRIPTION:(Formerly Law 242)  This course is an introduction to the basic legal rules and principles governing the relations between managers, investors, and creditors in the business enterprise. The course is the foundation for advanced business courses. We focus on problems that arise because a firm's managers and owners have conflicting interests. We examine the costs associated with this conflict and how markets, legal rules and contracts might reduce them.  Elements used in grading:  Attendance, Class Participation, Exam.
+DESCRIPTION:(Formerly Law 242)  This course is an introduction to the basic legal rules and principles governing corporations and is the foundation for advanced business courses.  We focus on the conflicts that arise between managers, investors, and creditors.  We also examine how law, markets, and contracts can reduce these conflicts and thereby improve firm value.  Elements used in grading: Class participation, attendance, written assignments, midterm, final exam.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW1013 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T140500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T160500;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T111000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T123000;BYDAY=MO,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T153500
+LAST-MODIFIED:20170927T175752
+UID:explore_courses930e81fb-78ae-4ef6-8ed9-66532db47c7a
+DTSTAMP:20170927T175752
+LOCATION:Law190
+DESCRIPTION:(Formerly Law 242)  This course is an introduction to the basic legal rules and principles governing corporations and is the foundation for advanced business courses.  We focus on the conflicts that arise between managers, investors, and creditors.  We also examine how law, markets, and contracts can reduce these conflicts and thereby improve firm value.  Elements used in grading: Class participation, attendance, written assignments, midterm, final exam.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW1013 LEC
+DTSTART;TZID=America/Los_Angeles:20170926T141500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T153500;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

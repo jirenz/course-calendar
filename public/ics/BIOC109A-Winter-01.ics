@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T175000
-LAST-MODIFIED:20170211T124033
-UID:explore_courses236b9a91-af3b-4668-aaa1-92196ef522c0
-DTSTAMP:20170211T124033
-LOCATION:Li Ka Shing Center, rms304/305
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses2c3cfc10-bd01-492b-96d7-92b4bb9c1f5f
+DTSTAMP:20170927T175933
+LOCATION:Alway Building, Room M112
 DESCRIPTION:The variability of the human genome and the role of genomic information in research, drug discovery, and human health. Concepts and interpretations of genomic markers in medical research and real life applications. Human genomes in diverse populations. Original contributions from thought leaders in academia and industry and interaction between students and guest lecturers. Students with a major, minor or coterm in Biology: 109A/209A or 109B/209B may count toward degree program but not both.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOC109A LEC
-DTSTART;TZID=America/Los_Angeles:20170109T163000
-CREATED:20170211T124033
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

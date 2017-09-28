@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T125000
-LAST-MODIFIED:20170211T124038
-UID:explore_courses10f3d888-5da5-4e8c-bb05-05070ce05a1e
-DTSTAMP:20170211T124038
-LOCATION:Li Ka Shing Center, room 101
+DTEND;TZID=America/Los_Angeles:20180108T125000
+LAST-MODIFIED:20170927T175904
+UID:explore_courses4c4dea35-0e8b-43ec-b29c-16d50e1071cd
+DTSTAMP:20170927T175904
+LOCATION:Alway Building, Room M112
 DESCRIPTION:Methods for analyzing data from case-control and cross-sectional studies: the 2x2 table, chi-square test, Fisher's exact test, odds ratios, Mantel-Haenzel methods, stratification, tests for matched data, logistic regression, conditional logistic regression. Emphasis is on data analysis in SAS. Special topics: cross-fold validation and bootstrap inference.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP261 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20170211T124038
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T125000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T113000
+CREATED:20170927T175904
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T125000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

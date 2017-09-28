@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20170211T124011
-UID:explore_courses7ec4562d-f11b-4d96-b540-f0e259f5a234
-DTSTAMP:20170211T124011
-LOCATION:Braunlec
-DESCRIPTION:Complex biological behaviors through the integration of computational modeling and molecular biology. Topics: reconstructing biological networks from high-throughput data and knowledge bases. Network properties. Computational modeling of network behaviors at the small and large scale. Using model predictions to guide an experimental program. Robustness, noise, and cellular variation. Prerequisites: CME 102; BIO 41, BIO 42; or consent of instructor.
+DTEND;TZID=America/Los_Angeles:20170925T112000
+LAST-MODIFIED:20170927T175948
+UID:explore_courses2e25f3ac-c585-4623-9bdc-ae49bad969d8
+DTSTAMP:20170927T175948
+LOCATION:STLC111
+DESCRIPTION:Complex biological behaviors through the integration of computational modeling and molecular biology. Topics: reconstructing biological networks from high-throughput data and knowledge bases. Network properties. Computational modeling of network behaviors at the small and large scale. Using model predictions to guide an experimental program. Robustness, noise, and cellular variation. Prerequisites: CME 102; BIO 82, BIO 84; or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE101 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

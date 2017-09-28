@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T102000
-LAST-MODIFIED:20170211T123940
-UID:explore_coursesa8b3f4d3-9b61-4e38-a92a-3780cf59cdde
-DTSTAMP:20170211T123940
+DTEND;TZID=America/Los_Angeles:20180112T102000
+LAST-MODIFIED:20170927T175805
+UID:explore_courses4822fe5d-ae8c-4560-83b0-fcd0e8cf3394
+DTSTAMP:20170927T175805
 LOCATION:
-DESCRIPTION:Organic chemistry, functional groups, hydrocarbons, stereochemistry, thermochemistry, kinetics, chemical equilibria. Recitation. Prerequisite: 31A,B, or 31X, or an AP Chemistry score of 5.
+DESCRIPTION:Introduction to organic chemistry. Learn to relate three dimensional structure of organic molecules to their chemical and physical properties. Introduced to a variety of functional groups that exhibit patterns of reactivity and learn how to predict products of a reaction in the context of thermodynamics and kinetics. Two hour weekly lab section accompanies the course to introduce the techniques of separation and identification of organic compounds. Prerequisite: 31A,B, or 31X, or AP Chemistry score of 5.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM33 DIS
-DTSTART;TZID=America/Los_Angeles:20170113T083000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T083000
+CREATED:20170927T175805
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170211T123939
-UID:explore_coursese940b106-3d9c-490a-ba51-056a2adecfe7
-DTSTAMP:20170211T123939
-LOCATION:ScienceTeachingLearningCntr111
-DESCRIPTION:Human physiology will be examined by organ systems: cardiovascular, respiratory, renal, gastrointestinal and endocrine. Molecular and cell biology and signaling principles that underlie organ development, pathophysiology and opportunities for regenerative medicine are discussed, as well as integrative control mechanisms and fetal development.  Prerequisite: Biology or Human Biology core.
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175802
+UID:explore_courses177d9f4b-2be0-4313-8933-5a93f1c6c11a
+DTSTAMP:20170927T175802
+LOCATION:380-380C
+DESCRIPTION:Human physiology will be examined by organ systems: cardiovascular, respiratory, renal, gastrointestinal and endocrine. Molecular and cell biology and signaling principles that underlie organ development, pathophysiology and opportunities for regenerative medicine are discussed, as well as integrative control mechanisms and fetal development. Prerequisite: Human Biology core, Biology core, or equivalent, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO112 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170211T123939
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

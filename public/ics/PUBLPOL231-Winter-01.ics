@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T094000
-LAST-MODIFIED:20170211T124002
-UID:explore_courses0964c7e8-62b1-4dfb-afc4-a958109fe00a
-DTSTAMP:20170211T124002
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180109T094000
+LAST-MODIFIED:20170927T175848
+UID:explore_courses82e4cba4-4df7-4dc2-96cb-5ea11f34eeeb
+DTSTAMP:20170927T175848
+LOCATION:200-205
 DESCRIPTION:(SAME AS LAW 3001, MGTECON 331) This course provides the legal, institutional, and economic background necessary to understand the financing and production of health services in the U.S. We will discuss the Affordable Care Act , health insurance (Medicare and Medicaid, employer-sponsored insurance, the uninsured), the approval process and IP protection for pharmaceuticals, and antitrust policy. We may discuss obesity and wellness, regulation of fraud and abuse, and medical malpractice. The syllabus for this course can be found at https://syllabus.stanford.edu. Elements used in grading: Participation, attendance, class presentation, and final exam.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PUBLPOL231 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T081000
-CREATED:20170211T124002
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T094000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T081000
+CREATED:20170927T175848
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T094000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

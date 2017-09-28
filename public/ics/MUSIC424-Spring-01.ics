@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursesaf29401a-c960-4d7d-8e93-1847b9a4d499
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses32bcbec8-e1c3-400f-a89c-efd499b70102
+DTSTAMP:20170927T175841
 LOCATION:Knoll217
 DESCRIPTION:Techniques for dynamic range compression, reverberation, equalization and filtering, panning and spatialization, digital emulation of analog processors, and implementation of time-varying effects. Single-band and multiband compressors, limiters, noise gates, de-essers, convolutional reverberators, parametric and linear-phase equalizers, wah-wah and envelope-following filters, and the Leslie. Students develop effects algorithms of their own design in labs. Prerequisites: digital signal processing, sampling theorem, digital filtering, and the Fourier transform at the level of 320 or EE 261; Matlab and modest C programming experience. Recommended: 420 or EE 264; audio effects in mixing and mastering at the level of 192.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC424 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

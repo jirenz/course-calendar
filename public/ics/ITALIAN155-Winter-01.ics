@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170211T123953
-UID:explore_coursesc7e7bad6-2f3c-4b60-add5-35948f2c28eb
-DTSTAMP:20170211T123953
-LOCATION:380-380F
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20170927T175833
+UID:explore_coursesc658921c-09ba-4aff-ab73-02a3f532f75c
+DTSTAMP:20170927T175833
+LOCATION:200-107
 DESCRIPTION:The mafia has become a global problem through its infiltration of international business, and its model of organized crime has spread all over the world from its origins in Sicily. At the same time, film and fiction remain fascinated by a romantic, heroic vision of the mafia.  Compares both Italian and American fantasies of the Mafia to its history and impact on Italian and global culture. Taught in English.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ITALIAN155 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T123953
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180108T153000
+CREATED:20170927T175833
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

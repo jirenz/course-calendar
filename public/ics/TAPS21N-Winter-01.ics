@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170211T124006
-UID:explore_courses5087ffcb-f8f1-4272-8a36-a81cf98a0f51
-DTSTAMP:20170211T124006
-LOCATION:Memaud125
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175855
+UID:explore_courses0161bbcf-565d-4f87-b522-ec3011276a81
+DTSTAMP:20170927T175855
+LOCATION:ROBLEG137
 DESCRIPTION:What is virtual reality and where is it heading?  Was there VR before digital technology?  What is the value of the real in a virtual culture?  How, where, and when do we draw the line between the virtual and the real, the live and the mediated today?  Concentrating on three aspects of VR simulation, immersion, and interactivity this course will examine recent experiments alongside a long history of virtual performance, from Plato's Cave to contemporary CAVEs, from baroque theatre design to Oculus Rift.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS21N ISF
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170211T124006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175855
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

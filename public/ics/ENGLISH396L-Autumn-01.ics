@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T122000
-LAST-MODIFIED:20170211T123947
-UID:explore_coursesfb7bba75-56e1-4f95-a95a-4ecf4aa8c989
-DTSTAMP:20170211T123947
-LOCATION:460-334
-DESCRIPTION:Required for first-year Ph.D students in English, Modern Thought and Literature, and Comparative Literature. Preparation for surviving as teaching assistants in undergraduate literature courses. Focus is on leading discussions and grading papers.
+DTEND;TZID=America/Los_Angeles:20170929T122000
+LAST-MODIFIED:20170927T175821
+UID:explore_coursesd5ab012c-ca31-4072-8762-879bf3b7c6da
+DTSTAMP:20170927T175821
+LOCATION:240-110
+DESCRIPTION:Required for first-year Ph.D students in English. Prerequisite for teaching required for Ph.D. students in English, Modern Thought and Literature and Comparative Literature. Preparation for surviving as teaching assistants in undergraduate literature courses. Focus is on leading discussions and grading papers.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGLISH396L PRC
-DTSTART;TZID=America/Los_Angeles:20160930T103000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170929T103000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

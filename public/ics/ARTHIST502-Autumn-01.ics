@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T162000
-LAST-MODIFIED:20170211T123937
-UID:explore_courses74f84bd5-4e84-41ad-8035-a5218d376183
-DTSTAMP:20170211T123937
-LOCATION:McMurtry Building rm 370
-DESCRIPTION:This seminar explores why and how art historians use description. Focusing on famous instances such as Homer's description of the shield of Achilles in The Iliad the course examines how certain art historians practice and theorize this most fundamental skill. Not limiting itself to art history proper, the course also considers how novelists and poets use description, and how fiction-writing and poetry might be vital models for the art historian.  Above all, we look with emulation and envy at novelists and poets powers of imagistic writing. The course is a workshop devoted to particular techniques and problems of descriptive writing, with the hope that all the examples we study (from poetry to fiction to art history itself) can intensify students own powers of description.
+DTEND;TZID=America/Los_Angeles:20170926T162000
+LAST-MODIFIED:20170927T175800
+UID:explore_courses9b2c51b0-29d6-48ed-87c9-ff290ff70dd1
+DTSTAMP:20170927T175800
+LOCATION:ARTGAL7
+DESCRIPTION:What does it mean to be an object?  Recent scholarship on the so-called material turn, including object-oriented-ontology, thing theory, and speculative realism likes to think it knows the answer. Yet as Frantz Fanon reminds us, objecthood is far more fraught and even violent than the simple imputation of agency.  This seminar explores the idea of objecthood in art history, critical theory, and literature.  Each week we will consider a different type of object, including paintings, photographs, furniture, props, and fetishes.  How might art and material culture help us understand the processes and histories of objectification, and conversely, how might the study of objecthood open new paths of art historical inquiry that account for rather than reproduce difference?  What are our ethical obligations to objects, and especially to our objects of study?
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTHIST502 SEM
-DTSTART;TZID=America/Los_Angeles:20160929T133000
-CREATED:20170211T123937
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175800
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T112000
-LAST-MODIFIED:20170211T124038
-UID:explore_coursesdb731966-2a31-4bc1-8d72-1b95c393cdf7
-DTSTAMP:20170211T124038
+DTEND;TZID=America/Los_Angeles:20170927T112000
+LAST-MODIFIED:20170927T175904
+UID:explore_courses11da0fef-9eb0-44b3-acd1-ea08b78b34ad
+DTSTAMP:20170927T175904
 LOCATION:Health Research & PolicyT138B
-DESCRIPTION:First quarter of three-quarter series. Goal is a practical and culturally appropriate command of spoken Spanish. Emphasis is on taking the medical history. Topics include the human body, hospital procedures, diagnostics, food, and essential doctor-patient phrases when dealing with Spanish-speaking patients. Series can be taken independently, depending on the level of prior knowledge. Offered to undergraduates for 3 units(2 units for medical students).
+DESCRIPTION:First quarter of three-quarter series. Goal is a practical and culturally appropriate command of spoken Spanish. Emphasis is on taking the medical history. Topics include anatomy, general hospital procedures, pediatrics, nutrition, and essential doctor-patient phrases when dealing with Spanish-speaking patients. Series can be taken independently, depending on the level of prior knowledge. Undergraduates are welcome to enroll.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP280 LNG
-DTSTART;TZID=America/Los_Angeles:20160928T093000
-CREATED:20170211T124038
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T093000
+CREATED:20170927T175904
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

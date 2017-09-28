@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170211T124024
-UID:explore_coursesbcae1075-d14e-4991-bd87-9dee3753bb78
-DTSTAMP:20170211T124024
-LOCATION:ArrilagaOutdoorEducRecCtrUpStu
-DESCRIPTION:This course is a mix of Barre exercises, Pilates exercises, Yoga poses and stretching specifically designed to increase strength and muscle tone in the entire  body and overall flexibility.  We focus on proper alignment and improving posture.  The exercises are intense and effective yet extremely accessible. This course will also utilize class instruction, assignments and student participation to enable students to: (1) Acquire knowledge of the basic components of health and wellness. (2) Develop physical fitness and motor skills, and (3) Develop a positive attitude toward wellness and physical activity which will facilitate a healthy lifestyle.
+DTEND;TZID=America/Los_Angeles:20170925T132000
+LAST-MODIFIED:20170927T175934
+UID:explore_coursesca2ada9c-0fa5-4e7e-8ca5-7058a208c66d
+DTSTAMP:20170927T175934
+LOCATION:ArrilagaOutdoorEducRecCtrBsktb
+DESCRIPTION:This course is designed to teach the basic skills necessary to play the game of badminton.  Fitness and training principles will be discussed as well as singles and doubles strategy. This course will utilize class discussions, class assignments and student participation to enable students to: (1) Understand basic components of skill-related and health-related physical fitness (2) Develop physical fitness and motor skills, and (3) Develop a positive attitude toward wellness and physical activity which will facilitate a healthy lifestyle.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PE20 ACT
-DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170211T124024
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T123000
+CREATED:20170927T175934
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

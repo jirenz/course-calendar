@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T162000
-LAST-MODIFIED:20170211T123937
-UID:explore_courses15388218-809c-4c17-b18b-67c4769e712f
-DTSTAMP:20170211T123937
-LOCATION:Cantor Arts Center
+DTEND;TZID=America/Los_Angeles:20170927T132000
+LAST-MODIFIED:20170927T175800
+UID:explore_courses4768ff67-acb7-4b3d-8d26-f9ca387b2d0d
+DTSTAMP:20170927T175800
+LOCATION:
 DESCRIPTION:This course surveys the history of Western painting from the start of the 14th century to the late 20th century and our own moment.  Lectures introduce important artists (Giotto, Rembrandt, Velazquez, Goya, Manet, Matisse, Pollock, and others), and major themes associated with the art of particular periods and cultures.  The course emphasizes training students to look closely at - and to write about - works of art.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTHIST1B DIS
-DTSTART;TZID=America/Los_Angeles:20160928T153000
-CREATED:20170211T123937
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T123000
+CREATED:20170927T175800
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

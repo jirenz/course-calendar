@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T175000
-LAST-MODIFIED:20170211T124020
-UID:explore_coursesff7700bd-440a-41d3-b959-2736e8d6d8fd
-DTSTAMP:20170211T124020
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170926T175000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursesc90c9729-6277-4069-942a-e50b0a89eb9d
+DTSTAMP:20170927T180001
+LOCATION:Herrin T185
 DESCRIPTION:This project course focuses on developing processes for ExFab, a shared facility that supports flexible lithography, heterogeneous integration, and rapid micro prototyping. Team projects are approved by the instructor and are mentored by an ExFab staff member.  Students will plan and execute experiments and document them in a final presentation and report, to be made available on the lab&iquest;s Wiki for the benefit of the Stanford research community.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR241 LAB
-DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T150000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

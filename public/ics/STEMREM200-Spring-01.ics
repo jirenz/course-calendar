@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T170000
-LAST-MODIFIED:20170211T124051
-UID:explore_coursesc29fbf3c-c0eb-4dfb-a65f-415f9b718d27
-DTSTAMP:20170211T124051
+DTEND;TZID=America/Los_Angeles:20180402T170000
+LAST-MODIFIED:20170927T175927
+UID:explore_coursese6a9422c-b715-49a1-bed4-8b3bfe534dbf
+DTSTAMP:20170927T175927
 LOCATION:
 DESCRIPTION:Open to first year Stem Cell Biology and Regenerative Medicine graduate students or consent of Instructor. Hands-on, five-day immersion to learn basic methods of tissue culture, mouse embryo fibroblast (MEF) preparation, embryonic stem and induced pluripotent stem (ES/iPS) cell culture, differentiation, DNA isolation, polymerase chain reaction (PCR), sequencing, and basic microscopy.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STEMREM200 LAB
-DTSTART;TZID=America/Los_Angeles:20170403T090000
-CREATED:20170211T124051
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T170000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20180402T090000
+CREATED:20170927T175927
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T170000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

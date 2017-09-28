@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T192000
-LAST-MODIFIED:20170211T123940
-UID:explore_coursesfe58ad27-256a-4881-83a6-3c59413ab489
-DTSTAMP:20170211T123940
+DTEND;TZID=America/Los_Angeles:20170926T192000
+LAST-MODIFIED:20170927T175803
+UID:explore_courses762adb16-72fd-451c-887b-e912cc90c50c
+DTSTAMP:20170927T175803
 LOCATION:
-DESCRIPTION:Required of Biophysics graduate students. Presentation of current research projects and results by faculty in the Biophysics program. May be repeated for credit.
+DESCRIPTION:Required of Biophysics graduate students. Presentation of current research projects and results by faculty in the Biophysics program. May be repeated for credit. BIOPHYS 250 is a seminar course intended only for first year Biophysics and Structural Biology graduate students, to help them decide on which faculty labs they want to settle in.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOPHYS250 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T173000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T173000
+CREATED:20170927T175803
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170211T123951
-UID:explore_coursesf9fdf35f-66b4-4c9e-8cf8-76b2da1a8a40
-DTSTAMP:20170211T123951
-LOCATION:200-105
-DESCRIPTION:Preference to freshmen.  We will examine the struggles of African American women to define their own lives and improve the social, economic, political and cultural conditions of black communities. Topics will include women&iquest;s enslavement and freedom, kinship and family relations, institution and community building, violence, labor and leisure, changing gender roles, consumer and beauty culture, social activism, and the politics of sexuality.
+DTEND;TZID=America/Los_Angeles:20180109T132000
+LAST-MODIFIED:20170927T175933
+UID:explore_coursesb80905a5-897c-4ef7-8af4-fa164f20a8a1
+DTSTAMP:20170927T175933
+LOCATION:320-107
+DESCRIPTION:This course encourages students to think critically about historical sources and to use creative and rigorous historical methods to recover African American women&iquest;s experiences, which often have been placed on the periphery of American history and American life.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY54N ISF
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T120000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

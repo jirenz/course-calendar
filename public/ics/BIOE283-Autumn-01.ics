@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20170211T124011
-UID:explore_coursesb8985b9d-3da9-4a04-b492-dacdee27d73d
-DTSTAMP:20170211T124011
-LOCATION:Hewlett Teaching Center 103
+DTEND;TZID=America/Los_Angeles:20170925T162000
+LAST-MODIFIED:20170927T175948
+UID:explore_coursese00c79d6-76cf-4a22-b655-b8a02e962336
+DTSTAMP:20170927T175948
+LOCATION:160-314
 DESCRIPTION:Mechanical cues play a critical role in development, normal functioning of cells and tissues, and various diseases. This course will cover what is known about cellular mechanotransduction, or the processes by which living cells sense and respond to physical cues such as physiological forces or mechanical properties of the tissue microenvironment. Experimental techniques and current areas of active investigation will be highlighted.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE283 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170925T150000
+CREATED:20170927T175948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

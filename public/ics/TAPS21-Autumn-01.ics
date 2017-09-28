@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T212000
-LAST-MODIFIED:20170211T124006
-UID:explore_courses741dfca9-b067-48fd-9095-47dd18d7bc3f
-DTSTAMP:20170211T124006
-LOCATION:ROBLEG136
+DTEND;TZID=America/Los_Angeles:20170927T212000
+LAST-MODIFIED:20170927T175855
+UID:explore_courses352a59c8-2986-4bab-be5e-eacb7588f4e3
+DTSTAMP:20170927T175855
+LOCATION:ROBLEG137
 DESCRIPTION:StoryCraft is a hands-on, experiential workshop offering participants the opportunity, structure and guidance to craft compelling personal stories to be shared in front of a live audience. The class will focus on several areas of storytelling: Mining (how do you find your stories and extract the richest details?); Crafting (how do you structure the content and shape the language?); and Performing (how do you share your stories with presence, authenticity and connection?).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS21 PRA
-DTSTART;TZID=America/Los_Angeles:20160926T193000
-CREATED:20170211T124006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T212000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170927T193000
+CREATED:20170927T175855
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T212000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

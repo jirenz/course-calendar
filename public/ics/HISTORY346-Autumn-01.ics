@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T175000
-LAST-MODIFIED:20170211T123951
-UID:explore_courses4c8f9061-594c-4e9a-bbab-e766b24d5a23
-DTSTAMP:20170211T123951
+DTEND;TZID=America/Los_Angeles:20170927T192000
+LAST-MODIFIED:20170927T175829
+UID:explore_courses511138f1-3618-4f07-a91b-ce9a348fe3ec
+DTSTAMP:20170927T175829
 LOCATION:200-013
 DESCRIPTION:Crossdisciplinary colloquium; required for the M.A. degree in African Studies. Open to advanced undergraduates and PhD students. Addresses critical issues including patterns of economic collapse and recovery; political change and democratization; and political violence, civil war, and genocide.  Focus on cross-cutting issues including the impact of colonialism; the role of religion, ethnicity, and inequality; and Africa's engagement with globalization.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY346 COL
-DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170927T163000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

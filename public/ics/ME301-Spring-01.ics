@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T122000
-LAST-MODIFIED:20170211T124023
-UID:explore_coursesac992065-8e63-4d2a-b251-38df095a9131
-DTSTAMP:20170211T124023
+DTEND;TZID=America/Los_Angeles:20180402T122000
+LAST-MODIFIED:20170927T180006
+UID:explore_courses82160a35-a8ff-4669-aa0f-437714148044
+DTSTAMP:20170927T180006
 LOCATION:
 DESCRIPTION:This is an intense course in product design and development offered to graduate students only (no exceptions). In just ten weeks, we will apply principles of design thinking to the real-life challenge of imagining, prototyping, testing and iterating, building, pricing, marketing, distributing and selling your product or service. You will work hard on both sides of your brain. You will experience the joy of success and the (passing) pain of failure along the way. This course is an excellent chance to practice design thinking in a demanding, fast-paced, results-oriented group with support from faculty and industry leaders. This course may change your life. We will treat each team and idea as a real start-up, so the work will be intense. If you do not have a passionate and overwhelming urge to start a business or launch a product or service, this class will not be a fit. Teams must visit office hours in winter quarter (Tuesdays 2:30p-4:00p) in order to be considered for the course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME301 WKS
-DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20170211T124023
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20170927T180006
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

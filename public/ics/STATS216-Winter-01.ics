@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20170211T124005
-UID:explore_courses71713940-1a34-44d6-ae8c-90e4fcd136cf
-DTSTAMP:20170211T124005
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20170927T175853
+UID:explore_coursesef3a729c-aa88-46d0-9f1f-cd39e2d318a9
+DTSTAMP:20170927T175853
 LOCATION:Gates B1
-DESCRIPTION:Overview of supervised learning, with a focus on regression and classification methods. Syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis;cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines; Some unsupervised learning: principal components and clustering (k-means and hierarchical). Computing is done in R, through tutorial sessions and homework assignments. This math-light course is offered via video segments (MOOC style), and in-class problem solving sessions. Prereqs: Introductory courses in statistics or probability (e.g., Stats 60), linear algebra (e.g., Math 51), and computer programming (e.g., CS 105).
+DESCRIPTION:Overview of supervised learning, with a focus on regression and classification methods. Syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis;cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines; Some unsupervised learning: principal components and clustering (k-means and hierarchical). Computing is done in R, through tutorial sessions and homework assignments. This math-light course is offered via video segments (MOOC style), and in-class problem solving sessions. Prereqs: Introductory courses in statistics or probability (e.g., Stats 60 or Stats 101), linear algebra (e.g., Math 51), and computer programming (e.g., CS 105).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS216 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20170211T124005
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T150000
+CREATED:20170927T175853
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

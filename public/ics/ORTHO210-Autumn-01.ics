@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T190500
-LAST-MODIFIED:20170211T124045
-UID:explore_courses070f0d86-067c-4942-8573-f4a98b14c3be
-DTSTAMP:20170211T124045
+DTEND;TZID=America/Los_Angeles:20170927T190500
+LAST-MODIFIED:20170927T175917
+UID:explore_coursesb1a59403-f293-4d70-8d4d-4a1e00dacad4
+DTSTAMP:20170927T175917
 LOCATION:
 DESCRIPTION:Designed for students considering a career in sports medicine, orthopaedics, physical medicine and rehabilitation, emergency medicine, internal medicine, family practice, or physical therapy. Focus is on diagnosis and treatment of the most common injuries encountered in sports medicine, from head to toe and from acute trauma to chronic overuse. Students gain competence performing an efficient sports medicine exam, developing a differential diagnosis, and a treatment plan on how to safely return athletes back to their sport. Focused physical exam skills are taught for the neck, shoulder, elbow, wrist and hand, low back, hip, knee, leg, ankle and foot. Most sessions consist of anatomy review, case discussion, and hands-on exam practice in small groups. A few sessions cover specific hot topics in sports medicine such as concussion, athletic heart syndrome, and advanced performance techniques. Students enrolling for two units prepare an in-class presentation or short review paper.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ORTHO210 PRA
-DTSTART;TZID=America/Los_Angeles:20160928T170500
-CREATED:20170211T124045
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T190500;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T170500
+CREATED:20170927T175917
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T190500;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

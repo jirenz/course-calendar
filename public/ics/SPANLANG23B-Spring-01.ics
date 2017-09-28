@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T132000
-LAST-MODIFIED:20170211T124004
-UID:explore_courses5b57e239-e84e-4bbe-81d7-e70909d1c580
-DTSTAMP:20170211T124004
-LOCATION:260-011
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesd8fa61f8-97f0-4c00-8822-d07d463506d0
+DTSTAMP:20170927T175851
+LOCATION:160-314
 DESCRIPTION:Continuation of SPANLANG 22B. Emphasis is on ability to communicate orally and in writing. Spelling and the written accent. Goal is to understand, interpret, and analyze texts, movies, radio, and television. Written language skills include rules for editing written language. Third quarter Focus is on the development of written and oral styles and registers used in more formal settings. Prerequisite: Placement Test or SPANLANG 22B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPANLANG23B LNG
-DTSTART;TZID=America/Los_Angeles:20170404T113000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T113000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

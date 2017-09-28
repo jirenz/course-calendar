@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T132000
-LAST-MODIFIED:20170211T124013
-UID:explore_coursesab91515e-b3cf-4d78-b93a-860c53a09e0a
-DTSTAMP:20170211T124013
-LOCATION:Y2E2 292A
+DTEND;TZID=America/Los_Angeles:20170927T132000
+LAST-MODIFIED:20170927T175953
+UID:explore_courses26b03167-358e-4615-baea-077dd5db72ea
+DTSTAMP:20170927T175953
+LOCATION:Thornt110
 DESCRIPTION:Presentation and discussion of early stage or more mature research on a variety of topics related to financing, governance and sustainability of civil infrastructure projects by researchers associated with the Global Projects Center and visiting speakers. To obtain one unit of credit, students must attend and participate in all seminars, with up to two excused absences.  Seminar meets weekly during Autumn, Winter and Spring Quarters.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE323A RES
-DTSTART;TZID=America/Los_Angeles:20160928T123000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T123000
+CREATED:20170927T175953
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

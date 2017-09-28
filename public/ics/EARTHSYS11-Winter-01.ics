@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20170211T124030
-UID:explore_courses2ed4fc60-b0c9-48e8-a20a-bbcf87df2cc9
-DTSTAMP:20170211T124030
-LOCATION:320-220
-DESCRIPTION:Lectures, hands-on laboratories, in-class activities, and one field trip. Focus is on the physical and chemical processes of heat and mass transfer within the earth and its fluid envelopes, including deep-earth, crustal, surface, and atmospheric processes. Topics include plate tectonics, the cycling and formation of different types of rocks, and how geologists use rocks to understand Earth's history.
+DTEND;TZID=America/Los_Angeles:20180108T152000
+LAST-MODIFIED:20170927T175940
+UID:explore_courses2226444c-5d75-4dca-9419-051c59098170
+DTSTAMP:20170927T175940
+LOCATION:320-105
+DESCRIPTION:Why are earthquakes, volcanoes, and natural resources located at specific spots on the Earth surface? Why are there rolling hills to the west behind Stanford, and soaring granite walls to the east in Yosemite? What was the Earth like in the past, and what will it be like in the future? Lectures, hands-on laboratories, in-class activities, and one field trip will help you see the Earth through the eyes of a geologist. Topics include plate tectonics, the cycling and formation of different types of rocks, and how geologists use rocks to understand Earth's history.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS11 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T143000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T143000
+CREATED:20170927T175940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

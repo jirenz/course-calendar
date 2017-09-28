@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T130000
-LAST-MODIFIED:20170211T124025
-UID:explore_coursesd92a6ecc-ca75-4c90-b146-dd405e3a606c
-DTSTAMP:20170211T124025
+DTEND;TZID=America/Los_Angeles:20170926T130000
+LAST-MODIFIED:20170927T175741
+UID:explore_coursesd986ac06-73b2-4d79-88c0-a0f37c597c94
+DTSTAMP:20170927T175741
 LOCATION:GSB Faculty West 332
 DESCRIPTION:This course meets weekly on Tuesdays at Noon. The primary purpose of the course is to read and discuss current working papers in Industrial Organization and related fields (e.g., Econometrics, Marketing, and Labor). Students are required to present papers once per quarter and both students and faculty may also present their own working papers.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MGTECON628 WKS
-DTSTART;TZID=America/Los_Angeles:20160927T120000
-CREATED:20170211T124025
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T130000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T120000
+CREATED:20170927T175741
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T130000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

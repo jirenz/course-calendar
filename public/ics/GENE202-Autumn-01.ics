@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161004T112000
-LAST-MODIFIED:20170211T124037
-UID:explore_courses64347ea6-a2a5-43fd-b01d-3f8491fcb770
-DTSTAMP:20170211T124037
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20171003T112000
+LAST-MODIFIED:20170927T175903
+UID:explore_coursesc28c9d6f-912c-4b19-aa0c-b85ed5ea16e5
+DTSTAMP:20170927T175903
+LOCATION:Li Ka Shing Center, room 130
 DESCRIPTION:Utilizes lectures and small group activities to develop a working knowlege of human genetics as applicable to clinical medicine. Basic principles of inheritance, risk assessment, and population genetics are illustrated using examples drawn from diverse areas of medical genetics practice including prenatal, pediatric, adult and cancer genetics. Practical aspects of molecular and cytogenetic diagnostic methods are emphasized. Existing and emerging treatment strategies for single gene disorders are also covered. Prerequisites: basic genetics. Only available to MD and MOM students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE202 LEC
-DTSTART;TZID=America/Los_Angeles:20161004T093000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20171003T093000
+CREATED:20170927T175903
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

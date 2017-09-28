@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170627T192000
-LAST-MODIFIED:20170211T124013
-UID:explore_coursesd0a07619-7f2d-484f-bf3b-2cb2051a5eaa
-DTSTAMP:20170211T124013
+DTEND;TZID=America/Los_Angeles:20180626T192000
+LAST-MODIFIED:20170927T175952
+UID:explore_coursese2287d3c-268c-4335-8456-08a74f0dfa0b
+DTSTAMP:20170927T175952
 LOCATION:Y2E2 111
 DESCRIPTION:Energy is a vital part of our daily lives.  This course examines where that energy comes from, and the advantages and disadvantages across different fuels. Contextual analysis of energy decisions for transportation and electricity generation around the world. Energy resources covered include oil, biomass, natural gas, nuclear, hydropower, wind, solar, geothermal, and emerging technologies. Prerequisites: Algebra.  Note: may not be taken by students who have completed CEE 173A, CEE 207 or EARTHSYS 103.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE107S LEC
-DTSTART;TZID=America/Los_Angeles:20170627T163000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T192000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180626T163000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T192000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

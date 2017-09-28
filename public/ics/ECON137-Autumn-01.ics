@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T182000
-LAST-MODIFIED:20170211T123946
-UID:explore_coursesfc55663b-954a-4d75-bbf1-80f259d26a3b
-DTSTAMP:20170211T123946
+DTEND;TZID=America/Los_Angeles:20170925T182000
+LAST-MODIFIED:20170927T175819
+UID:explore_coursesb3150bc3-9369-41fc-baea-3d84155b5af1
+DTSTAMP:20170927T175819
 LOCATION:200-205
 DESCRIPTION:Effective decision models consider a decision maker's alternatives, information and preferences.  The construction of such models in single-party situations with emphasis on the role of information.  The course then evolves to two-party decision situations where one party has more information than the other.  Models examined include: bidding exercises and the winner's curse, the Akerlof Model and adverse selection, the Principal-Agent model and risk sharing, moral hazard and contract design. Prerequisite: ECON 102A or equivalent.  Recommended: Econ 50, Optimization and simulation in Excel.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON137 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T163000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T163000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

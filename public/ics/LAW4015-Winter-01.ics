@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T181500
-LAST-MODIFIED:20170211T124028
-UID:explore_courses1a8c0188-244a-4b64-a29a-0c8b19379e3e
-DTSTAMP:20170211T124028
-LOCATION:Law280A
-DESCRIPTION:(Formerly Law 692)  This seminar provides an in depth look at modern government surveillance law, policies and practices. It is taught by Richard Salgado, director of law enforcement and information security at Google and a former prosecutor at the U.S. Department of Justice's Computer Crime and Intellectual Property Section, and Todd Hinnen, a partner at Perkins Coie and a former head of U.S. Department of Justice&iquest;s National Security Division. The course will cover the technology, law and policy of government surveillance of the Internet and other communications technologies. We will focus on U.S. government surveillance for national security, criminal law enforcement and public safety purposes, but also address the relationship with other jurisdictions. Technologies and practices covered will include wiretapping, stored data collection and mining, location tracking and developing eavesdropping techniques. Legal regimes will include the Fourth Amendment, the Foreign Intelligence Surveillance Act, the USA Freedom Act, USA Patriot Act, the Electronic Communications Privacy Act, and CALEA among others. Elements used in grading:  Two papers, timely submission of topics and outlines, and class participation.
+DTEND;TZID=America/Los_Angeles:20180108T181500
+LAST-MODIFIED:20170927T175752
+UID:explore_courses89e18d58-533f-4ff8-b474-489ed6192b9b
+DTSTAMP:20170927T175752
+LOCATION:
+DESCRIPTION:(Formerly Law 692)  This seminar provides an in depth look at modern government surveillance law, policies and practices. It is taught by Richard Salgado, director of law enforcement and information security at Google and a former prosecutor at the U.S. Department of Justice's Computer Crime and Intellectual Property Section, and Todd Hinnen, a partner at Perkins Coie and a former head of U.S. Department of Justice's National Security Division. The course will cover the technology, law and policy of government surveillance of the Internet and other communications technologies. We will focus on U.S. government surveillance for national security, criminal law enforcement and public safety purposes, but also address the relationship with other jurisdictions. Technologies and practices covered will include wiretapping, stored data collection and mining, location tracking and developing eavesdropping techniques. Legal regimes will include the Fourth Amendment, the Foreign Intelligence Surveillance Act, the USA Freedom Act, USA Patriot Act, the Electronic Communications Privacy Act, and CALEA among others. Elements used in grading:  Two papers, timely submission of topics and outlines, and class participation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW4015 SEM
-DTSTART;TZID=America/Los_Angeles:20170109T161500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T181500;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T161500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T181500;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

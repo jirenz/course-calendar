@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T142000
-LAST-MODIFIED:20170211T123951
-UID:explore_courses10423301-c8b9-4501-9001-db53fc6e844e
-DTSTAMP:20170211T123951
-LOCATION:200-230
+DTEND;TZID=America/Los_Angeles:20180405T162000
+LAST-MODIFIED:20170927T175829
+UID:explore_courses48d788d1-4d4c-482d-8106-7dfd89555d73
+DTSTAMP:20170927T175829
+LOCATION:School of Education 207
 DESCRIPTION:Cinema was invented in the 1890s and simultaneously introduced to East Asia. This colloquium explores how this new medium changed the cultural and social landscape of East Asia and how the visual power of films also affected the culture politics of empires in the region. The themes include cinema and urban spaces, cultural imperialism, film images and gender discourse, colonial modernity, Americanism and Asianism, the visual and the textual, wartime propaganda, and Hollywood movies and cold war empires.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY390E COL
-DTSTART;TZID=America/Los_Angeles:20170405T113000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180405T133000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

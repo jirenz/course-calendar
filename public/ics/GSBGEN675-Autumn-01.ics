@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T192000
-LAST-MODIFIED:20170211T124026
-UID:explore_courses78bdc5cb-11dc-4c1c-ae3a-ef90b255b2ef
-DTSTAMP:20170211T124026
-LOCATION:GSB Faculty East 259
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175743
+UID:explore_courses0ef08b77-c83e-446d-9524-c4b1aeb67641
+DTSTAMP:20170927T175743
+LOCATION:GSB McClelland 102
 DESCRIPTION:This course provides an introduction to microeconomic theory designed to meet the needs of students in the GSB non-Economics PhD programs. The course will cover the standard economic models of individual decision-making, models of consumer behavior and producer behavior under perfect competition, the Arrow-Debreu general equilibrium model, and some basic issues in welfare measurement. This class assumes a basic knowledge of undergraduate intermediate microeconomics, comfort with multivariable calculus and linear algebra and some exposure to real analysis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GSBGEN675 SEM
-DTSTART;TZID=America/Los_Angeles:20160926T180000
-CREATED:20170211T124026
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

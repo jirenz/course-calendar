@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T122000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses5b22b103-8484-47b0-aebc-81002805481b
-DTSTAMP:20170211T124013
+DTEND;TZID=America/Los_Angeles:20180402T132000
+LAST-MODIFIED:20170927T175952
+UID:explore_coursesb5920e61-c15b-4f20-8665-873c4b484a27
+DTSTAMP:20170927T175952
 LOCATION:Y2E2 266
 DESCRIPTION:Preference to sophomores. Drawing architecture provides a deeper understanding of the intricacies and subtleties that characterize contemporary buildings. How to dissect buildings and appreciate the formal elements of a building, including scale, shape, proportion, colors and materials, and the problem solving reflected in the design. Students construct conventional architectural drawings, such as plans, elevations, and perspectives. Limited enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE31Q ISS
-DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses9d992faa-42eb-474b-b1c7-366d1ce182da
-DTSTAMP:20170211T124020
-LOCATION:Cubberley Auditorium
+DTEND;TZID=America/Los_Angeles:20180108T175000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses551fbe0b-28e0-4d7e-8d33-e4a430a1f863
+DTSTAMP:20170927T180001
+LOCATION:380-380Y
 DESCRIPTION:The design of processor-based digital systems. Instruction sets, addressing modes, data types. Assembly language programming, low-level data structures, introduction to operating systems and compilers. Processor microarchitecture, microprogramming, pipelining. Memory systems and caches. Input/output, interrupts, buses and DMA. System design implementation alternatives, software/hardware tradeoffs. Labs involve the design of processor subsystems and processor-based embedded systems. Formerly EE 108B.  Prerequisite: CS107 (required) and EE108 (recommended but not required).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE180 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180108T163000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

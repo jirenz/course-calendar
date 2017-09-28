@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T112000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursesf91aad2b-7532-474f-a608-e1a4e518cf1e
-DTSTAMP:20170211T124021
-LOCATION:200-205
-DESCRIPTION:Restricted to MS&amp;E majors in their senior year. Students carry out a major project in groups of four, applying techniques and concepts learned in the major. Project work includes problem identification and definition, data collection and synthesis, modeling, development of feasible solutions, and presentation of results.  Service Learning Course (certified by Haas Center).
+DTEND;TZID=America/Los_Angeles:20180112T112000
+LAST-MODIFIED:20170927T180002
+UID:explore_courses15524ec4-eec6-4813-bb36-3786fa666fbb
+DTSTAMP:20170927T180002
+LOCATION:200-203
+DESCRIPTION:Restricted to MS&amp;E majors in their senior year. Students carry out a major project in groups of four, applying techniques and concepts learned in the major. Project work includes problem identification and definition, data collection and synthesis, modeling, development of feasible solutions, and presentation of results.  Service Learning Course (certified by Haas Center). Satisfies the WIM requirement for MS&amp;E majors.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E108 WKS
-DTSTART;TZID=America/Los_Angeles:20170113T093000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T093000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

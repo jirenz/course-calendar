@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses4e6e6072-1366-4dc8-ba0c-efc7b2288c44
-DTSTAMP:20170211T124020
-LOCATION:Gates B1
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses20de1ee3-8b4f-404f-851f-1ea34c0bc9e5
+DTSTAMP:20170927T180001
+LOCATION:Gates B3
 DESCRIPTION:Analysis and design of analog integrated circuits in advanced MOS and bipolar technologies. Device operation and compact modeling in support of circuit simulations needed for design. Emphasis on quantitative evaluations of performance using hand calculations and circuit simulations; intuitive approaches to design. Analytical and approximate treatments of noise and distortion; analysis and design of feedback circuits. Design of archetypal analog blocks for networking and communications such as broadband gain stages and transimpedance amplifiers. Prerequisites: EE114/214A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE214B LEC
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

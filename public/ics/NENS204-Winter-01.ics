@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T125000
-LAST-MODIFIED:20170211T124043
-UID:explore_courses2c0e2056-f869-4ef6-a0fd-5d824349e906
-DTSTAMP:20170211T124043
-LOCATION:CCSR 4205
+DTEND;TZID=America/Los_Angeles:20180111T125000
+LAST-MODIFIED:20170927T175912
+UID:explore_coursesaf74de09-b3db-48da-9b42-90a97314e76e
+DTSTAMP:20170927T175912
+LOCATION:MSOBX303
 DESCRIPTION:Standing at the intersection of many fields of medicine, including neurology, internal medicine, cerebrovascualr surgery, diagnostic and interventional radiology, and emergency medicine, as the third leading cause of death and the leading cause of disability, stroke is a critical topic for all practitioners of medicine. This seminar draws upon Stanford's leaders in stroke research to present and discuss the causes, presentation, treatment, and imaging characteristics of the disease.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NENS204 SEM
-DTSTART;TZID=America/Los_Angeles:20170112T120000
-CREATED:20170211T124043
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T125000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T120000
+CREATED:20170927T175912
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T125000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

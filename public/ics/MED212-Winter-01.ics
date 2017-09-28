@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T152000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses1adfe386-e4a4-4824-aa0b-397b06bdf98d
-DTSTAMP:20170211T124041
-LOCATION:Encina Commons 119
+DTEND;TZID=America/Los_Angeles:20180110T152000
+LAST-MODIFIED:20170927T175908
+UID:explore_coursesfc1b0b37-faf8-4583-aae4-67ea2aa7e4d9
+DTSTAMP:20170927T175908
+LOCATION:MSOBX303
 DESCRIPTION:Preference given to postgraduate fellows and graduate students. Focus is on implementation science and evaluation of health care delivery innovations. Topics include implementation science theory, frameworks, and measurement principles; qualitative and quantitative approaches to designing and evaluating new health care models; hybrid design trials that simultaneously evaluate implementation and effectiveness; distinction between quality improvement and research, and implications for regulatory requirements and publication; and grant-writing strategies for implementation science and evaluation. Students will develop a mock (or actual) grant proposal to conduct a needs assessment or evaluate a Stanford/VA/community intervention, incorporating concepts, frameworks, and methods discussed in class. Priority for enrollment for CHPR 212 will be given to CHPR master's students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED212 LEC
-DTSTART;TZID=America/Los_Angeles:20170111T133000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T133000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

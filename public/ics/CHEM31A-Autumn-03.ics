@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T152000
-LAST-MODIFIED:20170211T123940
-UID:explore_coursesa616f6d2-e7aa-4942-8203-7e207b8e1952
-DTSTAMP:20170211T123940
+DTEND;TZID=America/Los_Angeles:20170925T142000
+LAST-MODIFIED:20170927T175804
+UID:explore_coursesca17864f-84a2-48cd-b17c-a582dcf597c8
+DTSTAMP:20170927T175804
+LOCATION:STLC114
+DESCRIPTION:For students with moderate or no background in chemistry. Stoichiometry; periodicity; electronic structure and bonding; gases; enthalpy; phase behavior. Emphasis is on skills to address structural and quantitative chemical questions; lab provides practice. Recitation.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHEM31A LEC
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T175804
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T142000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170925T192000
+LAST-MODIFIED:20170927T175804
+UID:explore_coursesb594232e-b672-45ad-b49c-aa95dff72e16
+DTSTAMP:20170927T175804
 LOCATION:
 DESCRIPTION:For students with moderate or no background in chemistry. Stoichiometry; periodicity; electronic structure and bonding; gases; enthalpy; phase behavior. Emphasis is on skills to address structural and quantitative chemical questions; lab provides practice. Recitation.
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:CHEM31A DIS
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=MO
+SUMMARY:CHEM31A LEC
+DTSTART;TZID=America/Los_Angeles:20170925T180000
+CREATED:20170927T175804
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

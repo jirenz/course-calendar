@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20170211T124018
-UID:explore_courses8c1740cd-c0d8-4d8b-b624-268670cced89
-DTSTAMP:20170211T124018
-LOCATION:Econ 140
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T175958
+UID:explore_coursesfc80a4db-c53c-4320-8476-7f23477647d3
+DTSTAMP:20170927T175958
+LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Cutting-edge research on computational techniques for investigating and designing the three-dimensional structure and dynamics of biomolecules, cells, and everything in between.  These techniques, which draw on approaches ranging from physics-based simulation to machine learning, play an increasingly important role in drug discovery, medicine, bioengineering, and molecular biology.  Course is devoted primarily to reading, presentation, discussion, and critique of papers describing important recent research developments.  Prerequisite: CS 106A or equivalent, and an introductory course in biology or biochemistry. Recommended: some experience in mathematical modeling (does not need to be a formal course).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS371 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

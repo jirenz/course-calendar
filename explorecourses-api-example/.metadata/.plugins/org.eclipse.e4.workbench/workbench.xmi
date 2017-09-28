@@ -3,13 +3,13 @@
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList/>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_4G2CovCXEea1TfZ5VZkscg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_5BJHsfCXEea1TfZ5VZkscg" label="%trimmedwindow.label.eclipseSDK" x="170" y="28" width="1024" height="722">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_4G2CovCXEea1TfZ5VZkscg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_5BJHsfCXEea1TfZ5VZkscg" label="%trimmedwindow.label.eclipseSDK" x="170" y="23" width="1024" height="722">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
     <persistedState key="show_in_time" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;show_in_time/>"/>
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workingSets/>"/>
-    <persistedState key="aggregateWorkingSetId"/>
+    <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1506529978096"/>
     <tags>topLevel</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_5BJHsfCXEea1TfZ5VZkscg" selectedElement="_5BJHsvCXEea1TfZ5VZkscg" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_5BJHsvCXEea1TfZ5VZkscg" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_5WoPgPCXEea1TfZ5VZkscg">
@@ -132,7 +132,7 @@
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_5VGlgPCXEea1TfZ5VZkscg" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.gif" tooltip="" closeable="true">
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1506529978096&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <tags>active</tags>
@@ -226,7 +226,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_5LyRcPCXEea1TfZ5VZkscg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_5MBiAPCXEea1TfZ5VZkscg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_4HkblvCXEea1TfZ5VZkscg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_gvyJoKOhEeexU-oS2CKa_Q" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_4HkblvCXEea1TfZ5VZkscg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_5LyRcfCXEea1TfZ5VZkscg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -253,7 +253,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_5Ly4gvCXEea1TfZ5VZkscg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_5MD-QPCXEea1TfZ5VZkscg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_4Hj0YfCXEea1TfZ5VZkscg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_gv3pMKOhEeexU-oS2CKa_Q" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_4Hj0YfCXEea1TfZ5VZkscg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_5Ly4g_CXEea1TfZ5VZkscg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -771,7 +771,7 @@
     <bindings xmi:id="_4I5RHfCXEea1TfZ5VZkscg" keySequence="ALT+COMMAND+X P" command="_4HoF4vCXEea1TfZ5VZkscg">
       <tags>platform:cocoa</tags>
     </bindings>
-    <bindings xmi:id="_4JGFYvCXEea1TfZ5VZkscg" keySequence="COMMAND+CTRL+F" command="_4JGFYPCXEea1TfZ5VZkscg"/>
+    <bindings xmi:id="_gFugAaOhEeexU-oS2CKa_Q" keySequence="COMMAND+CTRL+F" command="_4JGFYPCXEea1TfZ5VZkscg"/>
   </bindingTables>
   <bindingTables xmi:id="_4IZh2PCXEea1TfZ5VZkscg" elementId="org.eclipse.datatools.sqltools.SQLEditorScope" bindingContext="_4HrwJ_CXEea1TfZ5VZkscg">
     <bindings xmi:id="_4IZh2fCXEea1TfZ5VZkscg" keySequence="ALT+COMMAND+D" command="_4Hcft_CXEea1TfZ5VZkscg"/>
@@ -1033,7 +1033,7 @@
     <bindings xmi:id="_4IzxgvCXEea1TfZ5VZkscg" keySequence="F1" command="_4HY1OfCXEea1TfZ5VZkscg"/>
   </bindingTables>
   <bindingTables xmi:id="_4JGsdPCXEea1TfZ5VZkscg" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_4G2Cp_CXEea1TfZ5VZkscg">
-    <bindings xmi:id="_4JGsdfCXEea1TfZ5VZkscg" keySequence="M1+W" command="_4JGscvCXEea1TfZ5VZkscg"/>
+    <bindings xmi:id="_gFvHEKOhEeexU-oS2CKa_Q" keySequence="M1+W" command="_4JGscvCXEea1TfZ5VZkscg"/>
   </bindingTables>
   <bindingTables xmi:id="_5U5KIfCXEea1TfZ5VZkscg" bindingContext="_5U5KIPCXEea1TfZ5VZkscg"/>
   <bindingTables xmi:id="_5U5xMfCXEea1TfZ5VZkscg" bindingContext="_5U5xMPCXEea1TfZ5VZkscg"/>

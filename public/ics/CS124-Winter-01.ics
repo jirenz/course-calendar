@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170211T124017
-UID:explore_courses8573958a-94e2-4fe4-9474-61597d2b39aa
-DTSTAMP:20170211T124017
-LOCATION:420-040
-DESCRIPTION:Extracting meaning, information, and structure from human language text, speech, web pages, genome sequences, social networks. Methods include: string algorithms, edit distance, language modeling, the noisy channel, naive Bayes, inverted indices, collaborative filtering, PageRank. Applications such as question answering, sentiment analysis, information retrieval, text classification, social network models, chatbots, genomic sequence alignment, spell checking, speech processing, recommender systems. Prerequisite: CS103, CS107, CS109.
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T175958
+UID:explore_coursese098e236-552b-438f-8a1c-a4a487868b97
+DTSTAMP:20170927T175958
+LOCATION:Dinkelspiel Auditorium
+DESCRIPTION:Extracting meaning, information, and structure from human language text, speech, web pages, social networks. Methods include: string algorithms,edit distance, language modeling, the noisy channel, naive Bayes, inverted indices, collaborative filtering, PageRank. Applications such as question answering, sentiment analysis, information retrieval, text classification, social network models, chatbots, sequence alignment, spell checking, speech processing, recommender systems. nPrerequisites:nCS103&lt;https://explorecourses.stanford.edu/search?view=catalog&amp;filter-coursestatus-Active=on&amp;page=0&amp;q=CS103&gt;,nCS107&lt;https://explorecourses.stanford.edu/search?view=catalog&amp;filter-coursestatus-Active=on&amp;page=0&amp;q=CS107&gt;,nCS109&lt;https://explorecourses.stanford.edu/search?view=catalog&amp;filter-coursestatus-Active=on&amp;page=0&amp;q=CS109&gt;
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS124 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T124017
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

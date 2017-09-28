@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T162000
-LAST-MODIFIED:20170211T123934
-UID:explore_coursesed06fe49-0a3d-4a3a-8fc2-ada0493317de
-DTSTAMP:20170211T123934
-LOCATION:50-52H
+DTEND;TZID=America/Los_Angeles:20180404T162000
+LAST-MODIFIED:20170927T175754
+UID:explore_coursesdb8d33f0-164d-4176-b03a-9ae913bdde25
+DTSTAMP:20170927T175754
+LOCATION:160-314
 DESCRIPTION:This seminar is part of a broader program on Social Entrepreneurship at CDDRL in partnership with the Haas Center for Public Service. It will use practice to better inform theory. Working with three visiting social entrepreneurs from developing and developed country contexts students will use case studies of successful and failed social change strategies to explore relationships between social entrepreneurship, gender, democracy, development and justice. It interrogates current definitions of democracy and development and explores how they can become more inclusive of marginalized populations. This is a service learning class in which students will learn by working on projects that support the social entrepreneurs' efforts to promote social change. Students should register for either 3 OR 5 units only. Students enrolled in the full 5 units will have a service-learning component along with the course. Students enrolled for 3 units will not complete the service-learning component. Limited enrollment.  Attendance at the first class is mandatory in order to participate in service learning.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AFRICAST242 SEM
-DTSTART;TZID=America/Los_Angeles:20170405T133000
-CREATED:20170211T123934
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T133000
+CREATED:20170927T175754
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

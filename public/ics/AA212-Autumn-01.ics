@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T175000
-LAST-MODIFIED:20170211T124011
-UID:explore_courses87d89ab6-26aa-479b-96e2-a4fb64cc5878
-DTSTAMP:20170211T124011
-LOCATION:540-108
+DTEND;TZID=America/Los_Angeles:20170926T175000
+LAST-MODIFIED:20170927T175947
+UID:explore_courses4cdd82f3-b4cc-453b-b366-e27b4e5a37c3
+DTSTAMP:20170927T175947
+LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:Analysis and design techniques for multivariable feedback systems. State-space concepts, observability, controllability, eigenvalues, eigenvectors, stability, and canonical representations. Approaches for robust feedback control design, chiefly H2, H-infinity, and mu-synthesis. System identification and adaptive control design. Use of computer-aided design with MATLAB. Prerequisite: ENGR 105, ENGR 205. Recommended: Linear algebra (EE 263 or equivalent).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA212 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T163000
+CREATED:20170927T175947
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

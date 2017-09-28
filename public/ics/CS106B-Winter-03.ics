@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T202000
-LAST-MODIFIED:20170211T124017
-UID:explore_courses76c08c97-2329-4d89-90a5-718d3656ab10
-DTSTAMP:20170211T124017
-LOCATION:Thornt207
+DTEND;TZID=America/Los_Angeles:20180110T202000
+LAST-MODIFIED:20170927T175958
+UID:explore_coursese7d072fa-fd25-4c8d-b51b-3ad0d6989bab
+DTSTAMP:20170927T175958
+LOCATION:Thornt208
 DESCRIPTION:Abstraction and its relation to programming. Software engineering principles of data abstraction and modularity. Object-oriented programming, fundamental data structures (such as stacks, queues, sets) and data-directed design. Recursion and recursive data structures (linked lists, trees, graphs). Introduction to time and space complexity analysis. Uses the programming language C++ covering its basic facilities. Prerequisite: 106A or equivalent. Summer quarter enrollment is limited.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106B DIS
-DTSTART;TZID=America/Los_Angeles:20170111T193000
-CREATED:20170211T124017
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T202000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T193000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T202000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

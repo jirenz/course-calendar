@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T102000
-LAST-MODIFIED:20170211T124005
-UID:explore_courses69b43b82-db0c-46c4-8ff5-d8e6d67fed47
-DTSTAMP:20170211T124005
+DTEND;TZID=America/Los_Angeles:20170925T102000
+LAST-MODIFIED:20170927T175853
+UID:explore_coursesb69c1a63-751e-4eda-b9d0-9a4bd3e8bee1
+DTSTAMP:20170927T175853
 LOCATION:200-205
-DESCRIPTION:This course will provide a hands-on introduction  to statistics and data science. Students will engage with the fundamental ideas in inferential and computational thinking. Each week, we will explore a core topic comprising three lectures and two labs (a module), in which students will manipulate real-world data and learn about statistical and computational tools. Students will engage in statistical computing and visualization with current data analytic software (Jupyter, R). The objectives of this course are to have students (1) be able to connect data to underlying phenomena and to think critically about conclusions drawn from data analysis, and (2) be knowledgeable about programming abstractions so that they can later design their own computational inferential procedures. No programming or statistical background is assumed. Freshmen and sophomores interested in data science, computing and statistics are encouraged to attend. Open to graduates as well.
+DESCRIPTION:http://web.stanford.edu/class/stats101/ . This course will provide a hands-on introduction  to statistics and data science. Students will engage with the fundamental ideas in inferential and computational thinking. Each week, we will explore a core topic comprising three lectures and two labs (a module), in which students will manipulate real-world data and learn about statistical and computational tools. Students will engage in statistical computing and visualization with current data analytic software (Jupyter, R). The objectives of this course are to have students (1) be able to connect data to underlying phenomena and to think critically about conclusions drawn from data analysis, and (2) be knowledgeable about programming abstractions so that they can later design their own computational inferential procedures. No programming or statistical background is assumed. Freshmen and sophomores interested in data science, computing and statistics are encouraged to attend. Open to graduates as well.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS101 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T124005
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175853
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

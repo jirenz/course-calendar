@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T105000
-LAST-MODIFIED:20170211T123942
-UID:explore_courses572b7819-f29b-4bcb-8269-4f9b7b5a6ecb
-DTSTAMP:20170211T123942
+DTEND;TZID=America/Los_Angeles:20170925T105000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses24dfb30f-ac3e-4e52-ad76-157ed2e9e3ab
+DTSTAMP:20170927T175933
 LOCATION:McMurtry Building rm 360
 DESCRIPTION:This lecture course explores Greek art and culture from 1000-480.  In the beginning archaic art forms are more abstract than life-like, closer to Calder than Michelangelo.  While Homer describes the rippling muscles (and egos) of his heroes, vase-painters and sculptors prefer abstraction.  This changes in the 7th C. as a result of commerce with the Near East and Egypt.  Imported Near Eastern bronzes and ivories awaken the Greeks to a wider range of subjects, techniques and ambitions.  Later in the century, Greeks in Egypt learn to carve hard stone from Egyptian masters.  Throughout the 6th C. Greek artists assimilate what they had borrowed, compete with one another, defy their teachers, test the tolerance of the gods and eventually produce works of art that speak with a Greek accent.  When the Persians invade the Acropolis in 480, they find artifacts with little trace of alien influence or imprint - omens of the defiant Greek military that would prevail at Salamis and Plataea.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CLASSICS161 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T123942
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T105000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T105000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

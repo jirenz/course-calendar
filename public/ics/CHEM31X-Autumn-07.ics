@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T172000
-LAST-MODIFIED:20170211T123940
-UID:explore_coursesfb6fdc4c-a50e-4056-879e-3c0f8f57adaa
-DTSTAMP:20170211T123940
+DTEND;TZID=America/Los_Angeles:20170928T122000
+LAST-MODIFIED:20170927T175804
+UID:explore_courses524b30a2-0ee4-4951-94a4-9627d0ad1f9b
+DTSTAMP:20170927T175804
 LOCATION:
-DESCRIPTION:Accelerated; for students with substantial chemistry background. Chemical equilibria concepts, equilibrium constants, acids and bases, chemical thermodynamics, quantum concepts, models of ionic and covalent bonding, atomic and molecular orbital theory, periodicity, and bonding properties of matter. Recitation. Prerequisites: AP chemistry score of 5 or passing score on chemistry placement test, and AP Calculus AB score of 4 or Math 20 or Math 41. Recommended: high school physics.
+DESCRIPTION:Accelerated; for students with substantial chemistry background. Chemical equilibria concepts, equilibrium constants, acids and bases, chemical thermodynamics, quantum concepts, models of ionic and covalent bonding, atomic and molecular orbital theory, periodicity, and bonding properties of matter. Recitation. Prerequisites: AP chemistry score of 5 or passing score on chemistry placement test, and AP Calculus AB score of 4 or Math 20. Recommended: high school physics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM31X DIS
-DTSTART;TZID=America/Los_Angeles:20160928T153000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170928T103000
+CREATED:20170927T175804
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

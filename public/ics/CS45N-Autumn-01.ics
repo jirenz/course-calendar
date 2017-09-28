@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T152000
-LAST-MODIFIED:20170211T124017
-UID:explore_courses0702dd9c-9399-401b-b687-d31ca799a5d4
-DTSTAMP:20170211T124017
+DTEND;TZID=America/Los_Angeles:20170925T162000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses060b3bf1-34b9-46b3-93be-bd4d633d9c98
+DTSTAMP:20170927T175958
 LOCATION:
 DESCRIPTION:Preference to freshmen with experience in photography and use of computers. Elements of photography, such as lighting, focus, depth of field, aperture, and composition. How a photographer makes photos available for computer viewing, reliably stores them, organizes them, tags them, searches them, and distributes them online. No programming experience required. Digital SLRs and editing software will be provided to those students who do not wish to use their own.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS45N ISF
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T124017
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T143000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T175000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursesb7651b6b-3ef2-4991-98a7-5fb08df8b01a
-DTSTAMP:20170211T123931
-LOCATION:School of Education 210
+DTEND;TZID=America/Los_Angeles:20180405T175000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursesfed4aa28-2d05-4537-8582-5184c2307386
+DTSTAMP:20170927T175938
+LOCATION:School of Education 334
 DESCRIPTION:This course examines the expansion, impact, and organization of higher education across the world. This course engages students with sociological theory and comparative research on global and national sources of influence on higher education developments, e.g. admissions criteria, curricular content, governance structure.. At the end of the course students should be able to compare and contrast developments across countries.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC349 SEM
-DTSTART;TZID=America/Los_Angeles:20170406T150000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T150000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

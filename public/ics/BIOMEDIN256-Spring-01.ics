@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T152000
-LAST-MODIFIED:20170211T124034
-UID:explore_courses0d98c9e9-b44d-4225-bf1c-e40b0878c50a
-DTSTAMP:20170211T124034
-LOCATION:300-300
+DTEND;TZID=America/Los_Angeles:20180402T152000
+LAST-MODIFIED:20170927T175859
+UID:explore_courses7c414dca-498f-42c0-b84e-323d1a060c31
+DTSTAMP:20170927T175859
+LOCATION:260-113
 DESCRIPTION:Institutional, theoretical, and empirical analysis of the problems of health and medical care. Topics: demand for medical care and medical insurance; institutions in the health sector; economics of information applied to the market for health insurance and for health care; measurement and valuation of health; competition in health care delivery. Graduate students with research interests should take ECON 249. Prerequisites: ECON 50 and either ECON 102A or STATS 116 or the equivalent. Recommended: ECON 51.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOMEDIN256 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T124034
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175859
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

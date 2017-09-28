@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T192000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses37955512-4397-4c4b-b46e-03749e7c955c
-DTSTAMP:20170211T123931
+DTEND;TZID=America/Los_Angeles:20170928T175000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursesbe356df9-b8db-4588-909f-71827dd804e8
+DTSTAMP:20170927T175938
 LOCATION:
 DESCRIPTION:Teaching in academically and linguistically heterogeneous classrooms requires a repertoire of pedagogical strategies. Focus is on how to provide access to intellectually challenging curriculum and equal-status interaction for students in diverse classrooms. Emphasis is on group work and its cognitive, social, and linguistic benefits for students. How to prepare for group work, equalize participation, and design learning tasks that support conceptual understanding, mastery of content and language growth. How to assess group products and individual contributions. (STEP)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC284A LEC
-DTSTART;TZID=America/Los_Angeles:20160929T150000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T150000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

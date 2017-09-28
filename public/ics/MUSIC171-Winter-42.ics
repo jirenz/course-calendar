@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T213000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursesa2a1d4c2-b714-4f51-864c-55543a6b1451
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180108T213000
+LAST-MODIFIED:20170927T175841
+UID:explore_coursesd4f506b4-7bfe-4318-b1f9-7b4df842468e
+DTSTAMP:20170927T175841
 LOCATION:Braun106
 DESCRIPTION:Admission based on audition. Weekly one-hour coachings from Music department faculty. Search for instructor section in Axess. Classical string quartets and piano/string groups are supervised by the St. Lawrence String Quartet. Two masterclasses and one performance per quarter are required. May be repeated for credit. All participants must enroll. Zero unit enrollment option available with instructor permission. See website for policy, procedure, and audition sign up: http://music.stanford.edu/  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC171 PRC
-DTSTART;TZID=America/Los_Angeles:20170109T191500
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T213000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T191500
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T213000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

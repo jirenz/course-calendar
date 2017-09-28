@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20170211T124018
-UID:explore_coursesf9478afe-2cfe-4f58-836b-7638f31891b9
-DTSTAMP:20170211T124018
+DTEND;TZID=America/Los_Angeles:20170926T162000
+LAST-MODIFIED:20170927T175958
+UID:explore_coursesc60549fe-9666-4f53-b266-5612c1b163fd
+DTSTAMP:20170927T175958
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:The course covers database design and the use of database management systems for applications. It includes extensive coverage of the relational model, relational algebra, and SQL.The course includes database design and relational design principles based on dependencies and normal forms. Many additional key database topics from the design and application-building perspective are also covered: indexes, views, transactions, authorization, integrity constraints, triggers, on-line analytical processing (OLAP), JSON, and emerging NoSQL systems. Class time will include guest speakers from industry and additional advanced topics as time and class interest permits. Prerequisites: 103 and 107 (or equivalent).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS145 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T150000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

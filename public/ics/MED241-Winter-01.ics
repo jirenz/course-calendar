@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T202000
-LAST-MODIFIED:20170211T124041
-UID:explore_coursesfe3de5af-4df9-420f-a2aa-c929cdecb070
-DTSTAMP:20170211T124041
-LOCATION:Li Ka Shing Center, rms304/305
+DTEND;TZID=America/Los_Angeles:20180109T202000
+LAST-MODIFIED:20170927T175908
+UID:explore_coursesa9d6f61b-b2a9-4591-aca5-5255bba0cc4e
+DTSTAMP:20170927T175908
+LOCATION:Li Ka Shing Center, room 208
 DESCRIPTION:Enrollment in this course is by application only for advanced volunteers at the Cardinal Free Clinics. Focus is on preparing students to gain early clinical experience by teaching basic skills such as taking patient histories, working with interpreters, providing motivational interviewing, and presenting cases to medical students or physicians. Students learn through classroom lectures and practice sessions. Upon successful completion of a competency assessment, students are able to serve in a clinic role in the Cardinal Free Clinics. Prerequisite: Advanced standing as a volunteer at the Cardinal Free Clinics.
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:MED241 LEC
-DTSTART;TZID=America/Los_Angeles:20170111T183000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T202000;BYDAY=WE
+SUMMARY:MED241 WKS
+DTSTART;TZID=America/Los_Angeles:20180109T183000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T202000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

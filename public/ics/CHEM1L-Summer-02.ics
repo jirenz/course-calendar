@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T183000
-LAST-MODIFIED:20170211T123940
-UID:explore_coursescde3401b-aa01-42cb-85cb-473f29c5fefe
-DTSTAMP:20170211T123940
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180625T183000
+LAST-MODIFIED:20170927T175804
+UID:explore_coursesa1a06ebe-c45b-43e8-aef5-fb4c9dc9b3e3
+DTSTAMP:20170927T175804
+LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:Hands on exploration of laboratory reactions &amp; phenomena discussed in Chem 1. Learn techniques for separation of compounds: distillation, extraction and chromatography (TLC, GCMS) while investigating the nature and properties of organic compounds such as boiling points, polarity, solubility and chirality. Prerequisite: Chem 33 (or course equivalent) or Chem 1 co-requisite.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM1L LBS
-DTSTART;TZID=America/Los_Angeles:20170626T143000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170714T183000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180625T143000
+CREATED:20170927T175804
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T183000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

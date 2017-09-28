@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T122000
-LAST-MODIFIED:20170211T124023
-UID:explore_courses69570603-b0bc-4f9e-bcc8-c123daaebf4e
-DTSTAMP:20170211T124023
+DTEND;TZID=America/Los_Angeles:20170927T122000
+LAST-MODIFIED:20170927T180006
+UID:explore_courses1924a59f-4bb1-4f7f-ada1-db670a6ee85a
+DTSTAMP:20170927T180006
 LOCATION:610-615
 DESCRIPTION:Design course focusing on the process of injection molding as a prototyping and manufacturing tool. Coursework will include creating and evaluating initial design concepts, detailed part design, mold design, mold manufacturing, molding parts, and testing and evaluating the results. Students will work primarily on individually selected projects, using each project as a tool to continue developing and exercising individual design process. Lectures and field trips will provide students with context for their work in the Stanford Product Realization Lab. Prerequisite: ME318 or consent of instructors.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME325 LBS
-DTSTART;TZID=America/Los_Angeles:20160928T083000
-CREATED:20170211T124023
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T083000
+CREATED:20170927T180006
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

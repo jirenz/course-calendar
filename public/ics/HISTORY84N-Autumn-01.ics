@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T190000
-LAST-MODIFIED:20170211T123951
-UID:explore_coursesfadfbd4e-c392-496a-90dc-dd04705f8042
-DTSTAMP:20170211T123951
+DTEND;TZID=America/Los_Angeles:20170926T175000
+LAST-MODIFIED:20170927T175829
+UID:explore_coursesd383768d-801e-470c-a68c-0dac4f5c57d2
+DTSTAMP:20170927T175829
 LOCATION:200-201
 DESCRIPTION:What have been the traditional objectives of U.S. policy in the Middle East since the end of World War II?  What forces shape U.S. policy towards the Middle East?  Did those interests and the means employed to pursue them change substantially after the demise of the Soviet Union?  What has been the impact of U.S. policy on the region itself?  The three principal cases to be examined are Afghanistan, Iraq and Israel/Palestine.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY84N ISF
-DTSTART;TZID=America/Los_Angeles:20160929T180000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T190000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170926T163000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=TU,TH
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T175000
-LAST-MODIFIED:20170211T123951
-UID:explore_courses933f96ba-8a92-456b-93c0-4b3b977fe401
-DTSTAMP:20170211T123951
+DTEND;TZID=America/Los_Angeles:20170928T190000
+LAST-MODIFIED:20170927T175829
+UID:explore_courses9a3d775d-3ef3-4464-b418-a0c51134de64
+DTSTAMP:20170927T175829
 LOCATION:200-201
 DESCRIPTION:What have been the traditional objectives of U.S. policy in the Middle East since the end of World War II?  What forces shape U.S. policy towards the Middle East?  Did those interests and the means employed to pursue them change substantially after the demise of the Soviet Union?  What has been the impact of U.S. policy on the region itself?  The three principal cases to be examined are Afghanistan, Iraq and Israel/Palestine.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY84N ISF
-DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170928T180000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T190000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T154500
-LAST-MODIFIED:20170211T124028
-UID:explore_courses6a94535c-0aac-4335-b97c-fff225028c4b
-DTSTAMP:20170211T124028
-LOCATION:Law280A
-DESCRIPTION:(Formerly Law 335)  This course will explore issues involving professional responsibility. Topics will include the role of advocates, the adversary system, the conditions of practice, diversity, candor, and confidentiality, conflicts of interest, lawyer- client relationships, regulatory structures, access to justice, pro bono service, and legal education. Special Instructions: Grades will be based on class participation and (1) short reflection essays on the readings and a short research paper or (2) a long paper. A maximum of 10 students will be permitted to write the long paper for R credit. After the term begins, 10 students can transfer from section (01) into section (02), which meets the R requirement, with consent of the instructor. If more than 10 students apply to write a long paper for R credit, a lottery will be run to determine the 10 students accepted in section (02). This class is designated as fulfilling the Ethics requirement (and the R requirement with instructor consent). Elements used in grading: Attendance, class participation, and either long paper or short reflection essays on the readings and short research paper.
+DTEND;TZID=America/Los_Angeles:20180109T124000
+LAST-MODIFIED:20170927T175752
+UID:explore_courses49bd1a92-74e4-406b-a021-896d089100f1
+DTSTAMP:20170927T175752
+LOCATION:
+DESCRIPTION:(Formerly Law 335)  A survey of the major legal and ethical issues presented in the practice of law.  We will examine the concept of the lawyer endorsed by the rules of professional responsibility, the principal-agent relationship, and common law doctrines governing law practice in both civil and criminal settings.  We will also  assess the tensions between this concept of the lawyer and the personal, political, and economic constraints of law practice.  To this end, emphasis will be given not only to the law of lawyering but to the history and sociology of the American legal profession, theories of role morality and professional identity, the sources of cognitive bias that affect perception and judgment, and techniques for navigating ethical dilemmas. Elements used in grading: Attendance, class participation, in-class exercises, short papers and final exam.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW6001 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T141500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T154500;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T111000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T124000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

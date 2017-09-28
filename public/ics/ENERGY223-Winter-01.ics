@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T124030
-UID:explore_coursesaeb21f24-d41a-4fbc-9f14-a27f852ca26f
-DTSTAMP:20170211T124030
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T175941
+UID:explore_coursesebd802e5-6382-45e6-af2a-314c24853333
+DTSTAMP:20170927T175941
 LOCATION:Green Earth Sciences104
 DESCRIPTION:Fundamentals of petroleum reservoir simulation. Equations for multicomponent, multiphase flow between gridblocks comprising a petroleum reservoir. Relationships between black-oil and compositional models. Techniques for developing black-oil, compositional, thermal, and dual-porosity models. Practical considerations in the use of simulators for predicting reservoir performance. Class project. Prerequisite: 221 and 246, or consent of instructor. Recommended: CME 206.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY223 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T175941
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

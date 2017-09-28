@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T123934
-UID:explore_coursesce1c57e4-d020-4bc8-8381-611f8e3420f0
-DTSTAMP:20170211T123934
+DTEND;TZID=America/Los_Angeles:20180403T102000
+LAST-MODIFIED:20170927T175755
+UID:explore_courses34b0e15c-8342-4042-b1fe-58279fd2c7a8
+DTSTAMP:20170927T175755
 LOCATION:McMurtry Building 102, Oshman
 DESCRIPTION:Introduction to the work of an American writer, beloved by general readers, often reviled by critics, whose career spanned from the Great Depression through World War II to the social upheavals of the 1960s. Focus on the social and political contexts of Steinbeck's major works; his fascination with California and Mexico; his interdisciplinary interest in marine biology and in philosophy; his diverse experiments with literary form, including drama and film.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AMSTUD146A LEC
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123934
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T090000
+CREATED:20170927T175755
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

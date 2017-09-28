@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170211T123959
-UID:explore_coursesd1273113-4af0-4f46-8788-a811e6f8ff7e
-DTSTAMP:20170211T123959
-LOCATION:Green Earth Sciences150
-DESCRIPTION:Identical particles; Fermi and Bose statistics. Time-independent perturbation theory. Fine structure, the Zeeman effect and hyperfine splitting in the hydrogen atom. Time-dependent perturbation theory. Variational principle and WKB approximation.  Prerequisite: PHYSICS 120, PHYSICS 130, MATH 131P, or MATH 173.  Pre- or corequisite: PHYSICS 121.
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20170927T175844
+UID:explore_courses8d049f34-86bd-4a1b-a769-44f23711f91b
+DTSTAMP:20170927T175844
+LOCATION:STLC115
+DESCRIPTION:Identical particles; Fermi and Bose statistics. Time-independent perturbation theory. Fine structure, the Zeeman effect and hyperfine splitting in the hydrogen atom. Time-dependent perturbation theory. Variational principle and WKB approximation.  Prerequisite: PHYSICS 120, PHYSICS 130, PHYSICS 111 or MATH 131P, or MATH 173.  Pre- or corequisite: PHYSICS 121.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS131 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T150000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

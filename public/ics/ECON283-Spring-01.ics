@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T152000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses0efb2295-8dd9-4ab7-8bd3-d536e0b5d161
-DTSTAMP:20170211T123946
-LOCATION:Econ 206
-DESCRIPTION:This class will focus on several topics in auction market design and related areas. It is an advanced course, intended as a sequel to the more basic market/mechanism/auction design courses offered at the Economics department and the GSB. Students are expected to be familiar with the material in those courses. We will briefly review some basics of auction theory, but the main goal of the class is to bring students closer to doing independent research and introduce them to recent contributions and currently active research areas. Specific topics may include: multi-item and combinatorial auctions; robust auction design; applied auction design with practical applications; Internet advertising; radio spectrum auctions; securities markets; commodities; complex procurements.
+DTEND;TZID=America/Los_Angeles:20180402T152000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses877172c9-4dfa-41f6-a4ca-d22e23bd6b31
+DTSTAMP:20170927T175819
+LOCATION:Econ 106
+DESCRIPTION:This class will focus on several topics in auction market design and related areas. It is an advanced course, intended as a sequel to the more basic market/mechanism/auction design courses offered at the Economics department and the GSB. Students are expected to be familiar with the material in those courses. We will briefly review some basics of auction theory, but the main goal of the class is to bring students closer to doing independent research and introduce them to recent contributions and currently active research areas. Specific topics may include: multi-item and combinatorial auctions; robust auction design; applied auction design with practical applications; matching and pricing on the Internet; radio spectrum auctions; securities markets; commodities; complex procurements.  Grading based on presentation, assignment, and term paper.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON283 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

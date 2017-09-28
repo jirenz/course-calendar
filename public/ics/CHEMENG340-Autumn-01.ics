@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20170211T124012
-UID:explore_courses1c65d9f8-c578-4c5f-bb75-87198d23c7b3
-DTSTAMP:20170211T124012
-LOCATION:Hewlett Teaching Center 102
+DTEND;TZID=America/Los_Angeles:20170925T145000
+LAST-MODIFIED:20170927T175949
+UID:explore_courses0d71208f-b8f4-478d-a357-a294095fb812
+DTSTAMP:20170927T175949
+LOCATION:200-303
 DESCRIPTION:Classical thermodynamics and quantum mechanics. Development of statistical thermodynamics to address the collective behavior of molecules. Establishment of theories for gas, liquid, and solid phases, including phase transitions and critical behavior. Applications include electrolytes, ion channels, surface adsorption, ligand binding to proteins, hydrogen bonding in water, hydrophobicity, polymers, and proteins.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG340 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T124012
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T175949
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

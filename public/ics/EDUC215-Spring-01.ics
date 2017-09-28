@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T092000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses97edd663-2da6-400b-8159-266e7f7f26b4
-DTSTAMP:20170211T123931
-LOCATION:Lathrop 290
+DTEND;TZID=America/Los_Angeles:20180406T122000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses356424b1-e757-4d8d-9178-dac875538bee
+DTSTAMP:20170927T175938
+LOCATION:Lathrop 299
 DESCRIPTION:The required internship is a cornerstone of the LDT program. This course will provide students an opportunity to link their academic learning to real world experience through in-class discussions, presentations, and reflective writing. It will allow the program director to monitor the quality of the experience and provide timely advice and support as needed for an optimal learning experience.nnThe course will meet several times each quarter, adjacent to LDT seminar (Fridays, 12-1). An internship agreement will be required at the beginning of the course signed by the faculty advisor), as well as a reflection paper at the end of the course. Students will take the course for 1 unit, unless they request additional units for unpaid internship hours.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC215 WKS
-DTSTART;TZID=America/Los_Angeles:20170407T083000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T092000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180406T113000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

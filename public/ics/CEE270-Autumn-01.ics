@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T092000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses7b58f36e-d41a-4711-98ad-401bc21e6aee
-DTSTAMP:20170211T124013
-LOCATION:Shriram Ctr BioChemE 104
+DTEND;TZID=America/Los_Angeles:20170925T092000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses4c61cd00-9849-47b4-ad03-4b6b86f699c4
+DTSTAMP:20170927T175952
+LOCATION:Y2E2 111
 DESCRIPTION:Transport of chemical constituents in surface and groundwater including advection, dispersion, sorption, interphase mass transfer, and transformation; impacts on water quality. Emphasis is on physicochemical processes and the behavior of hazardous waste contaminants. Prerequisites: undergraduate chemistry and calculus. Recommended: 101B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE270 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T083000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T092000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T083000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T092000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

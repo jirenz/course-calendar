@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20170211T124001
-UID:explore_courses33c1e661-2acd-4a27-973f-da96ef62c83f
-DTSTAMP:20170211T124001
-LOCATION:420-102
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20170927T175847
+UID:explore_courses06acb458-c87d-42c4-9e2d-a12e8d989110
+DTSTAMP:20170927T175847
+LOCATION:420-147
 DESCRIPTION:Two quarter practicum exposes students to multiple phases of research by participating in a laboratory focusing on social behavior in adulthood and old age. Review of current research; participation in ongoing data collection, analysis, and interpretation. Prerequisites: 1, research experience, and consent of instructor. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH171 PRC
-DTSTART;TZID=America/Los_Angeles:20170109T143000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T143000
+CREATED:20170927T175847
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

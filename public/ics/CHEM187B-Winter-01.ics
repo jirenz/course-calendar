@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170211T123940
-UID:explore_coursesc765a977-e326-40cc-8e1d-519bfb4d2297
-DTSTAMP:20170211T123940
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T175805
+UID:explore_coursesf6213753-1d45-4b94-b5b5-6505a6a6e5f1
+DTSTAMP:20170927T175805
 LOCATION:Chemistry Gazebo
 DESCRIPTION:This course provides an overview of the biosynthesis of  the five major classes of small molecule natural products, including polyketides, nonribosomal peptides, terpene/isoprenoid scaffolds, alkaloids, and phenylpropanoids. Focus will be on the chemical logic for bond-forming chemical steps in each natural product class and the kinds of enzyme catalysts required to effect complexity-generating molecular scaffolds. This short course runs for the first five weeks of the quarter, from January through the second week of February. Prerequisite: Chem 181 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM187B LEC
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175805
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170627T112000
-LAST-MODIFIED:20170211T124004
-UID:explore_courses2b4cea2a-85d9-49ab-8f22-a92469e64596
-DTSTAMP:20170211T124004
-LOCATION:260-001
-DESCRIPTION:Focus is on a close reading of the original Spanish text of Miguel de Cervantes's prose masterpiece. The rise of the novel, the problems of authorship and signification, modes of reading, the status of Muslim and Jewish converts in early modern Spain, the rise of capitalism, masochistic desire. The course will be conducted entirely in Spanish.
+DTEND;TZID=America/Los_Angeles:20180626T112000
+LAST-MODIFIED:20170927T175851
+UID:explore_courses92ef14f8-f04b-422c-93b8-ec7e5e2815f6
+DTSTAMP:20170927T175851
+LOCATION:200-105
+DESCRIPTION:Focus is on a close reading of Miguel de Cervantes&iquest;s prose masterpiece. The rise of the novel, the problems of authorship and signification, modes of reading, the status of Muslim and Jewish converts in early modern Spain, the rise of capitalism, masochistic desire. This course will be conducted in English, and no prior knowledge of Spanish is necessary.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ILAC159 SEM
-DTSTART;TZID=America/Los_Angeles:20170627T093000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180626T093000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T145000
-LAST-MODIFIED:20170211T123955
-UID:explore_coursesc5799cb9-7dfe-43a1-bf38-2f47ccce740a
-DTSTAMP:20170211T123955
-LOCATION:460-127B
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T175836
+UID:explore_courses5795e2b8-31b2-4f0c-adf1-4f982195c699
+DTSTAMP:20170927T175836
+LOCATION:360-361A
 DESCRIPTION:Methods of modeling the patterned variation of language in society. Emphasis is on variation, its relation to social structure and practice, and its role in linguistic change. Intersection between quantitative and qualitative analysis, combining insights of sociology and linguistic anthropology with quantitative linguistic data. Prerequisite: graduate standing in Linguistics or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:LINGUIST250 SEM
-DTSTART;TZID=America/Los_Angeles:20160929T120000
-CREATED:20170211T123955
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TH
+SUMMARY:LINGUIST250 LEC
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175836
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

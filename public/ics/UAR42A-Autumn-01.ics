@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T210000
-LAST-MODIFIED:20170211T124009
-UID:explore_courses35bf3b24-eed9-40f4-876f-6c7ed5cbd3d1
-DTSTAMP:20170211T124009
-LOCATION:Lathrop 282
-DESCRIPTION:For freshmen who participated in the Leland Scholars Program.  This seminar supports LSP students in the first year in the areas of institutional engagement, academic empowerment, their sense of belonging to Stanford, and builds their cohort identity.
+DTEND;TZID=America/Los_Angeles:20170926T192000
+LAST-MODIFIED:20170927T175749
+UID:explore_coursese47a20bf-c12d-4931-94ef-9b36b07866cd
+DTSTAMP:20170927T175749
+LOCATION:Lathrop 299
+DESCRIPTION:For freshmen who participated in the Leland Scholars Program and other students who identify as First Generation and/or Low Income (FLI).  This seminar supports students in the first year in the areas of institutional engagement, academic empowerment, their sense of belonging to Stanford, and builds their cohort identity.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:UAR42A SEM
-DTSTART;TZID=America/Los_Angeles:20160927T180000
-CREATED:20170211T124009
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T210000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T180000
+CREATED:20170927T175749
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170211T124006
-UID:explore_courses2d3a65ae-7be7-413f-832c-88f800433f36
-DTSTAMP:20170211T124006
-LOCATION:ROBLEG139
+DTEND;TZID=America/Los_Angeles:20170927T122000
+LAST-MODIFIED:20170927T175855
+UID:explore_courses0a001c81-3f79-4312-beb7-2bda9033df7e
+DTSTAMP:20170927T175855
+LOCATION:ROBLEG137
 DESCRIPTION:This graduate seminar introduces you to advanced methodologies in two key areas of theatre and performance studies research: historiography and ethnography. The course is divided into two sections. The first concentrates on questions of historiography and the archive as they relate to studies of theater, dance, and performance. We will think about how events have been historicized, how absence has been represented, and how bodies are re-figured and remembered, and we will investigate important principles and best practices of performance documentation and historiography. The second part of the course explores the relationship between performance and ethnography. We will discuss different critical perspectives on ethnographic methods and data gathering, including participant-observation fieldwork and interview techniques. This course purposefully blends theory and practice, connecting philosophical discussions to concrete case studies, field trips, and your own research practices. In this spirit, you will also be encouraged to conduct research and present findings in different modes and media.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS311 SEM
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T124006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170927T093000
+CREATED:20170927T175855
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

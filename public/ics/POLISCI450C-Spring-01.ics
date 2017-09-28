@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T152000
-LAST-MODIFIED:20170211T124001
-UID:explore_coursesec019605-6571-4699-aa80-9c748f95dd68
-DTSTAMP:20170211T124001
-LOCATION:Encina West 400
+DTEND;TZID=America/Los_Angeles:20180402T152000
+LAST-MODIFIED:20170927T175846
+UID:explore_coursesa1af27e0-6be1-4f99-86b4-b52f61a98fa5
+DTSTAMP:20170927T175846
+LOCATION:
 DESCRIPTION:Provides a survey of statistical tools for model-based inference in political science.  Topics include generalized linear models for various data types and their extensions, such as discrete choice models, survival outcome models, mixed effects and multilevel models.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI450C LEC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T152000
-LAST-MODIFIED:20170211T124001
-UID:explore_coursesa0a35a35-30f5-4264-89ae-64453ba09245
-DTSTAMP:20170211T124001
-LOCATION:ENCINA WEST ANES CONFERENCE RO
-DESCRIPTION:Provides a survey of statistical tools for model-based inference in political science.  Topics include generalized linear models for various data types and their extensions, such as discrete choice models, survival outcome models, mixed effects and multilevel models.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:POLISCI450C LEC
-DTSTART;TZID=America/Los_Angeles:20170405T133000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T123957
-UID:explore_courses8139b26b-a7c6-4afa-9604-56177e0ad224
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T175840
+UID:explore_coursese9058ce5-55c1-4ded-b090-a04514d8b974
+DTSTAMP:20170927T175840
 LOCATION:Braun105
 DESCRIPTION:Preference to majors. Continuation of chromatic harmony and complex forms of late Romantic period. Students must concurrently enroll in an Ear-training and musicianship lab (MUSIC 24a, 24b, or 24c as appropriate). Music majors must take 4 courses in ear training, and pass an ear training exit exam in their Junior year. Prerequisites: (1) MUSIC 22; (2) Piano Proficiency Exam or MUSIC 12C (may be taken concurrently).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC23 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175840
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

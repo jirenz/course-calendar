@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170627T152000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses2c1c1145-b5f2-4a4c-b65f-90709ac104d0
-DTSTAMP:20170211T124013
-LOCATION:Shriram Ctr BioChemE 368
+DTEND;TZID=America/Los_Angeles:20180626T152000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses3045515c-db61-4fcb-accc-346fef3c5982
+DTSTAMP:20170927T175952
+LOCATION:Y2E2 105
 DESCRIPTION:Examination of the basic principles of surface and ground water resources management in the context of increasing water scarcity and uncertainty due to climate change and other factors. Specific topics include reservoir, river basin and aquifer management, conjunctive use of surface andn ground water, and treated wastewater reuse. Special emphasis is placed on demand management through conservation, increased water  use efficiency and economic measures. Besides the technical aspects of water management, an overview of its legal and institutional framework is provided.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE165C LEC
-DTSTART;TZID=America/Los_Angeles:20170627T133000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180626T133000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

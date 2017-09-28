@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T122000
-LAST-MODIFIED:20170211T124005
-UID:explore_courses14dd3df6-f4c0-4fe5-a11a-9e4bc040437b
-DTSTAMP:20170211T124005
-LOCATION:Lathrop 298
-DESCRIPTION:Focus is on readings of Sanskrit passages and Sanskrit epics Ramayana or Mahabharata. Discussions will include English translations of Sanskrit poems.  Knowledge of Sanskrit grammar require. May be repeat for credit.
+DTEND;TZID=America/Los_Angeles:20180402T122000
+LAST-MODIFIED:20170927T175852
+UID:explore_coursesca241c4e-6087-4b25-ab89-78d21d22ac14
+DTSTAMP:20170927T175852
+LOCATION:200-219
+DESCRIPTION:Focus of this class is the practice of reading Sanskrit. Different texts are read each term, selected largely to fit the needs and interests of the students. Knowledge of Sanskrit grammar required. Repeatable for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPECLANG107 LNG
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T124005
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20170927T175852
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

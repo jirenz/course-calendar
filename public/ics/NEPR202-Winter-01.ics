@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170130T161500
-LAST-MODIFIED:20170211T124044
-UID:explore_coursesa8105f75-f290-4e4c-9ed4-51bf31a88a9f
-DTSTAMP:20170211T124044
-LOCATION:Alway Building, Room M208
+DTEND;TZID=America/Los_Angeles:20180108T161500
+LAST-MODIFIED:20170927T175933
+UID:explore_coursese45dc995-20fd-4004-837e-65554e959a23
+DTSTAMP:20170927T175933
+LOCATION:Alway Building, Room M214
 DESCRIPTION:For first-year Neurosciences graduate students; open to other graduate students as space permits with preference given to Neuroscience students. Introductory course covers all aspects of nervous system development, from cell fate determination, axon guidance, synapse development and critical periods to neurodevelopmental diseases. The goal is to understand what kinds of questions are asked in developmental neurobiology and how researchers use different tools and model systems to answer these questions. Overview of neural development, experimental approaches, and model organisms; signaling pathways regulating neural development; neural stem cell and neurogenesis during embryonic and adult life
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NEPR202 WKS
-DTSTART;TZID=America/Los_Angeles:20170130T140000
-CREATED:20170211T124044
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170217T161500;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T140000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T161500;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

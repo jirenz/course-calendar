@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T132000
-LAST-MODIFIED:20170211T123958
-UID:explore_courses593ec187-00d8-483d-8d2e-d013d23c633f
-DTSTAMP:20170211T123958
-LOCATION:540-108
+DTEND;TZID=America/Los_Angeles:20180402T102000
+LAST-MODIFIED:20170927T175843
+UID:explore_coursesbb02859d-13d6-42df-a6a0-ffff2550d4e2
+DTSTAMP:20170927T175843
+LOCATION:School of Education 334
 DESCRIPTION:Approaches to effective computation: recursive functions, register machines, and Turing machines. Proof of their equivalence, discussion of Church's thesis. Elementary recursion theory. These techniques used to prove G&ouml;del's incompleteness theorem for arithmetic, whose technical and philosophical repercussions are surveyed. Prerequisite: 151.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL252 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T120000
-CREATED:20170211T123958
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180402T083000
+CREATED:20170927T175843
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T162000
-LAST-MODIFIED:20170211T124006
-UID:explore_coursesb89190bf-aa0e-473f-aeae-1eecbe88afc7
-DTSTAMP:20170211T124006
+DTEND;TZID=America/Los_Angeles:20180110T162000
+LAST-MODIFIED:20170927T175855
+UID:explore_courses1a3f3f6b-7c2e-46fe-8bcd-79eade77ba56
+DTSTAMP:20170927T175855
 LOCATION:ROBLEG136
-DESCRIPTION:An introductory workshop class that explores a range of theatre exercises and techniques in order to create, perform, and compose theatre. Students will work with original texts such as Beckett, Pinter, Churchill as well as creating their own performance texts and scores to make original, devised performance. Students will be encouraged to think critically about various compositional themes and ideas including the relationship between form and content, aesthetics, proximity, audience, space. Students will work collaboratively learning how to problem solve and deal with creative challenges as they create original performance works. Students will work towards creating a short original performance piece.
+DESCRIPTION:A creative workshop offering a range of generative exercises and techniques in order to devise, compose and perform original works. Students will explore a variety of texts (plays, poems, short stories, paintings) and work with the body, object and site. nnStudents will be encouraged to think critically about various compositional themes and ideas including: the relationship between form and content, aesthetics, space, proximity, and audience. Students will work independently and collaboratively creating original performances.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS101P PRA
-DTSTART;TZID=America/Los_Angeles:20170111T133000
-CREATED:20170211T124006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T133000
+CREATED:20170927T175855
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

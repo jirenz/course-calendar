@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T182000
-LAST-MODIFIED:20170211T124036
-UID:explore_courses5fdde8ad-a81f-4385-aee7-a45d92c30ae9
-DTSTAMP:20170211T124036
-LOCATION:MSOBX303
+DTEND;TZID=America/Los_Angeles:20170927T182000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses9b23bce9-78a3-4de0-9d03-5396a81fac02
+DTSTAMP:20170927T175933
+LOCATION:Li Ka Shing Center, room 308
 DESCRIPTION:Provides foundational concepts and principles of epidemiology and other disciplines as they pertain specifically to research on the prevention of chronic disease. Focuses on application of this perspective in multiple disease and health behavior contexts to diverse communities across the life course. Provides foundational skills in epidemiology, including the measurement of disease and health behaviors, measures of association, and study design with close attention to minimizing error. Readings focus on the need and opportunity for interdisciplinary prevention and treatment approaches and illustrates how to conduct innovative research.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHPR225 LEC
-DTSTART;TZID=America/Los_Angeles:20160928T153000
-CREATED:20170211T124036
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T153000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

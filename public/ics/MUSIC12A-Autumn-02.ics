@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T192000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursesd86ed658-0f46-4700-a864-e4819f52437a
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20170928T192000
+LAST-MODIFIED:20170927T175840
+UID:explore_courses07a2f845-dfb8-43eb-b5ee-27bce9eab078
+DTSTAMP:20170927T175840
 LOCATION:Braun111
-DESCRIPTION:&quot;(A=level 1; B=level 2; C=level 3)There is a fee for this class. Please visit http://music.stanford.edu/Academics/LessonSignups.html for class fee and signup information.Class is closed by design. Please register on the waitlist and show up on the first day of class to receive a permission number for enrollment. Preference to department majors. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.
+DESCRIPTION:(A=level 1; B=level 2; C=level 3) There is a fee for this class. Please visit http://music.stanford.edu/Academics/LessonSignups.html for class fee and signup information. Class is closed by design. Please register on the waitlist and show up on the first day of class to receive a permission number for enrollment. Preference to department majors. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC12A PRA
-DTSTART;TZID=America/Los_Angeles:20160929T173000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T173000
+CREATED:20170927T175840
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

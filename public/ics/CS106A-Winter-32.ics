@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T102000
-LAST-MODIFIED:20170211T124017
-UID:explore_courses577a701b-aece-414b-ac74-571c01939960
-DTSTAMP:20170211T124017
-LOCATION:Thornt211
-DESCRIPTION:Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the Java programming language. Emphasis is on good programming style and the built-in facilities of the Java language. No prior programming experience required. Summer quarter enrollment is limited.
+DTEND;TZID=America/Los_Angeles:20180111T102000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses42a87da4-b965-4075-a574-6f36f72bac8e
+DTSTAMP:20170927T175958
+LOCATION:420-050
+DESCRIPTION:Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Emphasis is on good programming style and the built-in facilities of respective languages. No prior programming experience required. Summer quarter enrollment is limited.nnAlternative versions of CS106A are available which cover most of the same material but in different programming languages:nnJava (Fall, Win, Spr, or Sum qtr enroll in CS106A section 1) nJavascript (Fall qtr enroll in CS 106A Section 2)nPython (Winter or Spring qtr enroll in CS 106A Section 3)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106A DIS
-DTSTART;TZID=America/Los_Angeles:20170112T093000
-CREATED:20170211T124017
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T093000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

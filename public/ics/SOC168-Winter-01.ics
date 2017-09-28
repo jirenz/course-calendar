@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T132000
-LAST-MODIFIED:20170211T124004
-UID:explore_courses39f2d0c4-e49f-43a0-bc6d-b947a26d10b8
-DTSTAMP:20170211T124004
-LOCATION:380-380Y
-DESCRIPTION:We derive analytical tools from the social sciences in studying a variety of organizations given their strategies, and in particular, when their strategies change. Focus is on how to design effective organizations and projects within and across institutional settings. This course includes a study trip to China during Spring Break. Theme of the study trip: the organizational design of the Chinese financial regulatory system. Recommended: FINANCE 377, MS&amp;E 180, SOC 160, ECON 149, or MGTECON 330.
+DTEND;TZID=America/Los_Angeles:20180108T132000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursescd5866bb-bb7c-46d5-99aa-a56b4520a31e
+DTSTAMP:20170927T175851
+LOCATION:200-201
+DESCRIPTION:We derive analytical tools from the social sciences in studying a variety of organizations given their strategies, and in particular, when their strategies change. Focus is on how to design effective organizations and projects within and across institutional settings. Recommended: FINANCE 377, MS&amp;E 180, SOC 160, ECON 149, or MGTECON 330.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC168 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T113000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

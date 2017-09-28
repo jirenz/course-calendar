@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170211T124021
-UID:explore_courses104662ad-bd69-4bad-ad76-15297f860f13
-DTSTAMP:20170211T124021
-LOCATION:420-147
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20170927T180002
+UID:explore_courses8cb308b7-55a6-4f6e-b9fe-f789b85063c5
+DTSTAMP:20170927T180002
+LOCATION:
 DESCRIPTION:Students work on projects to analyze and design various aspects of healthcare including hospital patient flow, physician networks, clinical outcomes, reimbursement incentives, and community health. Students work in small teams under the supervision of the course instructor and partners at the Lucille Packard Children's Hospital, the Stanford Hospital, and other regional healthcare providers. Prerequisite: 263.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E463 WKS
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

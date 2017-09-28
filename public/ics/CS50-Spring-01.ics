@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T132000
-LAST-MODIFIED:20170211T124017
-UID:explore_courses161063d0-05af-4dc5-9893-15a6cae57b85
-DTSTAMP:20170211T124017
-LOCATION:
-DESCRIPTION:Students in the class will work in small teams to implement high-impact projects for partner organizations. Taught by the CS+Social Good team, the aim of the class is to empower you to leverage technology for social good by inspiring action, facilitating collaboration, and forging pathways towards global change. Recommended: CS 106B, CS 42 or 142. Class is open to students of all years.
+DTEND;TZID=America/Los_Angeles:20180402T132000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses77d1b0f9-2f9c-4f3d-bce4-6648d0541175
+DTSTAMP:20170927T175958
+LOCATION:Gates B12
+DESCRIPTION:Students in the class will work in small teams to implement high-impact projects for partner organizations. Taught by the CS+Social Good team, the aim of the class is to empower you to leverage technology for social good by inspiring action, facilitating collaboration, and forging pathways towards global change. Recommended: CS 106B, CS 42 or 142. Class is open to students of all years. May be repeated for credit. Cardinal Course certified by the Haas Center.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS50 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T123000
-CREATED:20170211T124017
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T123000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

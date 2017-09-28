@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160919T170000
-LAST-MODIFIED:20170211T124051
-UID:explore_coursesf94c43e9-dcf0-46e0-b85b-924f2b31fdec
-DTSTAMP:20170211T124051
+DTEND;TZID=America/Los_Angeles:20170918T170000
+LAST-MODIFIED:20170927T175927
+UID:explore_courses789339ea-895c-4441-9a4b-ace597456dd7
+DTSTAMP:20170927T175927
 LOCATION:Lorry I LokeyStemCellRschG1161
 DESCRIPTION:Open to first year Stem Cell Biology and Regenerative Medicine graduate students or consent of Instructor. Hands-on, five-day immersion to learn basic methods of tissue culture, mouse embryo fibroblast (MEF) preparation, embryonic stem and induced pluripotent stem (ES/iPS) cell culture, differentiation, DNA isolation, polymerase chain reaction (PCR), sequencing, and basic microscopy.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STEMREM200 LAB
-DTSTART;TZID=America/Los_Angeles:20160919T090000
-CREATED:20170211T124051
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160923T170000;BYDAY=MO,TU,WE,TH,FR
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160919T170000
-LAST-MODIFIED:20170211T124051
-UID:explore_courseseee75938-ad0b-4565-aebc-f207f4db10c9
-DTSTAMP:20170211T124051
-LOCATION:Lorry I LokeyStemCellRschG1165
-DESCRIPTION:Open to first year Stem Cell Biology and Regenerative Medicine graduate students or consent of Instructor. Hands-on, five-day immersion to learn basic methods of tissue culture, mouse embryo fibroblast (MEF) preparation, embryonic stem and induced pluripotent stem (ES/iPS) cell culture, differentiation, DNA isolation, polymerase chain reaction (PCR), sequencing, and basic microscopy.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:STEMREM200 LAB
-DTSTART;TZID=America/Los_Angeles:20160919T090000
-CREATED:20170211T124051
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160923T170000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20170918T090000
+CREATED:20170927T175927
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170922T170000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

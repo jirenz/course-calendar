@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T162000
-LAST-MODIFIED:20170211T124023
-UID:explore_courses264cea90-649a-4676-9723-ad7e39a0b0f0
-DTSTAMP:20170211T124023
-LOCATION:550-STUDIO 1
+DTEND;TZID=America/Los_Angeles:20180112T162000
+LAST-MODIFIED:20170927T180006
+UID:explore_coursese1ecbf97-b878-4af9-b053-5465d26db26f
+DTSTAMP:20170927T180006
+LOCATION:320-107
 DESCRIPTION:Technologies from the steam engine to the microprocessor have been mixed gifts, at once benefitting humankind and creating many of the problems facing humanity today. This class will explore how innovators can use forecasting methods to identify new challenges, develop responsive innovations and anticipate unintended consequences. Students will produce a long-range forecast project, applying a variety of methodologies including research, expert interviews and graphical exploration.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME297 LEC
-DTSTART;TZID=America/Los_Angeles:20170113T133000
-CREATED:20170211T124023
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T133000
+CREATED:20170927T180006
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T115000
-LAST-MODIFIED:20170211T123957
-UID:explore_courses3ecedd80-5a8c-4772-8e94-a8f28c038abc
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180108T115000
+LAST-MODIFIED:20170927T175841
+UID:explore_coursesdf9a14c9-8931-4798-b161-8c5162658cd5
+DTSTAMP:20170927T175841
 LOCATION:Knoll217
 DESCRIPTION:Topics: noise reduction techniques; dynamics and time-delay audio effects; the principles of digital audio; disk- and tape-based digital recorders; digital audio workstations and editing; advanced multitrack techniques; SMPTE and MIDI time code and device synchronization; MIDI sequencing and synchronization. See http://ccrma.stanford.edu/courses/. Prerequisite: 192A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC192B LEC
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

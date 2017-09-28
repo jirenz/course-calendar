@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T131000
-LAST-MODIFIED:20170211T124028
-UID:explore_coursesae1afc47-8715-4b74-8b70-b7ff474fc208
-DTSTAMP:20170211T124028
-LOCATION:Law85
+DTEND;TZID=America/Los_Angeles:20180110T181500
+LAST-MODIFIED:20170927T175752
+UID:explore_courses56fa465c-ae41-4cf3-b49a-1d1b77504eb8
+DTSTAMP:20170927T175752
+LOCATION:
 DESCRIPTION:This course is part of the required first-year JD curriculum.  It is an introductory course in the litigation process. Students represent the plaintiff or defendant in a simulated public interest case set in a federal district court that raises complex issues of federal civil procedure, privacy, and first amendment law. Students plan litigation strategy, draft pleadings, conduct discovery, write short briefs, and orally argue major motions for dismissal, class action certification, and preliminary injunctive relief. While developing students' written and oral advocacy skills, the course also focuses on substantive issues of civil procedure and constitutional law.  Attendance, class participation and written assignments.  This course is open to first-year Law School students only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW224A LEC
-DTSTART;TZID=America/Los_Angeles:20170113T111000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T131000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180110T161500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T181500;BYDAY=WE
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T181500
-LAST-MODIFIED:20170211T124028
-UID:explore_coursesce8831a2-5860-4cbb-854a-c326962dd1b2
-DTSTAMP:20170211T124028
-LOCATION:Law85
+DTEND;TZID=America/Los_Angeles:20180112T131000
+LAST-MODIFIED:20170927T175752
+UID:explore_coursesfe832fac-8981-4ba1-8b91-aea9025c7a89
+DTSTAMP:20170927T175752
+LOCATION:
 DESCRIPTION:This course is part of the required first-year JD curriculum.  It is an introductory course in the litigation process. Students represent the plaintiff or defendant in a simulated public interest case set in a federal district court that raises complex issues of federal civil procedure, privacy, and first amendment law. Students plan litigation strategy, draft pleadings, conduct discovery, write short briefs, and orally argue major motions for dismissal, class action certification, and preliminary injunctive relief. While developing students' written and oral advocacy skills, the course also focuses on substantive issues of civil procedure and constitutional law.  Attendance, class participation and written assignments.  This course is open to first-year Law School students only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW224A LEC
-DTSTART;TZID=America/Los_Angeles:20170111T161500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T181500;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180112T111000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T131000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

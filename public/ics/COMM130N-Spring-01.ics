@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170211T123942
-UID:explore_coursesc31b1a96-ce92-43c2-aa8d-7901b95865d8
-DTSTAMP:20170211T123942
-LOCATION:120-314
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20170927T175810
+UID:explore_courses1b1a08f5-59e1-4ba6-8ffa-be1cb1dfb22e
+DTSTAMP:20170927T175810
+LOCATION:420-245
 DESCRIPTION:Preference to freshmen. An examination of the meaning of freedom of the press, tied to but not bound by various Supreme Court rulings on the scope and purpose of the First Amendment's speech and press clauses. Discussions will include a look at the recent and rapid computerization of communication and what it portends for the future of a free press.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMM130N ISF
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T123942
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T175810
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

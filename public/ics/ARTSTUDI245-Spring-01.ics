@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T152000
-LAST-MODIFIED:20170211T123938
-UID:explore_courses72728f5b-fe85-4557-a010-d6fac871d75b
-DTSTAMP:20170211T123938
-LOCATION:McMurtry Building rm 305
+DTEND;TZID=America/Los_Angeles:20180402T122000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses02a3a904-a109-4a58-9415-888e269f4adb
+DTSTAMP:20170927T175933
+LOCATION:McMurtry Building rm 307
 DESCRIPTION:Symbolic, narrative, and representational self-portraits. Introduction to the pictorial strategies, painting methods, and psychological imperatives of D&uuml;rer, Rembrandt, C&eacute;zanne, Kahlo, Beckmann, Schiele, and Munch. Students paint from life, memory, reproductions, and objects of personal significance to create a world in which they describe themselves. May be repeated for credit. Prerequisites: 140, 145, or consent of instructor. (upper level)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTSTUDI245 PRC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T123938
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

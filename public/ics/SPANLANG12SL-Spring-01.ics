@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20170211T124004
-UID:explore_courses2d00b615-1fb7-4a07-b771-6da31ce9eaef
-DTSTAMP:20170211T124004
-LOCATION:Thornt211
+DTEND;TZID=America/Los_Angeles:20180403T152000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesfcb857fa-07ae-4dd5-b9ad-b3f100aaad98
+DTSTAMP:20170927T175851
+LOCATION:Encina West 108
 DESCRIPTION:Continuation of SPANLANG 11. Identity and community. Sequence integrating community engagd learning, culture and language with emphasis on developing advanced proficiency in oral and written discourse. Targeted functional abilities include presentational and socioculturally appropriate language in formal and informal, community and academic contexts. SL content focuses on artistic projects with Spanish-speaking youth organizations in the local community. May require additional hours off campus immediately before and after class, in addition to regular class time. Projects may vary from quarter to quarter (e.g., mural art, environmental projects, poetry, etc.) but focus on themes surrounding community and youth identity. Cardinal Course (certified by Haas Center). Prerequisite: Placement Test, SPANLANG 11C, 11R, or 11SL.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPANLANG12SL LNG
-DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

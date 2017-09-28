@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20170211T124004
-UID:explore_coursesfa70102a-4242-4d6e-a9ac-49ccdd9a4c4f
-DTSTAMP:20170211T124004
+DTEND;TZID=America/Los_Angeles:20170928T162000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesc2690703-dadc-4fb1-8859-9a0384ea0e8b
+DTSTAMP:20170927T175851
 LOCATION:120-215
-DESCRIPTION:Current theories and research, recent publications, and presentations of ongoing research by faculty and students. May be repeated for credit. Prerequisite: consent of instructor.
+DESCRIPTION:Current theories and research, recent publications, and presentations of ongoing research by faculty and students. May be repeated for credit. Prerequisite: Sociology doctoral student or consent of instructor
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC350W WKS
-DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170928T150000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

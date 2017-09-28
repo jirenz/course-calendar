@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T191500
-LAST-MODIFIED:20170211T124028
-UID:explore_courses8ddef926-11b2-4056-9cc9-a409dbae4454
-DTSTAMP:20170211T124028
+DTEND;TZID=America/Los_Angeles:20180403T191500
+LAST-MODIFIED:20170927T175752
+UID:explore_courses865d4a0e-a3de-464a-804b-e5c02aa5bff3
+DTSTAMP:20170927T175752
 LOCATION:
-DESCRIPTION:(Formerly Law 753)  This course covers the fundamentals of the law and practice of licensing of patents and technology.  Licensing is the principal means by which rights in patents and technology are shared, exploited and monetized.  It is fundamental to business models throughout the technology industry and beyond, including in software, mobile, consumer devices, semiconductors and pharmaceuticals.  We cover (1) the business drivers and models for licensing patents and technology, (2) the core concepts and current trends of licensing law (both Federal Circuit and Supreme Court), and (3) key issues in structuring, drafting and negotiating patent and technology licenses.  We will emphasize the practical aspects of licensing patents and technology, and licensing in its broader context in relation to corporate, litigation, intellectual property and antitrust practices.  Elements used in grading:  Class Participation, Final Exam.
+DESCRIPTION:(Formerly Law 753)  If you practice in any technology-related area (whether transactions, corporate, or litigation), you will encounter licensing, as it is the principal means by which technology and patent rights are disseminated, exploited and commercialized. It is fundamental to Silicon Valley and beyond, including in software, mobile, consumer devices, autonomous cars, semiconductors and pharmaceuticals.  This is a practice-oriented course covering the fundamentals of licensing technology and patents, including business considerations, drafting, negotiations and strategic considerations. We will also consider the role of licensing in mergers and acquisitions, litigation and antitrust contexts. The course is structured based on a real-world hypothetical involving  entrepreneurs who spin out university-developed inventions into startup companies and then seek to commercialize the technology and patents to leading companies in a specified technology industry (such as smartphones, autonomous cars, &quot;internet of things&quot; or the like).  We will also have a guest lecturer from a major technology company with significant licensing dimensions (which in the past have included Google, Waymo, and Qualcomm).  Elements used in grading: Class Participation, Final Exam.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW4011 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T161500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170526T191500;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T161500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180601T191500;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

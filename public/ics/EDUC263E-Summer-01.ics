@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170627T175000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursesed17d22e-cfc0-439c-a755-9bfc31a6af43
-DTSTAMP:20170211T123931
-LOCATION:Ceras 204
+DTEND;TZID=America/Los_Angeles:20180626T175000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses05769c79-9179-4507-928d-4fb75c8cf521
+DTSTAMP:20170927T175938
+LOCATION:
 DESCRIPTION:First of a three-course sequence in mathematics for STEP elementary teacher candidates. Content, pedagogy, and context. Mathematics subject matter; the orchestration of teaching and learning of elementary mathematics including curriculum, classroom and lesson design, and cases studies. Sociocultural and linguistic diversity, equity, differentiation of instruction, the impact of state and national standards, and home/community connections.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC263E SEM
-DTSTART;TZID=America/Los_Angeles:20170627T150000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170727T175000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180626T150000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

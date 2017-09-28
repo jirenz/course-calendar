@@ -22,17 +22,45 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20170211T124038
-UID:explore_courses26877b18-c094-4164-a964-44a1824ecc46
-DTSTAMP:20170211T124038
-LOCATION:Li Ka Shing Center, room 306
-DESCRIPTION:The principles of measurement, measures of effect, confounding, effect modification, and strategies for minimizing bias in clinical and epidemiologic studies. Students enrolled for 4 units complete an additional assignment or paper. Prerequisite: 225 or consent of instructor.
+DTEND;TZID=America/Los_Angeles:20180122T145000
+LAST-MODIFIED:20170927T175904
+UID:explore_courses78afb801-648d-49b0-ba7d-84f5afb3f715
+DTSTAMP:20170927T175904
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:The principles of study design, measurement, confounding, effect modification, and strategies for minimizing bias in clinical and epidemiologic studies. Prerequisite: 225 or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP226 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T124038
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180122T133000
+CREATED:20170927T175904
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180122T145000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180226T145000
+LAST-MODIFIED:20170927T175904
+UID:explore_courses4588802c-5bc4-47e7-8cf0-04358ffe6503
+DTSTAMP:20170927T175904
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:The principles of study design, measurement, confounding, effect modification, and strategies for minimizing bias in clinical and epidemiologic studies. Prerequisite: 225 or consent of instructor.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HRP226 LEC
+DTSTART;TZID=America/Los_Angeles:20180226T133000
+CREATED:20170927T175904
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T145000
+LAST-MODIFIED:20170927T175904
+UID:explore_courses299ee71e-946e-4087-9b44-718a74e4cef5
+DTSTAMP:20170927T175904
+LOCATION:Alway Building, Room M106
+DESCRIPTION:The principles of study design, measurement, confounding, effect modification, and strategies for minimizing bias in clinical and epidemiologic studies. Prerequisite: 225 or consent of instructor.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HRP226 LEC
+DTSTART;TZID=America/Los_Angeles:20180110T133000
+CREATED:20170927T175904
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

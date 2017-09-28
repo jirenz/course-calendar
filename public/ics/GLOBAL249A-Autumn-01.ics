@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T175000
-LAST-MODIFIED:20170211T123949
-UID:explore_courses3ed601aa-933b-4112-a63a-9450facfe666
-DTSTAMP:20170211T123949
-LOCATION:200-030
-DESCRIPTION:This course will focus on the analysis of ten Iranian films with the view of conducting a discourse on the semiotics of Iranian art and culture. Each session will be designated to the viewing of a film by a prominent Iranian filmmaker. Students are expected to prepare for class by having previously examined other available films by the filmmaker under consideration.
+DTEND;TZID=America/Los_Angeles:20170929T182000
+LAST-MODIFIED:20170927T175825
+UID:explore_coursesfd5bc657-73d8-46cb-beb2-750296fd82a1
+DTSTAMP:20170927T175825
+LOCATION:School of Education 206
+DESCRIPTION:This course will focus on the analysis of ten Iranian films with the view of placing them in discourse on the semiotics of Iranian art and culture.  The course will also look at the influence of a wide array of cinematic traditions from European, American, and Asian masters on Iranian cinema. Note: This course must be taken for a minimum of 3 units and a letter grade to be eligible for Ways credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GLOBAL249A SEM
-DTSTART;TZID=America/Los_Angeles:20160930T150000
-CREATED:20170211T123949
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170929T153000
+CREATED:20170927T175825
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

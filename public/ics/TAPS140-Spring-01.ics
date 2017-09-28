@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T124006
-UID:explore_courses8d027be6-42b0-475a-9530-f5572c628e59
-DTSTAMP:20170211T124006
-LOCATION:Memaud126
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T175855
+UID:explore_coursesfb4e64a5-f525-41df-854e-1e238234e4be
+DTSTAMP:20170927T175855
+LOCATION:Memaud125
 DESCRIPTION:A seminar course for students performing significant production work on Theater and Performance Studies Department or other Stanford University student theater projects. Students serving as producers, directors, designers or stage managers, who wish mentorship and credit for their production work sign up for this course and contact the instructor, Laxmi Kumaran. nPrerequisite: consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS140 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T124006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175855
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

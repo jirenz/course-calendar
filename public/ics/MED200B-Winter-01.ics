@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T122000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses0e29024c-fd05-4316-ad21-f9b3d5d92635
-DTSTAMP:20170211T124041
-LOCATION:Li Ka Shing Center, rms205/206
+DTEND;TZID=America/Los_Angeles:20180110T122000
+LAST-MODIFIED:20170927T175908
+UID:explore_coursesfe9275e5-a3dd-4b6b-b6dc-2d7316bcd709
+DTSTAMP:20170927T175908
+LOCATION:Li Ka Shing Center, room 308
 DESCRIPTION:(Same as PEDS 202B) Second quarter of a two-quarter course provides hands-on experience summarizing qualitative data and describing findings for dissemination. Final course product will be a draft manuscript for submission with students listed as co-authors. Core topics include: identifying themes and representative quotes, community-engaged dissemination, abstract submission, posters, oral presentations, manuscript writing, and journal selection. Prerequisite: Successful completion of MED 202A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED200B PRC
-DTSTART;TZID=America/Los_Angeles:20170111T093000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T083000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

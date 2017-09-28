@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20170211T124039
-UID:explore_courses72157b61-542b-4a3b-be5a-00398884f6c7
-DTSTAMP:20170211T124039
-LOCATION:Li Ka Shing Center, room 130
+DTEND;TZID=America/Los_Angeles:20180108T122000
+LAST-MODIFIED:20170927T175906
+UID:explore_courses9d2f1729-df8d-430a-a83f-4e347531e6d6
+DTSTAMP:20170927T175906
+LOCATION:
 DESCRIPTION:Concepts and application of adaptive and innate immunology and the role of the immune system in human diseases. Case presentations of diseases including autoimmune diseases, infectious disease and vaccination, hematopoietic and solid organ transplantation, genetic and acquired immunodeficiencies, hypersensitivity reactions, and allergic diseases. Problem sets based on lectures and current clinical literature. Laboratory in acute and chronic inflammation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:IMMUNOL205 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20170211T124039
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,TU,TH,FR
+DTSTART;TZID=America/Los_Angeles:20180108T113000
+CREATED:20170927T175906
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,TU,TH,FR
 END:VEVENT
 END:VCALENDAR

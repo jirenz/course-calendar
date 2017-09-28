@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T145000
-LAST-MODIFIED:20170211T123936
-UID:explore_coursesd92e6ba5-c665-4ce2-af64-479c39b4a722
-DTSTAMP:20170211T123936
+DTEND;TZID=America/Los_Angeles:20180111T162000
+LAST-MODIFIED:20170927T175757
+UID:explore_courses51b33ce6-a4dc-4aa4-a906-6ade4c4ca08a
+DTSTAMP:20170927T175757
 LOCATION:500-101
 DESCRIPTION:As regularly noted, whether historic or pre-historic, animal bones are often the most commonly occurring artefacts on archaeological sites. As bioarchaeological samples, they offer the archaeologist an insight into food culture, provisioning, trade and the social aspects of human-animal interactions. The course will be taught through both practical and lecture sessions: the `hands-on&iquest; component is an essential complement to the lectures. The lectures will offer grounding in the main methodological approaches developed, as well as provide case-studies to illustrate where and how the methods have been applied. The practical session will walk students through the skeletal anatomy of a range of species. It will guide students on the identification of different parts of the animal, how to age / sex individuals, as well as recognize taphonomic indicators and what these mean to reconstructing post-depositional modifications.
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:ANTHRO219 LEC
-DTSTART;TZID=America/Los_Angeles:20170112T120000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TH
+SUMMARY:ANTHRO219 LAB
+DTSTART;TZID=America/Los_Angeles:20180111T133000
+CREATED:20170927T175757
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

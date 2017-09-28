@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170211T124038
-UID:explore_courses8cc2a37d-8a14-4c7d-98b1-b69088c509ca
-DTSTAMP:20170211T124038
-LOCATION:Li Ka Shing Center,rms101/102
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20170927T175904
+UID:explore_courses0fd86818-ddca-4ff6-a4b2-61c4c65d11f5
+DTSTAMP:20170927T175904
+LOCATION:Li Ka Shing Center, room 208
 DESCRIPTION:Topics include: advanced aspects of study design and data analyses; evaluating confounding and interaction; modeling continuous characteristics of exposure; building prediction models; methods of summarizing literature and quantifying effect sizes (meta-analysis); handling missing data; and propensity score methods. 3 units requires a data analysis project.  Prerequisites:  258 or 261, or consent of instructor
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP216 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T124038
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T150000
+CREATED:20170927T175904
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

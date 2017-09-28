@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160912T153000
-LAST-MODIFIED:20170211T124028
-UID:explore_courses4701fd22-f84d-4b4a-a5e5-ca6b47143f11
-DTSTAMP:20170211T124028
-LOCATION:Law185
+DTEND;TZID=America/Los_Angeles:20170911T153000
+LAST-MODIFIED:20170927T175752
+UID:explore_courses0d97c01b-a0fc-4bde-b563-6cef4b12684b
+DTSTAMP:20170927T175752
+LOCATION:Law95
 DESCRIPTION:This course is part of the required first-year JD curriculum.  It considers issues involved in determining whether the law should require a person to compensate for harm intentionally or unintentionally caused. These problems arise in situations as diverse as automobile collisions, operations of nuclear facilities, and consumption of defective food products. Among other considerations, the course explores various resolutions in terms of their social, economic, and political implications.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW223 LEC
-DTSTART;TZID=America/Los_Angeles:20160912T141500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T153000;BYDAY=MO,TU,TH
+DTSTART;TZID=America/Los_Angeles:20170911T141500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T153000;BYDAY=MO,TU,TH
 END:VEVENT
 END:VCALENDAR

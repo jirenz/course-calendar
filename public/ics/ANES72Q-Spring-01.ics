@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T152000
-LAST-MODIFIED:20170211T124033
-UID:explore_coursesb4a1cc25-c282-43ef-a609-77ffb2a3aa8a
-DTSTAMP:20170211T124033
+DTEND;TZID=America/Los_Angeles:20180404T152000
+LAST-MODIFIED:20170927T175933
+UID:explore_coursescc79d4aa-130b-49f4-a1fb-d2706ad1c75b
+DTSTAMP:20170927T175933
 LOCATION:
 DESCRIPTION:The Art of Medical Diagnosis: Enhancing Observational Skills through the Study of Art is an interactive, multidisciplinary undergraduate course that explores various ways in which studying art increases critical observational skills vital for aspiring health care providers.  Students will be introduced to the concept of `Visual Thinking Strategies&iquest; through classroom, art creation, and museum based activities.  Students will apply these skills to both works of art and medical cases.  Significant focus will be on engaging in group discussions where they will collaboratively use visual evidence to generate and defend hypothesis.  Drawing and sketching from life will play a critical role in honing observational skills through weekly assignments, workshops, and a final project.  The interactive nature of this course pivots students away from a typical lecture based course to a self-directed learning experience.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANES72Q ISS
-DTSTART;TZID=America/Los_Angeles:20170405T123000
-CREATED:20170211T124033
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T123000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

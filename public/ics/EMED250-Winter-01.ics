@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T153000
-LAST-MODIFIED:20170211T124037
-UID:explore_courses76fff8dc-0609-41a9-9569-3f77f9007906
-DTSTAMP:20170211T124037
+DTEND;TZID=America/Los_Angeles:20180110T153000
+LAST-MODIFIED:20170927T175902
+UID:explore_courses0416045a-e2e2-4868-976a-d8020da92120
+DTSTAMP:20170927T175902
 LOCATION:
 DESCRIPTION:Focus is on transmission of high yield knowledge on how to approach an undifferentiated patient with initial assessment, diagnosis and treatment plan. Learning centers on participating in small group high fidelity simulation, with a focus on bedside ultrasound and procedural skills. Curriculum focuses on 50 common diagnoses seen in the acute care setting with emphasis on critical care and resuscitation. Prior clinical knowledge is not required, and early career medical student enrollment is encouraged. Provides knowledge and practical skill that is applicable to multiple fields and patient types in medicine.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EMED250 WKS
-DTSTART;TZID=America/Los_Angeles:20170111T123000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T153000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T123000
+CREATED:20170927T175902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T153000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

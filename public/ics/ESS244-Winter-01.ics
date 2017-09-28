@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T102000
-LAST-MODIFIED:20170211T124031
-UID:explore_courses4ecf92b4-ad07-4c4d-b86a-757ed4f64dcf
-DTSTAMP:20170211T124031
-LOCATION:Y2E2 101
+DTEND;TZID=America/Los_Angeles:20180108T102000
+LAST-MODIFIED:20170927T175943
+UID:explore_courses00df59e7-24b1-4e52-82eb-76b38dea5d1c
+DTSTAMP:20170927T175943
+LOCATION:Green Earth Sciences150
 DESCRIPTION:This course will provide the practical background necessary to construct and implement a 2-dimensional (space and time) numerical model of a simple marine ecosystem.  Instruction on computer programming, model design and parameterization, and model evaluation will be provided.  Throughout the 10-week course, each student will develop and refine their own multi-component marine ecosystem model.  Instructor consent required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS244 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T124031
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20170927T175943
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170211T123935
-UID:explore_courses40a28a65-5454-4ca9-91e9-3edad357dbee
-DTSTAMP:20170211T123935
-LOCATION:Green Earth Sciences150
+DTEND;TZID=America/Los_Angeles:20170925T122000
+LAST-MODIFIED:20170927T175757
+UID:explore_coursesc0e13f0c-673a-4749-86c1-eab848437f3e
+DTSTAMP:20170927T175757
+LOCATION:50-51A
 DESCRIPTION:This course provides a broad introduction to various ways of designing anthropological questions and associated methods for collecting evidence and supporting arguments. We review the inherent links between how a question is framed, the types of evidence that can address the question, and way that data are collected. Research activities such as interviewing, participant observation, quantitative observation, archival investigation, ecological survey, linguistic methodology, tracking extended cases, and demographic methods are reviewed. Various faculty and specialists will be brought in to discuss how they use different types of evidence and methods for supporting arguments in anthropology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO91 LAB
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T123935
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175757
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

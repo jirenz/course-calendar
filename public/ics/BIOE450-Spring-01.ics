@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T132000
-LAST-MODIFIED:20170211T124011
-UID:explore_courses4cd17666-1e47-4e03-99a7-c2c38d690f08
-DTSTAMP:20170211T124011
-LOCATION:260-113
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T175948
+UID:explore_courses408587ef-d1f6-43cc-b505-ac3a02e87568
+DTSTAMP:20170927T175948
+LOCATION:Y2E2 105
 DESCRIPTION:Overview of cutting edge advances in biotechnology with a focus on therapeutic and health-related topics. Academic and industrial speakers from fields including protein engineering, immuno-oncology, DNA sequencing, the microbiome, diagnostics, synthetic biology, and more. Biotechnology business topics such as entrepreneurship, venture capital, and intellectual property will also be covered. Course is designed for students interested in pursuing a career in the biotech industry.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE450 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T113000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

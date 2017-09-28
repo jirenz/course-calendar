@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20170211T124013
-UID:explore_coursesfbadbb99-f276-48c0-8175-2b1cb62c1b1b
-DTSTAMP:20170211T124013
-LOCATION:200-002
+DTEND;TZID=America/Los_Angeles:20180108T122000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses29e2aad3-a978-4d27-9388-1524721b5ad7
+DTSTAMP:20170927T175952
+LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Quantitative evaluation of technologies and techniques for reducing energy demand of residential-scale buildings. Heating and cooling load calculations, financial analysis, passive-solar design techniques, water heating systems, photovoltaic system sizing for net-zero-energy all-electric homes.  Offered for 3 or 4 units; the 4-unit option includes a lab.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE176A LEC
-DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T113000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

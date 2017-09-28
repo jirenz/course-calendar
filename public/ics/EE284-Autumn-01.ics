@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses84e35512-8fd5-419e-9318-93743c2e1d1d
-DTSTAMP:20170211T124020
-LOCATION:DINKG10
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursesc76e59e8-ece8-41a7-b882-28c40835abac
+DTSTAMP:20170927T180001
+LOCATION:540-108
 DESCRIPTION:Structure and components of computer networks; functions and services; packet switching; layered architectures; OSI reference model; physical layer; data link layer; error control; window flow control; media access control protocols used in local area networks (Ethernet, Token Ring, FDDI) and satellite networks; network layer (datagram service, virtual circuit service, routing, congestion control, Internet Protocol); transport layer (UDP, TCP); application layer.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE284 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses293403d5-f30b-4bfa-88ef-f9b5f16037d0
-DTSTAMP:20170211T124041
-LOCATION:MSOBX303
+DTEND;TZID=America/Los_Angeles:20180404T172000
+LAST-MODIFIED:20170927T175908
+UID:explore_courses7f9c01aa-e1bf-4c60-9e20-8b564677470a
+DTSTAMP:20170927T175908
+LOCATION:Li Ka Shing Center, room 209
 DESCRIPTION:Required for students participating in the Community Health in Oaxaca summer program. Introduction to the health literacy and health-seeking behaviors of Oaxacan and other Mexican migrants; the health challenges these groups face. Through discussion and reflection, students prepare for clinical work and community engagement in Oaxaca, while also gaining knowledge and insight to make connections between their experiences in Mexico and their health-related work with Mexican immigrants in the Bay Area. Service Learning Course (certified by Haas Center). Prerequisite: application and acceptance into the Community Health in Oaxaca Summer Program (http://och.stanford.edu/oaxaca.html).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED159 SEM
-DTSTART;TZID=America/Los_Angeles:20170403T153000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180404T153000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

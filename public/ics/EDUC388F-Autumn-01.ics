@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T162000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursesbad2124c-b762-46d7-8ee0-b70d4589333a
-DTSTAMP:20170211T123931
+DTEND;TZID=America/Los_Angeles:20170925T152000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursesdaa5c0b7-250b-4ec3-9409-0ddaa2789c51
+DTSTAMP:20170927T175938
 LOCATION:
 DESCRIPTION:This course will provide opportunities for pre-service teachers to begin to develop an understanding of language uses, forms, and mechanics through application of a functional approach to academic language. By exploring language structures (phonology, morphology, syntax, semantics) as well as lanauge-in-use (pragmatics and discourse), teacher candidates will be able to better recognize linguistic demands and challenges of students in the classroom.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC388F SEM
-DTSTART;TZID=America/Los_Angeles:20160929T133000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170925T123000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=MO
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T152000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses52b6c769-1ad8-4c0f-b750-92bda59ffc16
-DTSTAMP:20170211T123931
+DTEND;TZID=America/Los_Angeles:20170928T162000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses53db7eee-5c85-47d9-8679-45904bba8164
+DTSTAMP:20170927T175938
 LOCATION:
 DESCRIPTION:This course will provide opportunities for pre-service teachers to begin to develop an understanding of language uses, forms, and mechanics through application of a functional approach to academic language. By exploring language structures (phonology, morphology, syntax, semantics) as well as lanauge-in-use (pragmatics and discourse), teacher candidates will be able to better recognize linguistic demands and challenges of students in the classroom.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC388F SEM
-DTSTART;TZID=America/Los_Angeles:20160926T123000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170928T133000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

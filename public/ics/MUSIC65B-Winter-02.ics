@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T142000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursese80c6250-8a35-49bc-a1be-3ea09e4016be
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180110T142000
+LAST-MODIFIED:20170927T175840
+UID:explore_courses602c7364-fe32-48ec-9483-517a92757d2c
+DTSTAMP:20170927T175840
 LOCATION:Braun106
 DESCRIPTION:Group (7 students to a section) beginning voice for the non-major (A = level 1; B = level 2). May be repeated for credit. There is a fee for this class. Please visit http://music.stanford.edu/Academics/LessonSignups.html for class fees and signup information. This class is closed by design. Please register on the waitlist and show up on the first day of class to receive a permission number for enrollment. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC65B PRC
-DTSTART;TZID=America/Los_Angeles:20170111T133000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T133000
+CREATED:20170927T175840
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T142000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

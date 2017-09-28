@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T171500
-LAST-MODIFIED:20170211T123946
-UID:explore_coursesb41ed5f3-7cc9-4660-b2d7-4527daa45a7b
-DTSTAMP:20170211T123946
-LOCATION:GSB Class of 1968 108
+DTEND;TZID=America/Los_Angeles:20180110T182000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses1278cc61-16cb-4282-a8eb-c0e77633b06e
+DTSTAMP:20170927T175819
+LOCATION:300-300
 DESCRIPTION:This Ph.D. course will cover research topics at the boundary between macroeconomics and finance.  Topics will include the study of macroeconomic models with financial frictions,  the term structure of interest rates, conventional and unconventional monetary policy, sovereign debt crises, search frictions and segmentation in housing markets, (over)leveraging by households, heterogeneous expectations, excess volatility, financial bubbles and crises.  Student presentations and course paper requirement. Designed for second year PhD students in economics or finance.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON237 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T153000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T171500;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T114500
-LAST-MODIFIED:20170211T123946
-UID:explore_courses512c1607-b91c-46cf-baca-44dc1798b14c
-DTSTAMP:20170211T123946
-LOCATION:GSB Faculty East 233
-DESCRIPTION:This Ph.D. course will cover research topics at the boundary between macroeconomics and finance.  Topics will include the study of macroeconomic models with financial frictions,  the term structure of interest rates, conventional and unconventional monetary policy, sovereign debt crises, search frictions and segmentation in housing markets, (over)leveraging by households, heterogeneous expectations, excess volatility, financial bubbles and crises.  Student presentations and course paper requirement. Designed for second year PhD students in economics or finance.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:ECON237 LEC
-DTSTART;TZID=America/Los_Angeles:20170113T100000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T114500;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180110T153000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

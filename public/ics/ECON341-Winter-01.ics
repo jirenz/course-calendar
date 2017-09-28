@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T165000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses08ff280f-e904-44e7-bc24-703489ebd61c
-DTSTAMP:20170211T123946
+DTEND;TZID=America/Los_Angeles:20180109T165000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses44166c3e-79ad-4a93-822e-a15171519c3b
+DTSTAMP:20170927T175819
 LOCATION:Econ 351
 DESCRIPTION:Issues in measuring and evaluating the economic performance of government tax, expenditure, debt, and regulatory policies; their effects on levels and distribution of income, wealth, and environmental quality; alternative policies and methods of evaluation. Workshop format combines student research, faculty presentations, and guest speakers. Prerequisite: ECON 241 or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON341 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T165000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T165000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

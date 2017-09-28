@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T122000
-LAST-MODIFIED:20170211T123946
-UID:explore_coursesecb5f7dc-73ab-4afd-8a06-3fc31c2ce959
-DTSTAMP:20170211T123946
-LOCATION:Econ 106
-DESCRIPTION:Economic sources of environmental problems and alternative policies for dealing with them (technology standards, emissions taxes, and marketable pollution permits). Evaluation of policies addressing regional air pollution, global climate change, water allocation in the western U.S., and the use of renewable resources. Connections between population growth, economic output, environmental quality, and human welfare. Prerequisite: ECON 50. May be taken concurrently with consent of the instructor.
+DTEND;TZID=America/Los_Angeles:20180112T122000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses90424c02-edef-40b7-a8ab-f110efd16cfe
+DTSTAMP:20170927T175819
+LOCATION:240-110
+DESCRIPTION:Economic sources of environmental problems and alternative policies for dealing with them (technology standards, emissions taxes, and marketable pollution permits). Evaluation of policies addressing local air pollution, global climate change, and the use of renewable resources. Connections between population growth, economic output, environmental quality, sustainable development, and human welfare. Prerequisite: ECON 50. May be taken concurrently with consent of the instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON155 DIS
-DTSTART;TZID=America/Los_Angeles:20170113T113000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T113000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

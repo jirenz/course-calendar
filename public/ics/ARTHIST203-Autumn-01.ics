@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T172000
-LAST-MODIFIED:20170211T123937
-UID:explore_courses57f8f0e4-c814-41d6-ac5c-f80193067d1b
-DTSTAMP:20170211T123937
-LOCATION:McMurtry Building rm 370
+DTEND;TZID=America/Los_Angeles:20170925T162000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses961d2145-e451-45d4-9c39-1f3cc886c57f
+DTSTAMP:20170927T175933
+LOCATION:McMurtry Building rm 360
 DESCRIPTION:The seminar covers a range of topics devoted to the makers of Greek art and artifacts, the ancient Greeks who used them in life and the afterlife, and the miscreants - from Lord Elgin to contemporary tomb-looters and dealers-  whose deeds have damaged, deracinated and desecrated temples, sculptures and grave goods.  Readings include ancient texts in translation, books and articles by eloquent experts, legal texts and lively page-turners.  Classes meet in the seminar room and the Cantor Center.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTHIST203 SEM
-DTSTART;TZID=America/Los_Angeles:20160926T143000
-CREATED:20170211T123937
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

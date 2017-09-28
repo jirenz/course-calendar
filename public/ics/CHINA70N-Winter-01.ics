@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170211T123941
-UID:explore_courses73e34ffb-8fb2-491c-ba9c-c9cd1802a3bc
-DTSTAMP:20170211T123941
-LOCATION:160-323
-DESCRIPTION:Preference to freshmen.This course considers a variety of animal characters in Chinese and Western literatures as potent symbols of cultural values and dynamic sites of ethical reasoning.  What does pervasive animal imagery tell us about how we relate to the world and our neighbors?  How do animals define the frontiers of humanity and mediate notions of civilization and culture?  How do culture, institutions, and political economy shape concepts of human rights and animal welfare?  And, above all, what does it mean to be human in the pluralistic and planetary 21st century?
+DTEND;TZID=America/Los_Angeles:20180110T145000
+LAST-MODIFIED:20170927T175806
+UID:explore_coursescc62354b-a503-4198-8307-3080f39566c7
+DTSTAMP:20170927T175806
+LOCATION:420-245
+DESCRIPTION:Preference to freshmen.This course considers a variety of animal characters in Chinese and Western literatures as potent symbols of cultural values and dynamic sites of ethical reasoning.  What does pervasive animal imagery tell us about how we relate to the world and our neighbors?  How do animals define the frontiers of humanity and mediate notions of civilization and culture?  How do culture, institutions, and political economy shape concepts of human rights and animal welfare?  And, above all, what does it mean to be human in the pluralistic and planetary 21st century? Note: To be eligible for WAYS credit, you must take course for a Letter Grade.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHINA70N ISF
-DTSTART;TZID=America/Los_Angeles:20170110T120000
-CREATED:20170211T123941
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180110T133000
+CREATED:20170927T175806
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

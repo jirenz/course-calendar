@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T200000
-LAST-MODIFIED:20170211T124037
-UID:explore_courses9458890c-4fe4-4fe8-b69c-563df3bdc42a
-DTSTAMP:20170211T124037
+DTEND;TZID=America/Los_Angeles:20180109T203000
+LAST-MODIFIED:20170927T175902
+UID:explore_courses9867da04-8926-44e1-849b-75f6870a7a27
+DTSTAMP:20170927T175902
 LOCATION:Li Ka Shing Center,rms101/102
-DESCRIPTION:Continuation of 111A/211A. Basics of life support outside the hospital setting. Topics include emergency patient assessments for cardiac, respiratory, and neurological emergencies, as well as readiness training for emergencies on and off campus. Lectures, practicals, and applications. Students taking the class for 4 units complete additional FEMA training and additional clinical rotations. Upon completion of EMED 111A,B,C or 211A,B,C, students are eligible to sit for the National Registry EMT licensure exam. Freshmen and Sophomores are highly encouraged to apply. Prerequisites: application (see http://emt.stanford.edu), and consent of instructor.
+DESCRIPTION:Continuation of EMED 111A/211A. Topics include ambulance operations, environmental emergencies, and management of trauma including falls, gunshot wounds, orthopedic and blast injuries. Includes both lecture and practical sessions. (ONLY graduate students may enroll for 3 or 4 units with instructor permission, see EMED 211B.) nPrerequisites: EMED 111A/211A and consent of instructor, AHA or RC CPR certification.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EMED211B LEC
-DTSTART;TZID=America/Los_Angeles:20170110T180000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T200000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T180000
+CREATED:20170927T175902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T203000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

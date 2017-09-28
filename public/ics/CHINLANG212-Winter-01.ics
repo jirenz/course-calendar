@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T172000
-LAST-MODIFIED:20170211T123941
-UID:explore_coursesed60e408-fabe-4de4-9206-899e87c5be2b
-DTSTAMP:20170211T123941
-LOCATION:Littlefield 104
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T175807
+UID:explore_courses087464f8-e055-472f-84ec-8bbde67b45c5
+DTSTAMP:20170927T175807
+LOCATION:60-107
 DESCRIPTION:Continuation of CHINLANG 211. Second quarter of fourth year Chinese. Discussions are based on short stories, essays and newspaper articles, and academic journal articles. Emphasis is on social and cultural issues in contemporary China. Students will learn speed-reading techniques and explore more subtle distinctions in Chinese language use, such as formal vs. informal styles and word choice, toward developing a more sophisticated understanding and command of the language. Having completed one year of study at this level, students will acquire sufficient skills in reading, writing, and speaking on various topics of personal or academic interest more effectively and accurately. Prerequisite: Placement Test, CHINLANG 211.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHINLANG212 LNG
-DTSTART;TZID=America/Los_Angeles:20170109T163000
-CREATED:20170211T123941
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T175807
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

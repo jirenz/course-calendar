@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T205000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursesce6817d7-c44c-464a-83d9-b65f72533ab3
-DTSTAMP:20170211T123931
+DTEND;TZID=America/Los_Angeles:20170926T205000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursesf80da580-072b-4f58-a446-4614bd0c98f7
+DTSTAMP:20170927T175938
 LOCATION:
 DESCRIPTION:Information on sexually transmitted infections and diseases, and birth control methods. Topics related to sexual health such as communication, societal attitudes and pressures, pregnancy, abortion, and the range of sexual expression. Role-play and peer-education outreach projects. Required for those wishing to counsel at the Sexual Health Peer Resource Center (SHPRC).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC193S SEM
-DTSTART;TZID=America/Los_Angeles:20160927T193000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T205000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T193000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T205000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

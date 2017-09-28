@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T203000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses71129a21-31ce-4f3f-a3e2-dfa37a7f0124
-DTSTAMP:20170211T124020
+DTEND;TZID=America/Los_Angeles:20170926T203000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses9338042f-b5c8-4744-beee-834082d8062c
+DTSTAMP:20170927T180001
 LOCATION:Shriram Ctr BioChemE 108
 DESCRIPTION:Priority to Engineering students. Introduction to speaking activities, from impromptu talks to carefully rehearsed formal professional presentations. How to organize and write speeches, analyze audiences, create and use visual aids, combat nervousness, and deliver informative and persuasive speeches effectively. Weekly class practice, rehearsals in one-on-one tutorials, videotaped feedback. Limited enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR103 PRA
-DTSTART;TZID=America/Los_Angeles:20160927T180000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T203000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T180000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T203000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

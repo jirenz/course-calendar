@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170211T123955
-UID:explore_courses4865e98b-3980-4a4e-8911-660705d16a7c
-DTSTAMP:20170211T123955
-LOCATION:Lathrop 282
-DESCRIPTION:This course introduces students to the cognitive organization of linguistic structure and the social nature of language use. We will investigate language as it is used in our everyday lives, highlighting both the variability and systematic nature of all levels of linguistic structure.  In doing so, we will discover how to approach language from a scientific perspective, learn the fundamentals of linguistic analysis, and understand the foundational concepts of the field of Linguistics.  Sample topics to be explored across a variety of languages include language and advertising, language change, dialect variation, and language and technology.
+DTEND;TZID=America/Los_Angeles:20170925T112000
+LAST-MODIFIED:20170927T175836
+UID:explore_courses636cccf2-88b8-4284-80ea-4d1ce29e8137
+DTSTAMP:20170927T175836
+LOCATION:260-113
+DESCRIPTION:This course introduces students to the cognitive organization of linguistic structure and the social nature of language use. We will investigate language as it is used in our everyday lives, highlighting both the variability and systematic nature of all levels of linguistic structure.  In doing so, we will discover how to approach language from a scientific perspective, learn the fundamentals of linguistic analysis, and understand the foundational concepts of the field of Linguistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LINGUIST1 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20170211T123955
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170925T103000
+CREATED:20170927T175836
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

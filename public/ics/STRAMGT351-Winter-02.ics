@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T114500
-LAST-MODIFIED:20170211T124028
-UID:explore_courses0a3b9b26-2faa-4903-b3fb-5ee5ade829c0
-DTSTAMP:20170211T124028
-LOCATION:GSB McClelland 104
-DESCRIPTION:The focus of this class is on the challenges and key issues associated with the creation and management of a professional sales organization.  Our emphasis is developing and managing the selling effort of business-to-business and business-to-consumer capital goods and services.  There will be relatively little emphasis on sales technique (i.e., students should not expect a course on &quot;How to be a Better Salesperson&quot;).  The course is organized to follow the development of the sales function from strategic inception through to execution and implementation:  choosing a go-to-market model (e.g., direct sales, VARs, OEMs, hybrid models); building and structuring the sales organization (e.g., sales learning curve, organizational structure, allocating territories and quotas); and managing the sales force (e.g., hiring/firing, compensation, forecasting, culture).  We will address these topics in the context of both early stage ventures and later stage enterprises.
+DTEND;TZID=America/Los_Angeles:20180109T114500
+LAST-MODIFIED:20170927T175745
+UID:explore_courses876a819d-a5a9-45fc-aa7f-5bbe8b8c5901
+DTSTAMP:20170927T175745
+LOCATION:
+DESCRIPTION:The focus of this class is on the challenges and key issues associated with the creation and management of a professional sales organization.  Our emphasis is developing and managing the selling effort of business-to-business and business-to-consumer capital goods and services.  There will be relatively little emphasis on sales technique (i.e., students should not expect a course on &quot;How to be a Better Salesperson&quot;).  The course is organized to follow the development of the sales function from strategic inception through to execution and implementation:  choosing a go-to-market model (e.g., direct sales, no/low touch, VARs, OEMs, hybrid models); building and structuring the sales organization (e.g., sales learning curve, organizational structure, allocating territories and quotas); and managing the sales force (e.g., hiring/firing, compensation, forecasting, culture).  We will address these topics in the context of both early stage ventures and later stage enterprises.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STRAMGT351 CAS
-DTSTART;TZID=America/Los_Angeles:20170110T100000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T114500;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T100000
+CREATED:20170927T175745
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T114500;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

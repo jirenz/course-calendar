@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170211T124001
-UID:explore_courses18929148-d436-481a-9c36-6826e1047dc6
-DTSTAMP:20170211T124001
-LOCATION:420-040
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20170927T175847
+UID:explore_courses31498500-c61b-40ee-9dc0-789a513669a5
+DTSTAMP:20170927T175847
+LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Why do people behave the way they do? This is the fundamental question that drives social psychology. Through reading, lecture, and interactive discussion, students have the opportunity to explore and think critically about a variety of exciting issues including: what causes us to like, love, help, or hurt others; the effects of social influence and persuasion on individual thoughts, emotion, and behavior; and how the lessons of social psychology can be applied in contexts such as health, work, and relationships.  The social forces studied in the class shape our behavior, though their operation cannot be seen directly. A central idea of this class is that awareness of these forces allows us to make choices in light of them, offering us more agency and wisdom in our everyday lives.nnnThis course is offered for 3-4 units. The 4 unit option has weekly discussion sections while the 3 unit version does not.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH70 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T120000
+CREATED:20170927T175847
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

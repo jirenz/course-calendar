@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20170211T124004
-UID:explore_coursesc7478542-5321-4d35-be68-ed414411a79c
-DTSTAMP:20170211T124004
-LOCATION:260-004
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesa119d468-0ec3-41c6-be93-4544587fb178
+DTSTAMP:20170927T175851
+LOCATION:260-241
 DESCRIPTION:Emphasis is on ability to communicate orally and in writing. Spelling and the written accent. Goal is to understand, interpret, and analyze texts, movies, radio, and television. Written language skills include rules for editing written language. Third quarter focus is on the development of written and oral styles and registers used in more formal settings. Prerequisite: Placement Test.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPANLANG21B LNG
-DTSTART;TZID=America/Los_Angeles:20160927T113000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T113000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

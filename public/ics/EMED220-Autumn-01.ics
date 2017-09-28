@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T132000
-LAST-MODIFIED:20170211T124037
-UID:explore_courses0cb52b44-2fa3-4880-b6ce-17f39e38039f
-DTSTAMP:20170211T124037
-LOCATION:Li Ka Shing Center,rms101/102
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175902
+UID:explore_coursesdfb820a2-40a4-4c12-8a49-10d6ea854d82
+DTSTAMP:20170927T175902
+LOCATION:Alway Building, Room M112
 DESCRIPTION:An introduction to the specialty of emergency medicine, including the emergency stabilization of patients in both the pre-hospital phase and in the emergency department.  The course will include both lectures and hands on practical sessions.  Topics consist of management of trauma patients and common medical emergencies, with hands on sessions including how to manage airway emergencies and suturing.  2 units includes two four-hour emergency department shadow shifts.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EMED220 LEC
-DTSTART;TZID=America/Los_Angeles:20160929T123000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20170211T124037
-UID:explore_courses085c23e1-2dd1-4fb5-8ab8-f38b6443584d
-DTSTAMP:20170211T124037
-LOCATION:Li Ka Shing Center, room 120
-DESCRIPTION:An introduction to the specialty of emergency medicine, including the emergency stabilization of patients in both the pre-hospital phase and in the emergency department.  The course will include both lectures and hands on practical sessions.  Topics consist of management of trauma patients and common medical emergencies, with hands on sessions including how to manage airway emergencies and suturing.  2 units includes two four-hour emergency department shadow shifts.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:EMED220 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T123000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T123000
+CREATED:20170927T175902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

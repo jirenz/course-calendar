@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T180000
-LAST-MODIFIED:20170211T124012
-UID:explore_courses068b05cf-f38b-48e9-91d8-e47dd7d0286b
-DTSTAMP:20170211T124012
+DTEND;TZID=America/Los_Angeles:20170928T183000
+LAST-MODIFIED:20170927T175949
+UID:explore_courses80cf596a-cd0d-4acc-9798-d0a83e52f75e
+DTSTAMP:20170927T175949
 LOCATION:
 DESCRIPTION:First quarter of two-quarter sequence. Experimental aspects of chemical engineering. Experimental research skills will be developed and practiced through guided lab modules. Emphasizes laboratory work, experimental design, and development of communication skills. In addition to lectures, students are required to attend one weekly lab section (5 hours each) where lab work will be conducted in student pairs. Students must enroll in a lab section on Axess. Final project will be a written research proposal prepared by student teams to be carried out in the following quarter in CHEMENG185B.  Satisfies the Writing in the Major (WIM) requirement. Prerequisites: CHEMENG 120A, CHEMENG 120B, CHEMENG 181.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG185A LBS
-DTSTART;TZID=America/Los_Angeles:20160929T130000
-CREATED:20170211T124012
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T180000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T133000
+CREATED:20170927T175949
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T183000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

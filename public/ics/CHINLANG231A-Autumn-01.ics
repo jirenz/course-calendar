@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20170211T123941
-UID:explore_coursese6284b07-75b3-44ab-852c-ee6b3169140c
-DTSTAMP:20170211T123941
-LOCATION:260-003
+DTEND;TZID=America/Los_Angeles:20170925T112000
+LAST-MODIFIED:20170927T175807
+UID:explore_courses7fe71dde-ef0c-4b4a-a064-e94e4092ab17
+DTSTAMP:20170927T175807
+LOCATION:60-107
 DESCRIPTION:One of the two components of fifth-year Chinese, first quarter: A content focuses on politics, the economy, technology and society.  Sequence facilitates advanced training in listening, speaking, reading and writing.  Targeted functional abilities include presentational and sociocultural appropriate language in formal and informal, academic, and professional contexts.  Students can take 231A alone for 2 units, or take 231A concurrently with 231B for 4 units.  Prerequisite: Placement Test, CHINLANG 213, or CHINLANG 213B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHINLANG231A LNG
-DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20170211T123941
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T103000
+CREATED:20170927T175807
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T124011
-UID:explore_coursesb3ad5869-d380-44ee-af9c-353a746f6d1b
-DTSTAMP:20170211T124011
-LOCATION:Mitchb67
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T175947
+UID:explore_courses5d44ba0f-9e67-494d-aed1-529221361fa8
+DTSTAMP:20170927T175947
+LOCATION:530-127
 DESCRIPTION:Students grouped according to their expertise to carry out the multidisciplinary design of a solar-powered autonomous aircraft that must meet a clearly stated set of design requirements. Design and construction of the airframe, integration with existing guidance, navigation, and control systems, and development and operation of the resulting design. Design reviews and reports. Prerequisites: expertise in any of the following disciplines by having satisfied the specified courses or equivalent work elsewhere: conceptual design (241A,B); applied aerodynamics (200A,B); structures (240A); composite manufacturing experience; guidance and control (208/271, ENGR 205).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA241X LEC
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175947
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

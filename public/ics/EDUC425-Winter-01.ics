@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursesd627bee7-77af-421c-9e23-450f4023a094
-DTSTAMP:20170211T123931
-LOCATION:160-317
+DTEND;TZID=America/Los_Angeles:20180109T175000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursesa4f047b1-b26e-4f9a-acb5-5b983b509926
+DTSTAMP:20170927T175938
+LOCATION:260-011
 DESCRIPTION:This course focuses on the relevance of self, identity, and stigmatization to understanding and remedying social problems. A key focus will be on how interactions between the self-system and social systems (e.g. schools, workplaces, institutions) drive outcomes over time, including educational and economic inequality. More broadly, class discussion and readings will address a social psychological analysis of intervention and change.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC425 WKS
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

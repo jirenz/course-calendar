@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170211T123939
-UID:explore_courses5eda0bfa-bfff-4838-b632-970c0b3fa765
-DTSTAMP:20170211T123939
-LOCATION:540-103
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175802
+UID:explore_coursesf6aa99f8-a866-40fe-8874-3673fa017a98
+DTSTAMP:20170927T175802
+LOCATION:Gilbert Biological Science 117
 DESCRIPTION:A discussion-based course for advanced undergraduates. The purpose of this course is to introduce students to key topics in stem cell biology and foster the development of strong scientific writing skills. We will review and discuss some landmark and current primary literature in the stem cell field. Topics will include embryonic and adult stem cells, cellular reprogramming and stem cells in disease and regenerative medicine. Students will present a current research paper in their preferred stem cell topic area and compose a novel research proposal. Prerequisites: Biology or Human Biology core. Satisfies WIM in Biology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO168 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T123939
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

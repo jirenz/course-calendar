@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses17c34b84-be6e-44cc-a88f-ec4001debece
-DTSTAMP:20170211T124013
-LOCATION:Hewlett Teaching Center Rm 101
+DTEND;TZID=America/Los_Angeles:20180403T175000
+LAST-MODIFIED:20170927T175952
+UID:explore_coursesb618399f-3da0-462a-8fa5-5810675d85f0
+DTSTAMP:20170927T175952
+LOCATION:Y2E2 253
 DESCRIPTION:Studio format. Design concepts for civil engineering facilities from schematic design through construction, taking into account sustainable engineering issues. Design exercises culminating in the design of a civil engineering facility, emphasizing structural systems and materials and integration with architectural, construction and other project requirements. Prerequisites: CEE 180, 181, 182; CEE 120 (or equivalent background in BIM), civil engineering major; architectural design major with instructor consent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE183 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

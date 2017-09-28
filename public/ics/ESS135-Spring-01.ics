@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T223000
-LAST-MODIFIED:20170211T124031
-UID:explore_coursesbd944ffa-da9b-4abe-bf28-9a557843274e
-DTSTAMP:20170211T124031
+DTEND;TZID=America/Los_Angeles:20180403T223000
+LAST-MODIFIED:20170927T175943
+UID:explore_coursesd7498d42-84dc-428b-9a08-7b6c4fc661ac
+DTSTAMP:20170927T175943
 LOCATION:
 DESCRIPTION:Offered through Residential Education to residents of Castano House, Manzanita Park. Topics include: emotional intelligence, leadership styles, listening, facilitating meetings, group dynamics and motivation, finding purpose, fostering resilience. Students will lead discussions on personal development, relationships, risky behaviors, race, ethnicity, spirituality, integrity.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS135 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T210000
-CREATED:20170211T124031
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T223000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T210000
+CREATED:20170927T175943
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T223000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

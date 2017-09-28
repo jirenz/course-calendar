@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T162000
-LAST-MODIFIED:20170211T123947
-UID:explore_courses087ec2b5-e00a-45a3-b102-0fa8840ba2fe
-DTSTAMP:20170211T123947
-LOCATION:Lathrop 294
+DTEND;TZID=America/Los_Angeles:20180405T162000
+LAST-MODIFIED:20170927T175821
+UID:explore_courses64f2a9e6-bf4b-4fcc-af73-f54e1a9dd42f
+DTSTAMP:20170927T175821
+LOCATION:80-115
 DESCRIPTION:For English Ph.D. candidates only. A practical and theoretical study of the genre of the journal article, with critical reflection on its status as a gateway to academic professionalization and as a highly specialized form of public address.  We will be reading articles published over the last decade across a diverse range of journals, focusing on issues surrounding methodology, style, tone, and audience.  Participants will work on developing an already polished piece of writing into the form of an article publishable by a peer-reviewed publication. Admission by application in Autumn quarter .
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGLISH396P WKS
-DTSTART;TZID=America/Los_Angeles:20170406T133000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T133000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

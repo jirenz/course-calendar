@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T111500
-LAST-MODIFIED:20170211T123949
-UID:explore_courses1784f4fb-acd0-4300-9465-55edff469b51
-DTSTAMP:20170211T123949
-LOCATION:260-004
-DESCRIPTION:Continuation of FRENLANG 1A. Completes first-year language sequence in two rather than three quarters. Recommended for students with previous knowledge of French who place into FRENLANG 1A on the placement test or who are familiar with another Romance language. Fulfills the University foreign language requirement. Prerequisite: FRENLANG 2A or  Placement Test.
+DTEND;TZID=America/Los_Angeles:20180625T111500
+LAST-MODIFIED:20170927T175824
+UID:explore_courses3cb5087c-7cf4-4b87-806e-0687423b78d3
+DTSTAMP:20170927T175824
+LOCATION:160-329
+DESCRIPTION:Continuation of FRENLANG 1A. Completes first-year language sequence in two rather than three quarters. Recommended for students with previous knowledge of French who place into FRENLANG 1A on the placement test or who are familiar with another Romance language. Fulfills the University foreign language requirement. Prerequisite: FRENLANG 1A or  Placement Test.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FRENLANG2A LNG
-DTSTART;TZID=America/Los_Angeles:20170626T100000
-CREATED:20170211T123949
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T111500;BYDAY=MO,TU,WE,TH
+DTSTART;TZID=America/Los_Angeles:20180625T100000
+CREATED:20170927T175824
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T111500;BYDAY=MO,TU,WE,TH
 END:VEVENT
 END:VCALENDAR

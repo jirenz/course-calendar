@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T182000
-LAST-MODIFIED:20170211T123946
-UID:explore_coursesfe3bddc6-3e42-4177-82d4-a165f5bbc752
-DTSTAMP:20170211T123946
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170927T162000
+LAST-MODIFIED:20170927T175819
+UID:explore_coursesc5ba0258-091c-4db3-b0eb-b23497d3e441
+DTSTAMP:20170927T175819
+LOCATION:GSB Class of 1968 108
 DESCRIPTION:This course will cover research topics at the boundary between macroeconomics and finance. Topics may include the study of macroeconomic models with financial frictions, conventional and unconventional monetary policy, its transmission mechanism and the term structure of interest rates, sovereign debt crises, search frictions and segmentation in housing markets, (over)leveraging by households, heterogeneous expectations, excess volatility, financial bubbles and crises. Prerequisites: 210, 211, 212.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON236 LEC
-DTSTART;TZID=America/Los_Angeles:20160928T153000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T133000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

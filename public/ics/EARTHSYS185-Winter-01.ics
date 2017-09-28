@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170211T124030
-UID:explore_courses0946c5a9-2b26-4ea2-a435-f160bd00e04c
-DTSTAMP:20170211T124030
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175940
+UID:explore_coursesd0cf4593-4bf5-40e1-b6d7-29388dcab551
+DTSTAMP:20170927T175940
 LOCATION:Y2E2 111
 DESCRIPTION:Feeding a growing and wealthier population is a huge task, and one with implications for many aspects of society and the environment. There are many tough choices to be made- on fertilizers, groundwater pumping, pesticide use, organics, genetic modification, etc. Unfortunately, many people form strong opinions about these issues before understanding some of the basics of how food is grown, such as how most farmers currently manage their fields, and their reasons for doing so. The goal of this class is to present an overview of global agriculture, and the tradeoffs involved with different practices. Students will develop two key knowledge bases: basic principles of crop ecology and agronomy, and familiarity with the scale of the global food system. The last few weeks of the course will be devoted to building on this knowledge base to evaluate different future directions for agriculture.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS185 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

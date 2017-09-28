@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T125000
-LAST-MODIFIED:20170211T123953
-UID:explore_courses00a01ce7-2b50-4531-ab46-81d5538b2e9b
-DTSTAMP:20170211T123953
-LOCATION:80-115
+DTEND;TZID=America/Los_Angeles:20180403T125000
+LAST-MODIFIED:20170927T175832
+UID:explore_coursesb5a80ab0-d69d-493d-9379-8cac6e8189b0
+DTSTAMP:20170927T175832
+LOCATION:School of Education 313
 DESCRIPTION:For seniors or graduate students seeking to meet the University reading requirement for advanced degrees. Reading strategies for comprehension of secondary literature for academic research.  Fulfills the University foreign language requirement for advanced degrees if student earns a grade of 'B.' Prerequisite: one year of Italian or reading proficiency in another Romance language.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ITALLANG250 LNG
-DTSTART;TZID=America/Los_Angeles:20170404T113000
-CREATED:20170211T123953
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T125000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T113000
+CREATED:20170927T175832
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T125000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

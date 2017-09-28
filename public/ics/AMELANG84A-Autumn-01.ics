@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170211T123934
-UID:explore_courses0d5068a0-51a2-40b7-8f57-81a77136c02f
-DTSTAMP:20170211T123934
-LOCATION:30-101
+DTEND;TZID=America/Los_Angeles:20170925T122000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses12fe0bb3-12cc-40fd-88dc-011dfe685527
+DTSTAMP:20170927T175933
+LOCATION:20-21B
 DESCRIPTION:First part of the accelerated first-year sequence. AMELANG 84A and 84B complete the first year in two quarters rather than three quarters. Fulfills the University Language requirement.nnGoal is to engage in interactions with Turkish speakers using socially and culturally appropriate forms. Emphasis is on the accelerated development of language proficiency, listening comprehension, reading and writing skills through conversational practice and in-class/online writing activities. Discussion of culture and social life is integrated into daily language learning activities through authentic materials.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AMELANG84A LNG
-DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170211T123934
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20170925T113000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

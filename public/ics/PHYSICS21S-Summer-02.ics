@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170628T142000
-LAST-MODIFIED:20170211T123959
-UID:explore_courses732e5463-122f-4713-b03c-30b3cf5839c1
-DTSTAMP:20170211T123959
-LOCATION:Lathrop 290
+DTEND;TZID=America/Los_Angeles:20180627T142000
+LAST-MODIFIED:20170927T175844
+UID:explore_courses21d8cfe1-ee13-400f-8c51-3baa5ee15ad0
+DTSTAMP:20170927T175844
+LOCATION:Lathrop 292
 DESCRIPTION:How are the motions of objects and the behavior of fluids and gases determined by the laws of physics? Students learn to describe the motion of objects (kinematics) and understand why objects move as they do (dynamics). Emphasis on how Newton's three laws of motion are applied to solids, liquids, and gases to describe phenomena as diverse as spinning gymnasts, blood flow, and sound waves. Understanding many-particle systems requires connecting macroscopic properties (e.g., temperature and pressure) to microscopic dynamics (collisions of particles). Laws of thermodynamics provide understanding of real-world phenomena such as energy conversion and performance limits of heat engines. Everyday examples are analyzed using tools of algebra and trigonometry. Problem-solving skills are developed, including verifying that derived results satisfy criteria for correctness, such as dimensional consistency and expected behavior in limiting cases. Physical understanding fostered by peer interaction and demonstrations in lecture, and interactive group problem solving in discussion sections. Labs are an integrated part of the summer course.  Prerequisite: high school algebra and trigonometry; calculus not required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS21S DIS
-DTSTART;TZID=America/Los_Angeles:20170628T133000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170721T142000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180627T133000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T142000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180626T162000
+LAST-MODIFIED:20170927T175844
+UID:explore_coursesa9a68c0b-c708-4717-be77-cf2b032e7a44
+DTSTAMP:20170927T175844
+LOCATION:Lathrop 292
+DESCRIPTION:How are the motions of objects and the behavior of fluids and gases determined by the laws of physics? Students learn to describe the motion of objects (kinematics) and understand why objects move as they do (dynamics). Emphasis on how Newton's three laws of motion are applied to solids, liquids, and gases to describe phenomena as diverse as spinning gymnasts, blood flow, and sound waves. Understanding many-particle systems requires connecting macroscopic properties (e.g., temperature and pressure) to microscopic dynamics (collisions of particles). Laws of thermodynamics provide understanding of real-world phenomena such as energy conversion and performance limits of heat engines. Everyday examples are analyzed using tools of algebra and trigonometry. Problem-solving skills are developed, including verifying that derived results satisfy criteria for correctness, such as dimensional consistency and expected behavior in limiting cases. Physical understanding fostered by peer interaction and demonstrations in lecture, and interactive group problem solving in discussion sections. Labs are an integrated part of the summer course.  Prerequisite: high school algebra and trigonometry; calculus not required.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHYSICS21S DIS
+DTSTART;TZID=America/Los_Angeles:20180626T133000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

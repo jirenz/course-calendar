@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170627T214500
-LAST-MODIFIED:20170211T123957
-UID:explore_courses1506e9b7-1008-4ed9-b4b1-862e1b5c7ef3
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180626T214500
+LAST-MODIFIED:20170927T175841
+UID:explore_courses162664eb-6fcc-4060-9b0a-41320b304f37
+DTSTAMP:20170927T175841
 LOCATION:
 DESCRIPTION:80- to 100-voice non-auditioned ensemble, performing major choral masterworks and choral repertoire from all periods of Western art music. Concert July 31, 2015 in Memorial Church. Details at: https://music.stanford.edu/academic-programs/summer-studies-stanford-music/summer-session-ensembles. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure. May be repeated for credit for a total of 0(zero) unit.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC167S ACT
-DTSTART;TZID=America/Los_Angeles:20170627T191500
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T214500;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180626T191500
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T214500;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

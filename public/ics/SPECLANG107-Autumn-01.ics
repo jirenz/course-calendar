@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T152000
-LAST-MODIFIED:20170211T124005
-UID:explore_courses347172e8-a12e-4e2a-9706-3842a2dc61c9
-DTSTAMP:20170211T124005
-LOCATION:240-110
-DESCRIPTION:Focus is on readings of Sanskrit passages and Sanskrit epics Ramayana or Mahabharata. Discussions will include English translations of Sanskrit poems.  Knowledge of Sanskrit grammar require. May be repeat for credit.
+DTEND;TZID=America/Los_Angeles:20170926T152000
+LAST-MODIFIED:20170927T175852
+UID:explore_coursese1e46fc0-5b44-4d59-9f48-0cbdccef5e26
+DTSTAMP:20170927T175852
+LOCATION:Econ 206
+DESCRIPTION:Focus of this class is the practice of reading Sanskrit. Different texts are read each term, selected largely to fit the needs and interests of the students. Knowledge of Sanskrit grammar required. Repeatable for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPECLANG107 LNG
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T124005
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175852
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

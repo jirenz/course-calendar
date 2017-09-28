@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T192000
-LAST-MODIFIED:20170211T123936
-UID:explore_courses42fa0d63-ca26-4bed-aeac-a45eb05e5e0f
-DTSTAMP:20170211T123936
+DTEND;TZID=America/Los_Angeles:20180404T192000
+LAST-MODIFIED:20170927T175757
+UID:explore_courses4a119069-4cf6-4252-8105-c33018d98a8c
+DTSTAMP:20170927T175757
 LOCATION:50-51A
 DESCRIPTION:This workshop aims to bring together scholars from the social sciences, humanities, medicine and bio-science and technology to explore the ways that health and illness are made through complex social forces. We aim for informal, interactive sessions, full of debate and good will. Dates of meetings will be listed in the notes section in the time schedule.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO276 WKS
-DTSTART;TZID=America/Los_Angeles:20170405T173000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T192000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T173000
+CREATED:20170927T175757
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

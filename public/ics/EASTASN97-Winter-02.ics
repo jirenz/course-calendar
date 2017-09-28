@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T102000
-LAST-MODIFIED:20170211T123944
-UID:explore_courses6c978ebc-56c2-47a6-90cd-c3ad7a9b6f95
-DTSTAMP:20170211T123944
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180112T102000
+LAST-MODIFIED:20170927T175815
+UID:explore_courses8e4f43aa-d6ba-400c-8530-db9ff877a523
+DTSTAMP:20170927T175815
+LOCATION:240-101
 DESCRIPTION:Asian international relations since World War II were dominated by the efforts of the newly independent nation-states of Asia, almost all of which had been colonies before the war, to establish and maintain sovereignty in a context of American and Soviet competition for influence in the region.  This course traces the major developments of the period, including the Chinese civil war, the U.S. occupation of Japan, the division of Korea and the Korean War, the South and Southeast Asian independence struggles, the American and Soviet alliance systems, the Vietnam War, the strategic realignments that led to the end of the Cold War in Asia, the emergence of Central Asia, and the legacy of issues that the period has posed for the region today.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EASTASN97 DIS
-DTSTART;TZID=America/Los_Angeles:20170113T093000
-CREATED:20170211T123944
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T093000
+CREATED:20170927T175815
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

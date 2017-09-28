@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T182000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses1c86195b-c709-40f4-8015-32d6d1291074
-DTSTAMP:20170211T123931
-LOCATION:160-326
+DTEND;TZID=America/Los_Angeles:20170925T182000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursesab663acb-04fe-4aa6-8e3e-eb34e07fc6c3
+DTSTAMP:20170927T175938
+LOCATION:School of Education 210
 DESCRIPTION:This course examines the categories and methods used to analyze and explain educational inequalities in the United States from 1950 to present. Approaches to theories of school failure and methods of intervention are distinguished by their ideas on the play of learning, language, cognition, culture, and social class in human development. Particular attention is given to the Culture of Poverty controversies of the 1960s and their recent emergence.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC232 SEM
-DTSTART;TZID=America/Los_Angeles:20160926T153000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170925T153000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

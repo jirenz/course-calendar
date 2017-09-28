@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T123939
-UID:explore_courses247affea-6ecd-4486-ab06-8085a3b41cab
-DTSTAMP:20170211T123939
-LOCATION:ScienceTeachingLearningCntr118
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T175802
+UID:explore_courses3494fe32-57c7-4c85-8183-d9b68a56845c
+DTSTAMP:20170927T175802
+LOCATION:STLC105
 DESCRIPTION:Disciplinary priorities, research agendas, and innovations are determined by the diversity of participants and problem-solving is more successful with a broad range of approaches. Using case studies in biological research, we propose to use these insights to help our students learn why a diverse scientific community leads to better discovery and improves the relevance of science to society. Our premise is that a diverse set of perspectives will impact not only how we learn science, but how we do science.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO52 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123939
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

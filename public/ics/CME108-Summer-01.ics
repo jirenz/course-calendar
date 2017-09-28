@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T102000
-LAST-MODIFIED:20170211T124014
-UID:explore_courses2752bcc5-6672-4858-aa6e-63e1e58e27c8
-DTSTAMP:20170211T124014
-LOCATION:Shriram Ctr BioChemE 104
-DESCRIPTION:Introduction to Scientific Computing Numerical computation for mathematical, computational, physical sciences and engineering: error analysis, floating-point arithmetic, nonlinear equations, numerical solution of systems of algebraic equations, banded matrices, least squares, unconstrained optimization, polynomial interpolation, numerical differentiation and integration, numerical solution of ordinary differential equations, truncation error, numerical stability for time dependent problems and stiffness. Implementation of numerical methods in MATLAB programming assignments. Prerequisites: MATH 51, 52, 53; prior programming experience (MATLAB or other language at level of CS 106A or higher). Graduate students should take it for 3 units and undergraduate students should take it for 4 units.
+DTEND;TZID=America/Los_Angeles:20180625T102000
+LAST-MODIFIED:20170927T175953
+UID:explore_coursesa468b978-a43f-4f83-9987-ca86d4582a50
+DTSTAMP:20170927T175953
+LOCATION:McCullough 115
+DESCRIPTION:Introduction to Scientific Computing Numerical computation for mathematical, computational, physical sciences and engineering: error analysis, floating-point arithmetic, nonlinear equations, numerical solution of systems of algebraic equations, banded matrices, least squares, unconstrained optimization, polynomial interpolation, numerical differentiation and integration, numerical solution of ordinary differential equations, truncation error, numerical stability for time dependent problems and stiffness. Implementation of numerical methods in MATLAB programming assignments. Prerequisites: MATH 51, 52, 53; prior programming experience (MATLAB or other language at level of CS 106A or higher).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME108 LEC
-DTSTART;TZID=America/Los_Angeles:20170626T093000
-CREATED:20170211T124014
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T102000;BYDAY=MO,TU,WE,TH
+DTSTART;TZID=America/Los_Angeles:20180625T093000
+CREATED:20170927T175953
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T102000;BYDAY=MO,TU,WE,TH
 END:VEVENT
 END:VCALENDAR

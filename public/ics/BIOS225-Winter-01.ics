@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170306T112000
-LAST-MODIFIED:20170211T124035
-UID:explore_coursesbce4eb73-6584-4fd8-b28c-d1badca20dd5
-DTSTAMP:20170211T124035
-LOCATION:Li Ka Shing Center, room 308
+DTEND;TZID=America/Los_Angeles:20180305T112000
+LAST-MODIFIED:20170927T175859
+UID:explore_courses81e3f7fa-199f-4472-8822-34440bc31b16
+DTSTAMP:20170927T175859
+LOCATION:Li Ka Shing Center, rms304/305
 DESCRIPTION:Introduction to the social science literature on factors contributing to gender disparities in the scientific workplace (e.g. implicit bias and stereotype threat). Discussions focus on steps that individuals and institutions can take to promote the advancement of women and other underrepresented groups in science, and thus promote the advancement of science.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS225 SEM
-DTSTART;TZID=America/Los_Angeles:20170306T093000
-CREATED:20170211T124035
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180305T093000
+CREATED:20170927T175859
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

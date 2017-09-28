@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses87e4a804-0b05-4b69-ac07-9f84e4c0de91
-DTSTAMP:20170211T123931
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursese66e1377-bb7d-4a9b-9b4d-32509b1ae223
+DTSTAMP:20170927T175938
 LOCATION:
 DESCRIPTION:For STEP elementary teacher candidates. Theories and methods of teaching and learning science. How to develop curricula and criteria for critiquing curricula. Students design a science curriculum plan for a real setting. State and national science frameworks and content standards. Alternative teaching approaches; how to select approaches that are compatible with learner experience and lesson objectives. Focus is on the linguistic and cultural diversity of California public school students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC267E SEM
-DTSTART;TZID=America/Los_Angeles:20160927T120000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T120000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

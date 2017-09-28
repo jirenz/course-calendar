@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T203000
-LAST-MODIFIED:20170211T123957
-UID:explore_courses128aa90d-5771-4037-a046-4c6e62fdee8d
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20170928T203000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses673169a6-02ca-4680-9dd1-0ebe3b5bcc31
+DTSTAMP:20170927T175841
 LOCATION:Campbell Recital Hall 126
 DESCRIPTION:Official choir of Memorial Church, furnishing music for Sunday services and special occasions in the church calendar. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure. By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC163 PRC
-DTSTART;TZID=America/Los_Angeles:20160929T183000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T203000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T183000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T203000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

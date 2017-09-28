@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursesa4fec7e0-a28a-422c-96a8-1e6e84a8312f
-DTSTAMP:20170211T124021
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T180002
+UID:explore_courses76d5cfe1-d3da-454f-8908-6bb40eea2734
+DTSTAMP:20170927T180002
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Coherent approach to decision making, using the metaphor of developing a structured conversation having desirable properties, and producing actional thought that leads to clarity of action. Socratic instruction; computational problem sessions. Emphasis is on creation of distinctions, representation of uncertainty by probability, development of alternatives, specification of preference, and the role of these elements in creating a normative approach to decisions. Information gathering opportunities in terms of a value measure. Relevance and decision diagrams to represent inference and decision. Principles are applied to decisions in business, technology, law, and medicine. See 352 for continuation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E252 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

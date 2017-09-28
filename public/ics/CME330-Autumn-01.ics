@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T102000
-LAST-MODIFIED:20170211T124014
-UID:explore_courses476dbf3f-7777-4b39-ab6b-16aa808c28f1
-DTSTAMP:20170211T124014
+DTEND;TZID=America/Los_Angeles:20170925T102000
+LAST-MODIFIED:20170927T175953
+UID:explore_courses45db631c-1cb1-4605-bb80-2754f99d56a3
+DTSTAMP:20170927T175953
 LOCATION:200-303
 DESCRIPTION:Mathematical solution methods via applied problems including chemical reaction sequences, mass and heat transfer in chemical reactors, quantum mechanics, fluid mechanics of reacting systems, and chromatography. Topics include generalized vector space theory, linear operator theory with eigenvalue methods, phase plane methods, perturbation theory (regular and singular), solution of parabolic and elliptic partial differential equations, and transform methods (Laplace and Fourier). Prerequisites: CME 102/ENGR 155A and CME 104/ENGR 155B, or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME330 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T124014
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175953
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

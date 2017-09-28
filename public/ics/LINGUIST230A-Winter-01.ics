@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T175000
-LAST-MODIFIED:20170211T123955
-UID:explore_coursesbfa8f15b-f7cd-42a2-81c4-a95d87b6f0f8
-DTSTAMP:20170211T123955
-LOCATION:Econ 140
-DESCRIPTION:Linguistic meaning and its role in communication.  Topics include ambiguity, vagueness, presupposition, intonational meaning, and Grice's theory of conversational implicature.  Applications to issues in politics, the law, philosophy, advertising, and natural language processing.  Those who have not taken logic, such as PHIL 150 or 151, should also enroll in 130C. Pre- or corequisite: 120, 121, consent of instructor, or graduate standing in Linguistics.
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175836
+UID:explore_courses9939ac86-c34d-4779-8091-b7056f6a7084
+DTSTAMP:20170927T175836
+LOCATION:Hewlett Teaching Center 200
+DESCRIPTION:Linguistic meaning and its role in communication. Topics include logical semantics, conversational implicature, presupposition, and speech acts. Applications to issues in politics, the law, philosophy, advertising, and natural language processing.&nbsp;Those who have not taken logic, such as&nbsp;PHIL 150&nbsp;or 151, should attend section. Pre- or corequisite: 120, 121, consent of instructor, or graduate standing in Linguistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LINGUIST230A LEC
-DTSTART;TZID=America/Los_Angeles:20170110T163000
-CREATED:20170211T123955
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175836
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

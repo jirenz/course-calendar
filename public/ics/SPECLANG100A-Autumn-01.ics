@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T172000
-LAST-MODIFIED:20170211T124005
-UID:explore_courses0dcd6ec8-3f91-4555-a599-c39c544eb20b
-DTSTAMP:20170211T124005
-LOCATION:110-114
+DTEND;TZID=America/Los_Angeles:20170925T172000
+LAST-MODIFIED:20170927T175852
+UID:explore_courses5e3af2b2-776a-4f5a-b087-4f6762bff5fd
+DTSTAMP:20170927T175852
+LOCATION:200-219
 DESCRIPTION:First quarter of a three-quarter beginning sequence. Distance learning combined with  periodic on-site instruction, conducted primarily in Cherokee. Course emphasizes developing effective communication at a basic level, covering grammatical structures, vocabulary, and sentence patterns through speaking, reading, writing, and listening in everyday situations.nCherokee culture.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPECLANG100A LNG
-DTSTART;TZID=America/Los_Angeles:20160926T153000
-CREATED:20170211T124005
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T153000
+CREATED:20170927T175852
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T124030
-UID:explore_courses67105833-6280-4543-b397-5c4e760823e0
-DTSTAMP:20170211T124030
-LOCATION:Shriram Ctr BioChemE 104
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T175940
+UID:explore_coursesbe3ba825-7741-4574-8078-761787b5e64d
+DTSTAMP:20170927T175940
+LOCATION:STLC115
 DESCRIPTION:The biological causes and consequences of anthropogenic and natural changes in the atmosphere, oceans, and terrestrial and freshwater ecosystems. Topics: glacial cycles and marine circulation, greenhouse gases and climate change, tropical deforestation and species extinctions, and human population growth and resource use. Prerequisite: Biology or Human Biology core or graduate standing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS111 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T175940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

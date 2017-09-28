@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170211T124001
-UID:explore_coursesba7c5499-bf91-48e3-adf1-b77903c9cfc7
-DTSTAMP:20170211T124001
-LOCATION:200-034
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T175847
+UID:explore_courses5eb472c6-036f-4a2b-977e-d3de73a0228e
+DTSTAMP:20170927T175847
+LOCATION:Huang Engineering Center 18
 DESCRIPTION:This course is an introduction to digital imaging technologies. We focus on the principles of key elements of digital systems components; we show how to use simulation to predict how these components will work together in a complete image system simulation. The early lectures introduce the software environment and describe options for the course project. The following topics are covered and software tools are introduced:n-	  Basic principles of optics (Snell's Law, diffraction, adaptive optics).n-	  Image sensor and pixel designsn-	  Color science, metrics, and calibrationn-	  Human spatial resolutionn-	  Image processing principlesn-	  Display technologiesnA special theme of this course is that it explains how imaging technologies accommodate the requirements of the human visual system.  The course also explains how image systems simulations can be useful in neuroscience and industrial vision applications.nThe course consists of lectures, software tutorials, and a course project. Tutorials and projects include extensive software simulations of the imaging pipeline. Some background in mathematics (linear algebra) and programming (Matlab) is valuable.nPre-requisite: EE 261 or equivalent. Or permission of instructor required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH221 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175847
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

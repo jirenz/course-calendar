@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170211T124014
-UID:explore_coursesdc3c6f81-979f-4b37-9be0-e1f95860c471
-DTSTAMP:20170211T124014
-LOCATION:380-380X
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175953
+UID:explore_coursesd5d9fca1-5b79-4116-b2aa-d0bc7bb01115
+DTSTAMP:20170927T175953
+LOCATION:
 DESCRIPTION:Covers the fundamentals of accelerating applications with GPUs (Graphics Processing Units); GPU programming with CUDA and OpenACC, debugging, thrust/CUB, profiling, optimization, debugging, and other CUDA tools. Libraries to easily accelerate compute code will be presented and deployment on larger systems will be addressed, including multi-GPU environments. Several practical examples will be detailed, including deep learning. Pre-requiste: knowledge of C/C++ at the level of CME211 or CS106b.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME253 WKS
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170211T124014
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175953
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

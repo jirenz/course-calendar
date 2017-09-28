@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T152000
-LAST-MODIFIED:20170211T123946
-UID:explore_coursesac7d7877-e181-4b3b-b0c7-3b45865bad59
-DTSTAMP:20170211T123946
-LOCATION:Bishop Auditorium
-DESCRIPTION:Probabilistic modeling and statistical techniques relevant for economics. Concepts include: probability trees, conditional probability, random variables, discrete and continuous distributions, correlation, central limit theorems, point estimation, hypothesis testing and confidence intervals for both one and two populations. Prerequisite: MATH 20 or MATH 41 or equivalent.
+DTEND;TZID=America/Los_Angeles:20170925T152000
+LAST-MODIFIED:20170927T175819
+UID:explore_coursesa07e511c-f9ca-432c-9441-c126c1d7a209
+DTSTAMP:20170927T175819
+LOCATION:320-105
+DESCRIPTION:Probabilistic modeling and statistical techniques relevant for economics. Concepts include: probability trees, conditional probability, random variables, discrete and continuous distributions, correlation, central limit theorems, point estimation, hypothesis testing and confidence intervals for both one and two populations. Prerequisite: MATH 20 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON102A LEC
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

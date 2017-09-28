@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170211T124020
-UID:explore_coursesfca96106-ae4f-4a1c-9c1a-3eb7fea921ef
-DTSTAMP:20170211T124020
-LOCATION:Skillaud
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses03fa8286-86fe-43ad-9184-0418ea931c62
+DTSTAMP:20170927T180001
+LOCATION:
 DESCRIPTION:Review of basic probability and random variables. Random vectors and processes; convergence and limit theorems; IID, independent increment, Markov, and Gaussian random processes; stationary random processes; autocorrelation and power spectral density; mean square error estimation, detection, and linear estimation. Formerly EE 278B. Prerequisites: EE178 and linear systems and Fourier transforms at the level of EE102A,B or EE261.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE278 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20170211T123953
-UID:explore_coursesfaccf2a3-6eb7-4595-9cc2-84e5d362a117
-DTSTAMP:20170211T123953
-LOCATION:Lathrop 198
+DTEND;TZID=America/Los_Angeles:20170926T162000
+LAST-MODIFIED:20170927T175833
+UID:explore_coursesfc4027d8-d502-481a-957d-69db6f393bbf
+DTSTAMP:20170927T175833
+LOCATION:160-319
 DESCRIPTION:Contemporary Japanese culture through Japanese films, documentaries, TV dramas, and animes. Structured for students with a strong desire to advance their Japanese language skills and who have limited class preparation time. Students will engage in in-depth discussion and exploration of social and cultural issues, expand the repertoire of vocabulary, and practice on advanced language skills. Topics may vary depending on student interests. Prerequisite: JAPANLNG 23. See http://japanese.stanford.edu/
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:JAPANLNG113F LNG
-DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170211T123953
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T150000
+CREATED:20170927T175833
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

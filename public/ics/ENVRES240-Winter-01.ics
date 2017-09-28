@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T162000
-LAST-MODIFIED:20170211T124031
-UID:explore_courses82af2d4c-8dda-42d4-bce9-6a8faa845cdc
-DTSTAMP:20170211T124031
-LOCATION:Y2E2 105
+DTEND;TZID=America/Los_Angeles:20180110T162000
+LAST-MODIFIED:20170927T175942
+UID:explore_courses0348a6de-97fe-4961-aade-947366694bde
+DTSTAMP:20170927T175942
+LOCATION:Thornt210
 DESCRIPTION:Mobilizing successful conservation efforts to mitigate climate change and preserve both local and global ecosystems requires a new way of thinking. This course will investigate the barriers to pro-environmental behavior and the heuristics and biases that cloud our ability to respond effectively to environmental problems, using insights from behavioral economics, neuroeconomics, and environmental risk perception. Emphasis on interdisciplinary applications of recent research, and implications for environmental policymaking and persuasive messaging.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENVRES240 SEM
-DTSTART;TZID=America/Los_Angeles:20170111T150000
-CREATED:20170211T124031
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T150000
+CREATED:20170927T175942
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

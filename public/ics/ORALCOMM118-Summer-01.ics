@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170627T215000
-LAST-MODIFIED:20170211T124007
-UID:explore_courses5264addd-416a-4bf2-a1ba-808e61b36f15
-DTSTAMP:20170211T124007
-LOCATION:200-030
+DTEND;TZID=America/Los_Angeles:20180626T215000
+LAST-MODIFIED:20170927T175746
+UID:explore_courses24813793-4cb1-488c-98ee-040105c3fde9
+DTSTAMP:20170927T175746
+LOCATION:
 DESCRIPTION:A practical approach to the art of public speaking. Emphasis is on developing skills in speech types including impromptu, personal experience, interviewing, demonstration, persuasive, and special occasion. Materials include videotape, texts of famous speeches, and a final dinner program of speeches. Students evaluate presentations by others. $55 materials fee. Course was previously offered as CTL 118.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ORALCOMM118 PRC
-DTSTART;TZID=America/Los_Angeles:20170627T190000
-CREATED:20170211T124007
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T215000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180626T190000
+CREATED:20170927T175746
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T215000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

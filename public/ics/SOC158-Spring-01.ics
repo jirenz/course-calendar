@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170211T124004
-UID:explore_coursese962bcb8-2903-4faf-bf19-79b8b6813323
-DTSTAMP:20170211T124004
-LOCATION:ScienceTeachingLearningCntr119
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20170927T175851
+UID:explore_courses498c207d-791b-4098-89d7-d03a7b258eb9
+DTSTAMP:20170927T175851
+LOCATION:McCullough 122
 DESCRIPTION:Will robots, automation, and technology eliminate work and create a large poverty-sticken dependent class?  Or will they eliminate poverty, free us from the tyranny of work, and usher in a new society defined by leisure and creative pursuits?  This two-quarter class is dedicated to exploring new theories about poverty while at the same time incubating applied technology solutions. The first quarter is devoted to examining the theory of technology-based solutions to poverty, and the second quarter is devoted to planning a viable technology-based product that will reduce poverty. This product may then be built in a follow-up Using Tech for Good (Computer Science 50) class in the first quarter of 2018 (but class participants are not required to take that follow-up class). The course is premised on the view that innovative solutions to poverty will be based on new conversations and an authentic collaboration between Silicon Valley and leaders from education, government, and low-income communities
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC158 PRA
-DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

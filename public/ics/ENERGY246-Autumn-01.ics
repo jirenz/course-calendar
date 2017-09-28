@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T162000
-LAST-MODIFIED:20170211T124030
-UID:explore_coursesdbf6ace3-292b-4eee-a7ad-d62102eccf2f
-DTSTAMP:20170211T124030
+DTEND;TZID=America/Los_Angeles:20170929T162000
+LAST-MODIFIED:20170927T175941
+UID:explore_coursesd7d8ffd8-fbee-4833-9091-43344dbdfe3b
+DTSTAMP:20170927T175941
 LOCATION:Green Earth Sciences104
-DESCRIPTION:Project addressing a reservoir management problem by studying an outcrop analog, constructing geostatistical reservoir models, and performing flow simulation. How to use outcrop observations in quantitative geological modeling and flow simulation. Relationships between disciplines. Weekend field trip.
+DESCRIPTION:Course gives an overview of concepts from geology and geophysics relevant for building subsurface reservoir models. Includes a required 1-day field trip and hands-on lab exercises. Target audience: MS and 1st year PhD students in PE/ERE/GS with little or no background in geology or geophysics. Topics include: basin and petroleum systems, depositional settings, deformation and diagenesis, introduction to reflection seismic data, rock and fluid property measurements, geostatistics, and flow in porous media.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY246 LEC
-DTSTART;TZID=America/Los_Angeles:20160930T133000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170929T133000
+CREATED:20170927T175941
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

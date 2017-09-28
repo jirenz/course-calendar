@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses27c9c037-0fd6-48c7-b7aa-74c15881cbaf
-DTSTAMP:20170211T124013
-LOCATION:380-380D
-DESCRIPTION:This course provides an introduction to the relevant processes that shape the coastline, including the hydrodynamical forcing and the resultant coastal morphology. it discusses the natural response of coastal systems to forcing by the environment (e.g. waves, tides, storms), discusses how these affect the sediment budget along the coast, and uses this to explain typical coastal features. Finally we consider different engineering solutions that are available to mitigate erosion, how they influence the system, and what their relative advantages and disadvantages are. Prereq: CEE 101B or equivalent.
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses0f7da093-22df-4f51-96b8-074c8379a148
+DTSTAMP:20170927T175952
+LOCATION:Y2E2 105
+DESCRIPTION:Introduction to the relevant processes that shape the coastline, including the hydrodynamical forcing and the resultant coastal morphology. Discussion of the natural response of coastal systems to forcing by the environment (e.g. waves, tides, storms) and how this forcing affects the sediment budget along the coast. Engineering solutions for mitigation of erosion and the associated advantages and disadvantages of such solutions. Prerequisite: CEE 101B or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE162F LEC
-DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

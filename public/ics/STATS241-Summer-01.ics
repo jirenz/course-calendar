@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T162000
-LAST-MODIFIED:20170211T124005
-UID:explore_coursesad3378d0-2457-4ce8-b513-b41a73f63c37
-DTSTAMP:20170211T124005
+DTEND;TZID=America/Los_Angeles:20180629T162000
+LAST-MODIFIED:20170927T175853
+UID:explore_courses304b9dcc-dcf7-4304-bf03-af45451271c9
+DTSTAMP:20170927T175853
 LOCATION:
 DESCRIPTION:(SCPD students register for 241P) Substantive and empirical modeling approaches in options, interest rate, and credit markets. Nonlinear least squares, logistic regression and generalized linear models. Nonparametric regression and model selection. Multivariate time series modeling and forecasting. Vector autoregressive models and cointegration. Risk measures, models and analytics. Prerequisite or corequisite: STATS 240 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS241 LEC
-DTSTART;TZID=America/Los_Angeles:20170626T150000
-CREATED:20170211T124005
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T162000;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20180629T133000
+CREATED:20170927T175853
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

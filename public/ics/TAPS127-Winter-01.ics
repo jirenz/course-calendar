@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170211T124006
-UID:explore_coursescda8726f-631e-4b18-ab4f-7718648b85c2
-DTSTAMP:20170211T124006
-LOCATION:Memaud204
+DTEND;TZID=America/Los_Angeles:20180109T132000
+LAST-MODIFIED:20170927T175855
+UID:explore_coursesc94c2a12-50bc-4f54-b087-2a2e0cd8d5c6
+DTSTAMP:20170927T175855
+LOCATION:ROBLEG136
 DESCRIPTION:This course is an exploration of movement techniques for the actor, designed to provide a foundation for performance practice. Students will develop a more grounded sense of ease and breath onstage, learn fundamentals of physical partnership, and acquire an expanded physical vocabulary.  Areas of study include Laban movement analysis, observation and embodiment, basic contact improvisation, and physical characterization.  Students will also engage a personalized warmup process for rehearsal and performance. All coursework will be entirely experiential, practical, and participatory.  No previous experience necessary.  Some outside rehearsal/investigation time required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS127 PRA
-DTSTART;TZID=America/Los_Angeles:20170110T113000
-CREATED:20170211T124006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T113000
+CREATED:20170927T175855
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T145000
-LAST-MODIFIED:20170211T124030
-UID:explore_courses86934bdd-68b4-481c-9de9-8c2eed0e0db2
-DTSTAMP:20170211T124030
-LOCATION:50-52E
+DTEND;TZID=America/Los_Angeles:20180110T145000
+LAST-MODIFIED:20170927T175940
+UID:explore_courses40195974-7822-48ab-8d6c-8309c2384467
+DTSTAMP:20170927T175940
+LOCATION:50-52H
 DESCRIPTION:Interdisciplinary student teams create and develop U.S. and international social entrepreneurship initiatives. Proposed initiatives may be new entities, or innovative projects, partnerships, and/or strategies impacting existing organizations and social issues in the U.S. and internationally. Focus is on each team&iquest;s research and on planning documents to further project development. Project development varies with the quarter and the skill set of each team, but should include: issue and needs identification; market research; design and development of an innovative and feasible solution; and drafting of planning documents. In advanced cases, solicitation of funding and implementation of a pilot project. Enrollment limited to 20. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS133 SEM
-DTSTART;TZID=America/Los_Angeles:20170111T133000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T133000
+CREATED:20170927T175940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

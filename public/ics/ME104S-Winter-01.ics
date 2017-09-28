@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T152000
-LAST-MODIFIED:20170211T124023
-UID:explore_coursesf7722273-782b-4c1b-b7cd-6eb1e0afb88c
-DTSTAMP:20170211T124023
-LOCATION:
-DESCRIPTION:DYS uses a Design Thinking approach to help Freshmen and Sophomores learn practical tools and ideas to make the most of their Stanford experience. Topics include the purpose of college, major selection, educational wayfinding, and innovating college outcomes - all applied through an introduction to Design Thinking. This seminar class incorporates small group discussion, in-class activities, field exercises, personal reflection, and individual coaching. Admission to be confirmed by email to Axess registered students prior to first class session.
+DTEND;TZID=America/Los_Angeles:20180111T152000
+LAST-MODIFIED:20170927T180006
+UID:explore_courses563d4e42-03cd-4084-918c-d4af64c1c636
+DTSTAMP:20170927T180006
+LOCATION:STLC118
+DESCRIPTION:DYS uses a Design Thinking approach to help Freshmen and Sophomores learn practical tools and ideas to make the most of their Stanford experience. Topics include the purpose of college, major selection, educational wayfinding, and innovating college outcomes - all applied through an introduction to Design Thinking. This seminar class incorporates small group discussion, in-class activities, field exercises, personal reflection, and individual coaching. Admission to be confirmed by email to Axess registered students prior to first class session. DYS uses a Design Thinking approach to help Freshmen and Sophomores learn practical tools and ideas to make the most of their Stanford experience. Topics include the purpose of college, major selection, educational wayfinding, and innovating college outcomes - all applied through an introduction to design mindsets and practices. This seminar class incorporates small group discussion, in-class activities, field exercises, personal reflection, and individual coaching.  Additional course information  at http://www.designingyourstanford.org.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME104S SEM
-DTSTART;TZID=America/Los_Angeles:20170112T133000
-CREATED:20170211T124023
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T133000
+CREATED:20170927T180006
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

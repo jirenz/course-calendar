@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T112000
-LAST-MODIFIED:20170211T124031
-UID:explore_courses5be1c730-3827-4c3e-885a-f8c8f60e2d3b
-DTSTAMP:20170211T124031
+DTEND;TZID=America/Los_Angeles:20180109T112000
+LAST-MODIFIED:20170927T175943
+UID:explore_courses05de3ebf-af64-4c32-83a4-bcce591afe00
+DTSTAMP:20170927T175943
 LOCATION:Y2E2 101
 DESCRIPTION:How to observe and interpret physical and biological changes in the oceans using satellite technologies. Topics: principles of satellite remote sensing, classes of satellite remote sensors, converting radiometric data into biological and physical quantities, sensor calibration and validation, interpreting large-scale oceanographic features.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS141 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20170211T124031
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T093000
+CREATED:20170927T175943
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

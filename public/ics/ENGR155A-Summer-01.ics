@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T115000
-LAST-MODIFIED:20170211T124020
-UID:explore_coursesfba0fb56-0ce6-47f1-83ed-489dd37b7c7d
-DTSTAMP:20170211T124020
-LOCATION:Thornt110
-DESCRIPTION:Analytical and numerical methods for solving ordinary differential equations arising in engineering applications: Solution of initial and boundary value problems, series solutions, Laplace transforms, and nonlinear equations; numerical methods for solving ordinary differential equations, accuracy of numerical methods, linear stability theory, finite differences. Introduction to MATLAB programming as a basic tool kit for computations. Problems from various engineering fields. Prerequisite: 10 units of AP credit (Calc BC with 4 or 5, or Calc AB with 5), or Math 41 and 42. Recommended: CME100.
+DTEND;TZID=America/Los_Angeles:20180625T145000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses659d222e-22a0-4a58-9c1c-6684bfddf8be
+DTSTAMP:20170927T180001
+LOCATION:
+DESCRIPTION:Analytical and numerical methods for solving ordinary differential equations arising in engineering applications: Solution of initial and boundary value problems, series solutions, Laplace transforms, and nonlinear equations; numerical methods for solving ordinary differential equations, accuracy of numerical methods, linear stability theory, finite differences. Introduction to MATLAB programming as a basic tool kit for computations. Problems from various engineering fields. Prerequisite: 10 units of AP credit (Calc BC with 5, or Calc AB with 5 or placing out of the single variable math placement test: https://exploredegreesnextyear.stanford.edu/undergraduatedegreesandprograms/#aptextt),), or Math 19-21. Recommended: CME100.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR155A LEC
-DTSTART;TZID=America/Los_Angeles:20170626T103000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T115000;BYDAY=MO,TU,WE,TH
+DTSTART;TZID=America/Los_Angeles:20180625T133000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T145000;BYDAY=MO,TU,WE,TH
 END:VEVENT
 END:VCALENDAR

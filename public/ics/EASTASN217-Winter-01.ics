@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170211T123944
-UID:explore_courses331f4c47-274c-4422-aa6e-386a18e5780d
-DTSTAMP:20170211T123944
-LOCATION:200-107
+DTEND;TZID=America/Los_Angeles:20180109T102000
+LAST-MODIFIED:20170927T175815
+UID:explore_coursesea2115b7-9fc5-4b7f-91e1-ba9d2c2ed6df
+DTSTAMP:20170927T175815
+LOCATION:School of Education 210
 DESCRIPTION:China, Japan, and both Koreas. Healthcare economics as applied to East Asian health policy, including economic development, population aging, infectious disease outbreaks (SARS, avian flu), social health insurance, health service delivery, payment incentives, competition, workforce policy, pharmaceutical industry, and regulation. No prior knowledge of economics or healthcare required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EASTASN217 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20170211T123944
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T090000
+CREATED:20170927T175815
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

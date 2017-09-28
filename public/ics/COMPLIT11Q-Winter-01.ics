@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170211T123943
-UID:explore_courses328a3579-8f6f-460f-9b8b-878f8dc4f1c8
-DTSTAMP:20170211T123943
-LOCATION:260-244
-DESCRIPTION:Preference to sophomores. Focus is on several of the best and lesser known plays of Shakespeare, on theatrical and other kinds of playing, and on ambiguities of both gender and playing gender.
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T175811
+UID:explore_coursesfa050e7d-d8a4-4e84-bf86-60dc536e2d80
+DTSTAMP:20170927T175811
+LOCATION:110-114
+DESCRIPTION:Preference to sophomores. Focus is on several of the best and lesser known plays of Shakespeare, on theatrical and other kinds of playing, and on ambiguities of both gender and playing gender. Note: This course must be taken for a letter grade to be eligible for WAYS credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPLIT11Q ISS
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T123943
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175811
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

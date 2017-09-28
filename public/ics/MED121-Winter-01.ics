@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T165000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses4f874117-122d-4573-90c4-5a06cfbe3b52
-DTSTAMP:20170211T124041
+DTEND;TZID=America/Los_Angeles:20161214T165000
+LAST-MODIFIED:20170927T175908
+UID:explore_coursesc651714e-3a6b-4ebc-9c79-f9dbc0a75f1f
+DTSTAMP:20170927T175908
 LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:(Same as MED 121; undergraduate students enroll in MED 121) Open to graduate students and medical students, this course enables students to learn basic principles in the design, performance and analysis of translational medical research studies.  The course includes both didactic seminars from experts in translational medicine as well as the opportunity to design and present a translational research project. Students enrolling for 3 units are paired with a TRAM translational research project and work as a team with TRAM trainees and faculty on a weekly basis, as arranged by the instructor, and present a final project update at the end of the quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED121 SEM
-DTSTART;TZID=America/Los_Angeles:20170111T150000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T165000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20161214T150000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T165000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

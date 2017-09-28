@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T192000
-LAST-MODIFIED:20170211T124006
-UID:explore_coursesa9af5cfa-3187-482b-a23f-f406fddc94ed
-DTSTAMP:20170211T124006
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170929T122000
+LAST-MODIFIED:20170927T175853
+UID:explore_courses0c57e419-278d-412a-8823-70f022d76d08
+DTSTAMP:20170927T175853
+LOCATION:160-323
 DESCRIPTION:(Formerly SYMSYS 100). An overview of the interdisciplinary study of cognition, information, communication, and language, with an emphasis on foundational issues: What are minds? What is computation? What are rationality and intelligence? Can we predict human behavior? Can computers be truly intelligent? How do people and technology interact, and how might they do so in the future? Lectures focus on how the methods of philosophy, mathematics, empirical research, and computational modeling are used to study minds and machines. Undergraduates considering a major in symbolic systems should take this course as early as possible in their program of study.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SYMSYS1 DIS
-DTSTART;TZID=America/Los_Angeles:20160927T183000
-CREATED:20170211T124006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170929T113000
+CREATED:20170927T175853
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

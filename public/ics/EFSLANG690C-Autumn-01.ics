@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20170211T123947
-UID:explore_coursesdd292790-dfce-4fd9-ba7d-ba474bff8495
-DTSTAMP:20170211T123947
+DTEND;TZID=America/Los_Angeles:20170925T145000
+LAST-MODIFIED:20170927T175821
+UID:explore_courses9987cb09-fd0b-40bc-af45-a2ff03d7b279
+DTSTAMP:20170927T175821
 LOCATION:
 DESCRIPTION:Communication skills for extended discourse such as storytelling and presenting supported arguments. Development of interactive listening facility and overall intelligibility and accuracy. Goal is advanced fluency in classroom, professional and social settings. Identification of and attention to individual patterned errors. May be repeated once for credit. Prerequisite: EFSLANG 690B or consent of instructor. Enrollment limited to 14.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EFSLANG690C LNG
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

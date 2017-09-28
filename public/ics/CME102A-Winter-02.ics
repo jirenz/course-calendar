@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20170211T124014
-UID:explore_courses5b5a5b32-e80c-414a-b177-7a658bb3b222
-DTSTAMP:20170211T124014
+DTEND;TZID=America/Los_Angeles:20180109T112000
+LAST-MODIFIED:20170927T175953
+UID:explore_courses56ebd4cf-edef-40a8-9c0b-227d91829724
+DTSTAMP:20170927T175953
 LOCATION:
 DESCRIPTION:Students attend CME102/ENGR155A lectures with additional recitation sessions; two to four hours per week, emphasizing engineering mathematical applications and collaboration methods. Prerequisite: students must be enrolled in the regular section (CME102) prior to submitting application at:nhttps://engineering.stanford.edu/students/programs/engineering-diversity-programs/additional-calculus-engineers
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME102A LEC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T124014
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180109T093000
+CREATED:20170927T175953
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

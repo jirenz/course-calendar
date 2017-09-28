@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170211T124023
-UID:explore_courses5705a1a5-5a29-4cdf-a0ac-e7caf2ebe370
-DTSTAMP:20170211T124023
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T180006
+UID:explore_courses2a164162-c858-48fa-ae74-97a3b31fd859
+DTSTAMP:20170927T180006
 LOCATION:610-615
-DESCRIPTION:Design course focusing on an integrated suite of computer tools: rapid prototyping, solid modeling, computer-aided machining, and computer numerical control manufacturing. Students choose, design, and manufacture individual products, emphasizing individual design process and computer design tools. Field trips demonstrate Stanford Product Realization Lab's relationship to the outside world. Structured lab experiences build a basic CAD/CAM/CNC proficiency. Limited enrollment. Prerequisite: consent of instructor.
+DESCRIPTION:Design course focusing on an integrated suite of computer tools: rapid prototyping, solid modeling, computer-aided machining, and computer numerical control manufacturing. Students choose, design, and manufacture individual products, emphasizing individual design process and computer design tools. Structured lab experiences build a basic CAD/CAM/CNC proficiency. Limited enrollment. Prerequisite: consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME318 LAB
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T124023
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T180006
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

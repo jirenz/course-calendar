@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursesd10d8770-102f-4d47-9a03-21b97c0a7848
-DTSTAMP:20170211T123931
-LOCATION:Lathrop 180
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursesadec9690-6a5e-42bd-bdee-1cd685e21c02
+DTSTAMP:20170927T175938
+LOCATION:Lathrop 190
 DESCRIPTION:How can we use technology to improve learning? Many hope that technology will make learning easier, faster, or accessible to more learners. This course explores a variety of approaches to designing tools for learning, the theories behind them, and the research that tests their effectiveness. Strong focus on evaluating and designing new tools for specific learners and subjects. Space is limited. Priority is given to master's students in the LDT Master's Program. Cardinal Course certified by the Haas Center.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC281 SEM
-DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

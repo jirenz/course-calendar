@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170211T124017
-UID:explore_coursese1a76aa7-5e58-4abf-ace4-6d985349c52e
-DTSTAMP:20170211T124017
-LOCATION:200-205
-DESCRIPTION:Introduction to the fundamental concepts of computer systems through bare metal programming on the Raspberry Pi. Explores how five concepts come together in computer systems: hardware, architecture, assembly code, the C language, and software development tools. Students do all programming with a Raspberry Pi kit and several add-ons (LEDs, buttons). Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, compilation, memory organization and management, debugging, hardware, and I/O. Prerequisite: 106B or X, and consent of instructor.
+DTEND;TZID=America/Los_Angeles:20180402T122000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses4cd08722-7c1a-4efd-86c2-4c8301153b3e
+DTSTAMP:20170927T175958
+LOCATION:Gates B12
+DESCRIPTION:Introduction to the fundamental concepts of computer systems through bare metal programming on the Raspberry Pi. Explores how five concepts come together in computer systems: hardware, architecture, assembly code, the C language, and software development tools. Students do all programming with a Raspberry Pi kit and several add-ons (LEDs, buttons). Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, compilation, memory organization and management, debugging, hardware, and I/O. Prerequisite: 106B or X, and consent of instructor. There is a $50 required lab fee.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS107E LEC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T124017
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

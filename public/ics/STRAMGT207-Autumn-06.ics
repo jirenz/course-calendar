@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T175000
-LAST-MODIFIED:20170211T124027
-UID:explore_courses09542bbc-4ed4-4072-b7ca-906a677cacfd
-DTSTAMP:20170211T124027
-LOCATION:GSB Patterson 102
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175745
+UID:explore_courses243cbf81-12ab-4f9b-8f5b-3633ecb9ae36
+DTSTAMP:20170927T175745
+LOCATION:GSB Class of 1968 106
 DESCRIPTION:This course examines fundamental issues of general management and leadership within an organization. You will learn about setting an organization's strategic direction, aligning structure to implement strategy, and leading individuals within the firm. You will master concepts, frameworks, and tools to assess an industry and a firm's competitive environment, and to craft alternatives. You will study the interplay among formal structure, informal networks, and culture in shaping organizational performance. By integrating leadership theory, the lessons of practical application, and your own experience, you will develop skills and capabilities essential to leading others. And you'll gain a better understanding of your own leadership preferences, strengths, and weaknesses.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STRAMGT207 CAS
-DTSTART;TZID=America/Los_Angeles:20160926T163000
-CREATED:20170211T124027
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=MO,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175745
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T115000;BYDAY=TU,FR
 END:VEVENT
 END:VCALENDAR

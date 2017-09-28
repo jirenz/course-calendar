@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T162000
-LAST-MODIFIED:20170211T124023
-UID:explore_courses08d5bcb0-7103-44d6-b9e8-d8146233558c
-DTSTAMP:20170211T124023
+DTEND;TZID=America/Los_Angeles:20180110T162000
+LAST-MODIFIED:20170927T180006
+UID:explore_courses222209db-d2db-4f50-b90a-835ff2108025
+DTSTAMP:20170927T180006
 LOCATION:550-STUDIO 1
-DESCRIPTION:This class focuses on individuals and their psychological well being. The class delves into how students perceive themselves and their work, and how they might use design thinking to lead a more creative and committed life. As a participant you read parts of a different book each week and then engage in exercises designed to unlock learnings. In addition, there is a self-selected term project dealing with either eliminating a problem from your life or doing something you have never done before. Apply the first day during class. Attendance at first session is mandatory; otherwise, at most one absence is acceptable. Admission by application. See dschool.stanford.edu/classes for more information.
+DESCRIPTION:This class focuses on individuals and their psychological well being. The class delves into how students perceive themselves and their work, and how they might use design thinking to lead a more creative and committed life. As a participant you read parts of a different book each week and then engage in exercises designed to unlock learnings. In addition, there are two self-selected term project dealing with either eliminating a problem from your life or doing something you have never done before. Apply the first day during class. Attendance at first session is mandatory; otherwise, at most one absence is acceptable.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME315 SEM
-DTSTART;TZID=America/Los_Angeles:20170111T133000
-CREATED:20170211T124023
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T133000
+CREATED:20170927T180006
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

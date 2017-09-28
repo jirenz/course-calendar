@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20170211T124018
-UID:explore_coursesc2dca464-805d-4d68-9f0b-0904534dfb62
-DTSTAMP:20170211T124018
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses8dfdda2c-e8fb-4095-a59c-5153f8bfca1e
+DTSTAMP:20170927T175958
 LOCATION:McMurtry Building 102, Oshman
-DESCRIPTION:Primarily for majors entering computer-related fields. Ethical and social issues related to the development and use of computer technology. Ethical theory, and social, political, and legal considerations. Scenarios in problem areas: privacy, reliability and risks of complex systems, and responsibility of professionals for applications and consequences of their work. Prerequisite: 106B or X.
+DESCRIPTION:Primarily for majors entering computer-related fields. Ethical and social issues related to the development and use of computer technology. Ethical theory, and social, political, and legal considerations. Scenarios in problem areas: privacy, reliability and risks of complex systems, and responsibility of professionals for applications and consequences of their work. Prerequisite: 106B or X. To take this course, students need permission of instructor and may need to complete an assignment due at the first day of class.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS181 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T150000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

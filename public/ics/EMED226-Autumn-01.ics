@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T193000
-LAST-MODIFIED:20170211T124037
-UID:explore_coursesbc2fc3f3-456f-4045-909a-90d2776eee47
-DTSTAMP:20170211T124037
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170925T180000
+LAST-MODIFIED:20170927T175902
+UID:explore_courses50a31434-c193-424e-84af-8e2aba169308
+DTSTAMP:20170927T175902
+LOCATION:ArrillagaOutdoorEducRecCtr208B
 DESCRIPTION:A more advanced and intensive class building on wilderness first aid that teaches first responder skills using improvised resources in varying environmental conditions and extended-care situations. This is used as a framework for learning to respond to medical emergencies in remote wilderness settings. Examines necessary tools to make critical medical and evacuation decisions.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EMED226 LEC
-DTSTART;TZID=America/Los_Angeles:20160929T150000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T193000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170925T090000
+CREATED:20170927T175902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T180000;BYDAY=
 END:VEVENT
 END:VCALENDAR

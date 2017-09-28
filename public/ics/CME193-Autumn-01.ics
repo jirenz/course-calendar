@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161004T115000
-LAST-MODIFIED:20170211T124014
-UID:explore_courses88ed090c-6c82-4b5d-9298-a795da3ea416
-DTSTAMP:20170211T124014
-LOCATION:Hewlett Teaching Center 200
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175953
+UID:explore_courses80a6e485-9c75-4191-b8cf-53aa0fd60ac2
+DTSTAMP:20170927T175953
+LOCATION:Bishop Auditorium
 DESCRIPTION:This short course runs for the first four weeks of the quarter. It is recommended for students who are familiar with programming at least at the level of CS106A and want to translate their programming knowledge to Python with the goal of becoming proficient in the scientific computing and data science stack. Lectures will be interactive with a focus on real world applications of scientific computing. Technologies covered include Numpy, SciPy, Pandas, Scikit-learn, and others. Topics will be chosen from Linear Algebra, Optimization, Machine Learning, and Data Science. Prior knowledge of programming will be assumed, and some familiarity with Python is helpful, but not mandatory.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME193 WKS
-DTSTART;TZID=America/Los_Angeles:20161004T103000
-CREATED:20170211T124014
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161025T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175953
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

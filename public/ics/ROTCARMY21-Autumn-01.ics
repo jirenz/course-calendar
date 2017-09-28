@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T090500
-LAST-MODIFIED:20170211T124008
-UID:explore_courses49b0915c-2eaa-4b99-8409-2403d4129ab0
-DTSTAMP:20170211T124008
+DTEND;TZID=America/Los_Angeles:20170925T090500
+LAST-MODIFIED:20170927T175748
+UID:explore_coursesedcf2636-dc13-4884-b082-fccf2ddb7a52
+DTSTAMP:20170927T175748
 LOCATION:
 DESCRIPTION:Explores the dimensions of creative leadership strategies and styles by studying historical cases and engaging in interactive exercises. Students practice aspects of personal motivation and team building within the context of planning, executing and assessing team exercises. Focus will be on the continued development of the knowledge of leadership values and attributes through an understanding of organizational customs and courtesies. Leadership case studies provide tangible context for learning Individual Creeds and Organizational Ethos.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ROTCARMY21 SEM
-DTSTART;TZID=America/Los_Angeles:20160926T080000
-CREATED:20170211T124008
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T090500;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T080000
+CREATED:20170927T175748
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T090500;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

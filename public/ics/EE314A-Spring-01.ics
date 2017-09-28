@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses5e6bd1ba-dc3a-4132-a5c1-928452c17999
-DTSTAMP:20170211T124020
-LOCATION:Huang Engineerig Center 18
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses7eddaed3-4e17-457b-bf2d-514aaa57a57c
+DTSTAMP:20170927T180001
+LOCATION:380-380Y
 DESCRIPTION:Design of RF integrated circuits for communications systems, primarily in CMOS. Topics: the design of matching networks and low-noise amplifiers at RF, mixers, modulators, and demodulators; review of classical control concepts necessary for oscillator design including PLLs and PLL-based frequency synthesizers. Design of low phase noise oscillators. Design of high-efficiency (e.g., class E, F) RF power amplifiers, coupling networks. Behavior and modeling of passive and active components at RF. Narrowband and broadband amplifiers; noise and distortion measures and mitigation methods. Overview of transceiver architectures. Prerequisite: EE214B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE314A LEC
-DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T150000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T132000
-LAST-MODIFIED:20170211T123933
-UID:explore_coursesa936a695-1e40-4cc5-bcb0-6c86c29baf9e
-DTSTAMP:20170211T123933
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180111T132000
+LAST-MODIFIED:20170927T175753
+UID:explore_courses6f39640f-1739-4c0a-b039-e49d2dd53429
+DTSTAMP:20170927T175753
+LOCATION:Encina West 108
 DESCRIPTION:Students to engage in an intellectual discussion about the African Diaspora with leading faculty at Stanford across departments including Education, Linguistics, Sociology, History, Political Science, English, and Theater &amp; Performance Studies. Several lunches with guest speakers. This course will meet in the Program for African &amp; African American Studies Office in Building 360 Room 362B (Main Quad). This course is limited to Freshman and Sophomore enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AFRICAAM31 SEM
-DTSTART;TZID=America/Los_Angeles:20170112T120000
-CREATED:20170211T123933
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T120000
+CREATED:20170927T175753
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

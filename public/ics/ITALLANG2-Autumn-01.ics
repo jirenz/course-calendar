@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170211T123953
-UID:explore_coursesdcfe841b-911d-4715-803d-6f62c1a263a9
-DTSTAMP:20170211T123953
+DTEND;TZID=America/Los_Angeles:20170925T122000
+LAST-MODIFIED:20170927T175832
+UID:explore_courses1343aed0-77aa-41e1-8a12-3c5f2fc6a48d
+DTSTAMP:20170927T175832
 LOCATION:School of Education 229
 DESCRIPTION:Continuation of ITALLANG 1. All-in-Italian communicative and interactive approach. Emphasis is on the development of appropriate discourse in contemporary cultural contexts. Interpretation of authentic materials, written and oral presentations, and plenty of conversational practice. Language lab, multimedia, and online activities. Prerequisite: Itallang 1 or placement test.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ITALLANG2 LNG
-DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170211T123953
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20170925T113000
+CREATED:20170927T175832
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

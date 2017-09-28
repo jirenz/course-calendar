@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170211T124004
-UID:explore_courses3402beb4-baf1-4104-8a96-7ef957d295a0
-DTSTAMP:20170211T124004
-LOCATION:110-114
+DTEND;TZID=America/Los_Angeles:20170925T122000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesf1f3ca16-68fe-4a09-a73c-cf2a838f6afb
+DTSTAMP:20170927T175851
+LOCATION:260-301
 DESCRIPTION:For students who have completed second-year Spanish or who have oral skills above the intermediate level. Interactive activities require students to persuade, analyze, support opinions, and gather and interpret others' points of view. Focus is on vocabulary enrichment and idiomatic expressions. Cultural, literary, political, and journalistic readings. May be repeated once for credit. Prerequisite: SPANLANG 13 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPANLANG100 LNG
-DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T113000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

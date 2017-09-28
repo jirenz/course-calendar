@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T172000
-LAST-MODIFIED:20170211T123952
-UID:explore_coursesfd93601e-6058-4f74-82f8-25336e89f81a
-DTSTAMP:20170211T123952
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180110T172000
+LAST-MODIFIED:20170927T175831
+UID:explore_courses988bcc5c-c279-4f41-a9b3-4322b8312d8b
+DTSTAMP:20170927T175831
+LOCATION:School of Education 210
 DESCRIPTION:Unusual mental phenomena have existed throughout history and across cultures. Taught by an anthropologist and psychiatrist, this course explores how different societies construct the notions of &quot;madness&quot;: What are the boundaries between &quot;normal&quot; and &quot;abnormal&quot;, reason and unreason, mind and body, diversity and disease? The course will be taught in conjunction with a two unit engaged learning component which will place students in relevant settings.nnOptional: The course will be taught in conjunction with an optional two-unit engaged learning component
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO146 DIS
-DTSTART;TZID=America/Los_Angeles:20170111T163000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T163000
+CREATED:20170927T175831
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

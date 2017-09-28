@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T102000
-LAST-MODIFIED:20170211T124001
-UID:explore_coursese6683b7f-7269-403b-8d1d-b51875d9a65c
-DTSTAMP:20170211T124001
-LOCATION:160-323
+DTEND;TZID=America/Los_Angeles:20180402T102000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses736bc931-c820-4c61-8011-58d042f40eba
+DTSTAMP:20170927T175846
+LOCATION:160-B36
 DESCRIPTION:For students with two years of college level study or equivalent  of a Romance language, preferably Spanish. Goal is to use socially and culturally appropriate forms in conversations, providing and obtaining information, and expressing feelings, emotions, and opinions. Students learn the language as they contrast Brazilian culture with their own. Lab. Completion of PORTLANG 2A fulfills the University's foreign language requirement.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PORTLANG1A LNG
-DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20180402T093000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

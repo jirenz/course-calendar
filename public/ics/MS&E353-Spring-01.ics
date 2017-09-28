@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T175000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursese47f5dda-c4f5-4dd6-9639-7658a3a58461
-DTSTAMP:20170211T124021
-LOCATION:Huang Engineering Center 203
+DTEND;TZID=America/Los_Angeles:20180405T175000
+LAST-MODIFIED:20170927T180002
+UID:explore_courses394741ed-ae6c-45be-8d59-73a1badc2130
+DTSTAMP:20170927T180002
+LOCATION:
 DESCRIPTION:The concept of decision composite; probabilistic insurance and other challenges to the normative approach; the relationship of decision analysis to classical inference and data analysis procedures; the likelihood and exchangeability principles; inference, decision, and experimentation using conjugate distributions; developing a risk attitude based on general properties; alternative decision aiding practices such as analytic hierarchy and fuzzy approaches. Student presentations on current research. Goal is to prepare doctoral students for research. Prerequisite: 352.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E353 LEC
-DTSTART;TZID=America/Los_Angeles:20170406T150000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T150000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

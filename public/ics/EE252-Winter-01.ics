@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses77a8c77a-86c0-484e-911f-914471c8336a
-DTSTAMP:20170211T124020
-LOCATION:380-380F
+DTEND;TZID=America/Los_Angeles:20180108T132000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses83c24269-cd37-48a0-91a9-d156c6ca117f
+DTSTAMP:20170927T180001
+LOCATION:Thornt208
 DESCRIPTION:This course aims to cover the theory, simulation, and hands-on experiment in antenna design.  Topics include: basic parameters to describe the performance and characteristics of an antenna, link budget analyses, solving the fields from a Hertizian dipole, duality, equivalence principle, reciprocity, linear wire antenna, circular loop antenna, antenna array, slot and patch antennas, helical antennas, wideband antennas, size reduction techniques, wideband small antennas, and circularly polarized (CP) small antennas.  Students will learn to use a commercial electromagnetic stimulator in lab sessions.  A final project is designed to solve a research antenna design problem in biomedical area or wireless communications.  Prerequisite: EE 142 or Physics 120 or equivalent.  Enrollment capacity limited to 25 students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE252 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T123000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

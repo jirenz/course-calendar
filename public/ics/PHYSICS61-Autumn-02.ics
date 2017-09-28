@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20170211T123959
-UID:explore_courses2698737a-cd45-4fbd-b1b5-7078a18f0e84
-DTSTAMP:20170211T123959
+DTEND;TZID=America/Los_Angeles:20170925T162000
+LAST-MODIFIED:20170927T175844
+UID:explore_courses2836915c-14d7-421d-91c7-833d434c6c35
+DTSTAMP:20170927T175844
 LOCATION:Green Earth Sciences150
-DESCRIPTION:(First in a three-part advanced freshman physics series: PHYSICS 61, PHYSICS 63, PHYSICS 65.) This course covers Einstein's special theory of relativity and Newtonian mechanics at a level appropriate for students with a strong high school mathematics and physics background, who are contemplating a major in Physics or Engineering Physics, or are interested in a rigorous treatment of physics. Postulates of special relativity, simultaneity, time dilation, length contraction, the Lorentz transformation, causality, and relativistic mechanics. Central forces, contact forces, linear restoring forces. Momentum transport, work, energy, collisions. Angular momentum, torque, moment of inertia in three dimensions. Damped and forced harmonic oscillators. Uses the language of vectors and multivariable calculus. Recommended prerequisites: Mastery of mechanics at the level of AP Physics C and AP Calculus BC or equivalent. Corequisite: MATH 51.
+DESCRIPTION:(First in a three-part advanced freshman physics series: PHYSICS 61, PHYSICS 63, PHYSICS 65.) This course covers Einstein's special theory of relativity and Newtonian mechanics at a level appropriate for students with a strong high school mathematics and physics background, who are contemplating a major in Physics or Engineering Physics, or are interested in a rigorous treatment of physics. Postulates of special relativity, simultaneity, time dilation, length contraction, the Lorentz transformation, causality, and relativistic mechanics. Central forces, contact forces, linear restoring forces. Momentum transport, work, energy, collisions. Angular momentum, torque, moment of inertia in three dimensions. Damped and forced harmonic oscillators. Uses the language of vectors and multivariable calculus. Recommended prerequisites: Mastery of mechanics at the level of AP Physics C and AP Calculus BC or equivalent. Corequisite: MATH 51 or MATH 61CM or MATH 61DM.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS61 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T150000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

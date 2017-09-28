@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170211T123948
-UID:explore_coursesb87a01b4-3da7-4487-917f-954e9cb9094e
-DTSTAMP:20170211T123948
-LOCATION:260-012
-DESCRIPTION:(Graduate Students register for PHIL 253 or FEMGEN 203) Concepts and questions distinctive of feminist and LGBT scholarship and how they shape research: gender, intersectionality, disciplinarity and interdisciplinarity, standpoint, &quot;queering,&quot; postmodern critiques, postcolonial critiques.nPrerequisites:  Feminist Studies 101 or equivalent with consent of instructor.nNOTE:  This course must be taken for a letter grade and a minimum of 3 units to be eligible for WAYS credit.  The 2 unit option is for graduate students only.
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T175823
+UID:explore_courses67506f3a-4100-47c3-85ab-a70d0add28fa
+DTSTAMP:20170927T175823
+LOCATION:240-110
+DESCRIPTION:(Graduate Students register for PHIL 279A or FEMGEN 203) This course is an opportunity to explore the difference feminist and queer perspectives make in creative arts, humanities, and social science research.nPrerequisites:  Feminist Studies 101 or equivalent with consent of instructor.nNOTE:  This course must be taken for a letter grade and a minimum of 3 units to be eligible for WAYS credit.  The 2 unit option is for graduate students only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FEMGEN203 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T123948
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175823
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

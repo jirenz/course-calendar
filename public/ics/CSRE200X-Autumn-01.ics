@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170211T123943
-UID:explore_courses7d4a323e-c1fb-420b-89c8-0603188ff2ba
-DTSTAMP:20170211T123943
-LOCATION:360-361K
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175813
+UID:explore_courses9154a50a-9e6b-4af5-a69f-b3236fa2c5db
+DTSTAMP:20170927T175813
+LOCATION:School of Education 210
 DESCRIPTION:Required for CSRE-related students, including those who opt to write honors theses in other departments and programs. Research and the writing of the senior honors thesis or senior paper under the supervision of a faculty project adviser. The process of research including conceptualization, development of prospectus, development of theses, research, analysis, and writing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CSRE200X SEM
-DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20170211T123943
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175813
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170211T123936
-UID:explore_courses5a671886-3afa-4c07-aae3-c99062014fa8
-DTSTAMP:20170211T123936
-LOCATION:School of Education 334
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T175757
+UID:explore_courses50bbe8ee-1c21-45bc-bbe6-2089b6f02d34
+DTSTAMP:20170927T175757
+LOCATION:200-217
 DESCRIPTION:Seminar. The state, private sector, development agencies, and NGOs in development and conservation of tropical land use. Focus is on the socioeconomic and political drivers of resource extraction and agricultural production. Case studies used to examine the local-to-global context from many disciplines. Are maps and analyses used for gain, visibility, accountability, or contested terrain? How are power dynamics, land use history, state-private sector collusion, and neoliberal policies valued? What are the local and extra-local responses?
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO266 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175757
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

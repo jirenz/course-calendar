@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T152000
-LAST-MODIFIED:20170211T124025
-UID:explore_courses90c7fa61-a115-41a5-9f2b-fe0ee8256846
-DTSTAMP:20170211T124025
-LOCATION:GSB Class of 1968 110
-DESCRIPTION:This course covers various topics in macroeconomics and is designed to expose students to macroeconomic methods, classic papers in the field, and the latest research at the frontier.  The current focus is on economic growth.  Using theoretical and empirical tools, we consider questions like: How do we understand long-run growth in per capita income?  Why are some countries so much richer than others?  Other topics include misallocation as a source of TFP differences, the direction of technical change, growth and the environment, the rise in health spending, patenting, and international trade.nnnThis course satisfies the GSB PhD macro requirement.
+DTEND;TZID=America/Los_Angeles:20170926T152000
+LAST-MODIFIED:20170927T175741
+UID:explore_coursesf568f56e-3ac8-443e-b740-99d32103d719
+DTSTAMP:20170927T175741
+LOCATION:GSB Patterson 101
+DESCRIPTION:This course covers various topics in macroeconomics and is designed to expose students to macroeconomic methods, classic papers in the field, and the latest research at the frontier.  The current focus is on economic growth.  Using theoretical and empirical tools, we consider questions like: How do we understand long-run growth in per capita income?  Why are some countries so much richer than others?  Other topics include misallocation as a source of TFP differences, the direction of technical change, growth and the environment, the rise in health spending, patenting, and international trade.nnThis course satisfies the GSB PhD macro requirement.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MGTECON610 CAS
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T124025
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175741
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

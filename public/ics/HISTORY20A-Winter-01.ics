@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T132000
-LAST-MODIFIED:20170211T123951
-UID:explore_coursesba2539b4-cd00-4282-933a-d3048d6d701a
-DTSTAMP:20170211T123951
-LOCATION:200-030
+DTEND;TZID=America/Los_Angeles:20180108T122000
+LAST-MODIFIED:20170927T175829
+UID:explore_courses03e62ab5-0a20-42af-80fe-4328ca36fa63
+DTSTAMP:20170927T175829
+LOCATION:540-108
 DESCRIPTION:(Same as HISTORY 120A. History majors and others taking 5 units, register for 120A.) Explores rise of Russian state and expanse of empire; patterns of governance of a Eurasian empire; strategies and institutions of governance; survey of various ethnic and religious groups in empire and their varied cultures and political economies; gender and family; serfdom; Russian Orthodox religion and culture; reforms and Europeanization of 18th century.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY20A LEC
-DTSTART;TZID=America/Los_Angeles:20170109T123000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T113000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,TU,WE,TH
 END:VEVENT
 END:VCALENDAR

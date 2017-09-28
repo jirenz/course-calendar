@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T175000
-LAST-MODIFIED:20170211T124018
-UID:explore_courses61b7d831-cc9f-4c6a-9d4b-fbf5fb04675a
-DTSTAMP:20170211T124018
-LOCATION:380-380Y
-DESCRIPTION:Team project in data-mining of very large-scale data, including the problem statement and implementation and evaluation of a solution.  Teams consist of three students each, and they will meet regularly with a &quot;coach&quot; chosen from participating staff.  Early lectures will cover the use of Amazon EC2 and certain systems like Hadoop and Hive.  Occasional lectures thereafter will feature outside speakers, special topics of interest, and progress reports by the teams.
+DTEND;TZID=America/Los_Angeles:20180402T175000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses2fd52e00-854f-49df-9f6b-5da49ac162c5
+DTSTAMP:20170927T175958
+LOCATION:Gates B12
+DESCRIPTION:Team project in data mining and machine learning of very large-scale data, including the problem statement, implementation, and evaluation of a solution. Students work on real problems on real-world data. The course provides access to large real-world data and access to big data cloud computing infrastructure (Amazon EC2, Google Cloud Platform). Some lectures on relevant materials will be given (Hadoop, Spark, Hive, Amazon EC2) as well as other topics of relevance to projects.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS341 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T163000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T163000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

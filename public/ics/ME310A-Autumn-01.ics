@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T175000
-LAST-MODIFIED:20170211T124023
-UID:explore_courses1c01cfde-9915-40c5-9eba-dec5764585ca
-DTSTAMP:20170211T124023
+DTEND;TZID=America/Los_Angeles:20170926T175000
+LAST-MODIFIED:20170927T180006
+UID:explore_coursescc212c5d-4d13-4174-8ad0-7871796c70d8
+DTSTAMP:20170927T180006
 LOCATION:550-200
-DESCRIPTION:This is the 1st quarter of a 3-quarter sequence. It may be taken as a stand-alone course, and is a pre-requisite for ME310BC. It is designed for engineering graduate students seeking a start-up-like experience on projects related to sustainability, automotive interfaces, biomedical devices, robotics, and user interaction design. The ME310 Design Loft (bldg. 550 rm204) is your start-up flight-simulator. In October student teams are paired with teams from overseas partner universities. At that time, global corporations will present break-through product innovation challenges. The Stanford and partner teams engage in design exploration using design thinking methodology including team-dynamics, rapid prototyping and human-centric problem framing. A final report, based on functional prototype testing, defines design requirements and user experience opportunities for Winter and Spring.
+DESCRIPTION:Reality is the best teacher.  The best teachers are coaches.  The best learners are in teams of 3-4 persons.  We offer an extraordinary Coaching Team to help guide you towards rewarding your time at Stanford.  Your mission is to create the personal self-efficacy that you need to engage wicked design problems of your own invention.  In October you will Kick-Off your connection to an international team of (3-4) multi-disciplinary graduate students at distinguished universities across the world.  They come to Stanford to meet you.  You will also meet the team of company liaisons who are funding you to re-invent-X, to be a start-up in Silicon Valley.  Expect 10 different industry funded design challenges at the human interface to Robots, AI, Internet of Things, Autonomous vehicles and Smart Cities.  ME310A is dedicated to exploring the problem space (your best creative opportunity) using strategic-foresight, design thinking, team-dynamics-management, rapid prototyping, and human-centric problem RE-framing.  Take ME310ABC.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME310A LEC
-DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170211T124023
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T163000
+CREATED:20170927T180006
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

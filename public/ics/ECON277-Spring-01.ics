@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T132000
-LAST-MODIFIED:20170211T123946
-UID:explore_coursescaf467ab-cf46-4677-b93a-0567a3e5d7cb
-DTSTAMP:20170211T123946
-LOCATION:Econ 206
+DTEND;TZID=America/Los_Angeles:20180402T132000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses79f1311c-902e-46a9-91f7-a9729384a06b
+DTSTAMP:20170927T175819
+LOCATION:Econ 140
 DESCRIPTION:Economics 277 is a course for graduate students in the Economics department writing dissertations with behavioral or experimental components. Economics 277 is part of a three course sequence (along with Econ 278 &amp; 279), which has two main objectives: 1) examining theories and evidence related to the psychology of economic decision making; 2) introducing methods of experimental economics, and exploring major subject areas (including those not falling within behavioral economics) that have been addressed through laboratory experiments. Focuses on series of experiments that build on one another in an effort to test between competing theoretical frameworks, with the objectives of improving the explanatory and predictive performance of standard models, and of providing a foundation for more reliable normative analyses of policy issues. Prerequisites: 204 and 271, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON277 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T113000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T113000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

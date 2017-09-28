@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T152000
-LAST-MODIFIED:20170211T124043
-UID:explore_coursesb1be12b7-a0f3-45a0-878f-b527cd5f41be
-DTSTAMP:20170211T124043
-LOCATION:Li Ka Shing Center, room 130
+DTEND;TZID=America/Los_Angeles:20180111T152000
+LAST-MODIFIED:20170927T175911
+UID:explore_courses62257e67-2d08-46ff-8e03-38886e46757d
+DTSTAMP:20170927T175911
+LOCATION:
 DESCRIPTION:Structure and function of the nervous system, including neuroanatomy, neurophysiology, and systems neurobiology. Topics include the properties of neurons and the mechanisms and organization underlying higher functions. Framework for general work in neurology, neuropathology, clinical medicine, and for more advanced work in neurobiology. Lecture and lab components must be taken together.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NBIO206 LEC
-DTSTART;TZID=America/Los_Angeles:20170112T133000
-CREATED:20170211T124043
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T133000
+CREATED:20170927T175911
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180309T152000;BYDAY=TH
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T124043
-UID:explore_courses547b363a-c18a-449e-a882-bb63358ed51e
-DTSTAMP:20170211T124043
-LOCATION:Li Ka Shing Center, room 130
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T175911
+UID:explore_courses5571762f-ea9b-455a-851a-ed164dbc626b
+DTSTAMP:20170927T175911
+LOCATION:
 DESCRIPTION:Structure and function of the nervous system, including neuroanatomy, neurophysiology, and systems neurobiology. Topics include the properties of neurons and the mechanisms and organization underlying higher functions. Framework for general work in neurology, neuropathology, clinical medicine, and for more advanced work in neurobiology. Lecture and lab components must be taken together.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NBIO206 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T124043
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20170927T175911
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180309T112000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

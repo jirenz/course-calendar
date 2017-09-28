@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T190000
-LAST-MODIFIED:20170211T124008
-UID:explore_courses9051e542-d57a-4c7c-a909-43671591640b
-DTSTAMP:20170211T124008
+DTEND;TZID=America/Los_Angeles:20180405T190000
+LAST-MODIFIED:20170927T175748
+UID:explore_courses2621ec00-cede-477d-a575-ee2735df1bc9
+DTSTAMP:20170927T175748
 LOCATION:
 DESCRIPTION:Traces the U.S. historical evolution of sea power, its concepts, theories and applications. Emphasizes the impact of world situation, U.S. national interest, changing technology, and naval leadership on the evolving concept of sea power. Relates historical developments to current trends. Examines briefly the U.S. Merchant Marine's and the former Soviet Navy's impact on sea power policy formulation.  Two hours of lecture per week.  Course is offered in the Winter/Spring Quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ROTCNAVY12 SEM
-DTSTART;TZID=America/Los_Angeles:20170406T170000
-CREATED:20170211T124008
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T190000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T170000
+CREATED:20170927T175748
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T190000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

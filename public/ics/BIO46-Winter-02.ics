@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T172000
-LAST-MODIFIED:20170211T123939
-UID:explore_coursesf260c34b-1319-4b22-8c9d-7f3ef585e288
-DTSTAMP:20170211T123939
+DTEND;TZID=America/Los_Angeles:20180111T132000
+LAST-MODIFIED:20170927T175802
+UID:explore_courses8f4eba63-ba4d-4950-88d4-c02ce4e84bad
+DTSTAMP:20170927T175802
 LOCATION:
 DESCRIPTION:The goal of this course is to develop an understanding of how to conduct biological research, using a topic in Ecology, Evolutionary Biology, and Plant Biology as a practical example. This includes the complete scientific process: assessing background literature, generating testable hypotheses, learning techniques for field- and lab-based data collection, analyzing data using appropriate statistical methods, and writing and sharing results. To build these skills, this course focuses on the microorganisms associated with lichen epiphytes. Students, working in teams, develop novel research hypotheses and execute the necessary experiments and measurements to test these hypotheses.  In addition, students will learn how to manipulate, visualize and analyze data in R. The capstone of the course is an oral defense of students' findings, as well as a research paper in the style of a peer-reviewed journal article. Labs are completed both on campus and at Jasper Ridge. Lab fee. Information about this class is available at http://bio44.stanford.edu. Satisfies WIM in Biology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO46 LBS
-DTSTART;TZID=America/Los_Angeles:20170112T133000
-CREATED:20170211T123939
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T093000
+CREATED:20170927T175802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

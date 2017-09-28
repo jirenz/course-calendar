@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T090500
-LAST-MODIFIED:20170211T124008
-UID:explore_courses1a9cf786-30d4-4313-8ba2-842a4d469434
-DTSTAMP:20170211T124008
+DTEND;TZID=America/Los_Angeles:20170925T090500
+LAST-MODIFIED:20170927T175933
+UID:explore_coursesd2f46754-84e2-4b10-92ed-0974f77dffe6
+DTSTAMP:20170927T175933
 LOCATION:
 DESCRIPTION:Introduces students to the personal challenges and competencies that are critical for effective leadership. Students learn how the personal development of life skills such as goal setting, time management, physical fitness, and stress management relate to leadership and officership. Students develop their own personal fitness program under the guidance of an Army master fitness trainer.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ROTCARMY11 ACT
-DTSTART;TZID=America/Los_Angeles:20160926T080000
-CREATED:20170211T124008
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T090500;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T080000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T090500;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161010T175000
-LAST-MODIFIED:20170211T124026
-UID:explore_coursesa77b7985-c629-4c7d-bec3-61785239377a
-DTSTAMP:20170211T124026
-LOCATION:GSB McClelland 105
+DTEND;TZID=America/Los_Angeles:20170925T175000
+LAST-MODIFIED:20170927T175743
+UID:explore_coursese1fe0e3f-79ed-43c6-9217-b95277224b22
+DTSTAMP:20170927T175743
+LOCATION:GSB Faculty East 102
 DESCRIPTION:The aim of this course is to provide insight into the psychology of persuasion. We will explore research and theory in this domain and discuss potentially powerful techniques for changing people's attitudes and behaviors. We will apply our insights broadly to examine the features that make for an effective persuasive appeal in a wide range of settings (e.g., an ad, a pitch to investors, etc.), and students will practice designing and implementing persuasive messages.  In each session, I will share classic and cutting edge research on persuasion emanating from the fields of social and consumer psychology.  These insights will be organized around a few basic principles.  We will then work together to brainstorm and practice the application of the insights to real world persuasion settings.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MKTG532 SEM
-DTSTART;TZID=America/Los_Angeles:20161010T150000
-CREATED:20170211T124026
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161021T175000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T150000
+CREATED:20170927T175743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171006T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

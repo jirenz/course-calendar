@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T175000
-LAST-MODIFIED:20170211T124013
-UID:explore_coursesc28b743d-0e56-45ac-8e26-672578664f27
-DTSTAMP:20170211T124013
-LOCATION:Shriram Ctr BioChemE 104
+DTEND;TZID=America/Los_Angeles:20180111T132000
+LAST-MODIFIED:20170927T175952
+UID:explore_coursese45c9589-877b-466e-8766-1ae04f321823
+DTSTAMP:20170927T175952
+LOCATION:Y2E2 111
 DESCRIPTION:The Sustainable Urban Systems (SUS) Seminar Series will feature speakers from academia, practice, industry, and government who are on the forefront of research and innovation in sustainable urban systems.  The SUS Seminar will be open to the public; students will have the option of obtaining 1 unit of course credit based on attendance and completion of writing assignments.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE224S SEM
-DTSTART;TZID=America/Los_Angeles:20170112T163000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T120000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

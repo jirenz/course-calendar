@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170123T175000
-LAST-MODIFIED:20170211T124027
-UID:explore_courses68e8b556-e9ef-4919-8772-e1970c9e5eeb
-DTSTAMP:20170211T124027
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T175744
+UID:explore_courses6bd2236b-e71c-4e5c-9b01-28fde5d4d485
+DTSTAMP:20170927T175744
 LOCATION:
-DESCRIPTION:The course focuses on the analysis and design of business models that are enabled by information technology.  It considers the impact of information technology on multiple industries and how you can take advantage of new opportunities that are enabled by new technologies. nThe course is a compressed 2-unit course, with three double-sessions during the first week of the course and three double-sessions during the third week. During the intermediate week, students work on a final project where they design or analyze a business model. nnEach double-session analyzes a different aspect of business models that are enabled by information technology. Topics include online platforms, business models for online retail, electronic commerce logistics, disruptive technologies, value chain coordination in healthcare, and mobile value chains.nnThe course requires a strong analytic background and knowledge of fundamental aspects of information technology. MSx students may petition to take the course.
+DESCRIPTION:The course focuses on the analysis and design of business models that are enabled by Information Technology (IT). It considers the impact of IT on multiple industries and ways to take advantage of new opportunities that are enabled by new technologies. Instructional methods include case studies involving both qualitative and quantitative analyses; homework assignments involving quantitative and some qualitative analyses; and a course project involving the design of a new or incremental business model that takes advantage of modern IT.  nnA typical class will cover an aspect of a business model which is enabled by IT in an industry which is transformed by technology.  Sample topics include the transformation of retail, media, electronic commerce logistics, disruptive technologies, value chain coordination in healthcare, and mobile value chains.nnThe course requires a strong analytic background and knowledge of fundamental aspects of IT. MSx students may petition to take the course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT356 CAS
-DTSTART;TZID=America/Los_Angeles:20170123T150000
-CREATED:20170211T124027
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170127T175000;BYDAY=MO,WE,FR
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T175000
-LAST-MODIFIED:20170211T124027
-UID:explore_coursesbcc7540b-1069-450d-a15e-2cc601645683
-DTSTAMP:20170211T124027
-LOCATION:GSB Patterson 102
-DESCRIPTION:The course focuses on the analysis and design of business models that are enabled by information technology.  It considers the impact of information technology on multiple industries and how you can take advantage of new opportunities that are enabled by new technologies. nThe course is a compressed 2-unit course, with three double-sessions during the first week of the course and three double-sessions during the third week. During the intermediate week, students work on a final project where they design or analyze a business model. nnEach double-session analyzes a different aspect of business models that are enabled by information technology. Topics include online platforms, business models for online retail, electronic commerce logistics, disruptive technologies, value chain coordination in healthcare, and mobile value chains.nnThe course requires a strong analytic background and knowledge of fundamental aspects of information technology. MSx students may petition to take the course.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:OIT356 CAS
-DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20170211T124027
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170113T175000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175744
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

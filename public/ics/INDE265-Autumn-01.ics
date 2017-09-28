@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160901T125000
-LAST-MODIFIED:20170211T124041
-UID:explore_coursescccdac39-50aa-401b-9734-f90b00f98054
-DTSTAMP:20170211T124041
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170831T122000
+LAST-MODIFIED:20170927T175909
+UID:explore_courses68af2d93-6d89-4e8b-8c0e-75bdcf2733e8
+DTSTAMP:20170927T175909
+LOCATION:Li Ka Shing Center,rms101/102
 DESCRIPTION:Second course in a two-course series exploring microbiology, pathogenesis, and clinical issues associated with infectious diseases. Patient cases springboard discussion on microbiomes, diarrhea, hepatitis, STIs, helminths, zoonoses. and systemic diseases.  Online videos and self-assessments followed by interactive sessions and problem sets.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE265 LEC
-DTSTART;TZID=America/Los_Angeles:20160901T093000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T125000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170831T103000
+CREATED:20170927T175909
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

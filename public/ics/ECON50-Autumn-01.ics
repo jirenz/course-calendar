@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses1dff5f21-8ebf-4aa0-af5b-0c1505e78dad
-DTSTAMP:20170211T123946
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses3ebc2053-ac92-4f7c-b5ef-8da695ee60b2
+DTSTAMP:20170927T175819
 LOCATION:Hewlett Teaching Center 201
-DESCRIPTION:Individual consumer and firm behavior under perfect competition. The role of markets and prices in a decentralized economy. Monopoly in partial equilibrium. Economic tools developed from multivariable calculus using partial differentiation and techniques for constrained and unconstrained optimization. Prerequisites: Econ 1 or 1V, and Math 51 or CME 100 or CME 100A.
+DESCRIPTION:Individual consumer and firm behavior under perfect competition. The role of markets and prices in a decentralized economy. Monopoly in partial equilibrium. Economic tools developed from multivariable calculus using partial differentiation and techniques for constrained and unconstrained optimization. Prerequisites: Econ 1 or 1V, and Math 51 or Math 51A or CME 100 or CME 100A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON50 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T113000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T113000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

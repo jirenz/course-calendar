@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170211T124034
-UID:explore_courses99c8566d-a1f6-48f1-9e62-db435075476a
-DTSTAMP:20170211T124034
-LOCATION:Huang Engineerig Center 18
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T175859
+UID:explore_courses0f86a2e8-3b92-4cbb-ace1-f9fabb67e5c8
+DTSTAMP:20170927T175859
+LOCATION:
 DESCRIPTION:Methods for modeling biomedical systems and for building model-based software systems. Emphasis is on intelligent systems for decision support and Semantic Web applications. Topics: knowledge representation, controlled terminologies, ontologies, reusable problem solvers, and knowledge acquisition. Students learn about current trends in the development of advanced biomedical software systems and acquire hands-on experience with several systems and tools. Prerequisites: CS106A, basic familiarity with biology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOMEDIN210 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T124034
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175859
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

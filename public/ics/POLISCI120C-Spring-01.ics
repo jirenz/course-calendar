@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T124000
-UID:explore_courses9a2dde50-c13f-42ca-941b-3b5b4eb7dc00
-DTSTAMP:20170211T124000
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses5a79940f-32ff-4894-ab76-f530b5f42506
+DTSTAMP:20170927T175846
 LOCATION:200-205
 DESCRIPTION:This course examines how the rules that govern elections and the policy process determine political outcomes. It explores the historical forces that have shaped American political institutions, contemporary challenges to governing, and prospects for change. Topics covered include partisan polarization and legislative gridlock, the politicization of the courts, electoral institutions and voting rights, the expansion of presidential power, campaign finance and lobbying, representational biases among elected officials, and the role of political institutions in maintaining the rule of law. Throughout, emphasis will be placed on the strategic interactions between Congress, the presidency, and the courts and the importance of informal norms and political culture.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI120C LEC
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T124000
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

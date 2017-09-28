@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursesd717b71c-2da6-40fc-bd6f-57d998cbdecb
-DTSTAMP:20170211T123931
-LOCATION:Econ 139
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses28f878be-ce1c-4e07-a067-b9dd516385bc
+DTSTAMP:20170927T175938
+LOCATION:Encina West 202
 DESCRIPTION:Topics: verbal and non-verbal attending and communication skills, open and closed questions, working with feelings, summarization, and integration. Salient counseling issues including Spanish-English code switching in communication, the role of ethnic identity in self-understanding, the relationship of culture to personal development, and Chicana/o student experience in University settings. Individual training, group exercises, role play, and videotape practice.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC193B SEM
-DTSTART;TZID=America/Los_Angeles:20170403T153000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T153000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

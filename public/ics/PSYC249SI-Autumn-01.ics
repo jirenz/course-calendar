@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T132000
-LAST-MODIFIED:20170211T124049
-UID:explore_coursesf41cff69-f3f6-4339-aca3-1daf4c70702d
-DTSTAMP:20170211T124049
-LOCATION:Alway Building, Room M112
-DESCRIPTION:In this lunchtime discussion series, students will explore psychiatry subspecialty career through the personal perspectives and narratives of attending psychiatrists from a variety of practice settings. Special discussions of general interest to medical students will include a motivational interviewing workshop, a discussion on physician self-care and burnout. Priority given to MD students.
+DTEND;TZID=America/Los_Angeles:20170925T132000
+LAST-MODIFIED:20170927T175923
+UID:explore_courses3d890d0e-4c8d-4299-a907-bcab27176a9e
+DTSTAMP:20170927T175923
+LOCATION:Alway Building, Room M114
+DESCRIPTION:In this lunchtime discussion series, students will explore psychiatry subspecialty career through the personal perspectives and narratives of attending psychiatrists from a variety of practice settings. Special sessions will vary by year but have previously featured residency panel discussions, augmented reality simulations of psychosis, and motivational interviewing workshops.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYC249SI ACT
-DTSTART;TZID=America/Los_Angeles:20160926T123000
-CREATED:20170211T124049
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170925T123000
+CREATED:20170927T175923
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

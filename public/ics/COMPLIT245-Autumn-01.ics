@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20170211T123943
-UID:explore_courses1a586101-4313-4ab9-aaa3-1e774370defe
-DTSTAMP:20170211T123943
-LOCATION:260-241
+DTEND;TZID=America/Los_Angeles:20170926T162000
+LAST-MODIFIED:20170927T175811
+UID:explore_courses4b655f7d-7541-4018-9bd9-b9c9c3b2d7e9
+DTSTAMP:20170927T175811
+LOCATION:50-52E
 DESCRIPTION:This course is an introduction to basic orthographic conventions and grammatical characteristics of Ottoman Turkish through readings in printed material from the 19th and 20th centuries. Selected readings will range from poetry to prose, from state documents, newspaper and journal articles to reference works. Course is open to both undergraduate and graduate students. Prior knowledge of modern Turkish is required (Completion of COMPLIT 248A, COMPLIT 248B Reading Turkish I&amp;II and COMPLIT 248C Advanced Turkish OR AMELANG 184 &amp; 185 First &amp; Second Year Turkish OR a solid knowledge of Turkish grammar.) Please contact the instructor for more information.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPLIT245 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T123943
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175811
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161007T112000
-LAST-MODIFIED:20170211T124033
-UID:explore_courses1078e090-c5f9-4f14-9aa7-ad97946105c5
-DTSTAMP:20170211T124033
-LOCATION:Li Ka Shing Center,rms101/102
-DESCRIPTION:Enrollment limited to MD candidates. Fundamental concepts of biochemistry as applied to clinical medicine. Topics include vitamins and cofactors, metabolism of carbohydrates, lipids, amino acids and nucleotides, and the integration of metabolic pathways. Clinical case studies discussed in small-group, problem-based learning sessions.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:BIOC200 LEC
-DTSTART;TZID=America/Los_Angeles:20161007T093000
-CREATED:20170211T124033
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161010T112000
-LAST-MODIFIED:20170211T124033
-UID:explore_coursesb0ba1cae-231e-4a16-b442-685f54337606
-DTSTAMP:20170211T124033
+DTEND;TZID=America/Los_Angeles:20171002T112000
+LAST-MODIFIED:20170927T175857
+UID:explore_courses6655ad2f-9433-4ef9-8664-7325b287bf3e
+DTSTAMP:20170927T175857
 LOCATION:Li Ka Shing Center, room 130
 DESCRIPTION:Enrollment limited to MD candidates. Fundamental concepts of biochemistry as applied to clinical medicine. Topics include vitamins and cofactors, metabolism of carbohydrates, lipids, amino acids and nucleotides, and the integration of metabolic pathways. Clinical case studies discussed in small-group, problem-based learning sessions.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOC200 LEC
-DTSTART;TZID=America/Los_Angeles:20161010T093000
-CREATED:20170211T124033
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20171002T093000
+CREATED:20170927T175857
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171117T112000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

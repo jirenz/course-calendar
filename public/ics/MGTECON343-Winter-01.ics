@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170211T124025
-UID:explore_courses4a5a75df-7ae4-4969-b620-659c0ba48b7a
-DTSTAMP:20170211T124025
-LOCATION:GSB McClelland 104
-DESCRIPTION:This course was originally designed to provide an overview of the crisis in financial markets that began in 2007, and of the various policies that were devised in response to the crisis' both short-term stabilization efforts and longer-term regulatory reform. However, as time goes on the course has evolved to spend less time on a historical review of those past events (though they are still significant and worth studying) and more time looking at the present and the future. We will be more focused on process --- thinking through the things we analyze --- rather than in making sure we cover a fully comprehensive set of topics. We have guest speakers for about half of the classes. The list changes from year to year, but here is 2016's list: Tanya Beder, Kevin Warsh, Ron Beck, David Booth, Jay Crandall, Tom Kempner, Katie Hall, Hal Varian, and Larry Summers.
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T175741
+UID:explore_courses87444449-c263-4d89-a7ac-a38741fd839b
+DTSTAMP:20170927T175741
+LOCATION:
+DESCRIPTION:This course provides a framework to understand how uncertainty and technology affect the evolution of finance (and businesses generally), and its illustration with heavy emphasis on recent developments and future trends. In recent years Myron Scholes has given about half the lectures with the other half given by prominent guests. The guest list changes year to year but 2016's list included David Booth, Howard Marks, Martin Chavez, James Manyika, Kevin Warsh, Tom Kempner, and Larry Summers.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MGTECON343 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T124025
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175741
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

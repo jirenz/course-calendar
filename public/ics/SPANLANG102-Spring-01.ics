@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T132000
-LAST-MODIFIED:20170211T124004
-UID:explore_courses6899b3bc-4d29-463b-9127-0399020c86cf
-DTSTAMP:20170211T124004
-LOCATION:Lathrop 292
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20170927T175851
+UID:explore_courses9a395957-749d-443a-bafa-8d40bdee19d2
+DTSTAMP:20170927T175851
+LOCATION:60-108
 DESCRIPTION:Individual development of the ability to write in Spanish. Emphasis is on style and diction, and on preparing and writing essays on literary topics. Non-Spanish majors or minors may choose topics more closely related to their studies for projects. Students who wish to participate in the optional community engaged learning component should sign up for Spanlang 102SL (below). Prerequisite: two years of college Spanish or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPANLANG102 LNG
-DTSTART;TZID=America/Los_Angeles:20170404T113000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T113000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

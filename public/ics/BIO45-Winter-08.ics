@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T172000
-LAST-MODIFIED:20170211T123939
-UID:explore_coursesb66245c2-08e2-44ee-9f9f-82819c349eae
-DTSTAMP:20170211T123939
+DTEND;TZID=America/Los_Angeles:20180111T172000
+LAST-MODIFIED:20170927T175802
+UID:explore_courses4f80d055-5314-4aa3-98db-3988c668303a
+DTSTAMP:20170927T175802
 LOCATION:
-DESCRIPTION:Investigate yeast strains that are engineered to express the human tumor suppressor protein, p53, and use modern molecular methods to identify the functional consequences of p53 mutations isolated from tumor cells. Learn about the protein's role as Guardian of the Genome through lectures and by reading and discussing journal articles. Use molecular visualization programs to examine the structure of normal and mutant p53 proteins. Assay the ability of mutant p53 to direct expression of several reporter genes. During guided reflection, investigate further and identify what could be wrong with the p53 mutants you have been studying. Conduct lab experiments to test hypotheses, analyze data, and present your findings through a team oral presentation, as well as a scientific poster. There are no pre-requisites for this course. However, having taken CHEM 31X, or 31A and B, and 33 and being concurrently enrolled or past enrollment in Biology or Human Biology core will help. Note: This class has a $25 course fee. More information can be found at http://web.stanford.edu/class/bio45
+DESCRIPTION:Investigate yeast strains that are engineered to express the human tumor suppressor protein, p53, and use modern molecular methods to identify the functional consequences of p53 mutations isolated from tumor cells. Learn about the protein's role as Guardian of the Genome through lectures and by reading and discussing journal articles. Use molecular visualization programs to examine the structure of normal and mutant p53 proteins. Assay the ability of mutant p53 to direct expression of several reporter genes. During guided reflection, investigate further and identify what could be wrong with the p53 mutants you have been studying. Conduct lab experiments to test hypotheses, analyze data, and present your findings through a team oral presentation, as well as a scientific poster. There are no pre-requisites for this course. However, having taken CHEM 31X, or 31A and B, and 33 and being concurrently enrolled or past enrollment in Biology or Human Biology core will help. Note: This class has a $25 course fee.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO45 LBS
-DTSTART;TZID=America/Los_Angeles:20170112T133000
-CREATED:20170211T123939
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T133000
+CREATED:20170927T175802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

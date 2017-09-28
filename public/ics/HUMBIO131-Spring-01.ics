@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T105000
-LAST-MODIFIED:20170211T123952
-UID:explore_courses1038ac28-d968-4b37-88a0-e3a3550b2087
-DTSTAMP:20170211T123952
-LOCATION:School of Education 128
-DESCRIPTION:This course covers the basic principles governing human movement with an emphasis on sports applications. The course spends roughly equal amounts of time on the applied anatomy and biology, meaning both the large and small-scale body structure and function. The applied anatomy portion includes body structure (the muscles and their connections) and mechanics (e.g. forces, torque, momentum and power), which together describe macroscopic movement. The applied biology portion includes the molecular and cellular basis of movement, mainly muscle contraction, nerve signaling, and the mechanisms of exercise damage, cramping, muscle memory, delayed-onset muscle soreness, and fatigue.
+DTEND;TZID=America/Los_Angeles:20180402T112000
+LAST-MODIFIED:20170927T175831
+UID:explore_courses4bf30c50-d679-4cf1-b5af-94b734bbff0a
+DTSTAMP:20170927T175831
+LOCATION:Hewlett Teaching Center 102
+DESCRIPTION:This course covers the basic principles governing human movement with an emphasis on sports applications. The course spends roughly equal amounts of time on the applied anatomy and biology, meaning both the large and small-scale body structure and function. The applied anatomy portion includes body structure (the muscles and their connections) and mechanics (e.g. forces, torque, momentum and power), which together describe macroscopic movement. The applied biology portion includes the molecular and cellular basis of movement, mainly muscle contraction, nerve signaling, and the mechanisms of exercise damage, cramping, muscle memory, delayed-onset muscle soreness, and fatigue. Prerequisite: Human Biology Core or equivalent or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO131 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T105000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T093000
+CREATED:20170927T175831
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T202000
-LAST-MODIFIED:20170211T124033
-UID:explore_courses8bc72d4a-1575-4fa8-aeba-872dbbd48e27
-DTSTAMP:20170211T124033
+DTEND;TZID=America/Los_Angeles:20180109T202000
+LAST-MODIFIED:20170927T175857
+UID:explore_coursesa9bca284-a975-47c8-ae33-41db1d813260
+DTSTAMP:20170927T175857
 LOCATION:Alway Building, Room M112
 DESCRIPTION:Provides participants a patient-care-related review of organ physiology and an in- depth discussion of the pathophysiologic mechanisms at work in the perioperative period that influence outcome in the surgical patient and their management. Organ systems addressed include cardiovascular, respiratory, renal, hematologic, and cerebral. Subject matter including airway management, ventilatory support, transfusion practices and the acute management of shock provides useful information for all students currently or in the future involved in acute care of the critically ill patient. Additional topics specific to anesthesia, including anesthetic pharmacology. Lecturers are Stanford anesthesia faculty and visiting guest faculty. Prerequisite: completion of first year curriculum is strongly encouraged.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANES202 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T183000
-CREATED:20170211T124033
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T202000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180109T183000
+CREATED:20170927T175857
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T202000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

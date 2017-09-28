@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T112000
-LAST-MODIFIED:20170211T124011
-UID:explore_courses78d522c6-c421-45ec-9c16-af89a5df75f6
-DTSTAMP:20170211T124011
-LOCATION:Y2E2 382
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T175948
+UID:explore_courses43ed44aa-d91f-4fb2-b2f8-bfa4c503a11e
+DTSTAMP:20170927T175948
+LOCATION:
 DESCRIPTION:The molecular and cellular bases of life from an engineering perspective. Analysis and engineering of biomolecular structure and dynamics, enzyme function, molecular interactions, metabolic pathways, signal transduction, and cellular mechanics. Quantitative primary literature. Prerequisites: CHEM 171 and BIO 41 or equivalents; MATLAB or an equivalent programming language.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE300A LEC
-DTSTART;TZID=America/Los_Angeles:20170113T103000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T175948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T124011
-UID:explore_coursesff40369e-2c33-4ac2-bad0-689d19d01783
-DTSTAMP:20170211T124011
-LOCATION:Y2E2 101
+DTEND;TZID=America/Los_Angeles:20180112T112000
+LAST-MODIFIED:20170927T175948
+UID:explore_coursesf7a1a6fd-5c0a-4d0d-b33d-8c6c299811be
+DTSTAMP:20170927T175948
+LOCATION:
 DESCRIPTION:The molecular and cellular bases of life from an engineering perspective. Analysis and engineering of biomolecular structure and dynamics, enzyme function, molecular interactions, metabolic pathways, signal transduction, and cellular mechanics. Quantitative primary literature. Prerequisites: CHEM 171 and BIO 41 or equivalents; MATLAB or an equivalent programming language.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE300A LEC
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180112T103000
+CREATED:20170927T175948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

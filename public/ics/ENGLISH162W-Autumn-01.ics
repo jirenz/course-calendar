@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T182000
-LAST-MODIFIED:20170211T123947
-UID:explore_courses32066c38-6f14-430a-a6a6-f7b481db5b20
-DTSTAMP:20170211T123947
-LOCATION:110-114
-DESCRIPTION:Small literature-based, writing-intensive seminars taught by advanced graduate students in the English Ph.D. program. The goal will be to produce a high-quality final research paper. Courses will be oriented around a single text or a small group of texts in conversation with a larger spectrum of scholarship and knowledge in literary criticism and theory, film, painting, or material culture. The small format will allow undergraduates to receive detailed commentary and one-on-one feedback on their writing. To review the full list of WISE seminars, please visit this link: https://english.stanford.edu/courses/2016-2017-english-162w.
+DTEND;TZID=America/Los_Angeles:20170925T122000
+LAST-MODIFIED:20170927T175821
+UID:explore_coursesa91cabc2-a454-4238-8df0-3a9a38d3b6e8
+DTSTAMP:20170927T175821
+LOCATION:160-B37
+DESCRIPTION:In these highly regarded, small-group seminars, students explore unique topics in English language literature, reading select primary texts alongside exemplary critical works and/or other cultural artifacts, while also honing their research and writing skills through series of assignments that culminate in a substantial original research essay. Classes are capped at 8, allowing for individualized attention and rich feedback. Click Schedule below to see individual course titles (in Notes). For fuller details and descriptions, go to https://english.stanford.edu/courses/2017-18-english-162w. Enrollment is by permission.  English majors must take at least one WISE to fulfill WIM. Non-majors are welcome, space permitting. Contact the English Department's Student Services Specialist, Brian Kersey (bkersey@stanford.edu), for more information.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGLISH162W SEM
-DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170925T103000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

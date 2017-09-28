@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T175000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses3d7105a9-0c3b-42e7-a6c6-8bb33a52a957
-DTSTAMP:20170211T124020
-LOCATION:Skillaud
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursesaae5d34b-7c06-4f0b-a70c-7d52e99d68a4
+DTSTAMP:20170927T180001
+LOCATION:Gates B3
 DESCRIPTION:Spawned by rapid advances in optical fabrication and digital processing power, a new generation of imaging technology is emerging: computational cameras at the convergence of applied mathematics, optics, and high-performance computing. Similar trends are observed for modern displays pushing the boundaries of resolution, contrast, 3D capabilities, and immersive experiences through the co-design of optics, electronics, and computation. This course serves as an introduction to the emerging field of computational imaging and displays. Students will learn to master bits and photons.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE367 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T163000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

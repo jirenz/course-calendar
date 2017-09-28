@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20170211T124031
-UID:explore_courses813e7ded-6dfd-4701-95c5-af5ac6ebbc25
-DTSTAMP:20170211T124031
-LOCATION:Thornt210
+DTEND;TZID=America/Los_Angeles:20180402T172000
+LAST-MODIFIED:20170927T175943
+UID:explore_courses507f7d74-d8be-4c14-8b16-952e77619869
+DTSTAMP:20170927T175943
+LOCATION:
 DESCRIPTION:Building on the Fundamentals of Geographic Information Systems course, this class delves deeper into geospatial analysis and mapping techniques.  The class is heavily project-based and students are encouraged to bring their own research questions.  Topics include topographic analysis, interpolation, spatial statistics, network analysis, and scripting using Python and Acrpy.  All students are required to attend a weekly lab.  ESS 164 or equivalent is a prerequisite.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS165 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T153000
-CREATED:20170211T124031
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T153000
+CREATED:20170927T175943
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

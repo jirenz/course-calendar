@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T175000
-LAST-MODIFIED:20170211T124025
-UID:explore_courses2e39d6ca-ea31-442d-bb38-3f136676f789
-DTSTAMP:20170211T124025
+DTEND;TZID=America/Los_Angeles:20170925T182000
+LAST-MODIFIED:20170927T175745
+UID:explore_courses94713bee-388a-4d13-b7bf-03de11f1ddf9
+DTSTAMP:20170927T175745
 LOCATION:
 DESCRIPTION:Goal is to help students become effective peer tutors for course material already mastered by articulating aims; developing practical tutoring skills including strategies for drop-in sessions;  observing experienced tutors; discussing reading assignments; role playing; and reflecting on experiences as a peer tutor intern. Prerequisite: consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:VPTL120 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170211T124025
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170925T173000
+CREATED:20170927T175745
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

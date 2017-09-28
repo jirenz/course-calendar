@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T112000
-LAST-MODIFIED:20170211T123953
-UID:explore_courses109e592d-acd9-4f8d-a526-fac4cf9f5441
-DTSTAMP:20170211T123953
-LOCATION:160-330
+DTEND;TZID=America/Los_Angeles:20180108T132000
+LAST-MODIFIED:20170927T175833
+UID:explore_courses1b3dcf57-4238-45a4-aad3-4ace627784f4
+DTSTAMP:20170927T175833
+LOCATION:240-101
 DESCRIPTION:(Formerly JAPANLNG 28.) Continuation of JAPANLNG 11A.Goal of the course is to converse in Japanese with more confidence. Develops oral proficiency through building solid basic sentence patterns and increasing vocabulary in order to gain ability to speak about greater variety of topics with more detail. Class activities include role play and mini skits for practical use of Japanese. Prerequisite: JAPANLNG 11A or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:JAPANLNG11B LNG
-DTSTART;TZID=America/Los_Angeles:20170111T103000
-CREATED:20170211T123953
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T123000
+CREATED:20170927T175833
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

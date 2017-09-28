@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T192000
-LAST-MODIFIED:20170211T123952
-UID:explore_courses0ed1df5a-cf39-423f-8567-bf7af3b5bd09
-DTSTAMP:20170211T123952
-LOCATION:20-22K
-DESCRIPTION:Introduction to the principles of classical and modern genetics, evolutionary theory, and population biology. Topics: micro- and macro-evolution, population and molecular genetics, biodiversity, and ecology, emphasizing the genetics and ecology of the evolutionary process and applications to human populations. HUMBIO 2A and 2B are designed to be taken concurrently and exams for both sides may include material from joint module lectures. Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines.
+DTEND;TZID=America/Los_Angeles:20170927T192000
+LAST-MODIFIED:20170927T175830
+UID:explore_coursesb4fa4d98-b72a-43e9-bf98-1efb3dfe3510
+DTSTAMP:20170927T175830
+LOCATION:20-21B
+DESCRIPTION:Introduction to the principles of classical and modern genetics, evolutionary theory, and population biology. Topics: micro- and macro-evolution, population and molecular genetics, biodiversity, and ecology, emphasizing the genetics and ecology of the evolutionary process and applications to human populations. HUMBIO 2A and HUMBIO 2B are designed to be taken concurrently and exams for both sides may include material from joint module lectures. Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines. Please note Human Biology majors are required to take the Human Biology Core Courses for a letter grade.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO2A DIS
-DTSTART;TZID=America/Los_Angeles:20160928T183000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T183000
+CREATED:20170927T175830
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

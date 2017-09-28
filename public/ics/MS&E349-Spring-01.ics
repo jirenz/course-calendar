@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursesfd4f934b-f4f6-4aaf-83da-5b0525253e19
-DTSTAMP:20170211T124021
-LOCATION:200-219
-DESCRIPTION:Topics in financial statistics with focus on current research: Time-series modeling, volatility modeling, large-dimensional factor modeling, random matrix theory with applications to finance. Prerequisites: 120, 220 or STATS 116.
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20170927T180002
+UID:explore_courses9caf799f-acdb-437a-89e3-2da9909b3c10
+DTSTAMP:20170927T180002
+LOCATION:Gates100
+DESCRIPTION:Topics in financial statistics with focus on current research: Time-series modeling, volatility modeling, high-frequency statistics, large-dimensional factor modeling and estimation of continuous-time processes. Prerequisites: 220, 226 or STATS 200, 221 or STATS 217, 245A, or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E349 RES
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T102000
-LAST-MODIFIED:20170211T123955
-UID:explore_courses6e223044-c799-4fc0-bff9-219ecef9628d
-DTSTAMP:20170211T123955
-LOCATION:380-380W
+DTEND;TZID=America/Los_Angeles:20180108T102000
+LAST-MODIFIED:20170927T175837
+UID:explore_courses652d722c-b78e-4c0d-94ff-26599f629360
+DTSTAMP:20170927T175837
+LOCATION:200-305
 DESCRIPTION:A continuation of themes from Math 61CM, centered around: manifolds, multivariable integration, and the general Stokes' theorem.  This includes a treatment of multilinear algebra, further study of submanifolds of Euclidean space and an introduction to general manifolds (with many examples), differential forms and their geometric interpretations, integration of differential forms, Stokes' theorem, and some applications to topology.  Prerequisite: Math 61CM.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH62CM LEC
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T123955
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20170927T175837
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

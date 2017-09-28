@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170627T202000
-LAST-MODIFIED:20170211T124025
-UID:explore_courses8c565300-15f0-4a84-b160-7d93b10acb42
-DTSTAMP:20170211T124025
+DTEND;TZID=America/Los_Angeles:20180626T193000
+LAST-MODIFIED:20170927T175745
+UID:explore_courses5701d803-2abe-45ae-a0e4-c85b911984d9
+DTSTAMP:20170927T175745
 LOCATION:
 DESCRIPTION:Once you get into the school of your dreams, how will you be sure you can succeed there? The level of organization and study skills necessary for college success are often very different than in high school settings. This class will use research-based practices to help students gain insight into effective learning strategies and approaches to time management, while honing skills in reading, studying, writing, discussion, and oral presentation. This class is appropriate for students who wish to prepare for college, as well as for those already in college who wish to revisit and expand their set of strategies for successful learning.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:VPTL53 PRC
-DTSTART;TZID=America/Los_Angeles:20170627T183000
-CREATED:20170211T124025
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T202000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180626T180000
+CREATED:20170927T175745
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T193000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

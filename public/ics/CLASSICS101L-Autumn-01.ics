@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20170211T123942
-UID:explore_courses22270dfa-e04f-4979-9308-a7c4b2c64f8f
-DTSTAMP:20170211T123942
-LOCATION:360-361A
-DESCRIPTION:(Formerly CLASSLAT 111.)  Book 21 of Livy&iquest;s History: the dramatic story of Hannibal&iquest;s passing of the Alps with elephants, and his coming close to conquering Rome itself. What makes this a literary and historical masterpiece of tremendous influence since on representations of the social trauma of a country under siege, and of a world empire&iquest;s fear of its irreducible and brilliant foe? Complementary readings for context and to highlight Livy&iquest;s uniqueness. Close attention to language, style and narrative techniques. Classics majors and minors must take for a letter grade  and may repeat for credit with advance approval from the Director of Undergraduate Studies.
+DTEND;TZID=America/Los_Angeles:20170925T145000
+LAST-MODIFIED:20170927T175808
+UID:explore_coursesd7ceed95-8849-461c-8dc0-345742ce8ec8
+DTSTAMP:20170927T175808
+LOCATION:420-286
+DESCRIPTION:(Formerly CLASSLAT 111.)  Classics majors and minors must take for a letter grade  and may repeat for credit with advance approval from the Director of Undergraduate Studies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CLASSICS101L LNG
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T123942
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T175808
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

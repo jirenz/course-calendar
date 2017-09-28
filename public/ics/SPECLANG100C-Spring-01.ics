@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20170211T124005
-UID:explore_courses3dc864b5-328f-4255-a764-386e074e06ac
-DTSTAMP:20170211T124005
-LOCATION:160-321
+DTEND;TZID=America/Los_Angeles:20180402T172000
+LAST-MODIFIED:20170927T175852
+UID:explore_courses27ffcce0-e9b0-4311-8310-d11fbaa181e0
+DTSTAMP:20170927T175852
+LOCATION:160-323
 DESCRIPTION:Continuation of SPECLANG 100B. Distance learning combined with periodic on-site instruction, conducted primarily in Cherokee. Course emphasizes developing effective communication at a basic level, covering grammatical structures, vocabulary, and sentence patterns through speaking, reading, writing, and listening in everyday situations. Cherokee culture. Prerequisite: SPECLANG or consent of instructor. Completion of #C fulfillsn the University Foreign Language Requirement
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPECLANG100C LNG
-DTSTART;TZID=America/Los_Angeles:20170403T153000
-CREATED:20170211T124005
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T153000
+CREATED:20170927T175852
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T145000
-LAST-MODIFIED:20170211T124005
-UID:explore_courses1ea9e18e-d203-47ac-a6a3-4b6928fe4f71
-DTSTAMP:20170211T124005
-LOCATION:Alway Building, Room M112
+DTEND;TZID=America/Los_Angeles:20180405T145000
+LAST-MODIFIED:20170927T175853
+UID:explore_courses06225f1b-2fba-46fb-a6b0-ee23e90610c2
+DTSTAMP:20170927T175853
+LOCATION:MSOBX303
 DESCRIPTION:Applications of statistical techniques to current problems in medical science. To receive credit for one or two units, a student must attend every workshop. To receive two units, in addition to attending every workshop, the student is required to write an acceptable one page summary of two of the workshops, with choices made by the student.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS260C WKS
-DTSTART;TZID=America/Los_Angeles:20170406T133000
-CREATED:20170211T124005
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T133000
+CREATED:20170927T175853
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180405T145000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180411T145000
+LAST-MODIFIED:20170927T175853
+UID:explore_courses873cbd7e-3613-49b1-b657-0644f5dce368
+DTSTAMP:20170927T175853
+LOCATION:MSOBX303
+DESCRIPTION:Applications of statistical techniques to current problems in medical science. To receive credit for one or two units, a student must attend every workshop. To receive two units, in addition to attending every workshop, the student is required to write an acceptable one page summary of two of the workshops, with choices made by the student.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STATS260C WKS
+DTSTART;TZID=America/Los_Angeles:20180411T133000
+CREATED:20170927T175853
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

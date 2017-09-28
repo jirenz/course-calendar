@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T094500
-LAST-MODIFIED:20170211T124027
-UID:explore_coursese8d09514-2a9c-4e22-a5aa-0a15c6fc0792
-DTSTAMP:20170211T124027
-LOCATION:GSB Gunn 102
+DTEND;TZID=America/Los_Angeles:20170926T094500
+LAST-MODIFIED:20170927T175744
+UID:explore_courses5cf49b11-9072-48f9-9df2-fa94b693635a
+DTSTAMP:20170927T175744
+LOCATION:GSB Class of 1968 105
 DESCRIPTION:Building on the discipline of social psychology, this course helps you cultivate mindsets and build skills to understand the ways in which organizations and their members affect one another. You will learn frameworks for diagnosing and resolving problems in organizational settings. The course relates theory and research to organizational problems by reviewing basic concepts such as individual motivation and behavior; decision making; interpersonal communication and influence; small group behavior; and dyadic, individual, and inter-group conflict and cooperation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OB206 CAS
-DTSTART;TZID=America/Los_Angeles:20160926T080000
-CREATED:20170211T124027
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161025T094500;BYDAY=MO,TH
+DTSTART;TZID=America/Los_Angeles:20170926T080000
+CREATED:20170927T175744
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171024T094500;BYDAY=TU,FR
 END:VEVENT
 END:VCALENDAR

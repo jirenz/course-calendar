@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170211T123935
-UID:explore_courses606b8528-8c64-4d68-8a50-2977c466721a
-DTSTAMP:20170211T123935
-LOCATION:Shriram Ctr BioChemE 104
+DTEND;TZID=America/Los_Angeles:20180109T102000
+LAST-MODIFIED:20170927T175757
+UID:explore_courses6ba99401-1559-4b28-bf7d-abf4d4553e15
+DTSTAMP:20170927T175757
+LOCATION:380-380Y
 DESCRIPTION:This course introduces basic anthropological concepts and presents the discipline&iquest;s distinctive perspective on society and culture.  The power of this perspective is illustrated by exploring vividly-written ethnographic cases that show how anthropological approaches illuminate contemporary social and political issues in a range of different cultural sites.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO1 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20170211T123935
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T090000
+CREATED:20170927T175757
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T154500
-LAST-MODIFIED:20170211T124028
-UID:explore_courses3fccffb5-ddfd-4d23-ae0a-08aeb7bc603a
-DTSTAMP:20170211T124028
+DTEND;TZID=America/Los_Angeles:20180402T154500
+LAST-MODIFIED:20170927T175752
+UID:explore_courses27ae9cb9-f197-4366-92e2-646368742b15
+DTSTAMP:20170927T175752
 LOCATION:
-DESCRIPTION:(Formerly Law 644)  This is a survey course of disability rights law, with an emphasis on federal and state statutes and case law, and some exposure to international human rights law. Areas of concentration are employment, government services, public accommodations, education, housing, mental health treatment and involuntary commitment, and personal autonomy. We will review such statutes as the Americans with Disabilities Act (ADA), Rehabilitation Act (Sec. 504), Individuals with Disabilities Education Act (IDEA), Fair Housing Act Amendments, and the UN Convention on the Rights of Persons with Disabilities. The course examines disability from a civil and human rights perspective.  Special Instructions: Grades will be based on class participation and a long independent research paper for Research (R) credit. The student must consult with the instructor on the paper's topic, scope and format.  Elements used in grading: Class participation (50%), long independent research paper (50%).
+DESCRIPTION:(Formerly Law 644) This is a survey course of disability rights law, with an emphasis on federal and state statutes and case law. Areas of concentration include employment, government services, public accommodations, education, housing, mental health treatment and involuntary commitment, and personal autonomy. We will review such statutes as the Americans with Disabilities Act (ADA), Rehabilitation Act (Sec. 504), Individuals with Disabilities Education Act (IDEA), and the Fair Housing Act Amendments. The course examines disability from a civil and human rights perspective. Elements used in grading: Grades will be based on class participation (50%), and either several short reflection papers (50%) - Section 01 or a long independent research paper (50%) - Section 02. The student must consult with the instructor on the paper's topic, scope and format. After the term begins, students accepted into the course can transfer from Section 01 into Section 02, which meets the R requirement, with consent of the instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW7018 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T141500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170526T154500;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T141500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180601T154500;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

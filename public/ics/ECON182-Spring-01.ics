@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses2f4e4ffe-f599-436a-a7e0-8a481ebf67d2
-DTSTAMP:20170211T123946
-LOCATION:Econ 218
-DESCRIPTION:Rigorous introduction to the theory of matching and resource allocation, and its application to practical market design. Theory covers two-sided matching, &quot;house allocation&quot; problems, random assignment, and their variants. Applied topics include school choice, labor market, house allocation, and organ allocation for transplantation.  Final paper required.nForms a sequence with ECON 180 and ECON 181, but can be taken independently.nPrerequisites: Experience with abstract mathematics and willingness tonwork hard. No prior knowledge of economics is required, although basic knowledge in game theory is useful.
+DTEND;TZID=America/Los_Angeles:20180403T152000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses207dad57-ef1d-4d06-9ab1-f862d5ce1111
+DTSTAMP:20170927T175819
+LOCATION:Econ 206
+DESCRIPTION:Rigorous introduction to the theory of matching and resource allocation, and its application to practical market design. Theory covers two-sided matching, &quot;house allocation&quot; problems, random assignment, and their variants. Applied topics include school choice, labor market, house allocation, and organ allocation for transplantation.  Final paper required. Forms a sequence with ECON 180 and ECON 181, but can be taken independently. Prerequisites: Experience with abstract mathematics and willingness tonwork hard. No prior knowledge of economics is required, although basic knowledge in game theory is useful.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON182 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T132000
-LAST-MODIFIED:20170211T124038
-UID:explore_courses7129a231-1e5d-423e-82e2-0abc864422cf
-DTSTAMP:20170211T124038
-LOCATION:CCSR 4205
+DTEND;TZID=America/Los_Angeles:20170928T132000
+LAST-MODIFIED:20170927T175904
+UID:explore_courses9cbf33d4-7dc7-4cf0-b524-863583f2c1f9
+DTSTAMP:20170927T175904
+LOCATION:Alway Building, Room M114
 DESCRIPTION:This seminar course is intended to introduce students to the role of policy in the delivery of healthcare in the United States. In addition to speakers from the law school, SIEPR, HRP, and School of Medicine, we will be bringing in speakers from outside organizations such as the Pacific Business Group on Health, managed care organizations, and the Palo Alto Medical Foundation. There will be no assignments and lunch will be provided.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP243 LEC
-DTSTART;TZID=America/Los_Angeles:20160929T123000
-CREATED:20170211T124038
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T123000
+CREATED:20170927T175904
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

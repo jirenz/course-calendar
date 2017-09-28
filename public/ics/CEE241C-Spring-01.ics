@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T112000
-LAST-MODIFIED:20170211T124013
-UID:explore_coursesc3e8c00f-dd25-4e57-b7c8-259c5fca01a2
-DTSTAMP:20170211T124013
+DTEND;TZID=America/Los_Angeles:20180406T112000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses73617909-5dbf-4573-914f-97a1d0deb970
+DTSTAMP:20170927T175952
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Nine current global infrastructure projects presented by top project executives or company leaders from industry.  Water, transportation, energy and communication projects are featured. Course provides comparisons of project development, win and delivery approaches for mega-projects around the world. Alternative project delivery methods, the role of public and private sector, different project management and construction strategies, and lessons learned. The course also includes field trips to local mega-projects.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE241C SEM
-DTSTART;TZID=America/Los_Angeles:20170407T093000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180406T093000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

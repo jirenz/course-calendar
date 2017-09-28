@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170211T123951
-UID:explore_coursesbe7770a5-7146-41a5-a159-70d06f4ba0fd
-DTSTAMP:20170211T123951
-LOCATION:School of Education 313
+DTEND;TZID=America/Los_Angeles:20180108T145000
+LAST-MODIFIED:20170927T175829
+UID:explore_coursesad5c907b-34a0-4283-ae4c-93efa73715ea
+DTSTAMP:20170927T175829
+LOCATION:School of Education 206
 DESCRIPTION:Topics include early globalization and cross-cultural exchanges; varying and diverse cultural formations in different parts of the world; the growth and interaction of empires and states; the rise of capitalism and the economic divergence of &quot;the west&quot;; changes in the nature of technology, including military and information technologies; migration of ideas and people (including the slave-trade); disease, climate, and environmental change over time. Designed to accommodate beginning students, non-majors, and more advanced history students
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY1B LEC
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

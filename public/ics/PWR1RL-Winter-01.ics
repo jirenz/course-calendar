@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T132000
-LAST-MODIFIED:20170211T124010
-UID:explore_courses47146897-d67a-4f4d-bf2b-9b387ee3c3db
-DTSTAMP:20170211T124010
-LOCATION:250-108
+DTEND;TZID=America/Los_Angeles:20180108T152000
+LAST-MODIFIED:20170927T175750
+UID:explore_courses6a217a6d-fc19-4e65-84bd-de2399949767
+DTSTAMP:20170927T175750
+LOCATION:160-330
 DESCRIPTION:In this course, we will examine the notion of happiness &amp;#8212; and some of its adjacent or &quot;opposing&quot; feelings, such as contentment, or depression and anger &amp;#8212; and the rhetoric around it by studying an array of examples from various sources, such as books, websites, or films. Students will explore the contexts, motives, and ramifications of the representational strategies, while developing critical skills to analyze and articulate their research findings and arguments regarding topics of their choice.  For more information about PWR 1, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-1. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR1RL SEM
-DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20170211T124010
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T175750
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

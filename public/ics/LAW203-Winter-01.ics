@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T094000
-LAST-MODIFIED:20170211T124028
-UID:explore_coursesca576124-d412-4105-bc3c-f6677eaec49c
-DTSTAMP:20170211T124028
-LOCATION:Law280A
+DTEND;TZID=America/Los_Angeles:20180108T110000
+LAST-MODIFIED:20170927T175752
+UID:explore_courses011a707f-5ea8-460c-a19e-3aa59b561bbb
+DTSTAMP:20170927T175752
+LOCATION:
 DESCRIPTION:This course is part of the required first-year JD curriculum.  This course offers an introduction to American constitutional law.  In addition to examining questions of interpretive method, the course focuses on the  powers of the federal government and the allocation of decision making authority among government institutions, including both federalism and separation of powers.  Class participation, attendance, written assignments, and final exam.  This course is open to first-year Law School students only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW203 LEC
-DTSTART;TZID=America/Los_Angeles:20170111T083000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T094000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180108T095000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T110000;BYDAY=MO,TU
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T110000
-LAST-MODIFIED:20170211T124028
-UID:explore_courses6c90d578-874d-4899-8036-8c154bb46483
-DTSTAMP:20170211T124028
-LOCATION:Law280A
+DTEND;TZID=America/Los_Angeles:20180110T094000
+LAST-MODIFIED:20170927T175752
+UID:explore_coursesafef97a0-ac6b-4aab-bf4d-392e45075c99
+DTSTAMP:20170927T175752
+LOCATION:
 DESCRIPTION:This course is part of the required first-year JD curriculum.  This course offers an introduction to American constitutional law.  In addition to examining questions of interpretive method, the course focuses on the  powers of the federal government and the allocation of decision making authority among government institutions, including both federalism and separation of powers.  Class participation, attendance, written assignments, and final exam.  This course is open to first-year Law School students only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW203 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T095000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T110000;BYDAY=MO,TU
+DTSTART;TZID=America/Los_Angeles:20180110T083000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T094000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

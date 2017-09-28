@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T102000
-LAST-MODIFIED:20170211T123942
-UID:explore_courses1dc6bd8c-af09-4030-ac88-44c5ea969797
-DTSTAMP:20170211T123942
-LOCATION:100-101K
-DESCRIPTION:(Formerly CLASSLAT 103.) Vocabulary, forms and syntax. Discussion of biographical, political and literary issues in the text. Key readings will be the story of Dido and the journey of Aeneas into the underworld (we may also talk about the reception of some Virgilian figures in ancient and modern literature, music and the arts). Classics majors and minors may repeat for credit with advance approval from the Director of Undergraduate Studies.
+DTEND;TZID=America/Los_Angeles:20180402T102000
+LAST-MODIFIED:20170927T175808
+UID:explore_courses186a5143-d4a1-4b3a-8ee9-78c7c7a8f0e1
+DTSTAMP:20170927T175808
+LOCATION:110-112
+DESCRIPTION:(Formerly CLASSLAT 103.) Vocabulary, forms and syntax. Classics majors and minors may repeat for credit with advance approval from the Director of Undergraduate Studies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CLASSICS13L LNG
-DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20170211T123942
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T093000
+CREATED:20170927T175808
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

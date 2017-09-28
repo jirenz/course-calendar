@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170211T123947
-UID:explore_coursesec8734cb-a2a2-4fca-9187-4f92c51fabdc
-DTSTAMP:20170211T123947
-LOCATION:School of Education 313
-DESCRIPTION:A more challenging version of Phil 2 designed primarily for juniors and seniors (may also be appropriate for some freshmen and sophomores - contact professor). Fulfills the Ethical Reasoning requirement.  Graduate section (270) will include supplemental readings and discussion, geared for graduate students new to moral philosophy, as well as those with some background who would like more.
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20170927T175822
+UID:explore_courses6733c090-b828-41c5-8af9-601e8d343d6f
+DTSTAMP:20170927T175822
+LOCATION:50-52H
+DESCRIPTION:How should we live our lives? Should you love your neighbour as yourself? Should you be digging wells rather than taking philosophy classes? Is taxation just? What obligations do we have to the not-yet-born, and to the dead? And says who? Are there really any answers to these questions? If so, what explains why they are one way rather than another? The will of God? Perhaps we need rules to ensure mutual benefits. But then, can I break them if no-one will find out? Can it be appropriate to blame you for doing something that you thought was the right thing to do (perhaps rejecting a blood transfusion)? Or to praise you for doing something you thought was the wrong thing to do (like Huck Finn)? By the end of this semester, you will be developing answers to these questions and many more.nnA more challenging version of Phil 2 designed primarily for juniors and seniors (may also be appropriate for some freshmen and sophomores - contact professor). Fulfills the Ethical Reasoning requirement.  Graduate section (270) will include supplemental readings and discussion, geared for graduate students new to moral philosophy, as well as those with some background who would like more.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ETHICSOC170 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180403T120000
+CREATED:20170927T175822
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

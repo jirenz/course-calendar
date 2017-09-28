@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T112000
-LAST-MODIFIED:20170211T123952
-UID:explore_courses3c9636e4-cbaa-41df-a700-f318c9f9ad8a
-DTSTAMP:20170211T123952
-LOCATION:260-301
+DTEND;TZID=America/Los_Angeles:20180110T112000
+LAST-MODIFIED:20170927T175831
+UID:explore_coursesd36ba197-9458-47b3-a6fd-3476e5be52b1
+DTSTAMP:20170927T175831
+LOCATION:300-303
 DESCRIPTION:Examines health disparities in the U.S., looking at the patterns of those disparities and their root causes. Explores the intersection of lower social class and ethnic minority status in affecting health status and access to health care. Compares social and biological conceptualizations of race and ethnicity. Upper division course with preference given to upperclassmen.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO122S DIS
-DTSTART;TZID=America/Los_Angeles:20170111T103000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T103000
+CREATED:20170927T175831
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

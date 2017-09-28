@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T115000
-LAST-MODIFIED:20170211T124018
-UID:explore_courses1c7ccf27-53ce-47ff-a912-c2050afdb5b4
-DTSTAMP:20170211T124018
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180111T115000
+LAST-MODIFIED:20170927T175958
+UID:explore_coursesf8b096b2-7894-48ce-bdf3-1bc6e1ee5fd2
+DTSTAMP:20170927T175958
+LOCATION:Ceras 101
 DESCRIPTION:Practicum in designing and building technology-enabled curricula and hands-on learning environments. Students use software toolkits and state-of-the-art fabrication machines to design educational software, educational toolkits, and tangible user interfaces. The course will focus on designing low-cost technologies, particularly for urban school in the US and abroad. We will explore theoretical and design frameworks from the constructionist learning perspective, critical pedagogy, interaction design for children.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS402 PRA
-DTSTART;TZID=America/Los_Angeles:20170112T090000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T090000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T175000
-LAST-MODIFIED:20170211T123944
-UID:explore_courses8dec00c0-c3ad-45ce-aa54-93381e43bbda
-DTSTAMP:20170211T123944
+DTEND;TZID=America/Los_Angeles:20170925T175000
+LAST-MODIFIED:20170927T175813
+UID:explore_coursesaa5463ff-7aa2-473b-b3df-a136893fb252
+DTSTAMP:20170927T175813
 LOCATION:ROBLEG113
 DESCRIPTION:This advanced dance technique class is grounded in the technical training, aesthetics, and choreographic processes of Merce Cunningham, American dancer and master choreographer. Practice will increase strength, speed, articulation, amplitude and clarity of dancing.  Class will provide a solid technical base applicable to other forms of dancing.  Dancers must be ready to work at a high intermediate/advanced level to enroll. Short readings and concert attendance will supplement studio work. Cunningham-based technique is particularly well-suited to dancers with prior training in ballet; dancers with prior training in any form are welcome.  nMay be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DANCE141 PRC
-DTSTART;TZID=America/Los_Angeles:20160926T203000
-CREATED:20170211T123944
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T163000
+CREATED:20170927T175813
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

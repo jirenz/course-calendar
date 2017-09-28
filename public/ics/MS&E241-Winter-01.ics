@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20170211T124021
-UID:explore_courses88cc927b-e551-4feb-b99e-139a2ea52d63
-DTSTAMP:20170211T124021
-LOCATION:Skillaud
+DTEND;TZID=America/Los_Angeles:20180108T122000
+LAST-MODIFIED:20170927T180002
+UID:explore_courseseb212747-b5af-4c0a-9ea6-f2f3f577fc4f
+DTSTAMP:20170927T180002
+LOCATION:Huang Engineering Center 18
 DESCRIPTION:Principal methods of economic analysis of the production activities of firms, including production technologies, cost and profit, and perfect and imperfect competition; individual choice, including preferences and demand; and the market-based system, including price formation, efficiency, and welfare. Practical applications of the methods presented. Recommended: 211, ECON 50.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E241 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

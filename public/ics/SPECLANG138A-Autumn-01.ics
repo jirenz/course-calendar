@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T192000
-LAST-MODIFIED:20170211T124005
-UID:explore_coursese158fc02-caeb-4765-a514-1ee16fb45ba9
-DTSTAMP:20170211T124005
-LOCATION:240-101
+DTEND;TZID=America/Los_Angeles:20170926T192000
+LAST-MODIFIED:20170927T175852
+UID:explore_courses12d28a18-66ea-4e5e-a888-e33232665475
+DTSTAMP:20170927T175852
+LOCATION:240-110
 DESCRIPTION:First quarter of a three-quarter beginning sequence. Distance learning combined with  periodic on-site instruction, conducted primarily in Navajo. Course emphasizes developing effective communication at a basic level, covering grammatical structures, vocabulary, and sentence patterns through speaking, reading, writing, and listening in everyday situations.nNavajo culture.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPECLANG138A LNG
-DTSTART;TZID=America/Los_Angeles:20160927T173000
-CREATED:20170211T124005
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T173000
+CREATED:20170927T175852
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T125000
-LAST-MODIFIED:20170211T124001
-UID:explore_courses1c514240-c577-4d15-9f4d-4996582e3cb2
-DTSTAMP:20170211T124001
+DTEND;TZID=America/Los_Angeles:20170925T125000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses1e103346-4bbd-478c-8426-cf7d9e3d7876
+DTSTAMP:20170927T175846
 LOCATION:Encina West 400
-DESCRIPTION:Faculty, guest speakers, and graduate students conducting research in comparative politics present work-in-progress. Graduate students may enroll for up to 5 total units apportioned by quarter. Auditors welcome. Course may be repeated for credit.
+DESCRIPTION:Faculty, guest speakers, and graduate students conducting research in comparative politics present work-in-progress.Auditors welcome. Course may be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI440D WKS
-DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T125000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170925T113000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T125000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

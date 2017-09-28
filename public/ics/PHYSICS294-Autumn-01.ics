@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T132000
-LAST-MODIFIED:20170211T123959
-UID:explore_courses0db2eb47-6fd7-452b-a87c-148d4d8d4a8e
-DTSTAMP:20170211T123959
-LOCATION:Green Earth Sciences150
+DTEND;TZID=America/Los_Angeles:20170927T132000
+LAST-MODIFIED:20170927T175844
+UID:explore_coursesfafb25a8-ab1a-47a5-be11-34627ff485a0
+DTSTAMP:20170927T175844
+LOCATION:
 DESCRIPTION:Weekly seminar/discussions on interactive techniques for teaching physics. Practicum which includes class observations, grading and student teaching in current courses. Required of all Teaching Assistants prior to first teaching assignment. Mandatory attendance at weekly in-class sessions during first 5 weeks of the quarter; mandatory successful completion of all practicum activities. Enrollment by permission. To get a permission number please complete form: http://web.stanford.edu/dept/physics/academics/TA/PH294app.fb  If you have not heard from us by the beginning of class, please come to the first class session.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS294 PRC
-DTSTART;TZID=America/Los_Angeles:20160928T113000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T113000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

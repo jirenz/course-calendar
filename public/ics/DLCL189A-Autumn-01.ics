@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20170211T123944
-UID:explore_courses5c462c94-9cee-4072-a280-2337ceea7c07
-DTSTAMP:20170211T123944
-LOCATION:240-201
-DESCRIPTION:For undergraduate majors in DLCL departments; required for honors students. Planning, researching, and writing an honors thesis. Oral presentations and peer workshops. Research and writing methodologies, and larger critical issues in literary studies.
+DTEND;TZID=America/Los_Angeles:20170925T212000
+LAST-MODIFIED:20170927T175814
+UID:explore_courses05fecdd1-87c6-4583-a3be-bacf522dfee1
+DTSTAMP:20170927T175814
+LOCATION:260-241
+DESCRIPTION:For undergraduate majors in DLCL departments; required for honors students. Planning, researching, and writing an honors thesis. Oral presentations and peer workshops. Research and writing methodologies, and larger critical issues in literary studies. NOTE: The professor will send a survey to students that are enrolled to determine the day / time this class will meet.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DLCL189A SEM
-DTSTART;TZID=America/Los_Angeles:20160927T120000
-CREATED:20170211T123944
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170925T193000
+CREATED:20170927T175814
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T212000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

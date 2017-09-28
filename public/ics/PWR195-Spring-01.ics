@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T112000
-LAST-MODIFIED:20170211T124010
-UID:explore_coursesb10fc83d-5755-42df-bef1-b66eb0cf8212
-DTSTAMP:20170211T124010
-LOCATION:250-201
+DTEND;TZID=America/Los_Angeles:20180406T112000
+LAST-MODIFIED:20170927T175750
+UID:explore_courses4ead4c15-6aa3-41d0-9e7f-1178d67c773f
+DTSTAMP:20170927T175750
+LOCATION:160-123
 DESCRIPTION:For students selected to serve as peer writing tutors in the Hume Center for Writing and Speaking and/or at other campus sites. Readings on and reflection about writing processes, the dynamics of writing and tutoring situations, tutoring techniques, learning styles, diversity, and ethics. Observation of tutoring sessions, written responses to readings, and other written work. Instructor permission required. WR 1 pre-/co-requisite.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR195 SEM
-DTSTART;TZID=America/Los_Angeles:20170407T093000
-CREATED:20170211T124010
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180406T093000
+CREATED:20170927T175750
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T102000
-LAST-MODIFIED:20170211T123940
-UID:explore_courses89ee83b8-fced-4d2f-9db5-3b9fcbdb26d7
-DTSTAMP:20170211T123940
-LOCATION:ScienceTeachingLearningCntr115
+DTEND;TZID=America/Los_Angeles:20180405T102000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses8c66329d-d461-46ef-8975-fea188dd6451
+DTSTAMP:20170927T175933
+LOCATION:STLC104
 DESCRIPTION:This is the second course in a two-quarter sequence (Chem 141/143), which will continue the discussion of biological science through the lens of chemistry.  In this sequence students will gain a qualitative and quantitative understanding of the molecular logic of cellular processes, which include expression and transmission of the genetic code, enzyme kinetics, biosynthesis, energy storage and consumption, membrane transport, and signal transduction.  Connections to foundational principles of chemistry will be made through structure-function analyses of biological molecules.  Integrated lessons in structural, mechanistic, and physical chemistry will underscore how molecular science and molecular innovation have impacted biology and medicine. Prerequisite: Chem 141.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM143 DIS
-DTSTART;TZID=America/Los_Angeles:20170406T090000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T090000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

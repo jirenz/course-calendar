@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170211T123955
-UID:explore_coursesb4a263ac-5886-4d4d-8871-9657a12b3283
-DTSTAMP:20170211T123955
-LOCATION:200-030
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175836
+UID:explore_coursese7d41276-616b-4e1d-8cb4-35d2a5fe5702
+DTSTAMP:20170927T175836
+LOCATION:60-109
 DESCRIPTION:How do people do things with language? How do we go from perceiving the acoustic waves that reach our ears to understanding that someone just announced the winner of the presidential election? How do we go from a thought to spelling that thought out in a sentence? How do babies learn language from scratch? This course is a practical introduction to psycholinguistics --  the study of how humans learn, represent, comprehend, and produce language. The course aims to provide students with a solid understanding of both the research methodologies used in psycholinguistic research and many of the well-established findings in the field. Topics covered will include visual and auditory recognition of words, sentence comprehension, reading, discourse and inference, sentence production, language acquisition, language in the brain, and language disorders. Students will conduct a small but original research project and gain experience with reporting and critiquing psycholinguistic research.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LINGUIST145 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20170211T123955
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175836
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

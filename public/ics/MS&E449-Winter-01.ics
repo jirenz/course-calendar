@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T182000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursesdd2acfe9-9927-4467-87e2-8325ad8de3d7
-DTSTAMP:20170211T124021
-LOCATION:Littlefield 107
+DTEND;TZID=America/Los_Angeles:20180108T182000
+LAST-MODIFIED:20170927T180002
+UID:explore_coursesed8441d2-5c20-49f7-8904-69ca4c8e8a09
+DTSTAMP:20170927T180002
+LOCATION:Green Earth Sciences131
 DESCRIPTION:In-class lectures and guest speakers who work in the Buy-Side to explore the synergies amongst the various players&iquest; roles, risk appetites, and investment time and return horizons. We aim to see the forest and the different species of trees growing in the forest known as the Buy-Side, so as to develop a perspective as financial engineers for how the ecosystem functions, what risks it digests, how it generates capital at what rate and amount for the Sell-Side, and how impacts in the real economy are reflected - or should be reflected - in the culture and risk models adopted by the Buy-Side participants.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E449 SEM
-DTSTART;TZID=America/Los_Angeles:20170109T163000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T163000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

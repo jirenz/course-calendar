@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20170211T123952
-UID:explore_coursescf50cda0-5cdb-437d-9d84-f2b3eff0cf86
-DTSTAMP:20170211T123952
-LOCATION:Littlefield 107
-DESCRIPTION:
+DTEND;TZID=America/Los_Angeles:20180403T102000
+LAST-MODIFIED:20170927T175832
+UID:explore_coursesb9237b3d-bb6f-4f21-b496-35b4f7f1baef
+DTSTAMP:20170927T175832
+LOCATION:School of Education 206
+DESCRIPTION:For any problem we want to solve - reducing poverty, improving education, ending civil wars, integrating refugee populations, increasing access to quality health care - someone has to take proposed solutions and make them stick.  Course emphasis is on how to make change in the real world by focusing on policy implementation: what skilled leaders do when they engage stakeholders, confront opposition, prioritize goals, find and marshal resources, fail and learn, and succeed or not.  In particular, the course will tackle problems that many policy courses ignore, such as why implementation is difficult and what strategies and capacities leaders need to put plans into actions.  Focus will be on case analysis and discussion led by professors from a variety of different disciplinary backgrounds in economics, pediatrics, epidemiology, public health, and political science.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:IPS216 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T090000
+CREATED:20170927T175832
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

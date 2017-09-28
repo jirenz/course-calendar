@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T162000
-LAST-MODIFIED:20170211T124023
-UID:explore_courses7fb413d4-df90-42cb-8650-6aec7d2fc5d0
-DTSTAMP:20170211T124023
+DTEND;TZID=America/Los_Angeles:20170928T162000
+LAST-MODIFIED:20170927T180006
+UID:explore_coursesa695907f-46b4-4a9a-bbc2-905b9a0fbc4d
+DTSTAMP:20170927T180006
 LOCATION:550-126
 DESCRIPTION:Building upon foundation design principles, project-based individual / group exploration and critique facilitates a self-guided learning process, where analytical problem-solving approaches are cultivated through real-time implementation in digital tools. A series of diverse projects are brought together in conjunction with related student project portfolio development.  Class Prerequisites: Students must have completed ME110 with high levels of understanding, engagement. May be repeat for credit
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME110B LEC
-DTSTART;TZID=America/Los_Angeles:20160929T150000
-CREATED:20170211T124023
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T150000
+CREATED:20170927T180006
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

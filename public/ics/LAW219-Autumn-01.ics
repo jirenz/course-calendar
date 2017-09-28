@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160912T165000
-LAST-MODIFIED:20170211T124028
-UID:explore_courses8f3db3f1-f7b1-4e8a-87ff-c4fd55797ff3
-DTSTAMP:20170211T124028
-LOCATION:Law85
+DTEND;TZID=America/Los_Angeles:20170906T165000
+LAST-MODIFIED:20170927T175752
+UID:explore_courses2966e68f-bc30-4c79-92a3-8df7e37e2ffa
+DTSTAMP:20170927T175752
+LOCATION:Law185
 DESCRIPTION:Legal Research and Writing is a two-unit course taught as a simulation. Students work on a legal problem starting with an initial interview, and they conduct fact investigation and legal research related to that problem.  Students receive rigorous training in reading and analyzing legal authority, and in using persuasive strategies--legal analysis, narrative, rhetoric, legal theory, and public policy--to frame and develop legal arguments.  Students write predictive memos and persuasive briefs, and are introduced to the professional norms of ethics, timeliness, and courtesy.  This course is part of the required first-year JD curriculum.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW219 LEC
-DTSTART;TZID=America/Los_Angeles:20160912T154500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T165000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170906T154500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T165000;BYDAY=WE
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160908T123500
-LAST-MODIFIED:20170211T124028
-UID:explore_courses132bc24c-1f64-4171-b064-db21c623e16f
-DTSTAMP:20170211T124028
-LOCATION:Law85
+DTEND;TZID=America/Los_Angeles:20170908T123500
+LAST-MODIFIED:20170927T175752
+UID:explore_coursesa8b2c82c-c19b-4a95-910f-2474ed137f75
+DTSTAMP:20170927T175752
+LOCATION:Law185
 DESCRIPTION:Legal Research and Writing is a two-unit course taught as a simulation. Students work on a legal problem starting with an initial interview, and they conduct fact investigation and legal research related to that problem.  Students receive rigorous training in reading and analyzing legal authority, and in using persuasive strategies--legal analysis, narrative, rhetoric, legal theory, and public policy--to frame and develop legal arguments.  Students write predictive memos and persuasive briefs, and are introduced to the professional norms of ethics, timeliness, and courtesy.  This course is part of the required first-year JD curriculum.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW219 LEC
-DTSTART;TZID=America/Los_Angeles:20160908T112000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T123500;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170908T112000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T123500;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

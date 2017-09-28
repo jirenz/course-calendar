@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161004T115000
-LAST-MODIFIED:20170211T124014
-UID:explore_coursesfcc9d1f9-2d94-42fc-a93e-b58324ea159c
-DTSTAMP:20170211T124014
-LOCATION:380-380X
-DESCRIPTION:This short course runs for the first eight weeks of the quarter and is offered each quarter during the academic year.  It is highly recommended for students with no prior programming experience who are expected to use MATLAB in math, science, or engineering courses.  It will consist of interactive lectures and application-based assignments.nThe goal of the short course is to make students fluent in MATLAB and to provide familiarity with its wide array of features.  The course covers an introduction of basic programming concepts, data structures, and control/flow; and an introduction to scientific computing in MATLAB, scripts, functions, visualization, simulation, efficient algorithm implementation, toolboxes, and more.
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175953
+UID:explore_courses60d52f38-5bf8-44f8-ac48-67f7107e122c
+DTSTAMP:20170927T175953
+LOCATION:Gates B12
+DESCRIPTION:This short course runs for the first four weeks/eight lectures of the quarter and is offered each quarter during the academic year.  It is highly recommended for students with no prior programming experience who are expected to use MATLAB in math, science, or engineering courses.  It will consist of interactive lectures and application-based assignments.nThe goal of the short course is to make students fluent in MATLAB and to provide familiarity with its wide array of features.  The course covers an introduction of basic programming concepts, data structures, and control/flow; and an introduction to scientific computing in MATLAB, scripts, functions, visualization, simulation, efficient algorithm implementation, toolboxes, and more.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME192 WKS
-DTSTART;TZID=America/Los_Angeles:20161004T103000
-CREATED:20170211T124014
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161025T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175953
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

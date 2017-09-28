@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20170211T123959
-UID:explore_courses36ed91f4-cf4e-4c40-93b6-5c2085bfc6e2
-DTSTAMP:20170211T123959
-LOCATION:Green Earth Sciences150
-DESCRIPTION:The origins of quantum mechanics and wave mechanics.  Schr&ouml;dinger equation and solutions for one-dimensional systems. Commutation relations. Generalized uncertainty principle. Time-energy uncertainty principle. Separation of variables and solutions for three-dimensional systems; application to hydrogen atom.  Spherically symmetric potentials and angular momentum eigenstates. Spin angular momentum.  Addition of angular momentum. Prerequisites: PHYSICS 65 or PHYSICS 70 and MATH 131P or MATH 173. MATH 173 can be taken concurrently. Pre- or corequisites: PHYSICS 120.
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20170927T175844
+UID:explore_courses9eb52372-dcce-4f6b-9088-c2880291432b
+DTSTAMP:20170927T175844
+LOCATION:Lathrop 299
+DESCRIPTION:The origins of quantum mechanics and wave mechanics.  Schr&ouml;dinger equation and solutions for one-dimensional systems. Commutation relations. Generalized uncertainty principle. Time-energy uncertainty principle. Separation of variables and solutions for three-dimensional systems; application to hydrogen atom.  Spherically symmetric potentials and angular momentum eigenstates. Spin angular momentum.  Addition of angular momentum. Prerequisites: PHYSICS 65 or PHYSICS 70 and PHYSICS 111 or MATH 131P or MATH 173. MATH 173 can be taken concurrently. Pre- or corequisites: PHYSICS 120.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS130 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T150000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

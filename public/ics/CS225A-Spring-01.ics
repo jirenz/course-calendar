@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170211T124018
-UID:explore_courses114efd46-2458-499c-a589-fff2b31c632d
-DTSTAMP:20170211T124018
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses89b9de8c-a5b6-4838-bd39-0f83f3d8955e
+DTSTAMP:20170927T175958
 LOCATION:Gates B12
 DESCRIPTION:Hands-on laboratory course experience in robotic manipulation. Topics include robot kinematics, dynamics, control, compliance, sensor-based collision avoidance, and human-robot interfaces. Second half of class is devoted to final projects using various robotic platforms to build and demonstrate new robot task capabilities. Previous projects include the development of autonomous robot behaviors of drawing, painting, playing air hocket, yoyo, basketball, ping-pong or xylophone. Prerequisites: 223A or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS225A LEC
-DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

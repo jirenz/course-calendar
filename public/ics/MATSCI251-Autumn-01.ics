@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20170211T124022
-UID:explore_courses7a8844a4-40a9-4c07-b630-5d6c63c8c184
-DTSTAMP:20170211T124022
-LOCATION:McCullough 122
-DESCRIPTION:Primarily for students without a materials background. Mechanical properties and their dependence on microstructure in a range of engineering materials. Elementary deformation and fracture concepts, strengthening and toughening strategies in metals and ceramics. Topics: dislocation theory, mechanisms of hardening and toughening, fracture, fatigue, and high-temperature creep. Prerequisite: MATSCI 163. Undergraduates register in 151 for 4 units; graduates register for 251 in 3 units.
+DTEND;TZID=America/Los_Angeles:20170925T112000
+LAST-MODIFIED:20170927T180003
+UID:explore_coursesc5bf505e-bb59-4a45-b664-6ad27dfb113d
+DTSTAMP:20170927T180003
+LOCATION:540-108
+DESCRIPTION:Primarily for students without a materials background. Mechanical properties and their dependence on microstructure in a range of engineering materials. Elementary deformation and fracture concepts, strengthening and toughening strategies in metals and ceramics. Topics: dislocation theory, mechanisms of hardening and toughening, fracture, fatigue, and high-temperature creep. Undergraduates register in 151 for 4 units; graduates register for 251 in 3 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI251 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T124022
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T180003
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

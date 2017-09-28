@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T165000
-LAST-MODIFIED:20170211T124051
-UID:explore_coursesa64173e3-067d-4a92-94a8-89f785da128a
-DTSTAMP:20170211T124051
-LOCATION:Li Ka Shing Center, room 308
+DTEND;TZID=America/Los_Angeles:20180403T165000
+LAST-MODIFIED:20170927T175926
+UID:explore_courses7630cc1a-79b8-408a-b712-d472b3bf531f
+DTSTAMP:20170927T175926
+LOCATION:
 DESCRIPTION:Open to graduate students studying in any discipline whose research work or interest engages global health. Upper-class undergraduates who have completed at least one of the prerequisite courses and who are willing to commit the preparatory time for a graduate level seminar class are welcome. The course undertakes a critical assessment of how different academic disciplines frame global health problems and recommend pathways toward improvements. Focuses on evaluating examples of both success and failure of different theories of change in specific global health implementations. Prerequisites: ECON 118, CEE 265D, HUMBIO 129S or HUMBIO 124C.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOMGEN207 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170211T124051
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T165000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175926
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T165000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T192000
-LAST-MODIFIED:20170211T123940
-UID:explore_courses1c4e1118-351e-4430-a6e0-0235f26ea5b4
-DTSTAMP:20170211T123940
-LOCATION:ScienceTeachingLearningCntr114
-DESCRIPTION:Organic chemistry, functional groups, hydrocarbons, stereochemistry, thermochemistry, kinetics, chemical equilibria. Recitation. Prerequisite: 31A,B, or 31X, or an AP Chemistry score of 5.
+DTEND;TZID=America/Los_Angeles:20180402T122000
+LAST-MODIFIED:20170927T175805
+UID:explore_courses319a14d4-dce4-4bc6-9c83-8edd3cdc8a75
+DTSTAMP:20170927T175805
+LOCATION:STLC114
+DESCRIPTION:Introduction to organic chemistry. Learn to relate three dimensional structure of organic molecules to their chemical and physical properties. Introduced to a variety of functional groups that exhibit patterns of reactivity and learn how to predict products of a reaction in the context of thermodynamics and kinetics. Two hour weekly lab section accompanies the course to introduce the techniques of separation and identification of organic compounds. Prerequisite: 31A,B, or 31X, or AP Chemistry score of 5.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM33 LEC
-DTSTART;TZID=America/Los_Angeles:20170405T180000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T192000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180402T113000
+CREATED:20170927T175805
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE,FR
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T142000
-LAST-MODIFIED:20170211T123940
-UID:explore_courses82175de2-c399-449e-baaf-68a96f86bf8e
-DTSTAMP:20170211T123940
-LOCATION:ScienceTeachingLearningCntr111
-DESCRIPTION:Organic chemistry, functional groups, hydrocarbons, stereochemistry, thermochemistry, kinetics, chemical equilibria. Recitation. Prerequisite: 31A,B, or 31X, or an AP Chemistry score of 5.
+DTEND;TZID=America/Los_Angeles:20180402T192000
+LAST-MODIFIED:20170927T175805
+UID:explore_courses1aae457c-b12e-45b1-ac0a-1b2f527d39e1
+DTSTAMP:20170927T175805
+LOCATION:STLC111
+DESCRIPTION:Introduction to organic chemistry. Learn to relate three dimensional structure of organic molecules to their chemical and physical properties. Introduced to a variety of functional groups that exhibit patterns of reactivity and learn how to predict products of a reaction in the context of thermodynamics and kinetics. Two hour weekly lab section accompanies the course to introduce the techniques of separation and identification of organic compounds. Prerequisite: 31A,B, or 31X, or AP Chemistry score of 5.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM33 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T180000
+CREATED:20170927T175805
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

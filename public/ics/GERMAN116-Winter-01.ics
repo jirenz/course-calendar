@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170211T123949
-UID:explore_coursesa65808d4-a747-4759-9d66-c7ebcf2f99cd
-DTSTAMP:20170211T123949
-LOCATION:50-52E
-DESCRIPTION:Writing about various topics in German Studies.  Topics based on student interests: current politics, economics, European affairs, start-ups in Germany. Intensive focus on writing. Students may write on their experience at Stanford in Berlin or their internship. Fulfills the WIM requirement for German Studies majors.
+DTEND;TZID=America/Los_Angeles:20180108T102000
+LAST-MODIFIED:20170927T175825
+UID:explore_courses99cba684-1c7f-4e75-a7bb-2528cc30c372
+DTSTAMP:20170927T175825
+LOCATION:
+DESCRIPTION:Writing about various topics in German Studies.  Topics based on student interests: current politics, economics, European affairs, start-ups in Germany. Intensive focus on writing. Students may write on their experience at Stanford in Berlin or their internship. Fulfills the WIM requirement for German Studies majors.nGerman Studies Assistant Professor Lea Pao will teach this course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GERMAN116 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20170211T123949
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180108T090000
+CREATED:20170927T175825
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T152000
-LAST-MODIFIED:20170211T124022
-UID:explore_coursesc66c2177-f60c-4c83-94da-45153cddc2e2
-DTSTAMP:20170211T124022
+DTEND;TZID=America/Los_Angeles:20170925T162000
+LAST-MODIFIED:20170927T180003
+UID:explore_courses8ed772ed-076a-4552-b201-0c01db104a3b
+DTSTAMP:20170927T180003
 LOCATION:380-380F
-DESCRIPTION:Technologically relevant experimental techniques for the study of the mechanical behavior of engineering materials in bulk and thin film form, including tension testing, nanoindentation, and wafer curvature stress analysis. Metallic and polymeric systems. In addition to regularly scheduled lecture, includes four three-hour lab sessions, to be scheduled after first class meeting. Prerequisite: ENGR 50. Undergraduates register for 163 in 4 units; graduates register in 173 for 3 units.
+DESCRIPTION:Technologically relevant experimental techniques for the study of the mechanical behavior of engineering materials in bulk and thin film form, including tension testing, nanoindentation, and wafer curvature stress analysis. Metallic and polymeric systems. In addition to regularly scheduled lecture (M/W), this course includes a three-hour lab session every other week (T/W/Th). Register for lecture section in addition to one lab section. Undergraduates register for 163 in 4 units; graduates register in 173 for 3 units
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI163 LAB
-DTSTART;TZID=America/Los_Angeles:20160926T143000
-CREATED:20170211T124022
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T150000
+CREATED:20170927T180003
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

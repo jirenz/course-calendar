@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170211T123942
-UID:explore_coursescb2b4c15-5020-4fe1-858d-fa4371e879b2
-DTSTAMP:20170211T123942
-LOCATION:110-114
-DESCRIPTION:(Formerly CLASSGRK 111.)  Classics majors and minors may repeat for credit with advance approval from the Director of Undergraduate Studies.
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175808
+UID:explore_courses18ed21bd-cd11-42c3-a107-420ebe5278ae
+DTSTAMP:20170927T175808
+LOCATION:110-112
+DESCRIPTION:(Formerly CLASSGRK 111.)  Invectives, love songs, drinking songs, elegies, and choral odes from 700-500 B.C.E. Readings include Sappho, Alcaeus, Archilochus, Mimnermus, Alcman, Solon, and Pindar. Classics majors and minors may repeat for credit with advance approval from the Director of Undergraduate Studies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CLASSICS101G LNG
-DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20170211T123942
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175808
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

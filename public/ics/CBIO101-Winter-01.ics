@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170211T124035
-UID:explore_courses637967fa-4da1-415a-80bd-7872a78d5610
-DTSTAMP:20170211T124035
-LOCATION:MSOBX303
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175900
+UID:explore_courses1939ab7e-5985-4c56-b8a1-90512cec8e18
+DTSTAMP:20170927T175900
+LOCATION:Alway Building, Room M114
 DESCRIPTION:Experimental approaches to understanding the origins, diagnosis, and treatment of cancer. Focus on key experiments and discoveries with emphasis on genetics, molecular biology, and cell biology. Topics include carcinogens, tumor virology, oncogenes, tumor suppressor genes, cell cycle regulation, angiogenesis, invasion and metastasis, cancer genomics, cancer epidemiology, and cancer therapies. Discussion sections based on primary research articles that describe key experiments in the field. Satisfies Central Menu Areas 1 or 2 for Bio majors.  Prerequisite: Biology or Human Biology core or equivalent, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CBIO101 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170211T124035
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175900
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

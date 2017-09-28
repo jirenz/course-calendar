@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T162000
-LAST-MODIFIED:20170211T123952
-UID:explore_courses92aaf797-10e7-40e6-a150-185b2b2ff70b
-DTSTAMP:20170211T123952
-LOCATION:160-314
+DTEND;TZID=America/Los_Angeles:20180110T162000
+LAST-MODIFIED:20170927T175832
+UID:explore_courses5420c69e-c217-461a-b791-c994c8265d2a
+DTSTAMP:20170927T175832
+LOCATION:100-101K
 DESCRIPTION:Applied policy exercises in various fields. Multidisciplinary student teams apply skills to a contemporary problem in a major international policy exercise with a public sector client such as a government agency. Problem analysis, interaction with the client and experts, and presentations. Emphasis is on effective written and oral communication to lay audiences of recommendations based on policy analysis. Enrollment must be split between Autumn and Winter Quarters for a total of 8 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:IPS209 PRA
-DTSTART;TZID=America/Los_Angeles:20170111T150000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T150000
+CREATED:20170927T175832
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

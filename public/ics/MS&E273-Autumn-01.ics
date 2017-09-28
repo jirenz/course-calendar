@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T192000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursesf468578d-cee3-4914-9950-1f072177c9c7
-DTSTAMP:20170211T124021
-LOCATION:Thornt110
+DTEND;TZID=America/Los_Angeles:20170926T192000
+LAST-MODIFIED:20170927T180002
+UID:explore_coursesf6da6f99-054e-4b78-b9c6-867102669beb
+DTSTAMP:20170927T180002
+LOCATION:Y2E2 111
 DESCRIPTION:Open to graduate students interested in technology driven start-ups. Provides the experience of an early-stage entrepreneur seeking initial investment, including: team building, opportunity assessment, customer development, go-to-market strategy, and IP. Teaching team includes serial entrepreneurs and venture capitalists. Student teams validate the business model using R&amp;D plans and financial projections, and define milestones for raising and using venture capital. Final exam is an investment pitch delivered to a panel of top tier VC partners. In addition to lectures, teams interact with mentors and teaching team weekly. Enrollment by application: http://www.stanford.edu/class/msande273. Recommended: 270, 271, or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E273 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T163000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

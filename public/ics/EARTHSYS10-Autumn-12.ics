@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20170211T124030
-UID:explore_courses5dfa0559-6d13-4ab2-b72f-94dca73bd32d
-DTSTAMP:20170211T124030
+DTEND;TZID=America/Los_Angeles:20170926T205000
+LAST-MODIFIED:20170927T175940
+UID:explore_coursesa7061369-043a-4390-899b-2a3583d5b8d0
+DTSTAMP:20170927T175940
 LOCATION:Y2E2 105
 DESCRIPTION:For non-majors and prospective Earth Systems majors. Multidisciplinary approach using the principles of geology, biology, engineering, and economics to describe how the Earth operates as an interconnected, integrated system. Goal is to understand global change on all time scales. Focus is on sciences, technological principles, and sociopolitical approaches applied to solid earth, oceans, water, energy, and food and population. Case studies: environmental degradation, loss of biodiversity, and resource sustainability.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS10 DIS
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170926T193000
+CREATED:20170927T175940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T205000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

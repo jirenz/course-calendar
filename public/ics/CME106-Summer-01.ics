@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170627T182000
-LAST-MODIFIED:20170211T124014
-UID:explore_coursesc733989a-f30d-4086-9a05-9ef039a981c9
-DTSTAMP:20170211T124014
-LOCATION:200-002
+DTEND;TZID=America/Los_Angeles:20180626T182000
+LAST-MODIFIED:20170927T175953
+UID:explore_coursese9ebb7b4-4555-41fa-bb85-0dbf3f579ec4
+DTSTAMP:20170927T175953
+LOCATION:380-380Y
 DESCRIPTION:Probability: random variables, independence, and conditional probability; discrete and continuous distributions, moments, distributions of several random variables. Topics in mathematical statistics: random sampling, point estimation, confidence intervals, hypothesis testing, non-parametric tests, regression and correlation analyses; applications in engineering, industrial manufacturing, medicine, biology, and other fields. Prerequisite: CME 100/ENGR154 or MATH 51 or 52.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME106 LEC
-DTSTART;TZID=America/Los_Angeles:20170627T163000
-CREATED:20170211T124014
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T182000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180626T163000
+CREATED:20170927T175953
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T182000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

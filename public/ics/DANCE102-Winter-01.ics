@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T182000
-LAST-MODIFIED:20170211T123944
-UID:explore_courses0038898c-69f5-4aec-a161-658a853c08cc
-DTSTAMP:20170211T123944
-LOCATION:ROBLEG113
-DESCRIPTION:Fundamental techniques and approaches used in the creation of dance.  Basic elements of composition including: style, form, theme and variation, and phrasing, development of movement vocabulary, symmetry and asymmetry, explicit versus abstract methods of expression, elements of time, quality and use of space, motif, and repetition.  May be repeated for credit.
+DTEND;TZID=America/Los_Angeles:20180108T182000
+LAST-MODIFIED:20170927T175813
+UID:explore_courses7e17d077-2506-471f-8b2a-486d712da46b
+DTSTAMP:20170927T175813
+LOCATION:ROBLEG115
+DESCRIPTION:Students will be able to demonstrate period specificity, character of style through learning different musical theater dances from the early 20th C.to the present. ALL students will participate in an end of quarter showing of the choreography developed and composed in class. nClass will be supplemented with the occasional guest, DJ accompaniment and video viewing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DANCE102 PRC
-DTSTART;TZID=America/Los_Angeles:20170110T163000
-CREATED:20170211T123944
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180108T163000
+CREATED:20170927T175813
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

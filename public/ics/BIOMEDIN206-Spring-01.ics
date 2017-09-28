@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T132000
-LAST-MODIFIED:20170211T124034
-UID:explore_courses3228109a-0ac8-40d8-8a7a-8c2ff6c77658
-DTSTAMP:20170211T124034
-LOCATION:Li Ka Shing Center, room 120
+DTEND;TZID=America/Los_Angeles:20180402T132000
+LAST-MODIFIED:20170927T175859
+UID:explore_courses9550728b-9490-4149-8d1e-a1995a1966c3
+DTSTAMP:20170927T175859
+LOCATION:Alway Building, Room M106
 DESCRIPTION:Effective management, modeling, acquisition, and mining of biomedical information in healthcare and biotechnology companies and approaches to information management adopted by companies in this ecosystem. Guest speakers from pharmaceutical/biotechnology companies, clinics/hospitals, health communities/portals, instrumentation/software vendors. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOMEDIN206 SEM
-DTSTART;TZID=America/Los_Angeles:20170403T123000
-CREATED:20170211T124034
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T123000
+CREATED:20170927T175859
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

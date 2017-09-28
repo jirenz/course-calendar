@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T173000
-LAST-MODIFIED:20170211T124035
-UID:explore_coursesc8319f0b-3b3b-46c3-9770-265a5b4a4970
-DTSTAMP:20170211T124035
+DTEND;TZID=America/Los_Angeles:20170925T170000
+LAST-MODIFIED:20170927T175933
+UID:explore_coursesb82ceff3-0ded-44c9-8ba5-e09f2aa200c5
+DTSTAMP:20170927T175933
 LOCATION:
-DESCRIPTION:Focuses on decision making in science, with particular attention to skills for identifying when to solicit interdisciplinary input, and how to guide such discussions to productive endpoints. Uses case studies based on Novartis projects to teach ways to leverage interdisciplinary knowledge, effectively communicate across disciplines, and drive teams to decision points.  Two-day workshop presented by Novartis scientists who lead participants through these real life examples of interactive teams within pharma solving problems through collaborative decision making. Participants develop collaborative decision making skills highlighted through group exercises.
+DESCRIPTION:Focuses on decision making in science, with particular attention to skills for identifying when to solicit interdisciplinary input, and how to guide such discussions to productive endpoints. Uses case studies based on Novartis projects to teach ways to leverage interdisciplinary knowledge, effectively communicate across disciplines, and drive teams to decision points. Two-day workshop presented by Novartis scientists who lead participants through these real life examples of interactive teams within pharma solving problems through collaborative decision making. Participants develop collaborative decision making skills highlighted through group exercises.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS250 WKS
-DTSTART;TZID=America/Los_Angeles:20160927T080000
-CREATED:20170211T124035
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T173000;BYDAY=TU,WE
+DTSTART;TZID=America/Los_Angeles:20170925T090000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170926T170000;BYDAY=MO,TU
 END:VEVENT
 END:VCALENDAR

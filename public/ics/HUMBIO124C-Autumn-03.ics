@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T142000
-LAST-MODIFIED:20170211T123952
-UID:explore_courses009eb40f-7286-4d88-bd9e-6654080a4dbc
-DTSTAMP:20170211T123952
-LOCATION:200-217
-DESCRIPTION:This course will introduce key challenges to the health and wellbeing of children worldwide, with a particular focus on children in low- and middle-income countries. It will review the leading causes of morbidity and mortality, identify interventions to address some of the biggest child health problems, and provide an overview of the roles of culture, gender, and civil society on child health and health policy. Upper division course with preference given to upperclassmen.
+DTEND;TZID=America/Los_Angeles:20170927T142000
+LAST-MODIFIED:20170927T175831
+UID:explore_courses3cc64e4e-8b84-4d77-9cb4-e195a102f527
+DTSTAMP:20170927T175831
+LOCATION:380-380D
+DESCRIPTION:This course introduces students to key challenges to the health and well being of children worldwide. We focus on child health problems in low- and middle-income countries (LMIC) to reflect the global burden of disease among children. We will review the scope and magnitude of the leading causes of morbidity and mortality among children, as well as examine regional variations. We will then identify both medical and non-medical causes, effects of, as well as interventions to address, some of the biggest child health problems. The course will also prevent an overview of the role of culture, gender, and non-state actors (NGOs, foundations, etc.) on health and health policy. Upper division course with preference given to upperclassmen.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO124C DIS
-DTSTART;TZID=America/Los_Angeles:20160928T133000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T133000
+CREATED:20170927T175831
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T142000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

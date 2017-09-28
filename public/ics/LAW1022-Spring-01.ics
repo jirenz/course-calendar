@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T181500
-LAST-MODIFIED:20170211T124028
-UID:explore_courses0a576eb4-5c17-4f50-9c80-aeff95a63ea5
-DTSTAMP:20170211T124028
+DTEND;TZID=America/Los_Angeles:20180402T181500
+LAST-MODIFIED:20170927T175752
+UID:explore_coursesdc17e0fc-8d13-4c69-9700-64d643bed55c
+DTSTAMP:20170927T175752
 LOCATION:
-DESCRIPTION:(Formerly Law 352)  This course examines the United States federal income taxation of international operations and transactions, including international joint ventures and M&amp;A transactions. Income source, foreign tax credits and Subpart F are important. International transfer pricing rules also will be addressed. Elements used in grading: Final Exam.
+DESCRIPTION:(Formerly Law 352)  This course examines the United States federal income taxation of international operations and transactions, including international joint ventures and M&amp;A transactions. Income source, foreign tax credits and Subpart F are important. International transfer pricing rules also will be addressed. Congress is currently debating fundamental reform of US international tax rules; developments in this area will also be covered.  Elements used in grading: Final Exam.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW1022 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T161500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170526T181500;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T161500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180601T181500;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

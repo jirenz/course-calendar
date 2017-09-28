@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursesffe61102-ae95-4968-8427-2092924bb303
-DTSTAMP:20170211T124021
-LOCATION:Gates B1
-DESCRIPTION:How to make good decisions in a complex, dynamic, and uncertain world. People often make decisions that on close examination they regard as wrong. Decision analysis uses a structured conversation based on actional thought to obtain clarity of action in a wide variety of domains. Topics: distinctions, possibilities and probabilities, relevance, value of information and experimentation, relevance and decision diagrams, risk attitude. Students seeking to fulfill the Writing in the Major requirement should register for MS&amp;E 152W.
+DTEND;TZID=America/Los_Angeles:20180403T102000
+LAST-MODIFIED:20170927T180002
+UID:explore_coursesb0ab946c-eeb8-4e57-85b3-a9307b1f3b7e
+DTSTAMP:20170927T180002
+LOCATION:
+DESCRIPTION:How to make good decisions in a complex, dynamic, and uncertain world. People often make decisions that on close examination they regard as wrong. Decision analysis uses a structured conversation based on actional thought to obtain clarity of action in a wide variety of domains. Topics: distinctions, possibilities and probabilities, relevance, value of information and experimentation, relevance and decision diagrams, risk attitude.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E152 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T090000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T182000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses2e2cc349-d839-4080-81d5-9688797800f7
-DTSTAMP:20170211T124013
+DTEND;TZID=America/Los_Angeles:20180108T182000
+LAST-MODIFIED:20170927T175952
+UID:explore_coursesf91e297d-ff53-4319-990c-a2160c9ad554
+DTSTAMP:20170927T175952
 LOCATION:Y2E2 111
 DESCRIPTION:Concepts include the preparation and analysis of construction claims, cost overrun and schedule delay analysis, general legal principles, contracts, integrated project delivery, public private partnerships and the resolution of construction disputes through ADR and litigation. Requires attendance of the ten weeks of Monday classes and the first five weeks of Wednesday classes.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE202 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T163000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T163000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

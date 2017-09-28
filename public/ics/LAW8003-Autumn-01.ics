@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T160000
-LAST-MODIFIED:20170211T124029
-UID:explore_coursesf26ea8a4-f69f-497a-9763-0e3d515eaff3
-DTSTAMP:20170211T124029
-LOCATION:Law272
-DESCRIPTION:(Formerly Law 711)  This course enables IELBP advanced degree students to explore selected issues, case studies and policy debates in international economic law and business, global political economy, and transnational dispute resolution in a highly interactive seminar. The colloquium provides opportunities for students to engage in dialogue with experts in the field (including Stanford Law faculty and interdisciplinary scholars from other schools, departments or programs at Stanford University), to participate in cross-border negotiation simulations, and to discuss legal processes and strategic challenges with experienced international law practitioners.  Students are expected to have carefully read assigned materials in advance of each session and to be well prepared to discuss the materials with the instructor and guest speakers.  Attendance, active participation and critical thinking are essential to the success of the seminar and are important factors in the grade.  The course extends over two quarters (autumn and spring), and students are required to complete both quarters in order to satisfy the program requirement.  In each term, written requirements include several short reflection papers and a longer essay for publication in the IELBP LLM blog.
+DTEND;TZID=America/Los_Angeles:20170927T160000
+LAST-MODIFIED:20170927T175752
+UID:explore_courses1eb511fd-e93a-490b-b666-9a05bce988e3
+DTSTAMP:20170927T175752
+LOCATION:Law320D
+DESCRIPTION:(Formerly Law 711) This course enables IELBP advanced degree students to explore selected issues, case studies and policy debates in international economic law and business, global political economy, and transnational dispute resolution in a highly interactive seminar. The colloquium provides opportunities for students to engage in dialogue with experts in the field (including Stanford Law faculty and interdisciplinary scholars from other schools, departments or programs at Stanford University), to participate in cross-border negotiation simulations, and to discuss legal processes and strategic challenges with experienced international law practitioners.  Students are expected to have carefully read assigned materials in advance of each session and to be well prepared to discuss the materials with the instructor and guest speakers. The course extends over two quarters (autumn and spring), and students are required to complete both quarters in order to satisfy the program requirement.  The fall quarter colloquium will analyze issues and trends in international economic law, business and policy in the context of globalization and regionalism; students will engage in a policy analysis and advocacy project in small regional groups. The spring colloquium will focus on international economic law, business and policy issues faced by transnational legal practitioners.  In each term, written requirements include several short reflection papers and a longer essay for potential publication in the IELBP LLM blog.  Elements used in grading:  Attendance, active participation and critical thinking are essential to the success of the seminar and are important factors in the grade in addition to written work.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW8003 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T140000
-CREATED:20170211T124029
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T160000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170927T140000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T160000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

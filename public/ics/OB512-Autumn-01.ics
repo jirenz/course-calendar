@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161114T175000
-LAST-MODIFIED:20170211T124027
-UID:explore_courses87a7af05-5700-4a45-8096-81ab6632bb38
-DTSTAMP:20170211T124027
-LOCATION:GSB Gunn 102
-DESCRIPTION:This course is designed to provide students with a summary of entrepreneurial processes that have successfully created, developed, and sustained breakthrough ventures. By &quot;breakthrough&quot; we mean ventures that have had a lasting and positive impact, touching millions of lives.  We consider ventures that are not only software related, but also ones based on technology and business models that impact markets ranging from medical devices to small satellites to home robotics systems to clean water and more.  nThe examples are based on the experiences of Norman Winarsky, formerly President of SRI Ventures, and Henry Kressel, Partner Emeritus at Warburg Pincus.  They include companies like Siri, Nuance, Intuitive Surgical, Sandisk, and others.  nThe course leads us from the source of breakthrough venture ideas, to building a great value proposition and business plan, recruiting a team, finding investors and board members, deciding whether to sell or go IPO, and ends with what it takes to build a company that can sustain itself through continuous innovation.  At each step, we follow examples of companies we've helped build, and provide lessons of success as well as failure. We compare and contrast the strategies of these ventures with other popular strategies, such as those proposing &quot;fail fast, develop minimal viable products, and pivot often...&quot; nThe course will be highly interactive, and engage students in discussing their own experiences and future plans.  Invited speakers will include venture capitalists and entrepreneurs who have created breakthrough companies.
+DTEND;TZID=America/Los_Angeles:20171113T175000
+LAST-MODIFIED:20170927T175744
+UID:explore_coursesb653f934-fd0e-4010-8be2-84b1c7f1e6a0
+DTSTAMP:20170927T175744
+LOCATION:GSB Faculty East 101
+DESCRIPTION:This course is designed to provide students with a summary of entrepreneurial processes that have successfully created, developed, and sustained breakthrough ventures. By &quot;breakthrough&quot; we mean ventures that have a lasting and positive impact, touching millions of lives. Examples are based on the experiences of Norman Winarsky, formerly President of SRI Ventures, Charles O&iquest;Reilly, and invited speakers who are leading investors and entrepreneurs.  They include companies like Siri, Nuance, Intuitive Surgical, Sandisk, Facebook, and others.  nnThink of this course as a &iquest;master class&iquest;. You will work with the professors and invited speakers to create and build your venture concept.  We focus on all elements of building a breakthrough company, starting with the source of breakthrough venture ideas, advancing to building a great value proposition and business plan, recruiting a team, finding investors and board members, scaling the company, deciding whether to sell or go IPO, and ending with what it takes to build a company that can sustain itself through continuous innovation.  At each step, we follow examples of companies we've helped build, and provide lessons of success as well as failure. The course will be highly interactive, and engage students in elements of building their own venture concepts.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OB512 SEM
-DTSTART;TZID=America/Los_Angeles:20161114T150000
-CREATED:20170211T124027
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T175000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20171113T150000
+CREATED:20170927T175744
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171117T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171127T175000
+LAST-MODIFIED:20170927T175744
+UID:explore_courses0b416998-7fea-4420-9971-328ce4e27025
+DTSTAMP:20170927T175744
+LOCATION:
+DESCRIPTION:This course is designed to provide students with a summary of entrepreneurial processes that have successfully created, developed, and sustained breakthrough ventures. By &quot;breakthrough&quot; we mean ventures that have a lasting and positive impact, touching millions of lives. Examples are based on the experiences of Norman Winarsky, formerly President of SRI Ventures, Charles O&iquest;Reilly, and invited speakers who are leading investors and entrepreneurs.  They include companies like Siri, Nuance, Intuitive Surgical, Sandisk, Facebook, and others.  nnThink of this course as a &iquest;master class&iquest;. You will work with the professors and invited speakers to create and build your venture concept.  We focus on all elements of building a breakthrough company, starting with the source of breakthrough venture ideas, advancing to building a great value proposition and business plan, recruiting a team, finding investors and board members, scaling the company, deciding whether to sell or go IPO, and ending with what it takes to build a company that can sustain itself through continuous innovation.  At each step, we follow examples of companies we've helped build, and provide lessons of success as well as failure. The course will be highly interactive, and engage students in elements of building their own venture concepts.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OB512 SEM
+DTSTART;TZID=America/Los_Angeles:20171127T150000
+CREATED:20170927T175744
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

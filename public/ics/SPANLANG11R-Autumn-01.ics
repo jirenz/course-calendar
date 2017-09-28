@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T132000
-LAST-MODIFIED:20170211T124004
-UID:explore_coursesf9fd9b51-cd8a-4526-a2e5-a5d03209e203
-DTSTAMP:20170211T124004
-LOCATION:260-244
+DTEND;TZID=America/Los_Angeles:20170925T132000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesa2e11c8d-fd6e-4d41-800d-4e358d0dfb39
+DTSTAMP:20170927T175851
+LOCATION:260-001
 DESCRIPTION:Continuation of SPANLANG 3 or SPANLANG 2A. Sequence integrating geopolitics and language, with emphasis on developing advanced proficiency in oral and written discourse. Targeted functional abilities include presentational and socioculturally appropriate language in formal and informal, academic, and professional contexts. `R' content focuses on international relations and socioeconomics of the Spanish-speaking world. Prerequisite: Placement Test, SPANLANG 2A or SPANLANG 3.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPANLANG11R LNG
-DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T113000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20170211T123959
-UID:explore_courses6c343b0d-0fcd-4ed3-8707-a14b76bdaf6f
-DTSTAMP:20170211T123959
+DTEND;TZID=America/Los_Angeles:20180402T172000
+LAST-MODIFIED:20170927T175844
+UID:explore_coursesebe28fb7-b5fe-47c0-a0ed-9bd2cf1de2e4
+DTSTAMP:20170927T175844
 LOCATION:Hewlett Teaching Center 103
-DESCRIPTION:Designed for undergraduate physics majors but open to all students with a calculus-based physics background and some laboratory and coding experience. Students make and analyze observations using the telescopes at the Stanford Student Observatory. Topics covered include navigating the night sky, the physics of stars and galaxies, telescope instrumentation and operation, imaging and spectroscopic techniques, quantitative error analysis, and effective scientific communication. The course concludes with an independent project. Limited enrollment. Prerequisites: prior completion of Physics 40 or 60 series.
+DESCRIPTION:Designed for undergraduate physics majors but open to all students with a calculus-based physics background and some laboratory and coding experience. Students make and analyze observations using the telescopes at the Stanford Student Observatory. Topics covered include navigating the night sky, the physics of stars and galaxies, telescope instrumentation and operation, imaging and spectroscopic techniques, quantitative error analysis, and effective scientific communication. The course concludes with an independent project where student teams propose and execute an observational astronomy project of their choosing, using techniques learned in class to gather and analyze their data, and presenting their findings in the forms of professional-style oral presentations and research papers. Enrollment by permission. To get a permission number please complete form: http://web.stanford.edu/~elva/physics100prelim.fbn If you have not heard from us by the beginning of class, please come to the first class session.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS100 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T163000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T163000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

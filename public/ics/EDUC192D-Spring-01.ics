@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses98d64bed-bd2e-4399-88d2-ec26bb72066a
-DTSTAMP:20170211T123931
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20170927T175938
+UID:explore_courseseeb5ebaf-8235-4e43-983d-cbb77f66d76b
+DTSTAMP:20170927T175938
 LOCATION:School of Education 230
 DESCRIPTION:&quot;Interpersonal Learning &amp; Leadership&quot; explores research on leadership and the complex dynamics of our changing society. Participants will engage in course work intended to build skills relevant to the Ethnic Theme Associate position. Students will practice listening, question asking, self reflection, risk taking, facilitating, conflict mediating, decision-making and group leadership. They will explore how groups of people can come together for intellectual and interpersonal learning and growth within a complex society. Students will develop strategies to build community and facilitate challenging conversations while creating a safe environment for their peers to do the same.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC192D LEC
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

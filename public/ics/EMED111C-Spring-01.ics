@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170401T150000
-LAST-MODIFIED:20170211T124037
-UID:explore_coursesd08db459-aab1-4897-ae8f-cc2eb95141aa
-DTSTAMP:20170211T124037
-LOCATION:Alway Building, Room M208
-DESCRIPTION:Continuation of 111B/211B.  Special topics in EMS. Topics include pediatric, obstetric, and gynecologic  emergencies, EMS operations, mass casualty incidents, and assault. Lectures, practicals, and applications. Upon completion of EMED 111A,B,C or 211A,B,C, students are eligible to sit for the National Registry EMT certification exam. Prerequisites: EMED 111B/211B, CPR-PR certification, and consent of instructor.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:EMED111C LEC
-DTSTART;TZID=America/Los_Angeles:20170401T090000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170401T150000;BYDAY=SA
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T200000
-LAST-MODIFIED:20170211T124037
-UID:explore_coursesba1aac3a-427d-429a-9211-51f173229b1f
-DTSTAMP:20170211T124037
+DTEND;TZID=America/Los_Angeles:20180403T203000
+LAST-MODIFIED:20170927T175902
+UID:explore_courses54636a15-4e67-40fd-bc4e-7030ccda688b
+DTSTAMP:20170927T175902
 LOCATION:Li Ka Shing Center,rms101/102
-DESCRIPTION:Continuation of 111B/211B.  Special topics in EMS. Topics include pediatric, obstetric, and gynecologic  emergencies, EMS operations, mass casualty incidents, and assault. Lectures, practicals, and applications. Upon completion of EMED 111A,B,C or 211A,B,C, students are eligible to sit for the National Registry EMT certification exam. Prerequisites: EMED 111B/211B, CPR-PR certification, and consent of instructor.
+DESCRIPTION:Continuation of EMED 111B/211B. Topics include mass casualty incidents, vehicle extrication, pediatric and obstetrical emergencies. There will be one class activity on a Saturday or Sunday during the quarter, specific date will be announced during the first week of class. Includes both lecture and practical sessions. (ONLY graduate students may enroll for 3 or 4 units with instructor permission, see EMED 211C.) Prerequisites: EMED 111A/211A, 111B/211C and consent of instructor, AHA or RC CPR certification.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EMED111C LEC
-DTSTART;TZID=America/Los_Angeles:20170404T180000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T200000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T180000
+CREATED:20170927T175902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T203000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

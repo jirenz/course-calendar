@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T112000
-LAST-MODIFIED:20170211T124010
-UID:explore_courses4969ca4a-5114-4879-97fb-e6824c45e35e
-DTSTAMP:20170211T124010
-LOCATION:160-314
+DTEND;TZID=America/Los_Angeles:20180109T112000
+LAST-MODIFIED:20170927T175750
+UID:explore_courses1d8d6bfe-5535-4835-9026-128d7f426e32
+DTSTAMP:20170927T175750
+LOCATION:160-319
 DESCRIPTION:Prerequisite: PWR 1. In this class we will explore how race and ethnicity in America have become subjects of personal negotiations and public perception. The readings will address various topics such as biracial and bicultural identity, acculturation, stereotyping and self-image. In addition, we will approach each of the writings in this class as an opportunity to practice in-class rhetorical analysis and oral presentation skills and to practice discovering specific research questions. For more information about PWR 2, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-2. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR2AH SEM
-DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20170211T124010
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T093000
+CREATED:20170927T175750
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

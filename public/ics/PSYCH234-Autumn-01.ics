@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170211T124001
-UID:explore_coursescebb48ce-b7fe-48f7-a4c6-cca29e768541
-DTSTAMP:20170211T124001
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175847
+UID:explore_courses560d2fd4-e6bf-433d-bfd9-35c22ec47893
+DTSTAMP:20170927T175847
 LOCATION:420-419
 DESCRIPTION:In this course we will discuss current issues in the study of major depression, including the epidemiology and phenomenology of depression and other affective disorders, psychological and biological theories of depression, gender differences in depression, cognitive and social functioning of depressed persons, findings from neuroimaging studies of depression, depression in children, risk factors for depression, issues involving suicide, and implications of the NIMH RDoC initiative for the study of depression and other psychiatric diagnostic categories. Prerequisite: graduate standing in Psychology or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH234 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175847
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

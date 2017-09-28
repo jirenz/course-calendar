@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T212000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses72502975-eeaf-48d3-b5c7-67c54cbc2b36
-DTSTAMP:20170211T123931
-LOCATION:School of Education 313
+DTEND;TZID=America/Los_Angeles:20180402T212000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses5ef21a5c-e993-42d4-a0b7-862fae073bf1
+DTSTAMP:20170927T175938
+LOCATION:School of Education 210
 DESCRIPTION:&quot;Interpersonal Learning &amp; Leadership&quot; explores research on leadership and the complex dynamics of our changing society. Participants will engage in course work intended to build skills relevant to the Resident Assistant/College Assistant position. Students will practice listening, question asking, self-reflection, risk taking, facilitating, conflict mediating and decision-making. They will explore how groups of people can come together for intellectual and interpersonal learning and growth within a complex society. Students will develop strategies to build community and facilitate challenging conversations while creating a safe environment for their peers to do the same.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC192C LEC
-DTSTART;TZID=America/Los_Angeles:20170403T203000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T212000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T203000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T212000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

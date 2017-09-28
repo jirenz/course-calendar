@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170211T124001
-UID:explore_courses4092c712-4ae6-46b0-bc10-a1169f432fab
-DTSTAMP:20170211T124001
-LOCATION:Encina West 417
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses7dcbe70e-e895-4a9f-931a-0f67c408b7c5
+DTSTAMP:20170927T175846
+LOCATION:Encina West 400
 DESCRIPTION:Required of Political Science Ph.D. students with comparative politics as a first or second concentration; others by consent of the instructor. The origins of political and economic institutions and their impact on long run outcomes for growth and democracy. Emphasis is on the analysis of causal models, hypothesis testing, and the quality of evidence.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI440B SEM
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

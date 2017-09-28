@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T182000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses6d5cf93c-a9ad-4e26-8d52-592346517623
-DTSTAMP:20170211T124041
-LOCATION:Li Ka Shing Center, room 208
+DTEND;TZID=America/Los_Angeles:20180404T182000
+LAST-MODIFIED:20170927T175908
+UID:explore_courses52967aa1-979f-4a44-87cc-c90d766bf9e1
+DTSTAMP:20170927T175908
+LOCATION:Alway Building, Room M112
 DESCRIPTION:Development of pragmatic skills for design, implementation, and analysis of structured interviews, focus groups, survey questionnaires, and field observations. Topics include: principles of community-based participatory research, including importance of dissemination; strengths and limitations of different study designs; validity and reliability; construction of interview and focus group questions; techniques for moderating focus groups; content analysis of qualitative data; survey questionnaire design; and interpretation of commonly-used statistical analyses.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED247 SEM
-DTSTART;TZID=America/Los_Angeles:20170405T153000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T182000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T153000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

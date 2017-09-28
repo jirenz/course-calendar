@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T122000
-LAST-MODIFIED:20170211T124009
-UID:explore_courses1864a865-8fc7-4fe0-b3e0-fa948653ce51
-DTSTAMP:20170211T124009
-LOCATION:Sweet303
+DTEND;TZID=America/Los_Angeles:20180404T122000
+LAST-MODIFIED:20170927T175749
+UID:explore_courses52ba2050-d9bf-4869-89a9-11f4c89ff6e6
+DTSTAMP:20170927T175749
+LOCATION:200-107
 DESCRIPTION:How might the study of the successes and failures of democratic and republican government in ancient Greece and Rome help us to fix what is broken in our own political systems? Democracy and republic are ancient names for revolutionary approaches to government of, by, and for citizens. Today, almost every state proclaims itself to be a democracy, a republic -- or both. Democratic and republican revolutions transformed ancient Greece and Rome - and later transformed the modern world. We explore how political thinkers, from Machiavelli to Madison and Mill, used the lessons of ancient politics to design bold new systems of government. Ancient politics may still hold lessons for us. We analyze what is broken in modern government (corruption, polarization, gridlock), how it broke, and how the tool kit of ancient political history might help us to analyze and repair the damage.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:THINK47 DIS
-DTSTART;TZID=America/Los_Angeles:20170405T113000
-CREATED:20170211T124009
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=WE,FR
+DTSTART;TZID=America/Los_Angeles:20180404T113000
+CREATED:20170927T175749
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20170211T123947
-UID:explore_coursesadb5f439-f845-49b4-9a5b-385aeeac0e73
-DTSTAMP:20170211T123947
-LOCATION:380-380X
-DESCRIPTION:From the 14th to the 17th centuries, what are the relations between literature and history? How has our understanding of key works changed as historicisms--or the approach that treats a period in its specificity--have changed? Discussion of how literature works as a force in culture, not only a reflection of other forces. Chaucer's <i>General Prologue</i> and <i>Knight's Tale</i>; More, <i>Utopia</i>; Wyatt and Sidney, poems; Lock,<i> Meditation of a Penitent Sinner</i>; Spenser, <i>The Faerie Queene, Book One</i>; Shakespeare, <i>The Tempest</i>; Donne, <i>Songs and Sonets</i> and <i>Holy Sonnets</i>; Milton, <i>Paradise Lost</i>.
+DTEND;TZID=America/Los_Angeles:20170925T145000
+LAST-MODIFIED:20170927T175821
+UID:explore_courses755bfb66-0b7c-435e-9cbc-c1b620941f86
+DTSTAMP:20170927T175821
+LOCATION:200-305
+DESCRIPTION:Werewolves, dragons, cannibals, witches, sea monsters, faeries, moral monstrosity, madness, the uncanny and the grotesque the monstrous is frightening, fury-filled, unknowable, and seductive. Monsters inhabit the literary imagination and the historic landscape. Monsters live on the margins of society; they are culturally and ideologically fraught; they exhibit sexual, racial, religious, and physical difference. In this course, we shall examine the depiction and meaning of the monster in literature, manuscript images, and maps from England and Wales from about 650CE to 1650CE.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGLISH10A LEC
-DTSTART;TZID=America/Los_Angeles:20160927T120000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

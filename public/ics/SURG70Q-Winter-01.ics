@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T162000
-LAST-MODIFIED:20170211T124052
-UID:explore_courses2c06cb14-3d6b-4904-8584-239135a6f5ad
-DTSTAMP:20170211T124052
+DTEND;TZID=America/Los_Angeles:20180110T162000
+LAST-MODIFIED:20170927T175928
+UID:explore_coursesf48b4ee2-77d8-41f9-93a7-c70627e08c8f
+DTSTAMP:20170927T175928
 LOCATION:
 DESCRIPTION:The surgical anatomy of the hand is extremely complex in terms of structure and function.  Exploration of the anatomy of the hand in different contexts: its representation in art forms, the historical development of the study of hand anatomy, current operative techniques for reconstruction, advances in tissue engineering, and the future of hand transplantation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SURG70Q IDS
-DTSTART;TZID=America/Los_Angeles:20170111T150000
-CREATED:20170211T124052
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T150000
+CREATED:20170927T175928
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

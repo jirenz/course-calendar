@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170211T123959
-UID:explore_coursesaeabaaf6-c80d-4c49-8b86-4e3804ed7d53
-DTSTAMP:20170211T123959
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T175844
+UID:explore_courses41762733-aa13-4a10-abec-57b76fc0edb4
+DTSTAMP:20170927T175844
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:Energy as a consumable.  Forms and interconvertability.  World Joule budget.  Equivalents in rivers, oil pipelines and nuclear weapons. Quantum mechanics of fire, batteries and fuel cells. Hydrocarbon and hydrogen synthesis. Fundamental limits to mechanical, electrical and magnetic strengths of materials. Flywheels, capacitors and high pressure tanks. Principles of AC and DC power transmission. Impossibility of pure electricity storage. Surge and peaking. Solar constant.  Photovoltaic and thermal solar conversion.  Physical limits on agriculture.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS240 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170630T172000
-LAST-MODIFIED:20170211T124021
-UID:explore_courses180c7f3a-7c93-4b23-8a4c-2edc0bd5d541
-DTSTAMP:20170211T124021
+DTEND;TZID=America/Los_Angeles:20180629T172000
+LAST-MODIFIED:20170927T180002
+UID:explore_coursesf07f211c-783c-474f-b6ac-42bc83de085a
+DTSTAMP:20170927T180002
 LOCATION:
 DESCRIPTION:Focuses on new trends and disruptive technologies in IT. Emphasis on the way technologies create a competitive edge and generate business value. Broad range of views presented by guest speakers, including top level executives of technology companies, and IT executives (e.g. CIOs) of Fortune 1000 companies. Special emphasis in technologies such as Cloud Computing, Artificial Intelligence, Security, Mobility, and Big Data.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E238 LEC
-DTSTART;TZID=America/Los_Angeles:20170630T143000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T172000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180629T143000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T172000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

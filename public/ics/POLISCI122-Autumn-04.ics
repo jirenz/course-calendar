@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T152000
-LAST-MODIFIED:20170211T124000
-UID:explore_courses09f2110c-f950-4b9c-8d9d-f835305e17c6
-DTSTAMP:20170211T124000
-LOCATION:Littlefield 103
+DTEND;TZID=America/Los_Angeles:20170926T182000
+LAST-MODIFIED:20170927T175846
+UID:explore_coursescdded7e3-4525-4f8b-b2dc-3d011e0f76be
+DTSTAMP:20170927T175846
+LOCATION:160-314
 DESCRIPTION:For undergraduates. The structure of the American legal system including the courts; American legal culture; the legal profession and its social role; the scope and reach of the legal system; the background and impact of legal regulation; criminal justice; civil rights and civil liberties; and the relationship between the American legal system and American society in general.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI122 DIS
-DTSTART;TZID=America/Los_Angeles:20160928T143000
-CREATED:20170211T124000
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170926T173000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

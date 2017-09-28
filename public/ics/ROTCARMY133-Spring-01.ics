@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T101000
-LAST-MODIFIED:20170211T124008
-UID:explore_courses5121c3b6-ae0a-4dfe-95e2-7dce762f3b01
-DTSTAMP:20170211T124008
+DTEND;TZID=America/Los_Angeles:20180403T101000
+LAST-MODIFIED:20170927T175748
+UID:explore_courses9c3dd936-af55-46af-a884-427e683cf63d
+DTSTAMP:20170927T175748
 LOCATION:
 DESCRIPTION:Practical applications of intense situational leadership challenges that will provide awareness and specific feedback on leadership abilities. Student skills are evaluated using practical applications in decision making, persuading, and motivating team members when under fire.  Aspects of military operations are reviewed as a means of preparing for the ROTC Leader Development Assessment Course (LDAC).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ROTCARMY133 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T083000
-CREATED:20170211T124008
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T101000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T083000
+CREATED:20170927T175748
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T101000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

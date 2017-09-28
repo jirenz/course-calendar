@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170211T123952
-UID:explore_courses0d8c9ce2-16d4-4e25-81c4-a14e6a3a8c8b
-DTSTAMP:20170211T123952
-LOCATION:Ceras 300
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175831
+UID:explore_coursesf8fa0f65-7e4b-4f84-b977-32469634c244
+DTSTAMP:20170927T175831
+LOCATION:STLC104
 DESCRIPTION:Explore the amazing capacity of your body to move and adapt within your everyday world. You will learn: how your body systems respond to the stress of acute exercise and adapt to chronic exercise training, how your cardiovascular system adapts to optimize oxygen delivery and utilization, how your muscles generate force and hypertrophy in response to training, and how your metabolic/biochemical pathways are regulated to support the increased energy demand of exercise. We will discuss theories on the causes of fatigue and muscle soreness, and on what limits human performance. Applied topics such as the effects of aging, gender, and environmental conditions (high altitude, heat, cold, microgravity) on your body will be emphasized in the second half of the course. Portions of the class will be taught through videos that use online lectures and engaging stories to illustrate physiology concepts. Prerequisite: Human Biology core, Biology core, or equivalent, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO135 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175831
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

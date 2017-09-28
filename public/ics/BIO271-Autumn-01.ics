@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170211T123939
-UID:explore_courses4f697e17-b4bb-4e04-a6e3-15bd58f8d2a1
-DTSTAMP:20170211T123939
-LOCATION:320-106
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175802
+UID:explore_coursesb4e80cb4-5f64-4396-aff7-8f91e0006ea5
+DTSTAMP:20170927T175802
+LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:Genetic analysis of the key regulatory circuits governing the control of cell division.  Illustration of key principles that can be generalized to other synthetic and natural biological circuits. Focus on tractable model organisms; growth control; irreversible biochemical switches; chromosome duplication; mitosis; DNA damage checkpoints; MAPK pathway-cell cycle interface; oncogenesis. Analysis of classic and current primary literature. Satisfies Central Menu Area 2.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO271 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T123939
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

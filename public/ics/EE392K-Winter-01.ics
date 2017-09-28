@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses53f7cb64-81d7-43ee-a4a6-2e25b42115fa
-DTSTAMP:20170211T124020
-LOCATION:Hewlett Teaching Center Rm 101
+DTEND;TZID=America/Los_Angeles:20180108T122000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursesb274e493-0e9b-449c-ad70-456d240ac1aa
+DTSTAMP:20170927T180001
+LOCATION:320-106
 DESCRIPTION:The course will consider data from sensors in large-scale networks such as Cloud Computing Systems and the Internet of Moving Things.  Methods for sensing, denoising the sensed data, and reconstructing the evolution of the network in  fine detail from snapshot observations will be discussed.  Techniques for synchronizing clocks across a large data center, and using machine learning to perform real-time inference at scale will be presented.  The principles of creating an interactive database for detecting anomalies, raising alerts, and serving insights to the user will be discussed.  The course will involve a team-based project. Required prerequisites: basic computer networks as in CS 144 or CS 244. Recommended: basic statistics or machine learning, as in EE 278 or CS 229.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE392K LEC
-DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T113000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

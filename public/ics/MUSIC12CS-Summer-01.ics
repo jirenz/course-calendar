@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170629T192000
-LAST-MODIFIED:20170211T123957
-UID:explore_courses8ef139d3-7597-47a2-b894-c1ef8cd40dab
-DTSTAMP:20170211T123957
-LOCATION:Braun111
+DTEND;TZID=America/Los_Angeles:20180628T192000
+LAST-MODIFIED:20170927T175840
+UID:explore_courses43f91494-265c-49fc-b102-c8260689c1fd
+DTSTAMP:20170927T175840
+LOCATION:
 DESCRIPTION:Piano: Introductory Level 3 (Group; 10 students to a section) (A=Level 1; B=Level 2; C=Level 3). Class is closed by design. Please register on the wait-list and show up on the first day of class to receive a permission number for enrollment. Complete registration form available for download at: http://tinyurl.com/q43c48g. May be repeated for credit 5 times. Zero unit enrollment option available with instructor permission. See website: (http://tinyurl.com/posmuhn) for policy and procedure. By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC12CS PRA
-DTSTART;TZID=America/Los_Angeles:20170629T173000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T192000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180628T173000
+CREATED:20170927T175840
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T192000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

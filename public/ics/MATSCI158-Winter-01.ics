@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170211T124022
-UID:explore_coursesfa51d453-a543-462c-ba75-c074ac4c0213
-DTSTAMP:20170211T124022
-LOCATION:540-103
-DESCRIPTION:The relationships between molecular structure, morphology, and the unique physical, chemical, and mechanical behavior of polymers and other types of &iquest;soft matter&iquest; are discussed. Topics include methods for preparing synthetic polymers and examination of how enthalpy and entropy determine conformation, solubility, mechanical behavior, microphase separation, crystallinity, glass transitions, elasticity, and linear viscoelasticity. Case studies covering polymers in biomedical devices and microelectronics will be covered. Prerequisites: ENG 50 or equivalent.
+DTEND;TZID=America/Los_Angeles:20180108T145000
+LAST-MODIFIED:20170927T180003
+UID:explore_courses3996dd0f-9f24-4d8c-8f52-ec0a982002a1
+DTSTAMP:20170927T180003
+LOCATION:160-314
+DESCRIPTION:The relationships between molecular structure, morphology, and the unique physical, chemical, and mechanical behavior of polymers and other types of soft matter are discussed. Topics include methods for preparing synthetic polymers and examination of how enthalpy and entropy determine conformation, solubility, mechanical behavior, microphase separation, crystallinity, glass transitions, elasticity, and linear viscoelasticity. Case studies covering polymers in biomedical devices and microelectronics will be covered. Recommended: ENGR 50 and Chem 31A or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI158 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T124022
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T180003
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,45 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160922T122000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses5404495c-3d2f-4dbe-ba9c-f9045e9a8997
-DTSTAMP:20170211T124041
-LOCATION:
-DESCRIPTION:Structure, function, disease, and therapeutics of the renal/genito-urinary system, the gastrointestinal system,  the endocrine system, male and female reproductive systems, and women's health.  See INDE 221 for a description of the Human Health and Disease block .
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:INDE222 LEC
-DTSTART;TZID=America/Los_Angeles:20160922T093000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160929T122000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161020T122000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses7f6d77b2-84a7-4bdf-a004-71423d028f55
-DTSTAMP:20170211T124041
+DTEND;TZID=America/Los_Angeles:20170904T122000
+LAST-MODIFIED:20170927T175909
+UID:explore_courses725602c7-f04d-491c-a2c5-e225ca4001f5
+DTSTAMP:20170927T175909
 LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:Structure, function, disease, and therapeutics of the renal/genito-urinary system, the gastrointestinal system,  the endocrine system, male and female reproductive systems, and women's health.  See INDE 221 for a description of the Human Health and Disease block .
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE222 LEC
-DTSTART;TZID=America/Los_Angeles:20161020T093000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161020T122000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160905T122000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses96fb8e9c-5ce0-431d-985d-26a2fd74de7c
-DTSTAMP:20170211T124041
-LOCATION:
-DESCRIPTION:Structure, function, disease, and therapeutics of the renal/genito-urinary system, the gastrointestinal system,  the endocrine system, male and female reproductive systems, and women's health.  See INDE 221 for a description of the Human Health and Disease block .
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:INDE222 LEC
-DTSTART;TZID=America/Los_Angeles:20160905T093000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,TU,FR
+DTSTART;TZID=America/Los_Angeles:20170904T093000
+CREATED:20170927T175909
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,TU,FR
 END:VEVENT
 END:VCALENDAR

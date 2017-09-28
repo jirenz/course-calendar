@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T124018
-UID:explore_coursesad0aa484-c321-487a-8978-44e39cc66595
-DTSTAMP:20170211T124018
-LOCATION:NVIDIA Auditorium
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T175958
+UID:explore_coursesd33772f3-fb42-4684-839d-41062e50eca2
+DTSTAMP:20170927T175958
+LOCATION:
 DESCRIPTION:For seniors and first-year graduate students. Principles of computer systems security. Attack techniques and how to defend against them. Topics include: network attacks and defenses, operating system security, application security (web, apps, databases), malware, privacy, and security for mobile devices. Course projects focus on building reliable code. Prerequisite: 110. Recommended: basic Unix.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS155 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

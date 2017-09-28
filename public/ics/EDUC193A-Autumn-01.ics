@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursesecc38710-1cd9-4650-8b9e-08e2e36bf208
-DTSTAMP:20170211T123931
-LOCATION:200-205
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses3844b334-2d5c-4dcc-925b-918768c51f92
+DTSTAMP:20170927T175938
+LOCATION:200-030
 DESCRIPTION:Topics: verbal and non-verbal skills, open and closed questions, paraphrasing, working with feelings, summarization, and integration. Individual training, group exercises, role play practice with optional video feedback. Sections on relevance to crisis counseling and student life. Guest speakers from University and community agencies. Students develop and apply skills in University settings.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC193A SEM
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

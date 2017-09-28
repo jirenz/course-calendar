@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T112000
-LAST-MODIFIED:20170211T123939
-UID:explore_courses0b0f8920-530c-44cf-83eb-2d20930654ee
-DTSTAMP:20170211T123939
-LOCATION:ScienceTeachingLearningCntr119
+DTEND;TZID=America/Los_Angeles:20180109T112000
+LAST-MODIFIED:20170927T175802
+UID:explore_courses884dd0c4-1c0c-4c57-9c09-ab5c2a2d7f2e
+DTSTAMP:20170927T175802
+LOCATION:160-120
 DESCRIPTION:Workshop. For seniors pursuing an honors thesis in a biology-focused major or program.  Focus on improving scientific writing and synthesizing in the context of students' individual research projects.  Complete literature review which will form the basis for the thesis introduction. Develop methods section of the thesis.  Small seminar-style discussion sections with research-based discussions, student led PowerPoint presentations, and writing workshops.  Co-requisite: Concurrent enrollment in 199 or 199X or equivalent. Satisfies WIM in Biology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO199W SEM
-DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20170211T123939
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180109T093000
+CREATED:20170927T175802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

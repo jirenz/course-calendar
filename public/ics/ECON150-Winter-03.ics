@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T132000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses34ec7982-d05d-4620-94e4-5967987fb646
-DTSTAMP:20170211T123946
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180112T132000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses5ed7a907-8ce3-4f60-a7db-ca13ac49f47d
+DTSTAMP:20170927T175819
+LOCATION:320-106
 DESCRIPTION:The relationship between microeconomic analysis and public policy making. How economic policy analysis is done and why political leaders regard it as useful but not definitive in making policy decisions. Economic rationales for policy interventions, methods of policy evaluation and the role of benefit-cost analysis, economic models of politics and their application to policy making, and the relationship of income distribution to policy choice. Theoretical foundations of policy making and analysis, and applications to program adoption and implementation. Prerequisites: ECON 50 and ECON 102B. Undergraduate Public Policy students are required to take this class for a letter grade and enroll in this class for five units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON150 DIS
-DTSTART;TZID=America/Los_Angeles:20170113T123000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T123000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

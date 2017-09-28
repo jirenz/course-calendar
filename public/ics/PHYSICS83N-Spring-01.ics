@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170211T123959
-UID:explore_courses057c0b23-806b-4c0c-9f12-d62a8b0c9da6
-DTSTAMP:20170211T123959
-LOCATION:Lathrop 190
+DTEND;TZID=America/Los_Angeles:20180402T112000
+LAST-MODIFIED:20170927T175844
+UID:explore_coursesc5ed0d1b-91c2-48b8-b180-fe8e5b036f5f
+DTSTAMP:20170927T175844
+LOCATION:Lathrop 180
 DESCRIPTION:Preference to freshmen. Current topics at the frontier of modern physics. This course provides an in-depth examination of two of the biggest physics discoveries of the 21st century: that of the Higgs boson and Dark Energy.  Through studying these discoveries we will explore the big questions driving modern particle physics, the study of nature's most fundamental pieces, and cosmology, the study of the evolution and nature of the universe.  Questions such as: What is the universe made of? What are the most fundamental particles and how do they interact with each other?  What can we learn about the history of the universe and what does it tell us about it's future?  We will learn about the tools scientists use to study these questions such as the Large Hadron Collider and the Hubble Space Telescope.  We will also learn to convey these complex topics in engaging and diverse terms to the general public through writing and reading assignments, oral presentations, and multimedia projects.  The syllabus includes a tour of SLAC, the site of many major 20th century particle discoveries, and a virtual visit of the control room of the ATLAS experiment at CERN amongst other activities. No prior knowledge of physics is necessary; all voices are welcome to contribute to the discussion about these big ideas. Learning Goals: By the end of the quarter you will be able to explain the major questions that drive particle physics and cosmology to your friends and peers.  You will understand how scientists study the impossibly small and impossibly large and be able to convey this knowledge in clear and concise terms.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS83N ISF
-DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

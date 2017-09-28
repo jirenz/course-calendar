@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20170211T123943
-UID:explore_coursesa6fee589-e676-4ba8-b365-b6eb21f14ab6
-DTSTAMP:20170211T123943
-LOCATION:160-B38
+DTEND;TZID=America/Los_Angeles:20170925T112000
+LAST-MODIFIED:20170927T175811
+UID:explore_coursesc1ed2e4d-8df9-4cb5-8ac6-16ccbbf4a277
+DTSTAMP:20170927T175811
+LOCATION:260-244
 DESCRIPTION:Reading Turkish I is an introduction to the structures of the Turkish language necessary for reading. It is designed to develop reading competence in Turkish for graduate students. Undergraduates should consult the instructor before enrolling for the course. Essential grammar, syntax points, vocabulary, and reading skills will be emphasized. This is not a traditional language course that takes an integrated four-skill approach; since the goal is advanced reading level, the focus is mainly on grammar, reading comprehension, and translation.  With full concentration on reading, we will be able to cover advanced material in a short amount of time. The course is conducted in English, but students will be exposed to the sounds of Turkish, and will have the opportunity to practice pronunciation in class. nnCOMPLIT 248A Reading Turkish I is followed by COMPLIT 248B Reading Turkish II in the Winter and COMPLIT 248C Advanced Turkish for Research in the Spring.&quot;
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPLIT248A SEM
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T123943
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175811
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

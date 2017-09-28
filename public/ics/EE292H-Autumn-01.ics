@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T175000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses17b14335-4b76-49c5-b304-39c1f1cd62f6
-DTSTAMP:20170211T124020
-LOCATION:NVIDIA Auditorium
-DESCRIPTION:The purpose of this seminar series course is to help students and professionals develop the tools to apply the engineering and entrepreneurial mindset to problems that stem from climate change, in order to consider and evaluate possible stabilizing, remedial and adaptive approaches. This course is not a crash course on climate change or policy. Instead we will focus on learning about and discussing the climate problems that seem most tractable to these approaches. Each week Dr. Field and/or a guest speaker will lead a short warm-up discussion/activity and then deliver a talk in his/her area of expertise. We&iquest;ll wrap up with small-group and full-class discussions of related challenges/opportunities and possible engineering-oriented solutions.nClass members are asked to do background reading before each class, to submit a question before each lecture, and to do in-class brainstorming. May be repeated for credit.
+DTEND;TZID=America/Los_Angeles:20170926T175000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursesed9e0560-0bad-4fb4-9b12-1cd234f35002
+DTSTAMP:20170927T180001
+LOCATION:260-113
+DESCRIPTION:The purpose of this seminar series course is to help students and professionals develop the tools to apply the engineering and entrepreneurial mindset to problems that stem from climate change, in order to consider and evaluate possible stabilizing, remedial and adaptive approaches. This course is not a crash course on climate change or policy. Instead we will focus on learning about and discussing the climate problems that seem most tractable to these approaches. Each week Dr. Field and/or a guest speaker will lead a short warm-up discussion/activity and then deliver a talk in his/her area of expertise. We will wrap up with small-group and full-class discussions of related challenges/opportunities and possible engineering-oriented solutions. Class members are asked to do background reading before each class, to submit a question before each lecture, and to do in-class brainstorming. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE292H SEM
-DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T163000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

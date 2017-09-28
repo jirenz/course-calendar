@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T175000
-LAST-MODIFIED:20170211T123933
-UID:explore_courses4d3ba538-e44d-4623-b1d0-ee3d1be2db93
-DTSTAMP:20170211T123933
-LOCATION:
-DESCRIPTION:This course will be held in the Harmony House located at 561 Lomita Drive, beside the Black Community Services Center. This quarter-long series introduces students to leading artists, creatives, and scholars affiliated with the Institute for Diversity in the Arts. Through a series of talks guests reveal how their work illuminates crucial questions of identity, diversity, and aesthetics.
+DTEND;TZID=America/Los_Angeles:20170927T175000
+LAST-MODIFIED:20170927T175753
+UID:explore_coursesbd045c36-e5af-4563-bc62-66db679d3ad0
+DTSTAMP:20170927T175753
+LOCATION:200-203
+DESCRIPTION:This weekly lecture series introduces students to the study of identity, diversity, and aesthetics through the work of leading artists and scholars affiliated with the Institute for Diversity in the Arts (IDA).  This year's course highlights the educational impact of arts and culture. How can arts and culture help to advance pedagogies of liberation? Among other things, we will examine hip-hop education and how it illuminates ideas around culturally relevant and culturally sustaining pedagogies, indigenous knowledges, embodied knowledges, hip-hop feminisms, and community engaged research. We will look at case studies from East Palo Alto, CA and Cape Town, South Africa.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AFRICAAM10A LEC
-DTSTART;TZID=America/Los_Angeles:20160928T163000
-CREATED:20170211T123933
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T163000
+CREATED:20170927T175753
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

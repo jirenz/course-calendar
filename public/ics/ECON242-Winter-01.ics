@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses7e8ea37f-bbbe-4076-adda-bdec6597854b
-DTSTAMP:20170211T123946
-LOCATION:200-305
-DESCRIPTION:We explore the response of labor and income to taxation.  We also explore fundamental tax reform, public goods, fiscal federalism, and local public goods.  A special emphasis on government's role in education.  Prerequisites: 202, 203, 204, 210, 270, 271, or equivalent with consent of instructor. Recommended: 241.
+DTEND;TZID=America/Los_Angeles:20180109T112000
+LAST-MODIFIED:20170927T175819
+UID:explore_coursese1b000ee-2a37-4b39-91c7-2832118b7f99
+DTSTAMP:20170927T175819
+LOCATION:Econ 140
+DESCRIPTION:We analyze how workers and incomes respond to taxation and anti-poverty programs. We learn how to use taxes and economic mechanisms to address externalities (pollution, social &quot;bads&quot; and &quot;goods&quot;). We learn fundamental tax reform, public goods, fiscal federalism, local public goods, and (special emphasis) government's role in education. Prerequisites: 202, 203, 204, 210, 270, 271, or similar with consent of instructor. Recommended: 241.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON242 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T113000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T093000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

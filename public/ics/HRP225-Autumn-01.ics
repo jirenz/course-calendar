@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20170211T124038
-UID:explore_coursesb7036390-c959-4c45-8dfb-394169606576
-DTSTAMP:20170211T124038
-LOCATION:Li Ka Shing Center, room 102
+DTEND;TZID=America/Los_Angeles:20170925T162000
+LAST-MODIFIED:20170927T175904
+UID:explore_courses920e2772-74db-405f-bf17-a76e9ac877e7
+DTSTAMP:20170927T175904
+LOCATION:Li Ka Shing Center, room 130
 DESCRIPTION:Intermediate-level. The skills to design, carry out, and interpret epidemiologic studies, particularly of chronic diseases. Topics: epidemiologic concepts, sources of data, cohort studies, case-control studies, cross-sectional studies, sampling, measures of association, estimating sample size, and sources of bias. Prerequisite: A basic/introductory course in statistics or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP225 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20170211T124038
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T150000
+CREATED:20170927T175904
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

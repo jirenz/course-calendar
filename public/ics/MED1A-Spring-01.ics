@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T162000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses33343077-ea2c-45f5-b2a2-de88ef8be3d0
-DTSTAMP:20170211T124041
-LOCATION:Li Ka Shing Center, room 308
+DTEND;TZID=America/Los_Angeles:20180404T162000
+LAST-MODIFIED:20170927T175908
+UID:explore_courses638abc48-0362-45c9-8981-8e1de8fb916f
+DTSTAMP:20170927T175908
+LOCATION:Health Research & PolicyT138B
 DESCRIPTION:Designed for undergraduates serving as staff for the Stanford Medical Youth Science Summer Residential Program (SRP). Structured opportunitie to learn, observe, participate in, and evaluate leadership development, multicultural health theories and practices, and social advocacy.  Utilizes service learning as a pedagogical approach to developing an understanding of the intersections between identity, power and privilege and disparities (health, education, environment), fostering knowledge and skills to become social advocates to address forms of inequities. Students explore approaches for identifying and tackling issues of equity (health and education) as well as learn fundamental skills necessary to implement activities for the Summer Residential Program.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED1A WKS
-DTSTART;TZID=America/Los_Angeles:20170405T143000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T143000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

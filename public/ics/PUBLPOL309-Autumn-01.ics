@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T182000
-LAST-MODIFIED:20170211T124002
-UID:explore_courses63dcbf8e-f9f1-43c9-b0e6-af39a04fa11d
-DTSTAMP:20170211T124002
-LOCATION:Lathrop 292
+DTEND;TZID=America/Los_Angeles:20170925T182000
+LAST-MODIFIED:20170927T175848
+UID:explore_courses181b7dbc-484c-4664-8e2e-1803e989b393
+DTSTAMP:20170927T175848
+LOCATION:100-101K
 DESCRIPTION:Applied policy exercises in various fields. Multidisciplinary student teams apply skills to a contemporary problem in a major policy exercise with a public sector client such as a government agency. Problem analysis, interaction with the client and experts, and presentations. Emphasis is on effective written and oral communication to lay audiences of recommendations based on policy analysis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PUBLPOL309 PRC
-DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170211T124002
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170925T163000
+CREATED:20170927T175848
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

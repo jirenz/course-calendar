@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T213000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursese3da2028-ad50-41a1-afa9-e18821dc2466
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180403T213000
+LAST-MODIFIED:20170927T175841
+UID:explore_coursese3a25639-7b3f-4912-9084-48a9a405a24b
+DTSTAMP:20170927T175841
 LOCATION:BRH
 DESCRIPTION:Select, 50-voice choral ensemble, performing choral repertoire from all periods of Western art music. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC167 PRC
-DTSTART;TZID=America/Los_Angeles:20170404T183000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T213000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T183000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T213000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

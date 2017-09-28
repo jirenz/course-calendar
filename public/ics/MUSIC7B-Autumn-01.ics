@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursesb9bc3183-e475-45c7-a3db-6ad6525f6a32
-DTSTAMP:20170211T123957
-LOCATION:Dinkelspiel  Rehearsal Room
+DTEND;TZID=America/Los_Angeles:20170925T162000
+LAST-MODIFIED:20170927T175840
+UID:explore_courses81f8bdee-b2d4-4bcd-9556-e6fccab221a1
+DTSTAMP:20170927T175840
+LOCATION:Braun103
 DESCRIPTION:An overview of selected musical cultures from Africa, Asia, Europe, and the Americas. Course objectives: cultivate an appreciation for the diversity of human musical expression; discover how music is used to shape social interactions and systems of meaning; develop active listening skills that can be used when encountering any music; gain a preliminary understanding of ethnomusicological concepts and vocabulary. No musical experience is necessary. Class format: Lecture, discussion, listening, guest performances, musical participation, and a concert analysis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC7B LEC
-DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T150000
+CREATED:20170927T175840
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

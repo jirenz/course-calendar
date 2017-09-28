@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T172000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses6bbb1125-bcdb-4eaf-a8b3-71be3aa555e1
-DTSTAMP:20170211T124041
-LOCATION:Li Ka Shing Center, room 102
+DTEND;TZID=America/Los_Angeles:20180404T172000
+LAST-MODIFIED:20170927T175908
+UID:explore_courses598ff41c-b317-41c0-a642-f4f2949c5523
+DTSTAMP:20170927T175908
+LOCATION:
 DESCRIPTION:Open to undergraduate, graduate, and MD students. Examination and exploration of community health principles and their application at the local level. Designed to prepare students to make substantive contributions in a variety of community health settings (e.g. clinics, government agencies, non-profit organization, advocacy groups). Topics include community health assessment; health disparities; health promotion and disease prevention; strategies for working with diverse, low-income, and underserved populations; and principles of ethical and effective community engagement.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED157 LEC
-DTSTART;TZID=America/Los_Angeles:20170405T153000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T153000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

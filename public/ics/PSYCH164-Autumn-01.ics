@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170211T124001
-UID:explore_courses1813c27f-3776-4b0a-9d16-19c9acaa737e
-DTSTAMP:20170211T124001
-LOCATION:20-21G
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175847
+UID:explore_courses374675a4-e3fa-4e6a-9d48-894a173f14e3
+DTSTAMP:20170927T175847
+LOCATION:STLC105
 DESCRIPTION:Can we know what someone is thinking by examining their brain activity? Using knowledge of the human visual system and techniques from machine learning, recent work has shown impressive ability to decode what people are looking at from their brain activity as measured with functional imaging. The course will use a combination of lectures, primary literature readings, discussion and hands-on tutorials to understand this emerging technology from basic knowledge of the perceptual (primarily visual) and other cognitive systems (such as working memory) to tools and techniques used to decode brain activity.nPrerequisites: Either Psych 30 or Psych 50 or Consent of Instructor
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH164 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175847
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

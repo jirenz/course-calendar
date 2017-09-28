@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170522T170000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses3000297c-ae52-4409-be40-2b74ac6be9b0
-DTSTAMP:20170211T124041
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180507T170000
+LAST-MODIFIED:20170927T175908
+UID:explore_coursesd0d1f8c9-e603-4141-82e7-dbfd6421ff88
+DTSTAMP:20170927T175908
+LOCATION:Alway Building, Room M114
 DESCRIPTION:Forum. How to identify and approach ethical dilemmas that commonly arise in biomedical research. Issues in the practice of research such as in publication and interpretation of data, and issues raised by academic/industry ties. Contemporary debates at the interface of biomedical science and society regarding research on stem cells, bioweapons, genetic testing, human subjects, and vertebrate animals. Completion fulfills NIH/ADAMHA requirement for instruction in the ethical conduct of research. Prerequisite: research experience recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED255 COL
-DTSTART;TZID=America/Los_Angeles:20170522T090000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170522T170000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180507T090000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180507T170000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

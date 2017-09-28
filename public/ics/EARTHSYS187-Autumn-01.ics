@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20170211T124030
-UID:explore_courses8f7c20a0-5534-489e-98b5-dc9f5c1006fe
-DTSTAMP:20170211T124030
+DTEND;TZID=America/Los_Angeles:20170927T152000
+LAST-MODIFIED:20170927T175940
+UID:explore_coursesb4bd5dfb-91c4-41f8-8045-6074e9f848fc
+DTSTAMP:20170927T175940
 LOCATION:
-DESCRIPTION:FEED the Change is a project-based course focused on solving real problems in the food system. Targeted at upper-class undergraduates, this course provides an opportunity for students to meet and work with thought-leading innovators, to gain meaningful field experience, and to develop connections with faculty, students, and others working to create impact in the food system. Students in the course will develop creative confidence by learning and using the basic principles and methodologies of human-centered design, storytelling, and media design. Students will also learn basic tools for working effectively in teams and for analyzing complex social systems. FEED the Change is taught at the d.school and is offered through the FEED Collaborative in the School of Earth. This class meets over lunch time and, therefore, lunch will be provided during each class session. This class requires an application. For application information and more information about our work and about past class projects, please visit our website at http://feedcollaborative.org/classes/
+DESCRIPTION:FEED the Change is a project-based course focused on solving real problems in the food system. Targeted at upper-class undergraduates, this course provides an opportunity for students to meet and work with thought-leading innovators, to gain meaningful field experience, and to develop connections with faculty, students, and others working to create impact in the food system. Students in the course will develop creative confidence by learning and using the basic principles and methodologies of human-centered design, storytelling, and media design. Students will also learn basic tools for working effectively in teams and for analyzing complex social systems. FEED the Change is taught at the d.school and is offered through the FEED Collaborative in the School of Earth. This class requires an application. For application information and more information about our work and about past class projects, please visit our website at http://feedcollaborative.org/classes/
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS187 WKS
-DTSTART;TZID=America/Los_Angeles:20160927T113000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170927T133000
+CREATED:20170927T175940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursesc42acae1-7150-41c6-bc5e-f736dd033f0d
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses98633229-dcee-498d-91fb-4bc92f047aec
+DTSTAMP:20170927T175841
 LOCATION:Knoll317
 DESCRIPTION:What are the basic tools that computer music researchers and artists use to create sound? This course will include a summary of digital synthesis techniques (additive, subtractive, wavetable, frequency modulation and physical-modeling), signal processing techniques for digital effects, (reverberation, panning, filters), and basic psychoacoustics. Programming experience is recommended, but not required. Course will use the ChucK computer music language. Majors (undergraduate or graduate) must take for 4 units. See http://ccrma.stanford.edu/.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC220A LEC
-DTSTART;TZID=America/Los_Angeles:20160927T113000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T113000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

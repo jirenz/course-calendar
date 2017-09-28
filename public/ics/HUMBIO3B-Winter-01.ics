@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T123952
-UID:explore_coursesfa1bec9d-9a43-461e-bae6-f11076b1a9dd
-DTSTAMP:20170211T123952
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses07a28ada-4b13-4f1f-97e1-f79bfc4e906e
+DTSTAMP:20170927T175933
 LOCATION:320-105
-DESCRIPTION:Research and theory on human behavior, health, and life span development. How biological factors and cultural practices influence cognition, emotion, motivation, personality, and health in childhood, adolescence, and adulthood.  HUMBIO 3A and 3B are designed to be taken concurrently and exams for both sides may include material from joint module lectures.  Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines.
+DESCRIPTION:Research and theory on human behavior, health, and life span development. How biological factors and cultural practices influence cognition, emotion, motivation, personality, and health in childhood, adolescence, and adulthood. HUMBIO 3B, with HUMBIO2B and HUMBIO 4B, satisfies the Writing in the Major (WIM) requirement for students in Human Biology. HUMBIO 3A and HUMBIO 3B are designed to be taken concurrently and exams for both sides may include material from joint module lectures. Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines. Please note Human Biology majors are required to take the Human Biology Core Courses for a letter grade.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO3B LEC
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,TU,WE,TH
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,TU,WE,TH
 END:VEVENT
 END:VCALENDAR

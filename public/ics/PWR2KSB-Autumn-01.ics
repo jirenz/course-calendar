@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20170211T124010
-UID:explore_coursesbb3bc5ca-3385-4f80-b3d6-4c05a5ed6802
-DTSTAMP:20170211T124010
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses8bc16cb3-8419-405d-95e5-fa6b14dff0b8
+DTSTAMP:20170927T175933
 LOCATION:160-123
 DESCRIPTION:Prerequisite: PWR 1. There is no area of contemporary life where design is not a significant factor in shaping human experience. In this class, you will have the opportunity to learn more about design thinking and design studies. We will read works about play and creativity, the process of design thinking, and the ethics of design.  You will choose a project idea and pursue research that will ultimately culminate in a print-based argument as well as a live oral presentation. For more information about PWR 2, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-2. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR2KSB SEM
-DTSTART;TZID=America/Los_Angeles:20160927T113000
-CREATED:20170211T124010
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T113000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T102000
-LAST-MODIFIED:20170211T124011
-UID:explore_courses1a83faf3-8e8e-4add-85b8-ca0cb17d5bdb
-DTSTAMP:20170211T124011
-LOCATION:CCSR 4107
-DESCRIPTION:Focuses on instruments, algorithms and other technologies for imaging of cellular and molecular processes in living subjects. Introduces preclinical and clinical molecular imaging modalities, including strategies for molecular imaging using PET, SPECT, MRI, Ultrasound, Optics, and Photoacoustics.  Covers basics of instrumentation physics, the origin and properties of the signal generation, and image data quantification.nnhttp://med.stanford.edu/mips/education/bioe222/2016.html
+DTEND;TZID=America/Los_Angeles:20170925T112000
+LAST-MODIFIED:20170927T175948
+UID:explore_courses673cab2d-56f3-4cba-ae19-bdd4b30beeaa
+DTSTAMP:20170927T175948
+LOCATION:200-219
+DESCRIPTION:Focuses on instruments, algorithms and other technologies for imaging of cellular and molecular processes in living subjects. Introduces preclinical and clinical molecular imaging modalities, including strategies for molecular imaging using PET, SPECT, MRI, Ultrasound, Optics, and Photoacoustics. For each modality, lectures cover the basics of the origin and properties of imaging signal generation, instrumentation physics and engineering of signal detection, image signal processing, image reconstruction, and image data quantification.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE222 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T083000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

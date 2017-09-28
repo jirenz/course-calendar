@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161110T175000
-LAST-MODIFIED:20170211T124038
-UID:explore_courses2361b4ce-941d-483b-b48e-9c6ec7c6a3b1
-DTSTAMP:20170211T124038
-LOCATION:CCSR 4205
+DTEND;TZID=America/Los_Angeles:20171102T180000
+LAST-MODIFIED:20170927T175904
+UID:explore_coursesaff2e39e-1bba-4dcd-924e-7ed9c8736480
+DTSTAMP:20170927T175904
+LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:The course will consist of an introduction to the fundamentals of clinical research at Stanford, including the science of clinical research (design and analysis) and logistics (GCP, data management, regulatory). Material will be covered in approximately 4-6 3 hour sessions per quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP273 LEC
-DTSTART;TZID=America/Los_Angeles:20161110T150000
-CREATED:20170211T124038
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161118T175000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161201T175000
-LAST-MODIFIED:20170211T124038
-UID:explore_coursesc5c3e38e-6b76-4226-b9a8-5acbd0b5403b
-DTSTAMP:20170211T124038
-LOCATION:CCSR 4205
-DESCRIPTION:The course will consist of an introduction to the fundamentals of clinical research at Stanford, including the science of clinical research (design and analysis) and logistics (GCP, data management, regulatory). Material will be covered in approximately 4-6 3 hour sessions per quarter.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:HRP273 LEC
-DTSTART;TZID=America/Los_Angeles:20161201T150000
-CREATED:20170211T124038
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20171102T150000
+CREATED:20170927T175904
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T180000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

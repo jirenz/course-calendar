@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T175000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses7a802965-1686-4781-8177-9b714f9b95cd
-DTSTAMP:20170211T123931
-LOCATION:School of Education 313
+DTEND;TZID=America/Los_Angeles:20180109T175000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursesd98e3683-d204-49af-8f9a-543aecee8c47
+DTSTAMP:20170927T175938
+LOCATION:160-314
 DESCRIPTION:This course addresses a broad set of topics that have implications for developmentally appropriate and effective early childhood education. It begins with children's social, emotional and cognitive development and issues related to poverty, culture and language. We will also examine research evidence on effective instruction for young children, evaluations of preschool interventions, and several current policy debates.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC411 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170211T123947
-UID:explore_courses21fe41f0-f55e-4cd2-9e2b-1b91177d1e35
-DTSTAMP:20170211T123947
-LOCATION:Lathrop 180
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20170927T175821
+UID:explore_coursese43fecf1-ba46-48a9-8adb-d7bfb70e875b
+DTSTAMP:20170927T175821
+LOCATION:Green Earth Sciences134
 DESCRIPTION:Strategies for communicating effectively in social and academic settings. Informal and formal language used in campus settings, including starting and maintaining conversations, asking questions, making complaints, and contributing ideas and opinions. Simulations and discussions, with feedback on pronunciation, grammar, and usage. Enrollment limited to 14.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EFSLANG690A LNG
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

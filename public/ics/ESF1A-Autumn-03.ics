@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T165000
-LAST-MODIFIED:20170211T124007
-UID:explore_coursesd13cec88-6172-4e01-8be3-86ed12c592c7
-DTSTAMP:20170211T124007
+DTEND;TZID=America/Los_Angeles:20170926T152000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses900a414f-0754-4230-8389-c693a2d709b8
+DTSTAMP:20170927T175933
 LOCATION:
 DESCRIPTION:Moving through history from the Rome of the Emperor Hadrian, to the city-states of Renaissance Italy, to the 18th century republic of the United States, we will examine how self-made men fashioned themselves and their surroundings by educating themselves broadly.  We will ask how a liberal education made their active careers richer and more transformational. We will also take up the great debate on whether a liberal education or vocational training is the surest path to advancement.  We will engage this debate through the works of W.E.B. Du Bois and Booker T. Washington but consider today's struggle over the same issues &iquest; a struggle that engrosses both highly industrialized and developing societies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESF1A DIS
-DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170211T124007
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T165000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

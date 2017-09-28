@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T094000
-LAST-MODIFIED:20170211T124028
-UID:explore_courses5493d6a2-07e4-4e2c-a0f2-7d4ee5beb64a
-DTSTAMP:20170211T124028
-LOCATION:Law95
+DTEND;TZID=America/Los_Angeles:20180110T110000
+LAST-MODIFIED:20170927T175752
+UID:explore_courses5c4067ac-27f9-4942-8106-88e47ce3ace2
+DTSTAMP:20170927T175752
+LOCATION:
 DESCRIPTION:This course is part of the required first-year JD curriculum.  It deals with possession and ownership of land and with the incidents thereof, including private and public restrictions on its use and development, nuisance, trespass, concurrent interests, landlord and tenant, and eminent domain.  Attendance and final exam. Your instructor will advise you of other basis of grading.  This course is open to first-year Law School students only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW217 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T092000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T094000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180110T095000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T110000;BYDAY=WE,TH,FR
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T110000
-LAST-MODIFIED:20170211T124028
-UID:explore_coursesfe5ef0fd-800d-4ea6-9a5b-3bf88efe3fd9
-DTSTAMP:20170211T124028
-LOCATION:Law95
+DTEND;TZID=America/Los_Angeles:20180108T094000
+LAST-MODIFIED:20170927T175752
+UID:explore_coursesa0ca2d68-f23a-4327-8bee-52a493c147c6
+DTSTAMP:20170927T175752
+LOCATION:
 DESCRIPTION:This course is part of the required first-year JD curriculum.  It deals with possession and ownership of land and with the incidents thereof, including private and public restrictions on its use and development, nuisance, trespass, concurrent interests, landlord and tenant, and eminent domain.  Attendance and final exam. Your instructor will advise you of other basis of grading.  This course is open to first-year Law School students only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW217 LEC
-DTSTART;TZID=America/Los_Angeles:20170111T095000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T110000;BYDAY=WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20180108T083000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T094000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

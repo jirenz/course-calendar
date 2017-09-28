@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T132000
-LAST-MODIFIED:20170211T124032
-UID:explore_coursesba4b36ae-a2a0-4120-ba87-9f58a0581011
-DTSTAMP:20170211T124032
+DTEND;TZID=America/Los_Angeles:20180404T132000
+LAST-MODIFIED:20170927T175945
+UID:explore_courses19b031fa-5db4-4baf-8ae0-2d3ac69ac44c
+DTSTAMP:20170927T175945
 LOCATION:Mitch350
 DESCRIPTION:Research on the mechanical properties of porous rocks: dynamic problems of seismic velocity, dispersion, and attentuation; and quasi-static problems of faulting, fluid transport, crustal deformation, and loss of porosity. Participants define, investigate, and present an original problem of their own. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS385V RES
-DTSTART;TZID=America/Los_Angeles:20170405T123000
-CREATED:20170211T124032
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T123000
+CREATED:20170927T175945
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

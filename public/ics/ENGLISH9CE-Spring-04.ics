@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T152000
-LAST-MODIFIED:20170211T123947
-UID:explore_courses027b8a58-c5b0-4277-86ed-d63153fedde5
-DTSTAMP:20170211T123947
-LOCATION:240-101
+DTEND;TZID=America/Los_Angeles:20180403T165000
+LAST-MODIFIED:20170927T175821
+UID:explore_coursesb0e0aa19-57e4-4736-9282-3b2d381d3af9
+DTSTAMP:20170927T175821
+LOCATION:200-105
 DESCRIPTION:Primary focus on giving students a skill set to tap into their own creativity. Opportunities for students to explore their creative strengths, develop a vocabulary with which to discuss their own creativity, and experiment with the craft and adventure of their own writing. Students will come out of the course strengthened in their ability to identify and pursue their own creative interests. For undergrads only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGLISH9CE WKS
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T165000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

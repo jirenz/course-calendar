@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T152000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses99a0bb23-432f-4aef-ab7b-95958e33e10b
-DTSTAMP:20170211T123946
-LOCATION:160-315
-DESCRIPTION:Introduction to key issues in public economics, including the optimal design of tax and transfer policy, income and wealth inequality and its policy implications, the empirical effect of taxes on earnings and savings, fiscal and debt policy, social mobility and the dynamics of taxation, and public finance issues in developing countries. Students will learn frontier theoretical, empirical and computational tools that are currently used to address policy questions. Prerequisites: ECON 202-204, ECON 210, ECON 270, ECON 271, or equivalent with consent of instructor.
+DTEND;TZID=America/Los_Angeles:20170929T152000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses64ea0a17-f8b3-44dc-a901-4a07db31e6aa
+DTSTAMP:20170927T175819
+LOCATION:Encina Hall C464
+DESCRIPTION:Introduction to key issues in public economics, including the optimal design of tax and transfer policy, income and wealth inequality, social mobility, the empirical effect of taxes on earnings and savings, and behavioral welfare economics. Students will learn frontier theoretical and empirical tools that are currently used to address questions of relevance to economic policy. Prerequisites: ECON 202-204, ECON 210, ECON 270, ECON 271, or equivalent with consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON241 DIS
-DTSTART;TZID=America/Los_Angeles:20160930T133000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170929T133000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

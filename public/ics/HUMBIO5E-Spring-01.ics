@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T182000
-LAST-MODIFIED:20170211T123952
-UID:explore_coursesd5ea3c95-8e67-41ef-9e1f-d62d16381f74
-DTSTAMP:20170211T123952
-LOCATION:160-326
-DESCRIPTION:In this seminar, students will become familiar with current research on science education. They will use this knowledge to create and analyze teaching material such as section plans, exams, and problem sets. Material produced in this course will be related to the topics covered in the core course of the Program in Human Biology. Students will experience and practice various teaching styles. Prerequisite: HumBio Core or equivalent.
+DTEND;TZID=America/Los_Angeles:20180405T182000
+LAST-MODIFIED:20170927T175831
+UID:explore_courses90e3098b-b9cd-428e-91c3-22d924f4edac
+DTSTAMP:20170927T175831
+LOCATION:110-101
+DESCRIPTION:In this seminar, students will become familiar with research on science education. They will use this knowledge to create and analyze teaching material such as section plans, exams, and problem sets. Material produced in this course will be related to the topics covered in the core course of the Program in Human Biology. Students will experience and practice various teaching styles. Prerequisite: Human Biology Core or equivalent or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO5E SEM
-DTSTART;TZID=America/Los_Angeles:20170404T173000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T182000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180405T173000
+CREATED:20170927T175831
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

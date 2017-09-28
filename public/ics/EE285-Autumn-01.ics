@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses735ed781-ae2e-4f55-8b39-eeb958a1a9c0
-DTSTAMP:20170211T124020
-LOCATION:320-107
+DTEND;TZID=America/Los_Angeles:20170925T122000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses2f59665f-af69-4f44-bc91-db75b80755c1
+DTSTAMP:20170927T180001
+LOCATION:Herrin T185
 DESCRIPTION:Project-centric building hardware and software for embedded computing systems. Students work on an existing project of their own or join one of these projects. Syllabus topics will be determined by the needs of the enrolled students and projects. Examples of topics include: interrupts and concurrent programming, deterministic timing and synchronization, state-based programming models, filters, frequency response, and high-frequency signals, low power operation, system and PCB design, security, and networked communication. Prerequisite: CS107 (or equivalent).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE285 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170925T103000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T124011
-UID:explore_courses92db3aea-c217-44b5-bd73-8fca2d4eb70d
-DTSTAMP:20170211T124011
-LOCATION:MSOBX303
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T175948
+UID:explore_coursesd2b13cd0-f263-45d4-b9b2-ec87245b965f
+DTSTAMP:20170927T175948
+LOCATION:
 DESCRIPTION:BIOE 70Q invites students to apply design thinking to the creation of healthcare technologies. Students will learn about the variety of factors that shape healthcare innovation, and through hands-on design projects, invent their own solutions to clinical needs. Guest instructors will include engineers, doctors, entrepreneurs, and others who have helped bring ideas from concept to clinical use.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE70Q ISS
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

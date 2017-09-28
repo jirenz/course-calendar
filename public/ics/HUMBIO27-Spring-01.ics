@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T155000
-LAST-MODIFIED:20170211T123952
-UID:explore_coursesea17618e-0800-4807-ae79-afe6681448ea
-DTSTAMP:20170211T123952
-LOCATION:200-303
+DTEND;TZID=America/Los_Angeles:20180403T155000
+LAST-MODIFIED:20170927T175831
+UID:explore_coursesb83ee3ed-771b-48ca-9380-7162e3fa0bf1
+DTSTAMP:20170927T175831
+LOCATION:School of Education 334
 DESCRIPTION:The philosophy and history behind traditional Chinese medicine. Concepts such as Qi, Yin/Yang, meridians, Chinese organs, and the 5 elements. How these concepts are applied through techniques such as acupuncture, herbal medicine, Qi gong, and massage. How traditional Chinese medicine is understood from a scientific standpoint. Political and socioeconomic implications. Observation of an acupuncturist. Readings on the integration of Eastern and Western medicine and on traditional Chinese medicine.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO27 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T155000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175831
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T155000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T112000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursesbc9d5b01-db9f-43bb-a483-de6450daff53
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20170926T112000
+LAST-MODIFIED:20170927T175840
+UID:explore_courses1b2fd7e9-0ddd-4716-853b-9148a74715a3
+DTSTAMP:20170927T175840
 LOCATION:Braun211
-DESCRIPTION:May be repeated for credit a total of 14 times.  There is a fee for this class.  Please visit http://music.stanford.edu/Academics/LessonSignups.html for class fees and signup information. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.
+DESCRIPTION:May be repeated for credit a total of 14 times.  There is a fee for this class.  Please visit https://music.stanford.edu/ensembles-lessons/applied-music-policies/applied-music-fees-and-policies for class fee information. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC74C PRC
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175840
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T193000
-LAST-MODIFIED:20170211T124026
-UID:explore_courses43a331b9-5f10-494b-b1d8-0366bf3ef803
-DTSTAMP:20170211T124026
-LOCATION:GSB Gunn 102
+DTEND;TZID=America/Los_Angeles:20180111T213000
+LAST-MODIFIED:20170927T175743
+UID:explore_coursesbc85493a-bd38-4539-8fb3-532dba6f3661
+DTSTAMP:20170927T175743
+LOCATION:
 DESCRIPTION:This case study-oriented course will focus on the critical skills needed to evaluate, develop, finance (on a non-recourse basis), and complete standalone energy and infrastructure projects. The primary course materials will be documents from several representative projects - e.g. solar, wind, storage, carbon capture - covering key areas including market and feasibility studies, environmental permitting and regulatory decisions, financial disclosure from bank and bond transactions, and construction, input, and offtake contracts. Documents and economic models tend to be highly customized. By taking a forensic approach, looking at several different  projects, we can learn how project developers, financiers, and lawyers work to get deals over the finish line that meet the demands of the market, the requirements of the law, and (sometimes) broader societal goals, in particular climate change, economic competitiveness, and energy security.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GSBGEN335 CAS
-DTSTART;TZID=America/Los_Angeles:20170109T163000
-CREATED:20170211T124026
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T193000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180111T183000
+CREATED:20170927T175743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T213000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

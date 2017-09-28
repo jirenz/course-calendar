@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T185000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursesd1094e42-a953-4ac8-bdd7-74076bbf2ee8
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20170926T185000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses15e72680-d4f7-4748-a95a-7c0934503507
+DTSTAMP:20170927T175841
 LOCATION:Knoll315
 DESCRIPTION:Community forum for all graduate student composers.  Discussion of completed and in-progress work by students, faculty, and visiting composers.  Repertoire listening sessions.  Planning of upcoming Department events.  Special area exam topic presentations, final doctoral project presentations, and review of portfolios. Many sessions are open to the public.May be repeated for credit
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC324 COL
-DTSTART;TZID=America/Los_Angeles:20160927T170000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T185000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T170000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T185000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T185000
-LAST-MODIFIED:20170211T124043
-UID:explore_courses06e7bf06-2708-444b-a297-7e4feea36a3c
-DTSTAMP:20170211T124043
-LOCATION:Li Ka Shing Center, room 308
+DTEND;TZID=America/Los_Angeles:20180108T185000
+LAST-MODIFIED:20170927T175912
+UID:explore_coursesc3813a36-8f8e-4ae1-85c4-85713c702311
+DTSTAMP:20170927T175912
+LOCATION:CCSR 4205
 DESCRIPTION:Preference to freshmen. Cell structures and functions, the intracellular trafficking system that maintains exchanges of materials and information inside cells, and clinical features and pathologies of neurodegenerative diseases. Techniques for examining cellular and subcellular structures, especially cytoskeletons; functional insights generated from structural explorations. Prerequisite: high school biology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NENS67N ISF
-DTSTART;TZID=America/Los_Angeles:20170109T173000
-CREATED:20170211T124043
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T185000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T173000
+CREATED:20170927T175912
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T185000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

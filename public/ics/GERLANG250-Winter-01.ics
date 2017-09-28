@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170211T123949
-UID:explore_coursesd424cfbd-2412-428d-a349-4a760ff5232e
-DTSTAMP:20170211T123949
-LOCATION:160-325
+DTEND;TZID=America/Los_Angeles:20180109T152000
+LAST-MODIFIED:20170927T175825
+UID:explore_courses3bd9dd4f-30a6-4a00-8025-63903195f64f
+DTSTAMP:20170927T175825
+LOCATION:460-301
 DESCRIPTION:For undergraduates and graduate students with a knowledge of German who want to acquire reading proficiency. Readings from scholarly works and professional journals. Recommended for students who need to pass the Ph.D. reading exam. Fulfills University reading requirement for advanced degrees if student earns a grade of 'B.' Prerequisite: one year of German, or 10, or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GERLANG250 LNG
-DTSTART;TZID=America/Los_Angeles:20170110T113000
-CREATED:20170211T123949
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175825
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

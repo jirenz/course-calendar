@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170211T124003
-UID:explore_coursesca4de182-d752-481b-9079-e26bba22133a
-DTSTAMP:20170211T124003
-LOCATION:School of Education 207
-DESCRIPTION:This course discusses the transition from predominantly poetic to predominantly prosaic creativity in the Russian literature of the first half of the 19th century Russian literature and the birth of the great Russian novel. It covers three major Russian writers -- Alexander Pushkin, Mikhail Lermontov and Nikolai Gogol -- and examines the changes in the Russian literary scene affected by their work. An emphasis is placed on close reading of literary texts and analysis of literary techniques employed in them. Taught in English.
+DTEND;TZID=America/Los_Angeles:20170926T102000
+LAST-MODIFIED:20170927T175849
+UID:explore_coursesf9536f0e-73db-43f4-9908-48b618dd9549
+DTSTAMP:20170927T175849
+LOCATION:50-52E
+DESCRIPTION:This course discusses the transition from predominantly poetic to predominantly prosaic creativity in the Russian literature of the first half of the 19th century Russian literature and the birth of the great Russian novel. It covers three major Russian writers -- Alexander Pushkin, Mikhail Lermontov and Nikolai Gogol -- and examines the changes in the Russian literary scene affected by their work. An emphasis is placed on close reading of literary texts and analysis of literary techniques employed in them. Taught in English. NOTE: To be eligible for WAYS credit, you must take SLAVIC 145 for a minimum of 3 Units and a Letter Grade.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SLAVIC145 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20170211T124003
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T090000
+CREATED:20170927T175849
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

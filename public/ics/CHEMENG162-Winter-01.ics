@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T102000
-LAST-MODIFIED:20170211T124012
-UID:explore_courses854ffe10-2d9a-4994-ab4d-7de273583f77
-DTSTAMP:20170211T124012
-LOCATION:Huang Engineerig Center 18
+DTEND;TZID=America/Los_Angeles:20180108T132000
+LAST-MODIFIED:20170927T175949
+UID:explore_courses83234633-5f34-459d-ad36-33fcdfbedaaf
+DTSTAMP:20170927T175949
+LOCATION:
 DESCRIPTION:The first five weeks of this course will be devoted to the fundamental aspects of polymers necessary to understand the applications in energy and the environment. These include: polymer chain configuration, morphology of semi-crystalline and amorphous solids, thermal transition behavior, thermodynamics of polymer blends and block copolymers, and the time/temperature dependence of linear viscoelasticity. The remaining five weeks of class will be devoted to applications, with special emphasis on membrane transport, including ion transport in fuel cell exchange membranes, gas transport in hydrogen enrichment membranes, and water transport in desalination membranes. In addition, completely degradable biocomposites will be discussed. nPrerequisites:  CHEM 31 A,B or CHEM 31X, CHEM 33, CHEM 171
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG162 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T124012
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T123000
+CREATED:20170927T175949
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

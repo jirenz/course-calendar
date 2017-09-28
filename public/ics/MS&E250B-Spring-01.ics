@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T172000
-LAST-MODIFIED:20170211T124021
-UID:explore_courses6c3b33d9-21f5-4bb7-8f7b-90b68f8162dc
-DTSTAMP:20170211T124021
-LOCATION:Thornt110
+DTEND;TZID=America/Los_Angeles:20180402T172000
+LAST-MODIFIED:20170927T180002
+UID:explore_coursesc302fb6f-4658-40b5-a62c-947e896d17a0
+DTSTAMP:20170927T180002
+LOCATION:Shriram Ctr BioChemE 108
 DESCRIPTION:Students, individually or in groups, choose, define, formulate, and resolve a real risk management problem, preferably from a local firm or institution. Oral presentation and report required. Scope of the project is adapted to the number of students involved. Three phases: risk assessment, communication, and management. Emphasis is on the use of probability for the treatment of uncertainties and sensitivity to problem boundaries. Limited enrollment. Prerequisites: MS&amp;E 250A and consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E250B WKS
-DTSTART;TZID=America/Los_Angeles:20170403T153000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T153000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

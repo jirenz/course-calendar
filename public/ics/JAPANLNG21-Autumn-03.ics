@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170211T123953
-UID:explore_courses281f8f8a-bec2-4c82-be30-0db256b7c5ba
-DTSTAMP:20170211T123953
-LOCATION:260-301
+DTEND;TZID=America/Los_Angeles:20170925T122000
+LAST-MODIFIED:20170927T175833
+UID:explore_coursesc6ea2036-1ca0-4644-81b1-caf8f5f89cdc
+DTSTAMP:20170927T175833
+LOCATION:80-115
 DESCRIPTION:(Formerly JAPANLNG 17.) Goal is to further develop and enhance spoken and written Japanese in order to handle advanced concepts such as comparison and contrast of the two cultures, descriptions of incidents, and social issues. 800 kanji, 1,400 new words, and higher-level grammatical constructions. Readings include authentic materials such as newspaper articles, and essays. Prerequisite: Placement Test, JAPANLNG 3. See http://japanese.stanford.edu/?page_id=23
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:JAPANLNG21 LNG
-DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170211T123953
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20170925T113000
+CREATED:20170927T175833
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

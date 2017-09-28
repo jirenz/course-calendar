@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20170211T124010
-UID:explore_courses6ae2e037-3998-4785-9298-bad61fa47e9c
-DTSTAMP:20170211T124010
-LOCATION:160-331
+DTEND;TZID=America/Los_Angeles:20180402T112000
+LAST-MODIFIED:20170927T175750
+UID:explore_coursesb61048eb-6571-4df9-ad5f-1ca2d205f6e5
+DTSTAMP:20170927T175750
+LOCATION:160-326
 DESCRIPTION:Prerequisite: PWR 1. Whether our favorite picture books as kids were timeless classics or new arrivals, whether they scared us or amused us, consoled us or challenged us, they moved and shaped us in profound ways. How could a few dozen pages and a few hundred words affect us so powerfully? Why did we want to hear and see and read our favorite picture books again and again? What was the secret to their magic? In this course you'll not only analyze that &quot;magic&quot; but will also collaborate closely with a group of classmates to create an original, compelling, and educationally appropriate picture book for second-graders in a local school. For more information about PWR 2, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-2. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR2EE SEM
-DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20170211T124010
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T093000
+CREATED:20170927T175750
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

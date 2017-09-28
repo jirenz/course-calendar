@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T160000
-LAST-MODIFIED:20170211T124029
-UID:explore_courses61140014-57df-4c4a-ad48-13d83dfa7eee
-DTSTAMP:20170211T124029
+DTEND;TZID=America/Los_Angeles:20180404T211500
+LAST-MODIFIED:20170927T175933
+UID:explore_coursesb83d7bbb-21b8-491e-8934-b07ae0787286
+DTSTAMP:20170927T175933
 LOCATION:
 DESCRIPTION:(Formerly Law 772)  Career development is a embedded in life development. This course offers a space and time for each student to consider both through course materials, class interactions, and a series of reflection papers. The course includes one class facilitated in collaboration with the Office of Career Services focusing on a formal assessment via one or more psychological tests offered to each student. The materials for other class meetings are thought provoking works that have proven to be salient for considering career and life direction. Images and material from alchemy that embody what many consider to be a primary set of symbols for personal transformation provide a backdrop for the course.  The course benefits from the collaboration of Michael Guasperini, a mythologist and lawyer whose primary vocation is working intimately with lawyers and firms during periods of personal and institutional transition. Mr. Guasperini has deep experience with the personal lives of hundreds of lawyers at various ages and levels of professional development, providing a valuable and practical perspective for self-reflection.  Elements used in grading: Written Assignments (reflection papers).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW7805 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T140000
-CREATED:20170211T124029
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170526T160000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180404T191500
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180601T211500;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

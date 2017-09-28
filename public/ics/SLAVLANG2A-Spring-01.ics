@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T132000
-LAST-MODIFIED:20170211T124003
-UID:explore_courses6955ce01-5a16-404b-ac8c-1fc9256fec46
-DTSTAMP:20170211T124003
-LOCATION:460-334
+DTEND;TZID=America/Los_Angeles:20180402T112000
+LAST-MODIFIED:20170927T175849
+UID:explore_courses2e29405a-683c-425b-bc2a-070c315e2bed
+DTSTAMP:20170927T175849
+LOCATION:200-202
 DESCRIPTION:Continuation of  Slavlang 1A. Completes the first-year sequence in two rather than three quarters. Students develop first-year proficiency in Russian at an accelerated pace through intensive studying of basic Russian grammar and functional vocabulary and active language use. The course emphasis is put on practice in speaking, reading, and writing Russian through diverse materials and appropriate cultural contexts.  The course fulfills the University foreign language requirement. nPrerequisite: Slavlang 1A or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SLAVLANG2A LNG
-DTSTART;TZID=America/Los_Angeles:20170403T113000
-CREATED:20170211T124003
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T093000
+CREATED:20170927T175849
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

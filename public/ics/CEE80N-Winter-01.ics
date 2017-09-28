@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses560f0b08-3460-4d9d-a6cb-4a9ef3a0fb40
-DTSTAMP:20170211T124013
-LOCATION:Y2E2 292A
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses30f1b7aa-a267-4eb1-b3db-477561d592c7
+DTSTAMP:20170927T175952
+LOCATION:Thornt211
 DESCRIPTION:In this seminar, students will be introduced to the history of modern bridges, buildings and other large-scale structures.  Classes will include presentations on transformations in structural design inspired by the development of new materials, increased understanding of hazardous overloads and awareness of environmental impacts.  Basic principles of structural engineering and how to calculate material efficiency and structural safety of structural forms will be taught using case studies.  The course will include a field trip to a Bay Area large-scale structure, hands-on experience building a tower and computational modeling of bridges, and a paper and presentation on a structure or structural form of interest to the student.  The goal of this course is for students to develop an understanding and appreciation of modern structures, influences that have led to new forms, and the impact of structural design on society and the environment.  Students from all backgrounds are welcome.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE80N ISF
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

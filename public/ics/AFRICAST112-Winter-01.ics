@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T182000
-LAST-MODIFIED:20170211T123934
-UID:explore_courses3b29e9d8-227e-473a-8ea4-279b2d9db530
-DTSTAMP:20170211T123934
-LOCATION:Econ 139
+DTEND;TZID=America/Los_Angeles:20180108T182000
+LAST-MODIFIED:20170927T175754
+UID:explore_courses19160754-38b6-4a8c-89a1-921b3ae4eac7
+DTSTAMP:20170927T175754
+LOCATION:100-101K
 DESCRIPTION:Is foreign aid a solution? or a problem? Should there be more aid, less aid, or none at all?  How do foreign aid and local initiatives intersect? A clinic in Uganda that addresses AIDS as a family and community problem. Multiple strategies in Tanzania to increase girls' schooling. These are imaginative and innovative approaches to pressing and contested policy challenges. We will examine several contentious issues in contemporary Africa, exploring their roots and the intense conflicts they engender, with special attention to foreign aid and the aid relationship. As African communities and countries work to shape their future, what are the foreign roles and what are their consequences?
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AFRICAST112 SEM
-DTSTART;TZID=America/Los_Angeles:20170109T153000
-CREATED:20170211T123934
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T153000
+CREATED:20170927T175754
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

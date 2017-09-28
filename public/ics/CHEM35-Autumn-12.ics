@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T112000
-LAST-MODIFIED:20170211T123940
-UID:explore_courses68f9f585-9fc6-4f2b-a003-eab7c529a0b8
-DTSTAMP:20170211T123940
+DTEND;TZID=America/Los_Angeles:20170928T112000
+LAST-MODIFIED:20170927T175805
+UID:explore_coursesbee73750-2e34-4ba9-92c8-ec7a3d6de543
+DTSTAMP:20170927T175805
 LOCATION:
-DESCRIPTION:The structure and reactivity of mono- and polyfunctionalized molecules; retrosynthetic analysis and multi-step chemical synthesis.  Course will emphasize deductive logic and reasoning skills through conceptual learning.  Students gain an appreciation for the profound impact of organic chemistry on humankind in fields ranging from biology and medicine to gastronomy, agriculture, and materials science.  A three hour lab section provides hands on experience with modern chemical methods for preparative and analytical chemistry.  Prerequisite: Chem 33
+DESCRIPTION:Focuses on the structure and reactivity of natural and synthetic bioactive molecules. Covers fundamental concepts underlying chemical reactivity and the logic of chemical synthesis for an appreciation of the profound impact of organic chemistry on humankind in fields ranging from medicine to earth and planetary science. A three hour lab section provides hands on experience with modern chemical methods for preparative and analytical chemistry. Prerequisite: Chem 33.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM35 DIS
-DTSTART;TZID=America/Los_Angeles:20160929T083000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T083000
+CREATED:20170927T175805
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

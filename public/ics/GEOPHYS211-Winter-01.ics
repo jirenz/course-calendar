@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T124032
-UID:explore_courses355b3d8c-b8bd-435b-9dd2-f5bbdd85c9c2
-DTSTAMP:20170211T124032
+DTEND;TZID=America/Los_Angeles:20180108T152000
+LAST-MODIFIED:20170927T175945
+UID:explore_courses6d039bca-ea19-4ca0-adab-5cb106d38449
+DTSTAMP:20170927T175945
 LOCATION:Mitch452
 DESCRIPTION:Imaging principles exemplified by means of imaging geophysical data of various uncomplicated types (bathymetry, altimetry, velocity, reflectivity). Adjoints, back projection, conjugate-gradient inversion, preconditioning, multidimensional autoregression and spectral factorization, the helical coordinate, and object-based programming. Common recurring issues such as limited aperture, missing data, signal/noise segregation, and nonstationary spectra. See http://sep.stanford.edu/sep/prof/.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS211 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170211T124032
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T143000
+CREATED:20170927T175945
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T213000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursesac586ed1-b132-4860-bc1d-fdd73df00196
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180110T213000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses856fea14-c7df-4d27-9b98-8d3129a53666
+DTSTAMP:20170927T175841
 LOCATION:BRH
 DESCRIPTION:Elite string group focusing on concerti by Corelli, Vivaldi and other Italians, Bach, Handel and other Germans, as well as theater music by Purcell and Lully. Each member expected to solo as well as play backup. Performances each quarter, played standing, student-led without conductor. Coaching will emphasize leadership and ensemble techniques, intonation and blend, particulars of eighteenth century notation and performance practice. Modern instruments, modern pitch, baroque bows as available. Limited to six violins, three violas, three cellos, bass, admission by audition. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure. Contact instructor for audition and enrollment information: apmartin@stanford.edu. May be repeated for credit for total completion of 15 and total 15 units.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC160C PRA
-DTSTART;TZID=America/Los_Angeles:20170111T190000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T213000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T190000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T213000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T152000
-LAST-MODIFIED:20170211T123942
-UID:explore_coursesbc3171f3-1863-46e6-8431-f7b87d55f3be
-DTSTAMP:20170211T123942
-LOCATION:100-101K
-DESCRIPTION:
+DTEND;TZID=America/Los_Angeles:20180625T162000
+LAST-MODIFIED:20170927T175810
+UID:explore_coursese7aa1220-eaeb-45c4-aece-b61bdb16c1e3
+DTSTAMP:20170927T175810
+LOCATION:160-317
+DESCRIPTION:This class is designed to interrogate the spatial metaphors often used to describe the Internet. What is &quot;cyberspace&quot; and where do we go when we go &quot;offline&quot;? What is gained through thinking of the Internet as a space and what opportunities are missed? What does this have to do with our physical bodies, capitalism, and the government? During this course we will use historical and contemporary academic writing and literature to interrogate the Internet as a space and a communication technology, and think through the meaning of digital spaces in American culture, business and government.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMM112S LEC
-DTSTART;TZID=America/Los_Angeles:20170626T133000
-CREATED:20170211T123942
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180625T143000
+CREATED:20170927T175810
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

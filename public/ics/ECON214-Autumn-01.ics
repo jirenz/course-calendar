@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T132000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses88b12331-2891-44f2-af21-3950ba4368bf
-DTSTAMP:20170211T123946
-LOCATION:Econ 139
-DESCRIPTION:This course is the first of a three-course graduate sequence on the economic issues of less developed countries. Topics include institutions and governance; agricultural productivity; productivity effects of health; private and social returns to education; household behavior.nPrerequisites: 202 or 202N, 270.
+DTEND;TZID=America/Los_Angeles:20170925T132000
+LAST-MODIFIED:20170927T175819
+UID:explore_coursese42ab98c-d504-4870-aa66-ff3384ae695e
+DTSTAMP:20170927T175819
+LOCATION:Econ 106
+DESCRIPTION:This course uses microeconomic analysis to understand development issues in lower income countries. Topics include institutions and governance; human capital accumulation; productivity; inequality; poverty traps. Prerequisites: 202 or 202N, 270.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON214 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T113000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses528e8488-0d0b-4634-915b-4eb7165ecfdb
-DTSTAMP:20170211T124020
-LOCATION:Sequoia Hall 200
+DTEND;TZID=America/Los_Angeles:20170926T102000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursese02f89c2-2a6c-443f-a64e-9da6608836fa
+DTSTAMP:20170927T180001
+LOCATION:Y2E2 101
 DESCRIPTION:Geometrical optics, aberrations, optical instruments, radiometry. Ray matrices and Gaussian beams. Wave nature of light. Plane waves: at interfaces, in media with varying refractive index. Diffraction and Fourier optics. Interference, single-beam interferometers (Fabry-Perot), multiple-beam interferometers (Michelson, Mach-Zehnder). Polarization, Jones and Stokes calculi.nFormerly EE 268. Prerequisites: EE 142 or familiarity with electromagnetism and plane waves.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE236A LEC
-DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T090000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

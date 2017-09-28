@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T132000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses72307cfe-4aa2-42f6-87a2-1fe1eeab6e47
-DTSTAMP:20170211T124013
-LOCATION:Y2E2 105
+DTEND;TZID=America/Los_Angeles:20170927T132000
+LAST-MODIFIED:20170927T175953
+UID:explore_courses613af4b7-73db-408d-a16a-22c0917dfad1
+DTSTAMP:20170927T175953
+LOCATION:Y2E2 335
 DESCRIPTION:This seminar will explore past and current research on disaster risk and resilience, towards the development of new frontiers in resilience engineering science research.  Designed for graduate students engaged in the topic of risk and resilience research, the seminar will be organized around weekly readings and discussion groups. May be repeat for credit
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:CEE308 SEM
-DTSTART;TZID=America/Los_Angeles:20160928T123000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=WE
+SUMMARY:CEE308 RES
+DTSTART;TZID=America/Los_Angeles:20170927T123000
+CREATED:20170927T175953
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

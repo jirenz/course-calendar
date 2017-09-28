@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T112000
-LAST-MODIFIED:20170211T124004
-UID:explore_courses0cea8a3e-618a-400f-a419-05490dc35f90
-DTSTAMP:20170211T124004
-LOCATION:Encina Hall C464
+DTEND;TZID=America/Los_Angeles:20170925T112000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesbeb5c390-c934-4d65-b6c1-9e5610f68e5c
+DTSTAMP:20170927T175851
+LOCATION:Encina West 101
 DESCRIPTION:Continuation of SPANLANG 11C. Sequence integrating culture and language, with emphasis on developing advanced proficiency in oral and written discourse. Targeted functional abilities include presentational and socioculturally appropriate language in formal and informal, academic, and professional contexts. `C' content focuses on societal and cultural components of the Spanish-speaking world. Prerequisite: Placement Test, SPANLANG 11Ror 11SL
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPANLANG12C LNG
-DTSTART;TZID=America/Los_Angeles:20160927T093000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

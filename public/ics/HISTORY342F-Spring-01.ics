@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T175000
-LAST-MODIFIED:20170211T123951
-UID:explore_coursesf80e8e3e-276f-49d6-b066-012aba1f7ac5
-DTSTAMP:20170211T123951
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20170927T175829
+UID:explore_courses2b4654d8-b410-4af7-befe-1eee446bd016
+DTSTAMP:20170927T175829
 LOCATION:200-015
 DESCRIPTION:This course connects changing ways of understanding the body and disease in the seventeenth and eighteenth centuries to the business of empire. How did new ideas and methods of selling medicine relate to the rise of state-sponsored violence, resource extraction, global trade, and enslaved labor? Following black ritual practitioners in the Caribbean, apothecaries in England, and scientists abroad reveals the diversity of medical traditions and knowledge production in the early modern period that formed the basis of modern medicine today.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY342F COL
-DTSTART;TZID=America/Los_Angeles:20170403T163000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T150000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

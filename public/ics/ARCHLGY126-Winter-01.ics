@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T172000
-LAST-MODIFIED:20170211T123936
-UID:explore_coursesb7de911e-6377-4dbe-bef4-a05d6d44ad4b
-DTSTAMP:20170211T123936
-LOCATION:500-106
+DTEND;TZID=America/Los_Angeles:20180108T172000
+LAST-MODIFIED:20170927T175758
+UID:explore_courses459f41e3-b310-4408-8ceb-93a149fcb112
+DTSTAMP:20170927T175758
+LOCATION:160-326
 DESCRIPTION:Archaeobotany, also known as paleoethnobotany, is the study of the interrelationships of plants and humans through the archaeological record. Knowledge and understanding of Archaeobotany sufficient to interpret, evaluate, and understand archaeobotanical data. Dominant approaches in the study of archaeobotanical remains: plant macro-remains, pollen, phytoliths, and starch grains in the identification of diet and environmental reconstruction.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARCHLGY126 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T153000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T153000
+CREATED:20170927T175758
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

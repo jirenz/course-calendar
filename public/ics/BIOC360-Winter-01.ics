@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T172000
-LAST-MODIFIED:20170211T124033
-UID:explore_coursesba62778a-e454-4078-b51f-f67e66aa7d7d
-DTSTAMP:20170211T124033
-LOCATION:CCSR 4107
+DTEND;TZID=America/Los_Angeles:20180108T172000
+LAST-MODIFIED:20170927T175857
+UID:explore_courses848ac644-d6d5-4c7e-8b76-09edcb69d794
+DTSTAMP:20170927T175857
+LOCATION:CCSR 0235
 DESCRIPTION:Biochemistry 3rd year PhD students with permission of instructor only.  Students foster broad familiarity with the biomedical literature and learn to develop new research directions.  Topics well outside of each student's research topic are chosen for regular informal journal club presentations.  Students work with faculty to hone skills for identifying important open scientific questions, formulating hypotheses, and refining experimental logic.  Students work collectively to create a &quot;model&quot; research proposal on a topic of general interest to the group, and then individually to develop an original proposal on a topic of each student's choice.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOC360 SEM
-DTSTART;TZID=America/Los_Angeles:20170109T153000
-CREATED:20170211T124033
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T153000
+CREATED:20170927T175857
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

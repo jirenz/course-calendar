@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T175000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses305d4668-a9f1-4f79-aac5-3fed2e17f9b8
-DTSTAMP:20170211T124020
-LOCATION:ScienceTeachingLearningCntr105
-DESCRIPTION:Ethical responsibilities of engineers in relation to society, employers, colleagues, and clients; cost-benefit-risk analysis, safety, and informed consent; the ethics of whistleblowing; ethical issues that face engineers as expert witnesses, consultants, and managers; ethical issues in engineering research, design, testing, manufacturing, and operations; ethical issues arising from engineering work in foreign countries; and ethical issues arising from the social, cultural, and environmental contexts of contemporary engineering work. Historical and contemporary case studies. Limited enrollment. Students must attend and complete an application at the first class session.
+DTEND;TZID=America/Los_Angeles:20180111T175000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursesb0e7f878-51c5-4d57-b9ea-86b1e78b4693
+DTSTAMP:20170927T180001
+LOCATION:School of Education 229
+DESCRIPTION:Fundamental ethical responsibilities of engineers. Ethical responsibilities to society, employers, colleagues, and clients; ethics, cost-benefit-risk analysis, and safety; informed consent; ethical responsibilities of radical engineering design; the ethics of whistleblowing; ethical issues engineers face as expert witnesses, consultants, and managers; ethical issues in engineering research, design, testing, and manufacturing; ethical issues arising from engineering work in foreign countries; and ethical issues arising from the social, cultural, and environmental contexts of contemporary engineering work. Contemporary case studies. Enrollment strictly limited to 60. Students seeking a slot must attend and complete an application at the first class session.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR131 DIS
-DTSTART;TZID=America/Los_Angeles:20170112T150000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T150000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

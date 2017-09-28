@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T203000
-LAST-MODIFIED:20170211T123949
-UID:explore_coursesd9d9c0eb-7f7f-47e3-b59a-1b679556153a
-DTSTAMP:20170211T123949
-LOCATION:
-DESCRIPTION:See https://stanfordmaisonfrancaise.wordpress.com/viticulture-course-60d-autumn-2013/nPrerequisite: 21 or older. (AU)
+DTEND;TZID=America/Los_Angeles:20180403T203000
+LAST-MODIFIED:20170927T175824
+UID:explore_coursesdedf3c29-9de2-45f0-878c-b13638f745e3
+DTSTAMP:20170927T175824
+LOCATION:260-113
+DESCRIPTION:The class exposes the Stanford student community to the foundational art and science of wine and wine culture. Each class features a tasting of 4 to 6 wines, which the students will taste as well as learn about the origin, the grapes, the flavors and nuances, and the necessary vocabulary. nnnPrerequisite: 21 or older. (AU)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FRENLANG60D ACT
-DTSTART;TZID=America/Los_Angeles:20170404T191500
-CREATED:20170211T123949
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T203000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T191500
+CREATED:20170927T175824
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T203000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

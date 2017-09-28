@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T172000
-LAST-MODIFIED:20170211T123952
-UID:explore_courses08800e27-975f-4433-83a5-1514d2932bc5
-DTSTAMP:20170211T123952
+DTEND;TZID=America/Los_Angeles:20180403T172000
+LAST-MODIFIED:20170927T175831
+UID:explore_coursesc6c58fbf-1be6-4216-8664-7d15d176c863
+DTSTAMP:20170927T175831
 LOCATION:
 DESCRIPTION:This laboratory course is active and inquiry based. Aspects of exercise and temperature are explored; however, the specific questions the class tackles differ each quarter. Samples of past questions: Does lactic acid accumulation correlate with exercise fatigue at different exercise and body temperatures? Does palm cooling during exercise mitigate the effect of body temperature on fatigue with or without evaporative cooling? Students participate both as experimenters and as subjects of the experiments in two-person teams. Participants must be in good physical condition, though not necessarily athletes, and must be willing to participate in strenuous exercise routines under adverse environmental conditions. Varsity athletes concurrently participating in a spring sport must consult the instructor before applying. Discussion sessions include student presentations of journal articles, data analyses, and feedback on individual WIM research proposals. By application only, see sites.stanford.edu/bio107humbio136 for the application form. Prerequisite: Bio 42 or HumBio 4A. Satisfies WIM for Biology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO136 LAB
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175831
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

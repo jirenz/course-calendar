@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170211T124021
-UID:explore_courses0e961bde-8390-492d-9dc4-72ce83f39f4b
-DTSTAMP:20170211T124021
-LOCATION:160-321
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20170927T180002
+UID:explore_courses7f37882c-ace0-4938-97b5-432503e7c29f
+DTSTAMP:20170927T180002
+LOCATION:160-319
 DESCRIPTION:Preference to sophomores. At least 20 countries have built or considered building nuclear weapons. However, the paths these countries took in realizing their nuclear ambitions vary immensely. Why is this the case? How do the histories, cultures, national identities, and leadership of these countries affect the trajectory and success of their nuclear programs? This seminar will address these and other questions about nuclear weapons and their proliferation. Students will learn the fundamentals of nuclear technology, including nuclear weapons and nuclear energy, and be expected to use this knowledge in individual research projects on the nuclear weapons programs of individual countries. Case studies will include France, UK, China, India, Israel, Pakistan, North Korea, South Africa, Libya, Iraq, and Iran, among others. Please note any language skills in your application. Recommended: 193 or 293.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E93Q ISS
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T175000
-LAST-MODIFIED:20170211T124005
-UID:explore_coursese493a0a0-6305-4593-9f5c-7b715d4a1305
-DTSTAMP:20170211T124005
+DTEND;TZID=America/Los_Angeles:20180625T175000
+LAST-MODIFIED:20170927T175853
+UID:explore_coursesdd3c9753-62f6-428a-8d56-63fbe007fdab
+DTSTAMP:20170927T175853
 LOCATION:
 DESCRIPTION:Data mining is used to discover patterns and relationships in data. Emphasis is on large complex data sets such as those in very large databases or through web mining. Topics: decision trees, association rules, clustering, case based methods, and data visualization. Prereqs: Introductory courses in statistics or probability (e.g., Stats 60), linear algebra (e.g., Math 51), and computer programming (e.g., CS 105).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS202 LEC
-DTSTART;TZID=America/Los_Angeles:20170626T163000
-CREATED:20170211T124005
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T175000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180625T163000
+CREATED:20170927T175853
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

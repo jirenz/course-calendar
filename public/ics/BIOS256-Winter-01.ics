@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170306T112000
-LAST-MODIFIED:20170211T124035
-UID:explore_courses3fa44c15-a125-4064-bd18-e43dc08c9bb8
-DTSTAMP:20170211T124035
-LOCATION:CCSR0245
-DESCRIPTION:Students will use learn make and print 3D models of their data to use as a focal point when describing their project. We will teach the students how to use Autocad and Blender to process existing data sets and students are encouraged to bring their own data.  We strive to make wearable models to enable instant mini-lectures any place and anytime.
+DTEND;TZID=America/Los_Angeles:20180305T112000
+LAST-MODIFIED:20170927T175859
+UID:explore_courses949add25-64d9-4ef4-ad1a-58cc636d2eba
+DTSTAMP:20170927T175859
+LOCATION:CCSR 4107
+DESCRIPTION:Mini-course. Students will use learn make and print 3D models of their data to use as a focal point when describing their project. We will teach the students how to use Autocad and Blender to process existing data sets and students are encouraged to bring their own data.  We strive to make wearable models to enable instant mini-lectures any place and anytime.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS256 WKS
-DTSTART;TZID=America/Los_Angeles:20170306T093000
-CREATED:20170211T124035
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170310T112000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20180305T093000
+CREATED:20170927T175859
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

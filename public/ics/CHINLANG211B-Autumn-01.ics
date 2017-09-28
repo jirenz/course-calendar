@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170211T123941
-UID:explore_courses20b83f80-1152-4f0e-a571-1ddce9f41d77
-DTSTAMP:20170211T123941
+DTEND;TZID=America/Los_Angeles:20170925T122000
+LAST-MODIFIED:20170927T175807
+UID:explore_courses14f7fd3a-8b6c-4296-9079-efe30cfc5656
+DTSTAMP:20170927T175807
 LOCATION:260-008
 DESCRIPTION:Continuation of CHINLANG 103B. This is the first quarter of a three-quarter sequence designed for bilingual students with advanced-level proficiency in Chinese.  Discussions are based on short stories, essays and newspaper articles, along with related media materials.  Emphasis is on social and cultural issues in contemporary China.  Students will learn speed-reading techniques and explore more subtle distinctions in Chinese language use, such as formal vs. informal styles and word choice, toward developing a more sophisticated understanding and command of the language. Having completed one year of study at this level, students will acquire sufficient skills in reading, writing, and speaking on various topics of personal, or public, interests more effectively and accurately. Prerequisite: CHINLANG 103B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHINLANG211B LNG
-DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170211T123941
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T113000
+CREATED:20170927T175807
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

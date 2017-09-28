@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T150000
-LAST-MODIFIED:20170211T124051
-UID:explore_courses4e532bdf-842c-40ea-a61b-4c9fc288998c
-DTSTAMP:20170211T124051
+DTEND;TZID=America/Los_Angeles:20170925T150000
+LAST-MODIFIED:20170927T175926
+UID:explore_courses1d271de4-e1cc-4029-b752-01d773eeb6c0
+DTSTAMP:20170927T175926
 LOCATION:
 DESCRIPTION:(Same as STRAMGT 356) The Startup Garage is an experiential lab course that focuses on the design, testing and launch of  a new venture. Multidisciplinary student teams work through an iterative process of understanding user needs, creating a point of view statement, ideating and prototyping new product and services and their business models, and communicating the user need, product, service and business models to end-users, partners, and investors. In the autumn quarter, teams will: identify and validate a compelling user need and develop very preliminary prototypes for a new product or service and business models. Students form teams, conduct field work and iterate on the combination of business model -- product -- market. Teams will present their first prototypes (business model - product - market) at the end of the quarter to a panel of entrepreneurs, venture capitalists, angel investors and faculty.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOMGEN282 CAS
-DTSTART;TZID=America/Los_Angeles:20160926T131500
-CREATED:20170211T124051
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T150000;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20170925T131500
+CREATED:20170927T175926
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T150000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

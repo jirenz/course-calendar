@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T142000
-LAST-MODIFIED:20170211T123952
-UID:explore_courses554c8065-55b3-4c66-a204-004eb1667741
-DTSTAMP:20170211T123952
-LOCATION:Lathrop 298
-DESCRIPTION:The principles of the biology of cells: principles of human developmental biology, biochemistry of energetics and metabolism, the nature of membranes and organelles, hormone action and signal transduction in normal and diseased states (diabetes, cancer, autoimmune diseases), drug discovery, immunology, and drug addiction. HUMBIO 3A and 3B are designed to be taken concurrently and exams for both sides may include material from joint module lectures.  Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines. Prerequisite: college chemistry or completion of the HumBio Core on-line chemistry lecture series during the fall quarter.
+DTEND;TZID=America/Los_Angeles:20180111T142000
+LAST-MODIFIED:20170927T175830
+UID:explore_coursese9a433e5-c5f0-4ef4-a4b1-4f670556aea0
+DTSTAMP:20170927T175830
+LOCATION:20-21B
+DESCRIPTION:The principles of the biology of cells: principles of human developmental biology, biochemistry of energetics and metabolism, the nature of membranes and organelles, hormone action and signal transduction in normal and diseased states (diabetes, cancer, autoimmune diseases), drug discovery, immunology, and drug addiction. HUMBIO 3A and HUMBIO 3B are designed to be taken concurrently and exams for both sides may include material from joint module lectures. Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines. Please note Human Biology majors are required to take the Human Biology Core Courses for a letter grade. Prerequisite: college chemistry or completion of the HumBio Core on-line chemistry lecture series during the fall quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO3A DIS
-DTSTART;TZID=America/Los_Angeles:20170112T133000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T133000
+CREATED:20170927T175830
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T142000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

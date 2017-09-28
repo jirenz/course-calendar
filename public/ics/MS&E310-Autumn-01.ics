@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20170211T124021
-UID:explore_courses597a41e0-fde0-4be6-b098-4339d75d97c5
-DTSTAMP:20170211T124021
-LOCATION:200-203
+DTEND;TZID=America/Los_Angeles:20170925T162000
+LAST-MODIFIED:20170927T180002
+UID:explore_coursesdc7ec305-479e-4269-8e0b-19812ec387c6
+DTSTAMP:20170927T180002
+LOCATION:380-381U
 DESCRIPTION:Formulation of standard linear programming models. Theory of polyhedral convex sets, linear inequalities, alternative theorems, and duality. Variants of the simplex method and the state of art interior-point algorithms. Sensitivity analyses, economic interpretations, and primal-dual methods. Relaxations of harder optimization problems and recent convex conic linear programs. Applications include game equilibrium facility location. Prerequisite: MATH 113 or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E310 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T150000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T213000
-LAST-MODIFIED:20170211T124025
-UID:explore_coursesbe3037a2-18be-40ee-8616-87a077cc26cf
-DTSTAMP:20170211T124025
-LOCATION:School of Education 210
+DTEND;TZID=America/Los_Angeles:20170927T213000
+LAST-MODIFIED:20170927T175945
+UID:explore_courses0fa001a9-3f34-4266-bf49-122d13c9f89a
+DTSTAMP:20170927T175945
+LOCATION:200-105
 DESCRIPTION:Limited to and required of second-year MLA students. Historical, literary, artistic, medical, and theological issues are covered. Focus is on skills and information needed to pursue MLA graduate work at Stanford: writing a critical, argumentative graduate paper; conducting library research; expectations of seminar participation. Readings include Homer, Thucydides, Camus, Mann, Kushner, and sacred, scientific, and historical writings.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MLA102 SEM
-DTSTART;TZID=America/Los_Angeles:20160928T190000
-CREATED:20170211T124025
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T213000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T190000
+CREATED:20170927T175945
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T213000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

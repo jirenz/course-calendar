@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T101000
-LAST-MODIFIED:20170211T124008
-UID:explore_courses0482f395-c85d-4d30-87cc-31ab368adbee
-DTSTAMP:20170211T124008
+DTEND;TZID=America/Los_Angeles:20170926T101000
+LAST-MODIFIED:20170927T175748
+UID:explore_courses267f0632-8e01-4476-ad9f-0fa905832ef5
+DTSTAMP:20170927T175748
 LOCATION:
 DESCRIPTION:Challenges students to study, practice, and evaluate adaptive leadership skills as they are presented with the demands of the ROTC Leader Development Assessment Course. Challenging scenarios related to small unit tactical operations are used to develop self-awareness and critical thinking skills. Students receive systematic and specific feedback on their leadership abilities.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ROTCARMY131 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T083000
-CREATED:20170211T124008
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T101000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T083000
+CREATED:20170927T175748
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T101000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20170211T124038
-UID:explore_courses0f0f5f9e-42d4-451c-86ef-9d347e590b01
-DTSTAMP:20170211T124038
-LOCATION:Li Ka Shing Center, room 306
-DESCRIPTION:The focus of this course is on providing the skills necessary to develop, validate and administer both qualitative and quantitative measures and instruments. Topics will include creating valid measures, ensuring the measures used address and apply to the research questions, design and samples; determining when to use standardized measures or develop new ones; instrument validation techniques; factor analysis; and survey administration, including determining the most effective way of administering measures (e.g., online, paper-and-pencil, ACASI) ad the best way to design the survey.
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20170927T175904
+UID:explore_courses0de988f0-ef57-4aa4-bf4b-8f62e080df3d
+DTSTAMP:20170927T175904
+LOCATION:CCSR 4107
+DESCRIPTION:The focus of this course is on providing the skills necessary to develop, validate and administer both qualitative and quantitative measures and instruments. Topics will include creating valid measures, ensuring the measures used address and apply to the research questions, design and samples; determining when to use standardized measures or develop new ones; instrument validation techniques; factor analysis; and survey administration, including determining the most effective way of administering measures (e.g., online, paper-and-pencil, ACASI) and the best way to design the survey.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP244 SEM
-DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20170211T124038
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T150000
+CREATED:20170927T175904
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

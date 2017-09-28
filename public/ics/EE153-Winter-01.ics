@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses121e2c3a-dbbe-4c17-92a6-9ab748e82732
-DTSTAMP:20170211T124020
-LOCATION:420-041
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses57c5af06-b1b3-4b35-b05d-82ce7cdfc3be
+DTSTAMP:20170927T180001
+LOCATION:530-127
 DESCRIPTION:Addressing the energy challenges of today and the environmental challenges of the future will require efficient energy conversion techniques. This course will discuss the circuits used to efficiently convert ac power to dc power, dc power from one voltage level to another, and dc power to ac power. The components used in these circuits (e.g., diodes, transistors, capacitors, inductors) will also be covered in detail to highlight their behavior in a practical implementation. A lab will be held with the class where students will obtain hands on experience with power electronic circuits. Formerly EE 292J. Prerequisite: EE 101B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE153 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

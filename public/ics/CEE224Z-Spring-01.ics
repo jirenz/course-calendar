@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20170211T124013
-UID:explore_coursesfe59d44f-bb35-48e4-902e-9a5d665724b0
-DTSTAMP:20170211T124013
-LOCATION:Thornt110
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses4d1dcfb2-d176-484a-b47c-0081e89845a3
+DTSTAMP:20170927T175952
+LOCATION:
 DESCRIPTION:Sustainable Urban Systems (SUS) Project is a project-based learning experience being piloted for an upcoming new SUS M.S. Program within CEE. Students are placed in small interdisciplinary teams (engineers and non-engineers, undergraduate and graduate level) to work on complex design, engineering, and policy problems presented by external partners in a real urban setting.  Multiple projects are offered throughout the academic year and may span multiple quarters.  Students are expected to interact with professionals and community stakeholders, conduct independent team work outside of class sessions, and submit deliverables over a series of milestones.  To view project descriptions and apply, visit http://sus.stanford.edu/courses/.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE224Z LEC
-DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

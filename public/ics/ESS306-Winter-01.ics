@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T162000
-LAST-MODIFIED:20170211T124031
-UID:explore_coursese6076d2c-bb60-487a-abf6-504082613a77
-DTSTAMP:20170211T124031
-LOCATION:Y2E2 335
+DTEND;TZID=America/Los_Angeles:20180110T162000
+LAST-MODIFIED:20170927T175943
+UID:explore_courses35d1bd12-192f-4794-a2e1-09a0ca6edc14
+DTSTAMP:20170927T175943
+LOCATION:
 DESCRIPTION:Within this class we will have cover Earth System processes ranging from nutrient cycles to ocean circulation.  We will also address global environmental challenges of the twenty-first century that include maintaining freshwater resources, land degradation, health of our oceans, and the balance between food production and environmental degradation.  Weekly readings and problem sets on specific topics will be followed by presentations of Earth System Science faculty and an in-depth class discussion. ESS first year students have priority enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS306 SEM
-DTSTART;TZID=America/Los_Angeles:20170111T153000
-CREATED:20170211T124031
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=WE,FR
+DTSTART;TZID=America/Los_Angeles:20180110T153000
+CREATED:20170927T175943
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

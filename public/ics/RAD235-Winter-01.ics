@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T094500
-LAST-MODIFIED:20170211T124051
-UID:explore_courses66c2fc61-d6d1-4735-ac44-3056e2ecc117
-DTSTAMP:20170211T124051
-LOCATION:Li Ka Shing Center, room 208
+DTEND;TZID=America/Los_Angeles:20180108T094500
+LAST-MODIFIED:20170927T175925
+UID:explore_courses83aa4ee5-4c72-4696-9c9d-ba520863ecae
+DTSTAMP:20170927T175925
+LOCATION:
 DESCRIPTION:The focus of this course is on advanced ultrasound imaging techniques for medical imaging applications. Topics include beamforming, adaptive beamforming, Fourier beamforming, synthetic aperture techniques, speckle, speckle reduction, k-space, harmonic imaging, coherence imaging, phase aberration, radiation force imaging, elastography, quantitative ultrasound, Doppler and flow imaging, ultrasounds modeling and advanced ultrasound theory.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:RAD235 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T083000
-CREATED:20170211T124051
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T094500;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T083000
+CREATED:20170927T175925
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T094500;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T152000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses2c6ccff4-1d79-4973-b7d9-c0ab9bf7c387
-DTSTAMP:20170211T124020
+DTEND;TZID=America/Los_Angeles:20180402T152000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursese6fad06d-e685-4aa0-8433-d2ebfd878ff7
+DTSTAMP:20170927T180001
 LOCATION:Thornt210
 DESCRIPTION:First of three-part sequence for students selected to the Mayfield Fellows Program. Management and leadership within high technology startups, focusing on entrepreneurial skills related to product and market strategy, venture financing and cash flow management, team recruiting and organizational development, and the challenges of managing growth and handling adversity in emerging ventures. Other engineering faculty, founders, and venture capitalists participate as appropriate. Recommended: accounting or finance course (MS&amp;E 140, ECON 90, or ENGR 60).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR140A SEM
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

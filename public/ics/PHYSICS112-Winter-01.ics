@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170211T123959
-UID:explore_courses019f7355-0f96-4278-a4a4-d6ed71bb7862
-DTSTAMP:20170211T123959
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T175844
+UID:explore_coursesf79024e2-6d11-4638-ac56-275eca94e8ef
+DTSTAMP:20170927T175844
 LOCATION:Hewlett Teaching Center 103
-DESCRIPTION:Theory of complex variables, complex functions, and complex analysis. Fourier series and Fourier transforms. Special functions such as Laguerre, Legendre, and Hermite polynomials, and Bessel functions. The uses of Green's functions. Covers material of MATH 106 and MATH 132 most pertinent to Physics majors. Prerequisites: MATH 50 or 50H series, and MATH 131P or MATH 173.
+DESCRIPTION:This course will cover methods of mathematical physics that are pertinent to physics.  Topics include: Complex analysis, group theory, calculus of variations.  Emphasis will be on in-depth coverage of selected topics. Prerequisites: MATH 50 or 60 series
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS112 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

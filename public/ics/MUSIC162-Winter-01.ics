@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T220000
-LAST-MODIFIED:20170211T123957
-UID:explore_courses99d9ec94-fc9b-46d3-9b67-59a0748f7e93
-DTSTAMP:20170211T123957
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180110T183000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses502c64e7-c99b-4b41-b270-3f5855051d79
+DTSTAMP:20170927T175841
+LOCATION:Braun103
 DESCRIPTION:180- to 200-voice choral ensemble, performing major choral masterworks with orchestra. One concert per quarter. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure. By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC162 PRC
-DTSTART;TZID=America/Los_Angeles:20170109T193000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T220000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180110T173000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T183000;BYDAY=WE
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T183000
-LAST-MODIFIED:20170211T123957
-UID:explore_courses983fd03f-72f0-4093-b4cc-13cc9b85eb97
-DTSTAMP:20170211T123957
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180108T220000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses2b830b2c-83e7-4548-ba74-28fd599e68f2
+DTSTAMP:20170927T175841
+LOCATION:Campbell Recital Hall 126
 DESCRIPTION:180- to 200-voice choral ensemble, performing major choral masterworks with orchestra. One concert per quarter. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure. By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC162 PRC
-DTSTART;TZID=America/Los_Angeles:20170111T173000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T183000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180108T193000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T220000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170211T124048
-UID:explore_coursesbea0a03c-916e-439e-b96a-f88869e0c62c
-DTSTAMP:20170211T124048
-LOCATION:160-325
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T175922
+UID:explore_coursesd93e2fbd-e5ce-4c52-bb66-1c4cece9b4c6
+DTSTAMP:20170927T175922
+LOCATION:School of Education 208
 DESCRIPTION:The social and economic factors that affect children and their health status. The principal sources of disparities in the health of children in the U.S. are not biologic, but social and economic.  Topics include ethnic, cultural, and behavioral factors that affect children's health, both directly and indirectly; lack of health insurance; and current proposals for health care reform, focusing specifically on how they will impact existing health disparities among children.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PEDS65N ISF
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T124048
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175922
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T182000
-LAST-MODIFIED:20170211T123940
-UID:explore_courses176bf802-cfc8-44b0-b232-fb308ffb51da
-DTSTAMP:20170211T123940
+DTEND;TZID=America/Los_Angeles:20170926T182000
+LAST-MODIFIED:20170927T175804
+UID:explore_courses5475d77c-10a9-4bf6-bae1-0ebe567a4dbc
+DTSTAMP:20170927T175804
 LOCATION:
-DESCRIPTION:Preference to freshmen. The course will explore evolutionary and revolutionary scientific advances; their consequences to society, biotechnology, and the economy; and mechanisms for communicating science to the public. The course will engage academic and industrial thought leaders and provide an opportunity for students to participate in communicating science to the public.
+DESCRIPTION:Preference to freshmen. The course will explore evolutionary and revolutionary scientific advances; their consequences to society, biotechnology, and the economy; and mechanisms for communicating science to the public. The course will engage academic and industrial thought leaders and provide an opportunity for students to participate in communicating science to the public. This fusion of journalism and science has led to a new undergraduate organization (faSCInate), a web site and video presentations. It is an opportunity to share the fun, excitement and importance of science with others.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM28N ISF
-DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T163000
+CREATED:20170927T175804
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

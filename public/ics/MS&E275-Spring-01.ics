@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T175000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursesa93262c9-8d17-4e90-9e7e-07fc285b310c
-DTSTAMP:20170211T124021
-LOCATION:200-303
-DESCRIPTION:Explore the foundational and strategic elements needed for startups to be designed for &quot;venture scale&quot; at inception. Themes include controversial and disruptive insights, competitive analysis, network effects, organizational design, and capital deployment. Case studies, expert guests, and experiential learning projects will be used. Primarily for graduate students. Limited enrollment. Recommended: basic accounting.
+DTEND;TZID=America/Los_Angeles:20180403T175000
+LAST-MODIFIED:20170927T180002
+UID:explore_courseseffb16d1-473c-4b6a-a7d6-06ebf85c684f
+DTSTAMP:20170927T180002
+LOCATION:Shriram Ctr BioChemE 104
+DESCRIPTION:Explore the foundational and strategic elements needed for startups to be designed for &quot;venture scale&quot; at inception. Themes include controversial and disruptive insights, competitive analysis, network effects, organizational design, and capital deployment. Case studies, expert guests, and experiential learning projects will be used. Primarily for graduate students. Limited enrollment. Admission by application. Recommended: basic accounting.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E275 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T163000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180403T163000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

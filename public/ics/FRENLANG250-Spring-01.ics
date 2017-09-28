@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170211T123949
-UID:explore_courses820db798-2dc0-4c7f-adf5-42240c1c872e
-DTSTAMP:20170211T123949
-LOCATION:300-303
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20170927T175824
+UID:explore_coursesc8b7c507-5782-4bd6-bff2-41082c553e16
+DTSTAMP:20170927T175824
+LOCATION:Thornt209
 DESCRIPTION:For seniors or graduate students seeking to meet the University reading requirement for advanced degrees. Reading strategies for comprehension of secondary literature for academic research. Fulfills the University foreign language requirement for advanced degrees if student earns a grade of 'B.' Prerequisite: one year or reading proficiency in another Romance language.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FRENLANG250 LNG
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T123949
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T175824
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

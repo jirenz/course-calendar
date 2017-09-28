@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T102000
-LAST-MODIFIED:20170211T123936
-UID:explore_coursesce748fa1-5689-4ba7-adf6-11ddd6ab4cf8
-DTSTAMP:20170211T123936
-LOCATION:420-050
+DTEND;TZID=America/Los_Angeles:20180404T112000
+LAST-MODIFIED:20170927T175758
+UID:explore_courses690d2364-360e-4513-8041-ac24847c24a8
+DTSTAMP:20170927T175758
+LOCATION:200-201
 DESCRIPTION:Provides a fundamental understanding of x-ray scattering and diffraction. Combines pedagogy with modern experimental methods for obtaining atomic-scale structural information on synchrotron and free-electon laser-based facilities. Topics include Fourier transforms, reciprocal space; scattering in the first Born approximation, comparison of x-ray, neutron and electron interactions with matter, kinematic theory of diffraction; dynamical theory of diffraction from perfect crystals, crystal optics, diffuse scattering from imperfect crystals, inelastic x-ray scattering in time and space, x-ray photon correlation spectroscopy. Laboratory experiments at the Stanford Synchrotron Radiation Lightsource.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS222 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T083000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180404T093000
+CREATED:20170927T175758
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

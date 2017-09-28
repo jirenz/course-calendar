@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170211T124030
-UID:explore_courses937fde5b-f90f-43de-bae6-77e8667900fc
-DTSTAMP:20170211T124030
+DTEND;TZID=America/Los_Angeles:20180109T102000
+LAST-MODIFIED:20170927T175941
+UID:explore_courses041cbe1a-0c4c-4882-9242-cb1126ea92d5
+DTSTAMP:20170927T175941
 LOCATION:Green Earth Sciences104
 DESCRIPTION:Whether Earth Science modeling is performed on a local, regional or global scale, for scientific or engineering purposes, uncertainty is inherently present due to lack of data and lack of understanding of the underlying phenomena. This course highlights the various issues, techniques and practical tools available for modeling uncertainty of complex Earth systems as well as the impact uncertainty has on practical decisions for geo-engineering problems. The course focuses on practical breadth rather than theoretical depth. Topics covered are: the process of building models, sources of uncertainty, probabilistic techniques, spatial data analysis and geostatistics, grid and scale, spatio-temporal uncertainty, visualizing uncertainty in large dimensions, Monte Carlo simulation, sensitivity analysis, reducing uncertainty with data, value of information. Applications to both local (reservoir, aquifer) and global (climate) are covered through literature study. Extensive software use with SGEMS.nnPrerequisites: algebra (CME 104 or equivalent), introductory statistics course (CME 106 or equivalent).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY160 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T090000
+CREATED:20170927T175941
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

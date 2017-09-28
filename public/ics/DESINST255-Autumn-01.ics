@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T115000
-LAST-MODIFIED:20170211T124018
-UID:explore_coursesae5f4832-3d59-4065-a11a-c77313a20d84
-DTSTAMP:20170211T124018
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175958
+UID:explore_coursesd64c1cb2-0cf6-4032-93b3-9da6c4594f9f
+DTSTAMP:20170927T175958
 LOCATION:
-DESCRIPTION:For many people, participating in the American healthcare system is confusing, frustrating and often disempowering. It is also an experience fueled with emotional intensity and feelings of vulnerability. The current ecosystem, with its complexity and multiple stakeholders, is rife with human-centered design opportunities. An especially sticky set of issues lies in the ways people navigate healthcare: understanding how the system works, accessing information about services, making decisions about treatment and interventions, and advocating for needs.nAdmission by application. See dschool.stanford.edu/classesn for more information.
+DESCRIPTION:For many people, participating in the American healthcare system is confusing, frustrating and often disempowering. It is also an experience fueled with emotional intensity and feelings of vulnerability. The current ecosystem, with its complexity and multiple stakeholders, is rife with human-centered design opportunities. An especially sticky set of issues lies in the ways people navigate healthcare: understanding how the system works, accessing information about services, making decisions about treatment and interventions, and advocating for needs.nnAdmission by application. See dschool.stanford.edu/classesn for more information.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DESINST255 WKS
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

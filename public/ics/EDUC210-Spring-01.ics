@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T112000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursescce40015-0882-47da-b29c-74a7a6650a0b
-DTSTAMP:20170211T123931
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180406T112000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses02291442-3e9a-445c-8077-95c6c68a6735
+DTSTAMP:20170927T175938
+LOCATION:School of Education 313
 DESCRIPTION:Forum for POLS students to link their academic learning to real world experience through in-class discussions, presentations, and reflective writing.  Fall Quarter is focused on understanding the intern's role within the larger organization. Winter Quarter is outward looking with a focus on understanding the broader fields the students' organizations reside within. Spring Quarter focus is on students learning from and being prepared to teach others.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC210 WKS
-DTSTART;TZID=America/Los_Angeles:20170407T083000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180406T083000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

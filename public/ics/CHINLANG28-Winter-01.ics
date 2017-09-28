@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20170211T123941
-UID:explore_courses902d1492-c0bb-4e76-80be-af2896332a76
-DTSTAMP:20170211T123941
-LOCATION:260-001
+DTEND;TZID=America/Los_Angeles:20180108T122000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses7325ccaa-bed3-429a-a516-662c002ddb7a
+DTSTAMP:20170927T175933
+LOCATION:200-015
 DESCRIPTION:This course is designed for students with basic conversational skills in Standard Modern Chinese.  It focuses on developing learners&iquest; communicative competence in Chinese by means of language practices, oral reports, discussions and group projects. The students will learn functional language skills for daily communication, and study a variety of topics related to school life, Chinese culture and society. nContinuation of CHINLANG 27. Prerequisite: CHINLANG 27.  Consent of instructor
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHINLANG28 LNG
-DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20170211T123941
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T113000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

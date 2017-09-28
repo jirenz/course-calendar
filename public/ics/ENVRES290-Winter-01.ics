@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T142000
-LAST-MODIFIED:20170211T124031
-UID:explore_coursesb63c3bb3-9b9a-4abe-98a9-62ef81a01eac
-DTSTAMP:20170211T124031
-LOCATION:Shriram Ctr BioChemE 102
+DTEND;TZID=America/Los_Angeles:20180109T152000
+LAST-MODIFIED:20170927T175942
+UID:explore_coursesd5d5a8d3-ae00-4bd8-aa38-8dd6f3f73006
+DTSTAMP:20170927T175942
+LOCATION:Y2E2 335
 DESCRIPTION:Required for and limited to E-IPER Joint M.S. students. Propose, conduct and publicly present final individual or team projects demonstrating the integration of professional (M.B.A., J.D., or M.D.) and M.S. in Environment and Resources degrees. Presentation and submission of final product required.  3 total units required; can all be taken during one quarter or divided over two sequential quarters.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENVRES290 SEM
-DTSTART;TZID=America/Los_Angeles:20170111T123000
-CREATED:20170211T124031
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175942
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

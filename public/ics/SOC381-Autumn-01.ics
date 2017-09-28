@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170211T124004
-UID:explore_coursesfefd4066-0f9b-4496-99a8-24df89d93823
-DTSTAMP:20170211T124004
-LOCATION:200-219
-DESCRIPTION:Enrollment limited to first-year Sociology doctoral students. Basic math and statistics. Types of variables, how to recode and transform variables, and how to manage different types of data sets. How to use and think about weights.  Introduction to statistical packages and programming. Introduction to multiple regression, and introduction to the interpretation of regression results.
+DTEND;TZID=America/Los_Angeles:20170927T122000
+LAST-MODIFIED:20170927T175851
+UID:explore_courses27aaae5d-df8d-486e-9779-b715ded57955
+DTSTAMP:20170927T175851
+LOCATION:Lathrop 294
+DESCRIPTION:Enrollment limited to first-year Sociology doctoral students. Other students by instructor permission only.  Basic math and statistics. Types of variables, how to recode and transform variables, and how to manage different types of data sets. How to use and think about weights.  Introduction to statistical packages and programming. Introduction to multiple regression, and introduction to the interpretation of regression results.  *Students enrolling in Soc381 are strongly encouraged to take a 1-week Math/Statistics refresher course from September 15th to September 22nd. Please contact the instructor at torche@stanford.edu for details.  *In addition to the lecture time, SOC381 includes a Discussion Section on Fridays 9:30am - 11:20am.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC381 SEM
-DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170927T093000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

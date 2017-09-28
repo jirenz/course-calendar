@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursesa7a16ce0-a89e-4b6c-8ab3-cc4caf6034eb
-DTSTAMP:20170211T124021
+DTEND;TZID=America/Los_Angeles:20170926T162000
+LAST-MODIFIED:20170927T180002
+UID:explore_coursesf0571061-8013-41ae-b525-ec9db22e18a4
+DTSTAMP:20170927T180002
 LOCATION:Skillaud
-DESCRIPTION:Basic concepts of modern quantitative finance and investments. Focus is on the financial theory and empirical evidence that are useful for investment decisions. Topics: basic interest rates; evaluating investments: present value and internal rate of return; fixed-income markets: bonds, yield, duration, portfolio immunization; term structure of interest rats; measuring risk: volatility and value at risk; designing optimal portfolios; risk-return tradeoff: capital asset pricing model and extensions. No prior knowledge of finance is required. Concepts are applied in a stock market simulation with real data. Prerequisite: basic preparation in probability, statistics, and optimization.
+DESCRIPTION:Basic concepts of modern quantitative finance and investments. Focus is on the financial theory and empirical evidence that are useful for investment decisions. Topics: basic interest rates; evaluating investments: present value and internal rate of return; fixed-income markets: bonds, yield, duration, portfolio immunization; term structure of interest rates; measuring risk: volatility and value at risk; designing optimal portfolios; risk-return tradeoff: capital asset pricing model and extensions. No prior knowledge of finance is required. Concepts are applied in a stock market simulation with real data. Prerequisite: basic preparation in probability, statistics, and optimization.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E245A LEC
-DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T150000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

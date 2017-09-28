@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T132000
-LAST-MODIFIED:20170211T123943
-UID:explore_coursesd7140204-1b03-4173-8841-d73ba45331a8
-DTSTAMP:20170211T123943
-LOCATION:360-361K
+DTEND;TZID=America/Los_Angeles:20180110T132000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses635f8faf-f461-4fb9-83f8-530cc7beb7c2
+DTSTAMP:20170927T175933
+LOCATION:
 DESCRIPTION:This course meets once a week for one hour, over lunch (provided).  Students will meet with CSRE faculty who will share their work, their life stories, their reasons for believing that race and ethnicity are of central concern to all members of our society.  Diverse fields will be represented: sociology, history, literature, psychology and others.  The course may be taken for either one or two units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CSRE1A SEM
-DTSTART;TZID=America/Los_Angeles:20170111T123000
-CREATED:20170211T123943
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T123000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170627T115000
-LAST-MODIFIED:20170211T124005
-UID:explore_coursesecf8cb6d-b23a-42c6-9cc3-9975c4a68bbf
-DTSTAMP:20170211T124005
+DTEND;TZID=America/Los_Angeles:20180626T115000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses35a48f8e-1bf6-4107-b860-893339fdb63d
+DTSTAMP:20170927T175933
 LOCATION:Sequoia Hall 200
-DESCRIPTION:Main topic: statistical inference of latent variable models (including SBM), using EM-like algorithms. The critical step is the determination of the conditional distribution of the latent variables given the observed data, which is doable for mixture models and hidden Markov models. For more complex models such as the stochastic block model (SBM: popular in sociology, physics, biology, etc.) variational approximations can be used to derive a generalized version of EM algorithm. This approach can be extended to Bayesian inference (variational Bayes EM algorithm). If time permits, change-point detection models will be introduced. Topics will be illustrated with examples from genomics.
+DESCRIPTION:An introduction to statistical inference and practice through the eyes of its greatest exponent, R. A. Fisher.  Each class one of Fisher's papers will be discussed, together with one or more commentaries or extensions by later statisticians.  Topics to be covered will include:  Fisher's life;  the Student t-test, the 1915 paper on the correlation coefficient, the degrees-of-freedom controversy for chi-squared, the 1922 and 1925 papers on statistical estimation, Statistical Methods for Research Workers (1925), conditional inference, the Design of Experiments (1935), the dispute with Neyman, discriminant analysis, the sampling of species, dispersion on a sphere, fiducial inference, and Statistical Methods and Scientific Inference (1956).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS300 LEC
-DTSTART;TZID=America/Los_Angeles:20170627T103000
-CREATED:20170211T124005
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180626T103000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

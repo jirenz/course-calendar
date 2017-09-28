@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170411T162000
-LAST-MODIFIED:20170211T124026
-UID:explore_courses62142fa8-dda2-45cb-92b8-c590b4f9c2e7
-DTSTAMP:20170211T124026
+DTEND;TZID=America/Los_Angeles:20180410T162000
+LAST-MODIFIED:20170927T175743
+UID:explore_coursese3ba1947-08d6-4c82-ac50-1cd16bafabd6
+DTSTAMP:20170927T175743
 LOCATION:
-DESCRIPTION:The course will be structured around the perspective of a high net worth individual who has decided to devote substantial resources to philanthropy and wishes to decide which philanthropic goals to pursue and how best to achieve them.  Although there are no formal prerequisites for the course, we will assume that students have experience working at a foundation, nonprofit organization, impact investing fund, or similar organization, or have taken an introductory course in strategic philanthropy such as GSBGEN 381. (There is sufficient overlap with Paul Brest's Autumn course, Measuring and Improving the Impact of Social Enterprises (GSBGEN 322), that students taking that course should not enroll in this one.)  nnWe will explore selected topics including: nn- the roles of the philanthropic and nonprofit sectors in society;n- choosing philanthropic goals, and whether giving to the poor is morally obligatory ;n- the justifications for tax-subsidized philanthropy;n- alternative legal and organizational structures to carry out philanthropic programs, including donor-advised funds, direct giving, foundations;n- whether foundations should exist in perpetuity or spend down over a finite number of years;n- fundamentals of nonprofit strategy;n- designing performance metrics (KPIs) and measuring philanthropic impact;n- barriers to the practice of strategic philanthropy;n- fundamentals of investment management for pools of philanthropic capital;n- socially motivated criteria for investing, including PRIs, MRIs, SRIs, and negative screens;n- impact investing and investor-funded pay for success programs.
+DESCRIPTION:The course will be structured around the perspective of a foundation or a high net worth individual who has decided to devote substantial resources to philanthropy and wishes to decide which philanthropic goals to pursue and how best to achieve them.  Although there are no formal prerequisites for the course, we will assume that students have experience working at a foundation, nonprofit organization, impact investing fund, or similar organization, or have taken an introductory course in strategic philanthropy such as GSBGEN 381. (With the exception of several classes on strategy and evaluation, there is no substantial overlap with Paul Brest's course, Problem Solving for Social Change (GSBGEN 367) , which has a different focus from this one.)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GSBGEN319 CAS
-DTSTART;TZID=America/Los_Angeles:20170411T150000
-CREATED:20170211T124026
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170606T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180410T150000
+CREATED:20170927T175743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180605T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

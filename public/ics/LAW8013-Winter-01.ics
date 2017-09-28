@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T110000
-LAST-MODIFIED:20170211T124029
-UID:explore_coursesedf2ce42-52a8-46d8-905e-2ebd7a6012c3
-DTSTAMP:20170211T124029
-LOCATION:Law271
+DTEND;TZID=America/Los_Angeles:20180111T110000
+LAST-MODIFIED:20170927T175752
+UID:explore_coursesdf501fb6-1a67-4eac-a955-62d0121854b2
+DTSTAMP:20170927T175752
+LOCATION:
 DESCRIPTION:(Formerly Law 707)  This is a mandatory course for SPILS Fellows as part of the program's core curriculum. Its main goal is to offer students an interdisciplinary perspective about socio-legal research, and research tools for implementing their individual research projects. This Winter term workshop will complement the Research Design for Empirical Legal Studies Seminar taken in the Autumn by 1) expanding and elaborating on some of the methods analyzed during the seminar; and 2) assisting students in using such methods towards their individual research project. The workshop will consist of specialized sessions, most of them tailored towards the work of empirical research that occurs after the data collection phase. During the quarter the fellows are expected to submit drafts of different chapters of their thesis. If appropriate, the workshop may also include group and/or individual sessions designed to address the very specific needs of the research undertaken by the SPILS Fellows. Elements used in grading: Class participation, attendance and written assignments. Enrollment is restricted to SPILS fellows. The seminar is required for JSM graduation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW8013 SEM
-DTSTART;TZID=America/Los_Angeles:20170112T090000
-CREATED:20170211T124029
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T110000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T090000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T110000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

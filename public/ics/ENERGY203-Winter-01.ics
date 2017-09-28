@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T152000
-LAST-MODIFIED:20170211T124030
-UID:explore_coursesf1298f8c-9b1f-4887-9dfa-08d6aad1331e
-DTSTAMP:20170211T124030
-LOCATION:Green Earth Sciences131
+DTEND;TZID=America/Los_Angeles:20180110T162000
+LAST-MODIFIED:20170927T175941
+UID:explore_courses545071e0-f12d-48c3-a0b5-90160cd93622
+DTSTAMP:20170927T175941
+LOCATION:Green Earth Sciences104
 DESCRIPTION:Solving the global energy challenge will require the creation and successful scale-up of hundreds of new ventures. This project-based course provides a launchpad for the development and creation of transformational energy ventures and innovation models. Interdisciplinary teams will research, analyze, and develop detailed launch plans for high-impact opportunities in the context of the new energy venture development framework offered in this course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY203 SEM
-DTSTART;TZID=America/Los_Angeles:20170112T133000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180110T143000
+CREATED:20170927T175941
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

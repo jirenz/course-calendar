@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T192000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses875f8353-3164-4c5f-924b-cef4be0abd9a
-DTSTAMP:20170211T124041
-LOCATION:MSOBX303
+DTEND;TZID=America/Los_Angeles:20180108T192000
+LAST-MODIFIED:20170927T175908
+UID:explore_courses3c3c44e1-f14e-4047-ac92-b1f0cf3c936f
+DTSTAMP:20170927T175908
+LOCATION:Health Research & PolicyT138B
 DESCRIPTION:Second of a three-quarter course series that provides students with knowledge and concrete skills for working with and advocating for underserved populations. Through coursework and placements in community health clinics and social service organizations, student will broaden and deepen their understanding of the social and economic determinants of health, how they impact underserved populations, and the various levels at which these challenges can &iquest; and should &iquest; be addressed.  Student will engage in structured activities that center around supporting the mission of their placement organization:  direct service with clients and design and implementation of a capacity-building project.  Weekly Monday evening classroom meetings serve as a forum for teaching and training, discussion of class readings and placement experiences, project development, and troubleshooting and support.  Prerequisites:  MED 257A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED161B PRA
-DTSTART;TZID=America/Los_Angeles:20170109T173000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T192000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T173000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T192000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

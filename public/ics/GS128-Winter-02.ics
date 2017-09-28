@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T162000
-LAST-MODIFIED:20170211T124032
-UID:explore_courses971fb7a8-4c79-47ee-96a7-2ceba156de2c
-DTSTAMP:20170211T124032
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180110T162000
+LAST-MODIFIED:20170927T175944
+UID:explore_coursesaf351749-3aab-4ee9-9cc0-771e1cdc0d58
+DTSTAMP:20170927T175944
+LOCATION:320-241
 DESCRIPTION:The what, when, where, and how do we know it regarding life on land through time.  Fossil plants, fungi, invertebrates, and vertebrates (yes, dinosaurs) are all covered, including how all of those components interact with each other and with changing climates, continental drift, atmospheric composition, and environmental perturbations like glaciation and mass extinction.  The course involves both lecture and lab components.  Graduate students registering at the 200-level are expected to write a term paper, but can opt out of some labs where appropriate.
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:GS128 LAB
-DTSTART;TZID=America/Los_Angeles:20170111T133000
-CREATED:20170211T124032
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=WE
+SUMMARY:GS128 LBS
+DTSTART;TZID=America/Los_Angeles:20180110T133000
+CREATED:20170927T175944
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

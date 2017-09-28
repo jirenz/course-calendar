@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T115000
-LAST-MODIFIED:20170211T123952
-UID:explore_coursesad00e95e-087c-4c5b-a871-fe7297f25eb3
-DTSTAMP:20170211T123952
+DTEND;TZID=America/Los_Angeles:20180402T115000
+LAST-MODIFIED:20170927T175831
+UID:explore_courses37965e3c-e565-475c-ac3c-e42e1cba8588
+DTSTAMP:20170927T175831
 LOCATION:100-101K
 DESCRIPTION:(Undergraduate students must enroll in HUMBIO 122M. MD and Graduate students enroll in PEDS 212) An emerging area of inquiry. Topics include:  global migration trends, health  Issues/aspects of migration,  healthcare and the needs of immigrants in the US, and migrants as healthcare providers: a new area of inquiry in the US.  Class is structured to include: lectures lead by the instructor and possible guest speakers; seminar, discussion and case study sessions led by students. Upper division course with preference given to upperclassmen.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO122M SEM
-DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20170927T175831
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

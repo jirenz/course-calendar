@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T115000
-LAST-MODIFIED:20170211T124000
-UID:explore_courses84442bb3-9be4-44ab-8ec0-d667da615bfb
-DTSTAMP:20170211T124000
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses47563f76-e8c8-451c-9714-ab10cd131041
+DTSTAMP:20170927T175846
 LOCATION:Ceras 300
 DESCRIPTION:Focus is on the ideal of a just society, and the place of liberty and equality in it, in light of contemporary theories of justice and political controversies. Topics include financing schools and elections, regulating markets, discriminating against people with disabilities, and enforcing sexual morality. Counts as Writing in the Major for PoliSci majors.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI103 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20170211T124000
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T115000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

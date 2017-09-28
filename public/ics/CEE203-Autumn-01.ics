@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T152000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses02c109e8-2761-41c9-905a-795ea47f34e6
-DTSTAMP:20170211T124013
-LOCATION:Shriram Ctr BioChemE 104
+DTEND;TZID=America/Los_Angeles:20170926T152000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses59cfb888-94e0-4662-994a-8f6da26befba
+DTSTAMP:20170927T175952
+LOCATION:300-300
 DESCRIPTION:Introduction to probability modeling and statistical analysis in civil engineering. Emphasis is on the practical issues of model selection, interpretation, and calibration. Application of common probability models used in civil engineering including Poisson processes and extreme value distributions. Parameter estimation. Linear regression.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE203 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

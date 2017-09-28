@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T140500
-LAST-MODIFIED:20170211T124033
-UID:explore_courses3157f416-32dd-4e59-876e-76d3b3b83bae
-DTSTAMP:20170211T124033
+DTEND;TZID=America/Los_Angeles:20180403T140500
+LAST-MODIFIED:20170927T175857
+UID:explore_courses7347869c-4a17-4a27-b8c1-20350c4fb5b8
+DTSTAMP:20170927T175857
 LOCATION:Li Ka Shing Center, rms304/305
 DESCRIPTION:Acupuncture is part of a comprehensive system of traditional Chinese Medicine developed over the past two millennia.  This course reviews the history and theoretical basis of acupuncture for the treatment of various diseases as well as for the alleviation of pain.  Issues related to the incorporation of acupuncture into the current health care system and the efficacy of acupuncture in treating various diseases are addressed.  Includes practical, hands-on sections.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANES207 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T121500
-CREATED:20170211T124033
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T140500;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T121500
+CREATED:20170927T175857
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T140500;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

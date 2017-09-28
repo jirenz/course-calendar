@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T114500
-LAST-MODIFIED:20170211T124028
-UID:explore_courses63284c4e-1b43-4ae6-97d7-ce928d4a24c2
-DTSTAMP:20170211T124028
-LOCATION:GSB Gunn 101
+DTEND;TZID=America/Los_Angeles:20180109T114500
+LAST-MODIFIED:20170927T175745
+UID:explore_coursesc544e3a9-0ac0-49c0-b9a6-186e10f1cc56
+DTSTAMP:20170927T175745
+LOCATION:
 DESCRIPTION:Many of America's most successful entrepreneurial companies have been substantially influenced by professionally managed venture capital. This relationship is examined from both the entrepreneur's and the venture capitalist's perspective. From the point of view of the entrepreneur, the course considers how significant business opportunities are identified, planned, and built into real companies; how resources are matched with opportunity; and how, within this framework, entrepreneurs seek capital and other assistance from venture capitalists or other sources. From the point of view of the venture capitalist, the course considers how potential entrepreneurial investments are evaluated, valued, structured, and enhanced; how different venture capital strategies are deployed; and how venture capitalists raise and manage their own funds. The course includes a term-long project where students work in teams (4-5 students per team) to write a business plan (or a business model canvas) for a venture of the team's choosing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STRAMGT354 CAS
-DTSTART;TZID=America/Los_Angeles:20170110T100000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T114500;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T100000
+CREATED:20170927T175745
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T114500;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

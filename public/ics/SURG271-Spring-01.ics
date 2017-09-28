@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T132000
-LAST-MODIFIED:20170211T124052
-UID:explore_courses87e72e9c-dc33-4ae7-bf18-e1f9b9812587
-DTSTAMP:20170211T124052
-LOCATION:CCSR 0235
+DTEND;TZID=America/Los_Angeles:20180406T132000
+LAST-MODIFIED:20170927T175928
+UID:explore_coursesabb5ddf3-12b5-46bb-a41a-8c4dc58b9c4b
+DTSTAMP:20170927T175928
+LOCATION:CCSR 4205
 DESCRIPTION:This elective course for medical students explores areas of health and disease that are poorly understood presently.  A variety of topics are covered such as placebo effect, techniques of meditation, presence of extra-sensory  perception, and near death experiences.  Scientific evidence for and against these topics presented and discussed.  Current literature is evaluated and reading assignments are included. Pre-requisites: SURG 203A and SURG 203B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SURG271 SEM
-DTSTART;TZID=America/Los_Angeles:20170407T123000
-CREATED:20170211T124052
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180406T123000
+CREATED:20170927T175928
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

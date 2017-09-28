@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T152000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses6fe40885-ad4f-4c47-b673-e588d7af8e07
-DTSTAMP:20170211T123946
+DTEND;TZID=America/Los_Angeles:20170925T132000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses8be8d3cb-8d2c-4059-a4a9-0b523aa4aaf0
+DTSTAMP:20170927T175819
 LOCATION:Econ 218
-DESCRIPTION:The interaction between firms and consumers in markets that fall outside the benchmark competitive model. How firms acquire and exploit market power. Game theory and information economics to analyze how firms interact strategically. Topics include monopoly, price discrimination, oligopoly, collusion and cartel behavior, anti-competitive practices, the role of information in markets, anti-trust policy, and e-commerce. Sources include theoretical models, real-world examples, and empirical papers. Prerequisite: ECON 51.
+DESCRIPTION:The interaction between firms and consumers in markets that fall outside the benchmark competitive model. How firms acquire and exploit market power. Game theory and information economics to analyze how firms interact strategically. Topics include monopoly, price discrimination, oligopoly, collusion and cartel behavior, anti-competitive practices, the role of information in markets, anti-trust policy, and e-commerce. Sources include theoretical models, real-world examples, and empirical papers. Prerequisite: ECON 51 (Public Policy majors may take PUBLPOL 51 as a substitute for ECON 51).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON157 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T113000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

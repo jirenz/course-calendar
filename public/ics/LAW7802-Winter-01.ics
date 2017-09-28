@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T154500
-LAST-MODIFIED:20170211T124029
-UID:explore_coursescd187cd1-b069-421d-ae5a-08725eb08ae3
-DTSTAMP:20170211T124029
-LOCATION:Law190
+DTEND;TZID=America/Los_Angeles:20180108T154500
+LAST-MODIFIED:20170927T175933
+UID:explore_coursesa43a9eb2-a96d-479d-beed-d90e964720b0
+DTSTAMP:20170927T175933
+LOCATION:
 DESCRIPTION:(Formerly Law 226) The objective of financial accounting is to measure economic activity for decision-making. Financial statements are a key product of this measurement process and an important component of firms' financial reporting activities. This course is aimed at developing students' ability to read, understand, and use corporate financial statements. The primary focus is on understanding the mapping between underlying economic events and financial statements, and how this mapping can affect inferences about future firm profitability. To this end, the course will provide an introduction to: (1) accrual accounting concepts, principles and conventions; (2) the process of preparing and presenting the primary financial statements (income statement, balance sheet, and statement of cash flows); (3) the judgment involved and discretion allowed in making accounting choices; (4) the effects of accounting discretion on the quality of the (reported) financial information; and (5) the fundamentals of financial statement analysis. Class time will be allocated to a combination of short lectures and discussions of the assigned cases. The assigned cases are based on actual corporate financial statements and/or &quot;real life&quot; financial situations.  Elements used in grading:  Class participation, attendance, written assignments, final paper.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW7802 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T141500
-CREATED:20170211T124029
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T154500;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180108T141500
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T154500;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

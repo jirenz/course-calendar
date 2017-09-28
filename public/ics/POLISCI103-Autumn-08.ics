@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T182000
-LAST-MODIFIED:20170211T124000
-UID:explore_courses327561a6-5764-47f3-b84a-0698da3d56d0
-DTSTAMP:20170211T124000
-LOCATION:200-202
+DTEND;TZID=America/Los_Angeles:20170928T102000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses10627554-8acc-4140-bc03-d724f61af4b5
+DTSTAMP:20170927T175846
+LOCATION:Lathrop 292
 DESCRIPTION:Focus is on the ideal of a just society, and the place of liberty and equality in it, in light of contemporary theories of justice and political controversies. Topics include financing schools and elections, regulating markets, discriminating against people with disabilities, and enforcing sexual morality. Counts as Writing in the Major for PoliSci majors.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI103 DIS
-DTSTART;TZID=America/Los_Angeles:20160929T173000
-CREATED:20170211T124000
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T093000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

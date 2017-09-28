@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T005000
-LAST-MODIFIED:20170211T123936
-UID:explore_coursesc0ec2934-0795-4d0d-bb22-a0d8d063f132
-DTSTAMP:20170211T123936
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175757
+UID:explore_courses143c3990-ca70-48a7-9c82-c27bb27c1ab4
+DTSTAMP:20170927T175757
 LOCATION:80-204
 DESCRIPTION:Study of the human skeleton (a. k. a. human osteology), as it bears on other disciplines, including medicine, forensics, archaeology, and paleoanthropology (human evolution).  Basic bone biology, anatomy, and development, emphasizing hands-on examination and identification of human skeletal parts, their implications for determining an individual&iquest;s age, sex, geographic origin, and health status, and for the evolutionary history of our species.  Three hours of lecture and at least three hours of supervised and independent study in the lab each week.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO275 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T005000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175757
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

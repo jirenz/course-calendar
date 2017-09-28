@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170211T124020
-UID:explore_coursesc89f686e-c219-4008-951b-e6a39d468818
-DTSTAMP:20170211T124020
-LOCATION:540-108
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses9db793e0-300a-403d-acf6-6734bc410a2f
+DTSTAMP:20170927T180001
+LOCATION:460-429
 DESCRIPTION:Design and implementation of wireless networks and mobile systems. The course will commence with a short retrospective of wireless communication and initially touch on some of the fundamental physical layer properties of various wireless communication technologies. The focus will then shift to design of media access control and routing layers for various wireless systems. The course will also examine adaptations necessary at transport and higher layers to cope with node mobility and error-prone nature of the wireless medium. Finally, it will conclude with a brief overview of other related issues including emerging wireless/mobile applications. Prerequisites: EE 284
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE384E LEC
-DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

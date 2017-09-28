@@ -22,17 +22,45 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T213000
-LAST-MODIFIED:20170211T124041
-UID:explore_coursesd2f42e4d-c6c6-4345-83c9-7d7ad453ef63
-DTSTAMP:20170211T124041
+DTEND;TZID=America/Los_Angeles:20180420T223000
+LAST-MODIFIED:20170927T175933
+UID:explore_coursesee08d21a-3aa8-4bf8-9c98-045ac57d9204
+DTSTAMP:20170927T175933
 LOCATION:Li Ka Shing Center, room 208
-DESCRIPTION:The Practice of Happiness is a 1-unit credit course that provides students with tools and strategies to develop a sustainable approach to their happiness and well-being.  Students will learn breathwork- and meditation-based processes to decrease stress and increase happiness and peace. In addition, students will also engage in community-building group discussions, interactive processes, and study happiness-based research to discover for themselves what happiness is, and how it can be sustained as a personal practice.  In addition to weekly sessions, there are 3 mandatory back-to-back sessions over a weekend in the quarter- hours will be Friday: 6:30pm - 10pm; Saturday/Sunday: 1pm - 5pm (exact dates TBD). See yesplus.stanford.edu for further insight into the program. Enrollment limited; priority to residents of Castano Hall; others selected by application.
+DESCRIPTION:Meditation Practices for Wellbeing&quot; is a 1-unit course that provides students with tools and strategies to develop a sustainable approach to their happiness and wellbeing. Students will learn breathwork and meditation based techniques to decrease stress and increase peace and focus in day to day life. Students will also study happiness-based research and participate in community building discussions, yoga, and mindfulness processes to learn how wellness can be sustained as a personal practice. Class meets 5 evenings throughout the quarter, along with a mandatory mini retreat during the third week (Thursday 7 - 10 pm, Friday 7 - 10 pm, Saturday 12 - 3 pm). Open to all students, including freshmen and those new to meditation.  Enrollment limited to 25. Admission by application, details at first class. See yesplus.stanford.edu for more information.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED130 WKS
-DTSTART;TZID=America/Los_Angeles:20170406T200000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T213000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180420T183000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180420T223000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180421T152000
+LAST-MODIFIED:20170927T175933
+UID:explore_courseseb36c333-0ca6-4d3c-adf2-d427e09d62e3
+DTSTAMP:20170927T175933
+LOCATION:Li Ka Shing Center, room 208
+DESCRIPTION:Meditation Practices for Wellbeing&quot; is a 1-unit course that provides students with tools and strategies to develop a sustainable approach to their happiness and wellbeing. Students will learn breathwork and meditation based techniques to decrease stress and increase peace and focus in day to day life. Students will also study happiness-based research and participate in community building discussions, yoga, and mindfulness processes to learn how wellness can be sustained as a personal practice. Class meets 5 evenings throughout the quarter, along with a mandatory mini retreat during the third week (Thursday 7 - 10 pm, Friday 7 - 10 pm, Saturday 12 - 3 pm). Open to all students, including freshmen and those new to meditation.  Enrollment limited to 25. Admission by application, details at first class. See yesplus.stanford.edu for more information.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED130 WKS
+DTSTART;TZID=America/Los_Angeles:20180421T113000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180421T152000;BYDAY=SA
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180405T195000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses26d175c2-b764-4bee-8120-54d71b4cb686
+DTSTAMP:20170927T175933
+LOCATION:Li Ka Shing Center, room 208
+DESCRIPTION:Meditation Practices for Wellbeing&quot; is a 1-unit course that provides students with tools and strategies to develop a sustainable approach to their happiness and wellbeing. Students will learn breathwork and meditation based techniques to decrease stress and increase peace and focus in day to day life. Students will also study happiness-based research and participate in community building discussions, yoga, and mindfulness processes to learn how wellness can be sustained as a personal practice. Class meets 5 evenings throughout the quarter, along with a mandatory mini retreat during the third week (Thursday 7 - 10 pm, Friday 7 - 10 pm, Saturday 12 - 3 pm). Open to all students, including freshmen and those new to meditation.  Enrollment limited to 25. Admission by application, details at first class. See yesplus.stanford.edu for more information.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED130 WKS
+DTSTART;TZID=America/Los_Angeles:20180405T183000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T195000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

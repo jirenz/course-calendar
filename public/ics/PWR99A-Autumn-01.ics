@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T172000
-LAST-MODIFIED:20170211T124010
-UID:explore_courses3c1f85b2-b67d-493d-86ed-ef4d45f4315a
-DTSTAMP:20170211T124010
+DTEND;TZID=America/Los_Angeles:20170928T172000
+LAST-MODIFIED:20170927T175750
+UID:explore_coursese660b2f3-d9e5-4abc-a7f1-f32930c30d81
+DTSTAMP:20170927T175750
 LOCATION:160-127
 DESCRIPTION:A 1-unit course introducing ePortfolios and folio thinking for students in the Notation in Science Communication (NSC).  The course will assist students in designing a rhetorical ePortfolio and in selecting and reflecting on writing samples that represent student learning in science communication. This is the first of a two-part ePortfolio requirement for the NSC. For more information, see https://undergrad.stanford.edu/programs/pwr/explore/notation-science-writing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR99A PRA
-DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170211T124010
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170928T163000
+CREATED:20170927T175750
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

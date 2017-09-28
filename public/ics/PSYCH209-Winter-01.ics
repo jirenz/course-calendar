@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170211T124001
-UID:explore_courses75e6a6a9-d8bd-4cf8-8dc6-8f3ddfd6e5ad
-DTSTAMP:20170211T124001
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175847
+UID:explore_coursescfc61754-963d-434f-a3ff-b500f6cf7537
+DTSTAMP:20170927T175847
 LOCATION:420-417
 DESCRIPTION:Neural Network models of cognitive and developmental processes and the neural basis of these processes, including contemporary deep learning models.  Students learn about fundamental computational principles and classical as well as contemporary applications and carry out exercises in the first six weeks, then undertake projects during the last four weeks of the quarter. Recommended: computer programming ability, familiarity with differential equations, linear algebra, and probability theory, and one or more courses in cognition, cognitive development or cognitive/systems neuroscience.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH209 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175847
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

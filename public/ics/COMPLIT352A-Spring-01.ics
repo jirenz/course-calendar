@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T122000
-LAST-MODIFIED:20170211T123943
-UID:explore_coursesa08ee39a-6f51-41b3-8049-e1f65829ce0e
-DTSTAMP:20170211T123943
-LOCATION:540-103
+DTEND;TZID=America/Los_Angeles:20180404T132000
+LAST-MODIFIED:20170927T175811
+UID:explore_coursese6e6060a-3bea-4e39-8f7b-ecc313be359f
+DTSTAMP:20170927T175811
+LOCATION:School of Education 206
 DESCRIPTION:A study of the novel as generic form and site of theorization for African writers and scholars of literature, via close reading of key works of fiction and critical analysis. We will consider the place of historical and cultural context in creative and artistic production, publication, and reception within the continent and beyond it. We will certainly pay close attention to innovation at the level of form, theme, plot, characterization, style or poetics. But we will also attend to questions that arise with the formation of African literature as an autonomous corpus and field, including those critical questions that concern uses of orality, performance, and tradition as indices of authenticity; the challenges and possibilities of language; and the common presumption of the nation as realist or allegorical frame, as well as its complex relationship to class, gender, and ethnic minoritization.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPLIT352A SEM
-DTSTART;TZID=America/Los_Angeles:20170405T103000
-CREATED:20170211T123943
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T113000
+CREATED:20170927T175811
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

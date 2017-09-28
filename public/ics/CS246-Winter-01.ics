@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T162000
-LAST-MODIFIED:20170211T124018
-UID:explore_courses737611a6-0b6b-43f5-a1f6-1535c9a63ece
-DTSTAMP:20170211T124018
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses3e5272d0-3a9a-4ab5-8ea4-bd5c1a327b1f
+DTSTAMP:20170927T175958
 LOCATION:NVIDIA Auditorium
-DESCRIPTION:The course will discuss data mining and machine learning algorithms for analyzing very large amounts of data. The emphasis will be on Map Reduce as a tool for creating parallel algorithms that can process very large amounts of data. Topics include: Frequent itemsets and Association rules, Near Neighbor Search in High Dimensional Data, Locality Sensitive Hashing (LSH), Dimensionality reduction, Recommender Systems, Clustering, Link Analysis, Large-scale machine learning, Data streams,  Analysis of Social-network Graphs, and Web Advertising. Prerequisites: At lease one of CS107 or CS145; At least one of CS109 or STAT116, or equivalent.
+DESCRIPTION:Availability of massive datasets is revolutionizing science and industry. This course discusses data mining and machine learning algorithms for analyzing very large amounts of data. The focus is on algorithms and systems for mining big data. nTopics include: Big data systems (Hadoop, Spark, Hive); Link Analysis (PageRank, spam detection, hubs-and-authorities); Similarity search (locality-sensitive hashing, shingling, minhashing, random hyperplanes); Stream data processing; Analysis of social-network graphs; Association rules; Dimensionality reduction (UV, SVD, and CUR decompositions); Algorithms for very-large-scale mining (clustering, nearest-neighbor search); Large-scale machine learning (gradient descent, support-vector machines, classification, and regression); Submodular function optimization; Computational advertising. Prerequisites: At least one of CS107 or CS145.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS246 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

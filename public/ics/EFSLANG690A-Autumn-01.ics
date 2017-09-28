@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20170211T123947
-UID:explore_courses48fb3312-a11a-4fe1-b9d3-253a11ce6c18
-DTSTAMP:20170211T123947
-LOCATION:160-B40
+DTEND;TZID=America/Los_Angeles:20170925T145000
+LAST-MODIFIED:20170927T175821
+UID:explore_courses7fc9200d-7b43-4116-aad6-e6db71d901c1
+DTSTAMP:20170927T175821
+LOCATION:260-008
 DESCRIPTION:Strategies for communicating effectively in social and academic settings. Informal and formal language used in campus settings, including starting and maintaining conversations, asking questions, making complaints, and contributing ideas and opinions. Simulations and discussions, with feedback on pronunciation, grammar, and usage. Enrollment limited to 14.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EFSLANG690A LNG
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

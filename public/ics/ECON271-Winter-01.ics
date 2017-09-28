@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses63564fe1-25f3-412f-936c-52d55f60cec2
-DTSTAMP:20170211T123946
-LOCATION:Econ 139
-DESCRIPTION:Linear regression model, relaxation of classical-regression assumptions, simultaneous equation models, linear time series analysis. Limited enrollment. Prerequisite: 270.
+DTEND;TZID=America/Los_Angeles:20180108T152000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses8a50c2ee-ab54-4776-8300-7f946dcf8b9a
+DTSTAMP:20170927T175819
+LOCATION:Econ 140
+DESCRIPTION:Linear regression model, relaxation of classical-regression assumptions, simultaneous equation models, linear time series analysis, nonlinear estimation. Limited enrollment. Prerequisite: 270.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON271 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

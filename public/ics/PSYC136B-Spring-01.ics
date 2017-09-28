@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170211T124049
-UID:explore_courses206ce76a-fda9-4ab2-8ba7-89ad784f47f9
-DTSTAMP:20170211T124049
-LOCATION:McMurtry Building 102, Oshman
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20170927T175923
+UID:explore_coursesba59cf31-10ea-4108-87a0-162bfbb71870
+DTSTAMP:20170927T175923
+LOCATION:School of Education 206
 DESCRIPTION:Apply scientific methods and principles to discern and realize value. Read history, philosophy, ecology, economics, sociology, linguistics and psychology pertinent to emergence of valuescience as foundation for an increasing range of human action. Explore perceptual, cognitive, and cultural impediments to valuescience, strategies for overcoming these, and personal and social benefits of doing so. 4 units includes weekly practice (e.g., meditation, aerobic exercise). Students may enroll in PSYC 136A or PSYC 136B or both. Either may be taken first.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYC136B SEM
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T124049
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T175923
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

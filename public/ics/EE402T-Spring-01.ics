@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T175000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses31d8fe6b-4ee6-4aa4-b6e4-74b26ce1c99a
-DTSTAMP:20170211T124020
-LOCATION:Skillaud
-DESCRIPTION:Distinctive patterns and challenges of entrepreneurship in Asia; update of business and technology issues in the creation and growth of start-up companies in major Asian economies. Distinguished speakers from industry, government, and academia. Course may be repeated for credit.
+DTEND;TZID=America/Los_Angeles:20180403T175000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses0b6be8e1-cca8-463c-bfc3-e6138cf34816
+DTSTAMP:20170927T180001
+LOCATION:Bishop Auditorium
+DESCRIPTION:Distinctive patterns and challenges of entrepreneurship in Asia; update of business and technology issues in the creation and growth of start-up companies in major Asian economies.  Distinguished speakers from industry, government, and academia.
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:EE402T SEM
-DTSTART;TZID=America/Los_Angeles:20170404T163000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU
+SUMMARY:EE402T LEC
+DTSTART;TZID=America/Los_Angeles:20180403T163000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

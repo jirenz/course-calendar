@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T112000
-LAST-MODIFIED:20170211T124045
-UID:explore_courses912a61bb-0328-423a-9e03-ab5898c5c180
-DTSTAMP:20170211T124045
-LOCATION:Li Ka Shing Center, rms205/206
+DTEND;TZID=America/Los_Angeles:20180404T112000
+LAST-MODIFIED:20170927T175916
+UID:explore_coursesafdd43b6-f306-4c54-8281-f80cce34f7ae
+DTSTAMP:20170927T175916
+LOCATION:Li Ka Shing Center, room 208
 DESCRIPTION:Comprehensive clinical experience where pre-clinical medical students follow pregnant women receiving care at Stanford hospitals to attend prenatal visits, delivery, and postnatal visits. Continuity clinic format, combined with didactic lessons and discussion seminars. Students are exposed to clinical activities in a meaningful context, bolstering classroom studies in anatomy, physiology, embryology and human development, and emphasizing social, economic, and personal issues related to medicine. This program spans one quarter, covering topics related to pregnancy, labor and delivery and newborn care. In addition to clinic experiences, students are expected to spend 1-2 hours/week in lectures and to complete a reflection of their experiences in the course.  Prerequisite: pre-clinical medical student.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OBGYN282 LEC
-DTSTART;TZID=America/Los_Angeles:20170405T093000
-CREATED:20170211T124045
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170531T112000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T093000
+CREATED:20170927T175916
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

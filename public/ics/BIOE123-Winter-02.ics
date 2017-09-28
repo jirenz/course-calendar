@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T172000
-LAST-MODIFIED:20170211T124011
-UID:explore_courses93a1be19-a76d-4c2e-8812-9a63e3e05484
-DTSTAMP:20170211T124011
+DTEND;TZID=America/Los_Angeles:20180109T172000
+LAST-MODIFIED:20170927T175948
+UID:explore_coursesb377a7c2-d731-432d-abbd-3a83bcaf3cbd
+DTSTAMP:20170927T175948
 LOCATION:
-DESCRIPTION:The Bioengineering System Prototyping Laboratory is a fast-paced, team-based system engineering experience, in which teams of 2-3 students design and build a fermenter that meets a set of common requirements along with a set of unique team-determined requirements.  Students learn-by-doing hands-on skills in electronics and mechanical design and fabrication.  Teams also develop process skills and an engineering mindset by aligning specifications with requirements, developing output metrics and measuring performance, and creating project proposals and plans.  The course culminates in demonstration of a fully functioning fermenter that meets the teams' self-determined metrics.nnLearning goals:n1.	Hands-on skills and experience with design, fabrication, integration, and characterization of practical electronic and mechanical hardware systems relevant to Bioengineeringn2.	Practice using modern rapid prototyping and device equipment and techniques, including CAD, 3D printing,  laser cutting, microcontrollers, design thinkingn3.	Experience working as a team to build an end-to-end functional biomedical system (e.g., a fermenter)nnPrerequisites: BIOE 41 and Matlab recommended.
+DESCRIPTION:The Bioengineering System Prototyping Laboratory is a fast-paced, team-based system engineering experience, in which teams of 2-3 students design and build a fermenter that meets a set of common requirements along with a set of unique team-determined requirements. Students learn-by-doing hands-on skills in electronics and mechanical design and fabrication.  Teams also develop process skills and an engineering mindset by aligning specifications with requirements, developing output metrics and measuring performance, and creating project proposals and plans. The course culminates in demonstration of a fully functioning fermenter that meets the teams' self-determined metrics. n nLearning goals: 1) Design, fabricate, integrate, and characterize practical electronic and mechanical hardware systems that meet clear requirements in the context of Bioengineering (i.e., build something that works).  2) Use prototyping tools, techniques, and instruments, including: CAD, 3D printing, laser cutting, microcontrollers, and oscilloscopes.  3) Create quantitative system specifications and test measurement plans to demonstrate that a design meets user requirements.  4) Communicate design elements, choices, specifications, and performance through design reviews and written reports.  5) Collaborate as a team member on a complex system design project (e.g., a fermenter). n nLimited enrollment, with priority for Bioengineering undergraduates. Prerequisites:  Physics 43, or equivalent. Experience with Matlab and/or Python is recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE123 LBS
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T114500
-LAST-MODIFIED:20170211T124026
-UID:explore_courses04ca3b85-3cec-41c2-9537-5aada69184ec
-DTSTAMP:20170211T124026
-LOCATION:GSB Class of 1968 105
+DTEND;TZID=America/Los_Angeles:20180108T114500
+LAST-MODIFIED:20170927T175743
+UID:explore_courses38a9dff2-dc84-4429-ae5c-cbecc7600f74
+DTSTAMP:20170927T175743
+LOCATION:
 DESCRIPTION:The major objective of this course is to provide the student with an understanding of the fundamentals of real estate investment. The course covers land economics, market analysis, finance, taxation, investment analysis, investment vehicles, real estate risk, development and urban design. Major land uses are discussed including apartments, retail, office, and industrial. The course is designed for students with limited or no background in real estate.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GSBGEN306 CAS
-DTSTART;TZID=America/Los_Angeles:20170109T100000
-CREATED:20170211T124026
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T114500;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20180108T100000
+CREATED:20170927T175743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T114500;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

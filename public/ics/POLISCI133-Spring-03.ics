@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T112000
-LAST-MODIFIED:20170211T124000
-UID:explore_courses36fd53b5-e5a2-42de-8b1f-830882345cb6
-DTSTAMP:20170211T124000
-LOCATION:Econ 139
+DTEND;TZID=America/Los_Angeles:20180405T182000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses8e774ad7-a2a2-4242-b885-3765ed4cc14a
+DTSTAMP:20170927T175846
+LOCATION:160-314
 DESCRIPTION:Ethical and political questions in public service work, including volunteering, service learning, humanitarian assistance, and public service professions such as medicine and teaching. Motives and outcomes in service work. Connections between service work and justice. Is mandatory service an oxymoron? History of public service in the U.S. Issues in crosscultural service work. Integration with the Haas Center for Public Service to connect service activities and public service aspirations with academic experiences at Stanford.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI133 DIS
-DTSTART;TZID=America/Los_Angeles:20170406T103000
-CREATED:20170211T124000
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T173000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

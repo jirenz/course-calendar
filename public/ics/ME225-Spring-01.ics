@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T202000
-LAST-MODIFIED:20170211T124023
-UID:explore_courses56da6de6-6460-47de-9f85-dc1aa6e48d57
-DTSTAMP:20170211T124023
+DTEND;TZID=America/Los_Angeles:20180402T202000
+LAST-MODIFIED:20170927T180006
+UID:explore_courses67e166e3-13f7-47f6-9b9a-0c8bd9e29e4f
+DTSTAMP:20170927T180006
 LOCATION:550-200
 DESCRIPTION:Mystery of Manufacturing is intended for design- and engineering-oriented students who anticipate or have an interest in launching products.  Where the cousin of this class, ME219, is an overview of fabrication and factory systems, this course will look at manufacturing systems more holistically:  what does it take to get a product from your idea into peoples' hands?  We'll look at factors that drive location, distribution, and supply chain decisions, and we'll look closely at the inner workings of factories.  nnnThis course assumes basic knowledge of materials and manufacturing processes resulting from ENGR 50, ME 203, ME 219 or equivalent course/life experience. The goal is to acquire a professional foundation in factory manufacturing systems and the business of manufacturing through story-telling, essay writing, and multimedia presentation. We hope students will exhibit a deep and life-long love of the complexity and flexibility of manufacturing systems in order to launch great products into the world.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME225 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T173000
-CREATED:20170211T124023
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T202000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T173000
+CREATED:20170927T180006
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T202000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

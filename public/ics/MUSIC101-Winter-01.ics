@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20170211T123957
-UID:explore_courses03b9518a-2939-4b88-bb64-4709daa099f8
-DTSTAMP:20170211T123957
-LOCATION:Dinkelspiel  Rehearsal Room
+DTEND;TZID=America/Los_Angeles:20180109T122000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses830867b3-e23a-4a6e-8ab7-38ddc8c8c58d
+DTSTAMP:20170927T175841
+LOCATION:Knoll317
 DESCRIPTION:Students to explore their creative voices by learning the practical nuts and bolts of making sounds with computers and professional audio equipment. Basic concepts include mixing and production techniques used in podcasts, documentaries, live performance, electronic music, and sound art. Students will create a midterm soundscape project as well as a final class project that is focused on their particular creative interests.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC101 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

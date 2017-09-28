@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T154500
-LAST-MODIFIED:20170211T124029
-UID:explore_coursesd875453b-a85a-4efd-90f4-be28bc708679
-DTSTAMP:20170211T124029
-LOCATION:Law272
-DESCRIPTION:(Formerly Law 741)  This course will introduce students to the &quot;law and economics&quot; way of thinking about the legal system. It is designed primarily for students who have little or no prior training in economics and who are unlikely to take more advanced courses in the field (such as the 3 unit Law 7502, &quot;Economic Analysis of Law&quot;). This class will meet for six 1.5 hour sessions during the first part of the quarter. We will focus on the core bodies of law taught to first-year law students: tort law, contract law, property law, criminal law, and civil procedure. For each of these bodies of law, the economic approach will be described in non-technical terms and then this approach will be used to examine a key case or key issue within that body of law. First-year law students are especially welcome in this course. There are no prerequisites to take this course. Elements used in grading: Three short take-home exercises (graded on a mandatory pass-fail basis).
+DTEND;TZID=America/Los_Angeles:20180110T154500
+LAST-MODIFIED:20170927T175752
+UID:explore_courses76658a0f-f816-4ef3-b72c-6a0b41a30277
+DTSTAMP:20170927T175752
+LOCATION:
+DESCRIPTION:(Formerly Law 741) This course will introduce students to the &quot;law and economics&quot; way of thinking about the legal system. It is designed primarily for students who have little or no prior training in economics and who are unlikely to take more advanced courses in the field (such as the 3 unit Law 7502, &quot;Economic Analysis of Law&quot;). This class will meet for six 1.5 hour sessions during the first part of the quarter. We will focus on the core bodies of law taught to first-year law students: tort law, contract law, property law, criminal law, and civil procedure. For each of these bodies of law, the economic approach will be described in non-technical terms and then this approach will be used to examine a key case or key issue within that body of law. First-year law students are especially welcome in this course. There are no prerequisites to take this course. Elements used in grading: Two short take-home exercises (graded on a mandatory pass-fail basis).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW7503 LEC
-DTSTART;TZID=America/Los_Angeles:20170111T141500
-CREATED:20170211T124029
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T154500;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T141500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T154500;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

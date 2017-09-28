@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T175000
-LAST-MODIFIED:20170211T124004
-UID:explore_coursesa86c08a2-bcc3-43d9-97fc-79ceca295473
-DTSTAMP:20170211T124004
+DTEND;TZID=America/Los_Angeles:20180109T175000
+LAST-MODIFIED:20170927T175851
+UID:explore_courses40315c0d-c232-4ab6-8d43-35c23eb9553e
+DTSTAMP:20170927T175851
 LOCATION:Lathrop 292
-DESCRIPTION:Preference to Sociology doctoral students. Required for Ph.D. in Sociology. Enrollment limited to first-year Sociology doctoral students. Rigorous treatment of linear regression models, model assumptions, and various remedies for when these assumptions are violated. Introduction to panel data analysis. Enrollment limited to 15. Prerequisites: 381.
+DESCRIPTION:Preference to Sociology doctoral students. Other students by instructor permission only.  Required for Ph.D. in Sociology. Enrollment limited to first-year Sociology doctoral students. Rigorous treatment of linear regression models, model assumptions, and various remedies for when these assumptions are violated. Introduction to panel data analysis. Enrollment limited to 15. Prerequisites: 381.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC382 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T163000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T163000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

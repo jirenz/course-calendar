@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T122000
-LAST-MODIFIED:20170211T123953
-UID:explore_courses32dd9285-b439-4385-86f4-9dd621e15218
-DTSTAMP:20170211T123953
-LOCATION:Encina West 101
+DTEND;TZID=America/Los_Angeles:20180402T122000
+LAST-MODIFIED:20170927T175832
+UID:explore_coursesdf84e80c-ca5b-4104-acc2-008b55ed658f
+DTSTAMP:20170927T175832
+LOCATION:Encina West 106
 DESCRIPTION:For juniors planning to write an honors thesis during senior year. Initial steps to prepare for independent research. Professional tools for conceptualizing a research agenda and developing a research strategy. Preparation for field research through skills such as data management and statistics, references and library searches, and fellowship and grant writing. Creating a work schedule for the summer break and first steps in writing. Prerequisite: acceptance to IR honors program.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INTNLREL200A SEM
-DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20170211T123953
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T093000
+CREATED:20170927T175832
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

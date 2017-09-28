@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T172000
-LAST-MODIFIED:20170211T124041
-UID:explore_coursesf268b29e-1556-46bc-b5cc-b2c2fc9c4cb4
-DTSTAMP:20170211T124041
-LOCATION:CCSR 4205
-DESCRIPTION:Presence. The Art and Science of Human Connection in Medicine is a new center, founded and lead by Dr. Abraham Verghese (http://med.stanford.edu/presence.html). This course partners with IDEO (https://www.ideo.com/) to bring design thinking to address the challenges of diagnostic error in medicine. Dr. Verghese and colleagues will outline the consequences of the lack of presence in the clinical encounter. IDEO's design thinking will be taught by Dr. Jayant Menon, Dr. Farzad Azimpour and Grace Hwang. Class participants will be divided into small groups and designated coaches. Each group will work with the course leadership to define a specific challenge and utilize the design thinking process to create deployable solutions. In class lectures and workshops will be held on campus on Tuesdays from 3.30-5 p.m., and IDEO (Forest Av, Palo Alto) based small group meetings will be held on Thursdays from 5.30-6.20pm. Admission is selective and requires all applicants submit an application before March 1, 2017. Applications can be found at https://goo.gl/forms/7mCI7vf8PbcdVG0m1 nQuestions should emailed to sonoot@stanford.edu
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:MED267 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T153000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=TU
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T182000
-LAST-MODIFIED:20170211T124041
-UID:explore_coursescbece81a-3f8d-4d8a-99bd-9d92324c62c0
-DTSTAMP:20170211T124041
+DTEND;TZID=America/Los_Angeles:20180405T182000
+LAST-MODIFIED:20170927T175908
+UID:explore_coursesbc7c0b18-9e6f-4bbd-8d58-8170a5c21a5e
+DTSTAMP:20170927T175908
 LOCATION:
 DESCRIPTION:Presence. The Art and Science of Human Connection in Medicine is a new center, founded and lead by Dr. Abraham Verghese (http://med.stanford.edu/presence.html). This course partners with IDEO (https://www.ideo.com/) to bring design thinking to address the challenges of diagnostic error in medicine. Dr. Verghese and colleagues will outline the consequences of the lack of presence in the clinical encounter. IDEO's design thinking will be taught by Dr. Jayant Menon, Dr. Farzad Azimpour and Grace Hwang. Class participants will be divided into small groups and designated coaches. Each group will work with the course leadership to define a specific challenge and utilize the design thinking process to create deployable solutions. In class lectures and workshops will be held on campus on Tuesdays from 3.30-5 p.m., and IDEO (Forest Av, Palo Alto) based small group meetings will be held on Thursdays from 5.30-6.20pm. Admission is selective and requires all applicants submit an application before March 1, 2017. Applications can be found at https://goo.gl/forms/7mCI7vf8PbcdVG0m1 nQuestions should emailed to sonoot@stanford.edu
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED267 SEM
-DTSTART;TZID=America/Los_Angeles:20170406T173000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T182000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T173000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T172000
+LAST-MODIFIED:20170927T175908
+UID:explore_courses22819fa9-8e91-4b4c-bc91-6bcdd2600ff6
+DTSTAMP:20170927T175908
+LOCATION:
+DESCRIPTION:Presence. The Art and Science of Human Connection in Medicine is a new center, founded and lead by Dr. Abraham Verghese (http://med.stanford.edu/presence.html). This course partners with IDEO (https://www.ideo.com/) to bring design thinking to address the challenges of diagnostic error in medicine. Dr. Verghese and colleagues will outline the consequences of the lack of presence in the clinical encounter. IDEO's design thinking will be taught by Dr. Jayant Menon, Dr. Farzad Azimpour and Grace Hwang. Class participants will be divided into small groups and designated coaches. Each group will work with the course leadership to define a specific challenge and utilize the design thinking process to create deployable solutions. In class lectures and workshops will be held on campus on Tuesdays from 3.30-5 p.m., and IDEO (Forest Av, Palo Alto) based small group meetings will be held on Thursdays from 5.30-6.20pm. Admission is selective and requires all applicants submit an application before March 1, 2017. Applications can be found at https://goo.gl/forms/7mCI7vf8PbcdVG0m1 nQuestions should emailed to sonoot@stanford.edu
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED267 SEM
+DTSTART;TZID=America/Los_Angeles:20180403T153000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

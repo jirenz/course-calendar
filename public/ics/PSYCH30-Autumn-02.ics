@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T172000
-LAST-MODIFIED:20170211T124001
-UID:explore_courses959c015a-91f6-4342-879f-6fa662098511
-DTSTAMP:20170211T124001
-LOCATION:200-013
+DTEND;TZID=America/Los_Angeles:20170928T172000
+LAST-MODIFIED:20170927T175847
+UID:explore_courses7437240e-98f7-4dac-997f-675365230cab
+DTSTAMP:20170927T175847
+LOCATION:380-380F
 DESCRIPTION:Behavioral and neural aspects of perception focusing on visual and auditory perception. Topics include: scientific methods for studying perception, anatomy and physiology of the visual and auditiory systems, color vision, depth perception, motion perception, stereopsis, visual recognition, pitch and loudness perception, speech perception, and reorganization of the visual system in the blind.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH30 DIS
-DTSTART;TZID=America/Los_Angeles:20160929T163000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T163000
+CREATED:20170927T175847
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

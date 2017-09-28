@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses3bd7966c-4b85-437f-a5a1-dc15085a88c7
-DTSTAMP:20170211T124013
-LOCATION:Hewlett Teaching Center Rm 101
+DTEND;TZID=America/Los_Angeles:20170925T122000
+LAST-MODIFIED:20170927T175952
+UID:explore_coursesba5dc894-2553-4af2-85d4-0f9fb021d5f2
+DTSTAMP:20170927T175952
+LOCATION:Y2E2 111
 DESCRIPTION:Physical properties of fluids and their effect on flow behavior; equations of motion for incompressible ideal flow, including the special case of hydrostatics; continuity, energy, and momentum principles; control volume analysis; laminar and turbulent flows; internal and external flows in specific engineering applications including pipes and open channels; elements of boundary-layer theory.  The Tuesday lectures, which are preparation for the labs, will start at 12:30pm.  Lab experiments will illustrate conservation principles and flows of real fluids, analysis of errors and modeling of simple fluid systems. Students seeking to take this course without the laboratory will need to enroll in CEE 162A but must get permission first from the instructor. Prerequisites: E14, Physics 41, Math 51, or CME 100.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE101B LEC
-DTSTART;TZID=America/Los_Angeles:20160927T120000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170211T124013
-UID:explore_coursesb5ce44f0-cb3f-405a-9b9e-01141de4a00d
-DTSTAMP:20170211T124013
-LOCATION:Hewlett Teaching Center Rm 101
-DESCRIPTION:Physical properties of fluids and their effect on flow behavior; equations of motion for incompressible ideal flow, including the special case of hydrostatics; continuity, energy, and momentum principles; control volume analysis; laminar and turbulent flows; internal and external flows in specific engineering applications including pipes and open channels; elements of boundary-layer theory.  The Tuesday lectures, which are preparation for the labs, will start at 12:30pm.  Lab experiments will illustrate conservation principles and flows of real fluids, analysis of errors and modeling of simple fluid systems. Students seeking to take this course without the laboratory will need to enroll in CEE 162A but must get permission first from the instructor. Prerequisites: E14, Physics 41, Math 51, or CME 100.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:CEE101B LEC
-DTSTART;TZID=America/Los_Angeles:20160926T113000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T113000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

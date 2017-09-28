@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T165000
-LAST-MODIFIED:20170211T124030
-UID:explore_coursesadd4ce37-49ce-4be5-b600-fb3fbc30a74a
-DTSTAMP:20170211T124030
+DTEND;TZID=America/Los_Angeles:20180404T165000
+LAST-MODIFIED:20170927T175940
+UID:explore_coursesc408a1fb-47a5-4adc-b86c-169e14f67485
+DTSTAMP:20170927T175940
 LOCATION:
 DESCRIPTION:Field-based training in ecologically sound agricultural practices at the Stanford Community Farm. Weekly lessons, field work, and group projects. Field trips to educational farms in the area. Topics include: soils, composting, irrigation techniques, IPM, basic plant anatomy and physiology, weeds, greenhouse management, and marketing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS180 LBS
-DTSTART;TZID=America/Los_Angeles:20170405T150000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T165000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T150000
+CREATED:20170927T175940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T165000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

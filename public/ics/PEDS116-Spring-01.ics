@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T132000
-LAST-MODIFIED:20170211T124048
-UID:explore_courses8c999f9a-c739-4f68-9d45-1d3b7e79d535
-DTSTAMP:20170211T124048
-LOCATION:50-52H
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20170927T175922
+UID:explore_courses984a0569-f558-4801-b55c-55e9ac328c85
+DTSTAMP:20170927T175922
+LOCATION:
 DESCRIPTION:Multidisciplinary perspectives of public health, health psychology, and sociology. The prevalence and scope of alcohol-related problems; challenges of risk reduction and intervention strategies. Students apply theoretical frameworks to alcohol-related research topics and projects. Limited enrollment. Prerequisite: consent of instructor following first meeting.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PEDS116 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T120000
-CREATED:20170211T124048
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T120000
+CREATED:20170927T175922
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

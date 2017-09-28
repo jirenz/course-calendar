@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T153500
-LAST-MODIFIED:20170211T124028
-UID:explore_coursesac14a8d0-325e-43e1-9c7f-ff40bb3bd097
-DTSTAMP:20170211T124028
-LOCATION:Law85
-DESCRIPTION:(Formerly Law 238)  Federal, state and local administrative agencies affect vast areas of life and law practice, including regulation of the environment, immigration, and professional licensing, as well as government benefits.  But who is in charge of government agencies, and what can those agencies do? These are the major questions that permeate administrative law, which is concerned with fair and open government procedures and the checks and balances that control government agencies. Accordingly, this course is concerned with the constitutional rules and political pressures that shape agencies; how agencies promulgate regulations and adjudicate disputes; the major statutes affecting how agencies work, particularly the Administrative Procedure Act; and how courts review agency action.  Elements used in grading:  Final Exam (essay, three hours, open book).
+DTEND;TZID=America/Los_Angeles:20180108T110000
+LAST-MODIFIED:20170927T175933
+UID:explore_coursesd411958f-80a9-447f-8ad4-336e9b6c9702
+DTSTAMP:20170927T175933
+LOCATION:
+DESCRIPTION:(Formerly Law 238)  Federal, state and local administrative agencies affect vast areas of life and law practice.  Their domain includes regulation of the environment, immigration, professional licensing, and many other areas of the economy as well as the provision of government benefits. It's fair to say that today we live in an administrative state -- which some would like to deconstruct. Administrative law is about the procedures (mostly prescribed by the federal and state Administrative Procedure Acts as well as constitutional due process) that agencies must follow when they adopt regulations or adjudicate disputes. It's also about the legislative, executive, and judicial checks and balances that control the agencies.  In particular, the course explores the nature and scope of judicial review of agency action. Elements used in grading: Final Exam (essay, three hours, open book).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW7001 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T141500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T153500;BYDAY=MO,TU,WE
+DTSTART;TZID=America/Los_Angeles:20180108T094000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T110000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

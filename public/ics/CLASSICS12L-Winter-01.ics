@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T123942
-UID:explore_coursese3b5ca13-ad38-4af9-9d5d-bd9d31f7a45a
-DTSTAMP:20170211T123942
-LOCATION:Green Library 351
-DESCRIPTION:(Formerly CLASSLAT 102.) In this class you will practice with and reinforce the advanced vocabulary, forms, and syntax of classical Latin you have previously acquired by reading continuous works of Latin prose (Cicero) and poetry (Catullus). While the primary emphasis of this course is on developing fluency in reading Latin, you will have opportunities to discuss and research the biographical, political, and literary issues raised by the readings. Your knowledge of the content and syntax of the readings will be assessed by several short translation/grammar quizzes. You will also sit for mid-quarter and end-quarter tests. Classics majors and minors may repeat for credit with advance approval from the Director of Undergraduate Studies.
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T175808
+UID:explore_coursese79af020-c584-4a2d-bd05-d2cebf84c151
+DTSTAMP:20170927T175808
+LOCATION:160-330
+DESCRIPTION:(Formerly CLASSLAT 102.) In this class you will practice with and reinforce the advanced vocabulary, forms, and syntax of classical Latin you have previously acquired. The primary emphasis of this course is on developing fluency in reading Latin. You will have opportunities to discuss topics and issues raised by the readings.Your knowledge of the content and syntax of the readings will be assessed by several short translation/grammar quizzes.Classics majors and minors may repeat for credit with advance approval from the Director of Undergraduate Studies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CLASSICS12L LNG
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170211T123942
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T175808
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T145000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses48e229ae-0579-459e-ac74-d4e90d471383
-DTSTAMP:20170211T124041
-LOCATION:Li Ka Shing Center, rms304/305
+DTEND;TZID=America/Los_Angeles:20180405T145000
+LAST-MODIFIED:20170927T175909
+UID:explore_courses7f8a998a-0947-4744-9b2e-4179087b0079
+DTSTAMP:20170927T175909
+LOCATION:Li Ka Shing Center, room 306
 DESCRIPTION:The interdisciplinary field of medical humanities: the use of the arts and humanities to examine medicine in personal, social, and cultural contexts. Topics include the doctor/patient relationship, the patient perspective, the meaning of doctoring, and the meaning of illness. Sources include visual and performing arts, film, and literary genres such as poetry, fiction, and scholarly writing. Designed for medical students in the Biomedical Ethics and Medical Humanities Scholarly Concentration, but all students are welcome.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE212 SEM
-DTSTART;TZID=America/Los_Angeles:20170406T133000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T133000
+CREATED:20170927T175909
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

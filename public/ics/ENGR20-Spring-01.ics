@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T152000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses5fd1282b-fbbb-419e-b6ec-171652515398
-DTSTAMP:20170211T124020
-LOCATION:Shriram Ctr BioChemE 104
+DTEND;TZID=America/Los_Angeles:20180402T152000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses61a7a74a-a206-4f71-af1d-c45e01a8b45c
+DTSTAMP:20170927T180001
+LOCATION:200-203
 DESCRIPTION:Overview of chemical engineering through discussion and engineering analysis of physical and chemical processes. Topics: overall staged separations, material and energy balances, concepts of rate processes, energy and mass transport, and kinetics of chemical reactions. Applications of these concepts to areas of current technological importance: biotechnology, energy, production of chemicals, materials processing, and purification. Prerequisite: CHEM 31.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR20 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T143000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T143000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

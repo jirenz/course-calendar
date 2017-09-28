@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170211T124011
-UID:explore_courses0e5aec76-238c-44d4-909d-d7691c9c05d2
-DTSTAMP:20170211T124011
-LOCATION:Clark Center S361
+DTEND;TZID=America/Los_Angeles:20180109T102000
+LAST-MODIFIED:20170927T175948
+UID:explore_courses5b7c9a6d-2fbb-4d19-a124-16c0b7c2ce87
+DTSTAMP:20170927T175948
+LOCATION:530-127
 DESCRIPTION:Experimental techniques to study human and animal movement including motion capture systems, EMG, force plates, medical imaging, and animation. The mechanical properties of muscle and tendon, and quantitative analysis of musculoskeletal geometry. Projects and demonstrations emphasize applications of mechanics in sports, orthopedics, and rehabilitation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE281 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T090000
+CREATED:20170927T175948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

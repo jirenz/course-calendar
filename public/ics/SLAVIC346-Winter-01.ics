@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170211T124003
-UID:explore_courses1bef176b-5e2e-47a2-9ff8-df6a09adbf5f
-DTSTAMP:20170211T124003
-LOCATION:260-001
-DESCRIPTION:Connections of philosophy and science to literary form in War and Peace, Brothers Karamazov, Chekhov stories: alternative shapes of time, perception, significant action. Taught in English. NOTE: This course must be taken for a minimum of 3 units and a letter grade to be eligible for Ways credit.
+DTEND;TZID=America/Los_Angeles:20180109T132000
+LAST-MODIFIED:20170927T175849
+UID:explore_courses8e8f50fb-0cdc-413c-9153-fc9749bf7bb7
+DTSTAMP:20170927T175849
+LOCATION:50-52E
+DESCRIPTION:Connections of philosophy and science to literary form in War and Peace, Brothers Karamazov, Chekhov stories: alternative shapes of time, perception, significant action. Taught in English. Note: To be eligible for WAYS/WIM  credit, you must take SLAVIC 146 for a minimum of 3 Units and a Letter Grade.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SLAVIC346 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T120000
-CREATED:20170211T124003
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T120000
+CREATED:20170927T175849
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

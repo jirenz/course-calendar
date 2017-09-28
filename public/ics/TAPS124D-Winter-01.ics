@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170211T124006
-UID:explore_courses3efa8657-c946-4fce-adcc-951c3549dabc
-DTSTAMP:20170211T124006
-LOCATION:ROBLEG136
+DTEND;TZID=America/Los_Angeles:20180109T132000
+LAST-MODIFIED:20170927T175855
+UID:explore_coursesfc59f34c-462a-46a2-a44a-59567b466bee
+DTSTAMP:20170927T175855
+LOCATION:Memaud204
 DESCRIPTION:Formerly TAPS 20. Creative play, ensemble work in a supportive environment. Designed for the student to experience a range of new creative skills, from group improvisation to partner work. Introductory work on freeing the natural voice and physical relaxation.  Emphasis on rediscovering imaginative and creative impulses. Movement improvisation, listening exercises, and theater games release the energy, playfulness and willingness to take risks that is the essence of free and powerful performance. Course culminates with work on dramatic text.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS124D PRC
-DTSTART;TZID=America/Los_Angeles:20170110T113000
-CREATED:20170211T124006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T113000
+CREATED:20170927T175855
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

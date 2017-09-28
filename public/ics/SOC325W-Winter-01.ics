@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170211T124004
-UID:explore_coursesf2f7c9fa-7ce1-4c8e-ae73-f2218031b651
-DTSTAMP:20170211T124004
-LOCATION:Lathrop 298
+DTEND;TZID=America/Los_Angeles:20180111T115000
+LAST-MODIFIED:20170927T175851
+UID:explore_courses49fb68ed-d56a-40f1-ac7d-6480e651d07a
+DTSTAMP:20170927T175851
+LOCATION:Green Earth Sciences150
 DESCRIPTION:Sociology PhD students will present their own work weekly, and read and critique the research-in-progress of their peers on issues of family, household structure, interpersonal relationships, marriage, demography, survey data, demographic methods, statistical methods, and related fields. May be repeat for credit starting 8/1/2016.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC325W WKS
-DTSTART;TZID=America/Los_Angeles:20170110T113000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180111T103000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

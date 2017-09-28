@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20170211T124030
-UID:explore_courses5dfa6581-b596-4a26-b4a1-d0526cd2493e
-DTSTAMP:20170211T124030
-LOCATION:Y2E2 101
+DTEND;TZID=America/Los_Angeles:20170925T115000
+LAST-MODIFIED:20170927T175940
+UID:explore_courses7872e6fb-4d37-4932-bc80-d34fdd991b87
+DTSTAMP:20170927T175940
+LOCATION:320-220
 DESCRIPTION:Introduction to the history, development, and current state of communication of environmental science and policy to non-specialist audiences. Includes fundamental principles, core competencies, and major challenges of effective environmental communication in the public and policy realms and an overview of the current scope of research and practice in environmental communication. Intended for graduate students and advanced undergraduates, with a background in environmental science and/or policy studies. Prerequisite: Earth Systems core (EarthSys 111 and EarthSys 112) or equivalent. (Meets Earth Systems WIM requirement.)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS291 SEM
-DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T103000
+CREATED:20170927T175940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

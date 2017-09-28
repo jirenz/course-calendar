@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T205000
-LAST-MODIFIED:20170211T124017
-UID:explore_coursesfa6a22cf-2508-477d-b87d-8c936aeff456
-DTSTAMP:20170211T124017
-LOCATION:160-317
-DESCRIPTION:Get real-world experience launching and developing your own social impact projects! Students will work in small teams to develop high-impact projects around problem domains provided by partner organizations, under the guidance and support of design/technical coaches from industry and nonprofit domain experts. The class aims to provide an outlet, along with the resources, for students to create social change through CS, while providing students with experience engaging in the full product development cycle on real-world projects. Prerequisite: CS 147, equivalent experience, or consent of instructors.
+DTEND;TZID=America/Los_Angeles:20180109T202000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses29beca8f-1c75-49fa-a25d-de7c6bed4939
+DTSTAMP:20170927T175958
+LOCATION:STLC105
+DESCRIPTION:Get real-world experience launching and developing your own social impact projects! Students work in small teams to develop high-impact projects around problem domains provided by partner organizations, under the guidance and support of design/technical coaches from industry and non-profit domain experts. Along with support, resources, and community discussion, the class provides an outlet for students to create social change through CS while providing students with experience engaging in the full product development cycle on real-world projects. Prerequisite: CS 147, equivalent experience, or consent of instructors.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS51 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T193000
-CREATED:20170211T124017
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T205000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T183000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T202000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

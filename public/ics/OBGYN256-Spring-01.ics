@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170211T124045
-UID:explore_coursesedea1323-298a-4e6e-819f-6ba3e92c2863
-DTSTAMP:20170211T124045
-LOCATION:200-203
-DESCRIPTION:Interdisciplinary.  Focus is primarily on the U.S., with selected global women's health topics. Topics include: leading causes of morbidity and mortality across the life course; reproductive (e.g. gynecologic &amp; obstetric) health issues; sexual function; importance of lifestyle (e.g. diet, exercise, weight control), including eating disorders; mental health; sexual and relationship abuse; issues for special populations.  In-class Student Debates on key controversies in women's health. Guest lecturers. HUMBIO students must enroll in HumBio 125 for 3 units. PhD minor in FGSS, enroll in FEMGEN 256 for 2 - 3 units and for a letter grade. Med students enroll in OBGYN 256 for 2 units.
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20170927T175933
+UID:explore_coursese08fb536-377c-4570-bf02-e11d7f902864
+DTSTAMP:20170927T175933
+LOCATION:McCullough 115
+DESCRIPTION:Interdisciplinary.  Focus is primarily on the U.S., with selected global women's health topics. Topics include: leading causes of morbidity and mortality across the life course; reproductive (e.g. gynecologic &amp; obstetric) health issues; sexual function; importance of lifestyle (e.g. diet, exercise, weight control), including eating disorders; mental health; sexual and relationship abuse; issues for special populations.  In-class Student Debates on key controversies in women's health. Guest lecturers. HUMBIO students must enroll in HumBio 125 for 3 units. PhD minor in FGSS, enroll in FEMGEN 256 for 2 - 3 units and for a letter grade. Med students enroll in OBGYN 256 for 2 units. Undergraduate prerequisite: Human Biology Core or equivalent or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OBGYN256 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20170211T124045
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T150000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

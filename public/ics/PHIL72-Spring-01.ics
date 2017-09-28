@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170211T123958
-UID:explore_coursesf9adf389-6364-418a-ad9b-0039e87814c9
-DTSTAMP:20170211T123958
-LOCATION:200-305
-DESCRIPTION:This course considers some of the moral problems encountered on campus and elsewhere in our lives as citizens and individuals. We will begin with questions that pertain to our own classroom and gradually broaden our scope to include, eventually, questions about terrorism and torture. The primary aims of the course are to encourage students to recognize and address moral questions as they appear in the concrete messiness of life and to help students develop the skills necessary to do this. Questions to be considered include: What would make this a good class and is this very question a moral one? What is education and who is entitled to it? What is the value of equality on campus and beyond? What is institutional discrimination? Are Stanford athletes being exploited? What should count as sexual harassment and is it properly captured by Stanford sexual harassment policies? Should abortions be offered by the Stanford Division of Family Planning? Is it permissible to kill animals for the purpose of scientific experimentation? Should Stanford divest from coal companies? Ought the City of San Francisco allow the homeless to reside in its streets? Who has the standing to condemn acts of terror and how do such acts compare to torture?
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20170927T175933
+UID:explore_coursesedb1bc07-4e9e-42e0-824f-cdeada05f07b
+DTSTAMP:20170927T175933
+LOCATION:Hewlett Teaching Center 102
+DESCRIPTION:Conflict is a natural part of human life. As human beings we represent a rich diversity of conflicting personalities, preferences, experiences, needs, and moral viewpoints. How are we to resolve or otherwise address these conflicts in a way fair to all parties? In this course, we will consider the question as it arises across various domains of human life, beginning with the classroom. What are we to do when a set of ideas expressed in the classroom offends, threatens, or silences certain of its members? What is it for a classroom to be &iquest;safe&iquest;? What is it for a classroom to be just? We will then move from the classroom to the family, considering a difficult set of questions about how we are to square the autonomy rights of children, elderly parents, and the mentally ill with our desire as family members to keep them safe. Finally, we will turn to the conflicts of citizenship in a liberal democratic society in which the burdens and benefits of citizenship have not always been fairly distributed. We will consider, among others, the question of whether or not civil disobedience is ever morally permissible, of whether there is a right to healthcare, and of whether or not some citizens are owed reparations for past injustices.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL72 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T150000
-CREATED:20170211T123958
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

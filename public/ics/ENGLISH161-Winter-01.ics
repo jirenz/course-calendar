@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T145000
-LAST-MODIFIED:20170211T123947
-UID:explore_courses2161ef63-4e38-4caf-af0e-7874a02e0d12
-DTSTAMP:20170211T123947
-LOCATION:Encina West 101
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T175821
+UID:explore_coursese357eb7d-4896-482b-b5d9-611fae9c5cbf
+DTSTAMP:20170927T175821
+LOCATION:
 DESCRIPTION:An introduction to stories and storytelling--that is, to narrative.  What is narrative? When is narrative fictional and when non-fictional?  How is it done, word by word, sentence by sentence?  Must it be in prose? Can it be in pictures? How has storytelling changed over time? Focus on various forms, genres, structures, and characteristics of narrative.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGLISH161 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

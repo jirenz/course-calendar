@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T162000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses144dbb43-01dc-4c90-a2c9-f1e8ca867596
-DTSTAMP:20170211T123931
-LOCATION:School of Education 206
+DTEND;TZID=America/Los_Angeles:20180108T132000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses0c26e5b1-4ae5-4779-8b8f-28a4e83dd420
+DTSTAMP:20170927T175938
+LOCATION:100-101K
 DESCRIPTION:(Same as GSBGEN 348) Topics: the worth of college and graduate degrees, and the utilization of highly educated graduates; faculty labor markets, careers, and workload; costs and pricing; discounting, merit aid, and access to higher education; sponsored research; academic medical centers; and technology and productivity. Emphasis is on theoretical frameworks, policy matters, and the concept of higher education as a public good. Stratification by gender, race, and social class.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC347 SEM
-DTSTART;TZID=America/Los_Angeles:20170112T133000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180108T113000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T122000
-LAST-MODIFIED:20170211T124006
-UID:explore_courses326eca65-4d9d-4619-b50a-dd7405a3189e
-DTSTAMP:20170211T124006
-LOCATION:Memaud125
+DTEND;TZID=America/Los_Angeles:20170925T122000
+LAST-MODIFIED:20170927T175855
+UID:explore_coursese251522a-deff-4de6-b003-381dba667aa6
+DTSTAMP:20170927T175855
+LOCATION:ROBLEG137
 DESCRIPTION:A survey of the history of theatre and dance from the ancient Greeks to the modern world.  While primarily intended to help TAPS graduate students prepare for their Comprehensive Exam, this course may also be taken by undergraduates or non-TAPS graduate students in order to gain a broad understanding of some of the seminal plays, dances, theories, and performance practices of the past 2500 years.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS201 SEM
-DTSTART;TZID=America/Los_Angeles:20160928T093000
-CREATED:20170211T124006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175855
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

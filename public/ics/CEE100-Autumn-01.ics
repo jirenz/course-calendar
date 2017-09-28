@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T102000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses070fde7b-8076-48a9-a37c-f959913eb60a
-DTSTAMP:20170211T124013
+DTEND;TZID=America/Los_Angeles:20170925T102000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses1ac38115-8387-4204-aace-9dc58b958caf
+DTSTAMP:20170927T175952
 LOCATION:160-124
 DESCRIPTION:Managing the life cycle of buildings from the owner, designer, and contractor perspectives emphasizing sustainability goals; methods to define, communicate, coordinate, and manage multidisciplinary project objectives including scope, quality, life cycle cost and value, schedule, safety, energy, and social concerns; roles, responsibilities, and risks for project participants; virtual design and construction methods for product, organization, and process modeling; lifecycle assessment methods; individual writing assignment related to a real world project.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE100 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

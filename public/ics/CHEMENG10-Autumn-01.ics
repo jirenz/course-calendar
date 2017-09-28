@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T212000
-LAST-MODIFIED:20170211T124012
-UID:explore_coursese1efad13-1d18-4bfb-be24-78b3dda4677a
-DTSTAMP:20170211T124012
+DTEND;TZID=America/Los_Angeles:20170927T205000
+LAST-MODIFIED:20170927T175949
+UID:explore_courses8b67059a-261e-457e-9d66-a60768e18ebe
+DTSTAMP:20170927T175949
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Open to all undergraduates. Overview of and careers in chemical engineering; opportunities to develop networks with working professionals. Panel discussions on career paths and post-graduation opportunities available. Areas include biotechnology, electronics, energy, environment, management consulting, nanotechnology, and graduate school in business, law, medicine, and engineering.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG10 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T193000
-CREATED:20170211T124012
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T212000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170927T193000
+CREATED:20170927T175949
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T205000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

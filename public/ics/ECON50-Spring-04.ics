@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T122000
-LAST-MODIFIED:20170211T123946
-UID:explore_coursesfc337b7f-8726-43dc-9c56-eda4b552017b
-DTSTAMP:20170211T123946
-LOCATION:Lathrop 190
-DESCRIPTION:Individual consumer and firm behavior under perfect competition. The role of markets and prices in a decentralized economy. Monopoly in partial equilibrium. Economic tools developed from multivariable calculus using partial differentiation and techniques for constrained and unconstrained optimization. Prerequisites: Econ 1 or 1V, and Math 51 or CME 100 or CME 100A.
+DTEND;TZID=America/Los_Angeles:20180406T122000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses83f90a9a-e1ab-458b-bfb8-1aed1b12736c
+DTSTAMP:20170927T175819
+LOCATION:Lathrop 296
+DESCRIPTION:Individual consumer and firm behavior under perfect competition. The role of markets and prices in a decentralized economy. Monopoly in partial equilibrium. Economic tools developed from multivariable calculus using partial differentiation and techniques for constrained and unconstrained optimization. Prerequisites: Econ 1 or 1V, and Math 51 or Math 51A or CME 100 or CME 100A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON50 DIS
-DTSTART;TZID=America/Los_Angeles:20170407T113000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T122000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180406T113000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

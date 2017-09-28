@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160907T153000
-LAST-MODIFIED:20170211T124028
-UID:explore_coursesc9d25ea0-6a49-4ac9-a730-788f577a3be4
-DTSTAMP:20170211T124028
+DTEND;TZID=America/Los_Angeles:20170907T110000
+LAST-MODIFIED:20170927T175752
+UID:explore_coursescf7f84cb-6a84-4bb4-988c-ba3273192706
+DTSTAMP:20170927T175752
 LOCATION:Law280A
 DESCRIPTION:This course is part of the required first-year JD curriculum.  It examines the traditional general issues in the substantive criminal law, including the purposes of punishment and the appropriate limits on the use of the criminal sanction. It focuses predominantly on how criminal statutes are organized around objective offense elements (conduct, causation, and attendant circumstances) and mental states, and to a lesser degree on inchoate crimes, complicity, justification and excuse.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW207 LEC
-DTSTART;TZID=America/Los_Angeles:20160907T141500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T153000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170907T094500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T110000;BYDAY=TH,FR
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160908T110000
-LAST-MODIFIED:20170211T124028
-UID:explore_courses7a5d05a3-1214-4000-a3b8-24608bb09f1b
-DTSTAMP:20170211T124028
+DTEND;TZID=America/Los_Angeles:20170906T153000
+LAST-MODIFIED:20170927T175752
+UID:explore_courses679ff5d3-f797-4e84-9de0-a604939aaff4
+DTSTAMP:20170927T175752
 LOCATION:Law280A
 DESCRIPTION:This course is part of the required first-year JD curriculum.  It examines the traditional general issues in the substantive criminal law, including the purposes of punishment and the appropriate limits on the use of the criminal sanction. It focuses predominantly on how criminal statutes are organized around objective offense elements (conduct, causation, and attendant circumstances) and mental states, and to a lesser degree on inchoate crimes, complicity, justification and excuse.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW207 LEC
-DTSTART;TZID=America/Los_Angeles:20160908T094500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T110000;BYDAY=TH,FR
+DTSTART;TZID=America/Los_Angeles:20170906T141500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T153000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

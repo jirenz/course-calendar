@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20170211T123951
-UID:explore_coursesd7b47d3f-223c-4b9a-801a-4d4dbd35b4fa
-DTSTAMP:20170211T123951
-LOCATION:200-002
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T175829
+UID:explore_courses1e01f9d4-c456-4b8c-abad-2d15f6dc47b8
+DTSTAMP:20170927T175829
+LOCATION:60-109
 DESCRIPTION:Students who have taken HISTORY 205A/305A should not enroll in this course.  Information has a history-- and it's not the one we've been told by Silicon Valley. In a series of propulsive, empirically rich, and provocative lectures and discussions, this course deep-dives into the history of information and IT, including moveable type, telegraphy, typewriting, personal computing, gaming, social media, algorithms, machine learning, Digital Humanities, and more. You will leave the course with entirely new perspectives on information, including how IT shapes-- and is shaped by-- culture, nationality, gender, ethnicity, economy, and environment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY5A LEC
-DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

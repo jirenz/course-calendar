@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T175000
-LAST-MODIFIED:20170211T124028
-UID:explore_coursesdac21af6-8a09-412a-9a04-2078ce460fa0
-DTSTAMP:20170211T124028
+DTEND;TZID=America/Los_Angeles:20170925T175000
+LAST-MODIFIED:20170927T175745
+UID:explore_coursesf68e5764-e91d-42fd-bab3-5c60af58a2f7
+DTSTAMP:20170927T175745
 LOCATION:GSB Class of 1968 101
 DESCRIPTION:This six-session 2-point Bass seminar will involve students (maximum 24) in analyzing the emerging global electric automotive industry by focusing on: (1) The electric automotive industry in the U.S. and Europe, (2) the electric automotive industry in Japan and Korea, and (3) the electric automotive industry in China.  We will each time examine the strategies of the key automotive companies as well as that of the government and other key players such as infrastructure providers. The purpose of the seminar is to help students sharpen their skills in identifying facilitating and impeding forces of strategic change, and in assessing and estimating the direction and rate of strategic change. While the instructors will provide relevant pre- readings related to these topics, students will be expected to complement these materials with their own research of theoretical and empirical sources. They will also be expected to help structure the discussion and move it forward toward conclusions.  Students will organize into three teams each focused on one of the regions and prepare a five-to-ten page group report of their most important findings and conclusions that extend current knowledge.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STRAMGT574 SEM
-DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161007T175000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T150000
+CREATED:20170927T175745
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171006T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T175000
-LAST-MODIFIED:20170211T124000
-UID:explore_courses6f3ff629-e681-47eb-9d17-9c6667a088c1
-DTSTAMP:20170211T124000
+DTEND;TZID=America/Los_Angeles:20180108T175000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses6f3c79da-46c1-482a-b9e3-aad66eac0a95
+DTSTAMP:20170927T175846
 LOCATION:Encina West 101
 DESCRIPTION:This course offers an introduction to major topics in the study of historical and contemporary Europe. We focus on European politics, economics and culture. First, we study what makes Europe special, and how its distinct identity has been influenced by its history. Next, we analyze Europe's politics. We study parliamentary government and proportional representation electoral systems, and how they affect policy. Subsequently, we examine the challenges the European economy faces. We further study the European Union and transatlantic relations.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI213E SEM
-DTSTART;TZID=America/Los_Angeles:20170109T163000
-CREATED:20170211T124000
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T163000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

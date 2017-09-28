@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T182000
-LAST-MODIFIED:20170211T124048
-UID:explore_courses36f6a447-62d6-49c0-b771-0fe3286d0a90
-DTSTAMP:20170211T124048
+DTEND;TZID=America/Los_Angeles:20170927T182000
+LAST-MODIFIED:20170927T175922
+UID:explore_coursese04ca9c3-414a-4cd6-9b2f-bebbb3edae8e
+DTSTAMP:20170927T175922
 LOCATION:Li Ka Shing Center, rms203/204
 DESCRIPTION:Open to medical students, graduate students, and undergraduate students.  Examines the moral dilemmas and political realities that complicate the delivery of humanitarian aid, especially when undertaken by the United Nations and non-governmental organizations (NGOs).  Emphasis is on what humanitarians call &quot;complex humanitarian emergencies&quot;: crises often characterized by famine and/or epidemic disease and typically the result of war and/or civil war.  Provides background into the history of humanitarian aid, though  focus is on the post-Cold War era, up to the recent crises in Libya and Syria.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PEDS225 COL
-DTSTART;TZID=America/Los_Angeles:20160928T153000
-CREATED:20170211T124048
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T153000
+CREATED:20170927T175922
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

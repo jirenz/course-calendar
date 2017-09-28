@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T112000
-LAST-MODIFIED:20170211T124009
-UID:explore_coursesbcb02b12-97a7-40dc-9185-996cd91518d8
-DTSTAMP:20170211T124009
-LOCATION:70-72A1
+DTEND;TZID=America/Los_Angeles:20170926T142000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses8de2fcf8-308e-4d57-9d47-a62cda8a1485
+DTSTAMP:20170927T175933
+LOCATION:460-429
 DESCRIPTION:What is evil? Are we naturally good or evil? How should we respond to evil? There are many books and courses that focus on the good life or the virtues. Yet despite their obvious apparent presence in our life and world, evil and the vices are rarely taken as explicit topics. We will read philosophical and literary texts that deal with the question of evil at a theoretical level, but will also focus on some practical implications of these issues. By exploring evil, we will confront larger questions about the nature of human beings, the appropriate aims of the good society, the function of punishment, and the place of morality in art.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:THINK24 DIS
-DTSTART;TZID=America/Los_Angeles:20160928T103000
-CREATED:20170211T124009
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=WE,FR
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T142000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

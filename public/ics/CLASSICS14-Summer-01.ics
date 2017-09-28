@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170627T145000
-LAST-MODIFIED:20170211T123942
-UID:explore_courses7f07433c-41d4-4f92-b632-7889063e6bd6
-DTSTAMP:20170211T123942
-LOCATION:110-114
+DTEND;TZID=America/Los_Angeles:20180626T145000
+LAST-MODIFIED:20170927T175808
+UID:explore_courses24d89c23-80a4-4c1b-817f-d02e58a1abcb
+DTSTAMP:20170927T175808
+LOCATION:240-201
 DESCRIPTION:(Formerly CLASSGEN 9) Goal is to improve vocabulary, comprehension of written English, and standardized test scores through learning the Greek and Latin components of English. Focus is on patterns and processes in the formation of the lexicon. Terminology used in medicine, business, education, law, and humanities; introduction to principles of language history and etymology. Greek or Latin not required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CLASSICS14 SEM
-DTSTART;TZID=America/Los_Angeles:20170627T133000
-CREATED:20170211T123942
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180626T133000
+CREATED:20170927T175808
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

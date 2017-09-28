@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170211T123943
-UID:explore_courses121ed77e-e6d8-4dd5-a149-3162bd5b6fc7
-DTSTAMP:20170211T123943
-LOCATION:McMurtry Building rm 350
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175811
+UID:explore_courses028ca2b6-0854-46e7-897a-83eb3ad3d5ef
+DTSTAMP:20170927T175811
+LOCATION:School of Education 128
 DESCRIPTION:What is poetry? How does it speak in many voices to questions of history, society, and personal experience? Why does it matter? The reading and interpretation of poetry in crosscultural comparison as experience, invention, form, sound, knowledge, and part of the world. The readings address poetry of several cultures (Brazil, Chile, France, Germany, Greece, Italy, Occitania, Peru) in comparative relation to that of the English-speaking world, and in light of classic and recent theories of poetry.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPLIT121 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T123943
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175811
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

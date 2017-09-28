@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T125000
-LAST-MODIFIED:20170211T124023
-UID:explore_courses14ad298e-57bf-4b61-be1a-53be05af93b5
-DTSTAMP:20170211T124023
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20170927T180006
+UID:explore_courses9811c9a3-6ee8-43b1-8220-a6359de6a7a5
+DTSTAMP:20170927T180006
 LOCATION:Hewlett Teaching Center 201
-DESCRIPTION:Principles of design analysis for aircraft gas turbines and automotive piston engines. Analysis for aircraft engines performed for Airbus A380 type aircraft. Design parameters determined considering aircraft aerodynamics, gas turbine thermodynamics, compressible flow physics, and material limitations. Additional topics include characteristics of main engine components, off-design analysis, and component matching. Performance of automotive piston engines including novel engine concepts in terms of engine thermodynamics, intake and exhaust flows, and in-cylinder flow.
+DESCRIPTION:This course is concerned with the propulsion design analysis of gas-turbine engines. After reviewing essential concepts of thermos- and aerodynamics, we consider a turbofan gas-turbine engine that is representative of a business aircraft. We will first conduct a performance analysis to match the engine design with aircraft performance requirements. This is followed by examining individual engine components, including compressor, combustor, turbines, and nozzles, thereby increase the level of physical description. Aspects of modern engine concepts, environmental impacts, and advanced engine-analysis methods will be discussed. Students will have the opportunity to develop a simulation code to perform a basic design analysis of a turbofan engine. Course prerequisites: ENGR 30, ME 70, ME 131B, CME 100
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME357 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T113000
-CREATED:20170211T124023
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T125000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T180006
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T152000
-LAST-MODIFIED:20170211T123930
-UID:explore_coursesdb373e85-8901-4c80-9e2d-ed6ec1131efd
-DTSTAMP:20170211T123930
-LOCATION:School of Education 128
-DESCRIPTION:DYS uses a Design Thinking approach to help Freshmen and Sophomores learn practical tools and ideas to make the most of their Stanford experience. Topics include the purpose of college, major selection, educational wayfinding, and innovating college outcomes - all applied through an introduction to Design Thinking. This seminar class incorporates small group discussion, in-class activities, field exercises, personal reflection, and individual coaching. Admission to be confirmed by email to Axess registered students prior to first class session.
+DTEND;TZID=America/Los_Angeles:20180405T152000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses81d57870-272e-4673-a089-967e9a57b6d6
+DTSTAMP:20170927T175938
+LOCATION:
+DESCRIPTION:DYS uses a Design Thinking approach to help Freshmen and Sophomores learn practical tools and ideas to make the most of their Stanford experience. Topics include the purpose of college, major selection, educational wayfinding, and innovating college outcomes - all applied through an introduction to Design Thinking. This seminar class incorporates small group discussion, in-class activities, field exercises, personal reflection, and individual coaching. Admission to be confirmed by email to Axess registered students prior to first class session. DYS uses a Design Thinking approach to help Freshmen and Sophomores learn practical tools and ideas to make the most of their Stanford experience. Topics include the purpose of college, major selection, educational wayfinding, and innovating college outcomes - all applied through an introduction to design mindsets and practices. This seminar class incorporates small group discussion, in-class activities, field exercises, personal reflection, and individual coaching.  Additional course information  at http://www.designingyourstanford.org.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC118S SEM
-DTSTART;TZID=America/Los_Angeles:20170406T133000
-CREATED:20170211T123930
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T133000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

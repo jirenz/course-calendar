@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T112000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses328d34a6-ccb7-40eb-9076-e06f4b0948a8
-DTSTAMP:20170211T124013
-LOCATION:Y2E2 253
+DTEND;TZID=America/Los_Angeles:20180112T112000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses1a2cb46d-7876-43b6-b473-9cbab272b4b8
+DTSTAMP:20170927T175952
+LOCATION:Y2E2 335
 DESCRIPTION:Labor/management negotiations, content of a labor agreement, strikes, dispute resolution, contemporary issues affecting labor and management, and union versus open shop competitiveness in the marketplace. Case studies; presentations by union leaders, legal experts, and contractor principals. Simulated negotiation session with union officials and role play in an arbitration hearing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE249 LEC
-DTSTART;TZID=America/Los_Angeles:20170113T093000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T093000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

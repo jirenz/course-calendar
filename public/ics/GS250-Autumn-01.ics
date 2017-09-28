@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T112000
-LAST-MODIFIED:20170211T124032
-UID:explore_courses45c517b2-d5a4-4d6a-b73c-fba00f783fd4
-DTSTAMP:20170211T124032
+DTEND;TZID=America/Los_Angeles:20170926T112000
+LAST-MODIFIED:20170927T175944
+UID:explore_courses174cd6fd-48ec-40d8-b45b-4006ad24d93c
+DTSTAMP:20170927T175944
 LOCATION:320-241
 DESCRIPTION:The mechanics of sediment transport and deposition and the origins of sedimentary structures and textures as applied to interpreting modern sediments and ancient rock sequences. Dimensional analysis, fluid flow, drag, boundary layers, open channel flow, particle settling, erosion, sediment transport, sediment gravity flows, soft sediment deformation, and fluid escape. Required field trip and lab section.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GS250 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T124032
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175944
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

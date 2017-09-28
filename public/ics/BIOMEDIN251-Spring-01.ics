@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T132000
-LAST-MODIFIED:20170211T124034
-UID:explore_coursesbe797099-490e-4766-94f5-343755b84ec4
-DTSTAMP:20170211T124034
-LOCATION:McMurtry Building rm 360
+DTEND;TZID=America/Los_Angeles:20180402T132000
+LAST-MODIFIED:20170927T175859
+UID:explore_coursesc65b8fa2-9fcd-42fa-aa78-2b15d9a235c7
+DTSTAMP:20170927T175859
+LOCATION:Herrin T185
 DESCRIPTION:Methods of conducting empirical studies which use large existing medical, survey, and other databases to ask both clinical and policy questions. Econometric and statistical models used to conduct medical outcomes research. How research is conducted on medical and health economics questions when a randomized trial is impossible. Problem sets emphasize hands-on data analysis and application of methods, including re-analyses of well-known studies. Prerequisites: one or more courses in probability, and statistics or biostatistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOMEDIN251 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T113000
-CREATED:20170211T124034
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T113000
+CREATED:20170927T175859
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

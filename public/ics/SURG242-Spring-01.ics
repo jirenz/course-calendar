@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T162000
-LAST-MODIFIED:20170211T124052
-UID:explore_coursesd57f430e-3fa9-4957-b277-be0caad29abc
-DTSTAMP:20170211T124052
-LOCATION:CCSR0001
+DTEND;TZID=America/Los_Angeles:20180405T162000
+LAST-MODIFIED:20170927T175928
+UID:explore_coursescce5e043-1113-4a2d-959f-2d60710115da
+DTSTAMP:20170927T175928
+LOCATION:
 DESCRIPTION:Lectures highlight the intersections and influences between human anatomy and art. Studio sessions provide an opportunity for students to immerse in anatomically inspired studio projects. Drawing, mixed media, and some painting mediums will be used during the studio sessions. Plastic models, dry bones, cadaveric specimens, and live models will be used for the studio sessions. Class time includes art instruction, creation and feedback. May be repeated for credit. Honing individual style is encouraged; both beginning and advanced students are welcome. Previous coursework in anatomy is recommended, but not required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SURG242 PRA
-DTSTART;TZID=America/Los_Angeles:20170406T133000
-CREATED:20170211T124052
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T133000
+CREATED:20170927T175928
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

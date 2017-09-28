@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T132000
-LAST-MODIFIED:20170211T124001
-UID:explore_coursesc20b19ca-2646-48ef-8a7d-8632777bc13c
-DTSTAMP:20170211T124001
+DTEND;TZID=America/Los_Angeles:20170929T142000
+LAST-MODIFIED:20170927T175847
+UID:explore_courses1ec429a0-18a3-4fd3-864e-207dc7952225
+DTSTAMP:20170927T175847
 LOCATION:420-419
 DESCRIPTION:Logistical TA training including: preparing for sections; creating, correcting exams; grading an iterative writing assignment; office hours; review sessions; developing audiovisual expertise; communicating via coursework. Review of student evaluations with instructor to set goals and strategies. Second quarter focuses on pedagogical improvement. Limited to current PSYCH 1 TAs. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH282 PRC
-DTSTART;TZID=America/Los_Angeles:20160930T113000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170929T123000
+CREATED:20170927T175847
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T142000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

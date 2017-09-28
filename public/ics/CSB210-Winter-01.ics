@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20170211T124036
-UID:explore_coursesc7e9e6de-8c77-473a-8f9c-6a9c3d2a6921
-DTSTAMP:20170211T124036
+DTEND;TZID=America/Los_Angeles:20180108T152000
+LAST-MODIFIED:20170927T175900
+UID:explore_courses17523705-5064-4cb2-aaf8-33e5af77f4fa
+DTSTAMP:20170927T175900
 LOCATION:Alway Building, Room M112
 DESCRIPTION:The molecular mechanisms through which cells receive and respond to external signals. Emphasis is on principles of cell signaling, the systems-level properties of signal transduction modules, and experimental strategies through which cell signaling pathways are being studied. Prerequisite: working knowledge of biochemistry and genetics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CSB210 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T124036
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T175900
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

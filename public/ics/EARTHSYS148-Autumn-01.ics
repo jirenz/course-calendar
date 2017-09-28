@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T122000
-LAST-MODIFIED:20170211T124030
-UID:explore_courses5f673aa9-eefc-41dd-8c69-23cb2c26bc1c
-DTSTAMP:20170211T124030
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20170927T122000
+LAST-MODIFIED:20170927T175940
+UID:explore_courses2ecdeccb-83df-4ea9-88cd-d4f6099acc80
+DTSTAMP:20170927T175940
+LOCATION:550-STUDIO 1
 DESCRIPTION:This course provides an introductory exploration of the social, cultural, and economic forces that influence contemporary human diets. Through the combination of interrelated lectures by expert practitioners and hands-on experience planting, tending, harvesting, cooking, and eating food from Stanford's dining hall gardens, students will learn to think critically about modern agricultural practices and the relationship between cuisine and human and ecological health outcomes. Students will also learn and apply basic practices of human-centered design to develop simple frameworks for understanding various eating behaviors in Stanford&iquest;s dining halls and to develop and test hypotheses for how R&amp;DE Stanford Dining might influence eating behaviors to effect better health outcomes for people and the planet. This class, which is offered through the FEED Collaborative in the School of Earth, Energy and Environmental Sciences, requires an application. For more information about the FEED Collaborative, application procedures and deadlines, and other classes we teach, please visit our website at http://feedcollaborative.org.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS148 SEM
-DTSTART;TZID=America/Los_Angeles:20160928T103000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=WE,FR
+DTSTART;TZID=America/Los_Angeles:20170927T103000
+CREATED:20170927T175940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

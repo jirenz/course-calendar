@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T152000
-LAST-MODIFIED:20170211T123955
-UID:explore_courses9ca27461-8af7-4627-a7e2-e09c716eaa60
-DTSTAMP:20170211T123955
-LOCATION:160-124
-DESCRIPTION:Students attend MATH 51 lectures with different recitation sessions: four hours per week instead of two, emphasizing engineering applications. Prerequisite: application; see http://soe.stanford.edu/edp/programs/ace.html.
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T175837
+UID:explore_courses198d19df-79a0-496b-b051-7dff3fc26602
+DTSTAMP:20170927T175837
+LOCATION:380-380D
+DESCRIPTION:Students attend MATH 51 lectures with different recitation sessions: three hours per week instead of two, emphasizing engineering applications. Prerequisite: application; see https://web.stanford.edu/dept/soe/osa/ace.fb
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH51A DIS
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T123955
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175837
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

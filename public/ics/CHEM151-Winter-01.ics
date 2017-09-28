@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170211T123940
-UID:explore_courses8aff662e-a14e-4d56-b223-bca84f44ab5b
-DTSTAMP:20170211T123940
-LOCATION:ScienceTeachingLearningCntr105
-DESCRIPTION:Theories of electronic structure, stereochemistry, and symmetry properties of inorganic molecules. Topics: ionic and covalent interactions, electron-deficient bonding, and molecular orbital theories. Emphasis is on the chemistry of the metallic elements. An introduction to the Gaussian program will be covered in the discussion sections, used for electronic calculations in the computer and problem set exercises. Prerequisites: 35. Recommended: 171.
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T175805
+UID:explore_coursesca991667-a569-4782-8654-355aa30ce6e1
+DTSTAMP:20170927T175805
+LOCATION:STLC119
+DESCRIPTION:Theories of electronic structure, stereochemistry, and symmetry properties of inorganic molecules. Topics: ionic and covalent interactions, electron-deficient bonding, and molecular orbital theories. Emphasis is on the chemistry of the metallic elements. An introduction to the Gaussian program will be covered in the discussion sections, used for electronic calculations in the computer and problem set exercises. Prerequisites: 35.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM151 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175805
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

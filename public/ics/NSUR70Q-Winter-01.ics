@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T160500
-LAST-MODIFIED:20170211T124044
-UID:explore_courses7b168a1f-09d9-4848-b889-4dfa91826caf
-DTSTAMP:20170211T124044
-LOCATION:CCSR0236
+DTEND;TZID=America/Los_Angeles:20180109T160500
+LAST-MODIFIED:20170927T175915
+UID:explore_courses2ea0e537-1b11-4ebb-ac16-16a98dfa66b7
+DTSTAMP:20170927T175915
+LOCATION:CCSR 0235
 DESCRIPTION:Preference to sophomores. How stroke is studied in the laboratory; advances in stroke research over the last two decades; and future directions. Topics include: cellular and molecular mechanisms of neuronal death and survival in the brain after stroke, including necrosis, apoptosis, inflammation, and cell signaling pathways; experimental tools for stroke treatment, such as gene therapy, cell therapy, hypothermia, preconditioning, postconditioning, and other pharmacological treatments; the gap and barrier between laboratory research and clinical translation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NSUR70Q IDS
-DTSTART;TZID=America/Los_Angeles:20170110T141500
-CREATED:20170211T124044
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T160500;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180109T141500
+CREATED:20170927T175915
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T160500;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

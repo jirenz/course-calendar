@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T172000
-LAST-MODIFIED:20170211T124018
-UID:explore_courses992ddb26-7b7d-4548-adc7-8cee7e603b76
-DTSTAMP:20170211T124018
+DTEND;TZID=America/Los_Angeles:20170925T162000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses681deaba-61ad-4209-89e9-ed34e1d7be28
+DTSTAMP:20170927T175958
 LOCATION:Littlefield 107
 DESCRIPTION:Prepares students to conduct original HCI research by reading and discussing seminal and cutting-edge research papers. Main topics are ubiquitous computing, social computing, and design and creation; breadth topics include HCI methods, programming, visualization, and user modeling. Student pairs perform a quarter-long research project. Prerequisites: For CS and Symbolic Systems undergraduates/masters students, an A- or better in CS 147 or CS 247. No prerequisite for PhD students or students outside of CS and Symbolic Systems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS376 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T153000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T150000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

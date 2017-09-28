@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T102000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursesb55ffd22-0540-4d63-b1dc-b49148c569f0
-DTSTAMP:20170211T124021
-LOCATION:Shriram Ctr BioChemE 104
+DTEND;TZID=America/Los_Angeles:20170929T102000
+LAST-MODIFIED:20170927T180002
+UID:explore_coursese7c98148-a5d9-4bf1-90da-22fb6151c816
+DTSTAMP:20170927T180002
+LOCATION:420-041
 DESCRIPTION:Concepts and tools for the analysis of problems under uncertainty, focusing on focusing on structuring, model building, and analysis. Examples from legal, social, medical, and physical problems. Topics include axioms of probability, probability trees, random variables, distributions, conditioning, expectation, change of variables, and limit theorems. Prerequisite: CME 100 or MATH 51.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E120 DIS
-DTSTART;TZID=America/Los_Angeles:20160930T093000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170929T093000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

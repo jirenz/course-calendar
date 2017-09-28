@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T182000
-LAST-MODIFIED:20170211T123938
-UID:explore_courses0d4174b7-f6a7-4650-91bf-1d4f0d1f1089
-DTSTAMP:20170211T123938
+DTEND;TZID=America/Los_Angeles:20180108T172000
+LAST-MODIFIED:20170927T175801
+UID:explore_coursesab1e07ca-174f-4edb-891d-2ba9edde0e0a
+DTSTAMP:20170927T175801
 LOCATION:McMurtry Building rm 007
 DESCRIPTION:Students are introduced to and provided with medium-format film cameras, which they learn to use with an ongoing emphasis on operating manual settings (focus, aperture, shutter speed). Students are introduced to metering for film using hand-held light meters in a further study of light. They hone their printing skills and learn finer printing techniques using fiber-based paper. They also explore the full range of black and film stocks and get to experiment with alternative techniques like pinhole photography, photograms and Holga cameras. Students gain a deeper insight into and stronger grasp of practices in contemporary black and white photography, with a continuing focus on the importance of photo editing/selection and sequencing, as well as questions around the conceptual and practical implications and limits of photographic images. Prerequisite: ARTSTUDI 170 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTSTUDI278 PRA
-DTSTART;TZID=America/Los_Angeles:20170110T163000
-CREATED:20170211T123938
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180108T153000
+CREATED:20170927T175801
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

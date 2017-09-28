@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170211T123943
-UID:explore_coursesfbe9f42f-eed7-4c35-a7b0-26320a83e9d1
-DTSTAMP:20170211T123943
-LOCATION:260-011
-DESCRIPTION:Short stories from Israel, the US and Europe including works by Agnon, Kafka, Keret, Castel-Bloom, Kashua, Singer, Benjamin, Freud, biblical myths and more. The class will engage with questions related to the short story as a literary form and the history of the short story. Reading and discussion in English. Optional: special section with readings and discussions in Hebrew.
+DTEND;TZID=America/Los_Angeles:20180405T175000
+LAST-MODIFIED:20170927T175811
+UID:explore_courses2f4182eb-8085-4913-b658-720ceec4d16b
+DTSTAMP:20170927T175811
+LOCATION:Green Earth Sciences131
+DESCRIPTION:Short stories from Israel, the US and Europe including works by Agnon, Kafka, Keret, Castel-Bloom, Kashua, Singer, Benjamin, Freud, biblical myths and more. The class will engage with questions related to the short story as a literary form and the history of the short story. Reading and discussion in English. Optional: special section with readings and discussions in Hebrew. Note: To be eligible for WAYS credit, you must take the course for a Letter Grade.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPLIT127B SEM
-DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170211T123943
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180405T150000
+CREATED:20170927T175811
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

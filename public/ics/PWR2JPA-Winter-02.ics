@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170211T124010
-UID:explore_courses7926177b-71bb-42d6-b414-954beaf31e73
-DTSTAMP:20170211T124010
-LOCATION:160-125
+DTEND;TZID=America/Los_Angeles:20180108T132000
+LAST-MODIFIED:20170927T175750
+UID:explore_courses602d1cdf-b6c9-4565-bddc-e4ac64cbe84d
+DTSTAMP:20170927T175750
+LOCATION:160-120
 DESCRIPTION:Prerequisite: PWR 1. In this course, we will look closely these learning processes. Students will invent individual research projects and craft oral presentations to critically analyze conventional forms of learning and explore ways of learning that are not always obvious. We will research together the work of cultural critic Henry Giroux on global media as a force of education, poet and scholar bell hooks on classrooms as potential sites of both oppression and liberation, and education scholar Ken Robinson on creativity and schools. For more information about PWR 2, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-2. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR2JPA SEM
-DTSTART;TZID=America/Los_Angeles:20170110T113000
-CREATED:20170211T124010
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180108T113000
+CREATED:20170927T175750
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

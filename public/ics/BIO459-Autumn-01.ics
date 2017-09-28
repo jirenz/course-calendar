@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20170211T123939
-UID:explore_courses11e37be2-a645-4f69-9aba-5781f83d97aa
-DTSTAMP:20170211T123939
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175802
+UID:explore_courses6666523a-42c7-4282-9121-2e6077b009be
+DTSTAMP:20170927T175802
 LOCATION:
 DESCRIPTION:Students register through their affiliated department; otherwise register for CHEMENG 459. For specialists and non-specialists. Sponsored by the Stanford BioX Program. Three seminars per quarter address scientific and technical themes related to interdisciplinary approaches in bioengineering, medicine, and the chemical, physical, and biological sciences. Leading investigators from Stanford and the world present breakthroughs and endeavors that cut across core disciplines. Pre-seminars introduce basic concepts and background for non-experts. Registered students attend all pre-seminars; others welcome. See http://biox.stanford.edu/courses/459.html. Recommended: basic mathematics, biology, chemistry, and physics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO459 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T120000
-CREATED:20170211T123939
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T120000
+CREATED:20170927T175802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

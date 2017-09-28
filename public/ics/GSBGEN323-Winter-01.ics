@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T175000
-LAST-MODIFIED:20170211T124026
-UID:explore_courses352f8b7e-a297-4383-abbe-76193a30b7b3
-DTSTAMP:20170211T124026
-LOCATION:GSB Class of 1968 106
-DESCRIPTION:The disruptive nature of the Internet has set in motion the destruction of business models that have supported traditional media organizations. This course will examine the current state and broader economic challenges facing the media industry. These include: the impact of technology, changing consumer behavior, the rise of mobile, social networks, big data, real-time metrics, innovations in digital advertising and distribution channels, and new business models. Students will analyze new digital media ventures and hear from industry experts facing innovation challenges at the intersection of content, technology and business. The course also will identify paths for entrepreneurs interested in building a media business. And experiment with prototyping new digital media ventures.
+DTEND;TZID=America/Los_Angeles:20180109T175000
+LAST-MODIFIED:20170927T175743
+UID:explore_coursesb27a9a6f-2ad1-41c3-8c0e-60406126c7ac
+DTSTAMP:20170927T175743
+LOCATION:
+DESCRIPTION:The disruptive nature of the Internet has set in motion the destruction of business models that have supported traditional media organizations. This course will examine the current state and broader economic challenges facing the media industry. These include: the impact of technology, changing consumer behavior, the rise of mobile, social networks, big data, real-time metrics, innovations in digital advertising and distribution channels, and new business models. Students will analyze new digital media ventures and hear from industry experts facing innovation challenges at the intersection of content, technology and business. The course also will identify paths for entrepreneurs interested in building a media business.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GSBGEN323 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T124026
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

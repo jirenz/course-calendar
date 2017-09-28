@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20170211T124006
-UID:explore_courses853b65c4-08b1-4a8b-9f14-2d61bb1c9a37
-DTSTAMP:20170211T124006
+DTEND;TZID=America/Los_Angeles:20180108T122000
+LAST-MODIFIED:20170927T175855
+UID:explore_courses1ed9b879-9336-4dbb-ab7f-fe4bcc3f7728
+DTSTAMP:20170927T175855
 LOCATION:ROBLEG137
 DESCRIPTION:Performance theory through topics including: affect/trauma, embodiment, empathy, theatricality/performativity, specularity/visibility, liveness/disappearance, belonging/abjection, and utopias and dystopias. Readings from Schechner, Phelan, Austin, Butler, Conquergood, Roach, Schneider, Silverman, Caruth, Fanon, Moten, Anzald&uacute;a, Agamben, Freud, and Lacan. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS313 SEM
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T124006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20170927T175855
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

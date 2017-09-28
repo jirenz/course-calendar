@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170211T124004
-UID:explore_courses8e82ffe0-d25a-44b2-861d-b59a984759e6
-DTSTAMP:20170211T124004
+DTEND;TZID=America/Los_Angeles:20170926T102000
+LAST-MODIFIED:20170927T175850
+UID:explore_courses62289dfd-b42c-4cb2-8e6d-276d9350236e
+DTSTAMP:20170927T175850
 LOCATION:300-300
 DESCRIPTION:(Graduate students register for 214.) The sociological approach to production, distribution, consumption, and markets, emphasizing the impact of norms, power, social structure, and institutions on the economy. Comparison of classic and contemporary approaches to the economy among the social science disciplines. Topics: consumption, labor markets, organization of professions such as law and medicine, the economic role of informal networks, industrial organization, including the structure and history of the computer and popular music industries, business alliances, capitalism in non-Western societies, and the transition from state socialism in E. Europe and China.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC114 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T090000
+CREATED:20170927T175850
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

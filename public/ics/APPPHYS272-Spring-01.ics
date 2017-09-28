@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T175000
-LAST-MODIFIED:20170211T123936
-UID:explore_courses4fd90287-d28c-4f66-af0f-6df2f90b19a9
-DTSTAMP:20170211T123936
+DTEND;TZID=America/Los_Angeles:20180402T175000
+LAST-MODIFIED:20170927T175758
+UID:explore_coursese7d6a47f-66e5-4820-9eb4-11ed8b669f15
+DTSTAMP:20170927T175758
 LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:Introduction to the properties of solids. Crystal structures and bonding in materials. Momentum-space analysis and diffraction probes. Lattice dynamics, phonon theory and measurements, thermal properties. Electronic structure theory, classical and quantum; free, nearly-free, and tight-binding limits.  Electron dynamics and basic transport properties; quantum oscillations. Properties and applications of semiconductors. Reduced-dimensional systems. Undergraduates should register for PHYSICS 172 and graduate students for APPPHYS 272.  Prerequisites: PHYSICS 170 and PHYSICS 171, or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS272 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T163000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T163000
+CREATED:20170927T175758
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

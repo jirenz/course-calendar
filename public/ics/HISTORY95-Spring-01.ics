@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T132000
-LAST-MODIFIED:20170211T123951
-UID:explore_coursesb0121f07-e520-417b-90dd-9f509eafe4dc
-DTSTAMP:20170211T123951
-LOCATION:200-203
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20170927T175829
+UID:explore_courses2bb868c3-8057-4529-b88e-18b904b0d7a8
+DTSTAMP:20170927T175829
+LOCATION:200-303
 DESCRIPTION:(Same as HISTORY 195. History majors and others taking 5 units, register for 195.)  This lecture course provides a general introduction to the history of modern Korea. Themes include the characteristics of the Chos&ocirc;n dynasty, reforms and rebellions in the nineteenth century, Korean nationalism; Japan's colonial rule and Korean identities; decolonization and the Korean War; and the different state-building processes in North and South, South Korea's democratization in 1980s, and the current North Korean crisis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY95 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T120000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T122000
-LAST-MODIFIED:20170211T123947
-UID:explore_courses779ad541-9a3f-4c68-a77c-b86069c58059
-DTSTAMP:20170211T123947
-LOCATION:School of Education 41
-DESCRIPTION:(Formerly 94A.) Historical and contemporary as a broad genre including travel and nature writing, memoir, biography, journalism, and the personal essay. Students use creative means to express factual content.
+DTEND;TZID=America/Los_Angeles:20170926T122000
+LAST-MODIFIED:20170927T175821
+UID:explore_coursesc470f6c1-422b-4c97-b780-851a561c715a
+DTSTAMP:20170927T175821
+LOCATION:20-21G
+DESCRIPTION:Historical and contemporary as a broad genre including travel and nature writing, memoir, biography, journalism, and the personal essay. Students use creative means to express factual content. May be repeat for credit
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGLISH91 WKS
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

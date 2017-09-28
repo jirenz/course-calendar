@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursesfafcc699-c1de-4ddb-b307-9fa15ce0527a
-DTSTAMP:20170211T124021
-LOCATION:Thornt110
+DTEND;TZID=America/Los_Angeles:20180109T102000
+LAST-MODIFIED:20170927T180002
+UID:explore_coursesf4315fe2-f1aa-48e8-b417-27d244057253
+DTSTAMP:20170927T180002
+LOCATION:Gates B12
 DESCRIPTION:The service sector accounts for approximately 80% of GDP and employment in the US. It is therefore imperative to develop efficient and effective operations of services. The management of service operations can require quite different constraints and objectives than manufacturing operations. The course examines both traditional and new approaches for achieving operational competitiveness in service businesses including (online) marketplaces. Topics include the service concept and operations strategy, the design of effective service delivery systems, capacity management, queuing, quality, revenue management as well as concepts from the design of marketplaces such as matching, congestion and auctions.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E267 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T090000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

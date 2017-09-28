@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T202000
-LAST-MODIFIED:20170211T123949
-UID:explore_coursesb13ff06f-2907-41d4-b471-ab04f13d5470
-DTSTAMP:20170211T123949
-LOCATION:
-DESCRIPTION:(AU)
+DTEND;TZID=America/Los_Angeles:20180402T202000
+LAST-MODIFIED:20170927T175824
+UID:explore_courses9bc45fda-72d7-4c6c-a0e0-eb2385a3e701
+DTSTAMP:20170927T175824
+LOCATION:260-001
+DESCRIPTION:French Conversation (beginner) - Frenlang 60A: Beginner's French Conversation is a 1 unit conversation class. There is no requirement for the students to know French, the goal of the class is to introduce them to french culture and language. The content of the class varies on what students are interested in learning but typically includes basic vocabulary lessons on topics like introductions, numbers, the weather, food, transportation, art,...
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FRENLANG60A ACT
-DTSTART;TZID=America/Los_Angeles:20170403T193000
-CREATED:20170211T123949
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T202000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T193000
+CREATED:20170927T175824
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T202000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

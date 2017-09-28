@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses6f7d4e94-ffad-4b68-bc49-4a198637976b
-DTSTAMP:20170211T124013
-LOCATION:Y2E2 111
+DTEND;TZID=America/Los_Angeles:20180108T122000
+LAST-MODIFIED:20170927T175952
+UID:explore_coursese75ff8af-e878-4dbc-83fa-ebca382d3082
+DTSTAMP:20170927T175952
+LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Stoichiometry, kinetics, and thermodynamics of microbial processes for the transformation of environmental contaminants. Design of dispersed growth and biofilm-based processes. Applications include treatment of municipal and industrial waste waters, detoxification of hazardous chemicals, and groundwater remediation. Prerequisites: 270; 177 or 274A or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE271B LEC
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

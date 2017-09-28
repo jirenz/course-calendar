@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20170211T124010
-UID:explore_coursesd3f10f7c-106d-40b8-b7c0-db2170498d48
-DTSTAMP:20170211T124010
+DTEND;TZID=America/Los_Angeles:20180402T112000
+LAST-MODIFIED:20170927T175750
+UID:explore_courses695759af-58ef-455c-a5a9-2f9733bf8862
+DTSTAMP:20170927T175750
 LOCATION:160-125
 DESCRIPTION:Prerequisite: PWR 1. What does a musical about founding fathers (<i>Hamilton</i>) have to say about current political upheaval? What do plastic surgery resorts have to say about identify politics? What does Steph Curry's game have to say about Hamlet - and about Prince - with alternative forms of masculinity? In this course we will examine contemporary mashups and remixers and you will build a research project to ground our work across the quarter creating interesting, meaningful, and dynamic presentations and papers. For more information about PWR 2, see https://undergrad.stanford.edu/programs/pwr/courses/pwr-2. For full course descriptions, see https://vcapwr-catalog.stanford.edu. Enrollment is handled by the PWR office.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PWR2KDA SEM
-DTSTART;TZID=America/Los_Angeles:20170403T093000
-CREATED:20170211T124010
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T093000
+CREATED:20170927T175750
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

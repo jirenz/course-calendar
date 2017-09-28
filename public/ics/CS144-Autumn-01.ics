@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20170211T124018
-UID:explore_coursesf8b166d0-bf31-41ff-90a1-2c24b58b7bbd
-DTSTAMP:20170211T124018
-LOCATION:Hewlett Teaching Center 201
+DTEND;TZID=America/Los_Angeles:20170925T162000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses7d0ad69e-1dfb-4c91-ab49-9a251106228f
+DTSTAMP:20170927T175958
+LOCATION:Skillaud
 DESCRIPTION:Principles and practice. Structure and components of computer networks, packet switching, layered architectures. Applications: web/http, voice-over-IP, p2p file sharing and socket programming. Reliable transport: TCP/IP, reliable transfer, flow control, and congestion control. The network layer: names and addresses, routing. Local area networks: ethernet and switches. Wireless networks and network security. Prerequisite: CS 110.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS144 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170925T000000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

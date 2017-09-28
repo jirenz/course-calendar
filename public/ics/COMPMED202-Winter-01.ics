@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T143000
-LAST-MODIFIED:20170211T124036
-UID:explore_courses763ebf9f-973c-4c82-ad3f-e5eb0e13cda1
-DTSTAMP:20170211T124036
+DTEND;TZID=America/Los_Angeles:20180112T113000
+LAST-MODIFIED:20170927T175901
+UID:explore_courses796cfec8-da02-40a2-abb8-d01cc68ed335
+DTSTAMP:20170927T175901
 LOCATION:
 DESCRIPTION:Emphasis is on providing introductory training and practical, hands-on workshops for students interested in learning more about research biomethodology and animal models of human and animal disease. Topics include basic care and principals guiding the use of research animals, animal health and welfare, and research animal enrichment, basic mouse handling, rodent breeding, and the principals of rodent surgery and anesthesia. Content delivered online and in-person.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPMED202 SEM
-DTSTART;TZID=America/Los_Angeles:20170113T093000
-CREATED:20170211T124036
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T143000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T093000
+CREATED:20170927T175901
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T113000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

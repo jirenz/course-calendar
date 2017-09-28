@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T123944
-UID:explore_coursesd0e36f59-03bb-49d5-b5e7-0d6df8638b40
-DTSTAMP:20170211T123944
-LOCATION:40-42A
-DESCRIPTION:Literary inventiveness and social significance of novelistic forms from the Great Depression to the present. The seminar will focus on texts by William Faulkner, Gabriel Garcia Marquez, Toni Morrison, and Junot Diaz.
+DTEND;TZID=America/Los_Angeles:20180402T115000
+LAST-MODIFIED:20170927T175814
+UID:explore_courses6758b3d8-4eb7-4500-bd82-f5268e7ddb86
+DTSTAMP:20170927T175814
+LOCATION:Thornt211
+DESCRIPTION:&lt;em&gt;The Novel, the Global South&lt;/em&gt; Literary inventiveness and social significance of novelistic forms from the Great Depression to the present. The seminar will focus on texts by William Faulkner, Gabriel Garc&iacute;a M&aacute;rquez, Toni Morrison, and Junot D&iacute;az.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DLCL143 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123944
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20170927T175814
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

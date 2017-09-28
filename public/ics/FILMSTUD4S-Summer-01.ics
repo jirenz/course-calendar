@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170630T132000
-LAST-MODIFIED:20170211T123948
-UID:explore_courses9bd94d94-c616-4ef6-a214-f0a55a87a649
-DTSTAMP:20170211T123948
+DTEND;TZID=America/Los_Angeles:20180629T132000
+LAST-MODIFIED:20170927T175823
+UID:explore_courses0ad976fa-42d8-424e-8763-92d16b81b231
+DTSTAMP:20170927T175823
 LOCATION:McMurtry Building 102, Oshman
 DESCRIPTION:This course familiarizes students with various elements of film language (cinematography, editing, sound, etc.) and introduces them to a range of approaches to cinematic analysis (authorship, genre, close formal reading, socio-historical considerations). Different types of films (narrative, documentary, and experimental) will be surveyed. Classical narrative cinema will be compared with alternative modes of story-telling.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FILMSTUD4S LEC
-DTSTART;TZID=America/Los_Angeles:20170630T103000
-CREATED:20170211T123948
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T132000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180629T103000
+CREATED:20170927T175823
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

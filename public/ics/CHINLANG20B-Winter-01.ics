@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T122000
-LAST-MODIFIED:20170211T123941
-UID:explore_courses818ca365-fbb6-4f2f-b35f-0254debc7aed
-DTSTAMP:20170211T123941
-LOCATION:260-011
+DTEND;TZID=America/Los_Angeles:20180108T122000
+LAST-MODIFIED:20170927T175807
+UID:explore_courses2482fde8-b574-42ca-96ff-175007fe93c9
+DTSTAMP:20170927T175807
+LOCATION:160-B40
 DESCRIPTION:Continuation of CHINLANG 20A. This is the second of a series of courses that targets intermediate and low-advanced students interested in expanding their Cantonese repertoire to include vocabulary, grammar, and culture for talking about movies, current events, and topics of interest to them. Students watch authentic Cantonese movies, TV dramas, news clips, and documentaries.  They engage in discussions about topics relevant to them, such as history and identity of Chinese Americans.  There is also an optional field trip to a karaoke bar, a dim sum restaurant, or a Cantonese community every quarter to experience Cantonese culture. Prerequisite: &quot;Cantonese Proficiency Tests&quot; on Coursework, CHINLANG 20A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHINLANG20B LNG
-DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20170211T123941
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T113000
+CREATED:20170927T175807
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T165000
-LAST-MODIFIED:20170211T124051
-UID:explore_courses663ec439-b624-4598-9e24-e6ed5b2c3524
-DTSTAMP:20170211T124051
-LOCATION:Y2E2 111
+DTEND;TZID=America/Los_Angeles:20180111T175000
+LAST-MODIFIED:20170927T175926
+UID:explore_courses4834e6a6-da44-4dc1-9e58-7ca270133456
+DTSTAMP:20170927T175926
+LOCATION:CCSR 4205
 DESCRIPTION:Open to School of Medicine graduate students, medical students, residents and fellows. Focus on the process of new company development and skills for success in biotechnology business, entrepreneurship and finance, including management/leadership skill development, awareness of business terminology and theory. Topics include: financial analysis, feasibility, IP, case practice.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOMGEN239 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T150000
-CREATED:20170211T124051
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T165000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180111T160000
+CREATED:20170927T175926
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

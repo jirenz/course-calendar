@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20170211T123936
-UID:explore_courses8c417757-a64c-4a53-9e63-4c06a2b51f9c
-DTSTAMP:20170211T123936
-LOCATION:McMurtry Building 102, Oshman
+DTEND;TZID=America/Los_Angeles:20170925T145000
+LAST-MODIFIED:20170927T175757
+UID:explore_courses6e7f7ee0-c89a-4e4e-a0b4-8a6d2c84c660
+DTSTAMP:20170927T175757
+LOCATION:200-034
 DESCRIPTION:Emphasis is on how health, illness, and healing are understood, experienced, and constructed in social, cultural, and historical contexts. Topics: biopower and body politics, gender and reproductive technologies, illness experiences, medical diversity and social suffering, and the interface between medicine and science.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO282 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T175757
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T133000
-LAST-MODIFIED:20170211T123952
-UID:explore_courses0c019c04-c88f-441c-b234-2934e442cff4
-DTSTAMP:20170211T123952
-LOCATION:420-245
-DESCRIPTION:Introduction to the principles of classical and modern genetics, evolutionary theory, and population biology. Topics: micro- and macro-evolution, population and molecular genetics, biodiversity, and ecology, emphasizing the genetics and ecology of the evolutionary process and applications to human populations. HUMBIO 2A and 2B are designed to be taken concurrently and exams for both sides may include material from joint module lectures. Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines.
+DTEND;TZID=America/Los_Angeles:20170928T133000
+LAST-MODIFIED:20170927T175830
+UID:explore_coursese7d11386-46c0-4dab-9086-a93ad82c25d5
+DTSTAMP:20170927T175830
+LOCATION:Lathrop 290
+DESCRIPTION:Introduction to the principles of classical and modern genetics, evolutionary theory, and population biology. Topics: micro- and macro-evolution, population and molecular genetics, biodiversity, and ecology, emphasizing the genetics and ecology of the evolutionary process and applications to human populations. HUMBIO 2A and HUMBIO 2B are designed to be taken concurrently and exams for both sides may include material from joint module lectures. Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines. Please note Human Biology majors are required to take the Human Biology Core Courses for a letter grade.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO2A DIS
-DTSTART;TZID=America/Los_Angeles:20160929T123000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T133000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T123000
+CREATED:20170927T175830
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T133000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

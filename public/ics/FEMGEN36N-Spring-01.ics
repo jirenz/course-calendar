@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T123948
-UID:explore_courses7fd7099f-b090-4020-8b1b-71a9802da977
-DTSTAMP:20170211T123948
-LOCATION:110-114
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20170927T175823
+UID:explore_courses68c4da08-c8dd-4d9d-9de2-1f56bd10514b
+DTSTAMP:20170927T175823
+LOCATION:School of Education 229
 DESCRIPTION:Preference to freshmen. Gender, identity, and solidarity as represented in nine autobiographies: Isherwood, Ackerley, Duberman, Monette, Louganis, Barbin, Cammermeyer, Gingrich, and Lorde. To what degree do these writers view sexual orientation as a defining feature of their selves? Is there a difference between the way men and women view identity? What politics follow from these writers' experiences?
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FEMGEN36N ISF
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123948
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175823
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

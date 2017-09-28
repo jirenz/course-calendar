@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T132000
-LAST-MODIFIED:20170211T124036
-UID:explore_coursesa8b64126-7164-4754-8c6c-72da7661d623
-DTSTAMP:20170211T124036
-LOCATION:E.D. Stone Edwards Bldg R358
+DTEND;TZID=America/Los_Angeles:20180108T132000
+LAST-MODIFIED:20170927T175901
+UID:explore_courses90d9b979-1314-4c6a-bdbc-7dd31473918a
+DTSTAMP:20170927T175901
+LOCATION:Alway Building, Room M212
 DESCRIPTION:Focus is on animal modeling and translational research that examines animal and human diseases. Teaches critical reading of scientific papers and presentation skills.  Participants report on recent scientific articles and provide updates on their own research projects. Enrollment limited to undergraduate and graduate students currently matriculated or planning to enroll in the MS in Laboratory Animal Science degree program.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPMED200 SEM
-DTSTART;TZID=America/Los_Angeles:20170109T123000
-CREATED:20170211T124036
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T123000
+CREATED:20170927T175901
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

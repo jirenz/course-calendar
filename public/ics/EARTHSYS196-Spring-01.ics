@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170211T124030
-UID:explore_courses2d8ed4f6-ab25-4487-9927-02880c28adc0
-DTSTAMP:20170211T124030
-LOCATION:ScienceTeachingLearningCntr115
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20170927T175940
+UID:explore_courses777c8004-ab38-489f-add5-0deb3e0be1ac
+DTSTAMP:20170927T175940
+LOCATION:Green Earth Sciences150
 DESCRIPTION:Climate change is the biggest problem humanity has ever faced, and this course will teach students about the means and complexity of solving it. The instructors will guide the students in the application of key data and analysis tools for their final project, which will involve developing integrated plans for eliminating greenhouse gas emissions (100% reductions) by 2050 for a country, state, province, sector, or industry.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS196 SEM
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

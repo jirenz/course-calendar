@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T094500
-LAST-MODIFIED:20170211T124028
-UID:explore_courses60ed3bb4-f84f-448f-9919-937d5acd8627
-DTSTAMP:20170211T124028
+DTEND;TZID=America/Los_Angeles:20180402T094500
+LAST-MODIFIED:20170927T175752
+UID:explore_courses9e92bd47-2ea2-4b23-8bf2-92eba3d81c5c
+DTSTAMP:20170927T175752
 LOCATION:
 DESCRIPTION:(Formerly Law 315)  The Law School offers two survey courses dealing with constitutional criminal procedure. &quot;Criminal Investigation&quot; will consider questions that arise under the fourth, fifth, and sixth amendments regarding investigations, interrogations, and charging decisions. This course, &quot;Criminal Adjudication,&quot; will look at the way the judicial system handles criminal cases. Topics will include the right to counsel (and the concomitant right to &quot;effective assistance&quot; of counsel), prosecutorial discretion and plea bargaining, joinder and severance, discovery, the right to jury trial, double jeopardy, sentencing, and appellate review. Students may take both Criminal Investigation and Criminal Adjudication. (There is, of course, no requirement to do so.)  Elements used in grading:  Attendance, participation and final exam.  Small grade adjustments will be made for exceptional class participation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW2001 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T082500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170526T094500;BYDAY=MO,WE,TH
+DTSTART;TZID=America/Los_Angeles:20180402T082500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180601T094500;BYDAY=MO,WE,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T132000
-LAST-MODIFIED:20170211T123952
-UID:explore_coursesdab76ee4-b1ca-48cf-89fa-5553dbcd753c
-DTSTAMP:20170211T123952
-LOCATION:Lathrop 298
-DESCRIPTION:Introduction to the evolutionary study of human diversity. Hominid evolution, the origins of social complexity, social theory, and the emergence of the modern world system, emphasizing the concept of culture and its influence on human differences. HUMBIO 2A and 2B are designed to be taken concurrently and exams for both sides may include material from joint module lectures.  Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines.
+DTEND;TZID=America/Los_Angeles:20170927T132000
+LAST-MODIFIED:20170927T175830
+UID:explore_coursesbce09e62-11b8-44c7-84c2-7f355ab38f59
+DTSTAMP:20170927T175830
+LOCATION:Lathrop 294
+DESCRIPTION:Introduction to the evolutionary study of human diversity. Hominid evolution, the origins of social complexity, social theory, and the emergence of the modern world system, emphasizing the concept of culture and its influence on human differences. HUMBIO 2B, with HUMBIO 3B and HUMBIO 4B, satisfies the Writing in the Major (WIM) requirement for students in Human Biology. HUMBIO 2A and HUMBIO 2B are designed to be taken concurrently and exams for both sides may include material from joint module lectures. Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines. Please note Human Biology majors are required to take the Human Biology Core Courses for a letter grade.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO2B DIS
-DTSTART;TZID=America/Los_Angeles:20160928T123000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T123000
+CREATED:20170927T175830
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

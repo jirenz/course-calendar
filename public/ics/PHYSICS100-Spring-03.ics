@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T235900
-LAST-MODIFIED:20170211T123959
-UID:explore_courses15f94b4d-179f-49a6-bcbe-a14ae80ffa65
-DTSTAMP:20170211T123959
+DTEND;TZID=America/Los_Angeles:20180403T235900
+LAST-MODIFIED:20170927T175844
+UID:explore_coursesdb208f90-9d90-4250-a6fc-a2ef8801f153
+DTSTAMP:20170927T175844
 LOCATION:
-DESCRIPTION:Designed for undergraduate physics majors but open to all students with a calculus-based physics background and some laboratory and coding experience. Students make and analyze observations using the telescopes at the Stanford Student Observatory. Topics covered include navigating the night sky, the physics of stars and galaxies, telescope instrumentation and operation, imaging and spectroscopic techniques, quantitative error analysis, and effective scientific communication. The course concludes with an independent project. Limited enrollment. Prerequisites: prior completion of Physics 40 or 60 series.
+DESCRIPTION:Designed for undergraduate physics majors but open to all students with a calculus-based physics background and some laboratory and coding experience. Students make and analyze observations using the telescopes at the Stanford Student Observatory. Topics covered include navigating the night sky, the physics of stars and galaxies, telescope instrumentation and operation, imaging and spectroscopic techniques, quantitative error analysis, and effective scientific communication. The course concludes with an independent project where student teams propose and execute an observational astronomy project of their choosing, using techniques learned in class to gather and analyze their data, and presenting their findings in the forms of professional-style oral presentations and research papers. Enrollment by permission. To get a permission number please complete form: http://web.stanford.edu/~elva/physics100prelim.fbn If you have not heard from us by the beginning of class, please come to the first class session.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS100 LBS
-DTSTART;TZID=America/Los_Angeles:20170404T200000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T235900;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T200000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T235900;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

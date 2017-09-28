@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T162000
-LAST-MODIFIED:20170211T124013
-UID:explore_coursesfe42d63a-7c01-4062-b38a-ad8d23fb24da
-DTSTAMP:20170211T124013
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180112T152000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses8d1008d1-d057-4a90-b911-6d8a65b643d2
+DTSTAMP:20170927T175952
+LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:AEC students engage in a crossdisciplinary, collaborative, geographically distributed, and multicultural project-based teamwork. AEC teams exercise their domain knowledge and information technologies in a multidisciplinary context focusing on the design and construction concept development phase of a comprehensive building project. Prerequisite: interview with Instructor in Autumn Quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE222A LEC
-DTSTART;TZID=America/Los_Angeles:20170113T153000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T123000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=FR
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T152000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses5db39af7-33c0-45fe-ad61-eab551fe13db
-DTSTAMP:20170211T124013
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180112T162000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses4306e7b5-1f55-4e69-8b24-e020b77ef0bb
+DTSTAMP:20170927T175952
+LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:AEC students engage in a crossdisciplinary, collaborative, geographically distributed, and multicultural project-based teamwork. AEC teams exercise their domain knowledge and information technologies in a multidisciplinary context focusing on the design and construction concept development phase of a comprehensive building project. Prerequisite: interview with Instructor in Autumn Quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE222A LEC
-DTSTART;TZID=America/Los_Angeles:20170113T123000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T153000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

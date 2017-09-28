@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursesf29fee88-0aa9-4069-985b-a1f42df2748e
-DTSTAMP:20170211T123931
+DTEND;TZID=America/Los_Angeles:20180402T122000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses7b25a265-4976-4ad5-8902-d2779a062f09
+DTSTAMP:20170927T175938
 LOCATION:School of Education 230
 DESCRIPTION:Required for first-year CTE doctoral students. How to conceptualize, design, and interpret research. How to read, interpret, and critique research; formulate meaningful research questions; evaluate and conduct a literature review; and conceptualize a study. Readings include studies from different research paradigms. Required literature review in an area students expect to explore for their qualifying paper.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC424 SEM
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T093000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

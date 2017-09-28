@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T110000
-LAST-MODIFIED:20170211T124028
-UID:explore_courses67a93121-563e-4a47-99b4-0a1d17a899f1
-DTSTAMP:20170211T124028
-LOCATION:Law185
-DESCRIPTION:(Formerly Law 285)  The WTO is a remarkably successful international institution, with perhaps the most effective dispute resolution system of any international organization. This course will survey the law and policy of the WTO system and related legal regimes. Topics will include the political economy of the treaty framework, the relationship between international and domestic law, the dispute resolution system, legal restrictions on border instruments, nondiscrimination obligations in international trade, preferential trading agreements such as NAFTA, TTIP and TPP, WTO rules concerning domestic regulation including the perceived tension between WTO obligations and domestic environmental/health/safety regulations, subsidies in international trade, antidumping law, trade in services, and special issues facing developing countries. Elements used in grading: Class participation and final exam.
+DTEND;TZID=America/Los_Angeles:20180109T124000
+LAST-MODIFIED:20170927T175752
+UID:explore_coursesde779668-2b75-4e5e-a8cf-ab2eb73729d2
+DTSTAMP:20170927T175752
+LOCATION:
+DESCRIPTION:(Formerly Law 285) This course will survey the law and policy of the World Trade Organization and related legal arrangements such as NAFTA, as well as national laws regarding &quot;unfair&quot; international trade practices.  Topics will include the political economy of the treaty framework, the relationship between international and domestic law, bilateralism versus multilateralism, the WTO dispute resolution system, nondiscrimination obligations in international trade, regional trade agreements, the relation between WTO obligations and domestic environmental/health/safety regulations and controversies relating to these issues, subsidies in international trade, antidumping law, trade in services, and currency manipulation. Elements used in grading: Class participation, attendance and final exam.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW5014 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T110000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180109T111000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T124000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T102000
-LAST-MODIFIED:20170211T123955
-UID:explore_courses3ba46df7-42c9-46d5-bc0e-9409b6dce769
-DTSTAMP:20170211T123955
-LOCATION:380-380C
+DTEND;TZID=America/Los_Angeles:20170925T102000
+LAST-MODIFIED:20170927T175837
+UID:explore_courses2b3e5424-dfc4-4145-8ec7-18335ba1b1cc
+DTSTAMP:20170927T175837
+LOCATION:380-380X
 DESCRIPTION:This is the first part of a theoretical (i.e., proof-based) sequence in multivariable calculus and linear algebra, providing a unified treatment of these topics. Covers general vector spaces, linear maps and duality, eigenvalues, inner product spaces, spectral theorem, metric spaces, differentiation in Euclidean space, submanifolds of Euclidean space, inverse and implicit function theorems, and many examples. Part of the linear algebra content is covered jointly with Math 61DM. Students should know 1-variable calculus and have an interest in a theoretical approach to the subject. Prerequisite: score of 5 on the BC-level Advanced Placement calculus exam, or consent of the instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH61CM LEC
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T123955
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175837
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

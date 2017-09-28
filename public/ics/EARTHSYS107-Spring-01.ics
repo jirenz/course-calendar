@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T124030
-UID:explore_coursesef16893d-6354-41ee-9ad2-b45581b527bc
-DTSTAMP:20170211T124030
-LOCATION:Shriram Ctr BioChemE 052
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T175940
+UID:explore_courses783a39ec-6ec6-4538-a0b5-171ce62e2917
+DTSTAMP:20170927T175940
+LOCATION:
 DESCRIPTION:Think controlling the earth's climate is science fiction?  It is when you watch Snowpiercer or Dune, but scientists are already devising geoengineering schemes to slow climate change.  Will we ever resurrect the woolly mammoth or even a T. Rex (think Jurassic Park)? Based on current research, that day will come in your lifetime. Who gets to decide what species to save? And more generally, what scientific and ethical principles should guide our decisions to control nature? In this course, we will examine the science behind ways that people alter and engineer the earth, critically examining the positive and negative consequences.  We'll explore these issues first through popular movies and books and then, more substantively, in scientific research.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS107 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

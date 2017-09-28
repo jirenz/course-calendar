@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T132000
-LAST-MODIFIED:20170211T123949
-UID:explore_courses16f7035d-11e6-40b9-92a8-8e85efd163dd
-DTSTAMP:20170211T123949
-LOCATION:240-110
-DESCRIPTION:Speaking skills and functions including narration, description, supporting opinions, and hypothesizing about current events and issues in France. May be repeated once for credit. Prerequisites: FRENLANG 23C or equivalent.
+DTEND;TZID=America/Los_Angeles:20170925T132000
+LAST-MODIFIED:20170927T175824
+UID:explore_courses6e14bc06-f319-44b8-bd47-701e70f21d0d
+DTSTAMP:20170927T175824
+LOCATION:160-331
+DESCRIPTION:Speaking skills and functions including narration, description, supporting opinions, and hypothesizing about current events and issues in France. May be repeated once for credit. Prerequisites: FRENLANG  22C or 23C or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FRENLANG120 LNG
-DTSTART;TZID=America/Los_Angeles:20160926T123000
-CREATED:20170211T123949
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T123000
+CREATED:20170927T175824
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

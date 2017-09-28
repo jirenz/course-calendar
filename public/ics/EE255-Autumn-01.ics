@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T175000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses2a6ccb12-0971-4c0e-9851-d71bec649b4e
-DTSTAMP:20170211T124020
-LOCATION:50-52H
+DTEND;TZID=America/Los_Angeles:20170925T172000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses43b6ce07-0aaf-49b7-bf1f-df998b6a51bd
+DTSTAMP:20170927T180001
+LOCATION:380-380Y
 DESCRIPTION:Many green technologies including hybrid cars, photovoltaic energy systems, efficient power supplies, and energy-conserving control systems have at their heart intelligent, high-power electronics.  This course examines this technology and uses green-tech examples to teach the engineering principles of modeling, optimization, analysis, simulation, and design.  Topics include power converter topologies, periodic steady-state analysis, control, motors and drives, photovol-taic systems, and design of magnetic components.  The course involves a hands-on laboratory and a substantial final project.  Formerly EE 152. Required: EE101B, EE102A, EE108.  Recommended:  ENGR40 or EE122A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE255 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T163000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T163000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

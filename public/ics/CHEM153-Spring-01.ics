@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T102000
-LAST-MODIFIED:20170211T123940
-UID:explore_courses45987f1c-e06f-4afd-b1dd-f0769e421fff
-DTSTAMP:20170211T123940
-LOCATION:ScienceTeachingLearningCntr118
+DTEND;TZID=America/Los_Angeles:20180402T102000
+LAST-MODIFIED:20170927T175805
+UID:explore_coursesd376e1c4-6ba4-41c6-a127-aec08d810935
+DTSTAMP:20170927T175805
+LOCATION:STLC119
 DESCRIPTION:The theoretical aspects of inorganic chemistry. Group theory; many-electron atomic theory; molecular orbital theory emphasizing general concepts and group theory; ligand field theory; application of physical methods to predict the geometry, magnetism, and electronic spectra of transition metal complexes. Prerequisites: 151, 173.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM153 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T083000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T083000
+CREATED:20170927T175805
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

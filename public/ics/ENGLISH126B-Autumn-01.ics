@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170211T123947
-UID:explore_courses8b9d6cae-a390-43c5-a9d5-78c3045c9337
-DTSTAMP:20170211T123947
-LOCATION:320-107
-DESCRIPTION:A set of major works of art produced at the peak of the novel&iquest;s centrality as a cultural form: Austen&iquest;s <i>Emma</i>, Bronte&iquest;s <i>Wuthering Heights</i>, Eliot&iquest;s <i>Middlemarch</i>, Dickens&iquest;s <i>Great Expectations</i>, Stevenson&iquest;s <i>Dr. Jekyll and Mr. Hyde</i>, Hardy&iquest;s <i>Tess of the d&iquest;Urbervilles.</i> The paradoxes of work, consciousness and the organization of narrative experience, habit and attention. Urban experience, shifting forms of individualism, ways of knowing other persons. Binary and concentric structures, happiness and moral action, arrays of characters.
+DTEND;TZID=America/Los_Angeles:20170925T172000
+LAST-MODIFIED:20170927T175821
+UID:explore_coursesc0a0f839-1fc0-4c9f-a557-618fa59536ce
+DTSTAMP:20170927T175821
+LOCATION:240-110
+DESCRIPTION:A set of major works of art produced at the peak of the novel's centrality as a cultural form: Austen's <i>Emma</i>, Bronte's <i>Wuthering Heights</i>, Eliot's <i>Middlemarch</i>, Dickens's <i>Great Expectations</i>, Stevenson's <i>Dr. Jekyll and Mr. Hyde</i>, Hardy's <i>Tess of the d'Urbervilles.</i> The paradoxes of work, consciousness and the organization of narrative experience, habit and attention. Urban experience, shifting forms of individualism, ways of knowing other persons. Binary and concentric structures, happiness and moral action, arrays of characters.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGLISH126B SEM
-DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T153000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

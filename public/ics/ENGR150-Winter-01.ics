@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T175000
-LAST-MODIFIED:20170211T124020
-UID:explore_coursesf7a94c5b-418f-48c6-887a-bb9195cdf92f
-DTSTAMP:20170211T124020
+DTEND;TZID=America/Los_Angeles:20180108T175000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursesde5ada0c-afc7-4d35-abb9-5cd750978ee1
+DTSTAMP:20170927T180001
 LOCATION:Lathrop 190
 DESCRIPTION:In this lab, students develop the practical skills of data science by solving a series of increasingly difficult, real problems. Skills developed include: data manipulation, data visualization, exploratory data analysis, and basic modeling. The data challenges each student undertakes are based upon their current skills. Students receive one-on-one coaching and see how expert practitioners solve the same challenges. Limited enrollment; application required. See http://datalab.stanford.edu for more information.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR150 SEM
-DTSTART;TZID=America/Los_Angeles:20170109T163000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20180108T163000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

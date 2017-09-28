@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T142000
-LAST-MODIFIED:20170211T123952
-UID:explore_coursesa32b4789-7935-4efa-8735-00c4ce42350a
-DTSTAMP:20170211T123952
-LOCATION:Lathrop 298
-DESCRIPTION:Integrative Physiology: Neurobiology, endocrinology, and organ system function, control, and regulation. HUMBIO 4A and 4B are designed to be taken concurrently and exams for both sides may include material from joint module lectures.  Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines.
+DTEND;TZID=America/Los_Angeles:20180403T142000
+LAST-MODIFIED:20170927T175831
+UID:explore_courses99ff50d0-3020-4b93-9a85-342657e7246f
+DTSTAMP:20170927T175831
+LOCATION:Lathrop 294
+DESCRIPTION:Integrative Physiology: Neurobiology, endocrinology, and organ system function, control, and regulation. HUMBIO 4A and HUMBIO 4B are designed to be taken concurrently and exams for both sides may include material from joint module lectures. Concurrent enrollment is strongly encouraged and is necessary for majors in order to meet declaration deadlines. Please note Human Biology majors are required to take the Human Biology Core Courses for a letter grade.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO4A DIS
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175831
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T142000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

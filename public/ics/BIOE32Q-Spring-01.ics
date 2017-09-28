@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T132000
-LAST-MODIFIED:20170211T124011
-UID:explore_courses1db6aab8-6cd8-4128-ab3c-69c953025e2f
-DTSTAMP:20170211T124011
+DTEND;TZID=America/Los_Angeles:20180406T132000
+LAST-MODIFIED:20170927T175948
+UID:explore_courses53884fc3-fcea-4fd4-bebe-8b74c62b952b
+DTSTAMP:20170927T175948
 LOCATION:
 DESCRIPTION:This seminar is for anyone who loves food, cooking or science! We will focus on the science and biology behind the techniques and the taste buds. Not a single lecture will pass by without a delicious opportunity - each weekly meeting will include not only lecture, but also a lab demonstration and a chance to prepare classic dishes that illustrate that day's scientific concepts.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE32Q ISS
-DTSTART;TZID=America/Los_Angeles:20170407T103000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180406T103000
+CREATED:20170927T175948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

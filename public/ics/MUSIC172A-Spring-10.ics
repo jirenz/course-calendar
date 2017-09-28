@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T190000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursesef56c792-321d-46cb-921e-e07b1043c3ee
-DTSTAMP:20170211T123957
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180403T173000
+LAST-MODIFIED:20170927T175841
+UID:explore_coursesb7289940-02e2-4aec-975a-bc7c7c13425e
+DTSTAMP:20170927T175841
+LOCATION:Campbell Recital Hall 126
 DESCRIPTION:Private lessons and group master class weekly. May be repeated for credit a total of 14 times. Admission is by audition only. There is a fee for this class. Please visit http://music.stanford.edu/Academics/LessonSignups.html for class fees and audition information. All participants must enroll. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC172A WKS
-DTSTART;TZID=America/Los_Angeles:20170403T173000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T190000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180403T160000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T173000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

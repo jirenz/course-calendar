@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160922T170000
-LAST-MODIFIED:20170211T124027
-UID:explore_coursesa1e4f12b-bc8e-4531-a977-06f7aabc812e
-DTSTAMP:20170211T124027
+DTEND;TZID=America/Los_Angeles:20170921T170000
+LAST-MODIFIED:20170927T175744
+UID:explore_coursesad5d79e2-acea-498a-a0cd-6e07c4c02eef
+DTSTAMP:20170927T175744
 LOCATION:
 DESCRIPTION:This course introduces you to the structures and processes that affect group performance and highlights some of the common pitfalls associated with working in teams. Topics include team culture, fostering creativity and coordination, making group decisions, and dealing with a variety of personalities. You will participate in a number of group exercises to illustrate principles of teamwork and to give you practice not only diagnosing team problems but also taking action to improve total team performance.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OB205 WKS
-DTSTART;TZID=America/Los_Angeles:20160922T133000
-CREATED:20170211T124027
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160923T170000;BYDAY=TH,FR
+DTSTART;TZID=America/Los_Angeles:20170921T133000
+CREATED:20170927T175744
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170922T170000;BYDAY=TH,FR
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160919T113000
-LAST-MODIFIED:20170211T124027
-UID:explore_coursesb39898f7-4da8-42ad-849e-9bf2c30bdaf0
-DTSTAMP:20170211T124027
+DTEND;TZID=America/Los_Angeles:20170918T113000
+LAST-MODIFIED:20170927T175744
+UID:explore_coursesbb43dc22-1c79-42fc-baae-8e34dd4e4460
+DTSTAMP:20170927T175744
 LOCATION:GSB Class of 1968 105
 DESCRIPTION:This course introduces you to the structures and processes that affect group performance and highlights some of the common pitfalls associated with working in teams. Topics include team culture, fostering creativity and coordination, making group decisions, and dealing with a variety of personalities. You will participate in a number of group exercises to illustrate principles of teamwork and to give you practice not only diagnosing team problems but also taking action to improve total team performance.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OB205 WKS
-DTSTART;TZID=America/Los_Angeles:20160919T080000
-CREATED:20170211T124027
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20160923T113000;BYDAY=MO,TU,WE
+DTSTART;TZID=America/Los_Angeles:20170918T080000
+CREATED:20170927T175744
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170922T113000;BYDAY=MO,TU,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170211T123943
-UID:explore_courses26c7d7e7-1c53-4bc8-be44-3396ffae7806
-DTSTAMP:20170211T123943
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175813
+UID:explore_courses27b63528-61a6-4df8-b707-c3b4cb5ca97e
+DTSTAMP:20170927T175813
 LOCATION:
 DESCRIPTION:Required for students working to fulfill WIM requirements for a second CSRE Family of Programs major; including those who opt to write honors theses in other departments and programs. Research and the writing of the senior honors thesis or senior paper under the supervision of a faculty project adviser. The process of research including conceptualization, development of prospectus, development of theses, research, analysis, and writing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CSRE201X SEM
-DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20170211T123943
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T175813
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

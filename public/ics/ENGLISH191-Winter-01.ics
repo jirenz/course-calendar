@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170211T123947
-UID:explore_coursesed4eb6b7-8c03-450c-9f5b-829ee36121f3
-DTSTAMP:20170211T123947
-LOCATION:School of Education 36
+DTEND;TZID=America/Los_Angeles:20180109T112000
+LAST-MODIFIED:20170927T175821
+UID:explore_courses7fb6fbc1-5f08-49dd-acf2-0773e604c927
+DTSTAMP:20170927T175821
+LOCATION:Gilbert Biological Science 117
 DESCRIPTION:Continuation of 91. Workshop. The application of advanced storytelling techniques to fact-based personal narratives, emphasizing organic writing, discovering audience, and publication. Guest lecturers, collaborative writing, and publication of the final project in print, audio, or web formats. Prerequisite: 91 or 90.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGLISH191 WKS
-DTSTART;TZID=America/Los_Angeles:20170110T113000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T093000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

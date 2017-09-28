@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T094500
-LAST-MODIFIED:20170211T124025
-UID:explore_coursese507d084-1339-4579-9f24-b3e812869ac4
-DTSTAMP:20170211T124025
-LOCATION:GSB Class of 1968 106
+DTEND;TZID=America/Los_Angeles:20170925T094500
+LAST-MODIFIED:20170927T175741
+UID:explore_courses3f083580-c38d-469c-a3b1-4525fbe86d1e
+DTSTAMP:20170927T175741
+LOCATION:GSB Patterson 107
 DESCRIPTION:This course develops students' ability to read, understand, and use corporate financial statements. The course is oriented toward the user of financial accounting data (rather than the preparer) and emphasizes the reconstruction and interpretation of economic events from published accounting reports. The course is geared toward students with some familiarity in dealing with financial statement information and allows for deeper coverage and discussion in class.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ACCT213 CAS
-DTSTART;TZID=America/Los_Angeles:20160927T080000
-CREATED:20170211T124025
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T094500;BYDAY=TU,FR
+DTSTART;TZID=America/Los_Angeles:20170925T080000
+CREATED:20170927T175741
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T094500;BYDAY=MO,TH
 END:VEVENT
 END:VCALENDAR

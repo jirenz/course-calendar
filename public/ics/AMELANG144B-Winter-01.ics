@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T142000
-LAST-MODIFIED:20170211T123934
-UID:explore_coursesa58e153a-d2f8-47e0-bac3-ab79a3d05252
-DTSTAMP:20170211T123934
-LOCATION:200-107
+DTEND;TZID=America/Los_Angeles:20180108T142000
+LAST-MODIFIED:20170927T175754
+UID:explore_courses73eb0779-ace9-4615-83c9-d5ba31d575c4
+DTSTAMP:20170927T175754
+LOCATION:50-51B
 DESCRIPTION:Continuation of AMLELANG 144A. One-year sequence. Modern Persian for beginners; concentrates on rapidly developing basic skills in speaking, reading, writing, and understanding modern Persian. Strong emphasis is on the links between language and culture. The course is based on a fully integrated multimedia program. Students will learn the language with an emphasis on communicative and interactive classroom activities. Prerequisite: Placement Test, AMELANG 144A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AMELANG144B LNG
-DTSTART;TZID=America/Los_Angeles:20170109T123000
-CREATED:20170211T123934
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T142000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T123000
+CREATED:20170927T175754
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

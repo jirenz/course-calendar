@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T175000
-LAST-MODIFIED:20170211T123957
-UID:explore_courses15ee6b19-0f81-4de1-bd0e-ddcd57a1e73f
-DTSTAMP:20170211T123957
-LOCATION:School of Education 230
+DTEND;TZID=America/Los_Angeles:20180404T162000
+LAST-MODIFIED:20170927T175841
+UID:explore_coursesb22f03c3-d388-4655-bf06-937de9fe1367
+DTSTAMP:20170927T175841
+LOCATION:260-002
 DESCRIPTION:Western medicine's definition of health as the absence of sickness, disease, or pathology; Native American cultures' definition of health as the beauty of physical, spiritual, emotional, and social things, and sickness as something out of balance. Topics include: historical trauma; spirituality and healing; cultural identity; values and acculturation; and individual, school, and community-based interventions. Prerequisite: experience working with American Indian communities.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NATIVEAM240 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180404T133000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

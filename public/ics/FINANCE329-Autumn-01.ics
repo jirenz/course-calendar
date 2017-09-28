@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170211T124026
-UID:explore_coursesb6284973-fd96-49c4-9b50-ebf1ade9a76c
-DTSTAMP:20170211T124026
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T175742
+UID:explore_coursesbcb4d299-e0cb-4f6b-b22e-b548020b9b26
+DTSTAMP:20170927T175742
 LOCATION:GSB McClelland 105
-DESCRIPTION:F329 - Investment Seminar: &quot;Global Principal Investing/Hedge Funds&quot; is a seminar focused on selected topics in masterful investing in publicly traded with some private equity capital investments, with emphasis on the principal's point of view. We study hedge funds and mutual funds and meet with outstanding investors. The scope and context is global including emerging markets. The Seminar is taught by a founding director of one of the largest international investment funds. See yellow Term Sheet put in MBA Boxes in late April. All those registered in F321.02 will also be registered in F329. nNote: All those registered in F321.01 will also be registered in F319.
+DESCRIPTION:F329 - Investment Seminar: &quot;Global Principal Investing/Hedge Funds&quot; is a seminar focused on selected topics in masterful investing in publicly traded with some private equity capital investments, with emphasis on the principal's point of view. We study hedge funds and mutual funds and meet with outstanding investors. The scope and context is global including emerging markets. The Seminar is taught by a founding director of one of the largest international investment funds. See yellow Term Sheet put in MBA Boxes in late April. All those registered in F321.02 will also be registered in F329. nnNote: All those registered in F321.01 will also be registered in F319.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FINANCE329 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T124026
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175742
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

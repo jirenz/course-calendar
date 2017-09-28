@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T162000
-LAST-MODIFIED:20170211T124036
-UID:explore_coursesc639c129-fe3a-4fb6-a616-3616ba3cb5a2
-DTSTAMP:20170211T124036
-LOCATION:CCSR 4205
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20170927T175900
+UID:explore_coursesdafdd1b0-db04-4038-b0ae-ac78c83ebf32
+DTSTAMP:20170927T175900
+LOCATION:MSOBX303
 DESCRIPTION:Design principles and statistical methods for observational studies. Topics include: matching methods, sensitivity analysis, instrumental variables, graphical models, marginal structural models. 3 unit registration requires a small project and presentation. Computing is in R. Pre-requisites: HRP 261 and 262 or STAT 209 (HRP 239), or equivalent. See http://rogosateaching.com/somgen290/
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHPR290 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T143000
-CREATED:20170211T124036
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T143000
+CREATED:20170927T175900
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

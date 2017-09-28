@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T105000
-LAST-MODIFIED:20170211T124007
-UID:explore_courses87f8b2db-1997-4f2a-92c4-4d457b6527f4
-DTSTAMP:20170211T124007
+DTEND;TZID=America/Los_Angeles:20170929T105000
+LAST-MODIFIED:20170927T175746
+UID:explore_courses5d820245-ce5f-4d9a-aaa0-25f8430f8a81
+DTSTAMP:20170927T175746
 LOCATION:Bishop Auditorium
 DESCRIPTION:One-unit lecture series featuring prominent intellectuals lecturing on the nature and meaning of liberal education (associated with Education as Self-Fashioning.)  NOTE: students enrolled in the 7-unit ESF course should NOT add this course to their study list; this 1-unit course is only for non-ESF students who wish to enroll in the lecture series only.  Lectures will constitute an ongoing, campus-wide conversation about the aims of liberal education that extends the ''First Lecture'' featured in New Student Orientation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESF50 LEC
-DTSTART;TZID=America/Los_Angeles:20160930T093000
-CREATED:20170211T124007
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T105000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170929T093000
+CREATED:20170927T175746
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T105000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

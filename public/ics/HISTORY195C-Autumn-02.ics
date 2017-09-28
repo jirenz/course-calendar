@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T192000
-LAST-MODIFIED:20170211T123951
-UID:explore_coursesbee93a0c-26c3-43ea-8c7f-e00b1c245b00
-DTSTAMP:20170211T123951
-LOCATION:200-105
+DTEND;TZID=America/Los_Angeles:20170927T162000
+LAST-MODIFIED:20170927T175829
+UID:explore_coursesf7b655cd-6397-488e-ae3c-0c89163a231f
+DTSTAMP:20170927T175829
+LOCATION:160-120
 DESCRIPTION:(Same as HISTORY 95C. History majors and others taking 5 units, register for 195C.) Japan's modern transformation from the late 19th century to the present. Topics include: the Meiji revolution; industrialization and social dislocation; the rise of democracy and empire; total war and US occupation; economic miracle and malaise; Japan as soft power; and politics of memory. Readings and films focus on the lived experience of ordinary men and women across social classes and regions.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY195C DIS
-DTSTART;TZID=America/Los_Angeles:20160926T183000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T192000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170927T153000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170406T175000
-LAST-MODIFIED:20170211T123951
-UID:explore_courses7f919e9c-52f6-4c19-8a1a-ae8618b11585
-DTSTAMP:20170211T123951
-LOCATION:200-305
-DESCRIPTION:This mini-course explores the history of gender crossing and transgressions, broadly defined. A series of Stanford faculty and one visitor will present historical interpretations of who, why, and how individuals have crossed gender boundaries, as well as how different societies have reacted to gender crossing. The topics range across time from medieval to modern times and across geographic regions from Europe, China, and Iran to the Americas. Short reading assignments will be made available for each class meeting; students must attend all five sessions, complete the readings, and write a summary paper to receive one unit of credit for the series.
+DTEND;TZID=America/Los_Angeles:20180405T182000
+LAST-MODIFIED:20170927T175829
+UID:explore_coursesbf12f3cc-9e3f-4a74-b107-027673644223
+DTSTAMP:20170927T175829
+LOCATION:200-107
+DESCRIPTION:This series of six lectures explores the history of gender crossings and transgressions, broadly defined. Several Stanford faculty members and one visitor will present historical interpretations of how and why individuals crossed gender boundaries in the past, as well as how different societies have reacted to gender crossing. The topics range from medieval to modern times and across geographic regions, including Europe, China, South Asia and the Americas.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY3B LEC
-DTSTART;TZID=America/Los_Angeles:20170406T163000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T163000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

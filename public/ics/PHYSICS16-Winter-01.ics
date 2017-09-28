@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T145000
-LAST-MODIFIED:20170211T123959
-UID:explore_courses0bd0fd71-93f3-4ce0-a1cb-625e7a978c53
-DTSTAMP:20170211T123959
-LOCATION:ScienceTeachingLearningCntr114
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T175844
+UID:explore_coursesc1c6eac3-9aa0-4ef9-81fb-b018a3b8c8f1
+DTSTAMP:20170927T175844
+LOCATION:Lathrop 299
 DESCRIPTION:How did the present Universe come to be? The last few decades have seen remarkable progress in understanding this age-old question. Course will cover the history of the Universe from its earliest moments to the present day, and the physical laws that govern its evolution.  The early Universe including inflation and the creation of matter and the elements.  Recent discoveries in our understanding of the makeup of the cosmos, including dark matter and dark energy.  Evolution of galaxies, clusters, and quasars, and the Universe as a whole.  Implications of dark matter and dark energy for the future evolution of the cosmos. Intended to be accessible to non-science majors, material is explored quantitatively with problem sets using basic algebra and numerical estimates.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS16 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T133000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

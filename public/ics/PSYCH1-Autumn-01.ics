@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20170211T124001
-UID:explore_courses6c59b769-6348-46d7-99fa-3f06b74ed24c
-DTSTAMP:20170211T124001
+DTEND;TZID=America/Los_Angeles:20170925T115000
+LAST-MODIFIED:20170927T175847
+UID:explore_coursesba376e48-4c99-452c-a974-f65a306f4eba
+DTSTAMP:20170927T175847
 LOCATION:420-040
 DESCRIPTION:An introduction to the science of how people think, feel, and behave. We will explore such topics as intelligence, perception, memory, happiness, personality, culture, social influence, development, emotion, and mental illness. Students will learn about classic and cutting edge research, a range of methods, and discover how psychology informs our understanding of what it means to be human, addresses other fields, and offers solutions to important social problems.nnAn alternative version of the course, PSYCH 1L, is also offered for reduced (3) units, but does not count for major/minor requirements for Psychology or other disciplines. For more information on PSYCH 1 and PSYCH 1L, visit http://psychone.stanford.edu
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH1 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T124001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T103000
+CREATED:20170927T175847
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

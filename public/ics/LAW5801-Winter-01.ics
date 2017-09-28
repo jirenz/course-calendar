@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T211500
-LAST-MODIFIED:20170211T124028
-UID:explore_coursesa0999d70-a221-47c7-8402-52ca6112d417
-DTSTAMP:20170211T124028
-LOCATION:Law272
+DTEND;TZID=America/Los_Angeles:20180109T211500
+LAST-MODIFIED:20170927T175752
+UID:explore_coursesedc507dd-d407-4766-bae2-7a63f71b5550
+DTSTAMP:20170927T175752
+LOCATION:
 DESCRIPTION:(Formerly Law 496)  The Legal Studies Workshop is designed to support students working on a piece of legal scholarship with an eye to publication. The workshop will meet every other week throughout the academic year. Students may sign up for any combination of quarters, and will receive one credit for each quarter they are enrolled. Each session will be devoted to presentations of one or two student works-in-progress. Every student is expected to present his or her own work at least once while enrolled (although many students enroll for multiple quarters), and to provide constructive oral feedback on others' work. Attendance is mandatory (except of course for extenuating circumstances). There are no written requirements for the course, and no requirement that the work presented be original to the Workshop. Students may wish to use the Workshop as an opportunity to expand on seminar papers or pursue independent research projects for which they are getting separate credit through one of the research tracks (e.g., directed research, dissertation). Whether students are working on a new project or revising an old, the expectation is that students will develop their topics independent of the course. Students who would like to participate in the Workshop but feel they need help in developing a workable research topic should consult faculty members ahead of time. Elements used in grading: Class participation and attendance.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW5801 SEM
-DTSTART;TZID=America/Los_Angeles:20170109T191500
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T211500;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180109T191500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T211500;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

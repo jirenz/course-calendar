@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T152000
-LAST-MODIFIED:20170211T123938
-UID:explore_courses686f6742-c3d8-4fc9-b876-2eb951655127
-DTSTAMP:20170211T123938
-LOCATION:McMurtry Building rm 303
+DTEND;TZID=America/Los_Angeles:20180108T152000
+LAST-MODIFIED:20170927T175933
+UID:explore_coursesb30de3a1-536a-4f5d-9767-4d834eae9610
+DTSTAMP:20170927T175933
+LOCATION:McMurtry Building rm 301
 DESCRIPTION:Functional anatomy and perspective as they apply to problems of drawing the form in space. Individual and group instruction as students work from still life set-ups, nature, and the model. Emphasis is on the development of critical skills and perceptual drawing techniques for those with little or no previous experience with pastels, inks, charcoal, conte, and pencil. Lectures alternate with studio work. (lower level)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTSTUDI140 PRC
-DTSTART;TZID=America/Los_Angeles:20170109T133000
-CREATED:20170211T123938
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

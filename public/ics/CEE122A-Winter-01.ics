@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T162000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses986fbb8f-fc59-4898-8d4c-87dcf59c45f8
-DTSTAMP:20170211T124013
+DTEND;TZID=America/Los_Angeles:20180112T152000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses0f86def6-7881-4f43-b599-4ae062773d0a
+DTSTAMP:20170927T175952
 LOCATION:
 DESCRIPTION:Undergraduates serve as apprentices to graduate students in the AEC global project teams in CEE 222A. Apprentices participate in all activities of the AEC team, including the goals, objectives, constraints, tasks, and process of a crossdisciplinary global AEC teamwork in the concept development phase of a comprehensive building project. Prerequisite: consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE122A LEC
-DTSTART;TZID=America/Los_Angeles:20170113T153000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T123000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=FR
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T152000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses356f57ad-0cc8-442e-9b6c-7e3bcfa7b884
-DTSTAMP:20170211T124013
+DTEND;TZID=America/Los_Angeles:20180112T162000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses27bdd0e4-e275-4b9d-9f8a-351c8bc2df8e
+DTSTAMP:20170927T175952
 LOCATION:
 DESCRIPTION:Undergraduates serve as apprentices to graduate students in the AEC global project teams in CEE 222A. Apprentices participate in all activities of the AEC team, including the goals, objectives, constraints, tasks, and process of a crossdisciplinary global AEC teamwork in the concept development phase of a comprehensive building project. Prerequisite: consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE122A LEC
-DTSTART;TZID=America/Los_Angeles:20170113T123000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T152000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T153000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

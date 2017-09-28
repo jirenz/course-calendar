@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T112000
-LAST-MODIFIED:20170211T124000
-UID:explore_coursesd7c9f219-5bbb-49e3-bea1-0b7af850685c
-DTSTAMP:20170211T124000
-LOCATION:School of Education 313
-DESCRIPTION:(Formerly POLISCI 1) Approaches to the study of conflict and cooperation in world affairs. Applications to war, terrorism, trade policy, the environment, and world poverty. Debates about the ethics of war and the global distribution of wealth.
+DTEND;TZID=America/Los_Angeles:20170928T112000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses39cf5c0c-94f6-447d-ab3a-32f849ab7d59
+DTSTAMP:20170927T175846
+LOCATION:160-329
+DESCRIPTION:Approaches to the study of conflict and cooperation in world affairs. Applications to First and Second World Wars, the Cold War, terrorism, economic policy, and development.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI101 DIS
-DTSTART;TZID=America/Los_Angeles:20160929T103000
-CREATED:20170211T124000
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T103000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

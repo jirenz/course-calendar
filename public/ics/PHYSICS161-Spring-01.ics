@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T145000
-LAST-MODIFIED:20170211T123959
-UID:explore_courses47c948fb-8ff6-45f3-9123-f130ef146843
-DTSTAMP:20170211T123959
-LOCATION:Hewlett Teaching Center 103
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20170927T175844
+UID:explore_coursesf441a6a9-7e2d-4d77-b316-f7280a5f93e7
+DTSTAMP:20170927T175844
+LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:What do we know about the physical origins, content, and evolution of the Universe -- and how do we know it? Students learn how cosmological distances and times, and the geometry and expansion of space, are described and measured. Composition of the Universe. Origin of matter and the elements. Observational evidence for dark matter and dark energy. Thermal history of the Universe, from inflation to the present. Emergence of large-scale structure from quantum perturbations in the early Universe. Astrophysical tools used to learn about the Universe.  Big open questions in cosmology.  Undergraduates register for Physics 161. Graduates register for Physics 261. (Graduate students will be required to complete additional assignments in a format determined by the instructor.) Prerequisite: PHYSICS 121 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS161 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T132000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses8b8359a2-e88f-436a-8708-70969ead1476
-DTSTAMP:20170211T124013
+DTEND;TZID=America/Los_Angeles:20180402T132000
+LAST-MODIFIED:20170927T175953
+UID:explore_courses5274af7c-511a-454a-95af-fa7e9312b501
+DTSTAMP:20170927T175953
 LOCATION:Turingaud
 DESCRIPTION:Evaluation, design, and construction of structures in seismic regions. Factors influencing earthquake ground motions, design spectra, design of linear and nonlinear single- and multiple-degree-of-freedom-system structures,  force-based and displacement-based design methods, capacity design, detailing and construction of steel and reinforced concrete structures, introduction to performance-based design, seismic isolation, and energy dissipation. Prerequisites: 283 and either 285A or 285B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE287 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T113000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T132000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T113000
+CREATED:20170927T175953
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

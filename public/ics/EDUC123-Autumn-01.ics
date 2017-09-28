@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T205000
-LAST-MODIFIED:20170211T123930
-UID:explore_coursesee7bae05-b05c-455a-958a-d5f983af9436
-DTSTAMP:20170211T123930
-LOCATION:160-124
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses521e3965-6c08-4ca5-b5d7-6c7a2a0fb2ad
+DTSTAMP:20170927T175938
+LOCATION:Econ 139
 DESCRIPTION:Issues and strategies for studying oral and written discourse as a means for understanding classrooms, students, and teachers, and teaching and learning in educational contexts. The forms and functions of oral and written language in the classroom, emphasizing teacher-student and peer interaction, and student-produced texts. Individual projects utilize discourse analytic techniques.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC123 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T180000
-CREATED:20170211T123930
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T205000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T090000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T123000
-LAST-MODIFIED:20170211T124024
-UID:explore_coursesf2de2df4-369a-4a40-9723-07ca3b466ec9
-DTSTAMP:20170211T124024
+DTEND;TZID=America/Los_Angeles:20180109T122000
+LAST-MODIFIED:20170927T175934
+UID:explore_courses9286d604-3911-4e36-ac65-2d0452dbf0c4
+DTSTAMP:20170927T175934
 LOCATION:ArrilagaOutdoorEducRecCtrUpStu
 DESCRIPTION:Students will learn a variety of exercises that focuses on total body resistance exercise. This class allows you to move, stretch and strengthen the entire body.  Exercising on the TRX utilizes gravity and movement to generate neuromuscular responses to changes in body position and mechanical advantage. Movements using the TRX integrate strength and balance into a single dynamic format. This course will utilize class discussions, class assignments and student participation to enable students to: (1) Understand basic components of health-related physical fitness such as: cardiovascular fitness, muscular strength and endurance and flexibility (2) Develop physical fitness and motor skills, and (3) Develop a positive attitude toward wellness and physical activity which will facilitate a healthy lifestyle.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PE5 ACT
-DTSTART;TZID=America/Los_Angeles:20170110T113000
-CREATED:20170211T124024
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T123000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T113000
+CREATED:20170927T175934
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

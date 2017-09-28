@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T182000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursesd9a1a4ef-fbbc-4e2c-8f5b-36245aef24f1
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180108T182000
+LAST-MODIFIED:20170927T175841
+UID:explore_coursesc7b183fa-4be7-4930-bec6-9ef3196c0fdb
+DTSTAMP:20170927T175841
 LOCATION:
 DESCRIPTION:Private lessons and group master classes weekly. May be repeated for credit a total of 14 times. Admission is by audition only. There is a fee for this class. Please visit http://music.stanford.edu/Academics/LessonSignups.html for class fees and audition information. All participants must enroll. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC173 WKS
-DTSTART;TZID=America/Los_Angeles:20170109T163000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T163000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170628T193000
-LAST-MODIFIED:20170211T124041
-UID:explore_courses05787982-15fc-4346-b7b3-45de9181ed53
-DTSTAMP:20170211T124041
+DTEND;TZID=America/Los_Angeles:20180627T193000
+LAST-MODIFIED:20170927T175908
+UID:explore_courses82f8eec1-a655-4fad-bc7e-d8818d19ef55
+DTSTAMP:20170927T175908
 LOCATION:
 DESCRIPTION:Teams of preclinical students meet weekly with a clinical student to hear the history and physical of a recent case the clinical student encountered on the wards. Following the presentation, the preclinical students work together under the guidance of the clinical student to develop a problem list and plan, which are then compared with the problem list, plan, and orders made by the actual admitting team. In the course of presenting the cases, the clinical student describes personal experiences and practical components of ward work and daily clinical routine.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED248 SEM
-DTSTART;TZID=America/Los_Angeles:20170628T183000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T193000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180627T183000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T193000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

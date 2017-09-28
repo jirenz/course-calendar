@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T132000
-LAST-MODIFIED:20170211T123941
-UID:explore_courses906d6fa1-423b-414d-910f-db312301d9a8
-DTSTAMP:20170211T123941
-LOCATION:260-003
+DTEND;TZID=America/Los_Angeles:20170925T132000
+LAST-MODIFIED:20170927T175807
+UID:explore_coursesd618c464-5490-42fb-a9e1-c6fbbe21c993
+DTSTAMP:20170927T175807
+LOCATION:200-203
 DESCRIPTION:Increasing Chinese language proficiency through reading original modern Chinese literary masterpieces covered in Chingen 133/233, including prominent modern Chinese writers such as Lu Xun, Shen Congwen, Ding Ling, Zhang Ailing and Yu Hua. Students will gain Chinese language skills and enhance their understanding of Chinese culture. Enrollment in Chingen 133/233 is not required but encouraged. Prerequisite: Chinlang 103, chinlang 103B or equivalent (proved by placement test result).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHINLANG125 LNG
-DTSTART;TZID=America/Los_Angeles:20160926T123000
-CREATED:20170211T123941
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T123000
+CREATED:20170927T175807
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

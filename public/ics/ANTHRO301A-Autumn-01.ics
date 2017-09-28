@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20170211T123936
-UID:explore_courses074ef003-7028-4709-a6c2-81a95a8e656e
-DTSTAMP:20170211T123936
-LOCATION:40-41J
+DTEND;TZID=America/Los_Angeles:20170929T122000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses3b1cce85-3c61-4229-8be5-127692aa1349
+DTSTAMP:20170927T175933
+LOCATION:320-106
 DESCRIPTION:The purpose of this course is to introduce key themes in social theory - the social, the modern subject, reason, autonomy, civility, interests, exchange, morality, life, the senses - through a reading of classic texts from Descartes up to psychoanalysis and phenomenology. nnEach section has original texts, commentaries, and background readings that place these texts in their deeper historical setting. Many of these commentaries trace how practical theories of 'lower' or minor selves - the subject people of the colonies, slaves, and other - were integral to the very development of ideas of the modern, autonomous and reasonable self in the western world. Prerequisite, by instructor consent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO301A SEM
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170929T093000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T162000
-LAST-MODIFIED:20170211T123939
-UID:explore_courses86244c27-d72e-4a6a-9af7-fbcc478f99c8
-DTSTAMP:20170211T123939
-LOCATION:ScienceTeachingLearningCntr105
+DTEND;TZID=America/Los_Angeles:20180625T162000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses37e4902b-e463-44a6-b5f4-728dca3672c0
+DTSTAMP:20170927T175933
+LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:The precious blueprint for life is entrusted to genome maintenance proteins found in all living cells. This seminar introduces the remarkable systems that scan cellular DNA for alterations and make repairs to ensure genomic stability. We further explore how deficiencies in these systems can lead to developmental defects, premature aging, and predisposition to cancer. Course includes background reading from primary articles, introductory lectures, student presentations, and a short term paper. Prerequisites: High school Biology. Preference to Stanford students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO26S SEM
-DTSTART;TZID=America/Los_Angeles:20170626T150000
-CREATED:20170211T123939
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180625T150000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

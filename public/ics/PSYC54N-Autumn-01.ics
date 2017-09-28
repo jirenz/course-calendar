@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T172000
-LAST-MODIFIED:20170211T124049
-UID:explore_courses5fb4ec89-8c26-490f-a48f-905b817f3a18
-DTSTAMP:20170211T124049
+DTEND;TZID=America/Los_Angeles:20170927T172000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses1b4584b7-63bd-4817-9eae-7fc0308e8089
+DTSTAMP:20170927T175933
 LOCATION:Psychiatry Building 2213
 DESCRIPTION:Examines how natural selection operates to shape successful genes in the gene pool, how cultural selection operates to shape successful &quot;memes&quot; in the pool of cultural ideas, and how selection by consequences operates to shape successful behaviors in our repertoires. Topics include cases in which selection produces undesirable consequences (e.g. genetic mutations, cultural problems, and aberrant behaviors in children). Emphasis on understanding the role of modern natural science in complex behaviors and why study of human life from an interdisciplinary perspective is important.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYC54N ISF
-DTSTART;TZID=America/Los_Angeles:20160928T143000
-CREATED:20170211T124049
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T143000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

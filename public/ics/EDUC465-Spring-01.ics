@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses687881a2-0971-44b9-aa7b-057eabf92e32
-DTSTAMP:20170211T123931
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursesdf20c2d2-9a16-42ff-9b00-c4f2b85dcc97
+DTSTAMP:20170927T175938
 LOCATION:Barnum Center rm 140 (HUB)
 DESCRIPTION:Faculty and students in the DAPS graduate training program will convene to discuss how the disciplines of developmental and psychological sciences impact education, ground these issues in the work of current faculty and advanced student research, discuss professional development issues unique to this area, and share student perspectives on the field and their progress in the program. May be repeat for credit
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC465 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

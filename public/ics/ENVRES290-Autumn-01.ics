@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170211T124031
-UID:explore_coursesab193f23-1919-400d-9035-436604c5bdaa
-DTSTAMP:20170211T124031
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175942
+UID:explore_courses6b3480dc-063c-4904-9b3d-d9c08783779f
+DTSTAMP:20170927T175942
 LOCATION:Y2E2 335
 DESCRIPTION:Required for and limited to E-IPER Joint M.S. students. Propose, conduct and publicly present final individual or team projects demonstrating the integration of professional (M.B.A., J.D., or M.D.) and M.S. in Environment and Resources degrees. Presentation and submission of final product required.  3 total units required; can all be taken during one quarter or divided over two sequential quarters.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENVRES290 SEM
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T124031
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T113000
+CREATED:20170927T175942
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

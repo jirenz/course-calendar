@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T132000
-LAST-MODIFIED:20170211T123941
-UID:explore_coursese506f9ba-eb44-4127-8bd7-2cfb0ecf51a6
-DTSTAMP:20170211T123941
-LOCATION:160-323
+DTEND;TZID=America/Los_Angeles:20180110T132000
+LAST-MODIFIED:20170927T175807
+UID:explore_coursesd64f96eb-f624-46c1-a5fa-b7b92d676c92
+DTSTAMP:20170927T175807
+LOCATION:60-107
 DESCRIPTION:Continuation of CHINLANG 121. Second quarter of Advanced Conversational Chinese. It is designed for students who have completed Third-year Chinese, or its equivalent, and wish to continue to develop their speaking and listening skills. Content for the course is drawn from a wide variety of current multimedia materials. Topics include general interest and social issues, international relations, and others that lend themselves to lively and in-depth discussion. New grammatical structures and vocabulary will be regularly introduced, with occasional written assignments to support students, development of conversational skills. Prerequisite: CHINLANG 121.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHINLANG122 LNG
-DTSTART;TZID=America/Los_Angeles:20170111T123000
-CREATED:20170211T123941
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=WE,FR
+DTSTART;TZID=America/Los_Angeles:20180110T123000
+CREATED:20170927T175807
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

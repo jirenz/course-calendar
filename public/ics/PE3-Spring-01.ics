@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T112000
-LAST-MODIFIED:20170211T124024
-UID:explore_courses829c78f7-45c1-4f51-8061-14233336096c
-DTSTAMP:20170211T124024
+DTEND;TZID=America/Los_Angeles:20180403T102000
+LAST-MODIFIED:20170927T175934
+UID:explore_courses5e566078-bbe9-4a75-9bf2-be6fd4ca692e
+DTSTAMP:20170927T175934
 LOCATION:
-DESCRIPTION:This course will teach students how to properly prepare, condition and pace themselves throughout a variety of workouts such as tempo runs, easy runs, interval training (speed and hills) and other training methods. At the end of the quarter, students will have the tools to develop their own training programs. Students will also gain knowledge on how to make intelligent choices that contribute to a healthy active lifestyle.nPrerequisite: Students should be able to run continuously for at least 1 mile. If students can not run for 1mile continuously, we recommend taking the following conditioning classes: PE 151 Total Body Training, PE 177: Circuit Training, or PE 30: Indoor Cycling.
+DESCRIPTION:Students will learn how to properly prepare, condition and pace themselves throughout a variety of workouts such as tempo runs, easy runs, interval training (speed and hills) and other training methods. At the end of the quarter, students will have the tools to develop their own training programs. Students will also gain knowledge on how to make intelligent choices that contribute to a healthy active lifestyle.Prerequisite: Students should be able to run continuously for at least 1 mile. If students can not run for 1 mile continuously, we recommend taking the following conditioning classes: PE 151 Total Body Training, PE 177: Circuit Training, or PE 30: Indoor Cycling.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PE3 ACT
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T124024
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T093000
+CREATED:20170927T175934
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

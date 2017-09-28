@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170211T124003
-UID:explore_coursesdbcbe317-a311-4841-990d-54f10e7fa39e
-DTSTAMP:20170211T124003
-LOCATION:160-B36
+DTEND;TZID=America/Los_Angeles:20170926T102000
+LAST-MODIFIED:20170927T175849
+UID:explore_courses19b2c391-8a20-4bf2-ad3f-940bf5605c65
+DTSTAMP:20170927T175849
+LOCATION:160-B38
 DESCRIPTION:The course is designed to develop reading competence in Russian. This is not a traditional language course that takes an integrated four-skill approach. The goal of the course is to reach proficiency of advanced level in reading Russian authentic materials pertinent to history and culture.  The emphasis is on vocabulary building, reading comprehension, and translation. nIntermediate level of Russian is required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SLAVLANG70 LNG
-DTSTART;TZID=America/Los_Angeles:20160927T093000
-CREATED:20170211T124003
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T093000
+CREATED:20170927T175849
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

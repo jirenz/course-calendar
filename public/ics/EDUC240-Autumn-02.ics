@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T175000
-LAST-MODIFIED:20170211T123931
-UID:explore_coursesc70afa23-085f-4893-881c-723325814543
-DTSTAMP:20170211T123931
-LOCATION:Ceras 300
+DTEND;TZID=America/Los_Angeles:20170925T175000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses1776e320-0470-4bf9-8ddc-d3848a8af6d1
+DTSTAMP:20170927T175938
+LOCATION:
 DESCRIPTION:How do adolescents develop their identities, manage their inner and outer worlds, and learn? Presuppositions: that fruitful instruction takes into account the developmental characteristics of learners and the task demands of specific curricula; and that teachers can promote learning and motivation by mediating among the characteristics of students, the curriculum, and the wider social context of the classroom. Prerequisite: STEP student or consent of instructor. (STEP)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC240 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20170925T150000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

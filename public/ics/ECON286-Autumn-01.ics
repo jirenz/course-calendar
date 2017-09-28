@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20170211T123946
-UID:explore_coursesc49d0240-ade4-4993-9a98-95b15e742efb
-DTSTAMP:20170211T123946
+DTEND;TZID=America/Los_Angeles:20170925T152000
+LAST-MODIFIED:20170927T175819
+UID:explore_coursesc90bdfd1-6f09-4ca2-93cc-b9b8493e1c49
+DTSTAMP:20170927T175819
 LOCATION:Econ 218
 DESCRIPTION:Aims to provide a solid basis in game-theoretic tools and concepts, both for theorists and for students focusing in other fields.  Technical material will include solution concepts and refinements, potential games, supermodular games, repeated games, reputation, and bargaining models.  The class will also address some foundational issues, such as epistemic and evolutionary modeling.Prerequisite: 203 or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON286 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

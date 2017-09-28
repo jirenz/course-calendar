@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T123936
-UID:explore_courses8a0ec13e-7664-4622-9c51-52b3f9f7527a
-DTSTAMP:20170211T123936
-LOCATION:Herrin T175
-DESCRIPTION:Introduction to fundamental theoretical ideas that provide conceptual insights into how networks of neurons cooperatively mediate important brain functions. Topics include basic mathematical models of single neurons, neuronal computation through feedforward and recurrent network dynamics, principles of associative memory, applications of information theory to early sensory systems, correlations and neural population coding, network plasticity and the self-organization of stimulus selectivity, and supervised and unsupervised learning through multiple mechanisms of synaptic plasticity. Emphasis on developing mathematical and computational skills to analyze complex neural systems. Prerequisites: calculus, linear algebra, and basic probability theory, or consent of instructor.
+DTEND;TZID=America/Los_Angeles:20160405T145000
+LAST-MODIFIED:20170927T175758
+UID:explore_coursesa9e91da3-5a20-4fbd-913c-9a7aea62376d
+DTSTAMP:20170927T175758
+LOCATION:Hewlett Teaching Center 200
+DESCRIPTION:Survey of advances in the theory of neural networks, mainly (but not solely) focused on results of relevance to theoretical neuroscience.Synthesizing a variety of recent advances that potentially constitute the outlines of a theory for understanding when a given neural network architecture will work well on various classes of modern recognition and classification tasks, both from a representational expressivity and a learning efficiency point of view. Discussion of results in the neurally-plausible approximation of back propagation, theory of spiking neural networks, the relationship between network and task dimensionality, and network state coarse-graining. Exploration of estimation theory for various typical methods of mapping neural network models to neuroscience data, surveying and analyzing recent approaches from both sensory and motor areas in a variety of species. Prerequisites: calculus, linear algebra, and basic probability theory, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS293 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20160405T133000
+CREATED:20170927T175758
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

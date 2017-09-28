@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T132000
-LAST-MODIFIED:20170211T123942
-UID:explore_courses5c23eb46-eecf-441d-be80-2508774c1da9
-DTSTAMP:20170211T123942
-LOCATION:120-59
+DTEND;TZID=America/Los_Angeles:20180625T132000
+LAST-MODIFIED:20170927T175810
+UID:explore_coursesfa71e94e-65a5-448a-b4c0-e6306358e3c6
+DTSTAMP:20170927T175810
+LOCATION:School of Education 206
 DESCRIPTION:Social media such as Facebook, Twitter, and Myspace, are used as platforms to share information about oneself and others. These new media provide a variety of novel ways to share information (e.g. 'Like', 'Re-tweet', 'Share', etc.) and change the way individuals maintain and create relationships. The goal of this course is to understand emotional and motivational aspects of social media use and examine its potential consequences on individuals' opinions and preferences. In the first half of the course, students will be introduced to theories in communication and psychology to have the foundation for understanding the mechanisms underlying media use. In the second half of the course, students will develop original research ideas and have group discussions to further explore and refine those ideas. At the end of the course, students will demonstrate their knowledge of psychological and emotional processes underlying media use and be able to evaluate the individual/social implications of social media use.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMM110S LEC
-DTSTART;TZID=America/Los_Angeles:20170626T113000
-CREATED:20170211T123942
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T132000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180625T113000
+CREATED:20170927T175810
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

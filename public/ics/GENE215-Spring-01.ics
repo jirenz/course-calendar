@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T172000
-LAST-MODIFIED:20170211T124037
-UID:explore_coursescf7796be-b4d5-4f02-865f-779f3f16702f
-DTSTAMP:20170211T124037
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180404T172000
+LAST-MODIFIED:20170927T175903
+UID:explore_courses4024e69f-4c92-42fd-bf30-538417b611e6
+DTSTAMP:20170927T175903
+LOCATION:Clark Center Auditorium
 DESCRIPTION:Students analyze cutting edge science, develop a logical framework for evaluating evidence and models, and enhance their ability to design original research through exposure to experimental tools and strategies.  The class runs in parallel with the Frontiers in Biological Research seminar series.  Students and faculty meet on the Tuesday preceding each seminar to discuss a landmark paper in the speaker's field of research.  Following the Wednesday seminar, students meet briefly with the speaker for a free-range discussion which can include insights into the speakers' paths into science and how they pick scientific problems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE215 SEM
-DTSTART;TZID=America/Los_Angeles:20170405T153000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T172000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T153000
+CREATED:20170927T175903
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

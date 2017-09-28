@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T215000
-LAST-MODIFIED:20170211T124037
-UID:explore_coursesf82b0206-d073-4d2d-9b0e-dea553584b0b
-DTSTAMP:20170211T124037
+DTEND;TZID=America/Los_Angeles:20170927T215000
+LAST-MODIFIED:20170927T175902
+UID:explore_coursesc3176ce6-34eb-4b55-898c-67e7789b4ecc
+DTSTAMP:20170927T175902
 LOCATION:CCSR 4205
 DESCRIPTION:Explores the human dimensions of medicine, creating a firm foundation for meeting the challenging demands of medical training and practice. Based on curriculum developed by Dr. Rachel Naomi Remen at UCSF . (For details/evaluations see  http://ishiprograms.org/programs-medical_educators.html). Medical students and faculty participate together in an innovative discovery model process that enables an in-depth sharing of experience, beliefs, aspirations and personal truths. Topics include deep listening, presence, acceptance, loss, grief, healing, relationship, encounters with awe and mystery, finding meaning, service, and self-care practices.  No papers/exams.  May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FAMMED210 WKS
-DTSTART;TZID=America/Los_Angeles:20160928T173000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T215000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T173000
+CREATED:20170927T175902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T215000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

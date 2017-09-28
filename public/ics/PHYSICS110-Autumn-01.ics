@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20170211T123959
-UID:explore_coursesfa22fa0a-3256-4efb-96d1-d12c059949d9
-DTSTAMP:20170211T123959
-LOCATION:530-127
-DESCRIPTION:Lagrangian and Hamiltonian mechanics. Principle of least action, Euler-Lagrange equations.  Small oscillations and beyond.  Symmetries, canonical transformations, Hamilton-Jacobi theory, action-angle variables.  Introduction to classical field theory.  Selected other topics, including nonlinear dynamical systems, attractors, chaotic motion.  Undergraduates register for Physics 110 (4 units). Graduates register for Physics 210 (3 units).  Prerequisites: MATH 131P, and PHYSICS 112 or MATH elective 104 or higher.  Recommended prerequisite: PHYSICS 130.
+DTEND;TZID=America/Los_Angeles:20170925T162000
+LAST-MODIFIED:20170927T175844
+UID:explore_courses517e7976-733f-4da6-9ca2-52ac684dc931
+DTSTAMP:20170927T175844
+LOCATION:Lathrop 299
+DESCRIPTION:Lagrangian and Hamiltonian mechanics. Principle of least action, Euler-Lagrange equations.  Small oscillations and beyond.  Symmetries, canonical transformations, Hamilton-Jacobi theory, action-angle variables.  Introduction to classical field theory.  Selected other topics, including nonlinear dynamical systems, attractors, chaotic motion.  Undergraduates register for Physics 110 (4 units). Graduates register for Physics 210 (3 units).  Prerequisites: MATH 131P or PHYSICS 111, and PHYSICS 112 or MATH elective 104 or higher.  Recommended prerequisite: PHYSICS 130.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS110 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T150000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

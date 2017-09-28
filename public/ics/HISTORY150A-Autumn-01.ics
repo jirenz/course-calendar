@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20170211T123951
-UID:explore_courses395f7cc1-beea-4d96-92ee-09332246032b
-DTSTAMP:20170211T123951
-LOCATION:200-034
+DTEND;TZID=America/Los_Angeles:20170925T145000
+LAST-MODIFIED:20170927T175829
+UID:explore_courses002edacd-2825-4cd8-ab81-e3dbfa68e6c8
+DTSTAMP:20170927T175829
+LOCATION:420-040
 DESCRIPTION:(Same as HISTORY 50A.  History majors and others taking 5 units, register for HISTORY 150A.) Survey of the origins of American society and polity in the 17th and 18th centuries. Topics: the migration of Europeans and Africans and the impact on native populations; the emergence of racial slavery and of regional, provincial, Protestant cultures; and the political origins and constitutional consequences of the American Revolution.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY150A LEC
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T123951
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

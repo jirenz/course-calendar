@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20170211T124033
-UID:explore_courses2c7b6011-2ea4-4a78-9994-6fbb157b1319
-DTSTAMP:20170211T124033
-LOCATION:Hewlett Teaching Center 103
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175857
+UID:explore_coursesaebc3869-e3fb-4bfb-b485-26af31443982
+DTSTAMP:20170927T175857
+LOCATION:Alway Building, Room M114
 DESCRIPTION:How will digital health, low-cost patient-generated and genomic data enable precision medicine to transform health care? This Everyone Included&iquest; course from Stanford Medicine X and SHC Clinical Inference will provide an overview of data science principles and showcase real world solutions being created to advance precision medicine through implementation of digital health tools, machine learning and artificial intelligence approaches. This class will feature thought leaders and luminaries who are patients, technologists, providers, researchers and leading innovators from academia and industry. This course is open to undergraduate and graduate students. Lunch will be provided.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANES208A COL
-DTSTART;TZID=America/Los_Angeles:20160927T123000
-CREATED:20170211T124033
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T123000
+CREATED:20170927T175857
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

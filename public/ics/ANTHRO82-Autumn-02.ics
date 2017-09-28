@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T112000
-LAST-MODIFIED:20170211T123935
-UID:explore_courses24022ffb-320c-4ad4-b0cb-a08ad008beb6
-DTSTAMP:20170211T123935
-LOCATION:School of Education 36
+DTEND;TZID=America/Los_Angeles:20170925T162000
+LAST-MODIFIED:20170927T175757
+UID:explore_coursesafb8cfd0-a5c1-4cf9-a849-0016d0a6efcf
+DTSTAMP:20170927T175757
+LOCATION:40-41J
 DESCRIPTION:Emphasis is on how health, illness, and healing are understood, experienced, and constructed in social, cultural, and historical contexts. Topics: biopower and body politics, gender and reproductive technologies, illness experiences, medical diversity and social suffering, and the interface between medicine and science.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO82 DIS
-DTSTART;TZID=America/Los_Angeles:20160927T103000
-CREATED:20170211T123935
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170925T153000
+CREATED:20170927T175757
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

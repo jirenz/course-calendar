@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T132000
-LAST-MODIFIED:20170211T124005
-UID:explore_courses3846c6db-2808-4134-aade-2be2c72d8702
-DTSTAMP:20170211T124005
+DTEND;TZID=America/Los_Angeles:20180112T132000
+LAST-MODIFIED:20170927T175853
+UID:explore_courses7dfebe9c-d4c1-4742-b787-1145b8408a34
+DTSTAMP:20170927T175853
 LOCATION:Sequoia Hall 200
 DESCRIPTION:Skills required of practicing statistical consultants, including exposure to statistical applications. Students participate as consultants in the department's drop-in consulting service, analyze client data, and prepare formal written reports. Seminar provides supervised experience in short term consulting. May be repeated for credit. Prerequisites: course work in applied statistics or data analysis, and consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS390 WKS
-DTSTART;TZID=America/Los_Angeles:20170113T123000
-CREATED:20170211T124005
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T123000
+CREATED:20170927T175853
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

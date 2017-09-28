@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses5dfde77e-474f-4f57-afd7-6838643d6d1a
-DTSTAMP:20170211T124020
-LOCATION:Gates B3
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses7d046f8a-914e-44cc-a9a2-8c0757510eaa
+DTSTAMP:20170927T180001
+LOCATION:
 DESCRIPTION:Electrical issues in the design of high-performance digital systems, including signaling, timing, synchronization, noise, and power distribution. High-speed signaling methods; noise in digital systems, its effect on signaling, and methods for noise reduction; timing conventions; timing noise (skew and jitter), its effect on systems, and methods for mitigating timing noise; synchronization issues and synchronizer design; clock and power distribution problems and techniques; impact of electrical issues on system architecture and design. Prerequisites: EE101A and EE108A. Recommended: EE114/214A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE273 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

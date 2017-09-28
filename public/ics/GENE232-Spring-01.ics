@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T152000
-LAST-MODIFIED:20170211T124037
-UID:explore_courses1c8fc284-d03a-4ab9-b0af-1f8d971e3844
-DTSTAMP:20170211T124037
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180402T152000
+LAST-MODIFIED:20170927T175903
+UID:explore_courses3a5b86d0-5afa-4997-bc0f-c21d91e7f690
+DTSTAMP:20170927T175903
+LOCATION:SpilkerEng&AppliedSci143
 DESCRIPTION:Laboratory and lectures. Advanced microscopy and imaging, emphasizing hands-on experience with state-of-the-art techniques. Students construct and operate working apparatus. Topics include microscope optics, Koehler illumination, contrast-generating mechanisms (bright/dark field, fluorescence, phase contrast, differential interference contrast), and resolution limits. Laboratory topics vary by year, but include single-molecule fluorescence, fluorescence resonance energy transfer, confocal microscopy, two-photon microscopy, microendoscopy, and optical trapping. Limited enrollment. Recommended: basic physics, Biology core or equivalent, and consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE232 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175903
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

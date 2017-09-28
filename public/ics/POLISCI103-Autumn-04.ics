@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T172000
-LAST-MODIFIED:20170211T124000
-UID:explore_courses11374ae2-063c-42be-8a72-fdaa05befe04
-DTSTAMP:20170211T124000
-LOCATION:200-105
+DTEND;TZID=America/Los_Angeles:20170929T112000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses4ca06fd5-e39c-482f-916c-60c6baa7d714
+DTSTAMP:20170927T175846
+LOCATION:Encina Hall C464
 DESCRIPTION:Focus is on the ideal of a just society, and the place of liberty and equality in it, in light of contemporary theories of justice and political controversies. Topics include financing schools and elections, regulating markets, discriminating against people with disabilities, and enforcing sexual morality. Counts as Writing in the Major for PoliSci majors.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI103 DIS
-DTSTART;TZID=America/Los_Angeles:20160928T163000
-CREATED:20170211T124000
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T172000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170929T103000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

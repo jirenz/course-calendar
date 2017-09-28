@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T105000
-LAST-MODIFIED:20170211T124037
-UID:explore_coursesdae30f28-720e-408e-af9b-a9125ed9821a
-DTSTAMP:20170211T124037
-LOCATION:Li Ka Shing Center, room 308
+DTEND;TZID=America/Los_Angeles:20170928T112000
+LAST-MODIFIED:20170927T175903
+UID:explore_coursesb66c3a37-2a2a-450a-8955-796f71f366c9
+DTSTAMP:20170927T175903
+LOCATION:Li Ka Shing Center, room 306
 DESCRIPTION:For genetic counseling students, medical students, residents, and fellows. Uses a combination of case based assignments, laboratory observation and didactic lectures to introduce techniques and technology used in cytogenetics, molecular genetics and biochemical genetic testing, and to introduce clinical features of common genetic conditions that are commonly diagnosed through genetic testing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE273 LEC
-DTSTART;TZID=America/Los_Angeles:20160929T090000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T105000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T093000
+CREATED:20170927T175903
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

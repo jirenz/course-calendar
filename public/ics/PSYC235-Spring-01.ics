@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T142000
-LAST-MODIFIED:20170211T124049
-UID:explore_courses0ff10efb-dad0-4106-b175-9792b1613153
-DTSTAMP:20170211T124049
-LOCATION:320-105
-DESCRIPTION:The course is designed to impart essential knowledge of the neuroscience of sleep  and covers how sleep affects our daily lives-- both physical and mental functions of our well-being.  The course  covers the science of sleep, dreams, and  the pathophysiology of highly prevalent sleep disorders such as sleep deprivation, biological rhythms, and focuses on the physiology of non-REM and REM sleep. Course content empowers students to make educated decisions concerning sleep and alertness for the rest of their lives and shapes students' attitudes about the importance of sleep. Learning about the science of sleep provides tangible reason to respect sleep as a member of what we term the triumvirate of health: good nutrition, physical fitness, and healthy sleep.
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20170927T175923
+UID:explore_courses180b7d87-a4e2-428a-ae38-14f2f7688471
+DTSTAMP:20170927T175923
+LOCATION:Cubberley Auditorium
+DESCRIPTION:The course is designed to impart essential knowledge of the neuroscience of sleep  and covers how sleep affects our daily lives-- both physical and mental functions of our well-being.  The course  covers the science of sleep, dreams, and  the pathophysiology of highly prevalent sleep disorders such as sleep deprivation, biological rhythms, and focuses on the physiology of non-REM and REM sleep. Course content empowers students to make educated decisions concerning sleep and alertness for the rest of their lives and shapes students' attitudes about the importance of sleep. Learning about the science of sleep provides tangible reason to respect sleep as a member of what we term the triumvirate of health: good nutrition, physical fitness, and healthy sleep. Undergraduates must enroll in PSYC 135, while graduate students should enroll in PSYC 235
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYC235 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T133000
-CREATED:20170211T124049
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175923
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

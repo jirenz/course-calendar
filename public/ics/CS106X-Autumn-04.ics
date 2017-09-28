@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T102000
-LAST-MODIFIED:20170211T124017
-UID:explore_coursesf3b482a1-ad9e-40a4-9e27-06d1530fe791
-DTSTAMP:20170211T124017
-LOCATION:160-315
-DESCRIPTION:Intensive version of 106B for students with a strong programming background interested in a rigorous treatment of the topics at an accelerated pace. Additional advanced material and more challenging projects. Prerequisite: excellence in 106A or equivalent, or consent of instructor.
+DTEND;TZID=America/Los_Angeles:20170929T102000
+LAST-MODIFIED:20170927T175958
+UID:explore_coursesc5400564-2391-40f3-974a-79f5a392d289
+DTSTAMP:20170927T175958
+LOCATION:160-B35
+DESCRIPTION:Intensive version of 106B for students with a strong programming background interested in a rigorous treatment of the topics at an accelerated pace. Additional advanced material and more challenging projects. Winter quarter assignments will be based in CS department research.  Prerequisite: excellence in 106A or equivalent, or consent of instructor.  Winter quarter enrollment limited to 30.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106X DIS
-DTSTART;TZID=America/Los_Angeles:20160930T093000
-CREATED:20170211T124017
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170929T093000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

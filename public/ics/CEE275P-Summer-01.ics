@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170628T205000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses95edf51e-70d7-40b5-8ed2-15a417b7458e
-DTSTAMP:20170211T124013
-LOCATION:Y2E2 299
+DTEND;TZID=America/Los_Angeles:20180627T202000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses65cdeb26-6c1d-49d8-a0f6-b78bead7ce66
+DTSTAMP:20170927T175952
+LOCATION:Y2E2 111
 DESCRIPTION:Achieving environmental goals depends not only on innovative ideas and great science but also persuasive communication. What makes communication persuasive?  The ability of the communicator to create value for his or her audience.  This course will teach students how to: 1) focus on their audience and 2) create value for their audience using research-proven communication techniques. Students will master these techniques through oral and written exercises so that, after taking this course, they will speak and write more persuasively.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE275P LEC
-DTSTART;TZID=America/Los_Angeles:20170628T193000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T205000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180627T183000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T202000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

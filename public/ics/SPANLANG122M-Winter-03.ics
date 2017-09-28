@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T132000
-LAST-MODIFIED:20170211T124004
-UID:explore_courses621fbe81-41be-45fa-8f06-d3c6d1f22756
-DTSTAMP:20170211T124004
-LOCATION:260-004
-DESCRIPTION:Second quarter of three-quarter series.Goal is a practical and culturally appropriate command of spoken Spanish. Emphasis is on performing a physical examination.  Topics include the human body, hospital procedures, diagnostics, food, and essential doctor-patient phrases when dealing with Spanish-speaking patients. Series can be taken independently, depending on the level of prior knowledge. Offered to undergraduates for 3 units(2 units for medical students).
+DTEND;TZID=America/Los_Angeles:20180112T132000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesf42d07b6-c3f3-4431-9f99-f6a69f9ab0d8
+DTSTAMP:20170927T175851
+LOCATION:260-012
+DESCRIPTION:Second quarter of three-quarter series.Goal is a practical and culturally appropriate command of spoken Spanish. Emphasis is on performing a physical examination.  Topics include anatomy, general hospital procedures, reproductive health, emergency medicine, and essential doctor-patient phrases when dealing with Spanish-speaking patients. Series can be taken independently, depending on the level of prior knowledge. Undergraduates are welcome to enroll.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPANLANG122M LNG
-DTSTART;TZID=America/Los_Angeles:20170113T123000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T123000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

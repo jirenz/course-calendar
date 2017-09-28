@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T162000
-LAST-MODIFIED:20170211T123952
-UID:explore_coursesc57a4a66-b13e-4582-bfd9-56ae979d5879
-DTSTAMP:20170211T123952
-LOCATION:McCullough 115
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20170927T175831
+UID:explore_courses3ebff45b-1f8f-4e5b-9c82-e67114c8e74f
+DTSTAMP:20170927T175831
+LOCATION:200-305
 DESCRIPTION:(HumBio students must enroll in HumBio 140.) Chromosomal, hormonal and environmental influences that lead to male and female reproductive systems and neuroendocrine regulation and intersex variants. Masculinizing and feminizing effects of endogenous and exogenous sex hormones and other factors, in particular gender, on the musculoskeletal, neurological, cardiovascular, immunological and other systems and tissues, e.g. adipose, skin, etc. over the lifecourse, from conception to puberty, through reproductive phases (including changes during the menstrual cycle up to and beyond menopause in women, and with aging in both sexes). Transgender health issues. Guest lecturers. Prerequisite: Human Biology core or equivalent, or consent of instructor. HUMBIO students must enroll for 3 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO140 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T150000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T150000
+CREATED:20170927T175831
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

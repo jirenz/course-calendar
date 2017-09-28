@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T112000
-LAST-MODIFIED:20170211T124032
-UID:explore_courses57911099-130f-429b-b716-c4c83d4a6380
-DTSTAMP:20170211T124032
+DTEND;TZID=America/Los_Angeles:20170925T102000
+LAST-MODIFIED:20170927T175945
+UID:explore_courses0669be4c-9942-4534-b1d6-4ca82c31cdc2
+DTSTAMP:20170927T175945
 LOCATION:Mitch452
 DESCRIPTION:Echo seismogram recording geometry, head waves, moveout, velocity estimation, making images of complex shaped reflectors, migration by Fourier and integral methods. Anti-aliasing. Dip moveout. Computer labs. See http://sep.stanford.edu/sep/prof/. Offered every year, autumn quarter. n*The Geophys180 cross-listing is considered an advanced undergraduate course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS188 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20170211T124032
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175945
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

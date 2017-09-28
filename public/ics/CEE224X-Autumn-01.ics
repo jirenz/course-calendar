@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses2cf23629-2820-41a7-abff-dbc66d5dd4be
-DTSTAMP:20170211T124013
-LOCATION:
-DESCRIPTION:Sustainable Urban Systems (SUS) Project is a project-based learning experience being piloted for an upcoming new SUS M.S. Program within CEE. For a minimum 2 units (open enrollment,&nbsp;engineers and non-engineers, undergraduate and graduate level),&nbsp;students attend lectures/discussions on Tuesdays and labs/workshops on Thursdays and complete light weekly assignments.&nbsp;For an optional added 1-3 units (by application only), students are placed in small interdisciplinary teams and work on complex design, engineering, and policy problems presented by external partners in a real-world urban setting.&nbsp;Multiple projects are offered throughout the academic year and may span multiple quarters. Students are expected to interact with professionals and community stakeholders, conduct independent team work outside of class sessions, and submit deliverables over a series of milestones.&nbsp;For more information and to apply, visit&nbsp;http://sus.stanford.edu.
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses8ce2f22d-e3af-47a0-a38b-c94cd6efd5b3
+DTSTAMP:20170927T175952
+LOCATION:Y2E2 292A
+DESCRIPTION:CEE 224X of the CEE 224XYZ SUS Project series is joining forces with D3: Disasters, Decisions, Development to offer D3+SUS which will connect principles of sustainable urban systems with the challenge of increasing resilience in the San Francisco Bay Area.  The project-based learning course is designed to align with the Resilient By Design | Bay Area Challenge Collaborative Research Phase (http://resilientbayarea.org); students will learn the basic concepts of resilience and tools of risk analysis while applying those mindsets and toolsets to a collective research product delivered to the RBD community.  Students who take D3+SUS are encouraged to continue on to CE 224Y and CEE 224Z, in which teams will be paired with local partners and will develop interventions to improve the resilience of local communities. For more information, visit http://sus.stanford.edu/courses.  (Cardinal Course certified by the Haas Center).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE224X LEC
-DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

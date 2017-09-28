@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T115000
-LAST-MODIFIED:20170211T124004
-UID:explore_coursesdd49cde4-4086-4bde-a59c-fee2e85e2524
-DTSTAMP:20170211T124004
+DTEND;TZID=America/Los_Angeles:20180402T115000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesbcd85677-c1c7-4a0c-a085-b90ad39342d8
+DTSTAMP:20170927T175851
 LOCATION:240-101
-DESCRIPTION:Survey of Iberian literature from the medieval and early modern periods. When covering texts in languages other than Spanish, translations into English or Spanish will be made available. Taught in Spanish; prerequisite: SPANLANG 13 or equivalen
+DESCRIPTION:Survey of Iberian literature from the medieval and early modern periods. When covering texts in languages other than Spanish, translations into English or Spanish will be made available. Taught in Spanish; prerequisite: SPANLANG 13 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ILAC157 SEM
-DTSTART;TZID=America/Los_Angeles:20170404T103000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

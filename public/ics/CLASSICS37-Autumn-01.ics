@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T145000
-LAST-MODIFIED:20170211T123942
-UID:explore_courses45cef65d-615f-4b81-8b5c-445dcd365c81
-DTSTAMP:20170211T123942
+DTEND;TZID=America/Los_Angeles:20170925T145000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses26257258-0395-43f7-b40a-ca2c2e150d4d
+DTSTAMP:20170927T175933
 LOCATION:Green Library 351
 DESCRIPTION:This course will journey through ancient literature from Homer to St. Augustine; it will introduce participants to some of its fascinating features and big ideas; and it will reflect on questions such as: What is a good life, a good society? Who is in and who is out and why? What is the meaning of honor, and should it be embraced or feared? Where does human subjectivity fit into a world of matter, cause and effect? When is rebellion justified? What happens when a way of life or thought is upended? Do we have any duties to the past?
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CLASSICS37 SEM
-DTSTART;TZID=America/Los_Angeles:20160926T133000
-CREATED:20170211T123942
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T133000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

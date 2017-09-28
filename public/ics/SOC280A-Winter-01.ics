@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T124004
-UID:explore_courses996b1351-90da-41da-ad79-ed25c0be2c73
-DTSTAMP:20170211T124004
-LOCATION:160-321
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesa6e12fd4-bb21-4284-a24e-bbb8d7cf6f99
+DTSTAMP:20170927T175851
+LOCATION:380-380D
 DESCRIPTION:Formulating a research question, developing hypotheses, probability and non-probability sampling, developing valid and reliable measures, qualitative and quantitative data, choosing research design and data collection methods, challenges of making causal inference, and criteria for evaluating the quality of social research. Emphasis is on how social research is done, rather than application of different methods. Limited enrollment; preference  to Sociology and Urban Studies majors, and Sociology coterms.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC280A SEM
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

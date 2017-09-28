@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T125000
-LAST-MODIFIED:20170211T123959
-UID:explore_coursesc7cd677f-f2bc-4db1-8af4-73e73d029020
-DTSTAMP:20170211T123959
-LOCATION:Green Earth Sciences131
-DESCRIPTION:What is electricity? What is magnetism? How are they related? How do these phenomena manifest themselves in the physical world? The theory of electricity and magnetism, as codified by Maxwell's equations, underlies much of the observable universe. Students develop both conceptual and quantitative knowledge of this theory. Topics include: electrostatics; magnetostatics; simple AC and DC circuits involving capacitors, inductors, and resistors; integral form of Maxwell's equations; electromagnetic waves. Principles illustrated in the context of modern technologies. Broader scientific questions addressed include: How do physical theories evolve? What is the interplay between basic physical theories and associated technologies? Discussions based on the language of mathematics, particularly differential and integral calculus, and vectors. Physical understanding fostered by peer interaction and demonstrations in lecture, and discussion sections based on interactive group problem solving. Prerequisite: PHYSICS 41 or equivalent. MATH 21 or MATH 42 or MATH 51 or CME 100 or equivalent. Recommended corequisite: MATH 52 or CME 102.
+DTEND;TZID=America/Los_Angeles:20180402T125000
+LAST-MODIFIED:20170927T175844
+UID:explore_coursesd9a79e7e-6634-4ea0-b551-be53b5ac53f3
+DTSTAMP:20170927T175844
+LOCATION:
+DESCRIPTION:What is electricity? What is magnetism? How are they related? How do these phenomena manifest themselves in the physical world? The theory of electricity and magnetism, as codified by Maxwell's equations, underlies much of the observable universe. Students develop both conceptual and quantitative knowledge of this theory. Topics include: electrostatics; magnetostatics; simple AC and DC circuits involving capacitors, inductors, and resistors; integral form of Maxwell's equations; electromagnetic waves. Principles illustrated in the context of modern technologies. Broader scientific questions addressed include: How do physical theories evolve? What is the interplay between basic physical theories and associated technologies? Discussions based on the language of mathematics, particularly differential and integral calculus, and vectors. Physical understanding fostered by peer interaction and demonstrations in lecture, and discussion sections based on interactive group problem solving. Prerequisite: PHYSICS 41 or equivalent. MATH 21 or MATH 51 or CME 100 or equivalent. Recommended corequisite: MATH 52 or CME 102.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS43 DIS
-DTSTART;TZID=America/Los_Angeles:20170403T113000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T125000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T113000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T125000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

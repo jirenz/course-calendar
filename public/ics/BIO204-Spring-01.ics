@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170211T123939
-UID:explore_courses59064f59-6646-4d08-995d-35871c4549a2
-DTSTAMP:20170211T123939
-LOCATION:ScienceTeachingLearningCntr104
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20170927T175802
+UID:explore_coursesaacbad63-ac04-4d80-9a3a-fa7710b2f785
+DTSTAMP:20170927T175802
+LOCATION:STLC104
 DESCRIPTION:This course will focus on neuroplasticity from a broad perspective, from molecular cellular mechanism to its involvement in behavior and diseases. Emphasis will be on: a) molecular and cellular mechanisms underlying various forms of neuroplasticity; b) the neuroplasticity during brain development; c) the neuroplasticity in adult brain with respect to learning and memory; and d) maladaptive neuroplasticity in neurodegenerative disease and drug addiction. This course is designed for Ph.D. students from both the Biology and Neuroscience programs. Open to advanced undergraduates by consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO204 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123939
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

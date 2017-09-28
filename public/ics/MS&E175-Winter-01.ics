@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T102000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursesf6d3f0c8-2ae6-45a6-82a6-d9f2ec8fd6be
-DTSTAMP:20170211T124021
-LOCATION:Thornt110
-DESCRIPTION:Problem solving in organizations; creativity and innovation skills; thinking tools; creative organizations, teams, individuals, and communities.  Limited enrollment. (Katila)
+DTEND;TZID=America/Los_Angeles:20180108T102000
+LAST-MODIFIED:20170927T180002
+UID:explore_courses8dbecdef-7198-44d4-a345-20f2884ee5d8
+DTSTAMP:20170927T180002
+LOCATION:Ceras 300
+DESCRIPTION:Problem solving in organizations; creativity and innovation skills; thinking tools; creative organizations, teams, individuals, and communities. Limited enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E175 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T083000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T083000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

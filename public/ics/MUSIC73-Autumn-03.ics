@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T142000
-LAST-MODIFIED:20170211T123957
-UID:explore_courses087c9061-2de0-4a3c-99f8-1bdaae82f945
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20170928T142000
+LAST-MODIFIED:20170927T175840
+UID:explore_coursesa9bfce47-0b2a-4ae2-8720-354a898d5be2
+DTSTAMP:20170927T175840
 LOCATION:Braun106
 DESCRIPTION:For intermediate students. Admission by audition. May be repeated for credit a total of 14 times. There is a fee for this class. Please visit http://music.stanford.edu/Academics/LessonSignups.html for class fees and signup information. This class is closed by design. Please register on the Axess waitlist and show up on the first day of class to receive a permission number for enrollment. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC73 PRC
-DTSTART;TZID=America/Los_Angeles:20160929T133000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170928T133000
+CREATED:20170927T175840
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T142000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

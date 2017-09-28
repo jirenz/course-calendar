@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T112000
-LAST-MODIFIED:20170211T123946
-UID:explore_coursesab75e3f3-1420-455f-a391-4eb26d3c182f
-DTSTAMP:20170211T123946
+DTEND;TZID=America/Los_Angeles:20180109T112000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses5b2e5861-4f59-47c0-80e6-14bcb38de012
+DTSTAMP:20170927T175819
 LOCATION:McCullough 115
-DESCRIPTION:How to read, understand, and use corporate financial statements. Oriented towards the use of financial accounting information (rather than the preparer), and emphasizes the reconstruction of economic events from published accounting reports.
+DESCRIPTION:This is a Case and Problem Discussion course. How to read, understand, and use corporate financial statements. Oriented towards the use of financial accounting information (rather than the preparer), and emphasizes the reconstruction of economic events from published accounting reports.
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:ECON190 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T093000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TU,TH
+SUMMARY:ECON190 CAS
+DTSTART;TZID=America/Los_Angeles:20180109T093000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

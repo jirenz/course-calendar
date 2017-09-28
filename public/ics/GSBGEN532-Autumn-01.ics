@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20161114T175000
-LAST-MODIFIED:20170211T124026
-UID:explore_courses4092410b-cb5c-4f70-9d87-56100bd0d1c9
-DTSTAMP:20170211T124026
-LOCATION:GSB McClelland 104
-DESCRIPTION:This course examines business models and opportunities related to clean energy, specifically to low-carbon energy. We examine emerging trends for this sector in the context of technological change, business opportunities and the parameters set by public policy. Specific topics to be examined include:nn- Carbon Emissions and the Clean Energy Transitionn- Funding Innovative Energy Companiesn- Modeling Cost Competitiveness of Alternative Energy Technologiesn- The Momentum of Renewable Energy: Solar PV and Windn- The Changing Business Model of Utilitiesn- Storage and Sustainable Transportation
+DTEND;TZID=America/Los_Angeles:20171107T171500
+LAST-MODIFIED:20170927T175743
+UID:explore_coursesbf2ff50e-f33a-4cd0-9439-8dda5faa6b2a
+DTSTAMP:20170927T175743
+LOCATION:GSB Patterson 107
+DESCRIPTION:This course examines business models and opportunities related to clean energy, specifically to low-carbon energy. We examine emerging trends for this sector in the context of technological change, business opportunities and the parameters set by public policy.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GSBGEN532 CAS
-DTSTART;TZID=America/Los_Angeles:20161114T150000
-CREATED:20170211T124026
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161202T175000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20171107T153000
+CREATED:20170927T175743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T181500;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

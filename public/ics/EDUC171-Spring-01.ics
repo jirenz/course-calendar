@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170405T192000
-LAST-MODIFIED:20170211T123930
-UID:explore_courses99ac9485-02a3-4dc4-a77f-7da20a6b91ff
-DTSTAMP:20170211T123930
+DTEND;TZID=America/Los_Angeles:20180404T192000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses4e855d81-4aff-4521-88b5-c45a0e500979
+DTSTAMP:20170927T175938
 LOCATION:School of Education 208
 DESCRIPTION:Restricted to students who participate in a service learning program focused on early math learning. Training for activities in preschool classrooms. Focus is on the teaching of math to young children, but also includes background on issues related to young children's cognitive, language, and social development; classroom management; cultural diversity; and early childhood education programs. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC171 PRC
-DTSTART;TZID=America/Los_Angeles:20170405T180000
-CREATED:20170211T123930
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T192000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T180000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

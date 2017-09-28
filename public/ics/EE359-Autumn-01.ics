@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T132000
-LAST-MODIFIED:20170211T124020
-UID:explore_courseseabf8e99-af82-4ff1-938f-22ab73a81c2d
-DTSTAMP:20170211T124020
-LOCATION:Huang Engineerig Center 18
-DESCRIPTION:This course will cover advanced topics in wireless communications for voice, data, and multimedia. Topics include: an overview of current and future wireless systems; wireless channel models including path loss, shadowing, and statistical multipath channel models; fundamental capacity limits of wireless channels; digital modulation and its performance in fading and intersymbol interference; techniques to combat fading including adaptive modulation, diversity, and multiple antenna systems (MIMO); techniques to combat intersymbol interference including equalization,  multicarrier modulation (OFDM), and spread spectrum; and an overview of wireless network design. Prerequisite: 279 or instructor consent.
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T180001
+UID:explore_courses00e9f6f8-8952-4e36-a825-0388b3a01a83
+DTSTAMP:20170927T180001
+LOCATION:Thornt102
+DESCRIPTION:This course will cover advanced topics in wireless communications as well as current wireless system design. Topics include: an overview of current and future wireless systems; wireless channel models including path loss, shadowing, and statistical multipath channel models; fundamental capacity limits of wireless channels; digital modulation and its performance in fading and under intersymbol interference; techniques to combat fading including adaptive modulation and diversity; multiple antenna (MIMO) techniques to increase capacity and diversity, intersymbol interference including equalization, multicarrier modulation (OFDM), and spread spectrum; and multiuser system design, including multiple access techniques. Course is 3 units but can be taken for 4 units with an optional term project. Prerequisite: 279 or instructor consent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE359 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T120000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

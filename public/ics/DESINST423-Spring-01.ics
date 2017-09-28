@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T165000
-LAST-MODIFIED:20170211T124018
-UID:explore_coursesd4a25715-b0cc-450c-a6b5-ef71c1f2d750
-DTSTAMP:20170211T124018
+DTEND;TZID=America/Los_Angeles:20180403T165000
+LAST-MODIFIED:20170927T175958
+UID:explore_courses47ea631f-1995-42bc-b769-aa68eb01ab81
+DTSTAMP:20170927T175958
 LOCATION:
 DESCRIPTION:In the U.S., 75% of medical expenditures are for illnesses that are predominantly lifestyle related such as type 2 diabetes, arthritis and heart disease. It has been shown as people modify their lifestyles with healthier habits, medical problems can be reduced or avoided and a healthier and happier life achieved. The class employs design thinking in teams while working directly with volunteers in the community to help them achieve their health goals. There is an individual project and a team project each with multiple milestones. Learn and experience the design thinking process through interactions and design working within student teams and working directly with patient-volunteers from the practice of Drs. Ann Lindsay and Alan Glaseroff from the Stanford Coordinated Care Clinic. Admission by application. See dschool.stanford.edu/classes for more information.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DESINST423 WKS
-DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170211T124018
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T165000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T165000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

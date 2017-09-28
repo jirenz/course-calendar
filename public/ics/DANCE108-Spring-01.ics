@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T145000
-LAST-MODIFIED:20170211T123944
-UID:explore_coursesa03dc107-b491-406d-8918-7eaac38bc684
-DTSTAMP:20170211T123944
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20170927T175813
+UID:explore_courses5306f8ca-e83e-4e40-b82b-01de94533aab
+DTSTAMP:20170927T175813
 LOCATION:ROBLEG113
 DESCRIPTION:What happens when Hip Hop meets &quot;Fosse&quot;, &quot;Aida&quot;, &quot;Dream Girls&quot; and &quot;In the Heights&quot;?nThe most amazing collaboration of Hip Hop styles adapted to some of the most memorable Broadway Productions.nThis class will explore the realm between Hip Hop Dance and the Broadway Stage.  Infusing Acting thru dance movement and exploring the Art of Lip Sync thru Hip Hop Dance styles.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DANCE108 PRA
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T123944
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175813
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

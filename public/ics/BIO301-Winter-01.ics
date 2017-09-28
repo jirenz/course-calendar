@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T182000
-LAST-MODIFIED:20170211T123939
-UID:explore_coursesef0f80d9-c79d-47ed-8840-7cfc685e5f4a
-DTSTAMP:20170211T123939
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180108T172000
+LAST-MODIFIED:20170927T175802
+UID:explore_courses3984b7e4-fd31-47b4-8fe5-1327be55b20a
+DTSTAMP:20170927T175802
+LOCATION:STLC114
 DESCRIPTION:Limited to and required of first-year Ph.D. students in molecular, cellular, and developmental biology. Current research in molecular, cellular, and developmental biology emphasizing primary research literature. Held in conjunction with the department's Monday seminar series. Students and faculty meet weekly before the seminar for a student presentation and discussion of upcoming papers.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO301 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T153000
-CREATED:20170211T123939
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T153000
+CREATED:20170927T175802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

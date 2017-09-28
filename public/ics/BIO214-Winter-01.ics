@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T123939
-UID:explore_coursesb41f3553-8b4d-4d74-ba42-48e60760779c
-DTSTAMP:20170211T123939
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T175802
+UID:explore_courseseb5b5487-be17-4dce-997f-ad1c37fcf38b
+DTSTAMP:20170927T175802
+LOCATION:Alway Building, Room M114
 DESCRIPTION:For Ph.D. students. Current research on cell structure, function, and dynamics. Topics include complex cell phenomena such as cell division, apoptosis, compartmentalization, transport and trafficking, motility and adhesion, and differentiation. Weekly reading of current papers from the primary literature.  Preparation of an original research proposal.  Prerequisite for advanced undergraduates: BIO 129A,B, and consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO214 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T123939
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20170927T175802
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

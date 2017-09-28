@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T115000
-LAST-MODIFIED:20170211T124012
-UID:explore_courses5aa87c4e-734d-4a2d-81a5-63fc7c2186af
-DTSTAMP:20170211T124012
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175949
+UID:explore_coursesb020c1bb-4543-4885-aec4-66f8ae242abf
+DTSTAMP:20170927T175949
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:(Same as CHEMENG 140) Survey of fabrication and processing technologies in industrial sectors, such as semiconductor, biotechnology, and energy. Chemistry and transport of electronic and energy device fabrication. Solid state materials, electronic devices and chemical processes including crystal growth, chemical vapor deposition, etching, oxidation, doping, diffusion, thin film deposition, plasma processing. Micro and nanopatterning involving photolithography, unconventional soft lithography and self assembly. Recommended: CHEM 33, 171, and PHYSICS 55
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG140 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T103000
-CREATED:20170211T124012
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175949
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

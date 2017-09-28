@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T112000
-LAST-MODIFIED:20170211T124030
-UID:explore_coursesf5125c5f-ef1e-452c-ae4e-04e0f690996a
-DTSTAMP:20170211T124030
+DTEND;TZID=America/Los_Angeles:20180402T112000
+LAST-MODIFIED:20170927T175940
+UID:explore_coursesd0ebbc45-d164-4c94-9f67-911bb7124371
+DTSTAMP:20170927T175940
 LOCATION:DINKG10
 DESCRIPTION:Do you want a much better understanding of renewable power technologies? Did you know that wind and solar are the fastest growing forms of electricity generation? Are you interested in hearing about the most recent, and future, designs for green power? Do you want to understand what limits power extraction from renewable resources and how current designs could be improved? This course dives deep into these and related issues for wind, solar, biomass, geothermal, tidal and wave power technologies. We welcome all student, from non-majors to MBAs and grad students. If you are potentially interested in an energy or environmental related major, this course is particularly useful.  Recommended: Math 21 or 42.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS102 LEC
-DTSTART;TZID=America/Los_Angeles:20170403T103000
-CREATED:20170211T124030
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20170927T175940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T142000
-LAST-MODIFIED:20170211T124041
-UID:explore_coursesbb154c82-24b9-4df7-a52e-37a1630d7349
-DTSTAMP:20170211T124041
-LOCATION:CCSR0245
+DTEND;TZID=America/Los_Angeles:20170929T142000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses941021e9-9e94-4223-b03f-ce8190a170e2
+DTSTAMP:20170927T175933
+LOCATION:
 DESCRIPTION:Develops conversational communication skills and essential medical vocabularies. Teaches in pinyin pronunciation system, which provides an accessible method of learning basic phrases. The foundations of taking a comprehensive patient history in Mandarin and doing medical interviews at individual hospital divisions, including making introductions, soliciting symptoms, explaining health concepts (e.g. diseases and prescriptions) as well as daily survival conversations. Main goals are to improve rapport with Chinese patients through Mandarin fluency in the medical setting and to promote understanding of Chinese culture in the context of health care as well as daily life. Students registering for 3 units participate in clinic visits and field activities.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE207A LNG
-DTSTART;TZID=America/Los_Angeles:20160930T010000
-CREATED:20170211T124041
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T142000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170929T133000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T142000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

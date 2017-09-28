@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T182000
-LAST-MODIFIED:20170211T124013
-UID:explore_courses4bb6ef9e-3cc8-4d0f-9a55-e2d9081bb21f
-DTSTAMP:20170211T124013
-LOCATION:Y2E2 101
+DTEND;TZID=America/Los_Angeles:20180109T182000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses1587b3b2-0342-431a-9c57-6e4607f1f3f0
+DTSTAMP:20170927T175952
+LOCATION:Y2E2 105
 DESCRIPTION:Class consists of eight interactive two-hour seminars with discussions, and will cover the evolution of the environmental consulting business, strategic choices and alternative business models for private and public firms, a review of the key operational issues in managing firm, organizational strategies, knowledge management and innovation, and ethical issues in providing professional services. Case studies will be used to illustrate key concepts. Selected reading materials drawn from the technical and business literature on the consulting business. Student groups will prepare and present an abbreviated business plan for an environmental based business. Enrollment limited to CEE MS and PHD students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE275K PRA
-DTSTART;TZID=America/Los_Angeles:20170110T163000
-CREATED:20170211T124013
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T182000;BYDAY=TU,FR
+DTSTART;TZID=America/Los_Angeles:20180109T163000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=TU,FR
 END:VEVENT
 END:VCALENDAR

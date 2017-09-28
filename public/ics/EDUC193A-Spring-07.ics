@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170403T222000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses4f95de48-0160-4573-8d5d-aa09d4faf3d5
-DTSTAMP:20170211T123931
+DTEND;TZID=America/Los_Angeles:20180402T222000
+LAST-MODIFIED:20170927T175938
+UID:explore_coursesf89dcf95-b9a0-4e00-8c4a-05c799c67e11
+DTSTAMP:20170927T175938
 LOCATION:School of Education 229
 DESCRIPTION:Topics: verbal and non-verbal skills, open and closed questions, paraphrasing, working with feelings, summarization, and integration. Individual training, group exercises, role play practice with optional video feedback. Sections on relevance to crisis counseling and student life. Guest speakers from University and community agencies. Students develop and apply skills in University settings.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC193A DIS
-DTSTART;TZID=America/Los_Angeles:20170403T193000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T222000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T193000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T222000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

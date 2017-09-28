@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T145000
-LAST-MODIFIED:20170211T124032
-UID:explore_courses114650eb-82c4-42a3-82e6-bdecccb4976d
-DTSTAMP:20170211T124032
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T175945
+UID:explore_coursesbde64ddf-0e27-4d2d-b67e-7490cde51685
+DTSTAMP:20170927T175945
 LOCATION:Mitch372
 DESCRIPTION:Preference to freshman. Natural hazards, earthquakes, volcanoes, floods, hurricanes, and fires, and how they affect people and society; great disasters such as asteroid impacts that periodically obliterate many species of life. Scientific issues, political and social consequences, costs of disaster mitigation, and how scientific knowledge affects policy. How spaceborne imaging technology makes it possible to respond quickly and mitigate consequences; how it is applied to natural disasters; and remote sensing data manipulation and analysis. GER:DB-EngrAppSci
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS60N ISF
-DTSTART;TZID=America/Los_Angeles:20160927T133000
-CREATED:20170211T124032
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175945
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

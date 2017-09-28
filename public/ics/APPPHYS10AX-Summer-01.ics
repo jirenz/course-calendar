@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T122000
-LAST-MODIFIED:20170211T123936
-UID:explore_courses4b78d452-c92e-4f5f-b0e1-1315b8f4465a
-DTSTAMP:20170211T123936
+DTEND;TZID=America/Los_Angeles:20180625T122000
+LAST-MODIFIED:20170927T175758
+UID:explore_coursesd55496a9-8c58-4e9b-9d22-ef19e068fc36
+DTSTAMP:20170927T175758
 LOCATION:
 DESCRIPTION:Students learn to make and to analyze functional ceramic forms with a focus on wheel-thrown pottery. Studio time dedicated to the acquisition and refinement of shaping, marking/glazing and finishing skills; supplementary lectures and discussions to explore contemporary studio ceramics and major historical traditions. No prior experience necessary; instructors will tailor assignments for students at all levels of ability.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS10AX API
-DTSTART;TZID=America/Los_Angeles:20170626T103000
-CREATED:20170211T123936
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T122000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20180625T103000
+CREATED:20170927T175758
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T122000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

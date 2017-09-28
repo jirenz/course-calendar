@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T102000
-LAST-MODIFIED:20170211T123959
-UID:explore_coursesc4bb57e7-ad7e-4d3e-a795-c516060e5d90
-DTSTAMP:20170211T123959
+DTEND;TZID=America/Los_Angeles:20170926T102000
+LAST-MODIFIED:20170927T175844
+UID:explore_coursesd02a021d-f2ca-488f-8730-0550a21dc680
+DTSTAMP:20170927T175844
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Techniques such as scaling and dimensional analysis, useful to make order-of-magnitude estimates of physical effects in different settings. Goals are to promote a synthesis of physics through solving problems, including problems that are not usually thought of as physics. Applications include properties of materials, fluid mechanics, geophysics, astrophysics, and cosmology. Prerequisites: undergraduate mechanics, statistical mechanics, electricity and magnetism, and quantum mechanics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS216 LEC
-DTSTART;TZID=America/Los_Angeles:20160927T090000
-CREATED:20170211T123959
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170926T090000
+CREATED:20170927T175844
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

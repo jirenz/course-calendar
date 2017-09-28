@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160928T182000
-LAST-MODIFIED:20170211T124011
-UID:explore_coursesb6f8dccf-7c27-4560-b404-2fb017bb4fb3
-DTSTAMP:20170211T124011
-LOCATION:160-124
-DESCRIPTION:This course examines the emerging mobile health industry. Mobile health refers to the provision of health services and information via digital technologies such as mobile phones and wearable sensors. Faculty from Stanford University and other academic institutions, as well as guest lecturers from the mobile health industry discuss factors driving needs in the field, explore opportunities and challenges that characterize the emerging mobile health innovation landscape, and present an overview of the technologies, initiatives, and companies that are transforming the way we access health care today.
+DTEND;TZID=America/Los_Angeles:20170927T182000
+LAST-MODIFIED:20170927T175948
+UID:explore_courses63d327c4-6c6c-413c-82fb-6835f3dbec49
+DTSTAMP:20170927T175948
+LOCATION:Alway Building, Room M112
+DESCRIPTION:Health care is facing significant cross-industry challenges and opportunities created by a number of factors including: the increasing need for improved access to affordable, high-quality care; growing demand from consumers for greater control of their health and health data; the shift in focus from 'sick care' to prevention and health optimization; aging demographics and the increased burden of chronic conditions; and new emphasis on real-world, measurable health outcomes for individuals and populations.  Moreover, the delivery of health information and services is no longer tied to traditional 'brick and mortar' hospitals and clinics: it has increasingly become &quot;mobile,&quot; enabled by apps, sensors, wearables, and other mobile devices, as well as by the data that these technologies generate. This multifactorial transformation presents opportunities for innovation across the entire cycle of care, from wellness, to acute and chronic diseases, to care at the end of life.  But how does one approach innovation in mobile health to address these health care challenges while ensuring the greatest chance of success? At Stanford Biodesign, we believe that innovation is a process that can be learned, practiced, and perfected; and, it starts with a need. In Biodesign for Mobile Health, students will learn about mobile health and the Biodesign needs-driven innovation process from over 50 industry experts. Over the course of ten weeks, these speakers join the teaching team in a dynamic classroom environment that includes lectures, panel discussions, and breakout sessions. These experts represent startups, corporations, venture capital firms, accelerators, research labs, health organizations, and more. Student teams will take actual mobile health challenges and learn how to apply Biodesign innovation principles to research and evaluate needs, ideate solutions, and objectively assess them against key criteria for satisfying the needs. Teams take a hands-on approach with the support of need coaches and mentors. On the final day of class, teams present to a panel of mobile health experts and compete for project extension funding. Limited enrollment, by application only.  Friday section will be used for team projects and for scheduled workshops.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE273 SEM
-DTSTART;TZID=America/Los_Angeles:20160928T163000
-CREATED:20170211T124011
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T182000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T153000
+CREATED:20170927T175948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

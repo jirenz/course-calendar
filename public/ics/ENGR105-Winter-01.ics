@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T102000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses26a3c090-6490-4126-9ae0-945451ddf3d6
-DTSTAMP:20170211T124020
-LOCATION:Shriram Ctr BioChemE 104
-DESCRIPTION:Design of linear feedback control systems for command-following error, stability, and dynamic response specifications. Root-locus and frequency response design techniques. Examples from a variety of fields. Some use of computer aided design with MATLAB. Prerequisite: EE 102, ME 161, or equivalent.
+DTEND;TZID=America/Los_Angeles:20180108T102000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursesc8ca080b-a7ba-4a95-a772-9c881ec9e607
+DTSTAMP:20170927T180001
+LOCATION:Hewlett Teaching Center 102
+DESCRIPTION:Design of linear feedback control systems for command-following error, stability, and dynamic response specifications. Root-locus and frequency response design techniques. Examples from a variety of fields. Some use of computer aided design with MATLAB. Prerequisite: EE 102B, CME 102 (Math 53) or ME 161.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR105 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T093000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

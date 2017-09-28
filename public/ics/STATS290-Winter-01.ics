@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T112000
-LAST-MODIFIED:20170211T124005
-UID:explore_coursesa784af63-3bab-419d-8a37-ddf5fcfcd832
-DTSTAMP:20170211T124005
-LOCATION:Gates B3
-DESCRIPTION:Advanced programming and computing techniques to support projects in data analysis and related research. For Statistics graduate students and others whose research involves data analysis and development of associated computational software.  Prerequisites: Programming experience including familiarity with R; computing at least at the level of CS 106; statistics at the level of  STATS 110 or 141.
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T175853
+UID:explore_courses7adbadb6-735b-4d17-a59e-6a3cf80b8721
+DTSTAMP:20170927T175853
+LOCATION:NVIDIA Auditorium
+DESCRIPTION:Programming and computing techniques for the requirements of data science: acquisition and organization of data; visualization, modelling and inference for scientific applications; presentation and interactive communication of results. Emphasis on computing for substantial projects. Software development with emphasis on R, plus other key software tools. Prerequisites: Programming experience including familiarity with R; computing at least at the level of CS 106; statistics at the level of STATS 110 or 141.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS290 SEM
-DTSTART;TZID=America/Los_Angeles:20170109T103000
-CREATED:20170211T124005
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T175853
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

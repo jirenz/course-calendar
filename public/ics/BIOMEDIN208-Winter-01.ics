@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T132000
-LAST-MODIFIED:20170211T124034
-UID:explore_coursesd72975c9-25bf-48a3-a488-00416624e30e
-DTSTAMP:20170211T124034
+DTEND;TZID=America/Los_Angeles:20180110T132000
+LAST-MODIFIED:20170927T175859
+UID:explore_courses9fafbc30-8f66-4d36-b557-2d042f3b502f
+DTSTAMP:20170927T175859
 LOCATION:
-DESCRIPTION:Focus is on reading and discussing seminal papers in clinical and health informatics. Topics include biomedical informatics methods, systems design, implementation and evaluation. Limited enrollment.
+DESCRIPTION:Weekly seminar series in which seminal literature and current publications in the field of clinical informatics are reviewed and discussed. Organized by the Stanford Clinical Informatics fellowship program. Topics include electronic health record design, implementation, and evaluation; patient engagement; provider satisfaction; and hot topics in clinical informatics. Limited enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOMEDIN208 SEM
-DTSTART;TZID=America/Los_Angeles:20170111T123000
-CREATED:20170211T124034
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T123000
+CREATED:20170927T175859
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

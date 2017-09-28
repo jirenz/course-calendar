@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T132000
-LAST-MODIFIED:20170211T124052
-UID:explore_courses82d58c5f-ee90-4e2f-a034-29a7a883aeb0
-DTSTAMP:20170211T124052
+DTEND;TZID=America/Los_Angeles:20170929T132000
+LAST-MODIFIED:20170927T175933
+UID:explore_coursesf770e252-d5af-4bee-bb53-f01183544ae0
+DTSTAMP:20170927T175933
 LOCATION:Li Ka Shing Center, room 120
-DESCRIPTION:Designed to give pre-clinical MD students a broad overview of all the surgical specialities. Lectures by leading surgeons from General Surgery, Plastic Surgery, Neurosurgery. Orthopedic Surgery, Head and Neck Surgery, Transplantation Surgery and Cardiac Surgery highlight the array of diseases and operations performed in their disciplines. In addition, each lecture gives students a &quot;roadmap&quot; as to how to enter that discipline.
+DESCRIPTION:This lunch seminar is designed to give preclinical medical students a broad overview of surgical specialties and life as a surgeon. Interactive talks by leading surgeons from the General Surgery, Plastic Surgery, Neurosurgery, Orthopedic Surgery, Head and Neck Surgery, Transplantation Surgery, and Cardiac Surgery departments will highlight the array of operation types performed and diseases and conditions encountered in their disciplines. In addition, each lecturer will provide students with a &iquest;road map&iquest; as to how to successfully enter each specialty field of surgery. Lunch will be provided.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SURG204 LEC
-DTSTART;TZID=America/Los_Angeles:20160930T123000
-CREATED:20170211T124052
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170929T123000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

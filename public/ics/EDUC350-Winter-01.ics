@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T175000
-LAST-MODIFIED:20170211T123931
-UID:explore_courses2f1ac27a-bb29-471c-8bcf-815bb033923f
-DTSTAMP:20170211T123931
+DTEND;TZID=America/Los_Angeles:20180111T175000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses06a9ceeb-10b0-4009-be9e-bb240c8b6dbe
+DTSTAMP:20170927T175938
 LOCATION:Ceras 101
 DESCRIPTION:This course will integrate attendance and participation at the research lectures given by visitors with separate, faculty-led workshops that discuss the presented study, its methodologies, and the research and policy contexts in which it is situated. This workshop will also provide an opportunity for professional development relevant to academic publishing and effective presentation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC350 WKS
-DTSTART;TZID=America/Los_Angeles:20170112T150000
-CREATED:20170211T123931
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T150000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T102000
-LAST-MODIFIED:20170211T123955
-UID:explore_coursesbbbabfab-a70b-442f-8a7e-556591489c35
-DTSTAMP:20170211T123955
+DTEND;TZID=America/Los_Angeles:20180403T102000
+LAST-MODIFIED:20170927T175837
+UID:explore_courses6a3fac1f-76e3-4665-9cb9-848bc7007544
+DTSTAMP:20170927T175837
 LOCATION:380-380W
 DESCRIPTION:Hyperbolic partial differential equations: stability, convergence and qualitative properties; nonlinear hyperbolic equations and systems; combined solution methods from elliptic, parabolic, and hyperbolic problems. Examples include: Burger's equation, Euler equations for compressible flow, Navier-Stokes equations for incompressible flow. Prerequisites: MATH 220A or CME 302.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH226 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T090000
-CREATED:20170211T123955
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T090000
+CREATED:20170927T175837
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

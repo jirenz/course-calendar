@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T125000
-LAST-MODIFIED:20170211T124004
-UID:explore_courseseade8928-9cf6-47e3-88ef-8a274525b4d6
-DTSTAMP:20170211T124004
-LOCATION:160-330
+DTEND;TZID=America/Los_Angeles:20180108T115000
+LAST-MODIFIED:20170927T175851
+UID:explore_courses13bdcb2a-8160-4403-813f-066b1d4086ae
+DTSTAMP:20170927T175851
+LOCATION:240-101
 DESCRIPTION:1800 to the mid 20th century. Topics include: romanticism; realism and its variants; the turn of the century; modernism and the avant garde; the Civil War; and the first half of the 20th century. Authors may include Mariano Jose de Larra, Gustavo Adolfo Becquer, Rosalia de Castro, Benito Perez Galdos, Jacint Verdaguer, Eca de Queiros, Miguel de Unamuno, Ramon de Valle-Inclan, Antonio Machado, and Federico Garc&iacute;a Lorca. Taught in Spanish. Prerequisites: SPANLANG 13 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ILAC136 SEM
-DTSTART;TZID=America/Los_Angeles:20170109T113000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T125000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

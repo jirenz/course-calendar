@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170626T152000
-LAST-MODIFIED:20170211T123935
-UID:explore_courses3ad578b4-dd1c-4f57-89cf-b9e71fae6df4
-DTSTAMP:20170211T123935
-LOCATION:50-51A
-DESCRIPTION:This course introduces basic anthropological concepts and presents the discipline&iquest;s distinctive perspective on society and culture.  The power of this perspective is illustrated by exploring vividly-written ethnographic cases that show how anthropological approaches illuminate contemporary social and political issues in a range of different cultural sites.
+DTEND;TZID=America/Los_Angeles:20180625T152000
+LAST-MODIFIED:20170927T175757
+UID:explore_coursesfe4f97de-f2ec-4ef9-9cd0-d5ac885f5741
+DTSTAMP:20170927T175757
+LOCATION:
+DESCRIPTION:This course introduces basic anthropological concepts and presents the discipline's distinctive perspective on society and culture.  The power of this perspective is illustrated by exploring vividly-written ethnographic cases that show how anthropological approaches illuminate contemporary social and political issues in a range of different cultural sites.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO101S LEC
-DTSTART;TZID=America/Los_Angeles:20170626T133000
-CREATED:20170211T123935
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T152000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180625T133000
+CREATED:20170927T175757
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

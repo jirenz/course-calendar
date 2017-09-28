@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T112000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses0a17c2ae-0afd-4241-ba55-18ec630742cc
-DTSTAMP:20170211T123946
-LOCATION:160-314
-DESCRIPTION:Growth models (neoclassical, human capital, technical change) using optimal control theory.  Introduction to real business cycle and new Keynesian models.  Limited enrollment. Prerequisite: ECON 210.
+DTEND;TZID=America/Los_Angeles:20180112T112000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses0bea0b42-9430-4285-afde-2f1a6508bc2a
+DTSTAMP:20170927T175819
+LOCATION:Encina Hall C464
+DESCRIPTION:Dynamic stochastic general equilibrium models using dynamic programming methods that are solved with MATLAB. Growth models (neoclassical, human capital, technical change) using optimal control theory.  Limited enrollment. Prerequisite: ECON 210.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON211 DIS
-DTSTART;TZID=America/Los_Angeles:20170113T093000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T093000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

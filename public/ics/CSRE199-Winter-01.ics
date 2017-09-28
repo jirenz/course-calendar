@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170211T123943
-UID:explore_courses5d6082e0-a526-4cbe-bb97-e3df1e24defa
-DTSTAMP:20170211T123943
-LOCATION:360-361K
+DTEND;TZID=America/Los_Angeles:20180109T132000
+LAST-MODIFIED:20170927T175813
+UID:explore_coursese6927406-2264-4a73-b33e-ea0b9911cd96
+DTSTAMP:20170927T175813
+LOCATION:320-106
 DESCRIPTION:This course is designed for juniors (majors, minors, and those seeking Interdisciplinary Honors in CSRE) who intend to write a senior thesis in one of the CSRE Family of Programs. The course offers resources and strategies for putting together a significant and original senior thesis. Topics to be covered include: getting funding; finding an advisor; navigating the institutional review board; formulating an appropriate question; and finding the right data/medium/texts.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CSRE199 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T120000
-CREATED:20170211T123943
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180109T120000
+CREATED:20170927T175813
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

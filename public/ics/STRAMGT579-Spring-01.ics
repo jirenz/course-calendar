@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170411T181500
-LAST-MODIFIED:20170211T124028
-UID:explore_courses70b4180c-23d1-42c1-88e9-2635014401cb
-DTSTAMP:20170211T124028
+DTEND;TZID=America/Los_Angeles:20180410T181500
+LAST-MODIFIED:20170927T175745
+UID:explore_courses3a2ac1a9-5581-4bd0-aa8c-4b5071b29e48
+DTSTAMP:20170927T175745
 LOCATION:
 DESCRIPTION:The evolving organization of the Chinese economy, with special emphasis on the following topics: the integration of the Communist Party organization with government entities and enterprises; the successive phases of market reform; the evolution of ownership and the nature of property rights; corporate restructuring and corporate governance; corruption and anti-corruption campaigns; strengths and weaknesses of the national development model.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STRAMGT579 SEM
-DTSTART;TZID=America/Los_Angeles:20170411T163000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170505T181500;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180410T163000
+CREATED:20170927T175745
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180504T181500;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

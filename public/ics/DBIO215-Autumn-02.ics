@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T175000
-LAST-MODIFIED:20170211T124036
-UID:explore_coursesb1a925b2-01ae-4d33-ad66-2125a4eca6f7
-DTSTAMP:20170211T124036
+DTEND;TZID=America/Los_Angeles:20170926T175000
+LAST-MODIFIED:20170927T175902
+UID:explore_courses3fd94d99-6a79-4a5c-93ba-8be7676820db
+DTSTAMP:20170927T175902
 LOCATION:Beckman Center B302
 DESCRIPTION:Students analyze cutting edge science, develop a logical framework for evaluating evidence and models, and enhance their ability to design original research through exposure to experimental tools and strategies.  The class runs in parallel with the Frontiers in Biological Research seminar series.  Students and faculty meet on the Tuesday preceding each seminar to discuss a landmark paper in the speaker's field of research.  Following the Wednesday seminar, students meet briefly with the speaker for a free-range discussion which can include insights into the speakers' paths into science and how they pick scientific problems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DBIO215 DIS
-DTSTART;TZID=America/Los_Angeles:20160927T163000
-CREATED:20170211T124036
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T175000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170926T163000
+CREATED:20170927T175902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T162000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses096e51f8-20a4-47f3-b1f6-258fd931bb43
-DTSTAMP:20170211T124020
-LOCATION:160-319
+DTEND;TZID=America/Los_Angeles:20170925T162000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursesf5fbcf96-bf82-4d01-9d41-7c37c9805242
+DTSTAMP:20170927T180001
+LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:Students will study the theory of operation of instruments such as the time-domain reflectometer, sampling oscilloscope and vector network analyzer. They will build on that theoretical foundation by designing, constructing and characterizing numerous wireless building blocks in the upper-UHF range (e.g., up to about 500MHz), in a running series of laboratory exercises that conclude in a final project. Examples include impedance-matching and coupling structures, filters, narrowband and broadband amplifiers, mixers/modulators, and voltage-controlled oscillators. Prerequisite: EE 114 or EE 214A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE251 LAB
-DTSTART;TZID=America/Los_Angeles:20160926T150000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T150000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

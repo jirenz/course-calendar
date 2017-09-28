@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T175000
-LAST-MODIFIED:20170211T123940
-UID:explore_courses2e0e02c9-0c31-4049-a6d5-99617b97d22e
-DTSTAMP:20170211T123940
-LOCATION:
-DESCRIPTION:The course covers the basic toolbox for construction of more complex structures for function, largely directed towards molecules of biological relevance. The focus will be the ability to perform structural changes efficiently in order to enable the design of the best structure for a function. The concepts of catalytic processes are at the heart of the how small molecule drug discovery is performed. Fundamentals of the pertinent catalytic processes are discussed. The inter-relationship of synthetic chemistry and pharmaceuticals is emphasized. See more at: http://library.stanford.edu/guides/chem-137-special-topics-organic-chemistry#sthash.vi9khNU5.dpuf.  Prerequisite CHEM 35.
+DTEND;TZID=America/Los_Angeles:20180404T145000
+LAST-MODIFIED:20170927T175805
+UID:explore_coursesd1d4d075-3faa-4527-89cb-ed82cf0cc877
+DTSTAMP:20170927T175805
+LOCATION:Chemistry Gazebo
+DESCRIPTION:The course covers the design and synthesis of polymers and supramolecular complexes. Polymer chemistry is built on our understanding of reactive organic intermediates and catalysis; supramolecular chemistry is based on our understanding of non-covalent interactions. Thus, application of such understandings to the synthesis of covalent and supramolecular polymers is a central theme of this course. Modern developments in polymer chemistry have allowed the synthesis of polymers with controlled molecular weights, architectures, tacticity, and rich functionalities. Such synthetic controls in macromolecular structures lead to diverse and tunable properties and functions of the produced materials. Therefore, this course also covers basic properties and structure-property relationships of macromolecules for rational design of structures and selection of chemistry. Prerequisite CHEM 35 and 131.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM137 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T163000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T175000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180404T133000
+CREATED:20170927T175805
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160927T162000
-LAST-MODIFIED:20170211T123952
-UID:explore_courses20817f6d-0e00-4512-afae-bf5173b8a3c5
-DTSTAMP:20170211T123952
-LOCATION:Li Ka Shing Center, room 120
+DTEND;TZID=America/Los_Angeles:20170928T162000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses1c5436b1-6964-4dd6-832f-85bed985f0c6
+DTSTAMP:20170927T175933
+LOCATION:160-120
 DESCRIPTION:Introduction to human virology integrating epidemiology, molecular biology, clinical sciences, social sciences, history, and the arts. Emphasis on host pathogen interactions and policy issues. Topics: measles and viral epidemiology, rotavirus and world health, rabies and infections of the brain, HPV and cancer -causing viruses, herpes simplex and viral latency, CMV and viral teratogenesis, retrovirology and endogenous viral sequences, HIV and viral treatement, viral hepatitis and chronic infections, prions and diseases of life style. Prerequisite: Concurrent enrollment with MI155A or HUMBIO 155H.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO155V LEC
-DTSTART;TZID=America/Los_Angeles:20160927T150000
-CREATED:20170211T123952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20170928T133000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

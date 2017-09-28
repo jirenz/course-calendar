@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T142000
-LAST-MODIFIED:20170211T124037
-UID:explore_coursesbfe521e0-03fb-4ee2-95a2-9d8db5932c2a
-DTSTAMP:20170211T124037
-LOCATION:Li Ka Shing Center, room 130
+DTEND;TZID=America/Los_Angeles:20180402T144000
+LAST-MODIFIED:20170927T175902
+UID:explore_courses0915d013-6847-431f-a72d-abb2886b4ea2
+DTSTAMP:20170927T175902
+LOCATION:Alway Building, Room M112
 DESCRIPTION:Open to all students. Wilderness-related illnesses and injuries; a framework for evaluation and treatment of emergencies in the backcountry. Hands-on clinical skills. Topics include high altitude medicine, hypothermia, envenomations, search and rescue, improvisation, and a day long field trip for hands-on field work.  3 units includes participation in an Emergency Department observation shift.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EMED223 LEC
-DTSTART;TZID=America/Los_Angeles:20170404T133000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T142000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T144000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

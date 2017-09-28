@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170404T162000
-LAST-MODIFIED:20170211T124024
-UID:explore_courses766592a8-9ebc-40e0-8b26-46e51a7f8e5f
-DTSTAMP:20170211T124024
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses0e1b8146-3bbc-457d-8b39-9b427b2f7f2f
+DTSTAMP:20170927T175933
 LOCATION:ArrillagaOutdoorEducRecCtr208B
 DESCRIPTION:Introduction to essential skills for individual and group sustainability in a backcountry setting including shelter in outdoor environments, equipment selection and use, travel techniques, water and nutrition needs, planning and preparation, and risk management. Course includes the participation in a weekend backcountry experience.
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:OUTDOOR105 ACT
-DTSTART;TZID=America/Los_Angeles:20170404T150000
-CREATED:20170211T124024
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=TU
+SUMMARY:OUTDOOR105 SEM
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170211T124002
-UID:explore_courseseeba2b24-1d57-423e-8559-6e19c8a51cbb
-DTSTAMP:20170211T124002
-LOCATION:200-219
+DTEND;TZID=America/Los_Angeles:20180108T132000
+LAST-MODIFIED:20170927T175848
+UID:explore_coursesbf4be1fc-0546-4c5a-9d7a-a1c02fb7ac44
+DTSTAMP:20170927T175848
+LOCATION:Encina Hall C464
 DESCRIPTION:State politics and policy making, including the roles of the legislature, legislative leadership, governor, special interests, campaign finance, advocacy groups, ballot initiatives, state and federal laws, media, and research organizations. Case studies involving budgets, education, pensions, health care, political reform, environmental reforms, water, transportation and more. Evaluation of political actions, both inside and outside of government, that can affect California policy and social outcomes. Meetings with elected officials, policymakers, and advocates in class and during a day-long field trip to Sacramento.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PUBLPOL154 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T113000
-CREATED:20170211T124002
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180108T113000
+CREATED:20170927T175848
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

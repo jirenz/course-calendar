@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T122000
-LAST-MODIFIED:20170211T124000
-UID:explore_courses7d94424a-3279-4744-8361-4c1bf34ddf44
-DTSTAMP:20170211T124000
+DTEND;TZID=America/Los_Angeles:20170925T125000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses3e6de38c-f620-446d-b2ba-612a05a6c510
+DTSTAMP:20170927T175846
 LOCATION:Bishop Auditorium
-DESCRIPTION:(Formerly POLISCI 1) Approaches to the study of conflict and cooperation in world affairs. Applications to war, terrorism, trade policy, the environment, and world poverty. Debates about the ethics of war and the global distribution of wealth.
+DESCRIPTION:Approaches to the study of conflict and cooperation in world affairs. Applications to First and Second World Wars, the Cold War, terrorism, economic policy, and development.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI101 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T103000
-CREATED:20170211T124000
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20170925T113000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T125000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

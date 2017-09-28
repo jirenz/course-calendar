@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T123000
-LAST-MODIFIED:20170211T124028
-UID:explore_courses3398a221-eeba-485f-b87b-e012fd36faa0
-DTSTAMP:20170211T124028
-LOCATION:Law190
+DTEND;TZID=America/Los_Angeles:20180108T123000
+LAST-MODIFIED:20170927T175752
+UID:explore_courses764a7451-b5ce-4d08-9acb-187c341298f7
+DTSTAMP:20170927T175752
+LOCATION:
 DESCRIPTION:(Formerly Law 312) The law school offers two survey courses dealing with constitutional criminal procedure.  This course, &quot;Criminal Investigation,&quot; covers the constitutional restrictions on police investigations, especially searches, seizures, and interrogations.  &quot;Criminal Adjudication&quot; covers the rules governing judicial proceedings following arrest or formal criminal charges.  Neither course is a prerequisite for the other.  Grades in this class will be based on an in-class, partial open-book final exam.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW2002 LEC
-DTSTART;TZID=America/Los_Angeles:20170109T111000
-CREATED:20170211T124028
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T123000;BYDAY=MO,TU,WE
+DTSTART;TZID=America/Los_Angeles:20180108T111000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T123000;BYDAY=MO,TU,WE
 END:VEVENT
 END:VCALENDAR

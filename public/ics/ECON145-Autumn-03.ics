@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160930T122000
-LAST-MODIFIED:20170211T123946
-UID:explore_courses9e92d7dc-7402-4792-a1b3-c51e7a826506
-DTSTAMP:20170211T123946
-LOCATION:260-244
-DESCRIPTION:Analysis and description of labor markets. Determination of employment, unemployment, hours of work, wages. Welfare programs and work effort. Wage differentials by schooling, experience, gender, and race. Income inequality, changes in inequality, and differences in inequality.  Employment contracts, labor unions, and bargaining. International comparisons. Prerequisites: ECON 51, ECON 102B.
+DTEND;TZID=America/Los_Angeles:20170929T122000
+LAST-MODIFIED:20170927T175819
+UID:explore_coursesfb842337-812b-4f0b-884c-c562533096f4
+DTSTAMP:20170927T175819
+LOCATION:120-59
+DESCRIPTION:Analysis and description of labor markets.  Determination of employment, hours of work, and wages.  Wage differentials.  Earnings inequality.  Trade unions and worker co-operatives.  Historical and international comparisons.. Prerequisites: ECON 51 (Public Policy majors may take PUBLPOL 51 as a substitute for ECON 51), ECON 102B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON145 DIS
-DTSTART;TZID=America/Los_Angeles:20160930T113000
-CREATED:20170211T123946
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T122000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170929T113000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

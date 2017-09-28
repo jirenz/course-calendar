@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170109T133000
-LAST-MODIFIED:20170211T123957
-UID:explore_courses040007f7-8df0-45ce-9c95-57b9d1fee951
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180108T133000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses0e115aba-84f4-439f-9a36-f93d6b43892c
+DTSTAMP:20170927T175841
 LOCATION:BRH
 DESCRIPTION:Select 24-voice choral ensemble, specializing in virtuoso choral repertoire from all periods of Western art music. Annual touring commitment required. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC165 PRC
-DTSTART;TZID=America/Los_Angeles:20170109T123000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T133000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T123000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T133000;BYDAY=MO
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T213000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursesf03ac13d-2188-4694-b608-260337bbceea
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180111T213000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses5f085e47-7327-4f78-b5d1-4288fb1cf138
+DTSTAMP:20170927T175841
 LOCATION:BRH
 DESCRIPTION:Select 24-voice choral ensemble, specializing in virtuoso choral repertoire from all periods of Western art music. Annual touring commitment required. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC165 PRC
-DTSTART;TZID=America/Los_Angeles:20170112T190000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T213000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T190000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T213000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

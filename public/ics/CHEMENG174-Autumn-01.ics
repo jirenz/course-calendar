@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T102000
-LAST-MODIFIED:20170211T124012
-UID:explore_courses26fc69c0-d27a-4c17-bdb3-5b3bb406f6a4
-DTSTAMP:20170211T124012
-LOCATION:Y2E2 111
+DTEND;TZID=America/Los_Angeles:20170925T102000
+LAST-MODIFIED:20170927T175949
+UID:explore_coursesc8734c74-3563-41dd-819f-468884219bf2
+DTSTAMP:20170927T175949
+LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Basics of microbiology and biochemistry. The biochemical and biophysical principles of biochemical reactions, energetics, and mechanisms of energy conservation. Diversity of microbial catabolism, flow of organic matter in nature: the carbon cycle, and biogeochemical cycles. Bacterial physiology, phylogeny, and the ecology of microbes in soil and marine sediments, bacterial adhesion, and biofilm formation. Microbes in the degradation of pollutants. Prerequisites: CHEM 33, 35, and BIOSCI 41, CHEMENG 181 (formerly 188), or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG174 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T093000
-CREATED:20170211T124012
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T102000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175949
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

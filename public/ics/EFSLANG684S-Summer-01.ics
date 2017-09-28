@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170627T152000
-LAST-MODIFIED:20170211T123947
-UID:explore_courses53416bfa-2738-4ae8-a9d3-d5634adf19c3
-DTSTAMP:20170211T123947
-LOCATION:260-002
+DTEND;TZID=America/Los_Angeles:20180626T152000
+LAST-MODIFIED:20170927T175821
+UID:explore_courses7313d7a9-65e3-4488-b34f-54c16919034a
+DTSTAMP:20170927T175821
+LOCATION:380-380W
 DESCRIPTION:Provides an overview of Silicon Valley's unique culture and language patterns via exposure to authentic materials, such as blogs and videos, and interaction with students and professionals in local industry. Participants learn and practice language forms characteristic of this region across all skills. Those taking the course for 2 units will have additional individualized assignments and a 50-minute tutorial each week. Limited to visiting non-native English speaking undergraduates and students in the High School Summer College program. (1-2 units)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EFSLANG684S LNG
-DTSTART;TZID=America/Los_Angeles:20170627T133000
-CREATED:20170211T123947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170817T152000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180626T133000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T152000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

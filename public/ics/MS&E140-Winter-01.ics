@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T132000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursesafe44af2-815a-4f62-a755-aca5e5816313
-DTSTAMP:20170211T124021
+DTEND;TZID=America/Los_Angeles:20180109T132000
+LAST-MODIFIED:20170927T180002
+UID:explore_courses73c6cf54-d121-4be6-b0b0-0d36435796a5
+DTSTAMP:20170927T180002
 LOCATION:Skillaud
 DESCRIPTION:Non-majors and minors who have taken or are taking elementary accounting should not enroll. Introduction to accounting concepts and the operating characteristics of accounting systems. The principles of financial and cost accounting, design of accounting systems, techniques of analysis, and cost control. Interpretation and use of accounting information for decision making. Designed for the user of accounting information and not as an introduction to a professional accounting career.  Enrollment limited.  Admission by order of enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E140 LEC
-DTSTART;TZID=America/Los_Angeles:20170110T120000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T120000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

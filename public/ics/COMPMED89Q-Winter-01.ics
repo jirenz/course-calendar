@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T102000
-LAST-MODIFIED:20170211T124036
-UID:explore_courses5d9b9e6b-e537-43ef-8755-c37256b8ed89
-DTSTAMP:20170211T124036
-LOCATION:E.D. Stone Edwards Bldg R358
+DTEND;TZID=America/Los_Angeles:20180109T102000
+LAST-MODIFIED:20170927T175901
+UID:explore_courses9dcfc8a9-7db6-4511-913a-ee519a03eb21
+DTSTAMP:20170927T175901
+LOCATION:MSOBX303
 DESCRIPTION:Preference to sophomores. Focus is on understanding the basic neurobiology of  pain pathways. Topics include the physiology, pharmacology, and clinical aspects of effective pain management. In both humans and animals pain is part of the protective mechanisms that prevent further injury to the body. However, if the pain process continues unchecked, it can become extremely detrimental.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPMED89Q ISS
-DTSTART;TZID=America/Los_Angeles:20170110T090000
-CREATED:20170211T124036
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T090000
+CREATED:20170927T175901
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

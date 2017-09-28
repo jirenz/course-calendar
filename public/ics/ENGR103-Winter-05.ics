@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T220000
-LAST-MODIFIED:20170211T124020
-UID:explore_courses43abf86d-054f-43ad-be95-edf766fe5c1e
-DTSTAMP:20170211T124020
-LOCATION:Y2E2 101
+DTEND;TZID=America/Los_Angeles:20180110T220000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursese123ae08-d4e3-4cc7-aff8-651d199e3923
+DTSTAMP:20170927T180001
+LOCATION:Mitchb67
 DESCRIPTION:Priority to Engineering students. Introduction to speaking activities, from impromptu talks to carefully rehearsed formal professional presentations. How to organize and write speeches, analyze audiences, create and use visual aids, combat nervousness, and deliver informative and persuasive speeches effectively. Weekly class practice, rehearsals in one-on-one tutorials, videotaped feedback. Limited enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR103 PRA
-DTSTART;TZID=America/Los_Angeles:20170111T193000
-CREATED:20170211T124020
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T220000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T193000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T220000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

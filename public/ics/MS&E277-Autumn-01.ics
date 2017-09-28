@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160929T162000
-LAST-MODIFIED:20170211T124021
-UID:explore_coursesfa7a6270-8ee0-4d8a-af35-866656a3fbf8
-DTSTAMP:20170211T124021
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T180002
+UID:explore_coursese97a2e9e-1a3a-4bf9-b452-c34e0134455c
+DTSTAMP:20170927T180002
 LOCATION:550-STUDIO 2
 DESCRIPTION:Experiential course explores factors that promote and inhibit creativity and innovation in individuals, teams, and organizations. Teaches creativity tools using workshops, case studies, field trips, expert guests, and team design challenges. Enrollment limited to 40. Admission by application. See http://dschool.stanford.edu/classes.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E277 WKS
-DTSTART;TZID=America/Los_Angeles:20160929T133000
-CREATED:20170211T124021
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T162000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20170926T090000
+CREATED:20170927T180002
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

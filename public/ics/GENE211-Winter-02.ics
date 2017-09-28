@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170113T175000
-LAST-MODIFIED:20170211T124037
-UID:explore_coursesb20ea1f3-f44a-4e97-a2cb-24837ffccab4
-DTSTAMP:20170211T124037
-LOCATION:Alway Building, Room M212
-DESCRIPTION:The goal of this course is to explore how different experimental strategies are applied to a variety of biological questions. By experimental strategy, we refer to both the general method and the logic with which the method is applied. An underlying theme of the course is that each strategy we discuss can be applied to problems that cut across different disciplines, for example immunology, cancer biology, or embryology.  Genome evolution, organization, and function; technical, computational, and experimental approaches; hands-on experience with representative computational tools used in genome science; and a work knowledge of the scripting language Python
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:GENE211 DIS
-DTSTART;TZID=America/Los_Angeles:20170113T160000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T175000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170112T112000
-LAST-MODIFIED:20170211T124037
-UID:explore_courses9f98fe47-db52-4fdf-9652-b6879f471306
-DTSTAMP:20170211T124037
+DTEND;TZID=America/Los_Angeles:20180111T112000
+LAST-MODIFIED:20170927T175903
+UID:explore_courses9206150a-0cdd-4a1d-9d39-966017daae9e
+DTSTAMP:20170927T175903
 LOCATION:
 DESCRIPTION:The goal of this course is to explore how different experimental strategies are applied to a variety of biological questions. By experimental strategy, we refer to both the general method and the logic with which the method is applied. An underlying theme of the course is that each strategy we discuss can be applied to problems that cut across different disciplines, for example immunology, cancer biology, or embryology.  Genome evolution, organization, and function; technical, computational, and experimental approaches; hands-on experience with representative computational tools used in genome science; and a work knowledge of the scripting language Python
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE211 DIS
-DTSTART;TZID=America/Los_Angeles:20170112T093000
-CREATED:20170211T124037
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T112000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T093000
+CREATED:20170927T175903
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170407T162000
-LAST-MODIFIED:20170211T124004
-UID:explore_courses1a140977-dfce-4660-975e-3d5fef5b4736
-DTSTAMP:20170211T124004
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180406T162000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesf185150e-2556-4cc8-9214-fb776780d992
+DTSTAMP:20170927T175851
+LOCATION:Ceras 123
 DESCRIPTION:For students doing advanced research. Group comments and criticism on dissertation projects at any phase of completion, including data problems, empirical and theoretical challenges, presentation refinement, and job market presentations. Collaboration, debate, and shaping research ideas. Prerequisite: courses in organizational theory or social network analysis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC361W WKS
-DTSTART;TZID=America/Los_Angeles:20170407T143000
-CREATED:20170211T124004
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170607T162000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180406T143000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

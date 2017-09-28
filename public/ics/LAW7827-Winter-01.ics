@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170110T124000
-LAST-MODIFIED:20170211T124029
-UID:explore_courses397f209c-2752-48fe-826c-1edf70bb076c
-DTSTAMP:20170211T124029
-LOCATION:Law320D
-DESCRIPTION:(Formerly Law 708)  This course orients advanced degree students and upper class JD students to a range of legal writing genres used by lawyers in practice in American law offices and before American courts.  At the core of these genres are the techniques of legal research, objective and persuasive legal writing, and related legal analysis.  The course presents students with realistic legal writing scenarios that they address in and out of class.  Students perform legal research and analysis as they complete assignments designed to incorporate methods that American lawyers use to analyze typical legal problems while advocating on behalf of a hypothetical client in a litigation matter.  Class Participation, Attendance, Written Assignments.
+DTEND;TZID=America/Los_Angeles:20180109T124000
+LAST-MODIFIED:20170927T175752
+UID:explore_courses11a308c8-9bb4-4cc6-9f1d-2522dd0ed404
+DTSTAMP:20170927T175752
+LOCATION:
+DESCRIPTION:(Formerly Law 708) This course orients advanced degree students and upper class JD students to a range of legal writing genres used by lawyers in practice in American law offices and before American courts. At the core of these genres are the techniques of legal research, objective and persuasive legal writing, and related legal analysis. The course presents students with realistic legal writing scenarios that they address in and out of class. Students perform legal research and analysis as they complete assignments designed to incorporate methods that American lawyers use to analyze typical legal problems while advocating on behalf of a hypothetical client in a litigation matter. Class Participation, Attendance, Written Assignments.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW7827 SEM
-DTSTART;TZID=America/Los_Angeles:20170110T111000
-CREATED:20170211T124029
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170313T124000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T111000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T124000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

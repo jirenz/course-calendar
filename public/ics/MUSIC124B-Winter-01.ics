@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170111T172000
-LAST-MODIFIED:20170211T123957
-UID:explore_coursesa14c68aa-b7ef-4f58-8f7b-5172520dd5a5
-DTSTAMP:20170211T123957
+DTEND;TZID=America/Los_Angeles:20180110T172000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses4abed751-638a-49e1-89d0-f0d4b6350d3c
+DTSTAMP:20170927T175841
 LOCATION:
 DESCRIPTION:Laboratory for composers of any kind of vernacular music: singer-songwriters; folk singers; laptop dance music composers; rock and pop bands; rappers; writers of instrumentals or music with lyrics; solo artists and collaborators; etc. Compositional strategies for songwriting, overview of exemplars, discussion of aesthetic issues, and development of artistic personae. Weekly critique session for students and faculty to share work and offer feedback. Music theory and literacy not required. Aimed, however, at those with at least some experience as writers, whether casual or extensive. For bands at least half of members must be enrolled. Enrollment in 3-unit course is by permission of, and invites lessons with instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC124B WKS
-DTSTART;TZID=America/Los_Angeles:20170111T153000
-CREATED:20170211T123957
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170317T172000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180110T153000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

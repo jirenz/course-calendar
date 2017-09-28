@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20160926T132000
-LAST-MODIFIED:20170211T123940
-UID:explore_courses2aeeabb5-d1e2-4d43-9764-3c6479e0f7fe
-DTSTAMP:20170211T123940
-LOCATION:Chemistry Gazebo
-DESCRIPTION:Physical organic chemistry: molecular structures, bonding, and non-covalent interactions; thermodynamic and kinetic understanding of reactivity and reaction mechanism. Prerequisites: 137, 175.
+DTEND;TZID=America/Los_Angeles:20170925T132000
+LAST-MODIFIED:20170927T175805
+UID:explore_courses76cd002a-a274-48b4-89d3-fd33cac74a55
+DTSTAMP:20170927T175805
+LOCATION:STLC119
+DESCRIPTION:Physical organic chemistry: molecular structures, bonding, and non-covalent interactions; thermodynamic and kinetic understanding of reactivity and reaction mechanism. Prerequisite: 175.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM221 LEC
-DTSTART;TZID=America/Los_Angeles:20160926T123000
-CREATED:20170211T123940
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20161209T132000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20170925T123000
+CREATED:20170927T175805
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR
