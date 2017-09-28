@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T162000
+LAST-MODIFIED:20170927T175829
+UID:explore_courses5f7219a1-1a73-4597-bd60-5a248a98e731
+DTSTAMP:20170927T175829
+LOCATION:Encina West 106
+DESCRIPTION:Nothing better illustrates the evolution of the modern presidency than the arena of foreign policy.  This class will examine the changing role and choices of successive presidential administrations over the past century, examining such factors as geopolitics, domestic politics, the bureaucracy, ideology, psychology, and culture.  Students will be encouraged to think historically about the institution of the presidency, while examining specific case studies, from the First World War to the conflicts of the 21st century.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY261G COL
+DTSTART;TZID=America/Los_Angeles:20180110T133000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

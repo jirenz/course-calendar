@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses3b1da65b-a09c-43b8-8828-03bc0152f67f
+DTSTAMP:20170927T175846
+LOCATION:Ceras 300
+DESCRIPTION:Social, cultural, political, economic, and international factors affecting the development and consolidation of democracy in historical and comparative perspective. Individual country experiences with democracy, democratization, and regime performance. Emphasis is on global third wave of democratization beginning in the mid-1970s, the recent global recession of democracy (including the rise of illiberal populist parties and movements), and the contemporary challenges and prospects for democratic change.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:POLISCI147 LEC
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

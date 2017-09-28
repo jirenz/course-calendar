@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T152000
+LAST-MODIFIED:20170927T175819
+UID:explore_coursesc02a000c-98d1-43da-9772-cf74fa16a196
+DTSTAMP:20170927T175819
+LOCATION:Econ 139
+DESCRIPTION:We will explore models for analyzing a wide variety of issues in open-economy macroeconomics, such as the balance of payments; the determination of exchange rates; the relation between exchange rates and inflation; monetary and fiscal policy under flexible and fixed exchange rate regimes; macroeconomic gains (and pains?) from financial globalization; policy coordination and optimum currency areas; exchange rate crises; debt crises and the possibility of contagion. Our theoretical framework will structure our examination of important historical episodes and contemporary policy debates; the textbook will be supplemented with readings from recent scholarly articles and mainstream news sources.  Active class participation is an important part of the course.  Prerequisite: ECON 52.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON165 LEC
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170925T162000
+LAST-MODIFIED:20170927T175822
+UID:explore_courses97978787-1110-4b05-9deb-97c9d39103ee
+DTSTAMP:20170927T175822
+LOCATION:Encina West 202
+DESCRIPTION:Disability Studies is a relatively new interdisciplinary academic field that examines disability as a social, cultural and political phenomenon. This is an introductory course to the field of disability studies and it aims to investigate the complex concept of disability through a variety of prisms and disciplines including social psychology, the humanities, legal studies and media studies. This course also focuses on the multiple connections between the study of disability and other identities including class, race, ethnicity, gender and sexual orientation, and also includes a comparative look at how disability is treated across cultures. Some of the topics covered in the class are disability and the family, the history of the disability rights movement, the development of disability identity and its intersectionality, antidiscrimination law, the UN Convention on the Rights of People with Disabilities, bioethical dilemmas pertaining to disability and more.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ETHICSOC104X SEM
+DTSTART;TZID=America/Los_Angeles:20170925T143000
+CREATED:20170927T175822
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

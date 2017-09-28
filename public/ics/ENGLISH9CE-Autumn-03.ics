@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T165000
+LAST-MODIFIED:20170927T175821
+UID:explore_coursesf1c313ac-1c8a-4986-8724-53c6cd4e07f5
+DTSTAMP:20170927T175821
+LOCATION:Encina West 101
+DESCRIPTION:Primary focus on giving students a skill set to tap into their own creativity. Opportunities for students to explore their creative strengths, develop a vocabulary with which to discuss their own creativity, and experiment with the craft and adventure of their own writing. Students will come out of the course strengthened in their ability to identify and pursue their own creative interests. For undergrads only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ENGLISH9CE WKS
+DTSTART;TZID=America/Los_Angeles:20170926T150000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T165000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

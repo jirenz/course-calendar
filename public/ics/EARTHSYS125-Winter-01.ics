@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T132000
+LAST-MODIFIED:20170927T175940
+UID:explore_courses04135a16-344b-44ff-8882-2d29aa2d5c62
+DTSTAMP:20170927T175940
+LOCATION:Green Earth Sciences134
+DESCRIPTION:Historically, discussions of race, ethnicity, culture, and equity in the environment have been relegated to the environmental justice movement, which often focuses on urban environmental degradation and remains separated from other environmental movements. This course will seek to break out of this limiting discussion. We will explore access to outdoor spaces, definitions of wilderness, who is and isn't included in environmental organizations, gender and the outdoors, how colonialism has influenced ways of knowing, and the future of climate change. The course will also have a design thinking community partnership project. Students will work with partner organizations to problem-solve around issues of access and diversity. We value a diversity of experiences and epistemological beliefs, and therefore undergraduates and graduate students from all disciplines are welcome.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EARTHSYS125 SEM
+DTSTART;TZID=America/Los_Angeles:20180109T113000
+CREATED:20170927T175940
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

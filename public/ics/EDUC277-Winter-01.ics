@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T175000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses9c761507-b26d-460f-a12f-59eeb528ff10
+DTSTAMP:20170927T175938
+LOCATION:School of Education 229
+DESCRIPTION:Historical and contemporary approaches to educating immigrant students. Case study approach focuses on urban centers to demonstrate how stressed urban educational agencies serve immigrants and native-born U.S. students when confronted with overcrowded classrooms, controversy over curriculum, current school reform movements, and government policies regarding equal educational opportunity.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC277 LEC
+DTSTART;TZID=America/Los_Angeles:20180108T150000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

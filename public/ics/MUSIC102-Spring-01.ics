@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses4ee98093-9ef1-49d7-aef8-a4e851ef2aad
+DTSTAMP:20170927T175841
+LOCATION:Braun 131
+DESCRIPTION:Critical and creative exploration of the performing body as captured on film. Viewing/listening includes musicals, dance and opera on film, music video, experimental film and video, and moments of heightened musicality in feature film. We&iquest;ll focus on examples of moving media that possess a kinship with music&iquest;through gesture, rhythm or affect and through visual parameters like d&eacute;cor, lighting, texture, camera movement and editing. Requirements include choosing and documenting a live performance, producing a short audiovisual work involving post-production, and weekly reading and viewing/listening assignments. No previous videomaking experience required.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC102 SEM
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

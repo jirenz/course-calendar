@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20170927T175944
+UID:explore_coursesdaf19617-371c-42e6-9e65-186ae6b249f6
+DTSTAMP:20170927T175944
+LOCATION:Green Earth Sciences131
+DESCRIPTION:Broad conceptual overview of the various components required to uncertainty quantification (UQ) for decision making in subsurface engineering problems such as oil/gas production, groundwater management, contaminant remediation, geothermal energy and mineral deposits. The emphasis lies on learning how to synthesize rather than the details of each individual discipline. The class will cover the basic data science for UQ: dimension reduction methods, Monte Carlo &amp; global sensitivity analysis. Introduction to Bayesianism and how it applies to subsurface prediction problems, in particular, the formulation of geological prior models and the role of geostatistics.  Strategies for integrating geological science, geophysics, data science and decision science into decision making under uncertainty. Team work on real field applications.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GS260 LEC
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175944
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

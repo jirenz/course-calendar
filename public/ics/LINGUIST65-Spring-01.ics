@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20170927T175836
+UID:explore_coursesffcb3b4f-42dd-41b2-9c19-e4cf8510408e
+DTSTAMP:20170927T175836
+LOCATION:Econ 139
+DESCRIPTION:Vocabulary, pronunciation and grammatical features of the systematic and vibrant vernacular English [AAVE] spoken by African Americans in the US, its historical relation to British dialects, and to English creoles spoken on the S. Carolina Sea Islands (Gullah), in the Caribbean, and in W. Africa.  The course will also explore the role of AAVE in the &iquest;Living Arts&iquest; of African Americans, as exemplified by writers, preachers, comedians and actors, singers, toasters and rappers, and its connections with challenges that AAVE speakers face in the classroom and courtroom.  Service Learning Course (certified by Haas Center).nUNITS: 3-5 units.  Most students should register for 4 units. Students willing and able to tutor an AAVE speaking child in East Palo Alto and write an additional paper about the experience may register for 5 units, but should consult the instructor first.  Students who, for exceptional reasons, need a reduced course load, may request a reduction to 3 units, but more of their course grade will come from exams, and they will be excluded from group participation in the popular &iquest;AAVE Happenin&iquest; at the end of the course.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LINGUIST65 LEC
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175836
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

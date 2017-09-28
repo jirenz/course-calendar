@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T182000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses1dda78e5-32a4-4222-a7e5-b5437825daef
+DTSTAMP:20170927T175819
+LOCATION:Econ 106
+DESCRIPTION:This course studies computational approaches for solving dynamic economic models. First, it provides background in numerical analysis (approximation, integration, optimization, error analysis), and describes local and global numerical methods (perturbation, Smolyak, endogenous grid, stochastic simulation, cluster grid methods). Then, it shows applications from recent economic literature representing challenges to computational methods (new Keynesian models with a zero lower bound, default risk models, Krusell-Smith models, international trade models, overlapping-generations models, nonstationary growth models, dynamic games). Finally, it surveys recent developments in software and hardware (Python, Julia, GPUs, parallel computing, supercomputers), as well as machine learning techniques. No prerequisites. Grading on the basis of problem sets and a final project.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON288 LEC
+DTSTART;TZID=America/Los_Angeles:20170926T163000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T162000
+LAST-MODIFIED:20170927T175908
+UID:explore_coursese366b22a-2285-4f5a-8dbf-fca23d2b4a4b
+DTSTAMP:20170927T175908
+LOCATION:Li Ka Shing Center, rms304/305
+DESCRIPTION:An independent study service learning course designed to develop students' understanding of the intersection between identity, power, privilege, and disparities (health, education, environment). Students submit a written reflective term paper based on their experience as staff for the Summer Residential Program as well as their understanding of how constructs of identity, power and privilege impact low-income and underrepresented students in their pursuit of higher education. Prerequisite MED 1A.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED1B INS
+DTSTART;TZID=America/Los_Angeles:20180110T143000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T145000
+LAST-MODIFIED:20170927T175811
+UID:explore_coursesfbcac25e-9cf6-4904-9b60-77e77213b1cc
+DTSTAMP:20170927T175811
+LOCATION:Encina West 202
+DESCRIPTION:The period between the 1820s and the 1860s has traditionally been called the &quot;American Renaissance&quot;: a time when the U.S. nation, and its literature, flourished. The nineteenth century witnessed the publication of a number of important American texts that gave rise to a new national literary tradition, including familiar titles like The Scarlet Letter, Moby-Dick, and Leaves of Grass. Yet, as the nation stretched its geographical coordinates, writers from outside of this predominantly white, male literary heritage issued their own responses to the vision of a &quot;New World Democracy.&quot; This course surveys and contextualizes these responses. Reading authors from Native American, Latino/a, African American, and French creole cultures, we'll expand our study of American literature to include writers who interrogate the project of American Democracy from both within and outside of the nation. While analyzing autobiographies, poems, short stories, and speeches we will also learn to read paintings, Native American sign systems, and newspaper sketches, in an exploration of what it meant to be &quot;American&quot; and what counted as &quot;Literature&quot; in the golden era of American Letters.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:COMPLIT124 SEM
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T175811
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170927T162000
+LAST-MODIFIED:20170927T175743
+UID:explore_courses2dfef680-d281-4515-b87b-70b3456bb157
+DTSTAMP:20170927T175743
+LOCATION:GSB Class of 1968 104
+DESCRIPTION:This seminar examines research on the psychology of judgment and choice. Although the normative issue of how decisions should be made is relevant, the descriptive issue of how decisions are made is the main focus of the course. Topics of discussion include choice, judgment heuristics and biases, decision framing, prospect theory, mental accounting, context effects, task effects, regret, and other topics. The goal of the seminar is twofold: to foster a critical appreciation of existing knowledge in behavioral decision theory, to develop the students' skills in identifying and testing interesting research ideas, and to explore research opportunities for adding to that knowledge.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GSBGEN646 SEM
+DTSTART;TZID=America/Los_Angeles:20170927T133000
+CREATED:20170927T175743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

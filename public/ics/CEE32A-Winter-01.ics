@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T142000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses20c8251b-0b50-4061-91e5-3ad484e39712
+DTSTAMP:20170927T175952
+LOCATION:Y2E2 335
+DESCRIPTION:This course argues that architecture often neglects the interdisciplinary investigation of our internal psychological experience and the way it impacts our creation of space. How does our inner life influence external design? How are we impacted emotionally, physically, psychologically by the spaces we inhabit day to day? How might we intentionally imbue personal and public spaces with specific emotions? This seminar serves as a call to action for students interested in approaching architecture with a holistic understanding of the emotional impact of space. Sample topics addressed will include: conscious vs. unconscious design; the ego of architecture; psycho-spatial perspectives; ideas of home; integral/holistic architecture; phenomenology of inner and outer spaces; exploring archetypal architecture; and translating emotion through environment.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE32A LEC
+DTSTART;TZID=America/Los_Angeles:20180110T123000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T142000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180111T162000
+LAST-MODIFIED:20170927T175800
+UID:explore_courses0b695e62-5e17-4797-ba21-747560ec2445
+DTSTAMP:20170927T175800
+LOCATION:McMurtry Building rm 370
+DESCRIPTION:This course will engage the interface between art and fashion through the lens of a Cantor Arts Center 2018 exhibition: The Art of the Brand: Mondrian, Saint Laurent and Pop Art in America.  Students will write essays on objects in the exhibition for publication in the accompanying catalogue and for wall texts.  The course explores the concept of branding as a means to organize new thinking about the relationship between classic modernism, fashion, and the ways in which pop artists (Lichtenstein, Segal, Warhol, Wesselmann) dealt with abstraction and figuration, originality and reproduction, elite and mass culture, in the process reinventing Mondrian&iquest;s style as a brand that brings Warhol&iquest;s Campbell&iquest;s treatment of soup cans to mind.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTHIST471 SEM
+DTSTART;TZID=America/Los_Angeles:20180111T133000
+CREATED:20170927T175800
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

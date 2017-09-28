@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T192000
+LAST-MODIFIED:20170927T175952
+UID:explore_courses0791ea19-e1d4-4b86-a741-68a571347a06
+DTSTAMP:20170927T175952
+LOCATION:Y2E2 111
+DESCRIPTION:People, businesses and the built environment constituting major urban centers are fragile by their very nature.  Aging infrastructure built on land subject to earthquake, flood and drought risks, neighborhood housing inequality, quality food, water, air, transportation and energy allocated based on ability to pay, jobs restructured by the global economy, and local political forces, cyber risks and data malfeasance creeping into digital lifestyles and urban systems. The cascading risks of failure from urban fragility play out in multiple scenarios, endangering local and regional economic, environmental and social systems.  In the heat of urban emergency, rapid problem definition, innovative solution design and prototyping are unleashed and take control of the situational dynamics. nnLean startup methodologies that have successfully driven Silicon Valley&iquest;s pace of innovation can improve governments&iquest; ability to respond to the same dynamics.nnIn this class student teams will take actual urban resilience problems working with governmental organizations will apply &iquest;lean startup&iquest; principles to discover and validate beneficiary needs and to continually build iterative prototypes to validate the original the problem and build solution pathways. Teams take a hands-on approach, and are mentored by close engagement with actual Chief Resilience Officers, emergency responders, business and utility continuity executives, national and international response agencies, technology companies and nonprofits. Team applications required by [_______]. Limited enrollment.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE7 LAB
+DTSTART;TZID=America/Los_Angeles:20180109T163000
+CREATED:20170927T175952
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T192000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

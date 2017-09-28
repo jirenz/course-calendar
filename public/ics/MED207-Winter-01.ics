@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180111T132000
+LAST-MODIFIED:20170927T175908
+UID:explore_courses7c0d5ec0-525a-42cf-8ef2-1813f6dcf2d2
+DTSTAMP:20170927T175908
+LOCATION:CCSR 4107
+DESCRIPTION:Begins with studying Shamanistic medicine, practiced by humans throughout the globe, for millennia. Covers magico-religious medicine developed in ancient Egypt, Mesopotamia and Greece; the 4th Century BC with Hippocrates beginning to separate medicine from religion and magic; the slow progress in ancient Rome, the medieval period, and during the Renaissance; and the acceleration in the pace of discoveries In the last few centuries, as medicine became more scientific, complex, and specialized as Pasteur developed the germ theory of disease, Darwin and Mendel publications begin the development of Evolution and of Genetics, Watson and Crick solved the mystery of DNA structure, organ transplants began, and imaging procedures such as CT and MRI came into being. Lectures are profusely illustrated, and, for the sake of comparison, two equally ancient systems of medicine, the traditional Chinese and the Vedic, are briefly reviewed.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED207 LEC
+DTSTART;TZID=America/Los_Angeles:20180111T123000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T165000
+LAST-MODIFIED:20170927T175914
+UID:explore_courseseacc068e-4295-4b7b-b0cc-e15100a04846
+DTSTAMP:20170927T175914
+LOCATION:Alway Building, Room M208
+DESCRIPTION:For first-year Neuroscience graduate students; open to other graduate students as space permits with preference given to Neuroscience students. Focus is on fundamentals of the functional architecture of the human brain. Covers spinal cord, brainstem, thalamus, cerebellum, basal ganglia, frontal lobe, parietal lobe, occipital lobe, temporal lobe, and insula as well as the major white matter tracts. Students learn the anatomical connections of their assigned brain region and build a brain model.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:NEPR205 WKS
+DTSTART;TZID=America/Los_Angeles:20180402T140000
+CREATED:20170927T175914
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T165000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

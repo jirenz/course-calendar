@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T175823
+UID:explore_coursesac03e197-4ed2-4dbf-bd5e-926e6558bdab
+DTSTAMP:20170927T175823
+LOCATION:McMurtry Building rm 350
+DESCRIPTION:A close analysis of film adaptation, using various source materials to examine the demands form makes on content and the creative choices made in adaptation to film. Source materials will include plays, fiction, biography, history, graphic novels, and reference to video games and amusement park rides. A weekly film screening is a requirement of the course.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMPROD103 LEC
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175823
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T212000
+LAST-MODIFIED:20170927T175823
+UID:explore_courses6ff1525e-1db2-44b7-9e61-9955820375da
+DTSTAMP:20170927T175823
+LOCATION:McMurtry Building rm 115
+DESCRIPTION:A close analysis of film adaptation, using various source materials to examine the demands form makes on content and the creative choices made in adaptation to film. Source materials will include plays, fiction, biography, history, graphic novels, and reference to video games and amusement park rides. A weekly film screening is a requirement of the course.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMPROD103 LEC
+DTSTART;TZID=America/Los_Angeles:20180110T183000
+CREATED:20170927T175823
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T212000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

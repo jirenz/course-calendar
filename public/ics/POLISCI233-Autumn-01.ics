@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T175846
+UID:explore_coursesce1f98c0-09a7-4cad-b112-093f3c362f28
+DTSTAMP:20170927T175846
+LOCATION:School of Education 313
+DESCRIPTION:Cities have most often been where struggles for social justice happen, where injustice is most glaring and where new visions of just communities are developed and tested. This class brings political theories of justice and democracy together with historical and contemporary empirical work on city design, planning, and policies to ask the following questions: What makes a city just or unjust? How have people tried to make cities more just? What has made these efforts succeed or fail? Each session will include a case study of a particular city, largely with a focus on the United States. Students will develop research projects examining a city of their choice through the lens of a particular aspect of justice and injustice.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:POLISCI233 SEM
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

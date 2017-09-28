@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180111T162000
+LAST-MODIFIED:20170927T175808
+UID:explore_courses5596645c-142d-40c4-8113-b946f77af11d
+DTSTAMP:20170927T175808
+LOCATION:Green Library 351
+DESCRIPTION:This seminar will read much of the work of the major Latin poet Catullus (including some of the longer poems) from the perspective of textual criticism and literary interpretation: the two are necessarily closely bound up, and the minimal and imperfect nature of the Catullan textual transmission gives excellent opportunities to concentrate on trying to work out what the poet wrote and why, as well as analysing his work from a literary perspective. It will give orientation in the principles and practice of textual criticism as well as on Catullus and late republican Latin poetry. Metre will also figure. We will read up to 12 pages of Latin per week with some secondary literature. A good knowledge of Latin is required.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CLASSICS339 SEM
+DTSTART;TZID=America/Los_Angeles:20180111T133000
+CREATED:20170927T175808
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

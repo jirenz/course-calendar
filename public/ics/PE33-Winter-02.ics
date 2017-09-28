@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20170927T175934
+UID:explore_coursesad987f7e-783f-4c17-8ac7-7d9c9da27865
+DTSTAMP:20170927T175934
+LOCATION:Gold Driving Range
+DESCRIPTION:This course is designed to teach the fundamentals of the golf swing; putting, chipping, and sand play. We will also cover golf etiquette and rules. This course will utilize class discussions, class assignments and student participation to enable students to: (1) Understand basic components of skill-related and health-related physical fitness, (2) Develop physical fitness and motor skills, and (3) Develop a positive attitude toward wellness and physical activity which will facilitate a healthy lifestyle.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PE33 ACT
+DTSTART;TZID=America/Los_Angeles:20180108T153000
+CREATED:20170927T175934
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

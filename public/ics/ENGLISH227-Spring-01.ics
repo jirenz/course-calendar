@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T162000
+LAST-MODIFIED:20170927T175821
+UID:explore_coursesa2436901-96ad-45f0-b83d-157acbe51549
+DTSTAMP:20170927T175821
+LOCATION:Lathrop 296
+DESCRIPTION:A slow and careful reading of Herman Melville's 1850 masterpiece, <i>Moby-Dick</i>; or, <i>The Whale</i>.  In the process, we will unfold the novel's nineteenth-century literary-historical context as well as the world of Melville's own literary, religious, philosophical, technological, commercial, and scientific citations and allusions.  We will seek to understand the multiple significances of Melville's experiments with the novelistic genre and their relationship with his building out the meaning of Americanness. In the second half of the quarter, we will focus on a selection of major mid-twentieth-century through contemporary critical, literary-theoretical, and political-theoretical readings of <i>Moby-Dick.</i>
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ENGLISH227 SEM
+DTSTART;TZID=America/Los_Angeles:20180404T133000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

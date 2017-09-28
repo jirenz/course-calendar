@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170928T175000
+LAST-MODIFIED:20170927T175815
+UID:explore_coursescbc9d855-0b39-45f3-8d7b-863004b0942b
+DTSTAMP:20170927T175815
+LOCATION:Hewlett Teaching Center 201
+DESCRIPTION:Theme for Autumn 2017 is &quot;The Rise of Commercial Space Businesses in Asia.&quot;  Distinguished guest speakers from industry, governments, and universities present and discuss businesses from Asia related to outer space, including telecommunications, debris removal, payload launch services, space medicine, etc.  See syllabus for specific requirements, which may differ from those of other seminars at Stanford.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EASTASN402A LEC
+DTSTART;TZID=America/Los_Angeles:20170928T163000
+CREATED:20170927T175815
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

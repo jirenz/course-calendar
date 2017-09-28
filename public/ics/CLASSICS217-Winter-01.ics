@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T175808
+UID:explore_coursesb74f9c71-cd6f-4b47-8964-aee3eb2e9ccd
+DTSTAMP:20170927T175808
+LOCATION:Green Library 351
+DESCRIPTION:This lecture class aims to explore the later reception of some major texts of Latin poetry and fiction in later European literatures and intellectual cultures from the medieval period until now, predominantly English but occasionally some other European modern languages [English translations supplied]. There will be some orientation in reception studies and its theory. Reading expectations will be mainly literary texts, no more than 100 pages in English per week; the course will look at translations and history of scholarship as well as literary adaptations. Particular attention will be paid to issues of cultural tension and later transformation of classical material in different historical and intellectual environments. It should be of interest to students of English and comparative literature as well as classicists. It is primarily for graduate students but undergraduates are very welcome to attend.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CLASSICS217 SEM
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20170927T175808
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

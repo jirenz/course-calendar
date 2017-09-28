@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T122000
+LAST-MODIFIED:20170927T175801
+UID:explore_courses1e878425-f3ee-455d-b377-395e45a20b56
+DTSTAMP:20170927T175801
+LOCATION:McMurtry Building rm 130
+DESCRIPTION:Outlaw sensibilities, self-made kinships, chosen lineages, utopic futurity, exilic commitment, and rage at institutions that police the borders of the normal these are among the attitudes that make up queer in its contemporary usage. David J. GetsynnThis hands on studio based course explores queer as a form of art production. Artists and thinkers use queer to signal defiance to the mainstream and an embrace of difference, uniqueness and self-determination. To be intolerable is to demand that the normal, the natural and the common be challenged. To do this is not to demand inclusion, but rather to refuse to accept any operations of exclusion and erasure that make up the normal and posit compulsory sameness. Queer Sculpture is also about the strategic effort to appropriate and subvert conventional art practices and tactics that may involve everything from shifts in the content of a work and its targeted audience to the methods by which it is produced and its formal properties. The political imperatives of a queer or queered position will shape thematic investigations of practices related to utopic futurity, anti-assimilationist practices, failure, abstraction, the archive, camp, drag and alternative families. Classes will require reading, discussing, and making. Students will produce artwork for critiques and participate in discussions of the readings. The course includes guest artists and fieldtrips to local LGBTQ archives.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSTUDI150Q ISS
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20170927T175801
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

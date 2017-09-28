@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T152000
+LAST-MODIFIED:20170927T175801
+UID:explore_courses5818b171-9b5d-471a-b7a0-2aa0f3aba5dd
+DTSTAMP:20170927T175801
+LOCATION:McMurtry Building rm 305
+DESCRIPTION:This course will explore different types of color phenomenon through cutting and arranging colored paper and mixing paint. The goal of the course is to enhance sensitivity to color relationships. There is no such thing as a bad color or a good color, it is all relative to context. Students in this course will gain the ability to recognize and identify different types of color phenomena that exist in art and nature. The development of observation and articulation when dealing with color comes from experience, trial and error, and in doing so, one develops an individual eye for color.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSTUDI144B PRA
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20170927T175801
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

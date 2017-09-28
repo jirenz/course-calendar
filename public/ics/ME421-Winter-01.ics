@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T175000
+LAST-MODIFIED:20170927T180006
+UID:explore_courses6c6afb67-20b7-4482-b0fe-bac1e91153d1
+DTSTAMP:20170927T180006
+LOCATION:Hewlett Teaching Center 201
+DESCRIPTION:Lessons from real-world experiences and challenges in European startups, corporations, universities, non-profit research institutes and venture finance organizations. Speakers include entrepreneurs, leaders from global technology companies, university researchers, venture capitalists, legal experts, senior policy makers and other guests from selected European countries and regions. Geographic scope encompasses Ireland to Russia, and Scandinavia to the Mediterranean region. Enrollment open to undergraduates and graduates in any school or department at Stanford.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ME421 SEM
+DTSTART;TZID=America/Los_Angeles:20180108T163000
+CREATED:20170927T180006
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

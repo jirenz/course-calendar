@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170927T162000
+LAST-MODIFIED:20170927T175943
+UID:explore_courses9ad304c1-a175-4532-a8ac-596401bb8130
+DTSTAMP:20170927T175943
+LOCATION:Crothers Memorial Hall Lounge
+DESCRIPTION:The course will provide a broad overview of key policy issues concerning agricultural development and food security, and will assess how global governance is addressing the problem of food security. At the same time the course will provide an overview of the field of international security, and examine how governments and international institutions are beginning to include food in discussions of security.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ESS61Q ISS
+DTSTART;TZID=America/Los_Angeles:20170927T143000
+CREATED:20170927T175943
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180405T192000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses1dd43fb5-9155-4cd9-90e2-8990d742212a
+DTSTAMP:20170927T175819
+LOCATION:Lathrop 294
+DESCRIPTION:Institutional, theoretical, and empirical analysis of the problems of health and medical care. Topics: demand for medical care and medical insurance; institutions in the health sector; economics of information applied to the market for health insurance and for health care; measurement and valuation of health; competition in health care delivery. Graduate students with research interests should take ECON 249. Prerequisites: ECON 50 and either ECON 102A or STATS 116 or the equivalent. Recommended: ECON 51.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON126 DIS
+DTSTART;TZID=America/Los_Angeles:20180405T183000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

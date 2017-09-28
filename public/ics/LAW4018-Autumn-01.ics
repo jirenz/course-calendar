@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170925T181500
+LAST-MODIFIED:20170927T175752
+UID:explore_courses74e50ab1-c53f-47e2-b540-a715f7ae7912
+DTSTAMP:20170927T175752
+LOCATION:William H. Neukom building 102
+DESCRIPTION:(Formerly Law 745)  Few copyright licenses today fail to reach across national borders, and copyright litigation increasingly calls for a general understanding of foreign copyright law. This course will focus on the counselling considerations that surround the exploitation of music, film, literature and other copyrighted works in foreign markets through licensing, litigation, or both. The course will survey the principal legal systems and international treaty arrangements for the protection of copyrighted works as well as the procedural questions that lie at the threshold of protection.  Elements used in grading:  class participation; two reflection papers.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW4018 LEC
+DTSTART;TZID=America/Los_Angeles:20170925T161500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T181500;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

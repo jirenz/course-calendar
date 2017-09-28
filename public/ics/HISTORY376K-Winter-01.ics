@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T162000
+LAST-MODIFIED:20170927T175829
+UID:explore_courses15f9a3ff-a3aa-411c-94b0-e15e531eaa89
+DTSTAMP:20170927T175829
+LOCATION:Bolivar House
+DESCRIPTION:This colloquium studies the history of conservation as a way to understand (territorial) state formation. It examines Latin America from a global perspective by comparing case studies from around the world. It examines how various political arrangements allowed for nature protection, the creation and functioning of institutions and bureaucracies in charge of protected areas, what these developments tell us about citizenship, the role of science in state formation, and the implications of different environments in the building of national territories.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY376K COL
+DTSTART;TZID=America/Los_Angeles:20180110T133000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

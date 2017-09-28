@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses053cdec9-63c3-4e8e-bff6-a6e6fa7ec278
+DTSTAMP:20170927T175846
+LOCATION:Encina West 417
+DESCRIPTION:This seminar will examine contemporary American and European public opinion and elections using a variety of databases, several of which have become newly available to scholars this decade (eg. YouGov/Polimetrix, ongoing FSI-Hoover Comparative Surveys). Department faculty will present research and some visitors will appear. Students will be expected to complete a significant research paper.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:POLISCI422F SEM
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

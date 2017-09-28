@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T162000
+LAST-MODIFIED:20170927T175834
+UID:explore_courses3040c949-f2c8-4efd-b961-e73689002234
+DTSTAMP:20170927T175834
+LOCATION:Encina West 108
+DESCRIPTION:For over two millennia, Jews and Judaism have been the object of sustained anxieties, fears, and fantasies, which have in turn underpinned repeated outbreaks of violence and persecution. This course will explore the development and impact of antisemitism from Late Antiquity to the Enlightenment, including the emergence of the Blood libel, the association between Jews and moneylending, and the place of Judaism in Christian and Islamic theology. No prior background in history or Jewish studies is necessary. Prerequisite: PWR 1.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:JEWISHST86Q ISS
+DTSTART;TZID=America/Los_Angeles:20170926T150000
+CREATED:20170927T175834
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T175000
+LAST-MODIFIED:20170927T175755
+UID:explore_coursesea6d6ba7-a295-46e0-bb4d-6c7ec6361d24
+DTSTAMP:20170927T175755
+LOCATION:McMurtry Building rm 350
+DESCRIPTION:This lecture course explores American art through the lens of immigration, exile, and diaspora.  We will examine a wide range of work by immigrant artists and craftsmen, paying special attention to issues of race and ethnicity, assimilation, displacement, and political turmoil.  Artists considered include Emmanuel Leutze, Thomas Cole, Joseph Stella, Chiura Obata, Willem de Kooning, Jimme Durham, Mona Hatoum, and Julie Mehretu, among many others. How do works of art reflect &iquest; and help shape &iquest; cultural and individual imaginaries of home and belonging?
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AMSTUD151 LEC
+DTSTART;TZID=America/Los_Angeles:20180402T163000
+CREATED:20170927T175755
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

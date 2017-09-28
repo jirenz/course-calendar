@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T165000
+LAST-MODIFIED:20170927T175800
+UID:explore_courses231035d4-c8e8-437f-a40d-ebd4a65a24d3
+DTSTAMP:20170927T175800
+LOCATION:McMurtry Building rm 360
+DESCRIPTION:Historiography and methodology. Through a series of case studies, this course introduces a range of influential critical perspectives in art history as a discipline and a practice. The goal is to stimulate thinking about what it means to explore the history of art today, to expose and examine our assumptions, expectations and predilections as we undertake to learn and write about works of art, their meanings and their status in the world.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTHIST296 SEM
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175800
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T165000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

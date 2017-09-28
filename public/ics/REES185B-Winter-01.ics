@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20170927T175933
+UID:explore_coursesdc54cf2c-ef2f-43a2-9f10-181b70e72c83
+DTSTAMP:20170927T175933
+LOCATION:Econ 140
+DESCRIPTION:(Same as HISTORY 85B.)  This course explores the full expanse of Jewish life today and in the recent past.  The inner workings of religious faith, the content of Jewish identify shorn of belief, the interplay between Jewish powerlessness and influence, the myth and reality of Jewish genius, the continued pertinence of antisemitism, the rhythms of Jewish economic life &iquest; all these will be examined in weekly lectures, classroom discussion, and with the use of a widely diverse range of readings, films, and other material. Explored in depth will the ideas and practices of Zionism, the content of contemporary secularism and religious Orthodoxy, the impact Holocaust, the continued crisis facing Israel and the Palestinians.  Who is to be considered Jewish, in any event, especially since so many of the best known (Spinoza, Freud, Marx) have had little if anything to do with Jewish life with their relationships to it indifferent, even hostile?
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:REES185B LEC
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

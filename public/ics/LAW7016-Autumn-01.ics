@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170925T154500
+LAST-MODIFIED:20170927T175752
+UID:explore_courses56df6117-2438-4175-a937-5b9dac781719
+DTSTAMP:20170927T175752
+LOCATION:William H. Neukom building 102
+DESCRIPTION:(Formerly Law 671)  This course will cover the most important writing in critical race theory as it relates to law and jurisprudence. We will review the relationship between skeptical jurisprudence as developed in legal realism and Critical Legal Studies to the struggle for racial justice and the ambivalent relationship of civil rights lawyers to mainstream legal strategies for social change.  We will review the critique of rights, the use of narrative in legal scholarship and the emergence of the critique of &quot;intersectionality&quot; as a challenge to conventional racial politics.  Special Instructions: Students have the option to write an independent research paper for Research credit. After the term begins, students accepted into the course can transfer from section (01) into section (02), which meets the R requirement, with consent of the instructor. Elements used in grading: Class participation and final paper.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW7016 LEC
+DTSTART;TZID=America/Los_Angeles:20170925T141500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T154500;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

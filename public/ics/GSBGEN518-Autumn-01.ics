@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171127T175000
+LAST-MODIFIED:20170927T175743
+UID:explore_courses94cce5e3-d207-4b97-ac3b-a79ada80de84
+DTSTAMP:20170927T175743
+LOCATION:
+DESCRIPTION:This course is a compressed version of GSBGEN 356. We will examine the world of wine with a fresh and contemporary lens. It will explore the market dynamics of this fascinating global industry. The goal of the course is to provide insight into the branding, marketing, and distribution dynamics that shape what consumers can buy and consume with a focus on the strategies of some of the world's leading wine brands. Attention will also be paid to the legal, regulatory, and market dynamics that define the U.S. wine industry as well as to issues of contested authenticity in the world of wine.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GSBGEN518 CAS
+DTSTART;TZID=America/Los_Angeles:20171127T150000
+CREATED:20170927T175743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171113T175000
+LAST-MODIFIED:20170927T175743
+UID:explore_coursesb9d8b778-6e5c-4598-bf6c-9312f1a5df9c
+DTSTAMP:20170927T175743
+LOCATION:GSB Patterson 107
+DESCRIPTION:This course is a compressed version of GSBGEN 356. We will examine the world of wine with a fresh and contemporary lens. It will explore the market dynamics of this fascinating global industry. The goal of the course is to provide insight into the branding, marketing, and distribution dynamics that shape what consumers can buy and consume with a focus on the strategies of some of the world's leading wine brands. Attention will also be paid to the legal, regulatory, and market dynamics that define the U.S. wine industry as well as to issues of contested authenticity in the world of wine.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GSBGEN518 CAS
+DTSTART;TZID=America/Los_Angeles:20171113T150000
+CREATED:20170927T175743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171117T175000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

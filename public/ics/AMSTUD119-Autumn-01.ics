@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T162000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses766c3d21-0585-4dad-9abd-f1233e642f45
+DTSTAMP:20170927T175933
+LOCATION:McMurtry Building 102, Oshman
+DESCRIPTION:The human simulacrum has a long history in mythology, fairy tales and children&iquest;s stories, as well as in the genres of horror and science fiction. This course explores synthetic human narratives in the cinema. Stories of artificially created life, living statues, automata, body snatchers, robots, cyborgs and electronic simulations all direct our attention to our assumed definitions of the human.The fantasies and anxieties that undergird these stories engage with such issues as labor, gender, sexuality, death, emotion, rationality, embodiment, consumerism, reproductive technologies, and power relations. Attention will also be given the relation of cinema&iquest;s human simulacra to changing cinematic technologies. Films will include Metropolis, Pinocchio, Robocop, Bride of Frankenstein, The Golem, A.I., My Fair Lady, Her, Blade Runner, and the HBO iteration of Westworld. Readings will include essays, as well as some fiction and possibly comics.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AMSTUD119 LEC
+DTSTART;TZID=America/Los_Angeles:20170926T150000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170927T222000
+LAST-MODIFIED:20170927T175933
+UID:explore_coursesa2861be1-a9ab-43ae-97ee-2e7280e96423
+DTSTAMP:20170927T175933
+LOCATION:Cemex Auditorium
+DESCRIPTION:The human simulacrum has a long history in mythology, fairy tales and children&iquest;s stories, as well as in the genres of horror and science fiction. This course explores synthetic human narratives in the cinema. Stories of artificially created life, living statues, automata, body snatchers, robots, cyborgs and electronic simulations all direct our attention to our assumed definitions of the human.The fantasies and anxieties that undergird these stories engage with such issues as labor, gender, sexuality, death, emotion, rationality, embodiment, consumerism, reproductive technologies, and power relations. Attention will also be given the relation of cinema&iquest;s human simulacra to changing cinematic technologies. Films will include Metropolis, Pinocchio, Robocop, Bride of Frankenstein, The Golem, A.I., My Fair Lady, Her, Blade Runner, and the HBO iteration of Westworld. Readings will include essays, as well as some fiction and possibly comics.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AMSTUD119 LEC
+DTSTART;TZID=America/Los_Angeles:20170927T193000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T222000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

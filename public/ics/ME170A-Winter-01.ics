@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T180006
+UID:explore_coursesb0b07bc5-fbd1-4e36-9bc8-3eb52effd9a7
+DTSTAMP:20170927T180006
+LOCATION:Lathrop 190
+DESCRIPTION:First course of two-quarter capstone sequence. Working in project teams, design and develop an engineering system addressing a real-world problem. Projects are based on themes addressing most pressing needs of human society; for 2017-2018 the theme is clean energy. Learn and utilize industry development process; first quarter focuses on establishing requirements and narrowing to top concept. Second quarter emphasizes engineering analysis, design risk assessment, build, test and iteration. Learn and apply professional communication skills in the areas of speaking, presenting, writing, and listening. This is the first quarter of a 2-quarter course. Students must also enroll in ME 170b; completion of 170b required to earn grade in 170a. Enrollment limited, by application only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ME170A LAB
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T180006
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

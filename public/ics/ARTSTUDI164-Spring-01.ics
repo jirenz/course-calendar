@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T152000
+LAST-MODIFIED:20170927T175801
+UID:explore_coursescc8f454a-3704-4e6b-9966-1ea949a01443
+DTSTAMP:20170927T175801
+LOCATION:McMurtry Building rm M120
+DESCRIPTION:How does our design of public spaces and elements of our built environment influence and control people&iquest;s movements and expressions in these spaces? Can re-designing a trashcan or a stairway change how people throw away their trash or use the stairs? What are the principles of democracy, surveillance, or personal expression at stake in our current shared spaces? How have artists and designers used their skills to question or re-direct people&iquest;s behavior in these public spheres, or in other spheres of shared cultural heritage? Strategies include re-designing components of the built environment, but also other strategies of intervention, tactical media and reality hacking.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSTUDI164 PRA
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20170927T175801
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

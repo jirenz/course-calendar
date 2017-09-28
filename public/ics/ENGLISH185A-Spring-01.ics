@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T172000
+LAST-MODIFIED:20170927T175821
+UID:explore_courses10e0eec2-20cc-42f3-9db9-b7b812da023f
+DTSTAMP:20170927T175821
+LOCATION:Lathrop 292
+DESCRIPTION:Virginia Woolf once wrote, The merest schoolgirl when she falls in love has Shakespeare or Keats to speak her mind for her, but let a sufferer try to describe a pain in his head to a doctor and language at once runs dry. What is languages and literatures relationship to the experience of illness, physical suffering, and care? Topics include medical and literary interpretation, the uses of the five senses in description, and imagining others inner states. Centers on classic texts ranging from Tolstoys <i>The Death of Ivan Ilyich</i> to Chekhovs <i>A Doctors Visit,</i>poems by Dickinson to Camus&iquest; <i>The Plague</i>, read alongside paintings (Rembrandts <i>The Anatomy Lesson of Dr. Nicolaes Tulp</i>), film (Ingmar Bergmans <i>Cries and Whispers</i>), medical descriptions of disease, diagnostic tools, and theory (e.g., Sontag&iquest;s <i>Illness as Metaphor</i>).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ENGLISH185A SEM
+DTSTART;TZID=America/Los_Angeles:20180402T153000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T131500
+LAST-MODIFIED:20170927T175902
+UID:explore_courses09e0b84d-ce71-4d7a-a0bf-67144ef482f3
+DTSTAMP:20170927T175902
+LOCATION:CCSR 4205
+DESCRIPTION:Being a medical student is busy! Being a physician is busy! How better to squeeze in healthy exercise habits than over the lunch break? This class is appropriate for all levels of fitness: it will challenge even the most fit physiques but can be modified for beginners. The exercises focus on the core muscles (abs, back, shoulders, hips/glutes) and use resistance training &iquest; you will work hard but won&iquest;t be so sweaty that you can&iquest;t go back to your afternoon classes. No need to bring anything, just show up and be ready to have fun to motivating music in this group fitness session.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FAMMED214 ACT
+DTSTART;TZID=America/Los_Angeles:20180109T124500
+CREATED:20170927T175902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T131500;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175824
+UID:explore_courses85464b61-c7de-430b-9d83-55d9ff9073c1
+DTSTAMP:20170927T175824
+LOCATION:School of Education 313
+DESCRIPTION:Women as objects and subjects of the voyeuristic gaze inherent to cinema. The myth of the feminine idol in French films in historical and cultural context since the New Wave until now. The mythology of stars as the imaginary vehicle that helped France to change from traditional society to modern, culturally mixed nation. The evolution of female characters, roles, actresses, directors in the film industry. Filmmakers include Vadim, Truffaut, Varda, Godard, Ozon, Colline Serreau, Tonie Marshall, Ma&iuml;wen. Discussion in English; films in French with English subtitles. 3 units, 4 units or 5 units.nNOTE: FILMSTUD students must take this course for 3 units only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FRENCH192 SEM
+DTSTART;TZID=America/Los_Angeles:20170926T120000
+CREATED:20170927T175824
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170925T205000
+LAST-MODIFIED:20170927T175824
+UID:explore_courses886e042d-77a2-4d46-8ab2-473191a4691c
+DTSTAMP:20170927T175824
+LOCATION:200-107
+DESCRIPTION:Women as objects and subjects of the voyeuristic gaze inherent to cinema. The myth of the feminine idol in French films in historical and cultural context since the New Wave until now. The mythology of stars as the imaginary vehicle that helped France to change from traditional society to modern, culturally mixed nation. The evolution of female characters, roles, actresses, directors in the film industry. Filmmakers include Vadim, Truffaut, Varda, Godard, Ozon, Colline Serreau, Tonie Marshall, Ma&iuml;wen. Discussion in English; films in French with English subtitles. 3 units, 4 units or 5 units.nNOTE: FILMSTUD students must take this course for 3 units only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FRENCH192 SEM
+DTSTART;TZID=America/Los_Angeles:20170925T180000
+CREATED:20170927T175824
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T205000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

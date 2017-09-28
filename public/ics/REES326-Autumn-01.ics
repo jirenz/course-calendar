@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170927T142000
+LAST-MODIFIED:20170927T175849
+UID:explore_courses031f5f45-e7f5-4389-8604-35aabcfcaf09
+DTSTAMP:20170927T175849
+LOCATION:Encina West 106
+DESCRIPTION:The centennial of the Russian Revolution of 1917 serves as the occasion for this course, which surveys the political, social, and cultural upheavals that transformed Russia under the last Tsars and the first Soviet commissars. The course will be offered in conjunction with the exhibition &quot;The Crown under the Hammer: Russia, Romanovs &amp; Revolution,&quot; jointly sponsored by the Hoover Institution and the Cantor Arts Center at Stanford and opening at both venues on October 18, 2017. Several class sessions will be held at the Hoover Institution, where students will be invited to examine archival documents, rare books and periodicals, and the visual arts, including propaganda posters, photographs, motion picture film, and paintings in the collections of the Hoover Institution Library &amp; Archives. One class session will be held at the Cantor Arts Center. The course is open to undergraduate and graduate students.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:REES326 SEM
+DTSTART;TZID=America/Los_Angeles:20170927T113000
+CREATED:20170927T175849
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T142000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

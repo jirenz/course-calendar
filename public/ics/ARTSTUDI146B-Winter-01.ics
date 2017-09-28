@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T122000
+LAST-MODIFIED:20170927T175801
+UID:explore_courses2608c866-8b99-4977-86c9-c1ec288c10ab
+DTSTAMP:20170927T175801
+LOCATION:McMurtry Building rm 220
+DESCRIPTION:This course explores reclamation, the rich process of claiming something back or reasserting a right. Through the layering of different materials to create compositions of text and image, this course will explore what the art of reclamation means at an individual, group, and community level. Can mixed media art spark intersectional dialogue? How does combining disparate materials communicate radical messages to others? Through group discussions, readings, writing sessions, and critiques we will explore the topics of the body, race, gender, and land as they relate to art practice. Students will be encouraged to experiment with two and three-dimensional approaches to four main projects. Demonstrations will consist of collage, stenciling, and image making via paint, ink, and charcoal.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSTUDI146B PRA
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20170927T175801
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

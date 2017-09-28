@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20170927T175902
+UID:explore_courses5da158c0-0a95-4361-91a8-fb576ce0262f
+DTSTAMP:20170927T175902
+LOCATION:Shriram Ctr BioChemE 054
+DESCRIPTION:The course will serve as a literature-based introductory guide for synthesis of ideas in developmental biology and cancer, with an emphasis on evolutionary analysis and quantitative thinking. The goal for this course is for students to understand how we know what we know about fundamental questions in the field of developmental biology and cancer, and how we ask good questions for the future. We will discuss how studying model organisms has provided the critical breakthroughs that have helped us understand developmental and disease mechanisms in higher organisms. The students are expected to be able to read the primary literature and think critically about experiments to understand what is actually known and what questions still remain unanswered. Students will develop skills in the educated guesswork to apply order-of-magnitude methodology  to questions in development and cancer.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:DBIO219 LEC
+DTSTART;TZID=America/Los_Angeles:20180108T150000
+CREATED:20170927T175902
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

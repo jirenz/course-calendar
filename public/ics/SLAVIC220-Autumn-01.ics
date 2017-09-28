@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170927T162000
+LAST-MODIFIED:20170927T175849
+UID:explore_coursesf5414925-5e73-42da-83a5-f4f747374510
+DTSTAMP:20170927T175849
+LOCATION:Lathrop 294
+DESCRIPTION:At a time being termed the Second Cold War, it is of key importance to examine Russian cultural and political phenomena and their international repercussions. In particular, this course will explore the role of technology in constructing the social and ideological fabric, as well as the material reality, of Soviet and Russian society. From the early Soviet period, when technological progress was linked to humanistic utopia, through dystopian critiques of a totalitarian machine of conformity and constraint, we proceed along the assembly line of communist production, avant-garde and constructivist artistic utopia, socialist realism, the space race, and information technology, using examples from Russian literature, film, art, visual arts, performance, and current events. With the media's concern for fake news and Russian hacking today, it is our course's goal to &quot;hack Russia&quot;: to understand the politics and technology shaping Russia, and the creative responses that have made its society a site of both dreamlike promise and nightmarish threat, through its history and today. n NOTE: This course must be taken for a Letter Grade to be eligible for WAYS credit. &quot;Counts towards Europe and Russia specialization (International Relations)&quot;
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SLAVIC220 SEM
+DTSTART;TZID=America/Los_Angeles:20170927T150000
+CREATED:20170927T175849
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=WE,FR
+END:VEVENT
+END:VCALENDAR

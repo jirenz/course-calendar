@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T115000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses26ae85c3-5342-4e72-8781-eaf07111b82b
+DTSTAMP:20170927T175938
+LOCATION:Encina Hall C464
+DESCRIPTION:&quot;Interpersonal Learning &amp; Leadership - Row Staff Class&quot; explores research on leadership and the complex dynamics of our changing society. Participants will engage in course work intended to build skills relevant to being on a Row Staff team. Students will practice self reflection, risk taking, facilitating, decision-making and group leadership. Students will develop strategies to build community and facilitate challenging conversations while creating a safe environment for their peers to do the same.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC192B DIS
+DTSTART;TZID=America/Los_Angeles:20180404T103000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

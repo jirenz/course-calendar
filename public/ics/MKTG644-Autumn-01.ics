@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T112000
+LAST-MODIFIED:20170927T175743
+UID:explore_coursesee55f2c9-663a-4a8e-90e6-20408703a816
+DTSTAMP:20170927T175743
+LOCATION:GSB Faculty East 233
+DESCRIPTION:The goal of this seminar is to familiarize students with the quantitative marketing literature and develop the process of generating research ideas and topics. Sessions will involve a mix of: nni) a discussion of papers in a particular area in quantitative marketing; and/or nii) a discussion of students' research ideas with respect to topics.nnThe format will mix student presentations of papers with lectures by the instructor(s). When discussing papers in the literature, the focus will be on the topic and research question and not the methodological approach. When discussing research ideas, students should be able to articulate why their question is interesting, where it fits in the literature and how they would address their question.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MKTG644 SEM
+DTSTART;TZID=America/Los_Angeles:20170926T083000
+CREATED:20170927T175743
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

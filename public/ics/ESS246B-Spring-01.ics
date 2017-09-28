@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T122000
+LAST-MODIFIED:20170927T175943
+UID:explore_coursesc17517db-78dd-4cff-b878-86fabb83a6b3
+DTSTAMP:20170927T175943
+LOCATION:Y2E2 111
+DESCRIPTION:Introduction to the physics governing the circulation of the atmosphere and ocean and their control on climate with emphasis on the large-scale ocean circulation. This course will give an overview of the structure and dynamics of the major ocean current systems that contribute to the meridional overturning circulation, the transport of heat, salt, and biogeochemical tracers, and the regulation of climate. Topics include the tropical ocean circulation, the wind-driven gyres and western boundary currents, the thermohaline circulation, the Antarctic Circumpolar Current, water mass formation, atmosphere-ocean coupling, and climate variability. Prerequisites: ESS 146A or ESS 246A, or CEE 162A, or CEE 162D or CEE 262D, or consent of instructor.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ESS246B LEC
+DTSTART;TZID=America/Los_Angeles:20180402T113000
+CREATED:20170927T175943
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T110500
+LAST-MODIFIED:20170927T175752
+UID:explore_courses71ec1382-33f1-4158-a592-8f7f5e4746b6
+DTSTAMP:20170927T175752
+LOCATION:
+DESCRIPTION:(Formerly Law 238) Administrative law is the field of law most concerned with what government agencies do and how they do it.  By interpreting and implementing statutes, adjudicating disputes, and promulgating regulations and policies, agencies affect an enormous range of issues---from climate change to communications policy, from innovation to immigration, from financial institutions to federalism, and from public health to public education.  Specific topics encompassed by administrative law include the relationship between agencies and the Legislature; the constitutional rules and political pressures that shape agencies; the major statutes affecting how agencies work, particularly the Administrative Procedure Act; how senior officials in the executive branch seek to control agency actions; how agencies choose among policymaking methods and make judgments about the costs and benefits of regulatory policies as they implement statutes; and how courts review agency action. The course will address these topics through cases and examples drawn from separation of powers doctrine, the constitutional law of due process, and the implementation of statutes.  A major theme cutting across these topics is how the law seeks---yet often fails to resolve---tensions between goals associated with political accountability, scientific and technical rationality, and adjudicatory fairness.  Elements used in grading: class participation, attendance, assignments, final exam (3-hour, open book exam).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW7001 LEC
+DTSTART;TZID=America/Los_Angeles:20180402T094000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180601T110500;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180406T111500
+LAST-MODIFIED:20170927T175752
+UID:explore_coursescd1f3f85-4315-4295-95d0-5a6d338e1570
+DTSTAMP:20170927T175752
+LOCATION:
+DESCRIPTION:(Formerly Law 238) Administrative law is the field of law most concerned with what government agencies do and how they do it.  By interpreting and implementing statutes, adjudicating disputes, and promulgating regulations and policies, agencies affect an enormous range of issues---from climate change to communications policy, from innovation to immigration, from financial institutions to federalism, and from public health to public education.  Specific topics encompassed by administrative law include the relationship between agencies and the Legislature; the constitutional rules and political pressures that shape agencies; the major statutes affecting how agencies work, particularly the Administrative Procedure Act; how senior officials in the executive branch seek to control agency actions; how agencies choose among policymaking methods and make judgments about the costs and benefits of regulatory policies as they implement statutes; and how courts review agency action. The course will address these topics through cases and examples drawn from separation of powers doctrine, the constitutional law of due process, and the implementation of statutes.  A major theme cutting across these topics is how the law seeks---yet often fails to resolve---tensions between goals associated with political accountability, scientific and technical rationality, and adjudicatory fairness.  Elements used in grading: class participation, attendance, assignments, final exam (3-hour, open book exam).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW7001 LEC
+DTSTART;TZID=America/Los_Angeles:20180406T094000
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180601T111500;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

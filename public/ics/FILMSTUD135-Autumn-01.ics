@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170928T145000
+LAST-MODIFIED:20170927T175823
+UID:explore_coursesa88ac115-566f-4900-8c88-ffeaa95c7b9a
+DTSTAMP:20170927T175823
+LOCATION:McMurtry Building rm 350
+DESCRIPTION:This is an introductory-level course about the cinema as a global language. We will undertake a comparative study of select historical and contemporary aspects of international cinema, and explore a range of themes pertaining to the social, cultural, and political diversity of the world. A cross-regional thematic emphasis and inter-textual methods of narrative and aesthetic analysis, will ground our discussion of films from Italy, Japan, United States, India, China, France, Brazil, Nigeria, Russia, Iran, Mexico, and a number of other countries. Particular emphasis will be placed on the multi-cultural character and the regional specificities of the cinema as a &quot;universal language&quot; and an inclusive &quot;relational network.&quot;nnThere are no prerequisites for this class. It is open to all students; non-majors welcome.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD135 LEC
+DTSTART;TZID=America/Los_Angeles:20170928T120000
+CREATED:20170927T175823
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170927T212000
+LAST-MODIFIED:20170927T175823
+UID:explore_courses1c872013-a850-4a1f-9419-2ac86e2f17f3
+DTSTAMP:20170927T175823
+LOCATION:McMurtry Building rm 350
+DESCRIPTION:This is an introductory-level course about the cinema as a global language. We will undertake a comparative study of select historical and contemporary aspects of international cinema, and explore a range of themes pertaining to the social, cultural, and political diversity of the world. A cross-regional thematic emphasis and inter-textual methods of narrative and aesthetic analysis, will ground our discussion of films from Italy, Japan, United States, India, China, France, Brazil, Nigeria, Russia, Iran, Mexico, and a number of other countries. Particular emphasis will be placed on the multi-cultural character and the regional specificities of the cinema as a &quot;universal language&quot; and an inclusive &quot;relational network.&quot;nnThere are no prerequisites for this class. It is open to all students; non-majors welcome.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD135 LEC
+DTSTART;TZID=America/Los_Angeles:20170927T183000
+CREATED:20170927T175823
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T212000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

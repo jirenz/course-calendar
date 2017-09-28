@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T175904
+UID:explore_courses1aa29045-2410-4d1c-a54a-c740c821cd5e
+DTSTAMP:20170927T175904
+LOCATION:Herrin T185
+DESCRIPTION:We will cover: the components of public health systems in the US; principles of outbreak investigation and disease surveillance;  different types of study design for field investigation; visualization and interpretation of public health data, including identification and prevention of biases; and implementation of disease control by public health authorities. Students will meet with leaders of health departments of the state and the county and will be responsible for devising and conducting their own investigation of a health problem. HUMBIO students must enroll in HUMBIO 57. HRP students must enroll in HRP 247.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HRP247 SEM
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175904
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

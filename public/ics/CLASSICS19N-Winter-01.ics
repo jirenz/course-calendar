@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20170927T175808
+UID:explore_courses642cfdcd-6815-4af6-9661-b507972a0a9a
+DTSTAMP:20170927T175808
+LOCATION:Green Library 351
+DESCRIPTION:This course is an introduction to Roman rhetoric, Cicero's Rome, and the active practice of speaking well. Participants read a short rhetorical treatise by Cicero, analyze one of his speeches as well as more recent ones by, e.g., Kennedy, Martin Luther King Jr., and Obama, and watch their oratorical performances. During the remainder of the term they practice rhetoric, prepare and deliver in class two (short) speeches, and write an essay.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CLASSICS19N ISF
+DTSTART;TZID=America/Los_Angeles:20180108T150000
+CREATED:20170927T175808
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

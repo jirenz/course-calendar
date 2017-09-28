@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171206T141500
+LAST-MODIFIED:20170927T175926
+UID:explore_courses342ce843-aea9-44cd-a915-75490ebba40d
+DTSTAMP:20170927T175926
+LOCATION:Li Ka Shing Center, room 120
+DESCRIPTION:The lessons that help New York Times journalists write more powerfully and persuasively can help doctors too. In five sessions we will study techniques for writing better. And we will practice. Students will receive constructive feedback in class (for those who want to volunteer their work for the group to read) and afterward (for those who prefer private critiques).  Each session will address a different area of writing: 1) the basics, including emails and memos, 2) writing effectively about yourself, 3) giving feedback, 4) patient progress notes, 5) opinion pieces for a large audience.The instructor, Glenn Kramon, is an editor who has helped New York Times reporters win 10 Pulitzer Prizes. He has taught a similar course at the Stanford Graduate School of Business for three years.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOMGEN225 WKS
+DTSTART;TZID=America/Los_Angeles:20171206T121500
+CREATED:20170927T175926
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171206T141500;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171101T141500
+LAST-MODIFIED:20170927T175926
+UID:explore_courses0ed32bb5-5827-447a-af2f-528fb1874885
+DTSTAMP:20170927T175926
+LOCATION:
+DESCRIPTION:The lessons that help New York Times journalists write more powerfully and persuasively can help doctors too. In five sessions we will study techniques for writing better. And we will practice. Students will receive constructive feedback in class (for those who want to volunteer their work for the group to read) and afterward (for those who prefer private critiques).  Each session will address a different area of writing: 1) the basics, including emails and memos, 2) writing effectively about yourself, 3) giving feedback, 4) patient progress notes, 5) opinion pieces for a large audience.The instructor, Glenn Kramon, is an editor who has helped New York Times reporters win 10 Pulitzer Prizes. He has taught a similar course at the Stanford Graduate School of Business for three years.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOMGEN225 WKS
+DTSTART;TZID=America/Los_Angeles:20171101T121500
+CREATED:20170927T175926
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171101T141500;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171018T141500
+LAST-MODIFIED:20170927T175926
+UID:explore_courses1bbe3268-ac43-4638-a79c-069c3c7fc85f
+DTSTAMP:20170927T175926
+LOCATION:
+DESCRIPTION:The lessons that help New York Times journalists write more powerfully and persuasively can help doctors too. In five sessions we will study techniques for writing better. And we will practice. Students will receive constructive feedback in class (for those who want to volunteer their work for the group to read) and afterward (for those who prefer private critiques).  Each session will address a different area of writing: 1) the basics, including emails and memos, 2) writing effectively about yourself, 3) giving feedback, 4) patient progress notes, 5) opinion pieces for a large audience.The instructor, Glenn Kramon, is an editor who has helped New York Times reporters win 10 Pulitzer Prizes. He has taught a similar course at the Stanford Graduate School of Business for three years.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOMGEN225 WKS
+DTSTART;TZID=America/Los_Angeles:20171018T121500
+CREATED:20170927T175926
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171018T141500;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171115T141500
+LAST-MODIFIED:20170927T175926
+UID:explore_courses883a2a35-187b-4108-8fca-b33c30de3e10
+DTSTAMP:20170927T175926
+LOCATION:
+DESCRIPTION:The lessons that help New York Times journalists write more powerfully and persuasively can help doctors too. In five sessions we will study techniques for writing better. And we will practice. Students will receive constructive feedback in class (for those who want to volunteer their work for the group to read) and afterward (for those who prefer private critiques).  Each session will address a different area of writing: 1) the basics, including emails and memos, 2) writing effectively about yourself, 3) giving feedback, 4) patient progress notes, 5) opinion pieces for a large audience.The instructor, Glenn Kramon, is an editor who has helped New York Times reporters win 10 Pulitzer Prizes. He has taught a similar course at the Stanford Graduate School of Business for three years.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOMGEN225 WKS
+DTSTART;TZID=America/Los_Angeles:20171115T121500
+CREATED:20170927T175926
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171115T141500;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171011T141500
+LAST-MODIFIED:20170927T175926
+UID:explore_courses1e50dcc5-ccec-4028-882f-2888c48da748
+DTSTAMP:20170927T175926
+LOCATION:Alway Building, Room M218
+DESCRIPTION:The lessons that help New York Times journalists write more powerfully and persuasively can help doctors too. In five sessions we will study techniques for writing better. And we will practice. Students will receive constructive feedback in class (for those who want to volunteer their work for the group to read) and afterward (for those who prefer private critiques).  Each session will address a different area of writing: 1) the basics, including emails and memos, 2) writing effectively about yourself, 3) giving feedback, 4) patient progress notes, 5) opinion pieces for a large audience.The instructor, Glenn Kramon, is an editor who has helped New York Times reporters win 10 Pulitzer Prizes. He has taught a similar course at the Stanford Graduate School of Business for three years.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOMGEN225 WKS
+DTSTART;TZID=America/Los_Angeles:20171011T121500
+CREATED:20170927T175926
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171011T141500;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

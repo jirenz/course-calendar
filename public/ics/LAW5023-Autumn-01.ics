@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170925T181500
+LAST-MODIFIED:20170927T175752
+UID:explore_courses49f0c84a-ecca-460b-a081-ef34d2c61e49
+DTSTAMP:20170927T175752
+LOCATION:William H. Neukom building 104
+DESCRIPTION:(Formerly Law 679)  We will seek to determine a useful meaning of the notion of the rule of law to identify some measurement of adherence and to explore the importance of the rule of law in terms of economic, socio-political and human development.  We will focus on accountable government; just laws; open processes for the enactment, administration and enforcement of laws and effective dispute resolution.  Readings and discussion will include the works of ancient philosophers, political theorists and jurists from the 17th to the 20th century, modern political economists and contemporary scholars.  This seminar will feature several experts in the field as guest lectures and requires three reaction papers from all participants.  Elements Used in Grading: Class participation, written assignments and series of short reaction papers.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW5023 SEM
+DTSTART;TZID=America/Los_Angeles:20170925T161500
+CREATED:20170927T175752
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T181500;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

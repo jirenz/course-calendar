@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T112000
+LAST-MODIFIED:20170927T175819
+UID:explore_coursesc65b0545-fd51-40e5-87ff-b39dcb8866c9
+DTSTAMP:20170927T175819
+LOCATION:Econ 106
+DESCRIPTION:This course will cover the economics of labor markets.  Topics include: determinants of employment and unemployment, with a special focus on understanding business cycle fluctuations.  Job creation and job destruction.  The effects of technological change on the labor market.  Determinants of labor supply and the effects of universal basic income.  Prerequisites: ECON 51 (Public Policy majors may take PUBLPOL 51 as a substitute for ECON 51), Econ 52, Econ 102B.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON147 LEC
+DTSTART;TZID=America/Los_Angeles:20180402T093000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

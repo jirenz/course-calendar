@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T175823
+UID:explore_courses4e957ece-8c9b-4abd-980c-5a4008d99d38
+DTSTAMP:20170927T175823
+LOCATION:McMurtry Building rm 012
+DESCRIPTION:In this course, we will explore what it means to write with video, and we will learn to make effective and engaging video essays about historical and contemporary audiovisual media. Specifically, we will examine formal, aesthetic, and rhetorical strategies for communicating in the medium of video, and we will conduct a series of hands-on exercises utilizing digital video editing software to construct arguments, analyses, and interpretations of film and other media (including television, video games, and online media). Compared with traditional, text-based engagements, the video essay offers a remarkably direct mode of communicating critical and analytical ideas. In this medium, authors no longer struggle to describe audiovisual contents in words that can never do justice to the rich array of details that are immediately apparent to spectators  eyes and ears; instead, video essayists can simply show their viewers what they want them to see. This does not mean, however, that it is any easier to write effectively with video than it is to compose an essay with pen and paper. Similar types of expository and argumentative planning are involved in both forms, while the new technology introduces its own characteristic challenges and choices, including decisions about the spatial and temporal organization and transformation of audiovisual materials, the addition of onscreen text, voiceover commentary, and visual effects. By taking a hands-on approach, we will develop our skills with editing software such as Adobe Premiere Pro and Apple's Final Cut Pro while also cultivating our awareness of the formal and narrative techniques employed in films and other moving-image media. Through weekly assignments and group critique sessions, we will learn to express ourselves more effectively and creatively in audiovisual media. As a culmination of our efforts, we will assemble a group exhibition of our best video essays for public display on campus.nNo previous experience is required, but a willingness to learn new technologies (in particular, video editing software) is important.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD50Q ISS
+DTSTART;TZID=America/Los_Angeles:20170926T120000
+CREATED:20170927T175823
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171127T175000
+LAST-MODIFIED:20170927T175744
+UID:explore_courses1c25f3e2-8f43-4e7a-a17d-fc3e70769821
+DTSTAMP:20170927T175744
+LOCATION:
+DESCRIPTION:This course is designed to improve students' skills in all phases of a negotiation: understanding prescriptive and descriptive negotiation theory as it applies to dyadic and multiparty negotiations, to buyer-seller transactions and the resolution of disputes, to the development of negotiation strategy and to the management of integrative and distributive aspects of the negotiation process. The course is based on a series of simulated negotiations in a variety of contexts including one-on-one, multi-party, and team negotiations. When playing a role in a simulated conflict, you will be free to try out tactics that might feel uncomfortable in a real one. You will get feedback from your classmates about how you come across. You will have an opportunity to reflect on your experience in your negotiation paper. In sum, you can use this course to expand your repertoire of conflict management and negotiation skills, to hone your skills, and to become more adept in choosing when to apply each skill. nnThis course represents a shorter, more intense version of OB 381-Conflict Management and Negotiations. Students should not take both courses, as there is considerable overlap in course content. Attendance and participation in the negotiation exercises is mandatory.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OB581 WKS
+DTSTART;TZID=America/Los_Angeles:20171127T150000
+CREATED:20170927T175744
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171113T175000
+LAST-MODIFIED:20170927T175744
+UID:explore_courses263e8c7a-12bf-4d76-b4af-19b02e4c681c
+DTSTAMP:20170927T175744
+LOCATION:GSB Patterson 102
+DESCRIPTION:This course is designed to improve students' skills in all phases of a negotiation: understanding prescriptive and descriptive negotiation theory as it applies to dyadic and multiparty negotiations, to buyer-seller transactions and the resolution of disputes, to the development of negotiation strategy and to the management of integrative and distributive aspects of the negotiation process. The course is based on a series of simulated negotiations in a variety of contexts including one-on-one, multi-party, and team negotiations. When playing a role in a simulated conflict, you will be free to try out tactics that might feel uncomfortable in a real one. You will get feedback from your classmates about how you come across. You will have an opportunity to reflect on your experience in your negotiation paper. In sum, you can use this course to expand your repertoire of conflict management and negotiation skills, to hone your skills, and to become more adept in choosing when to apply each skill. nnThis course represents a shorter, more intense version of OB 381-Conflict Management and Negotiations. Students should not take both courses, as there is considerable overlap in course content. Attendance and participation in the negotiation exercises is mandatory.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OB581 WKS
+DTSTART;TZID=America/Los_Angeles:20171113T150000
+CREATED:20170927T175744
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171117T175000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

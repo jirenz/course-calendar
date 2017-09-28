@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T162000
+LAST-MODIFIED:20170927T175934
+UID:explore_courses89810cb6-f392-4548-9aed-c9b26fa7b104
+DTSTAMP:20170927T175934
+LOCATION:Lathrop 299
+DESCRIPTION:Challenges the traditional defintion of meditation, incorporating the latest technoligies for psychological, emotional, and spiritual well-being. Learn how these technologies can be integrated into an existing practices, or help to support novice meditators. Explore the wide range of tools, such as brain, heart, and breath sensing/feedback, and find out what works best for you. Push past traditional boundaries of meditation and experiment with new ways that wearables, apps, and other tech can support awareness both in formal sitting practice and day-to-day living in a hyper-connected world.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:WELLNESS163 SEM
+DTSTART;TZID=America/Los_Angeles:20170926T150000
+CREATED:20170927T175934
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T142000
+LAST-MODIFIED:20170927T175823
+UID:explore_courses76fcdb10-df9b-41b4-aadf-c319b29d622e
+DTSTAMP:20170927T175823
+LOCATION:McMurtry Building rm 360
+DESCRIPTION:Graduate seminar in film aesthetics. Theoretical and practical approaches to editing/montage. Stylistic, semiotic, epistemological, and ideological functions of montage considered in film-historical contexts including: development of the continuity system of editing; flourishing of the Soviet montage school; and achievements of the post-war new waves. Filmmakers include D. W. Griffith, Sergei Eisenstein, Jean-Luc Godard, and Dusan Makavejev.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD406 SEM
+DTSTART;TZID=America/Los_Angeles:20180110T113000
+CREATED:20170927T175823
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T142000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T212000
+LAST-MODIFIED:20170927T175823
+UID:explore_coursesf4a4ae5a-b95f-4073-8359-4aeb47d98dc5
+DTSTAMP:20170927T175823
+LOCATION:McMurtry Building rm 115
+DESCRIPTION:Graduate seminar in film aesthetics. Theoretical and practical approaches to editing/montage. Stylistic, semiotic, epistemological, and ideological functions of montage considered in film-historical contexts including: development of the continuity system of editing; flourishing of the Soviet montage school; and achievements of the post-war new waves. Filmmakers include D. W. Griffith, Sergei Eisenstein, Jean-Luc Godard, and Dusan Makavejev.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD406 SEM
+DTSTART;TZID=America/Los_Angeles:20180108T183000
+CREATED:20170927T175823
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T212000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

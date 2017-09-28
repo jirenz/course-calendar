@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20170927T175947
+UID:explore_courses6775ef5e-d5fc-46f9-91d1-578239792aa1
+DTSTAMP:20170927T175947
+LOCATION:Green Earth Sciences131
+DESCRIPTION:The environment through which space probes and vehicles travel and orbit. Survey of physical phenomena in the sun, solar wind, magnetospheres, ionospheres, and upper atmospheres of objects in the solar system. Introduction to the physical processes governing space plasmas, solar-terrestrial interactions, and ionized and neutral media surrounding the Earth and other solar system bodies.  Prerequisite:  AA 244A.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AA251 LEC
+DTSTART;TZID=America/Los_Angeles:20180403T120000
+CREATED:20170927T175947
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

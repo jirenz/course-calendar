@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170925T112000
+LAST-MODIFIED:20170927T175843
+UID:explore_courses50ce1ef8-fdcf-4a3b-bdfd-6be0f6e467a9
+DTSTAMP:20170927T175843
+LOCATION:School of Education 210
+DESCRIPTION:This course introduces non-classical extensions and alternatives to classical logic, and the philosophical debates surrounding them. Topics include modal logic (the logic of possibility and necessity), intuitionistic and many-valued logics (in which sentences may be neither true nor false, or both true and false), and relevant logic (which tries to refine the classical concept of entailment to capture the idea that the premises of arguments should be relevant to their conclusions). nnStudents will learn tableau-style proof theories and Kripke frame semantics for a variety of non-classical logics, and will discuss adjacent philosophical issues, including the nature of necessity and possibility, the metaphysics of ordinary objects and fictional characters, the nature of truth, and the relationship between the world and the logical theories used to describe it.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHIL259 SEM
+DTSTART;TZID=America/Los_Angeles:20170925T093000
+CREATED:20170927T175843
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

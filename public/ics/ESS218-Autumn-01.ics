@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20170927T175943
+UID:explore_courses6e141d04-0b63-4021-a75b-946495df670f
+DTSTAMP:20170927T175943
+LOCATION:Y2E2 292A
+DESCRIPTION:CEE 224X of the CEE 224XYZ SUS Project series is joining forces with D3: Disasters, Decisions, Development to offer D3+SUS, which will connect principles of sustainable urban systems with the challenge of increasing resilience in the San Francisco Bay Area. The project-based learning course is designed to align with the Resilient By Design | Bay Area Challenge (http://www.resilientbayarea.org/); students will learn the basic concepts of resilience and tools of risk analysis while applying those mindsets and toolsets to a collective research product delivered to the RBD community. Students who take D3+SUS are encouraged to continue on to CEE 224Y and CEE 224Z, in which teams will be paired with local partners and will develop interventions to improve the resilience of local communities. For more information, visit http://sus.stanford.edu/courses.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ESS218 LEC
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20170927T175943
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

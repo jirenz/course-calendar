@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T152000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses94353ea0-37e5-405c-92ae-1f922fef2e96
+DTSTAMP:20170927T175938
+LOCATION:School of Education 229
+DESCRIPTION:Counterstory is a method developed in critical legal studies that emerges out of the broad &quot;narrative turn&quot; in the humanities and social science. This course explores the value of this turn, especially for marginalized communities, and the use of counterstory as analysis, critique, and self-expression. Using an interdisciplinary approach, we examine counterstory as it has developed in critical theory, critical pedagogy, and critical race theory literatures, and explore it as a framework for liberation, cultural work, and spiritual exploration.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC341 SEM
+DTSTART;TZID=America/Los_Angeles:20180110T123000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180111T162000
+LAST-MODIFIED:20170927T175821
+UID:explore_courses1b44aadd-e961-40f5-809d-29cbd29986c4
+DTSTAMP:20170927T175821
+LOCATION:Lathrop 294
+DESCRIPTION:The computational study of literature allows us to analyze literature across vastly different scales: from extremely detailed word frequencies, to massive archives of texts. But how does criticism operate at these two extremes? How do new methods of analysis respond to the theories of reading offered by literary criticism? In this class, we will compare the scalar modes of reading that our new methods offer with historical theories of critical reading practices, from hermeneutics, to close reading, and beyond.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ENGLISH354 SEM
+DTSTART;TZID=America/Los_Angeles:20180111T133000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

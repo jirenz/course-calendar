@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170927T142000
+LAST-MODIFIED:20170927T175829
+UID:explore_courses4b9f4d51-5fc5-426c-ab83-00ed87f33c5d
+DTSTAMP:20170927T175829
+LOCATION:Encina Hall C464
+DESCRIPTION:This course examines the &quot;Age of Revolution,&quot; spanning the 18th and 19th centuries. Primarily, this course will focus on the American, French, and Haitian Revolutions (which overthrew both French and white planter rule). Taken together, these events reshaped definitions of citizenship, property, and government. But could republican principles-- color-blind in rhetoric-- be so in fact? Could nations be both republican and pro-slavery? Studying a wide range of primary materials, this course will explore the problem of revolution in an age of empires, globalization, and slavery.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY205K COL
+DTSTART;TZID=America/Los_Angeles:20170927T113000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T142000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

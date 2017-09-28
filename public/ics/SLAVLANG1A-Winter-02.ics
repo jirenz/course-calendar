@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T132000
+LAST-MODIFIED:20170927T175849
+UID:explore_courses9ceac0bc-2b0d-4dfe-b262-c23d559e38df
+DTSTAMP:20170927T175849
+LOCATION:School of Education 207
+DESCRIPTION:First quarter of the two-quarter accelerated sequence. For students with little or no prior experience studying Russian. Students acquire beginning proficiency in Russian at an accelerated pace through intensive studying of basic Russian grammar and functional vocabulary. The course emphasis is put on practice in speaking, reading, and writing Russian with special insight into Russian culture. Completion of 2A fulfills the University Language Requirement
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SLAVLANG1A LNG
+DTSTART;TZID=America/Los_Angeles:20180108T113000
+CREATED:20170927T175849
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

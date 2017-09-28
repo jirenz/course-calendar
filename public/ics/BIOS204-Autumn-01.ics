@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171127T112000
+LAST-MODIFIED:20170927T175859
+UID:explore_coursesdb4efcf2-97e5-4c8c-a194-e8d4a4a6d31f
+DTSTAMP:20170927T175859
+LOCATION:
+DESCRIPTION:Basics of ordinary differential equation modeling of signal transduction motifs, small circuits of regulatory proteins and genes that serve as building blocks of complex regulatory circuits.  Morning session covers numerical modeling experiments.  Afternoon session explores theory underpinning that day's modeling session.  Modeling done using Mathematica, Standard Edition provided to enrolled students.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS204 PRA
+DTSTART;TZID=America/Los_Angeles:20171127T103000
+CREATED:20170927T175859
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,TU,WE,TH,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171127T165000
+LAST-MODIFIED:20170927T175859
+UID:explore_courses493ae83f-92fc-42d5-ba58-46e6ae640e5c
+DTSTAMP:20170927T175859
+LOCATION:
+DESCRIPTION:Basics of ordinary differential equation modeling of signal transduction motifs, small circuits of regulatory proteins and genes that serve as building blocks of complex regulatory circuits.  Morning session covers numerical modeling experiments.  Afternoon session explores theory underpinning that day's modeling session.  Modeling done using Mathematica, Standard Edition provided to enrolled students.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS204 PRA
+DTSTART;TZID=America/Los_Angeles:20171127T150000
+CREATED:20170927T175859
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T165000;BYDAY=MO,TU,WE,TH,FR
+END:VEVENT
+END:VCALENDAR

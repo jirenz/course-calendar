@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175843
+UID:explore_courses91189dd1-469b-4789-8ee0-2be669cd679e
+DTSTAMP:20170927T175843
+LOCATION:Lathrop 298
+DESCRIPTION:How can we explain the mind?  With approaches ranging from computational models to cellular-level characterizations of neural responses to the characterization of behavior, neuroscience aims to explain how we see, think, decide, and even feel. While these approaches have been highly successful in answering some kinds of questions, they have resulted in surprisingly little progress in others. We'll look at the relationships between the neuroscientific enterprise, philosophical investigations of the nature of the mind, and our everyday experiences as creatures with minds. Prerequisite: PHIL 80.n(Not open to freshmen.)
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHIL167D SEM
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175843
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

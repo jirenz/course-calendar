@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20170927T175846
+UID:explore_courses1113b92c-96d6-45a1-9923-3678a9d19a0d
+DTSTAMP:20170927T175846
+LOCATION:McCullough 115
+DESCRIPTION:In this course, students will learn and engage with the debates that have animated political theory since the early 20th century. What is the proper relationship between the individual, the community, and the state? Are liberty and equality in conflict, and, if so, which should take priority? What does justice mean in a large and diverse modern society? The subtitle of the course, borrowed from a book by Michael Sandel, is &quot;Liberalism and its Critics&quot; because the questions we discuss in this class center on the meaning of, and alternatives to, the liberal idea that the basic goal of society should be the protection of individual rights. Readings will include selections from works by John Rawls, Hannah Arendt, Robert Nozick, Michael Sandel, Iris Marion Young, and Martha Nussbaum. No prior experience with political theory is necessary.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:POLISCI130 LEC
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175846
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

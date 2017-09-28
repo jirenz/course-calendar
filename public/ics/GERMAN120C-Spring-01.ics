@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20170927T175825
+UID:explore_coursesb19f6d06-f46e-42c0-a8b1-bee8fd89df47
+DTSTAMP:20170927T175825
+LOCATION:School of Education 210
+DESCRIPTION:In this course, we will trace the history of German and Austrian popular music from the postwar period to the present day. Key questions which we will address include: What is popular music in Germany and Austria? How do changes in popular music reflect (and sometimes contribute to) changes in society and politics in Germany and Austria? What is it that is specifically `German&iquest; or `Austrian&iquest; about their respective varieties of popular music? Topics will include post-war Schlager music, the New German Wave, the Eurovision Song Contest, Viennese musicals, East German rock, and the growth of German hip hop. No musical experience necessary! A further central focus of the course is developing students&iquest; German language ability. In particular, we will work on improving skills of narration, description and comparison. Taught in German. Prerequisite: GERLANG 3 or permission of instructor.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GERMAN120C SEM
+DTSTART;TZID=America/Los_Angeles:20180402T150000
+CREATED:20170927T175825
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

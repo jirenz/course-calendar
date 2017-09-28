@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170925T192000
+LAST-MODIFIED:20170927T175909
+UID:explore_coursesbad7e526-a66b-47d6-abdb-65cc2d032422
+DTSTAMP:20170927T175909
+LOCATION:Li Ka Shing Center, room 102
+DESCRIPTION:This innovative course for first year medical students places patients front and center in the journey to explore health from the patient&iquest;s perspective, and better understand the challenges of managing optimal health in a complex health care system. In a unique 3 part monthly workshop format, students will learn about national, state, and local perspectives from experts from Stanford and the community and explore the broad impact of the monthly topic on patient care and health. In the second part of the workshop, students will learn about the patient/family perspective from a patient/family, with time to engage in discussion. Students will then actively engage in a workshop activity based on real-world examples of the impact of the monthly topic, and establish a framework for clinical exploration. n nOutside the monthly seminar session, students are matched with a patient/family partner for the duration of the course, and meet on a monthly basis at the medical center or other location key to learning about the patient&iquest;s journey, and explore together the impact of the monthly topic at the individual level. This course is a partnership of the Stanford Healthcare Innovations and Experiential Learning Directive (SHIELD), the Stanford Health Care Patient &amp; Family Partner Program, and the Stanford Medicine Office for Medical Student Wellness.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:INDE290A WKS
+DTSTART;TZID=America/Los_Angeles:20170925T173000
+CREATED:20170927T175909
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171006T192000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171204T192000
+LAST-MODIFIED:20170927T175909
+UID:explore_courses03ffcba9-12a7-4eeb-879d-317eb37ce05f
+DTSTAMP:20170927T175909
+LOCATION:Li Ka Shing Center, room 102
+DESCRIPTION:This innovative course for first year medical students places patients front and center in the journey to explore health from the patient&iquest;s perspective, and better understand the challenges of managing optimal health in a complex health care system. In a unique 3 part monthly workshop format, students will learn about national, state, and local perspectives from experts from Stanford and the community and explore the broad impact of the monthly topic on patient care and health. In the second part of the workshop, students will learn about the patient/family perspective from a patient/family, with time to engage in discussion. Students will then actively engage in a workshop activity based on real-world examples of the impact of the monthly topic, and establish a framework for clinical exploration. n nOutside the monthly seminar session, students are matched with a patient/family partner for the duration of the course, and meet on a monthly basis at the medical center or other location key to learning about the patient&iquest;s journey, and explore together the impact of the monthly topic at the individual level. This course is a partnership of the Stanford Healthcare Innovations and Experiential Learning Directive (SHIELD), the Stanford Health Care Patient &amp; Family Partner Program, and the Stanford Medicine Office for Medical Student Wellness.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:INDE290A WKS
+DTSTART;TZID=America/Los_Angeles:20171204T173000
+CREATED:20170927T175909
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171204T192000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171106T192000
+LAST-MODIFIED:20170927T175909
+UID:explore_courses487f42ab-f30f-4ea5-9b22-595f7ead0226
+DTSTAMP:20170927T175909
+LOCATION:Li Ka Shing Center, room 102
+DESCRIPTION:This innovative course for first year medical students places patients front and center in the journey to explore health from the patient&iquest;s perspective, and better understand the challenges of managing optimal health in a complex health care system. In a unique 3 part monthly workshop format, students will learn about national, state, and local perspectives from experts from Stanford and the community and explore the broad impact of the monthly topic on patient care and health. In the second part of the workshop, students will learn about the patient/family perspective from a patient/family, with time to engage in discussion. Students will then actively engage in a workshop activity based on real-world examples of the impact of the monthly topic, and establish a framework for clinical exploration. n nOutside the monthly seminar session, students are matched with a patient/family partner for the duration of the course, and meet on a monthly basis at the medical center or other location key to learning about the patient&iquest;s journey, and explore together the impact of the monthly topic at the individual level. This course is a partnership of the Stanford Healthcare Innovations and Experiential Learning Directive (SHIELD), the Stanford Health Care Patient &amp; Family Partner Program, and the Stanford Medicine Office for Medical Student Wellness.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:INDE290A WKS
+DTSTART;TZID=America/Los_Angeles:20171106T173000
+CREATED:20170927T175909
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171106T192000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

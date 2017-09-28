@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T175000
+LAST-MODIFIED:20170927T175811
+UID:explore_courses7c74cb06-e589-4df7-9fb9-7585f479e2ba
+DTSTAMP:20170927T175811
+LOCATION:School of Education 206
+DESCRIPTION:The course offers a survey of and introduction to the central works of Persian literature, from the 10th century to our time, across the genres: epic, romance, lyric, and novel. Special attention will be given to the various ways in which the texts continue to resonate in Persian culture. Readings include: the Shahnameh by Ferdowsi (940-1020); Khosrow and Shirin by Nezami (1141-1209); The Conference of the Birds by Attar (1145/46-1221); selections from the masnavi and divan of Rumi (d. 1273); selections from the divan of Hafez (1325/26-1389/90); The Blind Owl by Sadegh Hedayat (1903-1951); selected poems by Nima (1895-1960), Shamlu (1925-2000), Akhavan Sales (1928-1990), and Forugh Farrokhzad (1935-1967); and My Uncle Napoleon by Iraj Pezeshkzad (1928-). Taught in English.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:COMPLIT201 SEM
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20170927T175811
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

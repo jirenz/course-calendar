@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180406T142000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses316ea72d-6978-4444-b44b-a7fe7603d9a9
+DTSTAMP:20170927T175819
+LOCATION:Lathrop 282
+DESCRIPTION:This class will apply tools from economics and related social sciences to study the functioning of media markets and their impact on society. The guiding question will be: when and how do media best serve the social good? Topics will include the economics of two-sided markets, media bias, polarization, social media, fake news, advertising, propaganda, effects of media on children, media and crime, and the role of media in corruption, protests and censorship. The course will give students a non-technical introduction to social science empirical methods, including regression analysis, causal inference, experimental and quasi-experimental methods, and machine learning.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON47 DIS
+DTSTART;TZID=America/Los_Angeles:20180406T133000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T142000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

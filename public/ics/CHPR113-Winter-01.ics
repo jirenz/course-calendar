@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T112000
+LAST-MODIFIED:20170927T175900
+UID:explore_courses76403ef1-f880-4bb1-9060-4057cf10d1a8
+DTSTAMP:20170927T175900
+LOCATION:Hewlett Teaching Center 103
+DESCRIPTION:Focus on problems with and systems-based solutions to food system issues. Four particular settings are addressed: University, worksite, hospital, and school food. Traditional vs. disruptive food system models compared and contrasted. The goal is to determine how best to maximize sustainability across several dimensions, including health, economics, and the environment. Underlying class themes include social justice and the potential for changing social norms around food production and consumption. Discussion-based seminar. Prerequisite: Human Biology Core or equivalent or consent of instructor.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHPR113 SEM
+DTSTART;TZID=America/Los_Angeles:20180109T093000
+CREATED:20170927T175900
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

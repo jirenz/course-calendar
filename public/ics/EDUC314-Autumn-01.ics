@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170927T192000
+LAST-MODIFIED:20170927T175938
+UID:explore_courses74317403-4c98-4f34-b950-31a454f1b288
+DTSTAMP:20170927T175938
+LOCATION:School of Education 206
+DESCRIPTION:From texts to techne, from artifacts to discourses on science and technology, this course is an examination of how Black people in this society have engaged with the mutually consitutive relationships that endure between humans and technologies. We will focus on these engagements in vernacular cultural spaces, from storytelling traditions to music and move to ways academic and aesthetic movements have imagined these relationships. Finally, we will consider the implications for work with technologies in both school and community contexts for work in the pursuit of social and racial justice. Course is open to master's and doctoral students only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC314 SEM
+DTSTART;TZID=America/Los_Angeles:20170927T163000
+CREATED:20170927T175938
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

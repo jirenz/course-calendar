@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175806
+UID:explore_courses328763a8-650f-4070-8027-37f8b76a9191
+DTSTAMP:20170927T175806
+LOCATION:School of Education 206
+DESCRIPTION:Sophisticated, organized entertainment in China is evident at least as early as the second century B.C. in the court spectacles described in the early histories and in the depictions of jugglers, dancers and acrobats represented in tomb bas-reliefs. The importance attached to entertainment from ancient times both at court and in society at large is manifest not just in the establishment of imperial institutions such as the Music Bureau, but also in the appearance of large entertainment districts within the cities where people would invest extraordinary amount of resources in the pursuit of pleasure, and in small scale gatherings. The representation of play and pleasure in Chinese culture from a variety of sources (art, history, literature and performance) in different periods of Chinese history. The place of pleasure in Chinese culture, as well as ethical, socio-political and economical concerns. Held in old Knight Bldg., 521 Memorial Way, Rm. 102.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHINA255 LEC
+DTSTART;TZID=America/Los_Angeles:20170926T120000
+CREATED:20170927T175806
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses5ca919f8-6d81-479d-b8fe-d0a19b3ffc7c
+DTSTAMP:20170927T175933
+LOCATION:Lathrop 290
+DESCRIPTION:Can we write the history of private life? Throughout this course, we will try out different historical approaches to the history of intimate matters in the French Empire. Beyond a more complete understanding of what colonialism was like, studying the intimate draws attention to the societal norms and anxieties of the nineteenth and twentieth centuries. Patriarchy, racism, and classism the power structures inherent in colonialism&iquest;produce fruitful sites for prying into intimate matters. To that end, we will probe a wide variety of primary sources, including novels, films, paintings, letters, diaries, travel accounts produced by male and female Europeans, Africans, Arabs, and East Asians. Topics covered through these sources include, colonial masculinity and femininity; divorce; homosexuality; prostitution; and sexual violence. We will transcend racial and class divides, and cover a diverse geography including, France, North and West Africa, and Vietnam.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY37S SEM
+DTSTART;TZID=America/Los_Angeles:20180402T150000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

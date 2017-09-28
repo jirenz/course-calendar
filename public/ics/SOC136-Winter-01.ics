@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T132000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesbebc3612-bd4e-494b-8f2d-86b09e868f20
+DTSTAMP:20170927T175851
+LOCATION:Lathrop 282
+DESCRIPTION:(Graduate students register for 236) Major issues and debates. Topics include: historical perspectives on the origins of law; rationality and legal sanctions; normative decision making and morality; cognitive decision making; crime and deviance; the law in action versus the law on the books; organizational responses to law in the context of labor and employment; the roles of lawyers, judges, and juries; and law and social change emphasizing the American civil rights movement.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOC136 LEC
+DTSTART;TZID=America/Los_Angeles:20180109T113000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

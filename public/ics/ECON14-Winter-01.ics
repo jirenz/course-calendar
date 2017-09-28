@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T182000
+LAST-MODIFIED:20170927T175819
+UID:explore_courses1a750a4f-f28e-4ccf-9b8d-2bafd2f87616
+DTSTAMP:20170927T175819
+LOCATION:Lathrop 296
+DESCRIPTION:What causes financial crises? What are the keys to anticipating, preventing, and managing disruptions in the global financial system? This course prepares students to navigate future episodes as policymakers, finance professionals, and citizens by going inside the practical decisions made in an unfolding crisis, from the U.S. government and IMF to the boardroom and trading floor. Students will learn warning signs of distress; market structures that govern crisis dynamics; strategic interactions among the key actors; and lessons learned for creating a more resilient system. Concepts will be applied to real-world experiences in emerging market crises, the U.S. housing and global financial crisis, and the European sovereign crisis, as well as prospective risks from China's financial system and unwinding of extraordinary central bank stimulus.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON14 SEM
+DTSTART;TZID=America/Los_Angeles:20180110T163000
+CREATED:20170927T175819
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

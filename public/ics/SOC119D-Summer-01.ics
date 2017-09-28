@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180626T115000
+LAST-MODIFIED:20170927T175933
+UID:explore_courses88e3f876-f45b-4e47-a5c4-136a6c1473d3
+DTSTAMP:20170927T175933
+LOCATION:School of Education 206
+DESCRIPTION:Why do some people have better ideas than others? Why are some more likely to be bullied in school, get a job, or catch a disease? Why do some innovations, apps, rumors, or revolutions spread like a wildfire, while others never get off the ground? Why are Facebook, Twitter, Instagram or Spotify so good at recommending people, news, pictures, or songs we might know or like? What do a power outage, the collapse of the Roman Empire, a human stroke, and the Financial Crisis of 2008 have in common? What explains the success of Silicon Valley? And why are there only six (or less) people between us and any other human on this planet? While these questions may seem totally unrelated to each other on first glance, they can all be explored with the help of a single, yet powerful framework: social network analysis. In this class, you will learn to see the world as a web of relations: not only are people, ideas/concepts and things all increasingly connected to each other; the pattern of these relations can tell us a great deal about many phenomena in our social world that defy traditional explanations. At the end of this class, you will not only see networks everywhere; you will have taken a big step toward connecting some of the dots in (y)our world: this is the power of thinking in relations.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOC119D SEM
+DTSTART;TZID=America/Los_Angeles:20180626T103000
+CREATED:20170927T175933
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

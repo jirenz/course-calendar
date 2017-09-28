@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T094500
+LAST-MODIFIED:20170927T175948
+UID:explore_coursesba6e0d19-e81e-4311-a315-6d836edbd308
+DTSTAMP:20170927T175948
+LOCATION:GSB McClelland 101D
+DESCRIPTION:A hands-on, project-based course, in which teams identify and work with users, domain experts, and industry participants to identify an unmet customer need, design new products or services that meet that need, and develop business models to support the creation and launch of startup products or services. This course integrates methods from human-centered design, lean startup, and business model planning. Each team will conceive, design, build, and field-test critical aspects of both the product or service and the business model.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOE376 LEC
+DTSTART;TZID=America/Los_Angeles:20170926T080000
+CREATED:20170927T175948
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T094500;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

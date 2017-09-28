@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170927T142000
+LAST-MODIFIED:20170927T175928
+UID:explore_courses12df73ef-0dd4-48ba-9aed-007925323dad
+DTSTAMP:20170927T175928
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:Students will attend weekly lectures where they can meet and interact with telemedicine leaders who will deliver a 30-minute lecture followed by a 30-minute question and answer session. Course topics include: Present Landscape of Telemedicine in the XXI Century; Finding what is suitable to evaluate, diagnose and treat via Telemedicine; Challenges and opportunities of Telemedicine; Building a successful Telemedicine program; Telemedicine Business models; Ethics, Law and Telemedicine; Entrepreneurial opportunities in Telemedicine; Education in Telemedicine. All students are welcome regardless of their medical related experience.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SURG233 LEC
+DTSTART;TZID=America/Los_Angeles:20170927T133000
+CREATED:20170927T175928
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T142000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

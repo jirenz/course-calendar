@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20170927T175808
+UID:explore_courses616564f4-ffd0-4357-aa87-6115c8ed0b71
+DTSTAMP:20170927T175808
+LOCATION:McMurtry Building rm 360
+DESCRIPTION:The class begins with the art, architecture and political ideals of Periclean Athens, from the emergence of the city as the political and cultural center of Greece in 450 to its defeat in the Peloponnesian War in 404.  It then considers how Athens and the rest of Greece proceed in the fourth century to rebuild their lives and the monuments that define them.  Earlier artistic traditions endure, with subtle changes, in the work of sculptors such as Kephisodotos.  Less subtle are the outlook and output of his son Praxiteles.  In collaboration with Phryne, his muse and mistress, Praxiteles challenged the canons and constraints of the past with the first female nude in the history of Greek sculpture.  His gender-bending depictions of gods and men were equally audacious, their shiny surfaces reflecting Plato&iquest;s discussion of Eros and androgyny.  Scopas was also a man of his time but pursued different interests.  Drawn to the inner lives of men and woman, his tormented Trojan War heroes and victims are still scarred by memories of the Peloponnesian War, and a world away from the serene faces of the Parthenon.  His famous Maenad, a devotee of Dionysos who has left this world for another, belongs to the same years as Euripides' Bacchae and, at the same time, anticipates the torsion and turbulence of Bernini and the Italian Baroque.  In the work of these and other fourth century personalities, the stage is set for Alexander the Great and his conquest of a kingdom extending from Greece to the Indus River.  (Formerly CLASSART 102)
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CLASSICS162 LEC
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20170927T175808
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

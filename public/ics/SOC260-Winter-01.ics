@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20170927T175851
+UID:explore_courses7c25ef48-c993-4559-b7a7-546d4865654f
+DTSTAMP:20170927T175851
+LOCATION:McCullough 126
+DESCRIPTION:(Graduate students register for 260.) The roles of formal organizations in production processes, market transactions, and social movements; and as sources of income and ladders of mobility. Relationships of modern organizations to environments and internal structures and processes. Concepts, models, and tools for analyzing organizational phenomena in contemporary societies. Sources include the literature and case studies.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOC260 LEC
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

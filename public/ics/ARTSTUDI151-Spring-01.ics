@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T152000
+LAST-MODIFIED:20170927T175801
+UID:explore_courses1a7dabe2-1028-4ce1-b235-90e3c038ed9a
+DTSTAMP:20170927T175801
+LOCATION:McMurtry Building rm 130
+DESCRIPTION:Traditional and non-traditional approaches to sculpture production through working with materials including wood, metal, and plaster. Conceptual and technical skills, and safe and appropriate use of tools and materials. Impact of material and technique upon form and content; the physical and expressive possibilities of diverse materials. Historical and contemporary forming methods provide a theoretical basis for studio work. Field trips; guest lecturers.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSTUDI151 PRC
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20170927T175801
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

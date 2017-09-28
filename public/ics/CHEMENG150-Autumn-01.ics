@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170929T132000
+LAST-MODIFIED:20170927T175949
+UID:explore_courses59f55014-c499-4a32-8a6b-99b58239764f
+DTSTAMP:20170927T175949
+LOCATION:Thornt102
+DESCRIPTION:Systems-level combination of chemical engineering concepts with biological principles. The production of protein pharmaceuticals as a paradigm to explore quantitative biochemistry and cellular physiology, the elemental stoichiometry of metabolism, recombinant DNA technology, synthetic biology and metabolic engineering, fermentation development and control, product isolation and purification, protein folding and formulation, and biobusiness and regulatory issues. Prerequisite: CHEMENG 181 (formerly 188) or BIOSCI 41 or equivalent.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHEMENG150 LEC
+DTSTART;TZID=America/Los_Angeles:20170929T123000
+CREATED:20170927T175949
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T132000
+LAST-MODIFIED:20170927T175949
+UID:explore_coursesc9d7936f-1b75-411a-8069-16dc8649fc11
+DTSTAMP:20170927T175949
+LOCATION:Thornt102
+DESCRIPTION:Systems-level combination of chemical engineering concepts with biological principles. The production of protein pharmaceuticals as a paradigm to explore quantitative biochemistry and cellular physiology, the elemental stoichiometry of metabolism, recombinant DNA technology, synthetic biology and metabolic engineering, fermentation development and control, product isolation and purification, protein folding and formulation, and biobusiness and regulatory issues. Prerequisite: CHEMENG 181 (formerly 188) or BIOSCI 41 or equivalent.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHEMENG150 LEC
+DTSTART;TZID=America/Los_Angeles:20170926T120000
+CREATED:20170927T175949
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

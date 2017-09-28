@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20170927T180001
+UID:explore_coursesa4570a8d-3ff4-4fcc-9574-48c73ffc949c
+DTSTAMP:20170927T180001
+LOCATION:Green Earth Sciences131
+DESCRIPTION:The functionality and performance of ULSI systems are increasingly dependent upon the characteristics of the memory subsystem. This course introduces the student to various memory devices: SRAM, DRAM, NVRAM (non-volatile memory). This course will cover various aspects of semiconductor memories, including basic operation principles, device design considerations, device scaling, device fabrication, memory array addressing and readout circuits. Various cell structures (e.g. 1T-1C, 6T, 4T, 1T-1R, 0T-1R, 1S-1R, floating gate FLASH, SONOS, NROM), and memory organization (open bit-line, folded bit-line, NAND, NOR, cross-point etc.). This course will include a survey of new memory concepts (e.g. magnetic tunnel junction memory (MRAM, SST-RAM), ferroelectric memory (FRAM), phase change memory (PCM), metal oxide resistive switching memory (RRAM), nanoconductive bridge memory (CBRAM)).  Offered Alternate years.  Pre-requisite: EE 216. Preferred: EE 316.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EE309 LEC
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20170927T180001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

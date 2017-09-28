@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T152000
+LAST-MODIFIED:20170927T175821
+UID:explore_courses83208e6a-8c05-4d7d-933b-a6c05923c9db
+DTSTAMP:20170927T175821
+LOCATION:Encina West 106
+DESCRIPTION:The course will be a practical workshop for undergraduates on how to improve essay-writing skills.  we will focus on the finer points of vocabulary, grammar, mechanics, logic, timing, intellectual precision; how to connect with (and delight) an audience; how to magnify a theme;  how to deflect counter-arguments; how to develop your own sophisticated authorial 'style'; how to write sentences (and papers!) your reader will care about and admire and maybe even remember.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ENGLISH195B WKS
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20170927T175821
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

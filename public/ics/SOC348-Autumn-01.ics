@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170927T162000
+LAST-MODIFIED:20170927T175851
+UID:explore_coursesf6ceda4b-ce61-4a1f-a0bc-df9d6291bfd2
+DTSTAMP:20170927T175851
+LOCATION:Lathrop 292
+DESCRIPTION:Seminar for graduate students who have research projects in progress that focus on questions about gender and society. Research projects can be at any stage from the initial development to the final writing up of results. Focus is on questions posed by the research projects of the seminar participants. Readings include relevant background to each other's questions and present their own work in progress.  A final paper reports the progress on the seminar member's research project. May be repeat for credit
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOC348 SEM
+DTSTART;TZID=America/Los_Angeles:20170927T143000
+CREATED:20170927T175851
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

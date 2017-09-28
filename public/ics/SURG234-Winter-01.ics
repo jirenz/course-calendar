@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T132000
+LAST-MODIFIED:20170927T175928
+UID:explore_courses6e34c0e4-b9b4-4db5-8248-b80d9028e16f
+DTSTAMP:20170927T175928
+LOCATION:Alway Building, Room M212
+DESCRIPTION:Surgeons with an Impact is a weekly seminar course with guest lectures and facilitated workshops with the following objectives: 1) Participants will be able to understand the role of surgeons in addressing health inequities, social justice and poverty 2) Participants will be exposed to the potential of expert surgeons through lectures from diverse professionals 3) Participants will reflect on how addressing inequities can align with their career goals in surgery. Topic covered will include; building diversity in surgery, inequities in pediatric surgery, immigration and surgery, access to colorectal surgery, Medecins Sans Frontieres, surgery and global health, policy advocacy and surgery, LGBTQ advocacy and surgery, inequities and neurosurgery, women in surgery, transplant justice, and race and surgery.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SURG234 SEM
+DTSTART;TZID=America/Los_Angeles:20180112T123000
+CREATED:20170927T175928
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

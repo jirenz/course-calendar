@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20170927T175829
+UID:explore_coursesdf5ccdbc-0804-4deb-97ff-95c0fb89b06e
+DTSTAMP:20170927T175829
+LOCATION:Lathrop 190
+DESCRIPTION:Through hands-on engagement with Stanford&iquest;s diverse collections of medieval artifacts-- from grungy coins to lavish manuscripts-- this course offers an introduction to the cultures of Europe and the Mediterranean world from 400-1400 CE. In addition, the course will explore competing contemporary understandings of the &quot;Middle Ages&quot; and the role of the &quot;medieval&quot; in shaping what it means to be &quot;modern&quot;.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY14N ISF
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

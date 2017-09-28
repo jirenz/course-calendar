@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170925T213000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses308268e0-9fc1-4f32-87dc-2727f7a5a3ff
+DTSTAMP:20170927T175841
+LOCATION:BRH
+DESCRIPTION:This course is a practical workshop in vocal repertoire for the stage. Each quarter's offering emphasizes a specific genre or period, therefore the course can be repeated with permission of the instructor. In addition to broadening the student's knowledge of vocal repertoire, the following skills are developed:  text preparation, foreign language translation and diction; rehearsal etiquette for performance and/or recording. Prerequisite: vocal or instrumental instruction, as the class is open to singers or collaborative artists. May be repeated for credit a total of 4 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure. By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC184B WKS
+DTSTART;TZID=America/Los_Angeles:20170925T183000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T213000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170927T223000
+LAST-MODIFIED:20170927T175841
+UID:explore_courses97b7df1c-547d-4f8f-b50a-efb0f143dab0
+DTSTAMP:20170927T175841
+LOCATION:
+DESCRIPTION:This course is a practical workshop in vocal repertoire for the stage. Each quarter's offering emphasizes a specific genre or period, therefore the course can be repeated with permission of the instructor. In addition to broadening the student's knowledge of vocal repertoire, the following skills are developed:  text preparation, foreign language translation and diction; rehearsal etiquette for performance and/or recording. Prerequisite: vocal or instrumental instruction, as the class is open to singers or collaborative artists. May be repeated for credit a total of 4 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure. By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC184B WKS
+DTSTART;TZID=America/Los_Angeles:20170927T183000
+CREATED:20170927T175841
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T223000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

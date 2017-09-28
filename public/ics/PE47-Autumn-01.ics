@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170928T145000
+LAST-MODIFIED:20170927T175934
+UID:explore_coursesbad9691c-bc04-40ee-bdb5-09beeb440ead
+DTSTAMP:20170927T175934
+LOCATION:Morrison Boat House
+DESCRIPTION:Students will have the opportunity to further development their sailing skills and techniques. This class utilization of class discussions, assignments and student participation will enable students to: (1) Understand basic components of health-related physical fitness, cardiovascular fitness, muscle endurance and flexibility (2) Develop physical fitness and motor skills, and (3) Develop a positive attitude toward wellness and physical activity which will facilitate a healthy lifestyle.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PE47 ACT
+DTSTART;TZID=America/Los_Angeles:20170928T120000
+CREATED:20170927T175934
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T172000
+LAST-MODIFIED:20170927T175829
+UID:explore_courses3a278a02-3556-4d01-b505-4f5afb9deb77
+DTSTAMP:20170927T175829
+LOCATION:Littlefield 104
+DESCRIPTION:Albert Einstein once remarked &quot;One cannot help but be in awe when one contemplates the mysteries of the marvelous structure of reality. It is enough if one tries to contemplate only a little of this mystery each day.&quot; In this course we will contemplate the history, science, and philosophy involved in three pathbreaking and contentious episodes in Einstein's lifelong quest to unveil the structure of reality: the special theory of relativity, the general theory of relativity, and the quantum theory.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY241D COL
+DTSTART;TZID=America/Los_Angeles:20180110T143000
+CREATED:20170927T175829
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

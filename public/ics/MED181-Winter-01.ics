@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T195000
+LAST-MODIFIED:20170927T175908
+UID:explore_courses6a6aaed5-39b8-4b64-b6c3-8310b920707b
+DTSTAMP:20170927T175908
+LOCATION:School of Education 128
+DESCRIPTION:Training course for new undergraduate volunteers at the Cardinal Free Clinics (CFCs). Topics include introduction to methods for providing culturally appropriate, high quality transitional medical care for undeserved patient populations, clinic structure and roles, free clinics in the larger context of American healthcare, foundations in community health, cultural humility and implicit bias in healthcare, motivational interviewing and patient advocacy skills, and role-specific preparation. Application only; must be an accepted CFC volunteer. Visit https://cfc.stanford.edu for more information. 1-2 units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED181 SEM
+DTSTART;TZID=America/Los_Angeles:20180109T183000
+CREATED:20170927T175908
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T195000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR
