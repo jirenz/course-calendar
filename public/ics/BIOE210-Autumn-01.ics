@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T112000
-LAST-MODIFIED:20170927T175948
-UID:explore_courses248c9826-5df6-4065-880e-bd17b11fec80
-DTSTAMP:20170927T175948
+LAST-MODIFIED:20180107T132506
+UID:explore_courses69da676d-bdc1-401f-a87b-e2224df7ddd9
+DTSTAMP:20180107T132506
 LOCATION:STLC111
 DESCRIPTION:Complex biological behaviors through the integration of computational modeling and molecular biology. Topics: reconstructing biological networks from high-throughput data and knowledge bases. Network properties. Computational modeling of network behaviors at the small and large scale. Using model predictions to guide an experimental program. Robustness, noise, and cellular variation. Prerequisites: CME 102; BIO 82, BIO 84; or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE210 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T093000
-CREATED:20170927T175948
+CREATED:20180107T132506
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

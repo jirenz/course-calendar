@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T145000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses0fa571e2-9f28-4964-868e-2ea6fa5767de
-DTSTAMP:20170927T175958
-LOCATION:McMurtry Building rm 350
+LAST-MODIFIED:20180107T132519
+UID:explore_courses44027c0d-9bbb-4b73-89d5-3dca7c30a52b
+DTSTAMP:20180107T132519
+LOCATION:200-034
 DESCRIPTION:Survey of recent research advances in intelligent decision making for dynamic environments from a computational perspective. Efficient algorithms for single and multiagent planning in situations where a model of the environment may or may not be known. Partially observable Markov decision processes, approximate dynamic programming, and reinforcement learning. New approaches for overcoming challenges in generalization from experience, exploration of the environment, and model representation so that these methods can scale to real problems in a variety of domains including aerospace, air traffic control, and robotics. Students are expected to produce an original research paper on a relevant topic. Prerequisites: AA 228/CS 238 or CS 221.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS239 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

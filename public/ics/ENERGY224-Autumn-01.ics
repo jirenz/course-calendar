@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T115000
-LAST-MODIFIED:20170927T175941
-UID:explore_courses50003537-c7a7-45bb-a0f0-0e948da2b18f
-DTSTAMP:20170927T175941
+LAST-MODIFIED:20180107T132456
+UID:explore_courses67eee60e-b115-4ac2-83dc-300b2010fc99
+DTSTAMP:20180107T132456
 LOCATION:Green Earth Sciences104
 DESCRIPTION:Topics include modeling of complex wells, coupling of surface facilities, compositional modeling, dual porosity models, treatment of full tensor permeability and grid nonorthogonality, local grid refinement, higher order methods, streamline simulation, upscaling, algebraic multigrid solvers, unstructured grid solvers, history matching, other selected topics. Prerequisite: 223 or consent of instructor. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY224 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T103000
-CREATED:20170927T175941
+CREATED:20180107T132456
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

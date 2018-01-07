@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T172000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses08b10f06-0837-47d8-96a3-c25d0a9debba
-DTSTAMP:20170927T175958
-LOCATION:Hewlett Teaching Center Rm 101
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20180107T132519
+UID:explore_coursesfcb4f982-a10c-4e72-94ca-bcbb4c2797d8
+DTSTAMP:20180107T132519
+LOCATION:Gates100
 DESCRIPTION:Project-based focus on interaction design process, especially early-stage design and rapid prototyping. Methods used in interaction design including needs analysis, user observation, sketching, concept generation, scenario building, and evaluation. Prerequisites: 147 or equivalent background in design thinking; 106B or equivalent background in programming. Recommended: CS 142 or equivalent background in web programming.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS247 DIS
-DTSTART;TZID=America/Los_Angeles:20180108T163000
-CREATED:20170927T175958
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20180107T132519
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

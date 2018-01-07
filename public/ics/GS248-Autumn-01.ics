@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170926T102000
-LAST-MODIFIED:20170927T175944
-UID:explore_courses4de8932a-4551-498d-8c6f-437a4c34dd89
-DTSTAMP:20170927T175944
+DTEND;TZID=America/Los_Angeles:20170929T102000
+LAST-MODIFIED:20180107T132500
+UID:explore_courses26f08ccd-4e89-4ece-8b62-a9750396b736
+DTSTAMP:20180107T132500
 LOCATION:Mitchb4
 DESCRIPTION:How the petroleum system concept can be used to more systematically investigate how hydrocarbon fluid becomes an unconventional accumulation in a pod of active source rock and how this fluid moves from this pod to a conventional pool.  How to identify, map, and name a petroleum system. The conventional and unconventional accumulation as well as the use of modeling.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GS248 SEM
-DTSTART;TZID=America/Los_Angeles:20170926T090000
-CREATED:20170927T175944
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170929T083000
+CREATED:20180107T132500
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

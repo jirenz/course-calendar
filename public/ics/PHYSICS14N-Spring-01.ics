@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20170927T175844
-UID:explore_coursesadf01262-c0e2-4ddc-8761-bd1323bc33be
-DTSTAMP:20170927T175844
+LAST-MODIFIED:20180107T132334
+UID:explore_courses6aa7d305-4fb2-4b62-8510-e643346f7e21
+DTSTAMP:20180107T132334
 LOCATION:
 DESCRIPTION:What sets quantum information apart from its classical counterpart is that it can be encoded non-locally, woven into correlations among multiple qubits in a phenomenon known as entanglement.  We will discuss paradigms for harnessing entanglement to solve hitherto intractable computational problems or to push the precision of sensors to their fundamental quantum mechanical limits. We will also examine challenges that physicists and engineers are tackling in the laboratory today to enable the quantum technologies of the future.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS14N ISF
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20170927T175844
+CREATED:20180107T132334
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

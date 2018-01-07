@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20170927T175823
-UID:explore_courses0314e60b-e6a1-4ee4-b9c4-5116bafb67d5
-DTSTAMP:20170927T175823
-LOCATION:McMurtry Building 102, Oshman
-DESCRIPTION:Formal, historical, and cultural issues in the study of film. Classical narrative cinema compared with alternative narrative structures, documentary films, and experimental cinematic forms. Issues of cinematic language and visual perception, and representations of gender, ethnicity, and sexuality. Aesthetic and conceptual analytic skills with relevance to cinema.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:FILMSTUD4 LEC
-DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20170927T175823
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170927T202000
-LAST-MODIFIED:20170927T175823
-UID:explore_coursese56a4406-40ec-4564-8954-f6e042085180
-DTSTAMP:20170927T175823
+LAST-MODIFIED:20180107T132247
+UID:explore_coursese2e5469b-f953-4e64-9575-935a3a4eeae6
+DTSTAMP:20180107T132247
 LOCATION:McMurtry Building rm 115
 DESCRIPTION:Formal, historical, and cultural issues in the study of film. Classical narrative cinema compared with alternative narrative structures, documentary films, and experimental cinematic forms. Issues of cinematic language and visual perception, and representations of gender, ethnicity, and sexuality. Aesthetic and conceptual analytic skills with relevance to cinema.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FILMSTUD4 LEC
 DTSTART;TZID=America/Los_Angeles:20170927T173000
-CREATED:20170927T175823
+CREATED:20180107T132247
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T202000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T145000
+LAST-MODIFIED:20180107T132247
+UID:explore_courses8e582b52-7aa8-48e1-b188-e246526e6b79
+DTSTAMP:20180107T132247
+LOCATION:McMurtry Building 102, Oshman
+DESCRIPTION:Formal, historical, and cultural issues in the study of film. Classical narrative cinema compared with alternative narrative structures, documentary films, and experimental cinematic forms. Issues of cinematic language and visual perception, and representations of gender, ethnicity, and sexuality. Aesthetic and conceptual analytic skills with relevance to cinema.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD4 LEC
+DTSTART;TZID=America/Los_Angeles:20170926T133000
+CREATED:20180107T132247
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

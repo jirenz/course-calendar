@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T112000
-LAST-MODIFIED:20170927T180006
-UID:explore_coursesd1588624-1514-46f5-be74-ae6f33d49f15
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132531
+UID:explore_courses01adb1b4-d779-46a0-af79-234da003bfea
+DTSTAMP:20180107T132531
 LOCATION:Sequoia Hall 200
 DESCRIPTION:Goal is a common basis for advanced mechanics courses. Introduction to variation calculus. Formulation of the governing equations from a Lagrangian perspective for finite and infinite dimensional mechanical systems. Examples include systems of particles and linear elastic solids. Introduction to tensors. Definition and interpretation of Cauchy stress tenor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME333 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T093000
-CREATED:20170927T180006
+CREATED:20180107T132531
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

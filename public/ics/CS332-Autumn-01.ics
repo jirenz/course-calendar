@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T145000
-LAST-MODIFIED:20170927T175958
-UID:explore_courseseb29dc41-14ac-442e-8535-da7d53b02449
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_coursesd4556ea8-f540-4a42-a203-5a9a07e81277
+DTSTAMP:20180107T132519
 LOCATION:Herrin T195
 DESCRIPTION:This class will provide a core overview of essential topics and newnresearch frontiers in reinforcement learning. Planned topics include:nmodel free and model based reinforcement learning, policy search, MontenCarlo Tree Search planning methods, off policy evaluation, exploration,nimitation learning, temporal abstraction/hierarchical approaches, safetynand risk sensitivity, human-in-the-loop RL, inverse reinforcementnlearning, learning to communicate, and insights from human learning.nStudents are expected to create an original research paper on a relatedntopic. Prerequisites: CS221 or AA238/CS238 or CS234 or CS229 or similarnexperience.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS332 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T133000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

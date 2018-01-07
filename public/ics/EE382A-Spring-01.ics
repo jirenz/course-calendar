@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T175000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses08269c62-cb04-4c30-bc59-eee2041d0d38
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_coursesc2c79326-289b-4079-a083-4f8632f420f4
+DTSTAMP:20180107T132523
 LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:Formerly EE392Q. The current parallel computing research emphasizes multi-cores, but there are alterna-tive array processors with significant potential. This hands-on course focuses on SIMD (Single-Instruction, Multiple-Data) massively parallel processors. Topics: Flynn's Taxonomy, parallel architectures, Kestrel architecture and simulator, principles of SIMD programming, parallel sorting with sorting networks, string comparison with dynamic programming (edit distance, Smith-Waterman), arbitrary-precision operations with fixed-point numbers, reductions, vector and matrix multiplication, image processing algo-rithms, asynchronous algorithms on SIMD (&quot;SIMD Phase Programming Model&quot;), Man-delbrot set, analysis of parallel performance.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE382A LEC
 DTSTART;TZID=America/Los_Angeles:20180403T163000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

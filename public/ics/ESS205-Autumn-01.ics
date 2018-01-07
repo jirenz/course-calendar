@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T102000
-LAST-MODIFIED:20170927T175943
-UID:explore_coursesabb11df1-cdd5-4a26-b8df-390d6d2a3db7
-DTSTAMP:20170927T175943
+LAST-MODIFIED:20180107T132459
+UID:explore_courses2bb798a7-af34-4b0d-8fc3-f8dd39b554f1
+DTSTAMP:20180107T132459
 LOCATION:320-220
 DESCRIPTION:Lecture and discussion covering key topics in the history of life on Earth, as well as basic principles that apply to life in the universe. Co-evolution of Earth and life; critical intervals of environmental and biological change; geomicrobiology; paleobiology; global biogeochemical cycles; scaling of geobiological processes in space and time.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS205 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T093000
-CREATED:20170927T175943
+CREATED:20180107T132459
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

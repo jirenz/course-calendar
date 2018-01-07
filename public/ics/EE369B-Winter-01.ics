@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses884d68da-1aa3-47d9-9361-882db19a130f
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_courseseab3bd78-b75d-4526-83d3-a63783766397
+DTSTAMP:20180107T132523
 LOCATION:60-109
 DESCRIPTION:Imaging internal structures within the body using magnetic resonance studied from a systems viewpoint. Analysis of magnetic resonance imaging systems including physics, Fourier properties of image formation, effects of system imperfections, image contrast, and noise. Prerequisite: EE 261
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE369B LEC
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

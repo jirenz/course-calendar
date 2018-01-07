@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T120000
-LAST-MODIFIED:20170927T175752
-UID:explore_courses9b0d8751-8413-4481-9a82-18656dc72b59
-DTSTAMP:20170927T175752
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180108T110000
+LAST-MODIFIED:20180107T132148
+UID:explore_courses6df13423-d425-4c04-8519-2d719744d540
+DTSTAMP:20180107T132148
+LOCATION:Law271
 DESCRIPTION:(Formerly Law 472) The practice of public interest law -- whether in the criminal or civil context, or a government or non-profit setting -- requires an attorney to consider a host of issues distinct from one in private practice. How should decisions be made about priorities with limited resources? Where an organization has a broad social justice mission, where does litigation on behalf of individual clients or a group of clients fit in? Prior to initiating litigation or advancing a defense, what quantum of evidence should an attorney require? What role, if any, should an attorney's personal beliefs play in a course of representation? Through directed supervision of their externships, as well as participation in weekly seminars, students will evaluate such questions in the context of their practical experience. Students are required to write weekly reflection papers of 2 to 3 pages. Elements used in grading: Attendance, class participation, weekly reflection papers and final reflection paper.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW881 SEM
-DTSTART;TZID=America/Los_Angeles:20180108T100000
-CREATED:20170927T175752
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T120000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180108T090000
+CREATED:20180107T132148
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T110000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

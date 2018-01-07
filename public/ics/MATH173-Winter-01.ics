@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T102000
-LAST-MODIFIED:20170927T175837
-UID:explore_coursesccfb03fe-05be-4dc6-99db-9b6fd8e9bd37
-DTSTAMP:20170927T175837
+LAST-MODIFIED:20180107T132316
+UID:explore_coursesf484cf86-c977-483d-9588-fb827efec95e
+DTSTAMP:20180107T132316
 LOCATION:380-381U
 DESCRIPTION:A rigorous introduction to PDE accessible to advanced undergraduates.  Elliptic, parabolic, and hyperbolic equations in many space dimensions including basic properties of solutions such as maximum principles, causality, and conservation laws. Methods include the Fourier transform as well as more classical methods. The Lebesgue integral will be used throughout, but a summary of its properties will be provided to make the course accessible to students who have not had 172 or 205A. In years when Math 173 is not offered, Math 220 is a recommended alternative (with similar content but a different emphasis). Prerequisite: 171 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH173 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T093000
-CREATED:20170927T175837
+CREATED:20180107T132316
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

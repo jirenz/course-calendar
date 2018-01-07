@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180404T162000
-LAST-MODIFIED:20170927T175829
-UID:explore_coursesc70fd2c4-b24e-4cc4-b1a3-2ea13c40840e
-DTSTAMP:20170927T175829
+DTEND;TZID=America/Los_Angeles:20180405T162000
+LAST-MODIFIED:20180107T132259
+UID:explore_coursese9709fe0-9bd8-4b4d-8933-23b2487411f7
+DTSTAMP:20180107T132259
 LOCATION:Bolivar House
 DESCRIPTION:In a long sweep from the late eighteenth century to today, this seminar explores how race, ethnicity and the environment intersect in Latin American history, with emphasis on Colombia. It will inspect the meaning of the concepts of race and ethnicity and examine how the histories of black and indigenous peoples are better understood by taking the environment --both materially and symbolically-- into account. We will read a variety scholarly works, as well as primary sources.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY278D COL
-DTSTART;TZID=America/Los_Angeles:20180404T133000
-CREATED:20170927T175829
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180405T133000
+CREATED:20180107T132259
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

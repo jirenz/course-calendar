@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T102000
-LAST-MODIFIED:20170927T175853
-UID:explore_courses4d603521-ae4e-4eb2-88dc-1496f4edf39c
-DTSTAMP:20170927T175853
+LAST-MODIFIED:20180107T132355
+UID:explore_courses19447c0a-2349-43b3-87e3-9295abbda537
+DTSTAMP:20180107T132355
 LOCATION:Gates B1
 DESCRIPTION:Statistical tools for modern data analysis. Topics include regression and prediction, elements of the analysis of variance, bootstrap, and cross-validation. Emphasis is on conceptual rather than theoretical understanding. Applications to social/biological sciences. Student assignments/projects require use of the software package R. Recommended: 60, 110, or 141.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS191 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T093000
-CREATED:20170927T175853
+CREATED:20180107T132355
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

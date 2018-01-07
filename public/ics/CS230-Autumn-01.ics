@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T125000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses3d8ec4bd-cec9-4922-a7f8-efb183b7504f
-DTSTAMP:20170927T175958
-LOCATION:STLC118
+LAST-MODIFIED:20180107T132519
+UID:explore_courses71ae8a0e-5d79-4c70-bc02-02a3bf3b88a2
+DTSTAMP:20180107T132519
+LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Deep Learning is one of the most highly sought after skills in AI. We will help you become good at Deep Learning. In this course, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach. AI is transforming multiple industries. After this course, you will likely find creative ways to apply it to your work. This class is taught in the flipped-classroom format. You will watch videos and complete in-depth programming assignments and online quizzes at home, then come in to class for advanced discussions and work on projects. This class will culminate in an open-ended final project, which the teaching team will help you on. Prerequisites: Familiarity with programming in Python and Linear Algebra (matrix / vector multiplications). CS 229 may be taken concurrently.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS230 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T113000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T125000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

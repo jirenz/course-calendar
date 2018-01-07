@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T132000
-LAST-MODIFIED:20170927T175854
-UID:explore_courses0f2a8188-6029-45c0-96cc-f194eefc39ed
-DTSTAMP:20170927T175854
+LAST-MODIFIED:20180107T132356
+UID:explore_coursesda154c2a-22e3-45c7-84ab-b69230a00291
+DTSTAMP:20180107T132356
 LOCATION:460-126
 DESCRIPTION:A mixture of public lectures of interest to Symbolic Systems students (the Symbolic Systems Forum) and student-led meetings to discuss research in Symbolic Systems. Can be repeated for credit. Open to both undergraduates and Master's students.nFirst meeting is the second Monday of the quarter
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SYMSYS280 WKS
 DTSTART;TZID=America/Los_Angeles:20180108T123000
-CREATED:20170927T175854
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20170927T175958
-UID:explore_coursescd84be91-8f5e-4dd0-ab9a-1872ff268ff6
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_courses14f70917-1d66-4bb5-b02d-134ffecaa181
+DTSTAMP:20180107T132519
 LOCATION:Gates B3
 DESCRIPTION:Spawned by rapid advances in optical fabrication and digital processing power, a new generation of imaging technology is emerging: computational cameras at the convergence of applied mathematics, optics, and high-performance computing. Similar trends are observed for modern displays pushing the boundaries of resolution, contrast, 3D capabilities, and immersive experiences through the co-design of optics, electronics, and computation. This course serves as an introduction to the emerging field of computational imaging and displays. Students will learn to master bits and photons.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS448I LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180112T132000
-LAST-MODIFIED:20170927T175843
-UID:explore_courses1904961a-3f78-4bd9-9e71-4790d74263e9
-DTSTAMP:20170927T175843
+LAST-MODIFIED:20180107T132332
+UID:explore_courses241fe877-fa8b-44c9-8070-0fc4d8a61479
+DTSTAMP:20180107T132332
 LOCATION:20-21B
-DESCRIPTION:Weekly meeting of the editorial board of <i>The Dualist,</i> a national journal of undergraduate work in philosophy. Open to all undergraduates. May be taken 1-3 quarters. (AU) (Potochnik, Yap)
+DESCRIPTION:Weekly meeting of the editorial board of <i>The Dualist,</i> a national journal of undergraduate work in philosophy. Open to all undergraduates. May be repeated.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL198 ACT
 DTSTART;TZID=America/Los_Angeles:20180112T123000
-CREATED:20170927T175843
+CREATED:20180107T132332
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

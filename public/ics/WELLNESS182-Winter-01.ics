@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180110T192000
-LAST-MODIFIED:20170927T175934
-UID:explore_coursesd7e8a35a-0a45-445d-b3b1-1fbe8b0db511
-DTSTAMP:20170927T175934
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20180107T132448
+UID:explore_courses53b50134-d11d-4880-a4bb-cdd5b4abc97d
+DTSTAMP:20180107T132448
+LOCATION:ArrillagaOutdoorEducRecCtr103B
 DESCRIPTION:Explore the foundations of contemplation, mindfulness, and yoga as they are taught and experienced in educational and leadership settings. As a future educator or leader, learn to instruct basic contemplative, mindfulness, and yoga practices as resources that both increase self-awareness, emotional regulation, and self-care, as well as practices that promote personal, professional, and contemplative development. Topics include the physiological, neurobiological, psychological, social, and philosophical bases of contemplation, mindfulness, and yoga in educational and leadership contexts. The course requires an interest in and dedication to developing one's own practice in order to authentically and appropriately teach the concepts and practices to others.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:WELLNESS182 SEM
-DTSTART;TZID=America/Los_Angeles:20180110T180000
-CREATED:20170927T175934
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T192000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180108T150000
+CREATED:20180107T132448
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

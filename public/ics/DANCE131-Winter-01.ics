@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20170927T175813
-UID:explore_courses1b4c46ff-3e7d-48d6-bf8e-7e4c23f7fb8f
-DTSTAMP:20170927T175813
+DTEND;TZID=America/Los_Angeles:20180108T125000
+LAST-MODIFIED:20180107T132232
+UID:explore_courses2dad69a3-7c9f-4e69-bbc6-492b507c0366
+DTSTAMP:20180107T132232
 LOCATION:ROBLEG115
 DESCRIPTION:Structured studio practice reviewing the basics of ballet technique including posture, placement, the foundation steps and ballet terms, and progressing to more complex positions and combination of steps. Emphasis is placed on improving forms, developing coordination and connectivity, securing balance, increasing strength, flexibility, sense of lines, and sensitivity to rhythm and music.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DANCE131 PRA
-DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20170927T175813
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T113000
+CREATED:20180107T132232
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T125000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20170927T175859
-UID:explore_courses20c91fab-0919-4501-9ef1-e8112115eae5
-DTSTAMP:20170927T175859
+LAST-MODIFIED:20180107T132403
+UID:explore_courses818be156-1277-49fe-9bd1-0ef0f9c3d723
+DTSTAMP:20180107T132403
 LOCATION:Gates B3
 DESCRIPTION:The widespread adoption of electronic health records (EHRs) has created a new source of &iquest;big data&iquest;&iquest;namely, the record of routine clinical practice&iquest;as a by-product of care. This graduate class will teach you how to use EHRs and other patient data to discover new clinical knowledge and improve healthcare. Upon completing this course, you should be able to: differentiate between and give examples of categories of research questions and the study designs used to address them, describe common healthcare data sources and their relative advantages and limitations, extract and transform various kinds of clinical data to create analysis-ready datasets, design and execute an analysis of a clinical dataset based on your familiarity with the workings, applicability, and limitations of common statistical methods, evaluate and criticize published research using your knowledge of 1-4 to generate new research ideas and separate hype from reality. Prerequisites: CS 106A or equivalent, STATS 60 or equivalent. Recommended: STATS 216, CS 145, STATS 305
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOMEDIN215 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20170927T175859
+CREATED:20180107T132403
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

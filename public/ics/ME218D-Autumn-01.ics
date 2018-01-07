@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T175000
-LAST-MODIFIED:20170927T180006
-UID:explore_coursesd4cf2b85-b8d5-413e-953f-78d83780465e
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132530
+UID:explore_courses5934aa62-9b8a-4786-9031-cd0cc6f1b793
+DTSTAMP:20180107T132530
 LOCATION:550-126
 DESCRIPTION:Lecture/lab. Industrially sponsored project is the culmination of the Smart Product Design sequence. Student teams take on an industrial project requiring application and extension of knowledge gained in the prior three quarters, including prototyping of a final solution with hardware, software, and professional documentation and presentation. Lectures extend the students' knowledge of electronic and software design, and electronic manufacturing techniques. Topics: chip level design of microprocessor systems, real time operating systems, alternate microprocessor architectures, and PCB layout and fabrication. Prerequisite: 218C.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME218D LEC
 DTSTART;TZID=America/Los_Angeles:20170926T163000
-CREATED:20170927T180006
+CREATED:20180107T132530
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

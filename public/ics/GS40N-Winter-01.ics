@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20170927T175944
-UID:explore_courses9d361f1d-65c5-4795-b202-dab8954d1d68
-DTSTAMP:20170927T175944
-LOCATION:Green Earth Sciences131
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20180107T132500
+UID:explore_courses0c81d6b7-93f3-49b5-a64e-373d9f7385ef
+DTSTAMP:20180107T132500
+LOCATION:320-241
 DESCRIPTION:Preference to freshmen. Topics include the history of diamonds as gemstones, prospecting and mining, and their often tragic politics. How diamond samples provide clues for geologists to understand the Earth's deep interior and the origins of the solar system. Diamond's unique materials properties and efforts in synthesizing diamonds.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GS40N ISF
-DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20170927T175944
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20180107T132500
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

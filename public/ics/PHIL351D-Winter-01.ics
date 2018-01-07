@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180112T122000
-LAST-MODIFIED:20170927T175843
-UID:explore_coursesd8fe89d3-0918-4c00-b37a-2f6eef16b814
-DTSTAMP:20170927T175843
-LOCATION:110-101
+DTEND;TZID=America/Los_Angeles:20180111T115000
+LAST-MODIFIED:20180107T132332
+UID:explore_courses00b931dc-c342-42db-8eb3-30452fa5d3a9
+DTSTAMP:20180107T132332
+LOCATION:460-301
 DESCRIPTION:What does it mean to assign numbers to beliefs (as Bayesian probability theorists do), desires (as economists and philosophers who discuss utilities do), or perceptions (as researchers in psychometrics often do)?  What is the relationship between the numbers and the underlying reality they purport to measure?  Measurement theory helps answer these questions using representation theorems, which link structural features of numerical scales (such as probabilities, utilities, or degrees of loudness) to structural features of relations (such as comparative belief, preference, or judgments that one sound is louder than another).nThis course will introduce students to measurement theory, and its applications in psychophysics and decision theory.  n2 unit option only for Philosophy PhD students who are past their second year.nPrerequisites: Undergraduates wishing to take this course must have previously taken PHIL150, and may only enroll with permission from the instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL351D SEM
-DTSTART;TZID=America/Los_Angeles:20180112T093000
-CREATED:20170927T175843
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180111T090000
+CREATED:20180107T132332
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T182000
-LAST-MODIFIED:20170927T175958
-UID:explore_coursesfb666a2e-afa5-407d-bddb-4a5463d9b9c2
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_coursesef78cc70-26eb-4754-aee8-61a08d3ebaec
+DTSTAMP:20180107T132519
 LOCATION:420-041
 DESCRIPTION:Students lead a discussion section of 106A while learning how to teach a programming language at the introductory level. Focus is on teaching skills, techniques, and course specifics. Application and interview required; see http://cs198.stanford.edu.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS198 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T163000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T102000
-LAST-MODIFIED:20170927T180001
-UID:explore_coursesbe3f334a-597a-46b6-b8c7-9da089d20cbd
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_coursesc5f4d221-754d-4dec-94cf-5c70b6fbb13b
+DTSTAMP:20180107T132523
 LOCATION:460-334
 DESCRIPTION:Characteristics of wireless communication: multipath, noise, and interference. Communications techniques: spread-spectrum, CDMA, and OFDM. IEEE 802.11 physical layer specifications: FHSS, DSSS, IEEE 802.11b (CCK), and 802.11a/g (OFDM). IEEE 802.11 media access control protocols: carrier sense multiple access with collision avoidance (CSMA/CA), point coordination function (PCF), IEEE802.11e for differentiated services. IEEE 802.11 network architecture: ad hoc and infrastructure modes, access point functionality. Management functions: synchronization, power management and association. IEEE 802.11s Mesh Networks. IEEE 802.16 (WiMAX) network architecture and protocols: Physical Layer (OFDMA) and Media Access Control Layer. Current research papers in the open literature. Prerequisite: EE 284 or CS 244A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE384C LEC
 DTSTART;TZID=America/Los_Angeles:20180403T090000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

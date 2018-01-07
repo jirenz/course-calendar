@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20170927T175853
-UID:explore_courses0f4bcbf7-57bc-442a-be84-84fb3b361567
-DTSTAMP:20170927T175853
+LAST-MODIFIED:20180107T132355
+UID:explore_coursesdf62de90-c6e7-4280-9348-b3bcf20ac38b
+DTSTAMP:20180107T132355
 LOCATION:200-002
 DESCRIPTION:Introductory statistical methods for biological data: describing data (numerical and graphical summaries); introduction to probability; and statistical inference (hypothesis tests and confidence intervals). Intermediate statistical methods: comparing groups (analysis of variance); analyzing associations (linear and logistic regression); and methods for categorical data (contingency tables and odds ratio). Course content integrated with statistical computing in R.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS141 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20170927T175853
+CREATED:20180107T132355
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

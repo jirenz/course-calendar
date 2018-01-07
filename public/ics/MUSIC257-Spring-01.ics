@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T195000
-LAST-MODIFIED:20170927T175841
-UID:explore_courses55983bb2-0e3d-4db7-98fe-3accf2d1d9ff
-DTSTAMP:20170927T175841
-LOCATION:Knoll217
-DESCRIPTION:What changes in a musician's brain after hours and years of daily practice? How do skills that make a great violinist transfer to other abilities? Can directed neuroplasticity be used to target skill learning? This course will include fundamentals of psychoacoustics and auditory neuroscience. Focus will be development of video games that use perceptually motivated tasks to drive neural change. Emphasis will be on music, linguistic, and acoustic based skills. Programming experience is highly recommended, but not required.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:MUSIC257 LEC
-DTSTART;TZID=America/Los_Angeles:20180403T180000
-CREATED:20170927T175841
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T195000;BYDAY=TU
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180406T122000
-LAST-MODIFIED:20170927T175841
-UID:explore_courses65f46cc7-85fa-4f17-bb11-32a14f749919
-DTSTAMP:20170927T175841
+LAST-MODIFIED:20180107T132323
+UID:explore_courses58a6941f-cd67-4bf1-88ba-bc5447b95cf1
+DTSTAMP:20180107T132323
 LOCATION:Knoll217
 DESCRIPTION:What changes in a musician's brain after hours and years of daily practice? How do skills that make a great violinist transfer to other abilities? Can directed neuroplasticity be used to target skill learning? This course will include fundamentals of psychoacoustics and auditory neuroscience. Focus will be development of video games that use perceptually motivated tasks to drive neural change. Emphasis will be on music, linguistic, and acoustic based skills. Programming experience is highly recommended, but not required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC257 LEC
 DTSTART;TZID=America/Los_Angeles:20180406T103000
-CREATED:20170927T175841
+CREATED:20180107T132323
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T195000
+LAST-MODIFIED:20180107T132323
+UID:explore_coursesf8a7eb2b-3ebf-4167-b267-ccdb003b1625
+DTSTAMP:20180107T132323
+LOCATION:Knoll217
+DESCRIPTION:What changes in a musician's brain after hours and years of daily practice? How do skills that make a great violinist transfer to other abilities? Can directed neuroplasticity be used to target skill learning? This course will include fundamentals of psychoacoustics and auditory neuroscience. Focus will be development of video games that use perceptually motivated tasks to drive neural change. Emphasis will be on music, linguistic, and acoustic based skills. Programming experience is highly recommended, but not required.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC257 LEC
+DTSTART;TZID=America/Los_Angeles:20180403T180000
+CREATED:20180107T132323
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T195000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180111T145000
-LAST-MODIFIED:20170927T175851
-UID:explore_coursesd5f55d70-eab4-4138-8d41-82f7626607fd
-DTSTAMP:20170927T175851
+LAST-MODIFIED:20180107T132351
+UID:explore_courses286b98ad-8401-4c68-8a34-5afd3519f3d0
+DTSTAMP:20180107T132351
 LOCATION:McMurtry Building 102, Oshman
 DESCRIPTION:The Sociology Colloquium is a semimonthly seminar held throughout the academic year, in which distinguished scholars lecture about their cutting-edge research findings.  Sociology Students must enroll or credit and it is required for all first and second year Sociology students. May be repeat for credit start 8/1/2016
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC396 COL
 DTSTART;TZID=America/Los_Angeles:20180111T120000
-CREATED:20170927T175851
+CREATED:20180107T132351
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

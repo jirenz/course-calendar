@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T122000
-LAST-MODIFIED:20170927T175837
-UID:explore_courses59a996d9-5529-46aa-a050-e010acf43a2a
-DTSTAMP:20170927T175837
-LOCATION:200-217
+LAST-MODIFIED:20180107T132315
+UID:explore_courses6b84cc8d-d7b8-42eb-bc80-732807064f33
+DTSTAMP:20180107T132315
+LOCATION:Herrin T185
 DESCRIPTION:Review of limit rules.  Sequences, functions, limits at infinity, and comparison of growth of functions.  Review of integration rules, integrating rational functions, and improper integrals.  Infinite series, special examples, convergence and divergence tests (limit comparison and alternating series tests).  Power series and interval of convergence, Taylor polynomials, Taylor series and applications.  Prerequisite:  Math 20 or equivalent. If you have not previously taken a calculus course at Stanford then you must have taken the math placement diagnostic (offered through the Math Department website) in order to register for this course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH21 DIS
 DTSTART;TZID=America/Los_Angeles:20170926T113000
-CREATED:20170927T175837
+CREATED:20180107T132315
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

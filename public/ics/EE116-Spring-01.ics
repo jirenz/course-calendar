@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses68c00eb2-c433-4d2a-89a2-9a2fba52b348
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_courses1cce25b1-65ef-4368-82cf-202aad6bb103
+DTSTAMP:20180107T132523
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:The fundamental operation of semiconductor devices and overview of applications. The physical principles of semiconductors, both silicon and compound materials; operating principles and device equations for junction devices (diodes, bipolar transistor, photo-detectors). Introduction to quantum effects and band theory of solids. Recommended corequisites: EE 65 and EE 101B. Non-EE majors are encouraged to take ENGR 40 before EE 116.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE116 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

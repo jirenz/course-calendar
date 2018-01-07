@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T133000
-LAST-MODIFIED:20170927T175841
-UID:explore_courses8cbe0f21-f7ee-42b4-a257-5d21c0df6095
-DTSTAMP:20170927T175841
-LOCATION:BRH
-DESCRIPTION:Select 24-voice choral ensemble, specializing in virtuoso choral repertoire from all periods of Western art music. Annual touring commitment required. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:MUSIC165 PRC
-DTSTART;TZID=America/Los_Angeles:20180402T123000
-CREATED:20170927T175841
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T133000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180405T213000
-LAST-MODIFIED:20170927T175841
-UID:explore_courses50d6766c-fd5f-4057-8ef9-ef963337d506
-DTSTAMP:20170927T175841
+LAST-MODIFIED:20180107T132322
+UID:explore_coursese084bfa7-8ecd-4ca9-9494-72adfbb4a7b7
+DTSTAMP:20180107T132322
 LOCATION:BRH
 DESCRIPTION:Select 24-voice choral ensemble, specializing in virtuoso choral repertoire from all periods of Western art music. Annual touring commitment required. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC165 PRC
 DTSTART;TZID=America/Los_Angeles:20180405T190000
-CREATED:20170927T175841
+CREATED:20180107T132322
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T213000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T133000
+LAST-MODIFIED:20180107T132322
+UID:explore_coursesde335abb-9e8f-49b6-aa79-d91a9b617122
+DTSTAMP:20180107T132322
+LOCATION:BRH
+DESCRIPTION:Select 24-voice choral ensemble, specializing in virtuoso choral repertoire from all periods of Western art music. Annual touring commitment required. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC165 PRC
+DTSTART;TZID=America/Los_Angeles:20180402T123000
+CREATED:20180107T132322
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T133000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

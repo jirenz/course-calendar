@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T112000
-LAST-MODIFIED:20170927T175819
-UID:explore_courses94faf506-c943-4220-9c87-e0b2345c2467
-DTSTAMP:20170927T175819
+LAST-MODIFIED:20180107T132239
+UID:explore_coursesbdb6b669-887d-47e9-8b3b-6b1da95d4a2d
+DTSTAMP:20180107T132239
 LOCATION:Littlefield 103
 DESCRIPTION:Rigorous introduction to game theory and applications. Topics include solution concepts for static and dynamic games of complete and incomplete information, signaling games, repeated games, bargaining, and elements of cooperative game theory.  Applications mainly from economics, but also political science, biology, and computer science. Prerequisites: Experience with abstract mathematics and willingness to work hard. No background in economics required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON180 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T093000
-CREATED:20170927T175819
+CREATED:20180107T132239
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

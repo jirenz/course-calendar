@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20170927T175933
-UID:explore_courses2392c740-3a71-4773-8146-82647104c288
-DTSTAMP:20170927T175933
-LOCATION:50-51B
-DESCRIPTION:Preference to sophomores. The inauguration of Nelson Mandela as president in May 1994 marked the end of an era and a way of life for South Africa. The changes have been dramatic, yet the legacies of racism and inequality persist. Focus: overlapping and sharply contested transitions. Who advocates and opposes change? Why? What are their historical and social roots and strategies? How do people reconstruct their society? Historical and current sources, including films, novels, and the Internet.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:HISTORY48Q ISS
-DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20170927T175933
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T132000
-LAST-MODIFIED:20170927T175933
-UID:explore_coursesd133a33c-4d1b-41e0-9e5b-800da0c78863
-DTSTAMP:20170927T175933
+LAST-MODIFIED:20180107T132259
+UID:explore_coursesf6f4fb4b-dcf5-4f75-a154-27a8eba7247f
+DTSTAMP:20180107T132259
 LOCATION:Encina West 101
 DESCRIPTION:Preference to sophomores. The inauguration of Nelson Mandela as president in May 1994 marked the end of an era and a way of life for South Africa. The changes have been dramatic, yet the legacies of racism and inequality persist. Focus: overlapping and sharply contested transitions. Who advocates and opposes change? Why? What are their historical and social roots and strategies? How do people reconstruct their society? Historical and current sources, including films, novels, and the Internet.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY48Q ISS
 DTSTART;TZID=America/Los_Angeles:20180108T123000
-CREATED:20170927T175933
+CREATED:20180107T132259
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20180107T132259
+UID:explore_courses4731507d-94d1-4b92-806e-5cdce35e9c99
+DTSTAMP:20180107T132259
+LOCATION:Encina West 202
+DESCRIPTION:Preference to sophomores. The inauguration of Nelson Mandela as president in May 1994 marked the end of an era and a way of life for South Africa. The changes have been dramatic, yet the legacies of racism and inequality persist. Focus: overlapping and sharply contested transitions. Who advocates and opposes change? Why? What are their historical and social roots and strategies? How do people reconstruct their society? Historical and current sources, including films, novels, and the Internet.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY48Q ISS
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20180107T132259
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

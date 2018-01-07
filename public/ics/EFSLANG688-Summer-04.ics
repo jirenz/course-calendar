@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180625T152000
-LAST-MODIFIED:20170927T175821
-UID:explore_courses83d5299e-63d0-48ca-8238-6df06e2f30f3
-DTSTAMP:20170927T175821
-LOCATION:420-050
-DESCRIPTION:Goal is to prepare incoming international graduate students for full-time study. Academic orientation and instruction in academic writing, listening, discussion, oral presentation, and spoken usage. Enrollment limited to 14. Course may be repeated once.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:EFSLANG688 LNG
-DTSTART;TZID=America/Los_Angeles:20180625T133000
-CREATED:20170927T175821
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T152000;BYDAY=MO,TU,TH,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180625T115000
-LAST-MODIFIED:20170927T175821
-UID:explore_courses01bc068d-8e6d-4151-8622-1bfaa9b21ae1
-DTSTAMP:20170927T175821
+LAST-MODIFIED:20180107T132242
+UID:explore_coursesfe441d15-7f6d-40df-846f-042b2e50cf7a
+DTSTAMP:20180107T132242
 LOCATION:80-115
 DESCRIPTION:Goal is to prepare incoming international graduate students for full-time study. Academic orientation and instruction in academic writing, listening, discussion, oral presentation, and spoken usage. Enrollment limited to 14. Course may be repeated once.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EFSLANG688 LNG
 DTSTART;TZID=America/Los_Angeles:20180625T090000
-CREATED:20170927T175821
+CREATED:20180107T132242
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T115000;BYDAY=MO,TU,TH,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180625T152000
+LAST-MODIFIED:20180107T132242
+UID:explore_courses75a0cf7e-23e6-4436-929d-31f5e5964f05
+DTSTAMP:20180107T132242
+LOCATION:420-050
+DESCRIPTION:Goal is to prepare incoming international graduate students for full-time study. Academic orientation and instruction in academic writing, listening, discussion, oral presentation, and spoken usage. Enrollment limited to 14. Course may be repeated once.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EFSLANG688 LNG
+DTSTART;TZID=America/Los_Angeles:20180625T133000
+CREATED:20180107T132242
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T152000;BYDAY=MO,TU,TH,FR
 END:VEVENT
 END:VCALENDAR

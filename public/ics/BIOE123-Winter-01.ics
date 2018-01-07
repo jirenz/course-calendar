@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20170927T175948
-UID:explore_courses539f21fc-545a-4199-b3fa-1fd98b598761
-DTSTAMP:20170927T175948
+LAST-MODIFIED:20180107T132506
+UID:explore_coursesab71f1a8-2727-44a0-825d-e7872665f164
+DTSTAMP:20180107T132506
 LOCATION:
 DESCRIPTION:The Bioengineering System Prototyping Laboratory is a fast-paced, team-based system engineering experience, in which teams of 2-3 students design and build a fermenter that meets a set of common requirements along with a set of unique team-determined requirements. Students learn-by-doing hands-on skills in electronics and mechanical design and fabrication.  Teams also develop process skills and an engineering mindset by aligning specifications with requirements, developing output metrics and measuring performance, and creating project proposals and plans. The course culminates in demonstration of a fully functioning fermenter that meets the teams' self-determined metrics. n nLearning goals: 1) Design, fabricate, integrate, and characterize practical electronic and mechanical hardware systems that meet clear requirements in the context of Bioengineering (i.e., build something that works).  2) Use prototyping tools, techniques, and instruments, including: CAD, 3D printing, laser cutting, microcontrollers, and oscilloscopes.  3) Create quantitative system specifications and test measurement plans to demonstrate that a design meets user requirements.  4) Communicate design elements, choices, specifications, and performance through design reviews and written reports.  5) Collaborate as a team member on a complex system design project (e.g., a fermenter). n nLimited enrollment, with priority for Bioengineering undergraduates. Prerequisites:  Physics 43, or equivalent. Experience with Matlab and/or Python is recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE123 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20170927T175948
+CREATED:20180107T132506
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

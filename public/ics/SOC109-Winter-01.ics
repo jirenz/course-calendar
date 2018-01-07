@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180110T145000
-LAST-MODIFIED:20170927T175850
-UID:explore_courses427d5604-22fb-49f3-a25d-d01d5cc34deb
-DTSTAMP:20170927T175850
+DTEND;TZID=America/Los_Angeles:20180109T102000
+LAST-MODIFIED:20180107T132350
+UID:explore_courses0a7818f8-b4cc-438e-a5d6-460642e4a6a4
+DTSTAMP:20180107T132350
 LOCATION:120-59
 DESCRIPTION:Drawing from theories and research in race/ethnicity, social psychology, inequality, and demography, and focusing on the U.S., this course examines how racial hierarchies affect immigrants&iquest; socioeconomic mobility and ethnic identities, and how immigrants and their descendants contribute to the reconstruction of racial and ethnic boundaries. Topics include: theories of international migration and assimilation; immigration and the labor market; racial and ethnic identities; immigrants and interracial relations; second-generation mobility and identities; transnationalism.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC109 SEM
-DTSTART;TZID=America/Los_Angeles:20180110T133000
-CREATED:20170927T175850
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=WE,FR
+DTSTART;TZID=America/Los_Angeles:20180109T090000
+CREATED:20180107T132350
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

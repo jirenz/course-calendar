@@ -23,44 +23,44 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180111T175000
-LAST-MODIFIED:20170927T175803
-UID:explore_coursesb2646f6e-489a-4cbf-923d-b67819a73d8a
-DTSTAMP:20170927T175803
+LAST-MODIFIED:20180107T132219
+UID:explore_courses0c78fc1a-86ab-4e5d-ad94-9e451850e4ec
+DTSTAMP:20180107T132219
 LOCATION:
 DESCRIPTION:Cell mechanobiology topics including cell structure, mechanical models, and chemo-mechanical signaling. Review and apply methods for controlling and analyzing the biomechanics of cells using traction force microscopy, AFM, micropatterning and cell stimulation. Practice and theory for the design and application of methods for quantitative cell mechanobiology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOPHYS342A LAB
 DTSTART;TZID=America/Los_Angeles:20180111T163000
-CREATED:20170927T175803
+CREATED:20180107T132219
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TH
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20170927T175803
-UID:explore_courses1b5cd51e-84bc-4895-83b4-857a33be4732
-DTSTAMP:20170927T175803
-LOCATION:
-DESCRIPTION:Cell mechanobiology topics including cell structure, mechanical models, and chemo-mechanical signaling. Review and apply methods for controlling and analyzing the biomechanics of cells using traction force microscopy, AFM, micropatterning and cell stimulation. Practice and theory for the design and application of methods for quantitative cell mechanobiology.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:BIOPHYS342A LAB
-DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20170927T175803
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180111T162000
-LAST-MODIFIED:20170927T175803
-UID:explore_courses94a65df4-d59f-47c7-bc58-cf53ee9152a5
-DTSTAMP:20170927T175803
+LAST-MODIFIED:20180107T132219
+UID:explore_courses3a0cc3b4-e0ba-4f60-affe-8c1416c946ba
+DTSTAMP:20180107T132219
 LOCATION:
 DESCRIPTION:Cell mechanobiology topics including cell structure, mechanical models, and chemo-mechanical signaling. Review and apply methods for controlling and analyzing the biomechanics of cells using traction force microscopy, AFM, micropatterning and cell stimulation. Practice and theory for the design and application of methods for quantitative cell mechanobiology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOPHYS342A LAB
 DTSTART;TZID=America/Los_Angeles:20180111T133000
-CREATED:20170927T175803
+CREATED:20180107T132219
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20180107T132219
+UID:explore_coursesf90fa4a8-2633-4bda-8c4b-73c98b9a6c6c
+DTSTAMP:20180107T132219
+LOCATION:
+DESCRIPTION:Cell mechanobiology topics including cell structure, mechanical models, and chemo-mechanical signaling. Review and apply methods for controlling and analyzing the biomechanics of cells using traction force microscopy, AFM, micropatterning and cell stimulation. Practice and theory for the design and application of methods for quantitative cell mechanobiology.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOPHYS342A LAB
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20180107T132219
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

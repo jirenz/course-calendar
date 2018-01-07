@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180129T175000
+LAST-MODIFIED:20180107T132136
+UID:explore_coursesf22c7fa8-f60f-49f0-ad52-2205e3d2d9d9
+DTSTAMP:20180107T132136
+LOCATION:GSB Faculty West 104
+DESCRIPTION:For aspiring entrepreneurs who don't have a burning idea or desire to start a company from scratch, acquiring a small business can provide a direct route to running and growing a business. This class will explore entrepreneurial acquisition (EA).  As the course covers topics such as what makes a good industry, raising capital, how to source deals, dealing with investors, due diligence, and negotiation, the course is also applicable to those interested in private equity, venture capital, start-ups, and general management.  The class relies heavily on the case method, and each class includes guests (often the case protagonists) who bring practical and current experience to the classroom.  The two group projects are intended to be highly practical, simulating real-world situations.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STRAMGT543 CAS
+DTSTART;TZID=America/Los_Angeles:20180129T150000
+CREATED:20180107T132136
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180202T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180212T175000
-LAST-MODIFIED:20170927T175745
-UID:explore_courses74c9d0cd-021f-4a2c-93e6-c23a829ffb3b
-DTSTAMP:20170927T175745
+LAST-MODIFIED:20180107T132136
+UID:explore_coursescb6558f0-c684-4fa6-b3a1-cea15a4737d6
+DTSTAMP:20180107T132136
 LOCATION:
 DESCRIPTION:For aspiring entrepreneurs who don't have a burning idea or desire to start a company from scratch, acquiring a small business can provide a direct route to running and growing a business. This class will explore entrepreneurial acquisition (EA).  As the course covers topics such as what makes a good industry, raising capital, how to source deals, dealing with investors, due diligence, and negotiation, the course is also applicable to those interested in private equity, venture capital, start-ups, and general management.  The class relies heavily on the case method, and each class includes guests (often the case protagonists) who bring practical and current experience to the classroom.  The two group projects are intended to be highly practical, simulating real-world situations.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STRAMGT543 CAS
 DTSTART;TZID=America/Los_Angeles:20180212T150000
-CREATED:20170927T175745
+CREATED:20180107T132136
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180216T175000;BYDAY=MO,WE,FR
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180129T175000
-LAST-MODIFIED:20170927T175745
-UID:explore_coursesce78057f-60cb-46e6-847a-4e019c69e70d
-DTSTAMP:20170927T175745
-LOCATION:
-DESCRIPTION:For aspiring entrepreneurs who don't have a burning idea or desire to start a company from scratch, acquiring a small business can provide a direct route to running and growing a business. This class will explore entrepreneurial acquisition (EA).  As the course covers topics such as what makes a good industry, raising capital, how to source deals, dealing with investors, due diligence, and negotiation, the course is also applicable to those interested in private equity, venture capital, start-ups, and general management.  The class relies heavily on the case method, and each class includes guests (often the case protagonists) who bring practical and current experience to the classroom.  The two group projects are intended to be highly practical, simulating real-world situations.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:STRAMGT543 CAS
-DTSTART;TZID=America/Los_Angeles:20180129T150000
-CREATED:20170927T175745
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180202T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

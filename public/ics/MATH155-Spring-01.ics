@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T102000
-LAST-MODIFIED:20170927T175837
-UID:explore_courses9c1f1ec5-2390-4506-967f-e69825fa33bd
-DTSTAMP:20170927T175837
+LAST-MODIFIED:20180107T132316
+UID:explore_coursesf4ebee67-175c-4e8c-9137-659fe21b1e7d
+DTSTAMP:20180107T132316
 LOCATION:50-52H
 DESCRIPTION:Topics in analytic number theory such as the distribution of prime numbers, the prime number theorem, twin primes and Goldbach's conjecture, the theory of quadratic forms, Dirichlet's class number formula, Dirichlet's theorem on primes in arithmetic progressions, and the fifteen theorem. Prerequisite: 152, or familiarity with the Euclidean algorithm, congruences, residue classes and reduced residue classes, primitive roots, and quadratic reciprocity.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH155 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T093000
-CREATED:20170927T175837
+CREATED:20180107T132316
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

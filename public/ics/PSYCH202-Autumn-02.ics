@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170928T115000
-LAST-MODIFIED:20170927T175847
-UID:explore_coursesbd074b2b-8729-49d8-9d82-01a4db63be2c
-DTSTAMP:20170927T175847
+LAST-MODIFIED:20180107T132341
+UID:explore_courses2d897cbc-671f-4b55-ac1a-3f80bbfb5e9b
+DTSTAMP:20180107T132341
 LOCATION:420-102
 DESCRIPTION:Graduate core course. The anatomy and physiology of the brain. Methods: electrical stimulation of the brain, neuroimaging, neuropsychology, psychophysics, single-cell neurophysiology, theory and computation. Neuronal pathways and mechanisms of attention, consciousness, emotion, language, memory, motor control, and vision. Prerequisite: For psychology graduate students, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH202 LEC
 DTSTART;TZID=America/Los_Angeles:20170928T103000
-CREATED:20170927T175847
+CREATED:20180107T132341
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

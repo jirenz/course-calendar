@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T145000
-LAST-MODIFIED:20170927T175947
-UID:explore_courses74edc205-efa6-4a24-8704-ee979d4b8668
-DTSTAMP:20170927T175947
-LOCATION:60-109
+LAST-MODIFIED:20180107T132504
+UID:explore_courses0e1d7565-4bae-49c5-ab27-40e8cf0c49f8
+DTSTAMP:20180107T132504
+LOCATION:Huang Engineering Center 18
 DESCRIPTION:Orbits of near-earth satellites and interplanetary probes; relative motion in orbit;  transfer and rendezvous; orbit determination; influence of earth's oblateness; sun and moon effects on earth satellites; decay of satellite orbits; invited lectures from industry. Prerequisite: ENGR 15 and familiarity with MatLab.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA279A LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20170927T175947
+CREATED:20180107T132504
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

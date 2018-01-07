@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180110T192000
-LAST-MODIFIED:20170927T175805
-UID:explore_courses864c8b42-c3b7-4e45-92b8-00f44329a16d
-DTSTAMP:20170927T175805
-LOCATION:Hewlett Teaching Center 200
-DESCRIPTION:Introduction to organic chemistry. Learn to relate three dimensional structure of organic molecules to their chemical and physical properties. Introduced to a variety of functional groups that exhibit patterns of reactivity and learn how to predict products of a reaction in the context of thermodynamics and kinetics. Two hour weekly lab section accompanies the course to introduce the techniques of separation and identification of organic compounds. Prerequisite: 31A,B, or 31X, or AP Chemistry score of 5.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:CHEM33 LEC
-DTSTART;TZID=America/Los_Angeles:20180110T180000
-CREATED:20170927T175805
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T192000;BYDAY=WE
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T142000
-LAST-MODIFIED:20170927T175805
-UID:explore_coursesff618d7a-472d-4822-8eab-a27fe638af6b
-DTSTAMP:20170927T175805
+LAST-MODIFIED:20180107T132221
+UID:explore_coursesab8a51da-ed2d-4353-b791-a4a87a91dde5
+DTSTAMP:20180107T132221
 LOCATION:STLC111
 DESCRIPTION:Introduction to organic chemistry. Learn to relate three dimensional structure of organic molecules to their chemical and physical properties. Introduced to a variety of functional groups that exhibit patterns of reactivity and learn how to predict products of a reaction in the context of thermodynamics and kinetics. Two hour weekly lab section accompanies the course to introduce the techniques of separation and identification of organic compounds. Prerequisite: 31A,B, or 31X, or AP Chemistry score of 5.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM33 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20170927T175805
+CREATED:20180107T132221
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T142000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T192000
+LAST-MODIFIED:20180107T132221
+UID:explore_courses76b95300-f368-4354-b54a-18daf2fd940e
+DTSTAMP:20180107T132221
+LOCATION:Hewlett Teaching Center 200
+DESCRIPTION:Introduction to organic chemistry. Learn to relate three dimensional structure of organic molecules to their chemical and physical properties. Introduced to a variety of functional groups that exhibit patterns of reactivity and learn how to predict products of a reaction in the context of thermodynamics and kinetics. Two hour weekly lab section accompanies the course to introduce the techniques of separation and identification of organic compounds. Prerequisite: 31A,B, or 31X, or AP Chemistry score of 5.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHEM33 LEC
+DTSTART;TZID=America/Los_Angeles:20180110T180000
+CREATED:20180107T132221
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T192000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

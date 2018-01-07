@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T175000
-LAST-MODIFIED:20170927T175958
-UID:explore_coursesc610ad20-75dd-46c6-a88c-d3100202750f
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_courses22341035-04d9-49ef-905c-7ac44cbd20e4
+DTSTAMP:20180107T132519
 LOCATION:
 DESCRIPTION:Recent research. Classic and new papers. Topics: virtual memory management, synchronization and communication, file systems, protection and security, operating system extension techniques, fault tolerance, and the history and experience of systems programming. Prerequisite: 140 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS240 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T163000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

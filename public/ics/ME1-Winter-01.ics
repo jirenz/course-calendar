@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20170927T180006
-UID:explore_coursescc1c4478-7020-4866-b311-eae899fe3460
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132530
+UID:explore_courses7e9f09cf-ba28-437e-a525-c30df1a3689f
+DTSTAMP:20180107T132530
 LOCATION:260-113
 DESCRIPTION:This course is intended to be the starting point for Mechanical Engineering majors.  It will cover the concepts, engineering methods, and common tools used by mechanical engineers while introducing the students to a few interesting devices.  We will discuss how each device was conceived, design challenges that arose, application of analytical tools to the design, and production methods.  Main class sections will include lectures, demonstrations, and in-class group exercises.  Lab sections will develop specific skills in freehand sketching and computational modeling of engineering systems.  Prerequisites: Physics: Mechanics, and first quarter Calculus.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME1 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20170927T180006
+CREATED:20180107T132530
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

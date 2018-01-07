@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T212000
-LAST-MODIFIED:20170927T175841
-UID:explore_coursesa03fb5b0-3326-4ca5-b9b0-5974ec4b10ec
-DTSTAMP:20170927T175841
-LOCATION:
-DESCRIPTION:40- to 50-member ensemble performing transcriptions of symphonic music, brass band music, and repertoire composed specifically for symphonic band.  One concert per quarter. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:MUSIC161A PRC
-DTSTART;TZID=America/Los_Angeles:20180109T190000
-CREATED:20170927T175841
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T212000;BYDAY=TU
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180111T182000
-LAST-MODIFIED:20170927T175841
-UID:explore_coursesc773354a-57fd-4834-99e0-e0ce69c34776
-DTSTAMP:20170927T175841
+LAST-MODIFIED:20180107T132322
+UID:explore_courseseae5e8ca-2009-4a87-b267-252eecc29d1f
+DTSTAMP:20180107T132322
 LOCATION:
 DESCRIPTION:40- to 50-member ensemble performing transcriptions of symphonic music, brass band music, and repertoire composed specifically for symphonic band.  One concert per quarter. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC161A PRC
 DTSTART;TZID=America/Los_Angeles:20180111T163000
-CREATED:20170927T175841
+CREATED:20180107T132322
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T212000
+LAST-MODIFIED:20180107T132322
+UID:explore_courses64201361-59a9-4790-a420-d88e889bdb14
+DTSTAMP:20180107T132322
+LOCATION:
+DESCRIPTION:40- to 50-member ensemble performing transcriptions of symphonic music, brass band music, and repertoire composed specifically for symphonic band.  One concert per quarter. May be repeated for credit a total of 14 times. Zero unit enrollment option available with instructor permission. See website: (http://music.stanford.edu) for policy and procedure.  By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC161A PRC
+DTSTART;TZID=America/Los_Angeles:20180109T190000
+CREATED:20180107T132322
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T212000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

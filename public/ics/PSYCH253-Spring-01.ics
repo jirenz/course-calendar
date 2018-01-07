@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T175000
-LAST-MODIFIED:20170927T175847
-UID:explore_courses57d90d1a-e439-4cf7-9b5f-aed257251713
-DTSTAMP:20170927T175847
+LAST-MODIFIED:20180107T132341
+UID:explore_courses5e6bb7e5-4aa3-41ce-b025-d187d5765810
+DTSTAMP:20180107T132341
 LOCATION:Littlefield 107
 DESCRIPTION:Introduction to high-dimensional data analysis and machine learning methods for use in the behavioral and neurosciences, including: supervised methods such as SVMs, linear and nonlinear regression and classifiers, and regularization techniques; statistical methods such as boostrapping, signal detection, factor analysis, and reliability theory; metrics for model/data comparison such as representational similarity analysis; and unsupervised methods such as clustering.  Students will learn theory as well as a programming framework for implementing all methods in practice.  Requirement: Psych 251 or programming background.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH253 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T163000
-CREATED:20170927T175847
+CREATED:20180107T132341
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

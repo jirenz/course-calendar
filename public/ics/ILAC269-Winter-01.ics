@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20170927T175851
-UID:explore_courses08301c19-4441-4c3e-87e6-f62ee439341f
-DTSTAMP:20170927T175851
-LOCATION:
-DESCRIPTION:This course will focus on the &quot;Beautiful game&quot; including the humor and the emotion of scoring and winning the soccer games. We will show some documentaries as the short &quot;Bagdah Messi&quot; about a 9 year old goalie from Iraq who jumps on his only leg as a way of playing soccer, and whom his friends dismiss from the team because of the goals he cannot stop. And the wonderful feature film &quot;Pelada&quot; about a couple of American footballers, 20 years old each, from Uni of Notre Dame, who travel to 25 countries all over the world (Francia, Iran, Israel, Spain, Argentina, Uruguay among others), on foot (without the traditional football shoes) because they are passionate about the &quot;beautiful game.&quot; We will also read the book &quot;Finding the game&quot; by Gwendolyn Oxenham (the female of the couple) who will tell us their unique experience. Other films in this course: &quot;Bar&ccedil;a Dreams,&quot; &quot;Soccer City&quot; about soccer in South Africa, &quot;Maradona&quot; by Emir Kusturica, &quot;Messi&quot; by &Aacute;lex de la Iglesia, &quot;Isto &eacute; Pel&eacute;,&quot; &quot;Lesbianas de Buenos Aires,&quot; &quot;Melegol&quot; (animation), and so forth.
+DTEND;TZID=America/Los_Angeles:20180108T175000
+LAST-MODIFIED:20180107T132351
+UID:explore_coursesb47e38e8-948d-4791-931e-c2900fd6904c
+DTSTAMP:20180107T132351
+LOCATION:200-107
+DESCRIPTION:Two important concepts and theories realismo m&aacute;gico and lo Real maravilloso have given sense and substance to Latin American literature during the last three decades. This course will focus on those concepts and on the works of Garcia Marquez and Alejo Carpentier, two key authors of modern Latin America. nNOTE: Taught by professor Tom Winterbottom.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ILAC269 SEM
-DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20170927T175851
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T163000
+CREATED:20180107T132351
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

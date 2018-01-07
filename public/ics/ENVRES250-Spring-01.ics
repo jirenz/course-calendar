@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T182000
-LAST-MODIFIED:20170927T175942
-UID:explore_courses8c97574f-2e3b-4918-b696-fb4bdf62e921
-DTSTAMP:20170927T175942
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20180107T132458
+UID:explore_coursesc4a35b14-a1f1-441b-a388-df6e19eae54b
+DTSTAMP:20180107T132458
+LOCATION:160-325
 DESCRIPTION:How do we work together to solve environmental problems? Across the globe, who has a voice, and who ultimately decides how to balance conservation and development?  How do we build governance institutions that facilitate both environmental sustainability and social equity? This seminar on environmental governance will focus on the challenges and opportunities for managing common-pool resources, like fisheries, forests, and water. Because managing environmental resources is often about managing people, we will explore the motivations underlying human behavior towards the environment. We will discuss how institutions encode our cultural values and beliefs, and how we can reshape these institutions to achieve more sustainable outcomes. Coursework includes foundational readings and a pragmatic exploration of case studies. Teaching cases address topics in community-based conservation, international protected areas, market-based approaches, coping with environmental risk, and other themes. Interested undergraduate and graduate students from any discipline are welcome.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENVRES250 SEM
-DTSTART;TZID=America/Los_Angeles:20180403T163000
-CREATED:20170927T175942
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20180107T132458
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

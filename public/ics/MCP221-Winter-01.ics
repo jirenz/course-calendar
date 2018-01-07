@@ -23,16 +23,30 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T112000
-LAST-MODIFIED:20170927T175911
-UID:explore_coursesbcae6e01-becc-4588-a0bc-6425a5da40ec
-DTSTAMP:20170927T175911
-LOCATION:Alway Building, Room M114
+LAST-MODIFIED:20180107T132421
+UID:explore_courses70a100a2-2b32-4724-a962-7d454c8d89d2
+DTSTAMP:20180107T132421
+LOCATION:Alway Building, Room M112
 DESCRIPTION:For Ph.D. students. Current research on cell structure, function, and dynamics. Topics include complex cell phenomena such as cell division, apoptosis, compartmentalization, transport and trafficking, motility and adhesion, and differentiation. Weekly reading of current papers from the primary literature.  Preparation of an original research proposal.  Prerequisite for advanced undergraduates: BIO 129A,B, and consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MCP221 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T093000
-CREATED:20170927T175911
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
+CREATED:20180107T132421
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T112000
+LAST-MODIFIED:20180107T132421
+UID:explore_courses9a065094-edeb-49e4-b376-34d63006b038
+DTSTAMP:20180107T132421
+LOCATION:
+DESCRIPTION:For Ph.D. students. Current research on cell structure, function, and dynamics. Topics include complex cell phenomena such as cell division, apoptosis, compartmentalization, transport and trafficking, motility and adhesion, and differentiation. Weekly reading of current papers from the primary literature.  Preparation of an original research proposal.  Prerequisite for advanced undergraduates: BIO 129A,B, and consent of instructor.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MCP221 LEC
+DTSTART;TZID=America/Los_Angeles:20180112T093000
+CREATED:20180107T132421
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

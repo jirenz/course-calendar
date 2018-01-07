@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T115000
-LAST-MODIFIED:20170927T175853
-UID:explore_courses013f15bd-a065-4a1b-afe4-37a5ec41f46e
-DTSTAMP:20170927T175853
+LAST-MODIFIED:20180107T132356
+UID:explore_courses74fe6c9b-d92c-4173-a59f-b47dcca89823
+DTSTAMP:20180107T132356
 LOCATION:420-041
 DESCRIPTION:Review of univariate regression.  Multiple regression.  Geometry, subspaces, orthogonality, projections, normal equations, rank deficiency, estimable functions and Gauss-Markov theorem. Computation via QR decomposition, Gramm-Schmidt orthogonalization and the SVD. Interpreting coefficients, collinearity, graphical displays.  Fits and the Hat matrix, leverage &amp; influence, diagnostics, weighted least squares and resistance. Model selection, Cp/Aic and crossvalidation, stepwise, lasso. Basis expansions, splines. Multivariate normal distribution theory. ANOVA: Sources of measurements, fixed and random effects, randomization.  Emphasis on problem sets involving substantive computations with data sets. Prerequisites: consent of instructor, 116, 200, applied statistics course, CS 106A, MATH 114. (NB: prior to 2016-17 the 305ABC series was numbered as 305, 306A and 306B).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS305A LEC
 DTSTART;TZID=America/Los_Angeles:20170926T103000
-CREATED:20170927T175853
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

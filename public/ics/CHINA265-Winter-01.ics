@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20170927T175806
-UID:explore_coursesefd6865e-8bd4-48a2-9e80-8dc677bd02e9
-DTSTAMP:20170927T175806
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20180107T132223
+UID:explore_coursesa9c65d8b-4a8a-4d76-9017-28cd9c592bb7
+DTSTAMP:20180107T132223
 LOCATION:
-DESCRIPTION:Focus is on a major poet and relationships to previous and later poetry. Poetic form, including meter and rhyme schemes. Historical context. This year's poet is Du Fu. Prerequisite:  3 years Modern Chinese or equivalent..
+DESCRIPTION:This year the course will focus on the poetry of Du Fu, the great Tang poet. We will focus on the range of themes in his poetry, distinctive diction, imagery, and syntax, and how he changes as a poet through different periods of his life. Attention also to competing English translations of his poetry.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHINA265 SEM
-DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20170927T175806
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20180107T132223
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

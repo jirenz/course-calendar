@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20170927T180003
-UID:explore_coursesf8d8b29e-6627-4ef3-b936-849a394dd98d
-DTSTAMP:20170927T180003
+LAST-MODIFIED:20180107T132528
+UID:explore_coursesed3997e7-aa1d-4fad-8564-b07e4fa63172
+DTSTAMP:20180107T132528
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Introduction to the mechanical behavior of solids, emphasizing the relationships between microstructure and mechanical properties. Elastic, anelastic, and plastic properties of materials. The relations between stress, strain, strain rate, and temperature for plastically deformable solids. Application of dislocation theory to strengthening mechanisms in crystalline solids. The phenomena of creep, fracture, and fatigue and their controlling mechanisms. Prerequisites: MATSCI 193/203. Undergraduates register for 198 for 4 units; graduates register for 208 for 3 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI208 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20170927T180003
+CREATED:20180107T132528
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

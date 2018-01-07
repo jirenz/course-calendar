@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T162000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses632c027a-3ae5-4485-a40a-f6d9b8b0b6bf
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_courses9a5ac313-2ada-4e69-8667-125cad43e07e
+DTSTAMP:20180107T132523
 LOCATION:McCullough 126
 DESCRIPTION:Miniaturization of efficient power converters remain a challenge in power electronics whose goal is to improving energy use and reducing waste.nIn this course, we will study the design of Resonant converters which are capable of operating at higher frequencies than their 'hard-switch' counterparts. Resonant converter are found in high performance applications where high control bandwidth and high power density are required. We will also explore practical design issues and trade off in selecting converter topologies in high performance applications. Prerequisites: EE153/EE253.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE356A LEC
 DTSTART;TZID=America/Los_Angeles:20170926T150000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

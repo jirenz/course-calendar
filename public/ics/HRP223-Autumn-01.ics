@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T132000
-LAST-MODIFIED:20170927T175904
-UID:explore_courses3c63b4bf-9598-4dd4-b7a1-42468a5b00ef
-DTSTAMP:20170927T175904
+LAST-MODIFIED:20180107T132414
+UID:explore_courses27855e6f-b210-4622-9df6-94f84b26e872
+DTSTAMP:20180107T132414
 LOCATION:Li Ka Shing Center, room 308
 DESCRIPTION:Provides hands-on introduction to basic data management and analysis techniques using SAS. Data management topics include: Introduction to SAS and SAS syntax, importing data, creating and reading SAS datasets, data cleaning and validation, creating new variables, and combining data sets. Analysis techniques include: basic descriptive statistics (e.g., means, frequency) and bivariate procedures for continuous and categorical variables (e.g., t-tests, chi-squares).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP223 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T113000
-CREATED:20170927T175904
+CREATED:20180107T132414
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

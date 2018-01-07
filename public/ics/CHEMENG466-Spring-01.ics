@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20170927T175949
-UID:explore_courses8d5a22db-d09a-4ea1-af64-0b199db1db4d
-DTSTAMP:20170927T175949
+LAST-MODIFIED:20180107T132507
+UID:explore_courses4d15d447-e9c6-4c03-ad66-cbb43ab43a75
+DTSTAMP:20180107T132507
 LOCATION:160-317
 DESCRIPTION:Concepts and applications in the equilibrium and dynamic behavior of complex fluids. Topics include solution thermodynamics, scaling concepts, semiflexibility, characterization of polymer size (light scattering, osmotic pressure, size-exclusion chromatography, intrinsic viscosity), viscoelasticity, rheological measurements, polyelectrolytes, liquid crystals, biopolymers, and gels.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG466 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20170927T175949
+CREATED:20180107T132507
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

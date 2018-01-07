@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T125000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses41c0d6eb-cb07-4aa9-b5ed-92aabac04666
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132525
+UID:explore_coursesa0fb8de5-8aff-455b-8989-bbd57ad7ccdf
+DTSTAMP:20180107T132525
 LOCATION:380-380C
 DESCRIPTION:The application of Newton's Laws to solve 2-D and 3-D static and dynamic problems, particle and rigid body dynamics, freebody diagrams, and equations of motion, with application to mechanical, biomechanical, and aerospace systems. Computer numerical solution and dynamic response. Prerequisites: Calculus (differentiation and integration) such as MATH 41; and ENGR 14 (statics and strength) or a mechanics course in physics such as PHYSICS 41.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR15 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T113000
-CREATED:20170927T180001
+CREATED:20180107T132525
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T125000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

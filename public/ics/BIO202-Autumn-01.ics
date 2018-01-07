@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T102000
-LAST-MODIFIED:20170927T175802
-UID:explore_courses57b497a5-c49b-42f6-bbd1-267bf067e95a
-DTSTAMP:20170927T175802
+LAST-MODIFIED:20180107T132218
+UID:explore_courses4a4b61d5-e283-4120-8d11-650f38acf08f
+DTSTAMP:20180107T132218
 LOCATION:STLC118
 DESCRIPTION:Intended for graduate students (and advanced undergraduates in special circumstances with consent of instructors) in biology and related environmental sciences, this course is an introduction to statistical methods for ecological data analysis, using the programming language R. The course will have lectures, discussions, and independent research projects using the students&iquest; own data or simulated or publicly available data.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO202 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T093000
-CREATED:20170927T175802
+CREATED:20180107T132218
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

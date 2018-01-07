@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T172000
-LAST-MODIFIED:20170927T180006
-UID:explore_courses3738e1dc-a2b6-458f-86c6-577549392f49
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132530
+UID:explore_courses07fdaa65-3457-4bc6-aebb-7276659b51b3
+DTSTAMP:20180107T132530
 LOCATION:
 DESCRIPTION:This course will focus on the technical mechatronic skills as well as the human factors and interaction design considerations required for the design of smart products and devices.  Students will learn techniques for rapid prototyping of smart devices, best practices for physical interaction design, fundamentals of affordances and signifiers, and interaction across networked devices.  Students will be introduced to design guidelines for integrating electrical components such as PCBs into mechanical assemblies and consider the physical form of devices, not just as enclosures but also as a central component of the smart product. Prerequisites include: CS106A, E40, and ME 210 or ME218 highly recommended, or instructor approval.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME216M LEC
 DTSTART;TZID=America/Los_Angeles:20180402T153000
-CREATED:20170927T180006
+CREATED:20180107T132530
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

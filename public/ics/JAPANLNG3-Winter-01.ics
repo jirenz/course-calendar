@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T102000
-LAST-MODIFIED:20170927T175833
-UID:explore_courses203b2015-46c5-49d1-99dc-4a8d597b6dcd
-DTSTAMP:20170927T175833
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20180107T132310
+UID:explore_courses0e717e8a-96b4-4c6d-b9ae-d57f9ec7e004
+DTSTAMP:20180107T132310
 LOCATION:Encina West 106
 DESCRIPTION:(Formerly JAPANLNG 9). Continuation of Japanlng 2. First-year sequence enables students to converse, write, and read essays on topics such as personal history, experiences, familiar people. Students are expected to master ~ 300 kanji characters by completing the course. Fulfills University Foreign Language Requirement. Prerequisite: placement test, Japanlng 2.  http://japanese.stanford.edu/.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:JAPANLNG3 LNG
-DTSTART;TZID=America/Los_Angeles:20180108T093000
-CREATED:20170927T175833
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=MO,TU,WE,TH,FR
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20180107T132310
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

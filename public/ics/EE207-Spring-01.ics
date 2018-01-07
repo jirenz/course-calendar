@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses8c4fef7d-9f3d-495a-80a2-2b5773d00347
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_courses7b6787e7-f118-4ce2-977d-cfb26cc0f0ba
+DTSTAMP:20180107T132523
 LOCATION:Y2E2 300
 DESCRIPTION:(Formerly EE 304) Neuromorphic systems run perceptual, cognitive and motor tasks in real-time on a network of highly interconnected nonlinear units. To maximize density and minimize energy, these units--like the brain's neurons--are heterogeneous and stochastic. The first half of the course covers learning algorithms that automatically synthesize network configurations to perform a desired computation on a given heterogeneous neural substrate. The second half of the course surveys system-on-a-chip architectures that efficiently realize highly interconnected networks and mixed analog-digital circuit designs that implement area and energy-efficient nonlinear units. Prerequisites: EE102A is required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE207 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

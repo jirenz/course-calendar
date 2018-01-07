@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20170927T180001
-UID:explore_coursesd9d39f35-d7b5-400f-882f-2c1ec195d5c8
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_courses9061d1c6-47e7-4218-995a-b2f844cbdc8d
+DTSTAMP:20180107T132523
 LOCATION:STLC119
 DESCRIPTION:Introduction to the theory of error correcting codes, emphasizing algebraic constructions, and diverse applications throughout computer science and engineering. Topics include basic bounds on error correcting codes; Reed-Solomon and Reed-Muller codes; list-decoding, list-recovery and locality. Applications may include communication, storage, complexity theory, pseudorandomness, cryptography, streaming algorithms, group testing, and compressed sensing. Prerequisites: Linear algebra, basic probability (at the level of, say, CS109, CME106 or EE178) and &quot;mathematical maturity&quot; (students will be asked to write proofs).  Familiarity with finite fields will be helpful but not required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE387 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

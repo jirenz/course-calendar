@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T132000
-LAST-MODIFIED:20170927T180002
-UID:explore_coursesfcb6b9a9-0709-412f-b580-6fb8a7001ced
-DTSTAMP:20170927T180002
-LOCATION:Shriram Ctr BioChemE 104
+DTEND;TZID=America/Los_Angeles:20180402T122000
+LAST-MODIFIED:20180107T132526
+UID:explore_courses95faf09f-b1dd-4b47-9df6-d1cf3048dd3a
+DTSTAMP:20180107T132526
+LOCATION:Lathrop 282
 DESCRIPTION:Introductory course in financial accounting. Accounting is referred to as the language of business. Developing students ability to read, understand, and use business financial statements. Understanding the mapping between the underlying economic events and financial statements, and how this mapping can affect inferences about future firm profitability. Introduction to measuring and reporting of the operating cycle; the process of preparing and presenting primary financial statements; the judgment involved and discretion allowed in making accounting choices; the effects of accounting discretion on the quality of the (reported) financial information; and the fundamentals of financial statement analysis. Class time will be allocated to a combination of lectures, cases and discussions of cases. Capstone project analyzing a company's financials at the end of the quarter. Enrollment limited. Admission by order of enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E140X LEC
-DTSTART;TZID=America/Los_Angeles:20180403T120000
-CREATED:20170927T180002
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180402T113000
+CREATED:20180107T132526
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

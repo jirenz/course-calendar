@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T125000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses45496bd9-dcff-410f-bf25-96b39a713cef
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_coursesd73770e6-5291-40c7-9af4-2ca3248fa46c
+DTSTAMP:20180107T132519
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:To realize the dreams and impact of AI requires autonomous systems that learn to make good decisions. Reinforcement learning is one powerful paradigm for doing so, and it is relevant to an enormous range of tasks, including robotics, game playing, consumer modeling and healthcare. This class will briefly cover background on Markov decision processes and reinforcement learning, before focusing on some of the central problems, including scaling up to large domains and the exploration challenge. One key tool for tackling complex RL domains is deep learning and this class will include at least one homework on deep reinforcement learning. Prerequisites: proficiency in python, CS 229 or equivalents or permission of the instructor; linear algebra, basic probability.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS234 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T113000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T125000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

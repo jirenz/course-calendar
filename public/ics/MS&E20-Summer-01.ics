@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180625T122000
-LAST-MODIFIED:20170927T180002
-UID:explore_courses7452492e-ce5f-4f30-93cf-f5a9afdfdeca
-DTSTAMP:20170927T180002
+LAST-MODIFIED:20180107T132526
+UID:explore_coursesdd8f0276-f952-4cdf-abd2-9aa886365980
+DTSTAMP:20180107T132526
 LOCATION:Thornt110
 DESCRIPTION:Fundamental concepts and tools for the analysis of problems under uncertainty, focusing on structuring, model building, and analysis. Examples from legal, social, medical, and physical problems. Topics include axioms of probability, probability trees, belief networks, random variables, conditioning, and expectation. The course is fast-paced, but it has no prerequisites.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E20 LEC
 DTSTART;TZID=America/Los_Angeles:20180625T103000
-CREATED:20170927T180002
+CREATED:20180107T132526
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

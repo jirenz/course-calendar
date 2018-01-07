@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20170927T175840
-UID:explore_coursesbed47bde-47d9-44d2-b483-051255cf5eba
-DTSTAMP:20170927T175840
-LOCATION:
-DESCRIPTION:Preference to Freshman. Taiko, or Japanese drum, is a newcomer to the American music scene. Emergence of the first N. American taiko groups coincided with increased Japanese American activism, and to some it is symbolic of Japanese American identity. N. American taiko is associated with Japanese American Buddhism. Musical, cultural, historical, and political perspectives of taiko. Hands-on drumming. Japanese music and Japanese American history, and relations among performance, cultural expression, community, and identity.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:MUSIC31N ISF
-DTSTART;TZID=America/Los_Angeles:20180402T143000
-CREATED:20170927T175840
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180404T162000
-LAST-MODIFIED:20170927T175840
-UID:explore_courses776f2c45-f3f2-47fb-b2da-d2dae936e404
-DTSTAMP:20170927T175840
+LAST-MODIFIED:20180107T132322
+UID:explore_courses6bd51ac2-92e1-43da-a77c-8cc11da40913
+DTSTAMP:20180107T132322
 LOCATION:BRH
 DESCRIPTION:Preference to Freshman. Taiko, or Japanese drum, is a newcomer to the American music scene. Emergence of the first N. American taiko groups coincided with increased Japanese American activism, and to some it is symbolic of Japanese American identity. N. American taiko is associated with Japanese American Buddhism. Musical, cultural, historical, and political perspectives of taiko. Hands-on drumming. Japanese music and Japanese American history, and relations among performance, cultural expression, community, and identity.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC31N ISF
 DTSTART;TZID=America/Los_Angeles:20180404T143000
-CREATED:20170927T175840
+CREATED:20180107T132322
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20180107T132322
+UID:explore_coursesdeab747d-0a72-499d-8307-d27586d4a4df
+DTSTAMP:20180107T132322
+LOCATION:
+DESCRIPTION:Preference to Freshman. Taiko, or Japanese drum, is a newcomer to the American music scene. Emergence of the first N. American taiko groups coincided with increased Japanese American activism, and to some it is symbolic of Japanese American identity. N. American taiko is associated with Japanese American Buddhism. Musical, cultural, historical, and political perspectives of taiko. Hands-on drumming. Japanese music and Japanese American history, and relations among performance, cultural expression, community, and identity.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC31N ISF
+DTSTART;TZID=America/Los_Angeles:20180402T143000
+CREATED:20180107T132322
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

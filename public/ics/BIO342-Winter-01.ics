@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180112T172000
-LAST-MODIFIED:20170927T175802
-UID:explore_coursesf70eaf02-96b2-4bda-8e24-56f1623f337d
-DTSTAMP:20170927T175802
+LAST-MODIFIED:20180107T132218
+UID:explore_courses841b08c7-e6e3-44b9-b77e-2dad97c31ad0
+DTSTAMP:20180107T132218
 LOCATION:Hewlett Teaching Center 201
-DESCRIPTION:Topics announced at the beginning of each quarter. Current literature. May be repeated for credit. See http://carnegiedpb.stanford.edu/seminars/seminars.php.
+DESCRIPTION:Topics in plant biology presented at a weekly seminar. Topics announced at the beginning of each quarter. Current literature. May be repeated for credit. See https://dpb.carnegiescience.edu/events.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO342 SEM
 DTSTART;TZID=America/Los_Angeles:20180112T153000
-CREATED:20170927T175802
+CREATED:20180107T132218
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

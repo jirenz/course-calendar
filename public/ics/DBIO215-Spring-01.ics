@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180404T172000
-LAST-MODIFIED:20170927T175902
-UID:explore_courses5f2777c3-3315-478b-a0be-75792bb679c0
-DTSTAMP:20170927T175902
+LAST-MODIFIED:20180107T132408
+UID:explore_courses2d74f8e1-c746-47c3-b689-421959c5be75
+DTSTAMP:20180107T132408
 LOCATION:Clark Center Auditorium
 DESCRIPTION:Students analyze cutting edge science, develop a logical framework for evaluating evidence and models, and enhance their ability to design original research through exposure to experimental tools and strategies.  The class runs in parallel with the Frontiers in Biological Research seminar series.  Students and faculty meet on the Tuesday preceding each seminar to discuss a landmark paper in the speaker's field of research.  Following the Wednesday seminar, students meet briefly with the speaker for a free-range discussion which can include insights into the speakers' paths into science and how they pick scientific problems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DBIO215 SEM
 DTSTART;TZID=America/Los_Angeles:20180404T153000
-CREATED:20170927T175902
+CREATED:20180107T132408
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180405T145000
-LAST-MODIFIED:20170927T175853
-UID:explore_courses06225f1b-2fba-46fb-a6b0-ee23e90610c2
-DTSTAMP:20170927T175853
-LOCATION:MSOBX303
-DESCRIPTION:Applications of statistical techniques to current problems in medical science. To receive credit for one or two units, a student must attend every workshop. To receive two units, in addition to attending every workshop, the student is required to write an acceptable one page summary of two of the workshops, with choices made by the student.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:STATS260C WKS
-DTSTART;TZID=America/Los_Angeles:20180405T133000
-CREATED:20170927T175853
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180405T145000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180411T145000
-LAST-MODIFIED:20170927T175853
-UID:explore_courses873cbd7e-3613-49b1-b657-0644f5dce368
-DTSTAMP:20170927T175853
+LAST-MODIFIED:20180107T132356
+UID:explore_courses3fdf191e-dfa2-4961-be12-950fcd1d7c16
+DTSTAMP:20180107T132356
 LOCATION:MSOBX303
 DESCRIPTION:Applications of statistical techniques to current problems in medical science. To receive credit for one or two units, a student must attend every workshop. To receive two units, in addition to attending every workshop, the student is required to write an acceptable one page summary of two of the workshops, with choices made by the student.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS260C WKS
 DTSTART;TZID=America/Los_Angeles:20180411T133000
-CREATED:20170927T175853
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180405T145000
+LAST-MODIFIED:20180107T132356
+UID:explore_courses1a81b0a8-23b2-4edd-8be4-42382f6e58fe
+DTSTAMP:20180107T132356
+LOCATION:MSOBX303
+DESCRIPTION:Applications of statistical techniques to current problems in medical science. To receive credit for one or two units, a student must attend every workshop. To receive two units, in addition to attending every workshop, the student is required to write an acceptable one page summary of two of the workshops, with choices made by the student.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STATS260C WKS
+DTSTART;TZID=America/Los_Angeles:20180405T133000
+CREATED:20180107T132356
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180405T145000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

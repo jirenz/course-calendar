@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20170927T175940
-UID:explore_coursesfdf9a85e-0cc7-477f-a55d-8c232452fd18
-DTSTAMP:20170927T175940
+LAST-MODIFIED:20180107T132455
+UID:explore_courseseeddca14-3b1c-4779-9fda-1c0a5fbec671
+DTSTAMP:20180107T132455
 LOCATION:60-109
 DESCRIPTION:Introduction to the foundations of contemporary geophysics. Topics drawn from broad themes in: whole Earth geodynamics, geohazards, natural resources, and enviroment.  In each case the focus is on how the interpretation of a variety of geophysical measurements (e.g., gravity, seismology, heat flow, electromagnetics, and remote sensing) can be used to provide fundamental insight into the behavior of the Earth. Prerequisite: CME 100 or MA TH 51, or co-registration in either.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS110 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20170927T175940
+CREATED:20180107T132455
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

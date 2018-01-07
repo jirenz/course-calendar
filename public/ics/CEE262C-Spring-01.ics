@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20170927T175952
-UID:explore_coursesf201f76b-560b-4b00-bdb0-06ff93359849
-DTSTAMP:20170927T175952
-LOCATION:260-001
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20180107T132511
+UID:explore_courses37b506f4-f5b8-4741-a9b0-1dc4a176da60
+DTSTAMP:20180107T132511
+LOCATION:60-109
 DESCRIPTION:Introduction to numerical methods for modeling surface water flows and sediment transport in rivers, lakes, estuaries and the coastal ocean. The first half of the course will focus on development of hydrodynamics models in one-, two-, and three dimensions, including numerical methods for the shallow water equations and momentum and scalar transport, and turbulence modeling. The second half of the course will incorporate sediment transport models into the hydrodynamics models covered in the first half of the quarter, along with discussion of bottom boundary layers in steady and wave-driven flows, bedform dynamics, suspended and bedload transport, and cohesive sediment dynamics. Prerequisite: CEE262A or ME351A or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE262C LEC
-DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20170927T175952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20180107T132511
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

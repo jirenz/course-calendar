@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T132000
-LAST-MODIFIED:20170927T175947
-UID:explore_courses7b59f57b-3d7c-48ae-8ae0-185722b634f1
-DTSTAMP:20170927T175947
+LAST-MODIFIED:20180107T132504
+UID:explore_courses748b3b67-79f8-4701-9f03-829d9dcd9996
+DTSTAMP:20180107T132504
 LOCATION:Gates B3
 DESCRIPTION:Accelerating and rotating reference frames. Kinematics of rigid body motion; Euler angles, direction cosines. D'Alembert's principle, equations of motion. Inertia properties of rigid bodies. Dynamics of coupled rigid bodies. Lagrange's equations and their use. Dynamic behavior, stability, and small departures from equilibrium. Prerequisite: ENGR 15 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA242A LEC
 DTSTART;TZID=America/Los_Angeles:20170926T120000
-CREATED:20170927T175947
+CREATED:20180107T132504
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

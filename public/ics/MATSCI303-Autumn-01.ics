@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T132000
-LAST-MODIFIED:20170927T180003
-UID:explore_coursese9fb806b-b4d1-44a1-90dc-508edde4b36b
-DTSTAMP:20170927T180003
+LAST-MODIFIED:20180107T132528
+UID:explore_coursesa2c256fd-41d8-4fae-896b-44f84c9fc075
+DTSTAMP:20180107T132528
 LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Thermodynamics and electrochemistry for batteries. Emphasis on lithium ion batteries, but also different types including lead acid, nickel metal hydride, metal air, sodium sulfur and redox flow. Battery electrode materials, electrolytes, separators, additives and electrode-electrolyte interface. Electrochemical techniques; advanced battery materials with nanotechnology; battery device structure. Prerequisites: undergraduate chemistry.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI303 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T120000
-CREATED:20170927T180003
+CREATED:20180107T132528
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

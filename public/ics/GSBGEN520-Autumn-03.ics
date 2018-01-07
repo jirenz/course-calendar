@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20171106T175000
-LAST-MODIFIED:20170927T175933
-UID:explore_coursesfc667356-d5c8-46c3-90a7-17f7e358193c
-DTSTAMP:20170927T175933
-LOCATION:
-DESCRIPTION:The thrust of this seminar is about designing effective and innovative solutions by leveraging deep insights into the workings of the human brain, specifically the instinctual brain.  Designing solutions for organizations-for example, &quot;How do we design effective solutions that will foster innovation and risk-taking in large organizations?&quot;  Designing solutions for markets so as to identify potentially disruptive new-business ideas; for existing organizations, fostering a competitive advantage, loyalty, customer life-time-value, etc.  Designing solutions for customer engagement and behavior change. Designing solutions for leaders, who need to be effective at making decisions and, arguably even more important, influencing others' decisions. The seminar will explore these topics by unraveling the workings of the human brain, leveraging frameworks that essentially capture the way instinctual brain systems shape our decisions, experiences and behaviors. Filled with mini-case studies and examples to illustrate the various topics, the seminar features an individual as well as a group project that is geared toward applying the learnings to identifying a potentially disruptive new business idea.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:GSBGEN520 SEM
-DTSTART;TZID=America/Los_Angeles:20171106T150000
-CREATED:20170927T175933
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171110T175000;BYDAY=MO,WE,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20171023T175000
-LAST-MODIFIED:20170927T175933
-UID:explore_courses120f2bad-97ca-470f-9e03-c3de2f436354
-DTSTAMP:20170927T175933
+LAST-MODIFIED:20180107T132131
+UID:explore_coursesdac8825f-91a8-4923-91d9-2a660827f36c
+DTSTAMP:20180107T132131
 LOCATION:GSB Gunn 102
 DESCRIPTION:The thrust of this seminar is about designing effective and innovative solutions by leveraging deep insights into the workings of the human brain, specifically the instinctual brain.  Designing solutions for organizations-for example, &quot;How do we design effective solutions that will foster innovation and risk-taking in large organizations?&quot;  Designing solutions for markets so as to identify potentially disruptive new-business ideas; for existing organizations, fostering a competitive advantage, loyalty, customer life-time-value, etc.  Designing solutions for customer engagement and behavior change. Designing solutions for leaders, who need to be effective at making decisions and, arguably even more important, influencing others' decisions. The seminar will explore these topics by unraveling the workings of the human brain, leveraging frameworks that essentially capture the way instinctual brain systems shape our decisions, experiences and behaviors. Filled with mini-case studies and examples to illustrate the various topics, the seminar features an individual as well as a group project that is geared toward applying the learnings to identifying a potentially disruptive new business idea.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GSBGEN520 SEM
 DTSTART;TZID=America/Los_Angeles:20171023T150000
-CREATED:20170927T175933
+CREATED:20180107T132131
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171027T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171106T175000
+LAST-MODIFIED:20180107T132131
+UID:explore_courses592c0058-fa70-4864-a443-850508706775
+DTSTAMP:20180107T132131
+LOCATION:
+DESCRIPTION:The thrust of this seminar is about designing effective and innovative solutions by leveraging deep insights into the workings of the human brain, specifically the instinctual brain.  Designing solutions for organizations-for example, &quot;How do we design effective solutions that will foster innovation and risk-taking in large organizations?&quot;  Designing solutions for markets so as to identify potentially disruptive new-business ideas; for existing organizations, fostering a competitive advantage, loyalty, customer life-time-value, etc.  Designing solutions for customer engagement and behavior change. Designing solutions for leaders, who need to be effective at making decisions and, arguably even more important, influencing others' decisions. The seminar will explore these topics by unraveling the workings of the human brain, leveraging frameworks that essentially capture the way instinctual brain systems shape our decisions, experiences and behaviors. Filled with mini-case studies and examples to illustrate the various topics, the seminar features an individual as well as a group project that is geared toward applying the learnings to identifying a potentially disruptive new business idea.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GSBGEN520 SEM
+DTSTART;TZID=America/Los_Angeles:20171106T150000
+CREATED:20180107T132131
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171110T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

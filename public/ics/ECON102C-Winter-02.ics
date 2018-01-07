@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180112T112000
-LAST-MODIFIED:20170927T175819
-UID:explore_courses1a22925c-224b-432b-89c3-8e66d0791873
-DTSTAMP:20170927T175819
+LAST-MODIFIED:20180107T132239
+UID:explore_coursesd98adef1-7ec0-4e67-b2b4-71f2a647e7d9
+DTSTAMP:20180107T132239
 LOCATION:Econ 106
 DESCRIPTION:The program evaluation problem. Identifying and estimating the effects of policies on outcomes of interest (e.g., tax rates on labor supply, etc.). Identifying and estimating the effects of human capital on earnings and other labor market outcomes. Topics: Instrumental variables estimation; limited dependent variable models (probit, logit, Tobit models); Panel data techniques (fixed and random effect models, dynamic panel data models); Duration models; Bootstrap and Estimation by Simulation. Prerequisite: Econ 102B
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON102C DIS
 DTSTART;TZID=America/Los_Angeles:20180112T093000
-CREATED:20170927T175819
+CREATED:20180107T132239
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

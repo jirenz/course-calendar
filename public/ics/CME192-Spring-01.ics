@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20170927T175953
-UID:explore_courses61d41bac-7643-416a-84f9-bf2378f0e213
-DTSTAMP:20170927T175953
+LAST-MODIFIED:20180107T132511
+UID:explore_courses10de449c-7062-4c05-a820-ab3b56cc1a38
+DTSTAMP:20180107T132511
 LOCATION:420-041
 DESCRIPTION:This short course runs for the first four weeks/eight lectures of the quarter and is offered each quarter during the academic year.  It is highly recommended for students with no prior programming experience who are expected to use MATLAB in math, science, or engineering courses.  It will consist of interactive lectures and application-based assignments.nThe goal of the short course is to make students fluent in MATLAB and to provide familiarity with its wide array of features.  The course covers an introduction of basic programming concepts, data structures, and control/flow; and an introduction to scientific computing in MATLAB, scripts, functions, visualization, simulation, efficient algorithm implementation, toolboxes, and more.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME192 WKS
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20170927T175953
+CREATED:20180107T132511
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

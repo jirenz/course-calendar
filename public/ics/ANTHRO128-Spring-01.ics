@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180406T122000
-LAST-MODIFIED:20170927T175757
-UID:explore_courses2c7155d6-8cc6-44fe-bc3b-a97471a26720
-DTSTAMP:20170927T175757
+DTEND;TZID=America/Los_Angeles:20180404T122000
+LAST-MODIFIED:20180107T132155
+UID:explore_courses5af7b34f-0322-4afd-ad39-841c22accc1d
+DTSTAMP:20180107T132155
 LOCATION:40-41J
 DESCRIPTION:Drawing on anthropology, art history, cultural studies, and other fields, this course explores how and why one might want to think critically about the politics of visuality, social imagination, the politics of making and consuming images and things, iconophonia and iconophilia, the classification of people and things into &iquest;artists&iquest; and &iquest;art&iquest;, and cultural production more generally.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO128 SEM
-DTSTART;TZID=America/Los_Angeles:20180406T093000
-CREATED:20170927T175757
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180404T093000
+CREATED:20180107T132155
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

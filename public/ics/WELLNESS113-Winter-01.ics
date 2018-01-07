@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180110T182000
-LAST-MODIFIED:20170927T175934
-UID:explore_courses437324b0-cb0f-4009-bf38-6860dc4f3cec
-DTSTAMP:20170927T175934
+DTEND;TZID=America/Los_Angeles:20180108T182000
+LAST-MODIFIED:20180107T132448
+UID:explore_coursesc589a420-8acd-4b08-9711-223bf983d9d3
+DTSTAMP:20180107T132448
 LOCATION:ArrillagaOutdoorEducRecCtr103B
 DESCRIPTION:Effectively manage stress and practice positive sleep strategies to enhance clarity, focus, and energy. Presents tools for assessing perceived stress and sleep quality, findings in the science of stress management, current research in sleep studies, and cognitive-behavioral theories and interventions (CBT-i) demonstrated to reduce stress and certain insomnias, while enhancing sleep quality.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:WELLNESS113 SEM
-DTSTART;TZID=America/Los_Angeles:20180110T163000
-CREATED:20170927T175934
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180108T163000
+CREATED:20180107T132448
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

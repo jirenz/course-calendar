@@ -23,16 +23,30 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T115000
-LAST-MODIFIED:20170927T175923
-UID:explore_coursesd15a68f0-0bbc-4fba-9b4b-f5bcc8f809fa
-DTSTAMP:20170927T175923
-LOCATION:380-380F
+LAST-MODIFIED:20180107T132437
+UID:explore_coursesf53208e7-b612-4869-bcd9-8bfc267cb86f
+DTSTAMP:20180107T132437
+LOCATION:540-103
 DESCRIPTION:Apply scientific methods and principles to discern and realize value. Read history, philosophy, ecology, economics, sociology, linguistics and psychology pertinent to emergence of valuescience as foundation for an increasing range of human action. Explore perceptual, cognitive, and cultural impediments to valuescience; strategies for overcoming these; and personal and social benefits of doing so. 4 units includes weekly practice (e.g., meditation, aerobic exercise). Students may enroll in PSYC 136A or PSYC 136B or both. Either may be taken first.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYC136A SEM
 DTSTART;TZID=America/Los_Angeles:20170926T103000
-CREATED:20170927T175923
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
+CREATED:20180107T132437
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170928T115000
+LAST-MODIFIED:20180107T132437
+UID:explore_courses6f9f000f-1398-44f3-ac24-45920460ede0
+DTSTAMP:20180107T132437
+LOCATION:Gates100
+DESCRIPTION:Apply scientific methods and principles to discern and realize value. Read history, philosophy, ecology, economics, sociology, linguistics and psychology pertinent to emergence of valuescience as foundation for an increasing range of human action. Explore perceptual, cognitive, and cultural impediments to valuescience; strategies for overcoming these; and personal and social benefits of doing so. 4 units includes weekly practice (e.g., meditation, aerobic exercise). Students may enroll in PSYC 136A or PSYC 136B or both. Either may be taken first.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PSYC136A SEM
+DTSTART;TZID=America/Los_Angeles:20170928T103000
+CREATED:20180107T132437
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

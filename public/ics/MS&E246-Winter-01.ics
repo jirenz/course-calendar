@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20170927T180002
-UID:explore_coursesdf4a524a-a714-4620-bd80-dc9d2ada6e31
-DTSTAMP:20170927T180002
+LAST-MODIFIED:20180107T132526
+UID:explore_coursesdd3ee385-1e4c-4614-b65d-10e32f8db680
+DTSTAMP:20180107T132526
 LOCATION:Thornt102
 DESCRIPTION:Practical introduction to financial risk analytics. The focus is on data-driven modeling, computation, and statistical estimation of credit and market risks. Case studies based on real data will be emphasized throughout the course. Topics include mortgage risk, asset-backed securities, commercial lending, consumer delinquencies, online lending, derivatives risk. Tools from machine learning and statistics will be developed. Data sources will be discussed. The course is intended to enable students to design and implement risk analytics tools in practice. Prerequisites: MS&amp;E 245A or similar, some background in probability and statistics, working knowledge of R, Matlab, or similar computational/statistical package.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E246 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20170927T180002
+CREATED:20180107T132526
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

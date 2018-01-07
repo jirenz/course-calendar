@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20170927T180003
-UID:explore_courses1ee33b16-dbac-49b4-8a62-1f42ba50365c
-DTSTAMP:20170927T180003
+LAST-MODIFIED:20180107T132528
+UID:explore_courses1e90cdb8-85d1-4774-adf5-b5a8019495ea
+DTSTAMP:20180107T132528
 LOCATION:160-325
 DESCRIPTION:This course will teach the fundamentals of magnetism, magnetic mateirals, and magnetic nanostructures and their myriad of applications in nanotechnology, sensing, energy and related areas. The scope of the course include: atomic origins of magnetic moments, magnetic exchange and ferromagnetism, types of magnetic order, magnetic anisotropy, domains, domain walls, hysteresis loops, hard and soft magnetic materials, demagnetization factors, magnetic nanoparticles and nanostructures, spintronics, and multiferroics. The key applications include electromagnet and permanent magnet, magnetic inductors, magnetic sensors, magnetic memory, hard disk drives, energy generation and harvesting, biomagnetism, etc.  Prerequisites: College level electricity and magnetism course or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI347 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20170927T180003
+CREATED:20180107T132528
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T132000
-LAST-MODIFIED:20170927T175948
-UID:explore_coursesbc88e58b-14ba-4be5-8b3d-0803995c9b47
-DTSTAMP:20170927T175948
+LAST-MODIFIED:20180107T132506
+UID:explore_courses9437b3ef-956d-4ca0-bbf9-876a542aa137
+DTSTAMP:20180107T132506
 LOCATION:
 DESCRIPTION:Principles of statistical physics, thermodynamics, and kinetics with applications to molecular biology. Topics include entropy, temperature, chemical forces, enzyme kinetics, free energy and its uses, self assembly, cooperative transitions in macromolecules, molecular machines, feedback, and accurate replication. Prerequisites: MATH 19, 20, 21; CHEM 31A, B (or 31X); strongly recommended: PHYSICS 41, CME 100 or MATH 51, and CME 106; or instructor approval.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE140 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T120000
-CREATED:20170927T175948
+CREATED:20180107T132506
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

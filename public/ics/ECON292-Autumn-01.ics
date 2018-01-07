@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T175000
-LAST-MODIFIED:20170927T175819
-UID:explore_courses6d27907b-368a-402a-b728-848acde2cf1d
-DTSTAMP:20170927T175819
+LAST-MODIFIED:20180107T132239
+UID:explore_courses51519c85-49a0-4039-8558-c9ec197d29da
+DTSTAMP:20180107T132239
 LOCATION:GSB Gunn 101
 DESCRIPTION:This is an advanced course on quantitative methods for empirical research. Students are expected to have taken a course in linear models before. In this course I will discuss modern econometric methods for nonlinear models, including maximum likelihood and generalized method of moments. The emphasis will be on how these methods are used in sophisticated empirical work in social sciences. Special topics include discrete choice models and methods for estimating treatment effects.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON292 CAS
 DTSTART;TZID=America/Los_Angeles:20170925T163000
-CREATED:20170927T175819
+CREATED:20180107T132239
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

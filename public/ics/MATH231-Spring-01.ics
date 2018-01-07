@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20170927T175837
-UID:explore_coursese62a0603-7e5b-4f99-80b9-2c225dd759e9
-DTSTAMP:20170927T175837
+LAST-MODIFIED:20180107T132316
+UID:explore_courses11de38a4-c9cd-41dd-b6c5-ce3696f747f1
+DTSTAMP:20180107T132316
 LOCATION:200-030
 DESCRIPTION:Probability and statistics are founded on the study of games of chance. Nowadays, gambling (in casinos, sports and the Internet) is a huge business. This course addresses practical and theoretical aspects. Topics covered: mathematics of basic random phenomena (physics of coin tossing and roulette, analysis of various methods of shuffling cards), odds in popular games, card counting, optimal tournament play, practical problems of random number generation. Prerequisites: Statistics 116 and 200.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH231 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20170927T175837
+CREATED:20180107T132316
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

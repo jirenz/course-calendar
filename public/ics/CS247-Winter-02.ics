@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T172000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses4125e3bf-0524-4546-90e1-4e8d05448185
-DTSTAMP:20170927T175958
-LOCATION:Green Earth Sciences150
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20180107T132519
+UID:explore_courseseb408da3-4c10-4fb0-90db-c1d4a1226360
+DTSTAMP:20180107T132519
+LOCATION:20-21G
 DESCRIPTION:Project-based focus on interaction design process, especially early-stage design and rapid prototyping. Methods used in interaction design including needs analysis, user observation, sketching, concept generation, scenario building, and evaluation. Prerequisites: 147 or equivalent background in design thinking; 106B or equivalent background in programming. Recommended: CS 142 or equivalent background in web programming.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS247 DIS
-DTSTART;TZID=America/Los_Angeles:20180108T163000
-CREATED:20170927T175958
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20180108T150000
+CREATED:20180107T132519
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

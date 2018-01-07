@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T092000
-LAST-MODIFIED:20170927T175758
-UID:explore_coursesf3d3ce33-b736-4888-b559-25d2644cd33e
-DTSTAMP:20170927T175758
+LAST-MODIFIED:20180107T132208
+UID:explore_courseseca9cbfd-0c33-4583-af39-3a6398628dd0
+DTSTAMP:20180107T132208
 LOCATION:McCullough 126
 DESCRIPTION:Review of the basics of quantum information. Quantum optics: photon counting, detection, and amplification. Quantum noise in parametric processes. Quantum sensing: standard quantum limits, squeezed light, and spin squeezing. Gaussian quantum information. Quantum theory of electric circuits, electromagnetic components, and nanomechanical devices. Integrated quantum systems: superconductivity and Josephson qubits, measurement-based quantum computing with photons, spin qubits, topological systems. Prerequisites: PHYSICS 134/234 and APPPHYS 203.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS228 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T083000
-CREATED:20170927T175758
+CREATED:20180107T132208
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T092000;BYDAY=MO,TU,WE,TH
 END:VEVENT
 END:VCALENDAR

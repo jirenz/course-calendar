@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T145000
-LAST-MODIFIED:20170927T175953
-UID:explore_coursesd48213f7-8378-4f66-a6ba-fc096e00f6f0
-DTSTAMP:20170927T175953
+LAST-MODIFIED:20180107T132511
+UID:explore_coursesff569abb-bd80-4def-afe5-d33838f1b55b
+DTSTAMP:20180107T132511
 LOCATION:420-041
 DESCRIPTION:Solution of linear systems, accuracy, stability, LU, Cholesky, QR, least squares problems, singular value decomposition, eigenvalue computation, iterative methods, Krylov subspace, Lanczos and Arnoldi processes, conjugate gradient, GMRES, direct methods for sparse matrices. Prerequisites: CME 108, MATH 114, MATH 104.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME302 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T133000
-CREATED:20170927T175953
+CREATED:20180107T132511
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

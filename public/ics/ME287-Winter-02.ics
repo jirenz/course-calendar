@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180112T122000
-LAST-MODIFIED:20170927T180006
-UID:explore_coursesf835371e-2a0f-4f69-9baa-c3df4e491644
-DTSTAMP:20170927T180006
-LOCATION:530-127
+LAST-MODIFIED:20180107T132530
+UID:explore_coursesc883eb7b-f66b-4242-999f-a1c47b009b2d
+DTSTAMP:20180107T132530
+LOCATION:
 DESCRIPTION:Introduction to the mechanical behaviors of biological tissues in health and disease.  Overview of experimental approaches to evaluating tissue properties and mathematical constitutive models.  Elastic behaviors of hard tissues, nonlinear elastic and viscoelastic models for soft tissues.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME287 LBS
 DTSTART;TZID=America/Los_Angeles:20180112T093000
-CREATED:20170927T180006
+CREATED:20180107T132530
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T102000
-LAST-MODIFIED:20170927T175832
-UID:explore_courses1e36f3f6-e51d-4db7-85ad-0fdb0629d9f1
-DTSTAMP:20170927T175832
-LOCATION:Thornt209
+LAST-MODIFIED:20180107T132307
+UID:explore_coursesd142f0da-d290-4a55-8d1d-ea209bbdd9dc
+DTSTAMP:20180107T132307
+LOCATION:260-001
 DESCRIPTION:Accelerated sequence that completes first-year Italian in two rather than three quarters. For students with previous knowledge of Italian or with a strong background in another Romance language. Prerequisite: advanced proficiency or AP/SAT in another Romance language; or Italian placement test.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ITALLANG1A LNG
 DTSTART;TZID=America/Los_Angeles:20170925T093000
-CREATED:20170927T175832
+CREATED:20180107T132307
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

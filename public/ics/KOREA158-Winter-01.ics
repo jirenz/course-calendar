@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T115000
-LAST-MODIFIED:20170927T175834
-UID:explore_courses3f753549-73c5-413d-8f23-1844aec866ec
-DTSTAMP:20170927T175834
-LOCATION:
-DESCRIPTION:This lecture course serves as an introduction to Korean culture, society, and history before the modern period. Topics covered include: Korean national and ethnic origins, the role of religious and intellectual traditions such as Buddhism and Confucianism, popular and indigenous religious practices, the traditional Korean family and social order, state and society during the Choson dynasty, vernacular prose literature, and Korea's relations with its neighbors in East Asia.
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20180107T132311
+UID:explore_courses05c5c5e6-ce98-4686-838d-ef5a8ba81967
+DTSTAMP:20180107T132311
+LOCATION:240-202
+DESCRIPTION:This course serves as an introduction to Korean culture, society, and history before the modern period. It begins with a discussion of early Korea and controversies over Korean origins; the bulk of the course will be devoted to the Chos'n period (1392-1910), that from the end of medieval Korea to the modern period. Topics to be covered include: Korean national and ethnic origins, the role of religious and intellectual traditions such as Buddhism and Confucianism, popular and indigenous religious practices, the traditional Korean family and social order, state and society during the Chos'n dynasty, vernacular prose literature, Korean's relations with its neighbors in East Asia, and changing conceptions of Korean identity.nThe course will be conducted through the reading and discussion of primary texts in English translation alongside scholarly research. As such, it will emphasize the interpretation of historical sources, which include personal letters, memoirs, and diaries, traditional histories, diplomatic and political documents, along with religious texts and works of art. Scholarly work will help contextualize these materials, while the class discussions will introduce students to existing scholarly debates about the Korean past. Students will be asked also to examine the premodern past with an eye to contemporary reception. The final project for the class is a film study, where a modern Korean film portraying premodern Korea will be analyzed as a case study of how the past works in public historical memory in contemporary Korea, both North and South. An open-ended research paper is also possible, pending instructor approval.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:KOREA158 SEM
-DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20170927T175834
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20180107T132311
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

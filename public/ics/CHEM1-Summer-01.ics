@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180625T122000
-LAST-MODIFIED:20170927T175804
-UID:explore_courses9f82fa99-ee2c-4fb4-8ba8-76f38e09c77c
-DTSTAMP:20170927T175804
+LAST-MODIFIED:20180107T132221
+UID:explore_courses211f665f-2189-4ce5-a623-72f6c629eed3
+DTSTAMP:20180107T132221
 LOCATION:STLC114
 DESCRIPTION:First lecture class in summer organic intensive designed for those entering the medical field. Introduction to molecular structure and reactivity of functional groups. Explore chemical reactivity in the context of kinetics and thermodynamics. Prerequisite: College level general chemistry or an AP Chemistry score of 5.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM1 LEC
 DTSTART;TZID=America/Los_Angeles:20180625T093000
-CREATED:20170927T175804
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T122000;BYDAY=MO,TU,WE,TH,FR
+CREATED:20180107T132221
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180713T122000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

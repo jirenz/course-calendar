@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20170927T175758
-UID:explore_coursese7f2df0f-e53b-432c-b38a-2e160d387784
-DTSTAMP:20170927T175758
+LAST-MODIFIED:20180107T132208
+UID:explore_courses18b32edf-f4e4-4ed5-a890-1432886c8f67
+DTSTAMP:20180107T132208
 LOCATION:380-380F
 DESCRIPTION:Core course appropriate for advanced undergraduate students and graduate students with prior knowledge of calculus and a college physics course. Introduction to how physical principles offer insights into modern biology, with regard to the structural, dynamical, and functional organization of biological systems. Topics include the roles of free energy, diffusion, electromotive forces, non-equilibrium dynamics, and information in fundamental biological processes.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS205 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20170927T175758
+CREATED:20180107T132208
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T175000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses2a0a2075-3c9c-46d2-8d08-c728b9f693e9
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_courses5df1751e-1dcc-4b70-8ede-5e02004586b8
+DTSTAMP:20180107T132519
 LOCATION:Mitchb67
 DESCRIPTION:Software specification, testing and verification. The emphasis is on automated tools for developing reliable software. The course covers material---drawn primarily from recent research papers---on the technologynunderlying these tools. Assignments supplement the lectures with hands-on experience in using these tools and customizing them for solving new problems.  The course is appropriate for students intending to pursue research in program analysis and verification, as well as for those who wish to add the use of advanced software tools to their skill set. Prerequisites: 108. Recommended: a project course such as 140, 143 or 145.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS295 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T163000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

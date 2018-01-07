@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20170927T175744
-UID:explore_courses08b48a73-420e-47ee-902b-d4d8ca08e512
-DTSTAMP:20170927T175744
-LOCATION:GSB McClelland 110
+LAST-MODIFIED:20180107T132133
+UID:explore_courses0febeece-8199-45c5-aab1-d1286c4f876e
+DTSTAMP:20180107T132133
+LOCATION:GSB Patterson 107
 DESCRIPTION:This course covers mathematical and statistical underpinnings of causal inference, with a focus on scientific experimentation and data-driven decision making. Topics include randomization, potential outcomes, observational studies, double robustness, semiparametric efficiency, treatment heterogeneity, policy learning, bandit algorithms, instrumental variables, regression discontinuities and graphical models. We will also discuss the relevance of optimization and machine learning tools to causal inference.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT661 SEM
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20170927T175744
+CREATED:20180107T132133
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

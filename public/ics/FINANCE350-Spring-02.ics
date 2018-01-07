@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180405T201500
-LAST-MODIFIED:20170927T175742
-UID:explore_courses521c8539-4961-4f85-915e-e6fdefbfa617
-DTSTAMP:20170927T175742
-LOCATION:
-DESCRIPTION:This course will expose students to the fundamentals, best practices, and advanced techniques of corporate financial modeling. We begin with basic operating and integrated financial statement models, and ultimately develop financial models to analyze major corporate transactions, including venture capital funding, mergers and acquisitions, and leverage buyouts. We will integrate theories presented throughout the MBA core, particularly those from accounting and finance, and take a hands-on approach to understand how the theory is implemented in practice.nnThe focus of the course will be on developing critical financial modeling skills, understanding best practices, and recognizing common pitfalls. Students will work on a series of cases and build models that can be used for earnings and pro-forma financial statement forecasts, valuation, the assessment of financing needs, merger analysis, and LBO evaluation.nnStudents will also gain experience presenting financial models and critically assessing them. By the conclusion of the course, students will develop the skills to construct complex financial models and the logical frameworks to utilize them for various organizational applications.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:FINANCE350 CAS
-DTSTART;TZID=America/Los_Angeles:20180405T183000
-CREATED:20170927T175742
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180605T201500;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180409T201500
-LAST-MODIFIED:20170927T175742
-UID:explore_coursese4712644-4f08-4aac-9007-72e13055043d
-DTSTAMP:20170927T175742
+LAST-MODIFIED:20180107T132130
+UID:explore_coursesff66fb30-0da8-4a59-a9b1-8cd76ed11621
+DTSTAMP:20180107T132130
 LOCATION:
 DESCRIPTION:This course will expose students to the fundamentals, best practices, and advanced techniques of corporate financial modeling. We begin with basic operating and integrated financial statement models, and ultimately develop financial models to analyze major corporate transactions, including venture capital funding, mergers and acquisitions, and leverage buyouts. We will integrate theories presented throughout the MBA core, particularly those from accounting and finance, and take a hands-on approach to understand how the theory is implemented in practice.nnThe focus of the course will be on developing critical financial modeling skills, understanding best practices, and recognizing common pitfalls. Students will work on a series of cases and build models that can be used for earnings and pro-forma financial statement forecasts, valuation, the assessment of financing needs, merger analysis, and LBO evaluation.nnStudents will also gain experience presenting financial models and critically assessing them. By the conclusion of the course, students will develop the skills to construct complex financial models and the logical frameworks to utilize them for various organizational applications.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FINANCE350 CAS
 DTSTART;TZID=America/Los_Angeles:20180409T183000
-CREATED:20170927T175742
+CREATED:20180107T132130
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180605T201500;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180405T201500
+LAST-MODIFIED:20180107T132130
+UID:explore_courses6d44043d-5e24-4e9f-8e28-bfe7d4f17d81
+DTSTAMP:20180107T132130
+LOCATION:
+DESCRIPTION:This course will expose students to the fundamentals, best practices, and advanced techniques of corporate financial modeling. We begin with basic operating and integrated financial statement models, and ultimately develop financial models to analyze major corporate transactions, including venture capital funding, mergers and acquisitions, and leverage buyouts. We will integrate theories presented throughout the MBA core, particularly those from accounting and finance, and take a hands-on approach to understand how the theory is implemented in practice.nnThe focus of the course will be on developing critical financial modeling skills, understanding best practices, and recognizing common pitfalls. Students will work on a series of cases and build models that can be used for earnings and pro-forma financial statement forecasts, valuation, the assessment of financing needs, merger analysis, and LBO evaluation.nnStudents will also gain experience presenting financial models and critically assessing them. By the conclusion of the course, students will develop the skills to construct complex financial models and the logical frameworks to utilize them for various organizational applications.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FINANCE350 CAS
+DTSTART;TZID=America/Los_Angeles:20180405T183000
+CREATED:20180107T132130
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180605T201500;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

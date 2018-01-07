@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T112000
-LAST-MODIFIED:20170927T175958
-UID:explore_coursese36ff612-1a4f-4ff2-9daf-ad6fa15099c5
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_coursesd3e5daf4-9ac3-48aa-b1d1-f0b8efce34c0
+DTSTAMP:20180107T132519
 LOCATION:300-300
-DESCRIPTION:Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the JavaScript programming language. Emphasis is on good programming style and the built-in facilities of the JavaScript language. No prior programming experience required. This course covers most of the same material as CS106A Section 1 in Java and CS 106A Section 3 in Python, but this course uses the JavaScript programming language. To enroll in this class, enroll in CS 106A Section 2 for Fall Qtr.nnMay be taken for 3 units by grad students.
+DESCRIPTION:Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the JavaScript programming language. Emphasis is on good programming style and the built-in facilities of the JavaScript language. No prior programming experience required. This course covers most of the same material as CS106A Section 1 in Java and CS 106A Section 3 in Python, but this course uses the JavaScript programming language. To enroll in this class, enroll in CS 106A Section 2 for Fall Qtr. May be taken for 3 units by grad students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106AJ LEC
 DTSTART;TZID=America/Los_Angeles:20170925T103000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

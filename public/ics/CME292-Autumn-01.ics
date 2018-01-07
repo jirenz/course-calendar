@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T102000
-LAST-MODIFIED:20170927T175953
-UID:explore_coursesd4b0952c-0fe8-4837-ae27-9e9eb2fc3faa
-DTSTAMP:20170927T175953
+LAST-MODIFIED:20180107T132511
+UID:explore_courses308d8906-a538-4d5b-87d5-8fddbfc65826
+DTSTAMP:20180107T132511
 LOCATION:
 DESCRIPTION:Short course running first four weeks of the quarter (8 lectures) with interactive online lectures and application based assignment. Students will access the lectures and assignments on https://suclass.stanford.edu. Students will be introduced to advanced MATLAB features, syntaxes, and toolboxes not traditionally found in introductory courses. Material will be reinforced with in-class examples, demos, and homework assignment involving topics from scientific computing. MATLAB topics will be drawn from: advanced graphics (2D/3D plotting, graphics handles, publication quality graphics, animation), MATLAB tools (debugger, profiler), code optimization (vectorization, memory management), object-oriented programming, compiled MATLAB (MEX files and MATLAB coder), interfacing with external programs, toolboxes (optimization, parallel computing, symbolic math, PDEs). Scientific computing topics will include: numerical linear algebra, numerical optimization, ODEs, and PDEs.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME292 WKS
 DTSTART;TZID=America/Los_Angeles:20170926T090000
-CREATED:20170927T175953
+CREATED:20180107T132511
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

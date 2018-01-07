@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180312T132000
+LAST-MODIFIED:20180107T132415
+UID:explore_courses402a060e-2eaf-469b-a0d5-91c9fc0296f1
+DTSTAMP:20180107T132415
+LOCATION:Li Ka Shing Center, rms304/305
+DESCRIPTION:(Open to medical students in the Immunology concentration, graduate students, undergraduates by consent of instructor) Journal style format focusing on current basic immunology research and how it is translated into immunotherapies and clinical trials. Topics include hematopoiesis, transplantation, tolerance, immune monitoring, vaccination, autoimmunity and antibodies, rheumatoid arthritis, chronic pulmonary disease, and asthma. May be repeated for credit.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:IMMUNOL209 LEC
+DTSTART;TZID=America/Los_Angeles:20180312T123000
+CREATED:20180107T132415
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180319T132000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T132000
-LAST-MODIFIED:20170927T175906
-UID:explore_courses18b12e23-3fca-485f-a87c-2f7194bd0374
-DTSTAMP:20170927T175906
+LAST-MODIFIED:20180107T132415
+UID:explore_coursese5450f6e-cce2-444e-b4fc-9e720f37af94
+DTSTAMP:20180107T132415
 LOCATION:Alway Building, Room M114
 DESCRIPTION:(Open to medical students in the Immunology concentration, graduate students, undergraduates by consent of instructor) Journal style format focusing on current basic immunology research and how it is translated into immunotherapies and clinical trials. Topics include hematopoiesis, transplantation, tolerance, immune monitoring, vaccination, autoimmunity and antibodies, rheumatoid arthritis, chronic pulmonary disease, and asthma. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:IMMUNOL209 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T123000
-CREATED:20170927T175906
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO
+CREATED:20180107T132415
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180226T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

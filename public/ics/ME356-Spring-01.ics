@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20170927T180006
-UID:explore_courses0c2981b5-00d5-4489-b626-96d8528b3f78
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132531
+UID:explore_coursescb8004ce-9781-407f-b3a6-876eca7d843d
+DTSTAMP:20180107T132531
 LOCATION:380-381T
 DESCRIPTION:History of hypersonic flight technology. Inviscid hypersonic flows. Rankine-Hugoniot shock-jump relations at high Mach numbers. Newtonian approximation. Small-disturbance equations for hypersonic aerodynamics. Mach-number independence. Hypersonic similarity. Hypersonic boundary layers and viscous interactions. Aerodynamic heating. Self-similar solutions and analogies. Shock-shock interactions and shock-interference heating. Reentry aerothermodynamics. Effects of the entropy layer. Ablation shields. Thermodynamic and chemical nonequilibrium effects in hypersonics. Transition in hypersonic boundary layers. Effects of incident shock waves. Modern computational developments in hypersonics. Engineering applications of hypersonics in aeronautics and astronautics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME356 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20170927T180006
+CREATED:20180107T132531
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

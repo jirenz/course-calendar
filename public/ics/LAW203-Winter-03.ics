@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T110000
-LAST-MODIFIED:20170927T175752
-UID:explore_coursesfbf59ba5-46df-44bb-a1fb-a72ca402a07b
-DTSTAMP:20170927T175752
-LOCATION:
-DESCRIPTION:This course is part of the required first-year JD curriculum.  This course offers an introduction to American constitutional law.  In addition to examining questions of interpretive method, the course focuses on the  powers of the federal government and the allocation of decision making authority among government institutions, including both federalism and separation of powers.  Class participation, attendance, written assignments, and final exam.  This course is open to first-year Law School students only.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:LAW203 LEC
-DTSTART;TZID=America/Los_Angeles:20180108T095000
-CREATED:20170927T175752
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T110000;BYDAY=MO,TU
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T094000
-LAST-MODIFIED:20170927T175752
-UID:explore_courses53aa4d11-1471-4eb2-a851-2301b7dd2e1b
-DTSTAMP:20170927T175752
-LOCATION:
+LAST-MODIFIED:20180107T132148
+UID:explore_courses521e4cb4-5208-4a84-a084-0101c0cad1a1
+DTSTAMP:20180107T132148
+LOCATION:Law280B
 DESCRIPTION:This course is part of the required first-year JD curriculum.  This course offers an introduction to American constitutional law.  In addition to examining questions of interpretive method, the course focuses on the  powers of the federal government and the allocation of decision making authority among government institutions, including both federalism and separation of powers.  Class participation, attendance, written assignments, and final exam.  This course is open to first-year Law School students only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW203 LEC
 DTSTART;TZID=America/Los_Angeles:20180110T083000
-CREATED:20170927T175752
+CREATED:20180107T132148
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T094000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T110000
+LAST-MODIFIED:20180107T132148
+UID:explore_courses27f0669f-668b-45eb-aa51-4cc8ce8cdcbd
+DTSTAMP:20180107T132148
+LOCATION:Law280B
+DESCRIPTION:This course is part of the required first-year JD curriculum.  This course offers an introduction to American constitutional law.  In addition to examining questions of interpretive method, the course focuses on the  powers of the federal government and the allocation of decision making authority among government institutions, including both federalism and separation of powers.  Class participation, attendance, written assignments, and final exam.  This course is open to first-year Law School students only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW203 LEC
+DTSTART;TZID=America/Los_Angeles:20180108T095000
+CREATED:20180107T132148
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T110000;BYDAY=MO,TU
 END:VEVENT
 END:VCALENDAR

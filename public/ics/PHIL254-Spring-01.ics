@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20170927T175843
-UID:explore_courses9c58d756-0e0c-4bba-a8aa-bcea4f8ef961
-DTSTAMP:20170927T175843
+LAST-MODIFIED:20180107T132332
+UID:explore_coursesc23ef5f6-9cf8-49d6-aa6c-d2845c7643c2
+DTSTAMP:20180107T132332
 LOCATION:460-301
 DESCRIPTION:(Graduate students register for 254.) Syntax and semantics of modal logic and its basic theory: including expressive power, axiomatic completeness, correspondence, and complexity.  Applications to topics in  philosophy, computer science, mathematics, linguistics, and game theory. Prerequisite: 150 or preferably 151.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL254 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20170927T175843
+CREATED:20180107T132332
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

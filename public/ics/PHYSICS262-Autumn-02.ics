@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170927T170000
-LAST-MODIFIED:20170927T175844
-UID:explore_coursesa2968618-a54d-4a1c-9f4b-3027ffbc44cb
-DTSTAMP:20170927T175844
-LOCATION:380-380W
+DTEND;TZID=America/Los_Angeles:20170927T182000
+LAST-MODIFIED:20180107T132335
+UID:explore_courses5428f9e9-0757-482e-ae0b-cb13416c213b
+DTSTAMP:20180107T132335
+LOCATION:STLC105
 DESCRIPTION:Einstein's General Theory of Relativity is a basis for modern ideas of fundamental physics, including string theory, as well as for studies of cosmology and astrophysics. The course begins with an overview of special relativity, and the description of gravity as arising from curved space.  From Riemannian geometry and the geodesic equations, to curvature, the energy-momentum tensor, and the Einstein field equations. Applications of General Relativity: topics may include experimental tests of General Relativity and the weak-field limit, black holes (Schwarzschild, charged Reissner-Nordstrom, and rotating Kerr black holes), gravitational waves (including detection methods), and an introduction to cosmology (including cosmic microwave background radiation, dark energy, and experimental probes). Prerequisite: PHYSICS 121 or equivalent including special relativity.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS262 DIS
-DTSTART;TZID=America/Los_Angeles:20170927T153000
-CREATED:20170927T175844
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T170000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T170000
+CREATED:20180107T132335
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

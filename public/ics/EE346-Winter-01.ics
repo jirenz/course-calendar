@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T132000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses3eed2bdb-f027-4b29-bae4-dfeab5992f9f
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_courses3f3187a5-a4e7-49fd-94ce-5d07e1bda846
+DTSTAMP:20180107T132523
 LOCATION:540-108
 DESCRIPTION:Wave propagation in anisotropic, nonlinear, and time-varying media. Microscopic and macroscopic description of electric-dipole susceptibilities. Free and forced waves; phase matching; slowly varying envelope approximation; dispersion, diffraction, space-time analogy. Harmonic generation; frequency conversion; parametric amplification and oscillation; electro-optic light modulation. Raman and Brillouin scattering; nonlinear processes in optical fibers.  Prerequisites: 242, 236C.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE346 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T123000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

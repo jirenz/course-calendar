@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20170927T175801
-UID:explore_coursesfc418fd1-9ac6-4d32-b68c-4cba6d930a91
-DTSTAMP:20170927T175801
-LOCATION:260-012
+LAST-MODIFIED:20180107T132214
+UID:explore_coursesfc8f989a-b24c-490d-ab5e-69440a5405e2
+DTSTAMP:20180107T132214
+LOCATION:
 DESCRIPTION:Focus is on the art of portraiture and underlying structures of the face, fundamental anatomical elements such as the skull and muscles of facial expressions, and the intersections between human anatomy and art. Studio sessions incorporate plastic models, dry bones, cadaveric specimens, and live models. Encourages use of proper anatomical terminology for describing structures and their relationships.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTSTUDI139 LAB
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20170927T175801
+CREATED:20180107T132214
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

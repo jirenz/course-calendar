@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20170927T175844
-UID:explore_coursesab4e38bd-b33b-4d2b-8ee9-ed2420721aff
-DTSTAMP:20170927T175844
+LAST-MODIFIED:20180107T132335
+UID:explore_courses0bdc412b-d6f5-4247-8a2f-002067ed9617
+DTSTAMP:20180107T132335
 LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:Scattering theory, partial wave expansion, Born approximation. Additional topics may include nature of quantum measurement, EPR paradox, Bell's inequality, and topics in quantum information science; path integrals and applications; Berry's phase; structure of multi-electron atoms (Hartree-Fock); relativistic quantum mechanics (Dirac equation). Undergraduates register for PHYSICS 134 (4 units). Graduate students register for PHYSICS 234 (3 units).  Prerequisite:  PHYSICS 131.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS134 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20170927T175844
+CREATED:20180107T132335
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

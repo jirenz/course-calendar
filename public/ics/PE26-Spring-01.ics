@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T102000
-LAST-MODIFIED:20170927T175934
-UID:explore_courses49cb00be-5b91-46d5-b6e4-e2b7d2608f49
-DTSTAMP:20170927T175934
+DTEND;TZID=America/Los_Angeles:20180403T112000
+LAST-MODIFIED:20180107T132447
+UID:explore_coursesbadf30f2-a02a-4674-aa60-53190bfdc227
+DTSTAMP:20180107T132447
 LOCATION:Taube South Courts
 DESCRIPTION:Students will learn and develop the essential stroke techniques with emphasis on control.  This course will also incorporate rules, etiquette, and basic play. This course will utilize class discussions, class assignments and student participation to enable students to: (1) Understand basic components of health-related physical fitness, cardiovascular fitness, muscular strength and endurance and flexibility (2) Develop physical fitness and motor skills, and (3) Develop a positive attitude toward wellness and physical activity which will facilitate a healthy lifestyle.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PE26 ACT
-DTSTART;TZID=America/Los_Angeles:20180403T093000
-CREATED:20170927T175934
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20180107T132447
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

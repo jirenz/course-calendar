@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20170927T180003
-UID:explore_courses0b75025f-cb35-4cb1-8a37-3e59ef4a3eba
-DTSTAMP:20170927T180003
+LAST-MODIFIED:20180107T132528
+UID:explore_courses44a2e6a6-3e7a-4304-8c11-63d74d01987e
+DTSTAMP:20180107T132528
 LOCATION:Gates B1
 DESCRIPTION:The course covers state-of-the-art and emerging bio-sensors, bio-chips, imaging modalities, and nano-therapies which will be studied in the context of human physiology including the nervous system, circulatory system and immune system. Medical diagnostics will be divided into bio-chips (in-vitro diagnostics) and medical and molecular imaging (in-vivo imaging). In-depth discussion on cancer and cardiovascular diseases and the role of diagnostics and nano-therapies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI382 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20170927T180003
+CREATED:20180107T132528
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

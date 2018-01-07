@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180801T183000
-LAST-MODIFIED:20170927T175928
-UID:explore_coursesf767c860-58e5-4818-bf72-c16dbf33b626
-DTSTAMP:20170927T175928
-LOCATION:
-DESCRIPTION:The Clinical Teaching Seminar Series (CTSS) is a year-long program in medical education, designed to introduce clinical educators to fundamental concepts in education. The seminars are high-yield, relevant, and interactive, providing practical tips for bedside teaching, curriculum development, and education research. nnThe HONORS CERTIFICATE PROGRAM IN MEDICAL EDUCATION is meant to recognize participants with a dedication to medical education, who regularly attend the seminars and complete a scholarly project. The Honors Program is a multi-disciplinary program open to all medical students, residents, fellows, staff, and faculty with an interest in medical education.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:SURG257 SEM
-DTSTART;TZID=America/Los_Angeles:20180801T171500
-CREATED:20170927T175928
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180801T183000;BYDAY=WE
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180704T183000
-LAST-MODIFIED:20170927T175928
-UID:explore_courses28752259-9244-47ec-aa89-44b35cd0035f
-DTSTAMP:20170927T175928
+LAST-MODIFIED:20180107T132444
+UID:explore_courses23a201bb-1bc0-47cb-82fa-7dbbae7ef12d
+DTSTAMP:20180107T132444
 LOCATION:
 DESCRIPTION:The Clinical Teaching Seminar Series (CTSS) is a year-long program in medical education, designed to introduce clinical educators to fundamental concepts in education. The seminars are high-yield, relevant, and interactive, providing practical tips for bedside teaching, curriculum development, and education research. nnThe HONORS CERTIFICATE PROGRAM IN MEDICAL EDUCATION is meant to recognize participants with a dedication to medical education, who regularly attend the seminars and complete a scholarly project. The Honors Program is a multi-disciplinary program open to all medical students, residents, fellows, staff, and faculty with an interest in medical education.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SURG257 SEM
 DTSTART;TZID=America/Los_Angeles:20180704T171500
-CREATED:20170927T175928
+CREATED:20180107T132444
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180704T183000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180801T183000
+LAST-MODIFIED:20180107T132444
+UID:explore_courses671944b8-13b5-4905-ab6d-f5b7c4ce67b4
+DTSTAMP:20180107T132444
+LOCATION:
+DESCRIPTION:The Clinical Teaching Seminar Series (CTSS) is a year-long program in medical education, designed to introduce clinical educators to fundamental concepts in education. The seminars are high-yield, relevant, and interactive, providing practical tips for bedside teaching, curriculum development, and education research. nnThe HONORS CERTIFICATE PROGRAM IN MEDICAL EDUCATION is meant to recognize participants with a dedication to medical education, who regularly attend the seminars and complete a scholarly project. The Honors Program is a multi-disciplinary program open to all medical students, residents, fellows, staff, and faculty with an interest in medical education.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SURG257 SEM
+DTSTART;TZID=America/Los_Angeles:20180801T171500
+CREATED:20180107T132444
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180801T183000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

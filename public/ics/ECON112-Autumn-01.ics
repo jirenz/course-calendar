@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T152000
-LAST-MODIFIED:20170927T175819
-UID:explore_coursesaaca8ab4-df56-46da-8be4-aaed69a55c21
-DTSTAMP:20170927T175819
+LAST-MODIFIED:20180107T132239
+UID:explore_coursesd622f1a4-f2a4-40d4-81e7-8a3d33aca349
+DTSTAMP:20180107T132239
 LOCATION:Econ 139
 DESCRIPTION:The course covers innovations, challenges and proposed changes to the financial system. Topics include new mortgage products, foreclosure rules, securitization, credit ratings, credit derivatives, dealer networks, repo financing, implications for prudential regulation &amp; monetary policy. Emphasis is on quantitative studies of these topics. Prerequisites: Econ 52, Econ 102B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON112 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T133000
-CREATED:20170927T175819
+CREATED:20180107T132239
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

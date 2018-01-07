@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20170927T175853
-UID:explore_coursese934f2a5-05cf-4ccb-b163-0862b3b6b216
-DTSTAMP:20170927T175853
+LAST-MODIFIED:20180107T132356
+UID:explore_coursesbf77d61c-cf1b-4472-a283-f492d6d262a0
+DTSTAMP:20180107T132356
 LOCATION:MSOBX303
 DESCRIPTION:Design principles and statistical methods for observational studies. Topics include: matching methods, sensitivity analysis, instrumental variables, graphical models, marginal structural models. 3 unit registration requires a small project and presentation. Computing is in R. Pre-requisites: HRP 261 and 262 or STAT 209 (HRP 239), or equivalent. See http://rogosateaching.com/somgen290/
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS266 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T143000
-CREATED:20170927T175853
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

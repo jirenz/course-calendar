@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T125000
-LAST-MODIFIED:20170927T180006
-UID:explore_courses21bb2515-5140-49c0-afeb-257a3aac855b
-DTSTAMP:20170927T180006
-LOCATION:420-041
+DTEND;TZID=America/Los_Angeles:20180112T145000
+LAST-MODIFIED:20180107T132530
+UID:explore_courses06d718c5-7430-4422-88a5-074eaf691535
+DTSTAMP:20180107T132530
+LOCATION:Cubberley Auditorium
 DESCRIPTION:Lecture/lab. Characteristics of machine elements including gears, bearings, and shafts. Design for fatigue life. Electric motor fundamentals. Transmission design for maximizing output power or efficiency. Mechanism types, linkage analysis and kinematic synthesis. Team-based design projects emphasizing the balance of physical with virtual prototyping based on engineering analysis. Lab for dissection of mechanical systems and project design reviews. Prerequisites: 80, 101. Recommended: 203, ENGR 15.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME112 LEC
-DTSTART;TZID=America/Los_Angeles:20180108T113000
-CREATED:20170927T180006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T125000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180112T133000
+CREATED:20180107T132530
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

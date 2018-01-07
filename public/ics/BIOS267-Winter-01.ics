@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T122000
-LAST-MODIFIED:20170927T175859
-UID:explore_courses6aceb87d-c236-4f6e-8bcb-0c0031b4c56c
-DTSTAMP:20170927T175859
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180305T122000
+LAST-MODIFIED:20180107T132404
+UID:explore_coursesd62bfa10-0e37-45a6-8c7c-26e16dba4e07
+DTSTAMP:20180107T132404
+LOCATION:Li Ka Shing Center, room 306
 DESCRIPTION:This course will teach principles underlying the biochemistry and biophysics of protein-protein interaction, protein purification, proteomics and mass spectrometry and state-of-the-art tools for assembling protein-protein interaction (PPI) networks including Cytoscape.  PPI networks provide a broad tool to build maps for modeling and hypothesis generation for biological systems.  Adding curated, public and computed metadata to PPI maps will be included in labs. Statistical, logical Boolean, Bayesian, and graph theoretic methods for network analysis will be discussed and used in lab.  Experimental methods in high throughput biology and the strengths/limitations of public data to test multiplexed hypotheses from networks will be emphasized.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS267 LEC
-DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20170927T175859
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180305T103000
+CREATED:20180107T132404
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180323T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

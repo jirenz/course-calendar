@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T212000
-LAST-MODIFIED:20170927T175823
-UID:explore_courses5bbe7b91-02d2-47c4-94d9-dfb3cccdcb50
-DTSTAMP:20170927T175823
-LOCATION:McMurtry Building rm 115
-DESCRIPTION:In this seminar, we will try to come to terms with twenty-first century motion pictures by thinking through a variety of concepts and theoretical approaches designed to explain their relations and differences from the cinema of the previous century. We will consider the impact of digital technologies on film, think about the cultural contexts and aesthetic practices of contemporary motion pictures, and try to understand the experiential dimensions of spectatorship in today's altered viewing conditions. nIn addition to viewing a wide range of recent and contemporary films, we will also engage more directly and materially with post-cinematic moving images: we will experiment with scholarly and experimental uses of non-linear video editing for the purposes of film analysis, cinemetrics, and a variety of academic and creative responses to post-cinematic media.nThe course addresses key issues in recent film and media theory and, especially in its hands-on components, encourages experimentation with methods of digital humanities, computational media art, and other creative practices.nNote: Open to graduate students and advanced undergraduates with permission of the instructor; capstone course for majors (senior seminar). Topics vary year to year. Focus is on historiography and theory. Limited enrollment. Permission code needed in order to enroll.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:FILMSTUD290 SEM
-DTSTART;TZID=America/Los_Angeles:20180402T183000
-CREATED:20170927T175823
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T212000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180404T142000
-LAST-MODIFIED:20170927T175823
-UID:explore_courseseb389d0a-fd54-4728-bf1f-7a45d9271261
-DTSTAMP:20170927T175823
+LAST-MODIFIED:20180107T132247
+UID:explore_coursesbbe161e8-f997-4aac-a91d-17681313b12f
+DTSTAMP:20180107T132247
 LOCATION:McMurtry Building rm 360
 DESCRIPTION:In this seminar, we will try to come to terms with twenty-first century motion pictures by thinking through a variety of concepts and theoretical approaches designed to explain their relations and differences from the cinema of the previous century. We will consider the impact of digital technologies on film, think about the cultural contexts and aesthetic practices of contemporary motion pictures, and try to understand the experiential dimensions of spectatorship in today's altered viewing conditions. nIn addition to viewing a wide range of recent and contemporary films, we will also engage more directly and materially with post-cinematic moving images: we will experiment with scholarly and experimental uses of non-linear video editing for the purposes of film analysis, cinemetrics, and a variety of academic and creative responses to post-cinematic media.nThe course addresses key issues in recent film and media theory and, especially in its hands-on components, encourages experimentation with methods of digital humanities, computational media art, and other creative practices.nNote: Open to graduate students and advanced undergraduates with permission of the instructor; capstone course for majors (senior seminar). Topics vary year to year. Focus is on historiography and theory. Limited enrollment. Permission code needed in order to enroll.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FILMSTUD290 SEM
 DTSTART;TZID=America/Los_Angeles:20180404T113000
-CREATED:20170927T175823
+CREATED:20180107T132247
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T142000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T212000
+LAST-MODIFIED:20180107T132247
+UID:explore_coursesdfc007ee-9596-42b6-9e81-fbfdb6b12741
+DTSTAMP:20180107T132247
+LOCATION:McMurtry Building rm 115
+DESCRIPTION:In this seminar, we will try to come to terms with twenty-first century motion pictures by thinking through a variety of concepts and theoretical approaches designed to explain their relations and differences from the cinema of the previous century. We will consider the impact of digital technologies on film, think about the cultural contexts and aesthetic practices of contemporary motion pictures, and try to understand the experiential dimensions of spectatorship in today's altered viewing conditions. nIn addition to viewing a wide range of recent and contemporary films, we will also engage more directly and materially with post-cinematic moving images: we will experiment with scholarly and experimental uses of non-linear video editing for the purposes of film analysis, cinemetrics, and a variety of academic and creative responses to post-cinematic media.nThe course addresses key issues in recent film and media theory and, especially in its hands-on components, encourages experimentation with methods of digital humanities, computational media art, and other creative practices.nNote: Open to graduate students and advanced undergraduates with permission of the instructor; capstone course for majors (senior seminar). Topics vary year to year. Focus is on historiography and theory. Limited enrollment. Permission code needed in order to enroll.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD290 SEM
+DTSTART;TZID=America/Los_Angeles:20180402T183000
+CREATED:20180107T132247
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T212000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

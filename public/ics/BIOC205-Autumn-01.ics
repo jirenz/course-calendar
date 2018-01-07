@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170828T112000
-LAST-MODIFIED:20170927T175857
-UID:explore_courses63c69e99-4efd-4630-b600-95a2a19fd7e2
-DTSTAMP:20170927T175857
+LAST-MODIFIED:20180107T132401
+UID:explore_coursesf0211da6-3e63-4614-aa1c-0c81c86b3ecb
+DTSTAMP:20180107T132401
 LOCATION:Li Ka Shing Center, room 130
 DESCRIPTION:For medical students. The course examines the impact of molecular biology on medicine.  Topics include DNA structure, replication, recombination, and repair; gene expression by transcription and translation; biotechnology; and genomics. Medical relevance is illustrated by patient presentations and small group discussions of articles from the medical literature.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOC205 LEC
 DTSTART;TZID=America/Los_Angeles:20170828T093000
-CREATED:20170927T175857
+CREATED:20180107T132401
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170922T112000;BYDAY=MO,TU,TH,FR
 END:VEVENT
 END:VCALENDAR

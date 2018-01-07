@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20170927T175949
-UID:explore_courses856e58ce-1cff-42d2-8141-14c8ae7501d3
-DTSTAMP:20170927T175949
+LAST-MODIFIED:20180107T132507
+UID:explore_courses9d4fc348-ff9e-4796-ab8e-724fddf4a106
+DTSTAMP:20180107T132507
 LOCATION:
 DESCRIPTION:Biology and chemistry fundamentals, genetic engineering, cell culture, protein production, pharmaceuticals, genomics, viruses, gene therapy, evolution, immunology, antibodies, vaccines, transgenic animals, cloning, stem cells, intellectual property, governmental regulations, and ethics. Prerequisites: CHEM 31 and MATH 20 or equivalent courage.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG25B LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20170927T175949
+CREATED:20180107T132507
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

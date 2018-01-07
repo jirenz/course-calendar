@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T112000
-LAST-MODIFIED:20170927T175758
-UID:explore_courses7eab9690-b0c0-489a-ab24-df9e273a3b07
-DTSTAMP:20170927T175758
+LAST-MODIFIED:20180107T132208
+UID:explore_courses3d0dc305-daf7-48e0-afa2-1ca359d9b2a4
+DTSTAMP:20180107T132208
 LOCATION:SpilkerEng&AppliedSci143
 DESCRIPTION:Applied Physics Core course appropriate for graduate students and advanced undergraduate students with prior knowledge of elementary quantum mechanics, electricity and magnetism, and ordinary differential equations. Structure of single- and multi-electron atoms and molecules, and cold collisions. Phenomenology and quantitative modeling of atoms in strong fields, with modern applications. Introduction to quantum optical theory of atom-photon interactions, including quantum trajectory theory, mechanical effects of light on atoms, and fundamentals of laser spectroscopy and coherent control.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS203 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T093000
-CREATED:20170927T175758
+CREATED:20180107T132208
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

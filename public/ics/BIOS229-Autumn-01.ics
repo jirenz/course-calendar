@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170928T170000
-LAST-MODIFIED:20170927T175859
-UID:explore_coursesf398bef5-9252-41f3-80e2-47d3c48546bb
-DTSTAMP:20170927T175859
+LAST-MODIFIED:20180107T132404
+UID:explore_courses98b07cd1-de04-4291-afa1-5a7162470718
+DTSTAMP:20180107T132404
 LOCATION:
 DESCRIPTION:Two-day short course. Focus is on the progression of a drug discovery project from target identification through pre-clinical research, early and late clinical development, and registration with the health authorities. Presented by Novartis. Enrollment limited to postdoctoral students and graduate students with research experience.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS229 WKS
 DTSTART;TZID=America/Los_Angeles:20170928T080000
-CREATED:20170927T175859
+CREATED:20180107T132404
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170929T170000;BYDAY=TH,FR
 END:VEVENT
 END:VCALENDAR

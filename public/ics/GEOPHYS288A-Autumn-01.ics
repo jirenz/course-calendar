@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T162000
-LAST-MODIFIED:20170927T175945
-UID:explore_courseseb7abf96-7996-48e8-9ae7-f7eb0516ba46
-DTSTAMP:20170927T175945
+LAST-MODIFIED:20180107T132501
+UID:explore_coursesfa722ad4-1977-43ed-a7a9-ddaa2a9caf67
+DTSTAMP:20180107T132501
 LOCATION:Mitch350
 DESCRIPTION:Earthquake and volcanic deformation, emphasizing analytical models that can be compared to data from GPS, InSAR, and strain meters. Deformation, stress, and conservation laws. Dislocation models of strike slip and dip slip faults, in 2 and 3 dimensions. Crack models, including boundary element methods. Dislocations in layered and elastically heterogeneous earth models. Models of volcano deformation, including sills, dikes, and magma chambers. Offered every other year, autumn quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS288A LEC
 DTSTART;TZID=America/Los_Angeles:20170926T150000
-CREATED:20170927T175945
+CREATED:20180107T132501
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

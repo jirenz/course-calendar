@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T145000
-LAST-MODIFIED:20170927T175944
-UID:explore_coursesb6d31a4d-0e65-4601-a15e-566a80e4fc89
-DTSTAMP:20170927T175944
+LAST-MODIFIED:20180107T132500
+UID:explore_coursesde1d31af-1450-4967-82b3-07185bcce1ce
+DTSTAMP:20180107T132500
 LOCATION:
 DESCRIPTION:Examine the physical processes operating in sedimentary basins by deriving the basic equations of fundamental, coupled geologic processes such as fluid flow and heat flow, deposition, compaction, mass conservation, and chemical reactions. Through hands-on computational exercises and instructor-provided &quot;recipes,&quot; students will deconstruct the black box of basin modeling software. Students write their own codes (Matlab) as well as gain expertise in modern finite-element modeling software (PetroMod, COMSOL).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GS256 SEM
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20170927T175944
+CREATED:20180107T132500
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

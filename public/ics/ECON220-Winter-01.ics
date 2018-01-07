@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T112000
-LAST-MODIFIED:20170927T175819
-UID:explore_courses2e296467-cf26-4be6-a388-f36b477ca1d6
-DTSTAMP:20170927T175819
-LOCATION:160-321
-DESCRIPTION:Theoretical models of political economy. Potential topics include: basic social choice theory, democracy, electoral competition, political accountability, legislative bargaining, lobbying, corruption, autocratic politics, democratization, conflict and arms races, and institutional change. Attention to economics implications, including taxation, redistribution, and public goods.  Prerequisite: 203 or permission of instructors.
+DTEND;TZID=America/Los_Angeles:20180108T172000
+LAST-MODIFIED:20180107T132239
+UID:explore_courses85cdb4ae-e7c5-44ed-99a7-9e90e5bb5902
+DTSTAMP:20180107T132239
+LOCATION:160-315
+DESCRIPTION:Theoretical models of political economy. Potential topics include: basic social choice theory, democracy, electoral competition, political accountability, legislative bargaining, lobbying, corruption, autocratic politics, democratization, conflict and arms races, and institutional change. Attention to economics implications, including taxation, redistribution, and public goods.  Prerequisite: Econ 203 or permission of instructors.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON220 LEC
-DTSTART;TZID=America/Los_Angeles:20180109T093000
-CREATED:20170927T175819
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180108T153000
+CREATED:20180107T132239
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

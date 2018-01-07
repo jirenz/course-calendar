@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20170927T175847
-UID:explore_courses94f46f1d-4150-4368-8f3e-57b4e40f3a68
-DTSTAMP:20170927T175847
-LOCATION:STLC118
-DESCRIPTION:Interdisciplinary research helps combine theories, concepts, perspectives, and methodologies, and is therefore critical to the advancement of science. This seminar will bring together students interested in race-related research from various disciplines (e.g., anthropology, education, political science, psychology, sociology). Through this seminar, students will broaden their familiarity with race-related research and learn how to communicate and collaborate with scholars outside of their immediate discipline. I will lecture every now and then, usually to provide background or introduction to a topic, but most of what you will learn will come from your peers. That is, this course will be minimally didactic; the goal is to maximize interdisciplinary conversations and collaborations, and to systematically review emerging theories, methods, concepts, and practices from various disciplines.
+DTEND;TZID=America/Los_Angeles:20180404T162000
+LAST-MODIFIED:20180107T132341
+UID:explore_coursesa33a8567-8f98-4f55-aa31-556d85393831
+DTSTAMP:20180107T132341
+LOCATION:360-361A
+DESCRIPTION:Our topic is the psychology of racial inequality &iquest; thinking, feeling, and behaving in ways that contribute to racial stereotyping, prejudice, and discrimination, and how these processes in turn maintain and perpetuate inequality between racial groups. We will examine how these processes unfold at the individual level (e.g., person perception, dehumanization) and at the institutional level (e.g., in education, law enforcement, and employment). Throughout this course, you will familiarize yourself with the psychological perspectives, methods, and findings that help explain racial inequality, so that you can explore ways to promote racial equality. You will also engage critically with the issues and readings by sharing perspectives, confusions, and insights through writing and discussion, so that you can broaden your knowledge base and explain, from a psychological perspective, the pervasiveness of racial inequality.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH286 SEM
-DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20170927T175847
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180404T150000
+CREATED:20180107T132341
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

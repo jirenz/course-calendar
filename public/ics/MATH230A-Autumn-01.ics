@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T145000
-LAST-MODIFIED:20170927T175837
-UID:explore_coursesc5c3b36a-589f-44a8-bb6b-98a568bfc581
-DTSTAMP:20170927T175837
+LAST-MODIFIED:20180107T132316
+UID:explore_courses0dc2f750-6a51-46d1-851c-fbad45485734
+DTSTAMP:20180107T132316
 LOCATION:260-113
 DESCRIPTION:Mathematical tools: sigma algebras, measure theory, connections between coin tossing and Lebesgue measure, basic convergence theorems. Probability: independence, Borel-Cantelli lemmas, almost sure and Lp convergence, weak and strong laws of large numbers. Large deviations. Weak convergence; central limit theorems; Poisson convergence; Stein's method. Prerequisites: 116, MATH 171.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH230A PRC
 DTSTART;TZID=America/Los_Angeles:20170925T133000
-CREATED:20170927T175837
+CREATED:20180107T132316
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

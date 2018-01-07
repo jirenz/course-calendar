@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20170927T180002
-UID:explore_coursesa6a36c91-b828-4053-acae-c8065bde154d
-DTSTAMP:20170927T180002
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20180107T132526
+UID:explore_coursesf6f8eaf4-1224-4725-922e-50ac6a9ff650
+DTSTAMP:20180107T132526
 LOCATION:380-380F
-DESCRIPTION:Examines the role of analytics in real-world solutions across different industries. Provides a short introduction on the main concepts of analytics, and addresses common modeling approaches for both supervised (e.g., regression and classification) and unsupervised techniques (e.g., clustering, anomaly detection and pattern recognition), using platforms such as Hadoop and R. Discussion of implementations of these models in various industries, such as manufacturing, retail, banking, marketing, telecom and security. Teams of students will be required to prepare and present an analytics use case, covering aspects related to data collection, pre-processing, modeling, analyses, visualization, recommendations, implementation, business value and ROI. Students will be expected to come prepared to class, ready to discuss the case at hand, and offer their thoughts and insights. Cases will be presented in the context of leading a data science team, much as a Chief Analytics Officer (CAO) would be expected to do. Prerequisite: 226, CME 195, or equivalents.
+DESCRIPTION:Explores the underlying network structure of social, economic, and technological world using techniques from graph theory and economics, as well as machine learning and data analysis. Prerequisite: 226, CME 195, or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E235 LEC
-DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20170927T180002
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20180107T132526
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

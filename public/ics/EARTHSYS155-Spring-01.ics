@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20170927T175940
-UID:explore_courses30a1ead1-ddde-4203-8495-2e1aeaed52a1
-DTSTAMP:20170927T175940
-LOCATION:
+LAST-MODIFIED:20180107T132455
+UID:explore_courses2c4251d0-c7aa-4883-b9e9-07ba0c960c8d
+DTSTAMP:20180107T132455
+LOCATION:Turingaud
 DESCRIPTION:Physical, chemical, and biological processes within soil systems. Emphasis is on factors governing nutrient availability, plant growth and production, land-resource management, and pollution within soils. How to classify soils and assess nutrient cycling and contaminant fate. Recommended: introductory chemistry and biology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS155 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20170927T175940
+CREATED:20180107T132455
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

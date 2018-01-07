@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T112000
-LAST-MODIFIED:20170927T175837
-UID:explore_courses85e8331a-a54d-45c9-9e5d-1c3ad0699916
-DTSTAMP:20170927T175837
+LAST-MODIFIED:20180107T132316
+UID:explore_courses39210c60-9e90-48a0-844e-2b78d15c5645
+DTSTAMP:20180107T132316
 LOCATION:McCullough 126
 DESCRIPTION:MDL is a discovery-based project course in mathematics. Students work independently in small groups to explore open-ended mathematical problems and discover original mathematics. Students formulate conjectures and hypotheses; test predictions by computation, simulation, or pure thought; and present their results to classmates. No lecture component; in-class meetings reserved for student presentations, attendance mandatory. Admission is by application: http://math101.stanford.edu. Motivated students with any level of mathematical background are encouraged to apply. WIM
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH101 SEM
 DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20170927T175837
+CREATED:20180107T132316
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

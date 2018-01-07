@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20170927T180006
-UID:explore_courses9b9c6cd5-6b04-48b2-9e68-9d7ad8ff1b65
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132531
+UID:explore_courses65c576d6-2f6d-43e9-bbe5-16217be3c4c0
+DTSTAMP:20180107T132531
 LOCATION:200-030
 DESCRIPTION:Engineering approaches applied to the musculoskeletal system in the context of surgical and medical care. Fundamental anatomy and physiology. Material and structural characteristics of hard and soft connective tissues and organ systems, and the role of mechanics in normal development and pathogenesis. Engineering methods used in the evaluation and planning of orthopaedic procedures, surgery, and devices.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME381 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20170927T180006
+CREATED:20180107T132531
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

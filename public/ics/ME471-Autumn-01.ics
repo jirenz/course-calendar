@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T115000
-LAST-MODIFIED:20170927T180006
-UID:explore_coursesafebd06d-a4dc-4553-b14b-51eb61371835
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132531
+UID:explore_coursesfef4e2fa-a2b7-45c7-b2b3-d5aabca83366
+DTSTAMP:20180107T132531
 LOCATION:50-51B
 DESCRIPTION:Basis of turbulent combustion models. Assumption of scale separation between turbulence and combustion, resulting in Reynolds number independence of combustion models. Level-set approach for premixed combustion. Different regimes of premixed turbulent combustion with either kinematic or diffusive flow/chemistry interaction leading to different scaling laws and unified expression for turbulent velocity in both regimes. Models for non-premixed turbulent combustion based on mixture fraction concept. Analytical predictions for flame length of turbulent jets and NOx formation. Partially premixed combustion. Analytical scaling for lift-off heights of lifted diffusion.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME471 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T103000
-CREATED:20170927T180006
+CREATED:20180107T132531
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

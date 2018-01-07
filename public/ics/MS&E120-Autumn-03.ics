@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170929T112000
-LAST-MODIFIED:20170927T180002
-UID:explore_coursesdffb61b7-f73f-4aee-ac8b-e1ad135ba065
-DTSTAMP:20170927T180002
+LAST-MODIFIED:20180107T132526
+UID:explore_coursesa24e6b49-079d-46c0-99bb-570538d651f7
+DTSTAMP:20180107T132526
 LOCATION:420-041
 DESCRIPTION:Concepts and tools for the analysis of problems under uncertainty, focusing on focusing on structuring, model building, and analysis. Examples from legal, social, medical, and physical problems. Topics include axioms of probability, probability trees, random variables, distributions, conditioning, expectation, change of variables, and limit theorems. Prerequisite: CME 100 or MATH 51.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E120 DIS
 DTSTART;TZID=America/Los_Angeles:20170929T103000
-CREATED:20170927T180002
+CREATED:20180107T132526
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

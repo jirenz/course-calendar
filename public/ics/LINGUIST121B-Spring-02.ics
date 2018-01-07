@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180405T172000
-LAST-MODIFIED:20170927T175836
-UID:explore_coursesd2b51312-57c1-46ab-83ab-aea3a267c877
-DTSTAMP:20170927T175836
-LOCATION:380-380D
+DTEND;TZID=America/Los_Angeles:20180405T112000
+LAST-MODIFIED:20180107T132313
+UID:explore_coursesa602c3c2-0ae6-4eff-9e29-23ef64f675dc
+DTSTAMP:20180107T132313
+LOCATION:Lathrop 298
 DESCRIPTION:A data-driven introduction to the study of syntax through the investigation of a diverse array of the world's languages, including but not limited to English. Emphasis is on understanding how languages are systematically alike and different in their basic sentence structure. The course focuses on building up syntactic argumentation skills via the collective development of a partial formal theory of sentence structure, which attempts to model native speaker knowledge. Satisfies the WIM requirement for Linguistics and the WAY-FR requirement. Prerequisites: none (can be taken before or after Linguistics 121A). The discussion section is mandatory.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LINGUIST121B DIS
-DTSTART;TZID=America/Los_Angeles:20180405T163000
-CREATED:20170927T175836
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T103000
+CREATED:20180107T132313
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

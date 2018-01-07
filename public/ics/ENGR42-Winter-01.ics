@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses3d435d9d-3d3d-477f-9667-f7b0a344394a
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132525
+UID:explore_coursesad1a1c91-a2e4-433f-b80f-39f8a2ee6c1f
+DTSTAMP:20180107T132525
 LOCATION:320-107
 DESCRIPTION:Electricity and magnetism and its essential role in modern electrical engineering devices and systems, such as sensors, displays, DVD players, and optical communication systems. The topics that will be covered include electrostatics, magnetostatics, Maxwell's equations, one-dimensional wave equation, electromagnetic waves, transmission lines, and one-dimensional resonators. Pre-requisites: MATH 42 or MATH 51 or CME 100 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR42 LAB
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20170927T180001
+CREATED:20180107T132525
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

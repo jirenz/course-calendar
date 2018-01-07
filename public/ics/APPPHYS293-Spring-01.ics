@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20160405T145000
-LAST-MODIFIED:20170927T175758
-UID:explore_coursesa9e91da3-5a20-4fbd-913c-9a7aea62376d
-DTSTAMP:20170927T175758
+LAST-MODIFIED:20180107T132208
+UID:explore_courses2f3aa9b1-2830-4286-b450-eb0404b99e20
+DTSTAMP:20180107T132208
 LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Survey of advances in the theory of neural networks, mainly (but not solely) focused on results of relevance to theoretical neuroscience.Synthesizing a variety of recent advances that potentially constitute the outlines of a theory for understanding when a given neural network architecture will work well on various classes of modern recognition and classification tasks, both from a representational expressivity and a learning efficiency point of view. Discussion of results in the neurally-plausible approximation of back propagation, theory of spiking neural networks, the relationship between network and task dimensionality, and network state coarse-graining. Exploration of estimation theory for various typical methods of mapping neural network models to neuroscience data, surveying and analyzing recent approaches from both sensory and motor areas in a variety of species. Prerequisites: calculus, linear algebra, and basic probability theory, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS293 LEC
 DTSTART;TZID=America/Los_Angeles:20160405T133000
-CREATED:20170927T175758
+CREATED:20180107T132208
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

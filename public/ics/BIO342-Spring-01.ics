@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180406T172000
-LAST-MODIFIED:20170927T175802
-UID:explore_coursesf572ffd6-9145-4ad4-acb5-e028281270e8
-DTSTAMP:20170927T175802
+LAST-MODIFIED:20180107T132218
+UID:explore_coursesc069320f-01df-4a18-8508-a6e7661a2b7a
+DTSTAMP:20180107T132218
 LOCATION:
-DESCRIPTION:Topics announced at the beginning of each quarter. Current literature. May be repeated for credit. See http://carnegiedpb.stanford.edu/seminars/seminars.php.
+DESCRIPTION:Topics in plant biology presented at a weekly seminar. Topics announced at the beginning of each quarter. Current literature. May be repeated for credit. See https://dpb.carnegiescience.edu/events.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO342 SEM
 DTSTART;TZID=America/Los_Angeles:20180406T153000
-CREATED:20170927T175802
+CREATED:20180107T132218
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

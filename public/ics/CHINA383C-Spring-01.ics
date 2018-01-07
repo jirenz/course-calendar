@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T142000
-LAST-MODIFIED:20170927T175806
-UID:explore_coursesff11abfd-b77f-4161-85ca-e83a090d2d4c
-DTSTAMP:20170927T175806
+LAST-MODIFIED:20180107T132223
+UID:explore_courses976f91e7-eb2c-41f5-828b-cfd77501d26f
+DTSTAMP:20180107T132223
 LOCATION:380-380W
 DESCRIPTION:A survey of Chinese history from the 11th century to the collapse of the imperial state in 1911. Topics include absolutism, gentry society, popular culture, gender and sexuality, steppe nomads, the Jesuits in China, peasant rebellion, ethnic conflict, opium, and the impact of Western imperialism.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHINA383C COL
 DTSTART;TZID=America/Los_Angeles:20180402T123000
-CREATED:20170927T175806
+CREATED:20180107T132223
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T142000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

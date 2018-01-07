@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T102000
-LAST-MODIFIED:20170927T175958
-UID:explore_coursesee2dd27e-5a95-49ad-993f-5247a2079c2a
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_courses26aad366-4cea-4d59-a562-9d7561eb64d9
+DTSTAMP:20180107T132519
 LOCATION:STLC118
 DESCRIPTION:This seminar will explore some of both the great discoveries that underlie computer science and the inventions that have produced the remarkable advances in computing technology. Key questions we will explore include: What is computable? How can information be securely communicated? How do computers fundamentally work? What makes computers fast? Our exploration will look both at the principles behind the discoveries and inventions, as well as the history and the people involved in those events. Some exposure to programming will be helpful, but it not strictly necessary.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS56N ISF
 DTSTART;TZID=America/Los_Angeles:20170926T090000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

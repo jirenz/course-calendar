@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T152000
-LAST-MODIFIED:20170927T175948
-UID:explore_courses0bfbc3cd-8ea1-4ef4-b0a5-8b516aa49b08
-DTSTAMP:20170927T175948
+LAST-MODIFIED:20180107T132506
+UID:explore_coursesc8e36b7e-2153-4a8d-b7da-fc4431956f32
+DTSTAMP:20180107T132506
 LOCATION:
 DESCRIPTION:This course exposes students to the engineering principles and clinical application of medical devices through lectures and hands-on labs, performed in teams of two. Teams take measurements with these devices and fit their data to theory presented in the lecture. Devices covered include X-ray, CT, MRI, EEG, ECG, Ultrasound and BMI (Brain-machine interface). Prerequisites: BIOE 103 or BIOE 300B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE201C LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20170927T175948
+CREATED:20180107T132506
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

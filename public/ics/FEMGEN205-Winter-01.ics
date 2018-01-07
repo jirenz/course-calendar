@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T175000
-LAST-MODIFIED:20170927T175823
-UID:explore_courses6ea98b00-f051-4150-8336-1eccf89ce418
-DTSTAMP:20170927T175823
-LOCATION:110-101
+DTEND;TZID=America/Los_Angeles:20180110T175000
+LAST-MODIFIED:20180107T132245
+UID:explore_courses79b38d33-ac26-4548-a308-e4894a9c80b2
+DTSTAMP:20180107T132245
+LOCATION:260-011
 DESCRIPTION:Analysis of medieval love, satirical and Crusade lyrics of the trouabdours. Study of deictic address, corporeal subjectivity, the female voice, love debates, and the body as a figure of political conflict.  Course readings include medieval treatises on lyric and modern translations of the troubadour tradition.  Works by Ovid, Bernart de Ventadorn, Bertran de Born, La Comtessa de Dia, Thibaut de Champagne, Raimon Vidal, Dante, and Pound.  Taught in English. Course includes a lab component for creation of multi-media translation projects: trobar. stanford.edu.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FEMGEN205 SEM
-DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20170927T175823
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180110T150000
+CREATED:20180107T132245
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

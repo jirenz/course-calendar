@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T112000
-LAST-MODIFIED:20170927T175808
-UID:explore_coursese79af020-c584-4a2d-bd05-d2cebf84c151
-DTSTAMP:20170927T175808
-LOCATION:160-330
+DTEND;TZID=America/Los_Angeles:20180109T102000
+LAST-MODIFIED:20180107T132226
+UID:explore_courses54d09e53-d714-4c5b-9a70-0e1fb11041e4
+DTSTAMP:20180107T132226
+LOCATION:260-007
 DESCRIPTION:(Formerly CLASSLAT 102.) In this class you will practice with and reinforce the advanced vocabulary, forms, and syntax of classical Latin you have previously acquired. The primary emphasis of this course is on developing fluency in reading Latin. You will have opportunities to discuss topics and issues raised by the readings.Your knowledge of the content and syntax of the readings will be assessed by several short translation/grammar quizzes.Classics majors and minors may repeat for credit with advance approval from the Director of Undergraduate Studies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CLASSICS12L LNG
-DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20170927T175808
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180109T090000
+CREATED:20180107T132226
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180406T102000
-LAST-MODIFIED:20170927T175805
-UID:explore_coursesda33a918-223d-4dcd-a8a1-127b55e1137d
-DTSTAMP:20170927T175805
+LAST-MODIFIED:20180107T132221
+UID:explore_coursesa646dd48-c81d-4144-9c0f-778318da1bfa
+DTSTAMP:20180107T132221
 LOCATION:
 DESCRIPTION:Introduction to organic chemistry. Learn to relate three dimensional structure of organic molecules to their chemical and physical properties. Introduced to a variety of functional groups that exhibit patterns of reactivity and learn how to predict products of a reaction in the context of thermodynamics and kinetics. Two hour weekly lab section accompanies the course to introduce the techniques of separation and identification of organic compounds. Prerequisite: 31A,B, or 31X, or AP Chemistry score of 5.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM33 DIS
 DTSTART;TZID=America/Los_Angeles:20180406T083000
-CREATED:20170927T175805
+CREATED:20180107T132221
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20170927T175844
-UID:explore_courses17c8c123-b627-406a-a411-011f1ecaa642
-DTSTAMP:20170927T175844
+LAST-MODIFIED:20180107T132335
+UID:explore_courses860179a2-c2d2-4b5c-ac00-41c2bd35a27c
+DTSTAMP:20180107T132335
 LOCATION:60-109
 DESCRIPTION:This course gives an introduction to quantum information theory through the study of symmetries. We start with Bell's and Tsirelson's inequalities, which bound the strength of classical and quantum correlations, and discuss their relation to algebraic symmetries. Next, we exploit permutation symmetry to quantify the monogamy of entanglement and explain how to securely distribute a secret key. Lastly, we study quantum information in the limit of many copies and discuss a powerful technique for constructing universal quantum protocols, based on the Schur-Weyl duality between the unitary and symmetric groups. Applications include quantum data compression, state estimation, and entanglement distillation. Prerequisite: PHYSICS 230 or equivalent. All required group and representation theory will be introduced. This course runs for the first five weeks of the quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS491 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20170927T175844
+CREATED:20180107T132335
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

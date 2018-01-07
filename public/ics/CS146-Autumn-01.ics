@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T175000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses4935533a-0c38-4763-9004-716d7c76f4b0
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_coursesb051535f-d7b5-4e79-ac44-67b9e2820db2
+DTSTAMP:20180107T132519
 LOCATION:420-041
 DESCRIPTION:This project-based course provides an introduction to game design covering topics like 2D/3D Art, Audio, User Interfaces, Production, Narrative Design, Marketing, and Publishing. Speakers from the profession will provide relevant context during a weekly seminar. Weekly assignments include in-depth materials and require students to independently create small video games. Classroom meetings will be used to foster student project discussions, and deepen understanding of material. The course culminates with students forming project teams to create a final video game. Assignments will be completed within the Unity game development engine; prior Unity experience is not required. Given class size limitations, an online survey will be distributed before class starts and students will be selected so to achieve a diverse class composition. Prerequisite: CS 106A or equivalent programming experience.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS146 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T163000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

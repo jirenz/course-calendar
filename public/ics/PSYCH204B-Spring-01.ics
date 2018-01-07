@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T102000
-LAST-MODIFIED:20170927T175847
-UID:explore_coursesec88765c-4f4b-47f3-a080-dd2d7a6335cc
-DTSTAMP:20170927T175847
+LAST-MODIFIED:20180107T132341
+UID:explore_courses42295f16-be30-4778-bf9a-a89e73f7217e
+DTSTAMP:20180107T132341
 LOCATION:420-419
 DESCRIPTION:This course introduces the student to human neuroimaging using magnetic resonance scanners.  The course is a mixture of lectures and hands-on software tutorials.  The course begins by introducing basic MR principles.  Then various MR measurement modalities are described, including several types of structural and functional imaging methods.  Finally algorithms for analyzing and visualizing the various types of neuroimaging data are explained, including anatomical images, functional data, diffusion imaging (e.g., DTI) and magnetization transfer.  Emphasis is on explaining software methods used for interpreting these types of data.nRequired: Psych 204a;  Recommended: Cognitive Neuroscience.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH204B LEC
 DTSTART;TZID=America/Los_Angeles:20180403T090000
-CREATED:20170927T175847
+CREATED:20180107T132341
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

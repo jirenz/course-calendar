@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T102000
-LAST-MODIFIED:20170927T175943
-UID:explore_courses00df59e7-24b1-4e52-82eb-76b38dea5d1c
-DTSTAMP:20170927T175943
-LOCATION:Green Earth Sciences150
+LAST-MODIFIED:20180107T132459
+UID:explore_courses24c257ed-b859-4b9e-a5a4-dc4c610f8d12
+DTSTAMP:20180107T132459
+LOCATION:Shriram Ctr BioChemE 102
 DESCRIPTION:This course will provide the practical background necessary to construct and implement a 2-dimensional (space and time) numerical model of a simple marine ecosystem.  Instruction on computer programming, model design and parameterization, and model evaluation will be provided.  Throughout the 10-week course, each student will develop and refine their own multi-component marine ecosystem model.  Instructor consent required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS244 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T093000
-CREATED:20170927T175943
+CREATED:20180107T132459
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

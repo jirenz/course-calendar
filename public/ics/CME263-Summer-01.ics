@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180626T132000
-LAST-MODIFIED:20170927T175953
-UID:explore_courses3f794716-f14d-46f5-ae90-16c163edfb5b
-DTSTAMP:20170927T175953
+LAST-MODIFIED:20180107T132511
+UID:explore_courses85bac48a-2964-4045-b18c-596d9571e8ee
+DTSTAMP:20180107T132511
 LOCATION:200-303
-DESCRIPTION:Applied linear algebra and linear dynamical systems with applications to circuits, signal processing, communications, and control systems. Topics: least-squares approximations of over-determined equations, and least-norm solutions of underdetermined equations. Symmetric matrices, matrix norm, and singular-value decomposition. Eigenvalues, left and right eigenvectors, with dynamical interpretation. Matrix exponential, stability, and asymptotic behavior. Multi-input/multi-output systems, impulse and step matrices; convolution and transfer-matrix descriptions. Control, reachability, and state transfer; observability and least-squares state estimation. Prerequisites: linear algebra and matrices as in EE103 or MATH104; ordinary differential equations and Laplace transforms as in CME 102 or EE102B.
+DESCRIPTION:Applied linear algebra and linear dynamical systems with applications to circuits, signal processing, communications, and control systems. Topics: least-squares approximations of over-determined equations, and least-norm solutions of underdetermined equations. Symmetric matrices, matrix norm, and singular-value decomposition. Eigenvalues, left and right eigenvectors, with dynamical interpretation. Matrix exponential, stability, and asymptotic behavior. Multi-input/multi-output systems, impulse and step matrices; convolution and transfer-matrix descriptions. Control, reachability, and state transfer; observability and least-squares state estimation. Prerequisites: Linear algebra and matrices as in EE103 or MATH104; ordinary differential equations and Laplace transforms as in EE102B or CME 102.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME263 LEC
 DTSTART;TZID=America/Los_Angeles:20180626T113000
-CREATED:20170927T175953
+CREATED:20180107T132511
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T165000
-LAST-MODIFIED:20170927T175958
-UID:explore_coursesb5269c6e-eefb-44ff-a67b-80dc7a709635
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_courses9c8c1d10-f6dd-411e-9c09-2162992e053a
+DTSTAMP:20180107T132519
 LOCATION:STLC111
 DESCRIPTION:This course will prepare students to interview for software engineering and related internships and full-time positions in industry. Drawing on multiple sources of actual interview questions, students will learn key problem-solving strategies specific to the technical/coding interview. Students will be encouraged to synthesize information they have learned across different courses in the major. Emphasis will be on the oral and combination written-oral modes of communication common in coding interviews, but which are unfamiliar settings for problem solving for many students. Prerequisites: CS 106B or X.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS9 SEM
 DTSTART;TZID=America/Los_Angeles:20170926T150000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T165000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

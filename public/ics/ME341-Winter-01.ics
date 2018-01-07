@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T152000
-LAST-MODIFIED:20170927T180006
-UID:explore_courses793f0a95-d3da-4ee3-a2d9-d120db70343a
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132531
+UID:explore_courses9a74082c-4280-49d0-95e4-a63f2b810175
+DTSTAMP:20180107T132531
 LOCATION:
 DESCRIPTION:Design experiments to learn about the relationship between users and products, with an emphasis on quantitative output that is tested with statistics. Students will be exposed to all components of the experimental design process: research proposition, literature review, detailed hypotheses, method selection, experimental instruments, subject selection, pilot studies, analysis approaches, reporting results, and discussing conclusions. Students will receive human subjects training and complete the IRB certificate. Possible experiment design tools include in-person observation and interviews, web surveys, and eye-tracking.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME341 LAB
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20170927T180006
+CREATED:20180107T132531
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

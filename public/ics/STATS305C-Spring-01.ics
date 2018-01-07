@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T132000
-LAST-MODIFIED:20170927T175853
-UID:explore_coursesf87dfa85-f756-4c14-a519-86d5e707b10c
-DTSTAMP:20170927T175853
+LAST-MODIFIED:20180107T132356
+UID:explore_coursesead2370c-6ea1-4e30-8bdd-0cf7980b8421
+DTSTAMP:20180107T132356
 LOCATION:Sequoia Hall 200
 DESCRIPTION:Theory, computational aspects, and practice of a variety of important multivariate statistical tools for data analysis. Topics include classical multivariate Gaussian and undirected graphical models, graphical displays. PCA, SVD and generalizations including canonical correlation analysis, linear discriminant analysis, correspondence analysis, with focus on recent variants. Factor analysis and independent component analysis. Topic modeling.  Multidimensionalnscaling and its variants (e.g. Isomap, spectral clustering). Matrix completion. nStudents will be expected to program - ideally in R. Prerequisites: Stats305a and Stats 305b or equivalent. (NB: prior to 2016-17 the 305ABC series was numbered as 305, 306A and 306B).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS305C LEC
 DTSTART;TZID=America/Los_Angeles:20180402T113000
-CREATED:20170927T175853
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

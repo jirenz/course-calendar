@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180111T112000
-LAST-MODIFIED:20170927T175903
-UID:explore_courses9206150a-0cdd-4a1d-9d39-966017daae9e
-DTSTAMP:20170927T175903
+LAST-MODIFIED:20180107T132411
+UID:explore_courses5b08fcd1-4836-4cf1-8132-55f9369b8b47
+DTSTAMP:20180107T132411
 LOCATION:
-DESCRIPTION:The goal of this course is to explore how different experimental strategies are applied to a variety of biological questions. By experimental strategy, we refer to both the general method and the logic with which the method is applied. An underlying theme of the course is that each strategy we discuss can be applied to problems that cut across different disciplines, for example immunology, cancer biology, or embryology.  Genome evolution, organization, and function; technical, computational, and experimental approaches; hands-on experience with representative computational tools used in genome science; and a work knowledge of the scripting language Python
+DESCRIPTION:The goal of this course is to explore different genomic approaches and technologies, to learn how they work from a molecular biology view point, and to understand how they can be applied to understanding biological systems. In addition, we teach material on how the data generated from these approaches can be analyzed, from an algorithmic perspective. The papers that are discussed are a mixture of algorithmic papers, and technological papers. Finally, the course has a strong programming component, with Python being the language that we teach. All of our problem sets require Python programming - while beginning programmers succeed in our course, it is a steep learning curve, and the problem sets can require a significant time investment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE211 DIS
 DTSTART;TZID=America/Los_Angeles:20180111T093000
-CREATED:20170927T175903
+CREATED:20180107T132411
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

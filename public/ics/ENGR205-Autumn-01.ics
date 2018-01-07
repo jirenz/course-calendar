@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T102000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses742d88b4-c1b5-42f9-be72-c3fb7c47bf68
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132525
+UID:explore_courses793859a9-bbe9-4831-a2a9-b469a42fa8ff
+DTSTAMP:20180107T132525
 LOCATION:Gates B1
 DESCRIPTION:Review of root-locus and frequency response techniques for control system analysis and synthesis. State-space techniques for modeling, full-state feedback regulator design, pole placement, and observer design. Combined observer and regulator design. Lab experiments on computers connected to mechanical systems. Prerequisites: 105, MATH 103, 113. Recommended: Matlab.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR205 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T090000
-CREATED:20170927T180001
+CREATED:20180107T132525
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

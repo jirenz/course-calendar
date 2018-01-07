@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180406T172000
-LAST-MODIFIED:20170927T175949
-UID:explore_coursese2162a01-98d1-4cca-88ce-ecf8471d1be5
-DTSTAMP:20170927T175949
+LAST-MODIFIED:20180107T132507
+UID:explore_courses4e7256f9-c42c-4558-a8da-40493fe2e46d
+DTSTAMP:20180107T132507
 LOCATION:Huang Engineering Center 203
 DESCRIPTION:Overview of chemical engineering through discussion and engineering analysis of physical and chemical processes. Topics: overall staged separations, material and energy balances, concepts of rate processes, energy and mass transport, and kinetics of chemical reactions. Applications of these concepts to areas of current technological importance: biotechnology, energy, production of chemicals, materials processing, and purification. Prerequisite: CHEM 31.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG20 DIS
 DTSTART;TZID=America/Los_Angeles:20180406T153000
-CREATED:20170927T175949
+CREATED:20180107T132507
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

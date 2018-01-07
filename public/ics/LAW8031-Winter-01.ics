@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T141500
-LAST-MODIFIED:20170927T175752
-UID:explore_courses001b80c4-a77d-402d-b22b-d05a5f2f537d
-DTSTAMP:20170927T175752
-LOCATION:
+LAST-MODIFIED:20180107T132149
+UID:explore_courses4f7806d6-7f76-40be-9a1a-b68112b54578
+DTSTAMP:20180107T132149
+LOCATION:Law271
 DESCRIPTION:(Formerly Law 218)  Required for and limited to JSD candidates. The objective of the colloquium is to assist students in designing, conducting, analyzing and reporting their doctoral dissertation research. Weekly colloquium sessions are devoted to work in progress presentations by JSD candidates, supplemented by occasional guest lectures and discussions of cross-cutting issues of interest to doctoral students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW8031 SEM
 DTSTART;TZID=America/Los_Angeles:20180109T124500
-CREATED:20170927T175752
+CREATED:20180107T132149
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T141500;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

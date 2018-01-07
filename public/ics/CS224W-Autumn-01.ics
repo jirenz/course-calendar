@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses6c60ccb8-5e47-4b1d-a723-8cbe59da2af9
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_courses6c5da0f4-c55c-45ab-833c-27eb3c67b976
+DTSTAMP:20180107T132519
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Networks are a fundamental tool for modeling complex social, technological, and biological systems. Coupled with emergence of online social networks and large-scale data availability in biological sciences, this course focuses on the analysis of massive networks which provide many computational, algorithmic, and modeling challenges. This course develops computational tools that reveal how the social, technological, and natural worlds are connected, and how the study of networks sheds light on these connections. nTopics include: how information spreads through society; robustness and fragility of food webs and financial markets; algorithms for the World Wide Web; friend prediction in online social networks; identification of functional modules in biological networks; disease outbreak detection.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS224W LEC
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

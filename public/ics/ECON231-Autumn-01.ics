@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170926T132000
-LAST-MODIFIED:20170927T175819
-UID:explore_coursesa4e538c9-1f73-45c7-9a62-90f6830d28ea
-DTSTAMP:20170927T175819
-LOCATION:Econ 106
+DTEND;TZID=America/Los_Angeles:20170928T132000
+LAST-MODIFIED:20180107T132239
+UID:explore_coursesecb00df3-b2f1-410a-a211-e3260604d2a3
+DTSTAMP:20180107T132239
+LOCATION:Econ 206
 DESCRIPTION:Fundamentally important issues for theoretical analysis of macro-dynamical systems with global externalities are the focus of this course's 9 (weekly) meetings: (i) public goods (e.g., information) and public bads (uncontrolled GHG emissions), (ii) sequential decision-making under uncertainty (e.g., multi-period investment programs, and management of evolving technology portfolios), and (iii) time discounting, allowing for rare events and catastrophic risks.  Novel approaches to program designs for global climate stabilization, sustainable use of resources and the future adaptation of market mechanisms (e.g., carbon markets, and markets for potable water.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON231 LEC
-DTSTART;TZID=America/Los_Angeles:20170926T113000
-CREATED:20170927T175819
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20170928T113000
+CREATED:20180107T132239
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

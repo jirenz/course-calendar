@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T162000
-LAST-MODIFIED:20170927T175933
-UID:explore_coursescbeaf7f8-9d7b-4b8a-b2d7-01dba4168be1
-DTSTAMP:20170927T175933
+LAST-MODIFIED:20180107T132356
+UID:explore_coursesc2ddd72b-9ef2-4e8b-b82e-8afa133e509d
+DTSTAMP:20180107T132356
 LOCATION:Sequoia Hall 200
-DESCRIPTION:See http://rogosateaching.com/stat209/. Critical examination of statistical methods in social science and life sciences applications, especially for cause and effect determinations. Topics: mediating and moderating variables, potential outcomes framework, encouragement designs, multilevel models, matching and propensity score methods, analysis of covariance, instrumental variables, compliance, path analysis and graphical models, group comparisons with longitudinal data. Prerequisite: intermediate-level statistical methods.
+DESCRIPTION:See http://rogosateaching.com/stat209/. Critical examination of statistical methods in social science and life sciences applications, especially for cause and effect determinations. Topics: mediating and moderating variables, potential outcomes framework, encouragement designs, multilevel models, heterogeneous treatment effects, matching and propensity score methods, analysis of covariance, instrumental variables, compliance, path analysis and graphical models, group comparisons with longitudinal data. Prerequisite: intermediate-level statistical methods.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS209 LEC
 DTSTART;TZID=America/Los_Angeles:20180110T143000
-CREATED:20170927T175933
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T175000
-LAST-MODIFIED:20170927T175859
-UID:explore_courses094f5b69-6958-4da6-b0de-ce9f38338cc2
-DTSTAMP:20170927T175859
+LAST-MODIFIED:20180107T132403
+UID:explore_courses324a150b-5b1a-4bdf-8d15-11175a25eaec
+DTSTAMP:20180107T132403
 LOCATION:Gates B3
 DESCRIPTION:Lecture component of BIOMEDIN 214. One unit for medical and graduate students who attend lectures only; may be taken for 2 units with participation in limited assignments and final project. Lectures also available via internet. Prerequisite: familiarity with biology recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOMEDIN216 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T163000
-CREATED:20170927T175859
+CREATED:20180107T132403
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

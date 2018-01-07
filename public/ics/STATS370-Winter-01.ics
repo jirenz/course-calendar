@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20170927T175853
-UID:explore_coursesfd2a6711-f068-450c-ba6c-c8e5c8c229e4
-DTSTAMP:20170927T175853
+LAST-MODIFIED:20180107T132356
+UID:explore_courses2953baf7-7bd5-4263-bcd0-216ed5e999ee
+DTSTAMP:20180107T132356
 LOCATION:Green Earth Sciences150
-DESCRIPTION:This is the first of a two course sequence on modern Bayesian statistics. Topics covered include: real world examples of large scale Bayesian analysis; basic tools (models, conjugate priors and their mixtures); Bayesian estimates, tests and credible intervals; foundations (axioms, exchangeability, likelihood principle); Bayesian computations (Gibbs sampler, data augmentation, etc.); prior specification. Prerequisites: statistics and probability at the level of Stats300A, Stats305, and Stats310.
+DESCRIPTION:This course will treat Bayesian statistics at a relatively advanced level. Assuming familiarity with standard probability and multivariate distribution theory, we will provide a discussion of the mathematical and theoretical foundation for Bayesian inferential procedures. In particular, we will examine the construction of priors and the asymptotic properties of likelihoods and posterior distributions. The discussion will include but will not be limited to the case of finite dimensional parameter space.  There will also be some discussions on the computational algorithms useful for Bayesian inference.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS370 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20170927T175853
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

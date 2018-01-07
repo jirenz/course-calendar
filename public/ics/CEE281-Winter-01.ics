@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T122000
-LAST-MODIFIED:20170927T175952
-UID:explore_coursesc5ce586f-fbed-46df-9a95-e26f0f7a44c0
-DTSTAMP:20170927T175952
+LAST-MODIFIED:20180107T132511
+UID:explore_courses3f507e47-4071-4d17-9687-b34c09dbe9bd
+DTSTAMP:20180107T132511
 LOCATION:McCullough 122
 DESCRIPTION:Fluid conduction and solid deformation; conservation laws: balance of mass and balance of momentum; generalized Darcy's law and Hooke's law in 3D; the use of tensors in mechanics; finite element formulation of boundary-value problems; variational equations and Galerkin approximations; basic shape functions, numerical integration, and assembly operations.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE281 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20170927T175952
+CREATED:20180107T132511
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180110T112000
-LAST-MODIFIED:20170927T175846
-UID:explore_courses16a6d7fb-8936-42b9-a555-c62026db83fb
-DTSTAMP:20170927T175846
-LOCATION:Encina Hall C464
+DTEND;TZID=America/Los_Angeles:20180111T182000
+LAST-MODIFIED:20180107T132337
+UID:explore_courses5b18293a-7f42-4f7c-adb6-6b66491a55c3
+DTSTAMP:20180107T132337
+LOCATION:Lathrop 294
 DESCRIPTION:This class examines the most pressing international security problems facing the world today: nuclear crises, nuclear non-proliferation, terrorism, and climate change.  Alternative perspectives--from political science, history, and STS (Science, Technology, and Society) studies--are used to analyze these problems.  The class includes an award-winning two-day international negotiation simulation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI114S DIS
-DTSTART;TZID=America/Los_Angeles:20180110T103000
-CREATED:20170927T175846
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180111T173000
+CREATED:20180107T132337
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

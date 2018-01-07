@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T132000
-LAST-MODIFIED:20170927T175853
-UID:explore_courses52f7d74c-1f9b-40db-a7b9-51d08d1510ed
-DTSTAMP:20170927T175853
+LAST-MODIFIED:20180107T132356
+UID:explore_courses2a53be5f-06a5-42b9-a6b7-d809c84ef5ec
+DTSTAMP:20180107T132356
 LOCATION:Green Earth Sciences131
 DESCRIPTION:Local weak convergence, Gibbs measures on trees, cavity method, and replica symmetry breaking. Examples include random k-satisfiability, the assignment problem, spin glasses, and neural networks. Prerequisite: 310A or equivalent. https://web.stanford.edu/~montanar/TEACHING/Stat316/stat316.html
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS316 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T120000
-CREATED:20170927T175853
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

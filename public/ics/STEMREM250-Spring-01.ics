@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180405T130000
-LAST-MODIFIED:20170927T175927
-UID:explore_coursesd0c175c8-bf9b-4ff5-8161-1e8b4e9df217
-DTSTAMP:20170927T175927
+LAST-MODIFIED:20180107T132441
+UID:explore_coursesd8c09bc2-a217-43e7-ac50-9f99a6913d7f
+DTSTAMP:20180107T132441
 LOCATION:Munzeraud
 DESCRIPTION:For graduate, medical and undergraduate students. A forum for Stanford researchers to meet, hear about what is going on in Stem Cell Biology and Regenerative Medicine at Stanford, and spark collaborations. Topics include all areas of regenerative medicine, broadly defined, ranging from fundamental biological principles and basic science advances to novel applications in biotechnology, stem cell biology, and human disease.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STEMREM250 SEM
 DTSTART;TZID=America/Los_Angeles:20180405T120000
-CREATED:20170927T175927
+CREATED:20180107T132441
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T130000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

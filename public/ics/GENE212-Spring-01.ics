@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20170927T175903
-UID:explore_coursesfcb4a13a-33ab-4ae6-8985-999c00ed20d8
-DTSTAMP:20170927T175903
+LAST-MODIFIED:20180107T132411
+UID:explore_courses3e060108-d0b1-4f11-bdba-a8d6bf371437
+DTSTAMP:20180107T132411
 LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:Capstone Biomedical Informatics (BMI) experience. Hands-on software building. Student teams conceive, design, specify, implement, evaluate, and report on a software project in the domain of biomedicine. Creating written proposals, peer review, providing status reports, and preparing final reports. Issues related to research reproducibility. Guest lectures from professional biomedical informatics systems builders on issues related to the process of project management. Software engineering basics. Because the team projects start in the first week of class, attendance that week is strongly recommended. Prerequisites: BIOMEDIN 210 or 214 or 215 or 217 or 260. Preference to BMI graduate students. Consent of instructor required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE212 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20170927T175903
+CREATED:20180107T132411
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

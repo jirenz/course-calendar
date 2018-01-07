@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20170927T175943
-UID:explore_coursesb709c203-608d-4e06-9f0c-7b5987e20931
-DTSTAMP:20170927T175943
-LOCATION:
+LAST-MODIFIED:20180107T132459
+UID:explore_courses2bb7ab40-311c-459f-9162-035d94c0d9d7
+DTSTAMP:20180107T132459
+LOCATION:Y2E2 253
 DESCRIPTION:The goal of this seminar course is to explore current topics in marine nitrogen cycle. We will explore a variety of processes, including primary production, nitrogen fixation, nitrification, denitrification, and anaerobic ammonia oxidation, and their controls. We will use the book Nitrogen in the Marine Environment and supplement with student-led discussions of recent literature. A variety of biomes, spatial and temporal scales, and methodologies for investigation will be discussed.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS275 SEM
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20170927T175943
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
+CREATED:20180107T132459
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

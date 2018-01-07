@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T122000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses32257d26-4ab3-40ce-8039-62b9e762c708
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_courses96bde3d0-fbea-4931-b5ca-8bd615ad8f4d
+DTSTAMP:20180107T132523
 LOCATION:540-108
 DESCRIPTION:Current topics and trends in the use of light in medicine and for advanced microscopy. Course begins with a review of relevant optical principles (basic physics required). Key topics include: light-tissue interactions; sensing and spectroscopy; contrast-enhanced imaging; super-resolution and label-free microscopy; medical applications of light for diagnostics, in-vivo imaging, and therapy; nanophotonics and array technologies. Open to non-majors; programming experience (Matlab and/or C) required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE331 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T103000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

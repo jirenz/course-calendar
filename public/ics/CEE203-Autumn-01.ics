@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T152000
-LAST-MODIFIED:20170927T175952
-UID:explore_courses59cfb888-94e0-4662-994a-8f6da26befba
-DTSTAMP:20170927T175952
+LAST-MODIFIED:20180107T132511
+UID:explore_courses8e1bd8ca-2d43-4783-8f5d-1062b03b0ed1
+DTSTAMP:20180107T132511
 LOCATION:300-300
 DESCRIPTION:Introduction to probability modeling and statistical analysis in civil engineering. Emphasis is on the practical issues of model selection, interpretation, and calibration. Application of common probability models used in civil engineering including Poisson processes and extreme value distributions. Parameter estimation. Linear regression.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE203 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20170927T175952
+CREATED:20180107T132511
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

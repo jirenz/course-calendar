@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T132000
-LAST-MODIFIED:20170927T175819
-UID:explore_courses05545360-50ae-4561-ab2b-7aab69b5bd87
-DTSTAMP:20170927T175819
+LAST-MODIFIED:20180107T132239
+UID:explore_courses2b1d2cc5-36b1-4cc3-a524-029ce50429bd
+DTSTAMP:20180107T132239
 LOCATION:Lathrop 298
 DESCRIPTION:(Formerly 273B); Possible topics: nonparametric density estimation and regression analysis; sieve approximation; contiguity; convergence of experiments; cross validation; indirect inference; resampling methods: bootstrap and subsampling; quantile regression; nonstandard asymptotic distribution theory; empirical processes; set identification and inference, large sample efficiency and optimality; multiple hypothesis testing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON274 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T113000
-CREATED:20170927T175819
+CREATED:20180107T132239
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

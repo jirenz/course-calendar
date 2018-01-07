@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T122000
-LAST-MODIFIED:20170927T180001
-UID:explore_coursesb274e493-0e9b-449c-ad70-456d240ac1aa
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_courses3bccf8ed-2550-4eae-b9e7-26ecdb8e99c2
+DTSTAMP:20180107T132523
 LOCATION:320-106
-DESCRIPTION:The course will consider data from sensors in large-scale networks such as Cloud Computing Systems and the Internet of Moving Things.  Methods for sensing, denoising the sensed data, and reconstructing the evolution of the network in  fine detail from snapshot observations will be discussed.  Techniques for synchronizing clocks across a large data center, and using machine learning to perform real-time inference at scale will be presented.  The principles of creating an interactive database for detecting anomalies, raising alerts, and serving insights to the user will be discussed.  The course will involve a team-based project. Required prerequisites: basic computer networks as in CS 144 or CS 244. Recommended: basic statistics or machine learning, as in EE 278 or CS 229.
+DESCRIPTION:This is an advanced topics course on building autonomous networks using data and techniques from machine learning. It covers two major application areas: Cloud Computing Systems and Mobile Wireless Networks. The course introduces the architecture of Self-Programming Networks for sensing, inferring, learning and control, consisting of (i) a &quot;reflex layer&quot; for inferring at line rate and at scale, and (ii) a &quot;deliberate layer&quot; for efficient resource scheduling and network control. Various sensing and inference algorithms for deriving insights and alerts from the sensed data will be discussed. Methods for synchronizing clocks across a large data center and using this to reconstruct the fine details of network performance (queue-depths, link utilizations and buffer and link compositions) in near real-time will be presented. Similarly, methods for inferring available bandwidth in dynamic mobile networks and using it to drive different application optimizations will be presented. Students will learn the use of neural networks and learning techniques (a) to accelerate inference and control algorithms, (b) for &quot;workload fingerprinting&quot;, (c) for predicting wireless link capacities, and (d) for scheduling resources. Finally, the principles of creating an interactive database for detecting anomalies, raising alerts, and serving insights to the user will be discussed. The course involves a team-based project.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE392K LEC
 DTSTART;TZID=America/Los_Angeles:20180108T113000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20170927T175837
-UID:explore_courses32d5381a-49ab-4d40-a486-3bb3edf9a691
-DTSTAMP:20170927T175837
+LAST-MODIFIED:20180107T132316
+UID:explore_courses62c88353-117e-4f28-8177-b831a521ac3a
+DTSTAMP:20180107T132316
 LOCATION:Herrin T195
 DESCRIPTION:Topics:  Basics of differentiable manifolds (tangent spaces, vector fields, tensor fields, differential forms), embeddings, tubular neighborhoods, integration and Stokes&iquest; Theorem, deRham cohomology, intersection theory via Poincare duality, Morse theory.  Prerequisite:  215A
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH215B LEC
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20170927T175837
+CREATED:20180107T132316
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

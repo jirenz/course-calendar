@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T112000
-LAST-MODIFIED:20170927T175852
-UID:explore_courses27b85100-6271-46af-b427-8d97f390fbfc
-DTSTAMP:20170927T175852
+LAST-MODIFIED:20180107T132353
+UID:explore_courses100ed1a2-e44c-4dfe-8c63-32aff1587330
+DTSTAMP:20180107T132353
 LOCATION:200-015
 DESCRIPTION:Distance learning combined with periodic on-site instruction, conducted primarily in Najuatl. Continuation of SPECLANG101 sequence integrating language and culture, with emphasis on developing proficiency in oral and written discourse. Targeted functional abilities include presentational and socio culturally appropriate language in formal and informal contexts. Prerequisite: Placement Test, SPECLANG102AB
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SPECLANG102C LNG
 DTSTART;TZID=America/Los_Angeles:20180403T093000
-CREATED:20170927T175852
+CREATED:20180107T132353
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

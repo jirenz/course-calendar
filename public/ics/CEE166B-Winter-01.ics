@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180110T112000
-LAST-MODIFIED:20170927T175952
-UID:explore_coursesb42b7bdc-dc8f-4c70-8672-0d0c3639ce93
-DTSTAMP:20170927T175952
-LOCATION:Hewlett Teaching Center 103
+DTEND;TZID=America/Los_Angeles:20180108T172000
+LAST-MODIFIED:20180107T132511
+UID:explore_coursesf49259d8-117a-4ca1-be05-d5f2f345b70b
+DTSTAMP:20180107T132511
+LOCATION:160-326
 DESCRIPTION:Sociotechnical systems associated with human use of water as a resource and the hazards posed by too much or too little water. Potable and non-potable water use and conservation. Irrigation, hydroelectric power generation, rural and urban water supply systems, storm water management, flood damage mitigation, and water law and institutions. Emphasis is on engineering design. Prerequisite: 166A or equivalent. (Freyberg)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE166B LEC
-DTSTART;TZID=America/Los_Angeles:20180110T093000
-CREATED:20170927T175952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=WE,FR
+DTSTART;TZID=America/Los_Angeles:20180108T153000
+CREATED:20180107T132511
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

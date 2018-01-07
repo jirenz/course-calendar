@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180111T132000
-LAST-MODIFIED:20170927T175942
-UID:explore_coursesd47e4ed5-a042-47c9-bcb1-d24beadcf73f
-DTSTAMP:20170927T175942
+LAST-MODIFIED:20180107T132458
+UID:explore_courses0ee75751-a383-498c-9b9b-d7473b71378f
+DTSTAMP:20180107T132458
 LOCATION:
 DESCRIPTION:For E-IPER Ph.D and Joint M.S. students only. Weekly presentations of E-IPER students' research and other program-related projects. Occasional guest speakers. Individual or team presentation, active participation, and regular attendance required for credit. May be taken for credit a maximum of two times.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENVRES225 SEM
 DTSTART;TZID=America/Los_Angeles:20180111T120000
-CREATED:20170927T175942
+CREATED:20180107T132458
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

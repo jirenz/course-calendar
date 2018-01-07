@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses0023be02-4a31-4559-b8c1-975dfdf726cc
-DTSTAMP:20170927T175958
-LOCATION:Hewlett Teaching Center Rm 101
+LAST-MODIFIED:20180107T132519
+UID:explore_coursesaa4ed7fd-af58-4828-8f8c-2591952b3022
+DTSTAMP:20180107T132519
+LOCATION:Clark Center S361
 DESCRIPTION:Mathematical computational tools for the analysis of data with geometric content, such images, videos, 3D scans, GPS traces -- as well as for other data embedded into geometric spaces. Global and local geometry descriptors allowing for various kinds of invariances. The rudiments of computational topology and persistent homology on sampled spaces. Clustering and other unsupervised techniques. Spectral methods for geometric data analysis. Non-linear dimensionality reduction. Alignment, matching, and map computation between geometric data sets. Function spaces and functional maps.Networks of data sets and joint analysis for segmentation and labeling. The emergence of abstractions or concepts from data. Prerequisites: discrete algorithms at the level of 161; linear algebra at the level of CME103.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS233 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T150000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

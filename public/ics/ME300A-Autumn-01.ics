@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T145000
-LAST-MODIFIED:20170927T180006
-UID:explore_coursesec6476e5-a2f9-4c4d-bd53-37b5b039fb12
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132531
+UID:explore_coursese59e20c3-211f-45ab-8d1d-52f77fc3fcbe
+DTSTAMP:20180107T132531
 LOCATION:Bishop Auditorium
 DESCRIPTION:Computer based solution of systems of algebraic equations obtained from engineering problems and eigen-system analysis, Gaussian elimination, effect of round-off error, operation counts, banded matrices arising from discretization of differential equations, ill-conditioned matrices, matrix theory, least square solution of unsolvable systems, solution of non-linear algebraic equations, eigenvalues and eigenvectors, similar matrices, unitary and Hermitian matrices, positive definiteness, Cayley-Hamilton theory and function of a matrix and iterative methods. Prerequisite: familiarity with computer programming, and MATH51.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME300A LEC
 DTSTART;TZID=America/Los_Angeles:20170925T133000
-CREATED:20170927T180006
+CREATED:20180107T132531
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T172000
-LAST-MODIFIED:20170927T175859
-UID:explore_coursesaa4ff7fd-7361-4fc7-81e2-242af77c77c9
-DTSTAMP:20170927T175859
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180604T112000
+LAST-MODIFIED:20180107T132404
+UID:explore_coursesc1df4dc3-fe65-41a9-a930-50fa9fdcc8ee
+DTSTAMP:20180107T132404
+LOCATION:Li Ka Shing Center, room 102
 DESCRIPTION:Preference to graduate students. Focuses on modern aspects of metabolism and metabolic biochemistry as it affects fitness and ecology of cells and organisms on a systems level. Students obtain a broad understanding of the governing principles and logic of metabolic pathways and their networks as well as an intuition of metabolism in context of natural selection and fitness acting on the cell or host. Emphasis is primarily on microorganisms and their habitats in nature and the human gut, but topics also include metabolism of cancer cells and of engineered microbes.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS235 LEC
-DTSTART;TZID=America/Los_Angeles:20180402T163000
-CREATED:20170927T175859
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180604T103000
+CREATED:20180107T132404
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180615T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

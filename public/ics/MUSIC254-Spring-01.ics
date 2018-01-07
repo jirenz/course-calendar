@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20170927T175841
-UID:explore_courses0f60b75f-5eb9-456f-90e3-74738c122a0c
-DTSTAMP:20170927T175841
+LAST-MODIFIED:20180107T132323
+UID:explore_courses66b262ab-d474-4cf7-b05d-8e436201c01e
+DTSTAMP:20180107T132323
 LOCATION:Braun 131
 DESCRIPTION:Leveraging off three synchronized sets of symbolic data resources for notation and analysis, the lab portion introduces students to the open-source Humdrum Toolkit for music representation and analysis.  Issues of data content and quality as well as methods of information retrieval, visualization, and summarization are considered in class. Grading based primarily on student projects. Prerequisite: 253 or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC254 SEM
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20170927T175841
+CREATED:20180107T132323
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

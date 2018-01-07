@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170927T172000
-LAST-MODIFIED:20170927T175948
-UID:explore_courses114d7f6a-35ce-4483-9611-cb66d91c10d1
-DTSTAMP:20170927T175948
-LOCATION:
-DESCRIPTION:Lecture/Lab. First course of two-quarter capstone sequence. Team based project introduces students to the process of designing new biological technologies to address societal needs. Topics include methods for validating societal needs, brainstorming, concept selection, and the engineering design process. First quarter deliverable is a design for the top concept. Second quarter involves implementation and testing. Guest lectures and practical demonstrations are incorporated. Prerequisites: BIOE 123 and BIOE 44. This course is open only to seniors in the undergraduate Bioengineering program.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:BIOE141A LAB
-DTSTART;TZID=America/Los_Angeles:20170927T133000
-CREATED:20170927T175948
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=WE
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T122000
-LAST-MODIFIED:20170927T175948
-UID:explore_coursesf27b7eaf-66f3-40fa-8e64-2927a228106d
-DTSTAMP:20170927T175948
+LAST-MODIFIED:20180107T132506
+UID:explore_courses3e1ffb6c-0a8b-4661-ac06-8ecb703a2d08
+DTSTAMP:20180107T132506
 LOCATION:
 DESCRIPTION:Lecture/Lab. First course of two-quarter capstone sequence. Team based project introduces students to the process of designing new biological technologies to address societal needs. Topics include methods for validating societal needs, brainstorming, concept selection, and the engineering design process. First quarter deliverable is a design for the top concept. Second quarter involves implementation and testing. Guest lectures and practical demonstrations are incorporated. Prerequisites: BIOE 123 and BIOE 44. This course is open only to seniors in the undergraduate Bioengineering program.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE141A LAB
 DTSTART;TZID=America/Los_Angeles:20170925T113000
-CREATED:20170927T175948
+CREATED:20180107T132506
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170927T172000
+LAST-MODIFIED:20180107T132506
+UID:explore_courses823db9eb-114f-42a2-84fd-9fb4d2c03baf
+DTSTAMP:20180107T132506
+LOCATION:
+DESCRIPTION:Lecture/Lab. First course of two-quarter capstone sequence. Team based project introduces students to the process of designing new biological technologies to address societal needs. Topics include methods for validating societal needs, brainstorming, concept selection, and the engineering design process. First quarter deliverable is a design for the top concept. Second quarter involves implementation and testing. Guest lectures and practical demonstrations are incorporated. Prerequisites: BIOE 123 and BIOE 44. This course is open only to seniors in the undergraduate Bioengineering program.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOE141A LAB
+DTSTART;TZID=America/Los_Angeles:20170927T133000
+CREATED:20180107T132506
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

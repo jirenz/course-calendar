@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T163000
-LAST-MODIFIED:20170927T175934
-UID:explore_courses40aa352d-a03f-46d8-9bff-8e7244f910b3
-DTSTAMP:20170927T175934
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20180107T132447
+UID:explore_courses8335c1a9-0426-49c9-b73f-2b1ccb89cff3
+DTSTAMP:20180107T132447
 LOCATION:
 DESCRIPTION:In this course students will have the opportunity to build upon basic principles associated with rock climbing.  Student will further explore variations in climbing efficiency techniques, crack climbing techniques, and training methodologies to enhance their climbing experience and help prevent injuries.  Students will be taught with industry standard best practices in regards to safety, and provided with a multi-disciplinary approach to overall health and wellness.nPrerequisites:  Rock Climbing 1 or at least 3 months previous climbing experience, current top-rope belay certification at the Stanford Climbing Wall
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PE41 ACT
 DTSTART;TZID=America/Los_Angeles:20180109T153000
-CREATED:20170927T175934
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T163000;BYDAY=TU,TH
+CREATED:20180107T132447
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

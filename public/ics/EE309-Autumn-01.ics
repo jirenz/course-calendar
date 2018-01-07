@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T115000
-LAST-MODIFIED:20170927T180001
-UID:explore_coursesa4570a8d-3ff4-4fcc-9574-48c73ffc949c
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_courses7630ece4-0ca2-4d1f-89d1-a6f19b6b1255
+DTSTAMP:20180107T132523
 LOCATION:Green Earth Sciences131
 DESCRIPTION:The functionality and performance of ULSI systems are increasingly dependent upon the characteristics of the memory subsystem. This course introduces the student to various memory devices: SRAM, DRAM, NVRAM (non-volatile memory). This course will cover various aspects of semiconductor memories, including basic operation principles, device design considerations, device scaling, device fabrication, memory array addressing and readout circuits. Various cell structures (e.g. 1T-1C, 6T, 4T, 1T-1R, 0T-1R, 1S-1R, floating gate FLASH, SONOS, NROM), and memory organization (open bit-line, folded bit-line, NAND, NOR, cross-point etc.). This course will include a survey of new memory concepts (e.g. magnetic tunnel junction memory (MRAM, SST-RAM), ferroelectric memory (FRAM), phase change memory (PCM), metal oxide resistive switching memory (RRAM), nanoconductive bridge memory (CBRAM)).  Offered Alternate years.  Pre-requisite: EE 216. Preferred: EE 316.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE309 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T103000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

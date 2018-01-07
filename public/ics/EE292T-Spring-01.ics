@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180405T145000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses192119af-628b-48ad-86a7-5c62b6f2e1a1
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_coursesc7f799e3-e346-4d9c-8e6d-59af3591d152
+DTSTAMP:20180107T132523
 LOCATION:Y2E2 111
 DESCRIPTION:A series of seminar and lectures focused on power engineering. Renowned researchers from universities and national labs will deliver bi-weekly seminars on the state of the art of power system engineering. Seminar topics may include: power system analysis and simulation, control and stability, new market mechanisms, computation challenges and solutions, detection and estimation, and the role of communications in the grid. The instructors will cover relevant background materials in the in-between weeks. The seminars are planned to continue throughout the next academic year, so the course may be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE292T SEM
 DTSTART;TZID=America/Los_Angeles:20180405T133000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

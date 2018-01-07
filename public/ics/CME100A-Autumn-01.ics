@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T182000
-LAST-MODIFIED:20170927T175953
-UID:explore_courses605fb217-361d-441d-82d7-43fef161b0d6
-DTSTAMP:20170927T175953
+LAST-MODIFIED:20180107T132511
+UID:explore_coursesd40fbea5-7348-4911-a83c-b5b99a1def29
+DTSTAMP:20180107T132511
 LOCATION:
 DESCRIPTION:Students attend CME100/ENGR154 lectures with additional recitation sessions; two to four hours per week, emphasizing engineering mathematical applications and collaboration methods. Enrollment by department permission only. Prerequisite: must be enrolled in the regular CME100-01 or 02. Application at: https://engineering.stanford.edu/students/programs/engineering-diversity-programs/additional-calculus-engineers
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME100A LEC
 DTSTART;TZID=America/Los_Angeles:20170926T163000
-CREATED:20170927T175953
+CREATED:20180107T132511
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T115000
-LAST-MODIFIED:20170927T175843
-UID:explore_coursese01530df-07de-483b-aac3-bfec614b3fe9
-DTSTAMP:20170927T175843
+LAST-MODIFIED:20180107T132332
+UID:explore_coursesd78e1cce-f1c3-440f-acb4-4ce1453c0cea
+DTSTAMP:20180107T132332
 LOCATION:200-030
 DESCRIPTION:An introduction to the concepts and techniques used in mathematical logic, focusing on propositional, modal, and predicate logic. Highlights connections with philosophy, mathematics, computer science, linguistics, and neighboring fields.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL250 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T103000
-CREATED:20170927T175843
+CREATED:20180107T132332
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

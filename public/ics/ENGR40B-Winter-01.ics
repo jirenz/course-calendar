@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T122000
-LAST-MODIFIED:20170927T180001
-UID:explore_coursesd05b55df-61bc-4818-985c-94caf859780b
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132525
+UID:explore_courses5d383ffd-70bf-478b-ae05-ba37129da5ac
+DTSTAMP:20180107T132525
 LOCATION:
 DESCRIPTION:Second portion of the former ENGR 40. Instruction to be completed in the final three weeks of the quarter. Students wishing to complete the equivalent of ENGR 40 should enroll in both ENGR 40A and ENGR 40B. Students cannot enroll in ENGR 40B without enrolling in ENGR 40A. Students choose one the following sections (1) Frequency response of linear circuits, including basic filters, using phasor analysis. (2) Digital hardware and software implementations of a robot car. Lab. Lab assignments. Co-requisite: ENGR 40A. Enrollment limited to 300.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR40B LEC
 DTSTART;TZID=America/Los_Angeles:20180108T113000
-CREATED:20170927T180001
+CREATED:20180107T132525
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

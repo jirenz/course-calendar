@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180405T181500
-LAST-MODIFIED:20170927T175958
-UID:explore_courses901d0f4e-6844-469b-be2e-59a9d4124b93
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_coursesa0433e9d-cbc7-468f-a1d6-a022cac2a358
+DTSTAMP:20180107T132519
 LOCATION:
 DESCRIPTION:Legal informatics based on representation of regulations in computable form. Encoding regulations facilitate creation of legal information systems with significant practical value. Convergence of technological trends, growth of the Internet, advent of semantic web technology, and progress in computational logic make computational law prospects better. Topics: current state of computational law, prospects and problems, philosophical and legal implications. This course is *Cross* listed with LAW 4019. Prerequisite: basic concepts of programming.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS204 SEM
 DTSTART;TZID=America/Los_Angeles:20180405T161500
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T181500;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

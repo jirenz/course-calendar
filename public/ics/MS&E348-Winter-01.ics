@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20170927T180002
-UID:explore_coursese362796f-02c8-4426-af7d-3644a5871a2d
-DTSTAMP:20170927T180002
+LAST-MODIFIED:20180107T132526
+UID:explore_courses59ed12b6-783d-4e69-885a-1adfc429bcce
+DTSTAMP:20180107T132526
 LOCATION:
 DESCRIPTION:How to make optimal decisions in the presence of uncertainty, solution techniques for large-scale systems resulting from decision problems under uncertainty, and applications in finance. Decision trees, utility, two-stage and multi-stage decision problems, approaches to stochastic programming, model formulation; large-scale systems, Benders and Dantzig-Wolfe decomposition, Monte Carlo sampling and variance reduction techniques, risk management, portfolio optimization, asset-liability management, mortgage finance. Projects involving the practical application of optimization under uncertainty to financial planning.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E348 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20170927T180002
+CREATED:20180107T132526
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

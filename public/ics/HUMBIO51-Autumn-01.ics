@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T132000
-LAST-MODIFIED:20170927T175831
-UID:explore_coursesc35cd663-e85d-431d-ae81-52b39ae9824d
-DTSTAMP:20170927T175831
+LAST-MODIFIED:20180107T132302
+UID:explore_courses720ab960-b5af-4b22-9a48-30b4a26f8651
+DTSTAMP:20180107T132302
 LOCATION:STLC105
 DESCRIPTION:Biology and medicine are becoming increasingly data-intensive fields. This course is designed to introduce students interested in human biology and related fields to methods for working with large biological datasets. There will be in-class activities analyzing real  data that have revealed insights about the role of the genome and epigenome in health and disease. For example, we will explore data from large-scale gene expression and chromatin state studies. The course will provide an introduction to the relevant topics in biology and to fundamental computational skills such as editing text files, formatting and storing data, visualizing data and writing data analysis scripts. Students will become familiar with both UNIX and Python. This course is designed at the introductory level. Previous university-level courses in biology and programming experience are not required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO51 SEM
 DTSTART;TZID=America/Los_Angeles:20170926T120000
-CREATED:20170927T175831
+CREATED:20180107T132302
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T175000
-LAST-MODIFIED:20170927T180006
-UID:explore_courses3132bb6f-9446-4c2b-a59e-767a5a56038a
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132530
+UID:explore_courses338f708a-81db-465f-aa4b-4d72321c3c00
+DTSTAMP:20180107T132530
 LOCATION:160-124
 DESCRIPTION:The design of wind turbines, biomedical devices, jet engines, electronic units, and almost every other engineering system, require the analysis of its flow and thermal characteristics to ensure optimal performance and safety. The continuing growth ofcomputer power and the emergence of general-purpose engineering software has fostered the use of computational analysis as a complement to experimental testing. Virtual prototyping is a staple of modern engineering practice. This course is an introduction to Computational Engineering using commercial analysis codes, covering both theory and applications. Assuming limited knowledge of computational methods, the course starts with introductory training on the software, using a nseries of lectures and hands-on tutorials. We utilize the ANSYS software suite, which is used across a variety of engineering fields. Herein, the emphasis is on geometry modeling, mesh generation, solution strategy and post-processing for diverse applications. Using classical flow/thermal problems, the course develops the essential concepts of Verification and Validation for engineering simulations, nproviding the basis for assessing the accuracy of the results. Advanced concepts such as the use of turbulence models, user programming and automation for design are also introduced. The course is concluded by a project, in which the students apply the software to solve a industry-inspired problem.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME123 CLB
 DTSTART;TZID=America/Los_Angeles:20180402T163000
-CREATED:20170927T180006
+CREATED:20180107T132530
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

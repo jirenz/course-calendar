@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170928T175000
-LAST-MODIFIED:20170927T175853
-UID:explore_courses4f125e9e-2053-413e-be1e-c2cca4dbac81
-DTSTAMP:20170927T175853
+LAST-MODIFIED:20180107T132356
+UID:explore_courses947cb599-2ced-4bd8-b8d5-d2ccb9557136
+DTSTAMP:20180107T132356
 LOCATION:160-321
 DESCRIPTION:See http://rogosateaching.com/stat222/. Research designs and statistical procedures for time-ordered (repeated-measures) data. The analysis of longitudinal panel data is central to empirical research on learning, development, aging, and the effects of interventions. Topics include: measurement of change, growth curve models, analysis of durations including survival analysis, experimental and non-experimental group comparisons, reciprocal effects, stability. Prerequisite: intermediate statistical methods
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS222 LEC
 DTSTART;TZID=America/Los_Angeles:20170928T150000
-CREATED:20170927T175853
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

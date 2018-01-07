@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T192000
-LAST-MODIFIED:20170927T175813
-UID:explore_courses2616956d-eb1b-4f7d-8571-68c048efaeaa
-DTSTAMP:20170927T175813
+DTEND;TZID=America/Los_Angeles:20180111T192000
+LAST-MODIFIED:20180107T132231
+UID:explore_coursesad007316-ecb6-45f3-b4ec-62f7e2bb204e
+DTSTAMP:20180107T132231
 LOCATION:160-319
 DESCRIPTION:Historical development and the social, cultural, and political issues that characterize large cities and suburbs where communities of color make up majority populations. Case studies include cities in Los Angeles, Santa Clara, and Monterey counties. Comparisons to minority-majority cities elsewhere in the U.S. Service Learning Course (certified by Haas Center).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CSRE260 COL
-DTSTART;TZID=America/Los_Angeles:20180109T163000
-CREATED:20170927T175813
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T192000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180111T163000
+CREATED:20180107T132231
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T192000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

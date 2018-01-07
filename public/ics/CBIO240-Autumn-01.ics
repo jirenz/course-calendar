@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170929T152000
-LAST-MODIFIED:20170927T175900
-UID:explore_coursesf6a46a68-2724-4934-a6cf-14ecbc52d420
-DTSTAMP:20170927T175900
-LOCATION:CCSR 4205
-DESCRIPTION:Required for first-year Cancer Biology graduate students. Focus is on fundamental concepts in the molecular biology of cancer, including oncogenes, tumor suppressor genes, and cellular signaling pathways. Emphasis will be given to seminal discoveries and key experiments in the field of cancer molecular biology.  Course consists of two 1 hour lectures and one 2 hour discussion per week.  Enrollment of undergraduates requires consent of the course director.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:CBIO240 LEC
-DTSTART;TZID=America/Los_Angeles:20170929T133000
-CREATED:20170927T175900
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T102000
-LAST-MODIFIED:20170927T175900
-UID:explore_courses2496f291-929c-4def-98d4-7a41212a55c4
-DTSTAMP:20170927T175900
+LAST-MODIFIED:20180107T132405
+UID:explore_courses77cccb84-d47f-4a98-a3c8-4b0bbb9baab2
+DTSTAMP:20180107T132405
 LOCATION:CCSR 4205
 DESCRIPTION:Required for first-year Cancer Biology graduate students. Focus is on fundamental concepts in the molecular biology of cancer, including oncogenes, tumor suppressor genes, and cellular signaling pathways. Emphasis will be given to seminal discoveries and key experiments in the field of cancer molecular biology.  Course consists of two 1 hour lectures and one 2 hour discussion per week.  Enrollment of undergraduates requires consent of the course director.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CBIO240 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T083000
-CREATED:20170927T175900
+CREATED:20180107T132405
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170929T152000
+LAST-MODIFIED:20180107T132405
+UID:explore_courses9afaab0a-e95b-4ff6-9ce5-45bd5bc5e139
+DTSTAMP:20180107T132405
+LOCATION:CCSR 4205
+DESCRIPTION:Required for first-year Cancer Biology graduate students. Focus is on fundamental concepts in the molecular biology of cancer, including oncogenes, tumor suppressor genes, and cellular signaling pathways. Emphasis will be given to seminal discoveries and key experiments in the field of cancer molecular biology.  Course consists of two 1 hour lectures and one 2 hour discussion per week.  Enrollment of undergraduates requires consent of the course director.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CBIO240 LEC
+DTSTART;TZID=America/Los_Angeles:20170929T133000
+CREATED:20180107T132405
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

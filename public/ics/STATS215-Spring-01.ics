@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20170927T175853
-UID:explore_courses57c5b75b-afeb-4974-be47-1522479caa68
-DTSTAMP:20170927T175853
+LAST-MODIFIED:20180107T132356
+UID:explore_courses1294f619-cb6d-45dd-a983-fe201361e7b5
+DTSTAMP:20180107T132356
 LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:Poisson and renewal processes, Markov chains in discrete and continuous time, branching processes, diffusion. Applications to models of nucleotide evolution, recombination, the Wright-Fisher process, coalescence, genetic mapping, sequence analysis. Theoretical material approximately the same as in STATS 217, but emphasis is on examples drawn from applications in biology, especially genetics. Prerequisite: 116 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS215 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20170927T175853
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

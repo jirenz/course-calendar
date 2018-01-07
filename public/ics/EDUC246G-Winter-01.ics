@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180112T152000
-LAST-MODIFIED:20170927T175938
-UID:explore_coursesc66cfc0d-a76e-4800-ae61-d640e3cf6e08
-DTSTAMP:20170927T175938
-LOCATION:
-DESCRIPTION:Integrating theory and practice in teacher development. Topics include: equity, democracy, and social justice in the context of teaching and learning; teacher reflection, inquiry, and research; parent/teacher relationships; youth development and community engagement; professional growth and development; teacher leadership and school change processes; preparation for the job search, the STEP Elementary Portfolio, and the STEP Elementary Conference. Prerequisite: STEP student.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:EDUC246G PRC
-DTSTART;TZID=America/Los_Angeles:20180112T123000
-CREATED:20170927T175938
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T192000
-LAST-MODIFIED:20170927T175938
-UID:explore_courses2f75a065-0072-457f-9b99-e9c3ec650b3c
-DTSTAMP:20170927T175938
+LAST-MODIFIED:20180107T132452
+UID:explore_coursesa45e94d4-1aaf-47b5-8762-f83b24315b0d
+DTSTAMP:20180107T132452
 LOCATION:
 DESCRIPTION:Integrating theory and practice in teacher development. Topics include: equity, democracy, and social justice in the context of teaching and learning; teacher reflection, inquiry, and research; parent/teacher relationships; youth development and community engagement; professional growth and development; teacher leadership and school change processes; preparation for the job search, the STEP Elementary Portfolio, and the STEP Elementary Conference. Prerequisite: STEP student.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC246G PRC
 DTSTART;TZID=America/Los_Angeles:20180110T150000
-CREATED:20170927T175938
+CREATED:20180107T132452
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T192000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T152000
+LAST-MODIFIED:20180107T132452
+UID:explore_coursesf76f0f4f-7d64-4098-ab51-78b21aa73f47
+DTSTAMP:20180107T132452
+LOCATION:
+DESCRIPTION:Integrating theory and practice in teacher development. Topics include: equity, democracy, and social justice in the context of teaching and learning; teacher reflection, inquiry, and research; parent/teacher relationships; youth development and community engagement; professional growth and development; teacher leadership and school change processes; preparation for the job search, the STEP Elementary Portfolio, and the STEP Elementary Conference. Prerequisite: STEP student.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC246G PRC
+DTSTART;TZID=America/Los_Angeles:20180112T123000
+CREATED:20180107T132452
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

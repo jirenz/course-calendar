@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T102000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses0e5aba3c-5787-420f-ac35-46ebedd5a728
-DTSTAMP:20170927T180001
-LOCATION:380-380Y
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20180107T132523
+UID:explore_courses9e3143c8-73bf-49ec-8919-aa04859624c4
+DTSTAMP:20180107T132523
+LOCATION:380-380X
 DESCRIPTION:Continuation of EE 102A. Concepts and tools for continuous- and discrete-time signal and system analysis with applications in communications, signal processing and control. Analog and digital modulation and demodulation. Sampling, reconstruction, decimation and interpolation. Finite impulse response filter design. Discrete Fourier transforms, applications in convolution and spectral analysis. Laplace transforms, applications in circuits and feedback control. Z transforms, applications in infinite impulse response filter design. Prerequisite: EE 102A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE102B LEC
-DTSTART;TZID=America/Los_Angeles:20180402T093000
-CREATED:20170927T180001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20180107T132523
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

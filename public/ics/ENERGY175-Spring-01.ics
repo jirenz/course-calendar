@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20170927T175941
-UID:explore_courses6cdf2e64-2eaa-404e-9015-ba9abd0bc477
-DTSTAMP:20170927T175941
+LAST-MODIFIED:20180107T132456
+UID:explore_coursesd9345801-851f-40ae-b65d-466ef38db406
+DTSTAMP:20180107T132456
 LOCATION:Green Earth Sciences104
 DESCRIPTION:Lectures, problems. Application of solutions of unsteady flow in porous media to transient pressure analysis of oil, gas, water, and geothermal wells. Pressure buildup analysis and drawdown. Design of well tests. Computer-aided interpretation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY175 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20170927T175941
+CREATED:20180107T132456
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

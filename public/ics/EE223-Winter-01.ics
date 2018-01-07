@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T122000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses5bfcc406-a6b0-4095-9379-ecb577185769
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_courses5bae050f-fa55-45ee-855b-97e28f5cbc44
+DTSTAMP:20180107T132523
 LOCATION:Gates B3
 DESCRIPTION:Continuation of 222, including more advanced topics: quantum mechanics of crystalline materials, methods for one-dimensional problems, spin, systems of identical particles (bosons and fermions), introductory quantum optics (electromagnetic field quantization, coherent states), fermion annihilation and creation operators, interaction of different kinds of particles (spontaneous emission, optical absorption, and stimulated emission). Quantum information and interpretation of quantum mechanics. Other topics in electronics, optoelectronics, optics, and quantum information science. Prerequisite: 222.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE223 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T113000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T105000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses382ec468-847e-48f1-9513-539276eff27a
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_coursesbdc2eb44-9c98-4582-a390-ee1fb11f9609
+DTSTAMP:20180107T132519
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Topics: statistical pattern recognition, linear and non-linear regression, non-parametric methods, exponential family, GLMs, support vector machines, kernel methods, model/feature selection, learning theory, VC dimension, clustering, density estimation, EM, dimensionality reduction, ICA, PCA, reinforcement learning and adaptive control, Markov decision processes, approximate dynamic programming, and policy search. Prerequisites: linear algebra, and basic probability and statistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS229 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T093000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T105000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

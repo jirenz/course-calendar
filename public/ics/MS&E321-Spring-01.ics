@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20170927T180002
-UID:explore_coursesd7bb5c16-320f-4092-88c8-26ac892533fa
-DTSTAMP:20170927T180002
+LAST-MODIFIED:20180107T132526
+UID:explore_coursese28171e3-72d8-4cc3-967a-f0914d4ae742
+DTSTAMP:20180107T132526
 LOCATION:
 DESCRIPTION:Topics in stochastic processes, emphasizing applications. Markov chains in discrete and continuous time; Markov processes in general state space; Lyapunov functions; regenerative process theory; renewal theory; martingales, Brownian motion, and diffusion processes. Application to queueing theory, storage theory, reliability, and finance. Prerequisites: 221 or STATS 217; MATH 113, 115. (Glynn)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E321 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20170927T180002
+CREATED:20180107T132526
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

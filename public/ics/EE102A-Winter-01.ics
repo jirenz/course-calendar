@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T145000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses2258b23c-376e-4d4b-b483-939915bef8af
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_courses8db61792-446b-476f-9613-e3c85ea1f2e8
+DTSTAMP:20180107T132523
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:Concepts and tools for continuous- and discrete-time signal and system analysis with applications in signal processing, communications, and control. Mathematical representation of signals and systems. Linearity and time invariance. System impulse and step responses. System frequency response. Frequency-domain representations: Fourier series and Fourier transforms. Filtering and signal distortion. Time/frequency sampling and interpolation. Continuous-discrete-time signal conversion and quantization. Discrete-time signal processing. Prerequisite: MATH 53 or CME 102.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE102A LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

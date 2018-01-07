@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20170927T175808
-UID:explore_courses6bad7c47-d46e-4189-a61f-0f20339aeb88
-DTSTAMP:20170927T175808
-LOCATION:160-120
-DESCRIPTION:TBD
+DTEND;TZID=America/Los_Angeles:20180112T122000
+LAST-MODIFIED:20180107T132226
+UID:explore_courses1a9629f3-6d12-4435-9a55-71c865639a3c
+DTSTAMP:20180107T132226
+LOCATION:
+DESCRIPTION:How might we make sense of the physical environment in the Roman world? What are the most useful units by which to make sense of its parts? What is the character and impact of human interventions? We'll take a detailed but wide-ranging look at Mediterranean landscapes, emphasizing the period of Roman hegemony. Proceeding systematically, we will get the measure of each province triangulating ancient texts (Strabo, Pliny the elder, Pausanias) and documents; the archaeological record; and the landscape itself.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CLASSICS329 SEM
-DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20170927T175808
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180112T093000
+CREATED:20180107T132226
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

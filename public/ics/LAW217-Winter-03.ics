@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180110T110000
-LAST-MODIFIED:20170927T175752
-UID:explore_courses32563871-9e94-4b45-82cc-2a349d7a7185
-DTSTAMP:20170927T175752
-LOCATION:
-DESCRIPTION:This course is part of the required first-year JD curriculum.  It deals with possession and ownership of land and with the incidents thereof, including private and public restrictions on its use and development, nuisance, trespass, concurrent interests, landlord and tenant, and eminent domain.  Attendance and final exam. Your instructor will advise you of other basis of grading.  This course is open to first-year Law School students only.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:LAW217 LEC
-DTSTART;TZID=America/Los_Angeles:20180110T095000
-CREATED:20170927T175752
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T110000;BYDAY=WE,TH,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T094000
-LAST-MODIFIED:20170927T175752
-UID:explore_coursesf1db0e86-74d1-486b-92be-76ffdfaa57aa
-DTSTAMP:20170927T175752
-LOCATION:
+LAST-MODIFIED:20180107T132148
+UID:explore_courses3410a35d-c86b-4c6b-b680-dee8c6d3aacb
+DTSTAMP:20180107T132148
+LOCATION:Law280B
 DESCRIPTION:This course is part of the required first-year JD curriculum.  It deals with possession and ownership of land and with the incidents thereof, including private and public restrictions on its use and development, nuisance, trespass, concurrent interests, landlord and tenant, and eminent domain.  Attendance and final exam. Your instructor will advise you of other basis of grading.  This course is open to first-year Law School students only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW217 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T083000
-CREATED:20170927T175752
+CREATED:20180107T132148
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T094000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T110000
+LAST-MODIFIED:20180107T132148
+UID:explore_courses39160b97-c60a-499e-81b0-8981d91bf820
+DTSTAMP:20180107T132148
+LOCATION:Law280B
+DESCRIPTION:This course is part of the required first-year JD curriculum.  It deals with possession and ownership of land and with the incidents thereof, including private and public restrictions on its use and development, nuisance, trespass, concurrent interests, landlord and tenant, and eminent domain.  Attendance and final exam. Your instructor will advise you of other basis of grading.  This course is open to first-year Law School students only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW217 LEC
+DTSTART;TZID=America/Los_Angeles:20180110T095000
+CREATED:20180107T132148
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T110000;BYDAY=WE,TH,FR
 END:VEVENT
 END:VCALENDAR

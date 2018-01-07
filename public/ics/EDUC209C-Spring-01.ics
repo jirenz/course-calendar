@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180406T112000
-LAST-MODIFIED:20170927T175938
-UID:explore_coursescb8b919e-bd6e-43bc-9913-0d35e5dbaf83
-DTSTAMP:20170927T175938
-LOCATION:Lathrop 282
+LAST-MODIFIED:20180107T132452
+UID:explore_coursesd596af31-d8d9-4d45-8c4f-f47514828431
+DTSTAMP:20180107T132452
+LOCATION:Ceras 108
 DESCRIPTION:This is a required course for POLS students. The goals of the POLS Seminar (EDUC 209ABC) are to assist students in making the most of their Stanford graduate experience across several dimensions (academic, professional, and social). EDUC 209C focuses on developing the POLS Project for the Spring Forum while continuing to develop career skills and expose students to a range of education research, policy, and practice.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC209C SEM
 DTSTART;TZID=America/Los_Angeles:20180406T083000
-CREATED:20170927T175938
+CREATED:20180107T132452
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

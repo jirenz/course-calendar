@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses05bdadfb-c8c3-4ada-afa9-f027ba7d4e7e
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_courses03677121-c65a-4451-9d84-d43de7313d28
+DTSTAMP:20180107T132523
 LOCATION:380-381T
 DESCRIPTION:The world is increasingly based on wireless communication. Cell phones and WiFi are the most visible examples. Others are key fobs, water meters, gas and electric meters, garage door openers, baby monitors, and the list continues to expand. All of these produce RF signals you can detect and often decode. This seminar will explore how much information you broadcast throughout your day, and how it can easily be received and decoded using inexpensive hardware and public domain software. You will be able to explain why different information services use different frequencies, why they encode the information the way they do, and what security risks they present.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE26N ISF
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

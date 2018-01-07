@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180112T162000
-LAST-MODIFIED:20170927T175841
-UID:explore_coursese4e6ccf8-5069-4f0f-bf08-fca21d086aaa
-DTSTAMP:20170927T175841
+LAST-MODIFIED:20180107T132323
+UID:explore_coursesda3dc5d7-7a55-49c9-99ba-6cfa2f4888b6
+DTSTAMP:20180107T132323
 LOCATION:Knoll217
 DESCRIPTION:History and basic principles: development of psychoacoustics-based data-compression techniques; perceptual-audio-coder applications (radio, television, film, multimedia/internet audio, DVD, EMD). In-class demonstrations: state-of-the-art audio coder implementations (such as AC-3, MPEG) at varying data rates; programming simple coders. Topics: audio signals representation; quantization; time to frequency mapping; introduction to psychoacoustics; bit allocation and basic building blocks of an audio codec; perceptual audio codecs evaluation; overview of MPEG-1, 2, 4 audio coding and other coding standards (such asAC-3). Prerequisites: knowledge of digital audio principles, familiarity with C programming. Recommended: 320, EE 261. See http://ccrma.stanford.edu/.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC422 LEC
 DTSTART;TZID=America/Los_Angeles:20180112T143000
-CREATED:20170927T175841
+CREATED:20180107T132323
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

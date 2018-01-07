@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T152000
-LAST-MODIFIED:20170927T175829
-UID:explore_courses2baa5179-43e9-43d7-a90b-5d74a4cd82a0
-DTSTAMP:20170927T175829
-LOCATION:
+LAST-MODIFIED:20180107T132259
+UID:explore_coursesbe66be82-3cb0-4595-90e0-f591881630c7
+DTSTAMP:20180107T132259
+LOCATION:120-59
 DESCRIPTION:Open to medical students, graduate students, and undergraduate students. Traces the history of genocide in the 20th century and the question of humanitarian intervention to stop it, a topic that has been especially controversial since the end of the Cold War. The pre-1990s discussion begins with the Armenian genocide during the First World War and includes the Holocaust and Cambodia under the Khmer Rouge in the 1970s. Coverage of genocide and humanitarian intervention since the 1990s includes the wars in Bosnia, Rwanda, Kosovo, the Congo and Sudan.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY324C COL
 DTSTART;TZID=America/Los_Angeles:20180110T133000
-CREATED:20170927T175829
+CREATED:20180107T132259
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

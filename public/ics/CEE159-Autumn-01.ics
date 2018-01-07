@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170927T205000
-LAST-MODIFIED:20170927T175952
-UID:explore_courses00f0e579-d7f0-4d72-8779-bf6c2751150d
-DTSTAMP:20170927T175952
+DTEND;TZID=America/Los_Angeles:20170927T192000
+LAST-MODIFIED:20180107T132511
+UID:explore_coursesdb2eb1ed-3d49-484f-bf4f-e0a5b2dc77e1
+DTSTAMP:20180107T132511
 LOCATION:Y2E2 292A
 DESCRIPTION:CEE 159/259 students join Stanford researchers in developing metrics and key performance indicators, which inform the assessment and management of productivity policies, industry initiatives, progressive enterprises, global projects or experimental processes in the construction industry.  This practicum builds upon a global network of government agencies, professional institutions and member companies collaborating with the Center for Integrated Facility Engineering (CIFE).  Students will develop applied research skills that are essential for academic research, internships or industry practice, while gaining insights into innovative and industrialized construction practice, such as the industry applications of Building Information Modeling (BIM), Integrated Project Delivery (IPD), Lean Methodology, Prefabricated Pre-finished Volumetric Construction (PPVC), Smart Cities or Virtual Design and Construction (VDC).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE159 PRA
-DTSTART;TZID=America/Los_Angeles:20170927T193000
-CREATED:20170927T175952
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T205000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T183000
+CREATED:20180107T132511
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

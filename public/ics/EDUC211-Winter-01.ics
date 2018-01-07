@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180111T175000
-LAST-MODIFIED:20170927T175938
-UID:explore_coursesb644195d-cd06-4b07-a4e2-fc12e5b1a380
-DTSTAMP:20170927T175938
-LOCATION:
+LAST-MODIFIED:20180107T132452
+UID:explore_courses37f76d2e-6b75-432d-82c2-a528fae2c92d
+DTSTAMP:20180107T132452
+LOCATION:Ceras 108
 DESCRIPTION:This course is a hands-on lab in the prototyping and fabrication of tangible technologies, with a special focus in learning and education. We will learn how to use state-of-the-art fabrication machines (3D printers, 3D scanners, laser cutters, routers) to design educational toolkits, educational toys, science kits, and tangible user interfaces. A special focus of the course will be to design low-cost technologies, particularly for urban school in the US and abroad.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC211 LAB
 DTSTART;TZID=America/Los_Angeles:20180111T150000
-CREATED:20170927T175938
+CREATED:20180107T132452
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

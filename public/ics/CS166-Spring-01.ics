@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20170927T175958
-UID:explore_coursese7b46816-a121-4605-b9ac-18233460f4b8
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_coursesaffb63b1-0f65-474a-957f-e8683153b444
+DTSTAMP:20180107T132519
 LOCATION:380-380C
 DESCRIPTION:Techniques in the design, analysis, and implementation of data structures.  Isometries between data structures (including red/black trees and 2-3-4 trees), amortized analysis (including Fibonacci heaps and splay trees), and randomization (including count-min sketches and dynamic perfect hash tables).  Data structures for integers and strings (including van Emde Boas trees and suffix trees).  Possible additional topics include functional data structures, concurrent data structures, and spatial data structures.  Prerequisites: CS107 and CS161.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS166 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

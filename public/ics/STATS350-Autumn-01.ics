@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T162000
-LAST-MODIFIED:20170927T175853
-UID:explore_courses06092845-8cd5-46e5-8264-10d8d239b3ee
-DTSTAMP:20170927T175853
+LAST-MODIFIED:20180107T132356
+UID:explore_courses3c6ab59e-ec8e-4f18-a068-3ec0951f1022
+DTSTAMP:20180107T132356
 LOCATION:Sequoia Hall 200
-DESCRIPTION:Selected topics of contemporary research interest in probability theory. May be repeated once for credit. Prerequisite: 310A or equivalent.
+DESCRIPTION:See http://statweb.stanford.edu/~adembo/stat-350/concentration/ Selected topics of contemporary research interest in probability theory. May be repeated once for credit. Prerequisite: 310A or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS350 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T150000
-CREATED:20170927T175853
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T132000
-LAST-MODIFIED:20170927T180001
-UID:explore_coursesd6d59daa-a146-4058-94cb-ad6596e4eaa0
-DTSTAMP:20170927T180001
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180405T132000
+LAST-MODIFIED:20180107T132525
+UID:explore_courses7b83e732-40e1-44df-af1c-95a85bf6c547
+DTSTAMP:20180107T132525
+LOCATION:200-219
 DESCRIPTION:This course guides graduate students in creating a professional ePortfolio and establishing an online presence. The course includes seminar-style presentations and discussions, opportunities for feedback with career mentors, classmates, alumni, employers, and other community members using think-aloud protocols and peer review approaches. Curriculum modules focus on strategies for telling your story in the digital environment, platform considerations, evidence and architecture, visual design and user experience. Open to all graduate students and majors.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR311D SEM
-DTSTART;TZID=America/Los_Angeles:20180403T120000
-CREATED:20170927T180001
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180405T120000
+CREATED:20180107T132525
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

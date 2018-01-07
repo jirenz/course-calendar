@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T145000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses74a40015-7baf-4fc4-9d12-54254d7ed3f2
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132525
+UID:explore_courses88bf2db0-ea68-4b26-aaf2-3cfaab826694
+DTSTAMP:20180107T132525
 LOCATION:420-040
 DESCRIPTION:Computation and visualization using MATLAB.  Differential vector calculus:  analytic geometry in space, functions of several variables, partial derivatives, gradient, unconstrained maxima and minima, Lagrange multipliers. Introduction to linear algebra: matrix operations, systems of algebraic equations, methods of solution and applications. Integral vector calculus:  multiple integrals in Cartesian, cylindrical, and spherical coordinates, line integrals, scalar potential, surface integrals, Green&iquest;s, divergence, and Stokes&iquest; theorems.  Examples and applications drawn from various engineering fields. Prerequisites: 10 units of AP credit (Calc BC with 5, or Calc AB with 5 or placing out of the single variable math placement test: https://exploredegrees-nextyear.stanford.edu/undergraduatedegreesandprograms/#aptextt), or Math 19-21.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR154 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20170927T180001
+CREATED:20180107T132525
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

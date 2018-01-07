@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180111T172000
-LAST-MODIFIED:20170927T175934
-UID:explore_coursesfcfd4885-c7c1-4d4c-b523-b621632fd951
-DTSTAMP:20170927T175934
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180110T162000
+LAST-MODIFIED:20180107T132448
+UID:explore_courses48a3d4c4-3e01-4b90-a305-5350f4b9dbf4
+DTSTAMP:20180107T132448
+LOCATION:ArrillagaOutdoorEducRecCtr103B
 DESCRIPTION:Explore the both the nutritional and behavioral foundations of positive eating habits and basic medical nutrition practices that enhance mind-body health and optimize performance. Focuses on nutritional science and behavioral practices that promote a healthy relationship with food for enhanced physical and psychological well-being. Covers topics ranging from nutrient density and macro/micro-nutrients to psycho-physiological factors of sleep, exercise, and stress management that impact digestive and metabolic processes to psychological factors that influence eating habits. Emphasizes translating theory and research into lifestyle practices.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:WELLNESS152 SEM
-DTSTART;TZID=America/Los_Angeles:20180111T163000
-CREATED:20170927T175934
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180110T150000
+CREATED:20180107T132448
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

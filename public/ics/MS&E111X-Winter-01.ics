@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20170927T180002
-UID:explore_courses65d41821-d208-49fd-a7bc-366b271baed9
-DTSTAMP:20170927T180002
+LAST-MODIFIED:20180107T132526
+UID:explore_courses3d340a4c-b521-4416-ac00-3aa7453cae2e
+DTSTAMP:20180107T132526
 LOCATION:420-041
 DESCRIPTION:Optimization theory and modeling. The role of prices, duality, optimality conditions, and algorithms in finding and recognizing solutions. Perspectives: problem formulation, analytical theory, computational methods, and recent applications in engineering, finance, and economics. Theories: finite dimensional derivatives, convexity, optimality, duality, and sensitivity. Methods: simplex and interior-point, gradient, Newton, and barrier. Prerequisite: CME 100 or MATH 51 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E111X LEC
 DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20170927T180002
+CREATED:20180107T132526
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,45 +22,59 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180301T173000
-LAST-MODIFIED:20170927T175904
-UID:explore_courses1130add8-1d8b-469a-a4a1-9b84764c40a8
-DTSTAMP:20170927T175904
-LOCATION:Li Ka Shing Center, room 120
-DESCRIPTION:The course will consist of an introduction to the fundamentals of clinical research at Stanford, including the science of clinical research (design and analysis) and logistics (GCP, data management, regulatory). Material will be covered in approximately 4-6 3 hour sessions per quarter.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:HRP273 LEC
-DTSTART;TZID=America/Los_Angeles:20180301T150000
-CREATED:20170927T175904
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180309T173000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180111T180000
-LAST-MODIFIED:20170927T175904
-UID:explore_courses70fd9708-5e51-4c20-b251-a6a01d54abac
-DTSTAMP:20170927T175904
-LOCATION:Li Ka Shing Center, room 130
-DESCRIPTION:The course will consist of an introduction to the fundamentals of clinical research at Stanford, including the science of clinical research (design and analysis) and logistics (GCP, data management, regulatory). Material will be covered in approximately 4-6 3 hour sessions per quarter.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:HRP273 LEC
-DTSTART;TZID=America/Los_Angeles:20180111T150000
-CREATED:20170927T175904
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180223T180000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180315T180000
-LAST-MODIFIED:20170927T175904
-UID:explore_coursesb58c38ff-2c0b-4870-a698-26b91e57101a
-DTSTAMP:20170927T175904
+LAST-MODIFIED:20180107T132414
+UID:explore_coursesec0fd358-265d-4b1f-8583-80c325ed9c2f
+DTSTAMP:20180107T132414
 LOCATION:Alway Building, Room M114
 DESCRIPTION:The course will consist of an introduction to the fundamentals of clinical research at Stanford, including the science of clinical research (design and analysis) and logistics (GCP, data management, regulatory). Material will be covered in approximately 4-6 3 hour sessions per quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP273 LEC
 DTSTART;TZID=America/Los_Angeles:20180315T153000
-CREATED:20170927T175904
+CREATED:20180107T132414
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180323T180000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180118T180000
+LAST-MODIFIED:20180107T132414
+UID:explore_courses79febb79-478d-400c-948e-2d8b410a4c8d
+DTSTAMP:20180107T132414
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:The course will consist of an introduction to the fundamentals of clinical research at Stanford, including the science of clinical research (design and analysis) and logistics (GCP, data management, regulatory). Material will be covered in approximately 4-6 3 hour sessions per quarter.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HRP273 LEC
+DTSTART;TZID=America/Los_Angeles:20180118T153000
+CREATED:20180107T132414
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180223T180000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180301T180000
+LAST-MODIFIED:20180107T132414
+UID:explore_coursesc426d55b-96c2-4efd-b61b-59c3c22a57ab
+DTSTAMP:20180107T132414
+LOCATION:Li Ka Shing Center, room 120
+DESCRIPTION:The course will consist of an introduction to the fundamentals of clinical research at Stanford, including the science of clinical research (design and analysis) and logistics (GCP, data management, regulatory). Material will be covered in approximately 4-6 3 hour sessions per quarter.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HRP273 LEC
+DTSTART;TZID=America/Los_Angeles:20180301T153000
+CREATED:20180107T132414
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180309T180000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T180000
+LAST-MODIFIED:20180107T132414
+UID:explore_coursesba39e84d-55d4-4bce-9407-f639d8f18a79
+DTSTAMP:20180107T132414
+LOCATION:Alway Building, Room M112
+DESCRIPTION:The course will consist of an introduction to the fundamentals of clinical research at Stanford, including the science of clinical research (design and analysis) and logistics (GCP, data management, regulatory). Material will be covered in approximately 4-6 3 hour sessions per quarter.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HRP273 LEC
+DTSTART;TZID=America/Los_Angeles:20180110T153000
+CREATED:20180107T132414
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180110T180000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

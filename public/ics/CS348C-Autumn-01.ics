@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses11d40026-22d7-4495-b3fe-c353191ba8e1
-DTSTAMP:20170927T175958
-LOCATION:Mitchb67
+LAST-MODIFIED:20180107T132519
+UID:explore_courses8b416caf-063a-4c99-82ba-0b65776b0844
+DTSTAMP:20180107T132519
+LOCATION:Gates B12
 DESCRIPTION:Core mathematics and methods for computer animation and motion simulation. Traditional animation techniques. Physics-based simulation methods for modeling shape and motion: particle systems, constraints, rigid bodies, deformable models, collisions and contact, fluids, and fracture. Animating natural phenomena. Methods for animating virtual characters and crowds. Additional topics selected from data-driven animation methods, realism and perception, animation systems, motion control, real-time and interactive methods, and multi-sensory feedback. Recommended: CS 148 and/or 205A. Prerequisite: linear algebra.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS348C LEC
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

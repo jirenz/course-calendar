@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170928T115000
+LAST-MODIFIED:20180107T132519
+UID:explore_coursesf8b8776a-0aae-4448-83eb-f21a04688c05
+DTSTAMP:20180107T132519
+LOCATION:School of Education 208
+DESCRIPTION:This course provides a survey of the most important and influential concepts in autonomous robotic manipulation. It includes classical concepts that are still widely used and recent approaches that have changed the way we look autonomous manipulation. We cover approaches towards motion planning and control using visual and tactile perception as well as machine learning. This course is especially concerned with new approaches for overcoming challenges in generalization from experience, exploration of the environment, and learning representation so that these methods can scale to real problems. Students are expected to present one paper in a tutorial, debate a paper once from the Pro and once from the Con side. They are also expected to propose an original research project and work on it towards a research paper. Recommended: CS 131, 223A, 229 or equivalents.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CS326 LEC
+DTSTART;TZID=America/Los_Angeles:20170928T103000
+CREATED:20180107T132519
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T115000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses28273a3d-0983-479c-9789-47d8f3caf884
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_courses03e63fa3-a1a1-4f53-b32a-b9bc2e0af29f
+DTSTAMP:20180107T132519
 LOCATION:School of Education 207
 DESCRIPTION:This course provides a survey of the most important and influential concepts in autonomous robotic manipulation. It includes classical concepts that are still widely used and recent approaches that have changed the way we look autonomous manipulation. We cover approaches towards motion planning and control using visual and tactile perception as well as machine learning. This course is especially concerned with new approaches for overcoming challenges in generalization from experience, exploration of the environment, and learning representation so that these methods can scale to real problems. Students are expected to present one paper in a tutorial, debate a paper once from the Pro and once from the Con side. They are also expected to propose an original research project and work on it towards a research paper. Recommended: CS 131, 223A, 229 or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS326 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T103000
-CREATED:20170927T175958
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
+CREATED:20180107T132519
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

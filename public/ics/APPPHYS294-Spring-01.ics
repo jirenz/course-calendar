@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20170927T175758
-UID:explore_courses9be5acba-cd38-4246-8dc6-c698db6fb05b
-DTSTAMP:20170927T175758
+LAST-MODIFIED:20180107T132208
+UID:explore_coursesbb3028c1-d2ac-4d70-9635-81cca9ec5aef
+DTSTAMP:20180107T132208
 LOCATION:McCullough 122
 DESCRIPTION:Physical biology of dynamical and mechanical processes in cells. Emphasis is on qualitative understanding of biological functions through quantitative analysis and simple mathematical models. Sensory transduction, signaling, adaptation, switches, molecular motors, actin and microtubules, motility, and circadian clocks. Prerequisites: differential equations and introductory statistical mechanics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS294 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T150000
-CREATED:20170927T175758
+CREATED:20180107T132208
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

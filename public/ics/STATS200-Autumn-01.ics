@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20170927T175853
-UID:explore_coursesde7e15f6-8526-4418-ae2d-166f28f6c844
-DTSTAMP:20170927T175853
-LOCATION:Shriram Ctr BioChemE 104
-DESCRIPTION:Modern statistical concepts and procedures derived from a mathematical framework. Statistical inference, decision theory; point and interval estimation, tests of hypotheses; Neyman-Pearson theory. Bayesian analysis; maximum likelihood, large sample theory. Prerequisite: 116.
+LAST-MODIFIED:20180107T132356
+UID:explore_courses1f7120d7-df40-4445-a0ac-b2920d4f9444
+DTSTAMP:20180107T132356
+LOCATION:420-040
+DESCRIPTION:Modern statistical concepts and procedures derived from a mathematical framework. Statistical inference, decision theory; point and interval estimation, tests of hypotheses; Neyman-Pearson theory. Bayesian analysis; maximum likelihood, large sample theory. Prerequisite: 116. http://statweb.stanford.edu/~sabatti/Stat200/index.html
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS200 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20170927T175853
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

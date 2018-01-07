@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180112T131000
-LAST-MODIFIED:20170927T175752
-UID:explore_coursesaf700c42-fa65-44bb-85af-0ea2fd5ef6df
-DTSTAMP:20170927T175752
-LOCATION:
-DESCRIPTION:This course is part of the required first-year JD curriculum.  It is an introductory course in the litigation process. Students represent the plaintiff or defendant in a simulated public interest case set in a federal district court that raises complex issues of federal civil procedure, privacy, and first amendment law. Students plan litigation strategy, draft pleadings, conduct discovery, write short briefs, and orally argue major motions for dismissal, class action certification, and preliminary injunctive relief. While developing students' written and oral advocacy skills, the course also focuses on substantive issues of civil procedure and constitutional law.  Attendance, class participation and written assignments.  This course is open to first-year Law School students only.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:LAW224A LEC
-DTSTART;TZID=America/Los_Angeles:20180112T111000
-CREATED:20170927T175752
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T131000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T181500
-LAST-MODIFIED:20170927T175752
-UID:explore_courses67a94eb5-b416-461c-a825-a40cc3b5f808
-DTSTAMP:20170927T175752
-LOCATION:
-DESCRIPTION:This course is part of the required first-year JD curriculum.  It is an introductory course in the litigation process. Students represent the plaintiff or defendant in a simulated public interest case set in a federal district court that raises complex issues of federal civil procedure, privacy, and first amendment law. Students plan litigation strategy, draft pleadings, conduct discovery, write short briefs, and orally argue major motions for dismissal, class action certification, and preliminary injunctive relief. While developing students' written and oral advocacy skills, the course also focuses on substantive issues of civil procedure and constitutional law.  Attendance, class participation and written assignments.  This course is open to first-year Law School students only.
+LAST-MODIFIED:20180107T132148
+UID:explore_courses04172d01-5f2e-40c0-bb9f-b7780ec4231e
+DTSTAMP:20180107T132148
+LOCATION:Law95
+DESCRIPTION:This course is part of the required first-year JD curriculum. It is an introductory course in the litigation process. Students represent the plaintiff or defendant in a simulated global torts case set in a federal district court that raises complex issues of federal civil procedure. Students plan litigation strategy, draft pleadings, conduct discovery, write short briefs, and orally argue major motions. While developing students' written and oral advocacy skills, the course also focuses on substantive issues of civil procedure and transnational lawyering. Elements used in grading: attendance, class participation, oral argument, assignments in preparation for written briefs (outlines, drafts, research and citation assignments), written briefs, and professionalism. This course is open to first-year Law School students only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW224A LEC
 DTSTART;TZID=America/Los_Angeles:20180110T161500
-CREATED:20170927T175752
+CREATED:20180107T132148
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T181500;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T131000
+LAST-MODIFIED:20180107T132148
+UID:explore_coursesf5b97308-78a3-4011-aa68-fd0f4b9eafde
+DTSTAMP:20180107T132148
+LOCATION:Law95
+DESCRIPTION:This course is part of the required first-year JD curriculum. It is an introductory course in the litigation process. Students represent the plaintiff or defendant in a simulated global torts case set in a federal district court that raises complex issues of federal civil procedure. Students plan litigation strategy, draft pleadings, conduct discovery, write short briefs, and orally argue major motions. While developing students' written and oral advocacy skills, the course also focuses on substantive issues of civil procedure and transnational lawyering. Elements used in grading: attendance, class participation, oral argument, assignments in preparation for written briefs (outlines, drafts, research and citation assignments), written briefs, and professionalism. This course is open to first-year Law School students only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW224A LEC
+DTSTART;TZID=America/Los_Angeles:20180112T111000
+CREATED:20180107T132148
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180312T131000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

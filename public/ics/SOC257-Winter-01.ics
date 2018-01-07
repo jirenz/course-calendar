@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20170927T175851
-UID:explore_courses0fbb5fcb-048b-4af5-a15d-78d0c41c31e0
-DTSTAMP:20170927T175851
-LOCATION:Lathrop 296
+LAST-MODIFIED:20180107T132351
+UID:explore_coursesc397f3cf-375d-459a-9560-f96f02859dcf
+DTSTAMP:20180107T132351
+LOCATION:Ceras 513
 DESCRIPTION:This course surveys quantitative methods to make causal inferences in the absence of randomized experiment including the use of natural and quasi-experiments, instrumental variables, regression discontinuity, fixed effects estimators, and difference-in-differences. We emphasize the proper interpretation of these research designs and critical engagement with their key assumptions for applied researchers. Prerequisites: Prior training in multivariate regression (e.g., ECON 102B or the permission of the instructor).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC257 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20170927T175851
+CREATED:20180107T132351
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

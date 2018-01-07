@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170927T175000
+LAST-MODIFIED:20180107T132249
+UID:explore_courses50ce3dc1-efed-40b2-86d1-a0d549832c31
+DTSTAMP:20180107T132249
+LOCATION:260-008
+DESCRIPTION:We read and discuss selections from works by the key master thinkers who have exerted a lasting influence by debunking long-cherished beliefs. Do these authors uphold or repudiate Enlightenment notions of rationality, autonomy and progress? How do they assess the achievements of civilization? How do their works illuminate the workings of power in social and political contexts? Readings and discussion in German.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GERMAN133 SEM
+DTSTART;TZID=America/Los_Angeles:20170927T163000
+CREATED:20180107T132249
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T192000
-LAST-MODIFIED:20170927T175825
-UID:explore_courses79f4f05b-4644-4989-93e2-a6b0aed30dfd
-DTSTAMP:20170927T175825
+LAST-MODIFIED:20180107T132249
+UID:explore_coursesfd7a83aa-dfba-43b2-a04a-09e2602ab065
+DTSTAMP:20180107T132249
 LOCATION:260-011
 DESCRIPTION:We read and discuss selections from works by the key master thinkers who have exerted a lasting influence by debunking long-cherished beliefs. Do these authors uphold or repudiate Enlightenment notions of rationality, autonomy and progress? How do they assess the achievements of civilization? How do their works illuminate the workings of power in social and political contexts? Readings and discussion in German.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GERMAN133 SEM
 DTSTART;TZID=America/Los_Angeles:20170925T180000
-CREATED:20170927T175825
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=MO,WE
+CREATED:20180107T132249
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

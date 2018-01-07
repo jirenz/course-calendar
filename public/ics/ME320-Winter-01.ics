@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T175000
-LAST-MODIFIED:20170927T180006
-UID:explore_coursesb5784e05-3ca7-4ae3-beb2-156d6febb2b1
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132531
+UID:explore_courses51f536d1-a6c1-4a9e-aa4f-15d9fa9c4b32
+DTSTAMP:20180107T132531
 LOCATION:200-002
 DESCRIPTION:Robotics foundations in modeling, design, planning, and control. Class covers relevant results from geometry, kinematics, statics, dynamics, motion planning, and control, providing the basic methodologies and tools in robotics research and applications. Concepts and models are illustrated through physical robot platforms, interactive robot simulations, and video segments relevant to historical research developments or to emerging application areas in the field. Recommended: matrix algebra.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME320 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T163000
-CREATED:20170927T180006
+CREATED:20180107T132531
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

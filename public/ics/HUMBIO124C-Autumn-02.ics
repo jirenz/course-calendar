@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170927T132000
-LAST-MODIFIED:20170927T175831
-UID:explore_coursesaffc1fff-ad53-495e-ae69-e2292a0c48ae
-DTSTAMP:20170927T175831
-LOCATION:Green Earth Sciences150
+DTEND;TZID=America/Los_Angeles:20170927T152000
+LAST-MODIFIED:20180107T132302
+UID:explore_courses63e64143-2a66-4b87-ad4c-a514551ef1b8
+DTSTAMP:20180107T132302
+LOCATION:50-51P
 DESCRIPTION:This course introduces students to key challenges to the health and well being of children worldwide. We focus on child health problems in low- and middle-income countries (LMIC) to reflect the global burden of disease among children. We will review the scope and magnitude of the leading causes of morbidity and mortality among children, as well as examine regional variations. We will then identify both medical and non-medical causes, effects of, as well as interventions to address, some of the biggest child health problems. The course will also prevent an overview of the role of culture, gender, and non-state actors (NGOs, foundations, etc.) on health and health policy. Upper division course with preference given to upperclassmen.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO124C DIS
-DTSTART;TZID=America/Los_Angeles:20170927T123000
-CREATED:20170927T175831
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170927T143000
+CREATED:20180107T132302
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

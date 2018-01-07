@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T142000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses8d1c1abd-c9f1-4977-80d4-8f7330d047a8
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_courseseea0213c-07c9-4200-878c-78e925181b43
+DTSTAMP:20180107T132519
 LOCATION:Herrin T175
-DESCRIPTION:Introduction to the engineering of computer applications in Python, emphasizing modern software engineering principles: decomposition, abstraction, and testing. Emphasis is on good programming style. This course covers most of the same material as CS106A Section 1 in Java and CS 106A Section 2 in JavaScript, but this course uses the Python programming language which is popular for general engineering and web development. Required readings will all be available for free on the web. Students are encouraged to bring a laptop to lecture to do the live exercises which are integrated with lecture. No prior programming experience required. To enroll in this class, enroll in CS 106A Section 3.nnMay be taken for 3 units by grad students.
+DESCRIPTION:Introduction to the engineering of computer applications in Python, emphasizing modern software engineering principles: decomposition, abstraction, and testing. Emphasis is on good programming style. This course covers most of the same material as CS106A Section 1 in Java and CS 106A Section 2 in JavaScript, but this course uses the Python programming language which is popular for general engineering and web development. Required readings will all be available for free on the web. Students are encouraged to bring a laptop to lecture to do the live exercises which are integrated with lecture. No prior programming experience required. To enroll in this class, enroll in CS 106A Section 3. May be taken for 3 units by grad students. Enrollment is limited for winter quarter 2017-18 but from spring quarter 2017-18 enrollment will be unlimited.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106AP LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

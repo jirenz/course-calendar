@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20170927T180006
-UID:explore_courses2c2a75dd-cb9e-4ece-af3f-f52fae3e8d9d
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132531
+UID:explore_coursesb6b5b1a8-4332-454c-9a34-a4003516109b
+DTSTAMP:20180107T132531
 LOCATION:320-106
 DESCRIPTION:Survey of the physics underlying a wide range of microfluidic devices.  Course will review basic, simple principles around fluid flow; convective heat and mass transfer; flows of bubbles, drops, and particles; Brownian particles; Taylor dispersion; capillarity; electrokinetics; mixing; jetting; and chemical reactions.  Applications of these systems include molecular diagnostics, genetic and proteomic analysis, single-cell analysis, chemical detection, microelectronics cooling, and studies of basic physics and chemistry. We will review recent scientific literature with a goal of deducing simplified explanations, scaling arguments, and back-of-the-envelope approximations of the relevant physics and device performance.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME360 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20170927T180006
+CREATED:20180107T132531
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

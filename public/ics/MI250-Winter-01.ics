@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T182000
-LAST-MODIFIED:20170927T175910
-UID:explore_coursesd4a005b1-9ebf-436f-8f7e-ec22b5994df2
-DTSTAMP:20170927T175910
+LAST-MODIFIED:20180107T132421
+UID:explore_courses29a301ac-33f9-49e6-a4b8-b8e2834055d6
+DTSTAMP:20180107T132421
 LOCATION:Fairchild Science Bldg D300
 DESCRIPTION:Required of first- and second-year students in Microbiology and Immunology. How to evaluate biological research. Held in conjunction with the Microbiology and Immunology Friday noon seminar series. Before the seminar, students and faculty discuss one or more papers from the speaker's primary research literature on a related topic. After the seminar, students meet informally with the speaker to discuss their research.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MI250 SEM
 DTSTART;TZID=America/Los_Angeles:20180109T173000
-CREATED:20170927T175910
+CREATED:20180107T132421
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

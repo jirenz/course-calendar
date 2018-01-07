@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T112000
-LAST-MODIFIED:20170927T175952
-UID:explore_courses4e56e866-7a09-4e85-9117-a4ceaa789b1a
-DTSTAMP:20170927T175952
+LAST-MODIFIED:20180107T132511
+UID:explore_courses23b6cdb5-fa97-4df5-9bf7-dfc6cfcb5668
+DTSTAMP:20180107T132511
 LOCATION:Y2E2 111
 DESCRIPTION:Quantitative introduction to the engineering methods used to study and seek solutions to current air quality problems. Topics: global atmospheric changes, urban sources of air pollution, indoor air quality problems, design and efficiencies of pollution control devices, and engineering strategies for managing air quality. Prerequisites: 70, MATH 51.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE172 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T103000
-CREATED:20170927T175952
+CREATED:20180107T132511
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T144500
-LAST-MODIFIED:20170927T175912
-UID:explore_coursesc887b5f7-4aff-45cd-a84e-13f290be92f2
-DTSTAMP:20170927T175912
+LAST-MODIFIED:20180107T132422
+UID:explore_coursesca7ad737-b942-4736-a050-ffc00e62c8c6
+DTSTAMP:20180107T132422
 LOCATION:Alway Building, Room M212
 DESCRIPTION:Data analysis and visualization techniques commonly encountered in biosciences research. Fundamentals of the MATLAB computing environment, programming and debugging, data import/export, data structures, plotting, image analysis, introduction to statistical tools. Examples and assignments draw from a range of topics applicable to bioscience research: frequency analysis, genetic data mining, ion channel kinetics, neural spike rasters and spike-triggered averages, cell counting in fluorescence images, regression, PCA, and stochastic simulation. Assignments are practical in nature and demonstrate how to implement specific analyses that a biosciences student is likely to encounter. Assumes no previous programming experience.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NENS230 LAB
 DTSTART;TZID=America/Los_Angeles:20170926T131500
-CREATED:20170927T175912
+CREATED:20180107T132422
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T144500;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

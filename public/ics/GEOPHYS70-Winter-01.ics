@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20170927T175945
-UID:explore_courses9e40e2f1-1542-4511-8f16-72ecb99b298c
-DTSTAMP:20170927T175945
+LAST-MODIFIED:20180107T132501
+UID:explore_courses6cc7fd54-5c55-48a4-9987-0431d6c84985
+DTSTAMP:20180107T132501
 LOCATION:Mitch 350 plus 372
-DESCRIPTION:The pathway that water takes from rainfall to the tap using student home towns as an example. How the geological environment controls the quantity and quality of water; taste tests of water from around the world. Current U.S. and world water supply issues.
+DESCRIPTION:The Central Valley of California provides a third of the produce grown in the U.S., but has a desert climate, thus raising concerns about both food and water security. The pathway that water takes rainfall to the irrigation of fields (the water course) determines the quantity and quality of the available water. Working with various data sources (remote sensing, gauges, wells) allows us to model the water budget in the valley and explore the way in which recent droughts and increasing demand are impacting freshwater supplies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS70 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20170927T175945
+CREATED:20180107T132501
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

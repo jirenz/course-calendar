@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20170927T175953
-UID:explore_coursesaacb0444-b143-4740-b8c7-98d0f0e86232
-DTSTAMP:20170927T175953
+LAST-MODIFIED:20180107T132511
+UID:explore_coursesf609dbed-3044-4177-8857-25ac866a1f17
+DTSTAMP:20180107T132511
 LOCATION:McCullough 126
 DESCRIPTION:Introduction to vectors and tensors: kinematics, deformation, forces, and stress concept of continua; balance principles; aspects of objectivity; hyperelastic materials; thermodynamics of materials; variational principles. Prerequisite: CEE 291 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE292 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20170927T175953
+CREATED:20180107T132511
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

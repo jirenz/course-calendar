@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20170927T175851
-UID:explore_coursesdab729fd-ac2a-443e-b1ae-caabd719816b
-DTSTAMP:20170927T175851
-LOCATION:240-201
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20180107T132351
+UID:explore_courses28c146c0-1f68-4f83-978b-1a3dd8f3c012
+DTSTAMP:20180107T132351
+LOCATION:50-52E
 DESCRIPTION:Spanish and Spanish American short stories approached through narrative theory and craft. Assignments are creative in nature and focus on the formal elements of fiction (e.g. character and plot development, point of view, creating a scene, etc.). Students will write, workshop, and revise an original short story throughout the term. No previous experience with creative writing is required. Readings may include works by Ayala, Bola&ntilde;o, Borges, Clar&iacute;n, Cort&aacute;zar, Garc&iacute;a M&aacute;rquez, Piglia, Rodoreda, and others. Enrollment limited.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ILAC241 SEM
-DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20170927T175851
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20180107T132351
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

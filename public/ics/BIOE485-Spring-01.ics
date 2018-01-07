@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T102000
-LAST-MODIFIED:20170927T175948
-UID:explore_courses379e4191-99ad-404e-8083-ee1d1283b236
-DTSTAMP:20170927T175948
-LOCATION:Green Earth Sciences150
+LAST-MODIFIED:20180107T132506
+UID:explore_courses39eb7446-4540-40bd-8f78-a86d3dfdc46e
+DTSTAMP:20180107T132506
+LOCATION:Clark Center S361
 DESCRIPTION:Direct experience with the computational tools used to create simulations of human movement. Lecture/labs on animation of movement; kinematic models of joints; forward dynamic simulation; computational models of muscles, tendons, and ligaments; creation of models from medical images; control of dynamic simulations; collision detection and contact models. Prerequisite: 281, 331A,B, or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE485 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T090000
-CREATED:20170927T175948
+CREATED:20180107T132506
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

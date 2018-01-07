@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T102000
-LAST-MODIFIED:20170927T175941
-UID:explore_courses383a96a4-de74-4de5-9196-4b1f0c498874
-DTSTAMP:20170927T175941
+LAST-MODIFIED:20180107T132456
+UID:explore_courses410246e3-abbb-4ecd-b892-42f4e2390cad
+DTSTAMP:20180107T132456
 LOCATION:Green Earth Sciences104
 DESCRIPTION:Lectures, problems. Theory of multicomponent, multiphase flow in porous media. Miscible displacement: diffusion and dispersion, convection-dispersion equations and its solutions. Method of characteristic calculations of chromatographic transport of multicomponent mixtures. Development of miscibility and interaction of phase behavior with heterogeneity. May be repeated for credit. Prerequisite: CME 200.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY225 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T093000
-CREATED:20170927T175941
+CREATED:20180107T132456
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

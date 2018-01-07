@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20170927T180006
-UID:explore_courses74ad901f-48ab-4ef7-8e7c-e2b5cd8571d7
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132531
+UID:explore_courses582d1482-42a7-433d-8013-61d3ae27bad7
+DTSTAMP:20180107T132531
 LOCATION:Green Earth Sciences150
 DESCRIPTION:Introduction to continuum theory and computational simulation of living matter. Kinematics of finite growth. Balance equations in open system thermodynamics. Constitutive equations for living systems. Custom-designed finite element solution strategies. Analytical solutions for simple model problems. Numerical solutions for clinically relevant problems such as: bone remodeling; wound healing; tumor growth; atherosclerosis; heart failure; tissue expansion; and high performance training.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME337 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20170927T180006
+CREATED:20180107T132531
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

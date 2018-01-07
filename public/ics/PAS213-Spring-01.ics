@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T112000
-LAST-MODIFIED:20170927T175922
-UID:explore_coursesb494c893-59fd-402e-a965-cf61731941c4
-DTSTAMP:20170927T175922
+LAST-MODIFIED:20180107T132434
+UID:explore_coursesab70b7b2-9511-4b48-9f34-a1a5b586c29d
+DTSTAMP:20180107T132434
 LOCATION:
 DESCRIPTION:This is the second in a four-course sequence presenting organ-system based physiology, pathology and pathophysiology. Each organ-specific block includes a review of the anatomy and related histology, normal function of that organ system, how the organ system is affected by and responds to disease, and how diseases of that organ system are treated. In PAS 213, the focus is on the structure, function, disease, and corresponding therapeutics of the pulmonary and cardiovascular systems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PAS213 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T083000
-CREATED:20170927T175922
+CREATED:20180107T132434
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,TU,TH,FR
 END:VEVENT
 END:VCALENDAR

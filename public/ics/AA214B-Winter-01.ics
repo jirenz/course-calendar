@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20170927T175947
-UID:explore_courses38f779a1-195c-4a40-836a-4ed582eff245
-DTSTAMP:20170927T175947
+LAST-MODIFIED:20180107T132504
+UID:explore_coursesc5820d2f-3598-4be4-b735-867e883416d1
+DTSTAMP:20180107T132504
 LOCATION:Green Earth Sciences150
 DESCRIPTION:For M.S.-level graduate students. Covers the hierarchy of mathematical models for compressible flows. Introduction to finite difference, finite volume, and finite element methods for their computation. Ideal potential flow; transonic potential flow; Euler equations; Navier-Stokes equations; representative model problems; shocks, expansions, and contact discontinuities; treatment of boundary conditions; time and pseudo-time integration schemes. Prerequisites: basic knowledge of linear algebra and ODEs (CME 206 or equivalent).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA214B LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20170927T175947
+CREATED:20180107T132504
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

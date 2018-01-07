@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20170927T175833
-UID:explore_courses1b7b61a6-fad2-46fc-9f80-c25e4e2286d3
-DTSTAMP:20170927T175833
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20180107T132310
+UID:explore_courses024ba0dd-4064-4b6c-941f-7449ac9509fd
+DTSTAMP:20180107T132310
 LOCATION:160-325
 DESCRIPTION:Contemporary Japanese culture through Japanese films, documentaries, TV dramas, and animes. Structured for students with a strong desire to advance their Japanese language skills and who have limited class preparation time. Students will engage in in-depth discussion and exploration of social and cultural issues, expand the repertoire of vocabulary, and practice on advanced language skills. Topics may vary depending on student interests. Prerequisite: JAPANLNG 23.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:JAPANLNG115F LNG
-DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20170927T175833
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180402T150000
+CREATED:20180107T132310
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T152000
-LAST-MODIFIED:20170927T175846
-UID:explore_coursesa1af27e0-6be1-4f99-86b4-b52f61a98fa5
-DTSTAMP:20170927T175846
+LAST-MODIFIED:20180107T132338
+UID:explore_coursesac6e45e0-6b3c-457e-99cd-ea9354500f99
+DTSTAMP:20180107T132338
 LOCATION:
 DESCRIPTION:Provides a survey of statistical tools for model-based inference in political science.  Topics include generalized linear models for various data types and their extensions, such as discrete choice models, survival outcome models, mixed effects and multilevel models.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI450C LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20170927T175846
+CREATED:20180107T132338
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170927T192000
-LAST-MODIFIED:20170927T175938
-UID:explore_coursesc194484a-eda9-48c5-8f85-a1aed58a9aae
-DTSTAMP:20170927T175938
-LOCATION:School of Education 334
+DTEND;TZID=America/Los_Angeles:20170928T162000
+LAST-MODIFIED:20180107T132452
+UID:explore_coursesbdd9c788-ecdc-4d45-a188-33cc39202d04
+DTSTAMP:20180107T132452
+LOCATION:School of Education 313
 DESCRIPTION:This class will engage fraternity and sorority leadership in a meaningful discussion around the purpose and relevancy of the college fraternity and sorority. Participants will engage in coursework intended to build skills relevant to being a peer elected leader within their chapter. Specifically, students will research, discuss, and present on current trends impacting the contemporary fraternity and sorority community. Students will also practice self-reflection, decision-making, facilitating difficult conversations, and group leadership. Participants will gain a basic understanding of the challenges within the fraternity and sorority community and gain the skills necessary to analyze and approach these challenges successfully. As an outcome of this course, students will be able to look critically at Greek-letter organizations and their respective communities and will become better skilled as leaders to address problems and effect change as necessary.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC192E DIS
-DTSTART;TZID=America/Los_Angeles:20170927T180000
-CREATED:20170927T175938
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20170928T150000
+CREATED:20180107T132452
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

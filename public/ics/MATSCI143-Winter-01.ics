@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20170927T180003
-UID:explore_coursesee9634eb-3fe8-4405-8c40-31764423194d
-DTSTAMP:20170927T180003
-LOCATION:
+LAST-MODIFIED:20180107T132528
+UID:explore_courses81257f48-5a5f-40db-a12d-8d9533088e7f
+DTSTAMP:20180107T132528
+LOCATION:200-205
 DESCRIPTION:Students will study the theory and application of characterization techniques used to examine the structure of materials at the nanoscale. Students will learn to classify the structure of materials such as semiconductors, ceramics, metals, and nanotubes according to the principles of crystallography. Methods used widely in academic and industrial research, including X-ray diffraction and electron microscopy, will be demonstrated along with their application to the analysis of nanostructures. Prerequisites: E-50 or equivalent introductory materials science course. (Formerly 153)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI143 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20170927T180003
+CREATED:20180107T132528
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

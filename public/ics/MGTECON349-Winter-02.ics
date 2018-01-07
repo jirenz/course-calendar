@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20170927T175741
-UID:explore_coursesba8eb536-2e95-4622-a776-826792adcb30
-DTSTAMP:20170927T175741
-LOCATION:
+LAST-MODIFIED:20180107T132128
+UID:explore_courses5d86fe7b-01ff-492a-b807-bfa17c9f72e6
+DTSTAMP:20180107T132128
+LOCATION:GSB Patterson 107
 DESCRIPTION:This course is an Advanced Applications option in the Economics menu. The focus of the course is on pricing mechanisms and the design of marketplaces. The pricing component of the course will handle both traditional topics, such as price differentiation, and more modern ones, such as dynamic pricing. In the market design component of the course, we will consider such topics as auctions (e.g., designing auctions for selling online advertising slots) and matching (e.g., designing mechanisms for matching students to schools).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MGTECON349 CAS
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20170927T175741
+CREATED:20180107T132128
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

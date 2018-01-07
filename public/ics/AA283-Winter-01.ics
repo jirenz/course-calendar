@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20170927T175947
-UID:explore_coursesd29318e9-2cb2-4fe4-88a1-65c8721e0284
-DTSTAMP:20170927T175947
+LAST-MODIFIED:20180107T132504
+UID:explore_coursese5c30585-8bf7-4f44-8596-cb0942febfdb
+DTSTAMP:20180107T132504
 LOCATION:370-370
 DESCRIPTION:Introduction to the design and performance of airbreathing and rocket engines. Topics: the physical parameters used to characterize propulsion system performance; gas dynamics of nozzles and inlets; cycle analysis of ramjets, turbojets, turbofans, and turboprops; component matching and the compressor map; introduction to liquid and solid propellant rockets; multistage rockets; hybrid rockets; thermodynamics of reacting gases. Prerequisites: undergraduate background in fluid mechanics and thermodynamics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA283 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20170927T175947
+CREATED:20180107T132504
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

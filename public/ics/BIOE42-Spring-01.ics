@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T102000
-LAST-MODIFIED:20170927T175948
-UID:explore_courses0f1c4a78-069a-401b-aff4-09f905577036
-DTSTAMP:20170927T175948
+LAST-MODIFIED:20180107T132506
+UID:explore_coursesff1d309f-ac60-40da-8d4c-ad8244027a78
+DTSTAMP:20180107T132506
 LOCATION:
 DESCRIPTION:BIOE 42 is designed to introduce students to general engineering principles that have emerged from theory and experiments in biology. Topics covered will cover the scales from molecules to cells to organisms, including fundamental principles of entropy, diffusion, and continuum mechanics. These topics will link to several biological questions, including DNA organization, ligand binding, cytoskeletal mechanics, and the electromagnetic origin of nerve impulses. In all cases, students will learn to develop toy models that can explain quantitative measurements of the function of biological systems. Prerequisites: MATH 19, 20, 21 CHEM 31A, B (or 31X), PHYSICS 41; strongly recommended: CS 106A, CME 100 or MATH 51, and CME 106; or instructor approval.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE42 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T090000
-CREATED:20170927T175948
+CREATED:20180107T132506
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

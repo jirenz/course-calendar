@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20170927T180006
-UID:explore_courses8f182f5b-c8a6-4dde-85b0-c259ab4ea17f
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132531
+UID:explore_coursesec9e3387-59ea-4e12-8973-818a42f35082
+DTSTAMP:20180107T132531
 LOCATION:610-615
 DESCRIPTION:Design course focusing on an integrated suite of computer tools: rapid prototyping, solid modeling, computer-aided machining, and computer numerical control manufacturing. Students choose, design, and manufacture individual products, emphasizing individual design process and computer design tools. Structured lab experiences build a basic CAD/CAM/CNC proficiency. Limited enrollment. Prerequisite: consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME318 LAB
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20170927T180006
+CREATED:20180107T132531
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

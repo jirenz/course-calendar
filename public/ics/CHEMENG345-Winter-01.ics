@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20170927T175949
-UID:explore_courses08ecdf5b-3d68-4ca4-a5d9-3131d095d90d
-DTSTAMP:20170927T175949
-LOCATION:Herrin T175
+LAST-MODIFIED:20180107T132507
+UID:explore_courses4d4989dc-15db-43e9-bf88-f5c738b90f13
+DTSTAMP:20180107T132507
+LOCATION:Gates B1
 DESCRIPTION:Development of theoretical approaches to spectroscopy, including spectroscopic transitions, transition probabilities, and selection rules. Application to photon and electron spectroscopies of the gas and solid phases. Topics: rotational spectroscopy; infrared and Raman vibrational spectroscopies; fluorescence spectroscopy; Auger, x-ray and ultraviolet photoelectron spectroscopies. Prerequisite: CHEM 271 or course in quantum mechanics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG345 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20170927T175949
+CREATED:20180107T132507
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

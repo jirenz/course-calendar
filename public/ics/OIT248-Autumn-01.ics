@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T145000
-LAST-MODIFIED:20170927T175744
-UID:explore_coursesaf811e3a-e527-4e87-b264-cf4fe03f9955
-DTSTAMP:20170927T175744
+LAST-MODIFIED:20180107T132133
+UID:explore_courses89206e57-28d2-4329-8f76-57a3a202467b
+DTSTAMP:20180107T132133
 LOCATION:GSB Class of 1968 106
 DESCRIPTION:This course is the Advanced Applications option in the menu of courses that satisfy the Management Perspectives requirement in Optimization and Simulation Modeling (OSM). The course will focus on using optimization techniques in practice, with the following objectives: (1) Students should leave with a good understanding of different types of optimization models and when they are useful; (2) Students should be able to solve real-world optimization models, and use tips and tricks for solving these models efficiently; (3) When faced with a business problem, students should be able to identify whether or not optimization is appropriate, and how to set up the correct model to solve the problem. The class is taught in an interactive style, focusing on a variety of applications drawn from advertising, healthcare, finance, supply chain management, and scheduling. We will be using the software Gurobi through Python. Students should be comfortable using these software packages by the end of the class, but no prior experience specifically with these software packages is necessary. Some prior coding experience is helpful, but the first week of the course is designed to bring all students up to speed with Python.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT248 CAS
 DTSTART;TZID=America/Los_Angeles:20170925T133000
-CREATED:20170927T175744
+CREATED:20180107T132133
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T175000
-LAST-MODIFIED:20170927T175949
-UID:explore_courses1e5a3ec7-2d82-4214-ac85-75af4336871e
-DTSTAMP:20170927T175949
-LOCATION:Herrin T185
+LAST-MODIFIED:20180107T132507
+UID:explore_courses4947524d-4817-4f12-a7bb-ba542013515d
+DTSTAMP:20180107T132507
+LOCATION:380-380Y
 DESCRIPTION:Open to seniors in chemical engineering or by consent of instructor. Application of chemical engineering principles to the design of practical plants for the manufacture of chemicals and related materials. Topics: flow-sheet development from a conceptual design, equipment design for distillation, chemical reactions, heat transfer, pumping, and compression; estimation of capital expenditures and production costs; plant construction.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG180 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20170927T175949
+CREATED:20180107T132507
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

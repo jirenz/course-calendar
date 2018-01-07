@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180405T213000
-LAST-MODIFIED:20170927T180006
-UID:explore_courses8ec41fed-0cb1-4d70-bb53-f3de9dcedc56
-DTSTAMP:20170927T180006
-LOCATION:
-DESCRIPTION:Design for Extreme Affordability (fondly called Extreme) is a two-quarter course offered by the d.school through the School of Engineering and the Graduate School of Business. This multidisciplinary project-based experience creates an enabling environment in which students learn to design products and services that will change the lives of the world's poorest citizens. Students work directly with course partners on real world problems, the culmination of which is actual implementation and real impact. Topics include design thinking, product and service design, rapid prototype engineering and testing, business modelling, social entrepreneurship, team dynamics, impact measurement, operations planning and ethics. Possibility to travel overseas during spring break. Previous projects include d.light, Driptech, Earthenable, Embrace, the Lotus Pump, MiracleBrace, Noora Health and Sanku.  Periodic design reviews; Final course presentation and expo; industry and adviser interaction. Limited enrollment via application. Must sign up for ME206A and ME206B. See extreme.stanford.edu
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:ME206B LEC
-DTSTART;TZID=America/Los_Angeles:20180405T193000
-CREATED:20170927T180006
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T213000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T122000
-LAST-MODIFIED:20170927T180006
-UID:explore_courses5df5af3f-b907-4e5a-9713-b0df4c4573eb
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132530
+UID:explore_courses43a99286-0ba8-410d-8cd5-3503fcebefbf
+DTSTAMP:20180107T132530
 LOCATION:
 DESCRIPTION:Design for Extreme Affordability (fondly called Extreme) is a two-quarter course offered by the d.school through the School of Engineering and the Graduate School of Business. This multidisciplinary project-based experience creates an enabling environment in which students learn to design products and services that will change the lives of the world's poorest citizens. Students work directly with course partners on real world problems, the culmination of which is actual implementation and real impact. Topics include design thinking, product and service design, rapid prototype engineering and testing, business modelling, social entrepreneurship, team dynamics, impact measurement, operations planning and ethics. Possibility to travel overseas during spring break. Previous projects include d.light, Driptech, Earthenable, Embrace, the Lotus Pump, MiracleBrace, Noora Health and Sanku.  Periodic design reviews; Final course presentation and expo; industry and adviser interaction. Limited enrollment via application. Must sign up for ME206A and ME206B. See extreme.stanford.edu
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME206B LEC
 DTSTART;TZID=America/Los_Angeles:20180402T103000
-CREATED:20170927T180006
+CREATED:20180107T132530
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180405T213000
+LAST-MODIFIED:20180107T132530
+UID:explore_coursese9fcb9b3-9515-4054-8f86-ef90d32f2b8f
+DTSTAMP:20180107T132530
+LOCATION:
+DESCRIPTION:Design for Extreme Affordability (fondly called Extreme) is a two-quarter course offered by the d.school through the School of Engineering and the Graduate School of Business. This multidisciplinary project-based experience creates an enabling environment in which students learn to design products and services that will change the lives of the world's poorest citizens. Students work directly with course partners on real world problems, the culmination of which is actual implementation and real impact. Topics include design thinking, product and service design, rapid prototype engineering and testing, business modelling, social entrepreneurship, team dynamics, impact measurement, operations planning and ethics. Possibility to travel overseas during spring break. Previous projects include d.light, Driptech, Earthenable, Embrace, the Lotus Pump, MiracleBrace, Noora Health and Sanku.  Periodic design reviews; Final course presentation and expo; industry and adviser interaction. Limited enrollment via application. Must sign up for ME206A and ME206B. See extreme.stanford.edu
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ME206B LEC
+DTSTART;TZID=America/Los_Angeles:20180405T193000
+CREATED:20180107T132530
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T213000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

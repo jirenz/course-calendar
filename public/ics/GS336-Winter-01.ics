@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T172000
-LAST-MODIFIED:20170927T175944
-UID:explore_courses8ea77286-9776-446b-93f1-2773b91c10a1
-DTSTAMP:20170927T175944
+LAST-MODIFIED:20180107T132500
+UID:explore_coursescd299c39-4395-4d43-b80f-ed8e98cc0ddb
+DTSTAMP:20180107T132500
 LOCATION:
 DESCRIPTION:Weekly student presentations on continental collision tectonics, sedimentology, petrology, geomorphology, climate, culture, and other topics of interest. Students create a guidebook of geologic stops in advance of field trip. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GS336 SEM
 DTSTART;TZID=America/Los_Angeles:20180108T153000
-CREATED:20170927T175944
+CREATED:20180107T132500
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

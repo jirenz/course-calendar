@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20170927T175824
-UID:explore_coursesff583487-2763-4215-8464-75bb35b2f5f8
-DTSTAMP:20170927T175824
-LOCATION:School of Education 130
+DTEND;TZID=America/Los_Angeles:20180402T122000
+LAST-MODIFIED:20180107T132247
+UID:explore_courses4fa81ba2-0175-432e-9472-b434c980db9d
+DTSTAMP:20180107T132247
+LOCATION:
 DESCRIPTION:This bridge course prepares students for transitioning to literature classes that are taught in French. Emphasis is on the development of speaking, writing, and presenting at the advanced level. Students will review and master the difficulties of French through the study of various types of literary texts and through analysis of current events in the francophone world. Required for students majoring or minoring in French. Prerequisite: FRENLANG 23C or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FRENLANG124 LNG
-DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20170927T175824
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20180107T132247
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

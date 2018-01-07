@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180626T112000
-LAST-MODIFIED:20170927T175925
-UID:explore_coursesb96f8c41-d3a6-4cf4-a2c4-a5064071a98b
-DTSTAMP:20170927T175925
+LAST-MODIFIED:20180107T132440
+UID:explore_coursesb8c332cf-f0c7-4c06-ab1b-cb281e04eac6
+DTSTAMP:20180107T132440
 LOCATION:
 DESCRIPTION:This course teaches the physics, materials, modeling and processing steps involved in the design and fabrication of medical ultrasound transducers for diagnostic imaging and therapeutic applications. Students will learn how to consider various tradeoffs in the design and selection of clinical probes for particular uses, and a lab activity will reinforce the fundamentals of transducers and demonstrate how to assess probe performance in the real world.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:RAD230 LEC
 DTSTART;TZID=America/Los_Angeles:20180626T103000
-CREATED:20170927T175925
+CREATED:20180107T132440
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T112000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

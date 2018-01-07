@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20170927T175837
-UID:explore_courses03e6efa2-1aed-406d-9b5f-154f103023f5
-DTSTAMP:20170927T175837
+LAST-MODIFIED:20180107T132316
+UID:explore_courses67daa7f5-7101-480b-a309-9181c0559b59
+DTSTAMP:20180107T132316
 LOCATION:380-380X
 DESCRIPTION:Brownian motion, stochastic integrals, and diffusions as solutions of stochastic differential equations. Functionals of diffusions and their connection with partial differential equations. Random walk approximation of diffusions. Prerequisite: 136 or equivalent and differential equations.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH236 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20170927T175837
+CREATED:20180107T132316
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

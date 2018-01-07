@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20170927T180001
-UID:explore_coursesc074e147-79f5-4ec6-8b1d-b7d80e802bfd
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_coursesc7bcbb25-9ffa-4c13-a0c6-bed1519f34b3
+DTSTAMP:20180107T132523
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Design, testing, and applications. Amplitude modulation (AM) using multiplier circuits. Frequency modulation (FM) based on discrete oscillator and integrated modulator circuits such as voltage-controlled oscillators (VCOs). Phased-lock loop (PLL) techniques, characterization of key parameters, and their applications. Practical aspects of circuit implementations. Labs involve building and characterization of AM and FM modulation/demodulation circuits and subsystems. Enrollment limited to 30 undergraduates and coterminal EE students. Prerequisite: EE101B. Undergraduate students enroll in EE133 and Graduate students enroll in EE233. Recommended: EE114/214A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE133 LAB
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

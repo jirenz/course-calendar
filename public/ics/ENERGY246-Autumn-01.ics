@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170929T162000
-LAST-MODIFIED:20170927T175941
-UID:explore_coursesd7d8ffd8-fbee-4833-9091-43344dbdfe3b
-DTSTAMP:20170927T175941
+LAST-MODIFIED:20180107T132456
+UID:explore_courses190fe11e-aa85-406a-bc3d-0dd7561ba352
+DTSTAMP:20180107T132456
 LOCATION:Green Earth Sciences104
 DESCRIPTION:Course gives an overview of concepts from geology and geophysics relevant for building subsurface reservoir models. Includes a required 1-day field trip and hands-on lab exercises. Target audience: MS and 1st year PhD students in PE/ERE/GS with little or no background in geology or geophysics. Topics include: basin and petroleum systems, depositional settings, deformation and diagenesis, introduction to reflection seismic data, rock and fluid property measurements, geostatistics, and flow in porous media.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY246 LEC
 DTSTART;TZID=America/Los_Angeles:20170929T133000
-CREATED:20170927T175941
+CREATED:20180107T132456
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

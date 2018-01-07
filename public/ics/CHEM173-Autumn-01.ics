@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T122000
-LAST-MODIFIED:20170927T175805
-UID:explore_coursesa3a087d2-084f-4693-9d25-7314b5c4edfd
-DTSTAMP:20170927T175805
+LAST-MODIFIED:20180107T132221
+UID:explore_courses666bbb8d-d81a-40d1-af27-8cadb3b6dd14
+DTSTAMP:20180107T132221
 LOCATION:STLC115
 DESCRIPTION:Introduction to quantum chemistry: the basic principles of wave mechanics, the harmonic oscillator, the rigid rotator, infrared and microwave spectroscopy, the hydrogen atom, atomic structure, molecular structure, valence theory. Prerequisites: CHEM 171; CME 102 and CME 104 or MATH 53 or consent from instructor; PHYSICS 41, 43.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM173 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T113000
-CREATED:20170927T175805
+CREATED:20180107T132221
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

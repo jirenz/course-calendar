@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T152000
-LAST-MODIFIED:20170927T175928
-UID:explore_coursesd8c30bbc-14ea-46fc-897b-f5e794087702
-DTSTAMP:20170927T175928
+LAST-MODIFIED:20180107T132444
+UID:explore_coursescea1aad4-597c-41c6-9e3b-e4017c31b5dc
+DTSTAMP:20180107T132444
 LOCATION:Alway Building, Room M106
 DESCRIPTION:Enrollment limited to seniors and graduate students. Comprises two parts, lecture and lab, both of which are required.  Lectures in regional anatomy and dissection of the human cadaver; the anatomy of the trunk and limbs through the dissection process, excluding the head and neck.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SURG101 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20170927T175928
+CREATED:20180107T132444
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

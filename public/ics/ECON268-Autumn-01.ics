@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170927T212000
-LAST-MODIFIED:20170927T175819
-UID:explore_coursese706c255-e0a8-4b45-9080-fc563e202490
-DTSTAMP:20170927T175819
+LAST-MODIFIED:20180107T132239
+UID:explore_courses10399b17-cc44-4fa8-85af-7f2eb1e0a09f
+DTSTAMP:20180107T132239
 LOCATION:Econ 106
 DESCRIPTION:Monetary foundations of international exchange; the rules of the game since Bretton Woods. Foreign exchange risk under the world dollar standard. Hedging, forward covering, and interest parity relationships. International capital flows and the current account. Global trade imbalances; China and Japan versus the U.S. Inflation versus exchange rate targeting in developing countries.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON268 LEC
 DTSTART;TZID=America/Los_Angeles:20170927T173000
-CREATED:20170927T175819
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180204T212000;BYDAY=WE
+CREATED:20180107T132239
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T212000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

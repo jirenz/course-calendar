@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170929T122000
-LAST-MODIFIED:20170927T175853
-UID:explore_courses50a56215-e0fc-448c-ab83-b59403751bc0
-DTSTAMP:20170927T175853
+LAST-MODIFIED:20180107T132356
+UID:explore_coursesaf9f2148-075b-40b7-a19d-f403468414cf
+DTSTAMP:20180107T132356
 LOCATION:Skillaud
 DESCRIPTION:(SCPD students register for 240P.) Regression analysis and applications to investment models. Principal components and multivariate analysis. Likelihood inference and Bayesian methods. Financial time series. Estimation and modeling of volatilities. Statistical methods for portfolio management. Prerequisite: STATS 200 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS240 LEC
 DTSTART;TZID=America/Los_Angeles:20170929T103000
-CREATED:20170927T175853
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

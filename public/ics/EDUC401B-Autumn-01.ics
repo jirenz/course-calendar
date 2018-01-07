@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20170927T175938
-UID:explore_courses07649ad7-0749-4e2a-9b37-b9bfd0f7cb70
-DTSTAMP:20170927T175938
+LAST-MODIFIED:20180107T132453
+UID:explore_coursesc28e5c51-d081-4c9f-8291-292c8a46894b
+DTSTAMP:20180107T132453
 LOCATION:Ceras 108
 DESCRIPTION:The goal of this course is to familiarize students with the Stata statistical software package for use in quantitative research. By the end of the course, students should be able to import and export data, clean and manage data, conduct standard statistical tests (e.g., correlation, t-test, regression), and produce a graph.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC401B SEM
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20170927T175938
+CREATED:20180107T132453
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

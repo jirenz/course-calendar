@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20170927T175836
-UID:explore_coursesa9c466e9-494e-4a68-b509-65e59c4e6e13
-DTSTAMP:20170927T175836
-LOCATION:Dinkelspiel Auditorium
-DESCRIPTION:Extracting meaning, information, and structure from human language text, speech, web pages, social networks. Methods include: string algorithms,edit distance, language modeling, the noisy channel, naive Bayes, inverted indices, collaborative filtering, PageRank. Applications such as question answering, sentiment analysis, information retrieval, text classification, social network models, chatbots, sequence alignment, spell checking, speech processing, recommender systems. nPrerequisites:nCS103&lt;https://explorecourses.stanford.edu/search?view=catalog&amp;filter-coursestatus-Active=on&amp;page=0&amp;q=CS103&gt;,nCS107&lt;https://explorecourses.stanford.edu/search?view=catalog&amp;filter-coursestatus-Active=on&amp;page=0&amp;q=CS107&gt;,nCS109&lt;https://explorecourses.stanford.edu/search?view=catalog&amp;filter-coursestatus-Active=on&amp;page=0&amp;q=CS109&gt;
+LAST-MODIFIED:20180107T132313
+UID:explore_courses0a998198-52e8-4313-b384-ebaab060b8f9
+DTSTAMP:20180107T132313
+LOCATION:420-040
+DESCRIPTION:Extracting meaning, information, and structure from human language text, speech, web pages, social networks. Methods include: string algorithms,edit distance, language modeling, the noisy channel, naive Bayes, inverted indices, collaborative filtering, PageRank. Applications such as question answering, sentiment analysis, information retrieval, text classification, social network models, chatbots, sequence alignment, spell checking, speech processing, recommender systems. nPrerequisites: CS103, CS107, CS109.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LINGUIST180 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20170927T175836
+CREATED:20180107T132313
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

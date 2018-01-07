@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180305T132000
-LAST-MODIFIED:20170927T175859
-UID:explore_courses13e997a4-d2f8-40bf-99b3-6121afa1db76
-DTSTAMP:20170927T175859
-LOCATION:
+LAST-MODIFIED:20180107T132404
+UID:explore_coursesede3f3ae-43ea-4282-8e27-8c9556dc9e81
+DTSTAMP:20180107T132404
+LOCATION:Alway Building, Room M114
 DESCRIPTION:Usher in the golden age of biological discovery with next generation sequencing (NGS) through its wide spectrum of applications.  Modules include general introduction of Next Generation Sequencing (NGS) technologies, applications of these sequencing technologies, caveats and comparisons with previous approaches, analysis and interpretation of sequencing data, principles of tools and resources and practical ways to utilize them, and features and pitfalls. Prerequisite: background in molecular biology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS201 LEC
 DTSTART;TZID=America/Los_Angeles:20180305T113000
-CREATED:20170927T175859
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180330T132000;BYDAY=MO,WE,FR
+CREATED:20180107T132404
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

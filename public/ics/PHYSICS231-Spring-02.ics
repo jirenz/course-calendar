@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180405T170000
-LAST-MODIFIED:20170927T175844
-UID:explore_courses3e21f118-86d3-4b70-8a2b-f61321bf4c77
-DTSTAMP:20170927T175844
+LAST-MODIFIED:20180107T132335
+UID:explore_coursesda091e6a-3ec8-4dab-b277-decec03bc233
+DTSTAMP:20180107T132335
 LOCATION:
 DESCRIPTION:Basis for higher level courses on atomic solid state and particle physics.  Problems related to measurement theory and introduction to quantum computing.  Approximation methods for time-independent and time-dependent perturbations. Semiclassical and quantum theory of radiation, second quantization of radiation and matter fields. Systems of identical particles and many electron atoms and molecules. Prerequisite: PHYSICS 230.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS231 DIS
 DTSTART;TZID=America/Los_Angeles:20180405T150000
-CREATED:20170927T175844
+CREATED:20180107T132335
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T170000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

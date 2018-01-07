@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T115000
-LAST-MODIFIED:20170927T175837
-UID:explore_courses0f0c0111-5403-4558-92ed-19ce6d7d62aa
-DTSTAMP:20170927T175837
+LAST-MODIFIED:20180107T132316
+UID:explore_courses10c71c8a-4abe-4ed9-8f2a-5841eedb76b2
+DTSTAMP:20180107T132316
 LOCATION:380-380X
 DESCRIPTION:How was mathematics invented? A survey of the main creative ideas of ancient Greek mathematics. Among the issues explored are the axiomatic system of Euclid's Elements, the origins of the calculus in Greek measurements of solids and surfaces, and Archimedes' creation of mathematical physics. We will provide proofs of ancient theorems, and also learn how such theorems are even known today thanks to the recovery of ancient manuscripts.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH163 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T103000
-CREATED:20170927T175837
+CREATED:20180107T132316
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

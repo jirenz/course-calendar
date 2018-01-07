@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T175000
-LAST-MODIFIED:20170927T175958
-UID:explore_coursese4c56acf-70bc-47be-a769-afa35e8c7664
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_courses510fab06-8f07-4870-bda1-2a7caff22b34
+DTSTAMP:20180107T132519
 LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:This course emphasizes approaches to scaling the technologies of computer science and systems neuroscience to take advantage of the exponential trend in computational power known as Moore's Law. Modern methods in signal processing and machine learning are combined with technologies for managing large datasets common in industry. Classes feature scientists presenting novel approaches for analyzing the structure and function of complex neural circuits. Grading is based on class participation (30%), a project proposal due at midterm (20%), and a final project demonstration and report due by the end of finals (50%). Team projects are encouraged, especially multi-disciplinary collaborations. Prerequisites are basic high-school biology, good math skills and familiarity with machine learning. Some background in computer vision and signal processing is important for projects in structural analysis. Familiarity with modern artificial neural network technologies is a plus for projects in functional analysis. For more detail, see http://www.stanford.edu/class/cs379c/ with special attention to the CALENDAR and DISCUSSION tabs from past classes available by following the ARCHIVES link.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS379C LEC
 DTSTART;TZID=America/Los_Angeles:20180403T163000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

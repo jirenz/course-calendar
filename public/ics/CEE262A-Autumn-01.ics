@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T112000
-LAST-MODIFIED:20170927T175952
-UID:explore_courses0b271d73-99c8-4f5f-a9e7-364fc481e351
-DTSTAMP:20170927T175952
+LAST-MODIFIED:20180107T132511
+UID:explore_courses3f384bce-4f0a-4a51-9359-144c8657dd94
+DTSTAMP:20180107T132511
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:The flow of incompressible viscous fluid; emphasis is on developing an understanding of fluid dynamics that can be applied to environmental flows. Topics: kinematics of fluid flow; equations of mass and momentum conservation (including density variations); some exact solutions to the Navier-Stokes equations; appropriate analysis of fluid flows including Stokes flows, potential flows, and laminar boundary layers; and an introduction to the effects of rotation and stratification through scaling analysis of fluid flows. Prerequisites: 101B or consent of instructor; and some knowledge of vector calculus and differential equations.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE262A LEC
 DTSTART;TZID=America/Los_Angeles:20170925T093000
-CREATED:20170927T175952
+CREATED:20180107T132511
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

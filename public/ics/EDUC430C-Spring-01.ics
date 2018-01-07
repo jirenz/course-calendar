@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20170927T175938
-UID:explore_courses78bb5767-af16-4269-a57d-ff6732f41364
-DTSTAMP:20170927T175938
+LAST-MODIFIED:20180107T132453
+UID:explore_courses235a43b5-3c0d-462c-9fa5-6d6e45f10032
+DTSTAMP:20180107T132453
 LOCATION:Ceras 108
 DESCRIPTION:Course will provide hands-on practice in analysis of data from experimental and quasi-experimental research designs, including a) instrumental variables estimators; b) regression discontinuity estimators; c) difference-in-difference estimators; d) matching estimators; e) fixed effects estimators; and f) panel data methods (including individual fixed effects models, lagged covariate adjustment models, growth models, etc.). Prerequisites: satisfactory completion of EDUC 255B, EDUC 257C or SOC 257.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC430C LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20170927T175938
+CREATED:20180107T132453
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

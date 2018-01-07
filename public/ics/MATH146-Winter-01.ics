@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20170927T175837
-UID:explore_courses69133270-e9ea-4b08-92e4-af5e5f0969d1
-DTSTAMP:20170927T175837
+LAST-MODIFIED:20180107T132316
+UID:explore_coursesefad0e20-ff03-487a-bea5-292571310236
+DTSTAMP:20180107T132316
 LOCATION:Sequoia Hall 200
 DESCRIPTION:Differentiable manifolds, tangent space, submanifolds, implicit function theorem, differential forms, vector and tensor fields. Frobenius' theorem, DeRham theory. Prerequisite: 62CM or 52 and familiarity with linear algebra and analysis arguments at the level of 113 and 115 respectively.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH146 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20170927T175837
+CREATED:20180107T132316
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

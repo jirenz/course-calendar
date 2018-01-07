@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170929T142000
-LAST-MODIFIED:20170927T175819
-UID:explore_courses6fb3d0d9-ad97-4101-ba9b-7e303a7e2081
-DTSTAMP:20170927T175819
-LOCATION:Encina West 108
+DTEND;TZID=America/Los_Angeles:20170929T162000
+LAST-MODIFIED:20180107T132239
+UID:explore_coursesad2a79d8-ec8f-4e46-ba8a-ad623c8aa31a
+DTSTAMP:20180107T132239
+LOCATION:Econ 140
 DESCRIPTION:Rigorous introduction to game theory and applications. Topics include solution concepts for static and dynamic games of complete and incomplete information, signaling games, repeated games, bargaining, and elements of cooperative game theory.  Applications mainly from economics, but also political science, biology, and computer science. Prerequisites: Experience with abstract mathematics and willingness to work hard. No background in economics required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON180 DIS
-DTSTART;TZID=America/Los_Angeles:20170929T133000
-CREATED:20170927T175819
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T142000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20170929T153000
+CREATED:20180107T132239
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

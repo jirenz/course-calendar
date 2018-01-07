@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20170927T175945
-UID:explore_courses0fdafb3a-9434-4d9e-89ec-6587e79a2e7b
-DTSTAMP:20170927T175945
+LAST-MODIFIED:20180107T132501
+UID:explore_courses96b7a91c-fea9-4d79-a88c-f341e99e1414
+DTSTAMP:20180107T132501
 LOCATION:Mitch350
 DESCRIPTION:Earthquake and volcanic deformation, emphasizing analytical models that can be compared to data from GPS, InSAR, and strain meters. Viscoelasticity, post-seismic rebound, and viscoelastic magma chambers. Effects of surface topography and earth curvature on surface deformation. Gravity changes induced by deformation and elastogravitational coupling.  Poro-elasticity, coupled fluid flow and deformation. Earthquake nucleation and rate-state friction. Models of earthquake cycle at plate boundaries.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS288B LEC
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20170927T175945
+CREATED:20180107T132501
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

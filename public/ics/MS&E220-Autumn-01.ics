@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T122000
-LAST-MODIFIED:20170927T180002
-UID:explore_coursese76b2a36-a259-4db3-aca3-3c5b73cc4c29
-DTSTAMP:20170927T180002
+LAST-MODIFIED:20180107T132526
+UID:explore_courses44055e85-2455-420f-b643-749323e67d52
+DTSTAMP:20180107T132526
 LOCATION:Skillaud
 DESCRIPTION:Concepts and tools for the analysis of problems under uncertainty, focusing on model building and communication: the structuring, processing, and presentation of probabilistic information. Examples from legal, social, medical, and physical problems. Spreadsheets illustrate and solve problems as a complement to analytical closed-form solutions. Topics: axioms of probability, probability trees, random variables, distributions, conditioning, expectation, change of variables, and limit theorems. Prerequisite: multivariable calculus and linear algebra. Recommended: knowledge of spreadsheets.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E220 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T103000
-CREATED:20170927T180002
+CREATED:20180107T132526
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses40bcfb25-2f6b-4b99-9343-02449a3b25bc
-DTSTAMP:20170927T175958
-LOCATION:Green Earth Sciences134
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20180107T132519
+UID:explore_courses97ba2f3b-3a8c-4bd9-824a-4c0aef9caa0d
+DTSTAMP:20180107T132519
+LOCATION:200-034
 DESCRIPTION:Algorithms for network optimization: max-flow, min-cost flow, matching, assignment, and min-cut problems. Introduction to linear programming. Use of LP duality for design and analysis of algorithms. Approximation algorithms for NP-complete problems such as Steiner Trees, Traveling Salesman, and scheduling problems. Randomized algorithms. Introduction to online algorithms. Prerequisite: 161 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS261 LEC
-DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20170927T175958
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180108T150000
+CREATED:20180107T132519
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

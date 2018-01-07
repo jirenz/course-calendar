@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20170927T175953
-UID:explore_coursesc8d96f36-55be-4fdd-9bc0-4516f3833961
-DTSTAMP:20170927T175953
+LAST-MODIFIED:20180107T132511
+UID:explore_courses2084bedc-320b-4edb-99ca-d51f3c9cce9c
+DTSTAMP:20180107T132511
 LOCATION:50-52H
 DESCRIPTION:Calculus of random variables and their distributions with applications. Review of limit theorems of probability and their application to statistical estimation and basic Monte Carlo methods. Introduction to Markov chains, random walks, Brownian motion and basic stochastic differential equations with emphasis on applications from economics, physics and engineering, such as  filtering and control. Prerequisites: exposure to basic probability.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME298 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20170927T175953
+CREATED:20180107T132511
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

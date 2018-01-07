@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T175000
-LAST-MODIFIED:20170927T175953
-UID:explore_coursesd00ccb3b-981c-4de9-b7e8-5dd82c5a4e53
-DTSTAMP:20170927T175953
+LAST-MODIFIED:20180107T132511
+UID:explore_courses226d3129-3805-48c3-bddb-acbb09b3684d
+DTSTAMP:20180107T132511
 LOCATION:380-380X
 DESCRIPTION:This four-week short course introduces D3, a powerful tool for creating interactive data visualizations on the web (d3js.org). The class is geared toward scientists and engineers who want to better communicate their personal projects and research through visualizations on the web. The class will cover the basics of D3: inputting data, creating scales and axes, and adding transitions and interactivity, as well as some of the most used libraries: stack, cluster and force layouts. The class will be based on short workshops and a final project. A background in programming methodology at the level of CS106A is assumed. The course will make use of Javascript, experience is recommended but not necessary.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME151A WKS
 DTSTART;TZID=America/Los_Angeles:20180402T163000
-CREATED:20170927T175953
+CREATED:20180107T132511
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T112000
-LAST-MODIFIED:20170927T175837
-UID:explore_courses7e434019-3e31-4133-b226-1ad1a702c50a
-DTSTAMP:20170927T175837
+LAST-MODIFIED:20180107T132316
+UID:explore_courses4da0a409-dd66-4319-90f7-9850076bcdac
+DTSTAMP:20180107T132316
 LOCATION:Herrin T185
 DESCRIPTION:Euclid's algorithm, fundamental theorems on divisibility; prime numbers; congruence of numbers; theorems of Fermat, Euler, Wilson; congruences of first and higher degrees; quadratic residues; introduction to the theory of binary quadratic forms; quadratic reciprocity; partitions.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH152 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20170927T175837
+CREATED:20180107T132316
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

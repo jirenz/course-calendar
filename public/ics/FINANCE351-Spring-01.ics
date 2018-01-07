@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180405T181500
-LAST-MODIFIED:20170927T175742
-UID:explore_courses2dabb79f-3011-4f5c-b98d-2fd267ff1553
-DTSTAMP:20170927T175742
-LOCATION:
-DESCRIPTION:Students will engage in the development of corporate financial modeling cases and solutions. Students will also develop materials to aid others in building financial models, and serve as case leaders during lab workshops. Extensive background in financial modeling and experience with Excel is required.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:FINANCE351 CAS
-DTSTART;TZID=America/Los_Angeles:20180405T163000
-CREATED:20170927T175742
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180605T181500;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180409T201500
-LAST-MODIFIED:20170927T175742
-UID:explore_coursesa3a30c71-d500-4ad1-b0fc-3973fbc9c236
-DTSTAMP:20170927T175742
+LAST-MODIFIED:20180107T132130
+UID:explore_courses0e34bc2f-fa04-457e-ba97-532270c64eac
+DTSTAMP:20180107T132130
 LOCATION:
 DESCRIPTION:Students will engage in the development of corporate financial modeling cases and solutions. Students will also develop materials to aid others in building financial models, and serve as case leaders during lab workshops. Extensive background in financial modeling and experience with Excel is required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FINANCE351 CAS
 DTSTART;TZID=America/Los_Angeles:20180409T183000
-CREATED:20170927T175742
+CREATED:20180107T132130
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180605T201500;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180405T181500
+LAST-MODIFIED:20180107T132130
+UID:explore_courses50136c8a-a68d-4b8f-8f7d-75abf493c7f8
+DTSTAMP:20180107T132130
+LOCATION:
+DESCRIPTION:Students will engage in the development of corporate financial modeling cases and solutions. Students will also develop materials to aid others in building financial models, and serve as case leaders during lab workshops. Extensive background in financial modeling and experience with Excel is required.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FINANCE351 CAS
+DTSTART;TZID=America/Los_Angeles:20180405T163000
+CREATED:20180107T132130
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180605T181500;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20170927T175947
-UID:explore_courses27cb1eb0-627e-4662-a596-22bb860d50b7
-DTSTAMP:20170927T175947
+LAST-MODIFIED:20180107T132504
+UID:explore_coursesb8ae4938-da37-4932-88ac-f467f23fc63f
+DTSTAMP:20180107T132504
 LOCATION:STLC118
 DESCRIPTION:Restricted 3-body problem. Relative motion, Hill's and Clohessy-Wiltshire equations. Lambert's problem. Satellite constellations and optimization. Communications and link budgets. Space debris. High fidelity simulation. Interplanetary mission planning, launch windows and gravity assists. Basic trajectory optimization. Several guest lectures from practitioners in the field. Individual final project chosen in consultation with instructor. Prerequisites: 279A or equivalent with permission of instructor. Fluency with MATLAB (or another mathematical programming language with 2D and 3D plotting capabilities).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA279B LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20170927T175947
+CREATED:20180107T132504
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180112T112000
-LAST-MODIFIED:20170927T175829
-UID:explore_courses7a3ce5d1-4ebe-4176-9995-cc8c04897921
-DTSTAMP:20170927T175829
+DTEND;TZID=America/Los_Angeles:20180112T122000
+LAST-MODIFIED:20180107T132259
+UID:explore_courses2ce6ea66-2dbf-41bd-a859-9a1d7a9b044c
+DTSTAMP:20180107T132259
 LOCATION:90-92Q
 DESCRIPTION:This seminar focuses on the interrelationships between social constructions of race, and social interpretations of religion in America. How have assumptions about race shaped religious worldviews? How have religious beliefs shaped racial attitudes? How have ideas about religion and race contributed to notions of what it means to be &quot;American&quot;? We will look at primary and secondary sources, and at the historical development of ideas and practices over time.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY356G SEM
 DTSTART;TZID=America/Los_Angeles:20180112T093000
-CREATED:20170927T175829
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180112T122000
-LAST-MODIFIED:20170927T175829
-UID:explore_courses05bb2e3c-a5df-4fd6-9147-e7cd2c9bfac2
-DTSTAMP:20170927T175829
-LOCATION:90-92Q
-DESCRIPTION:This seminar focuses on the interrelationships between social constructions of race, and social interpretations of religion in America. How have assumptions about race shaped religious worldviews? How have religious beliefs shaped racial attitudes? How have ideas about religion and race contributed to notions of what it means to be &quot;American&quot;? We will look at primary and secondary sources, and at the historical development of ideas and practices over time.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:HISTORY356G SEM
-DTSTART;TZID=America/Los_Angeles:20180112T113000
-CREATED:20170927T175829
+CREATED:20180107T132259
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

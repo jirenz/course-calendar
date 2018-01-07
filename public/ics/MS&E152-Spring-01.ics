@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T102000
-LAST-MODIFIED:20170927T180002
-UID:explore_coursesb0ab946c-eeb8-4e57-85b3-a9307b1f3b7e
-DTSTAMP:20170927T180002
-LOCATION:
+LAST-MODIFIED:20180107T132526
+UID:explore_coursese9f44f87-42c9-4a8e-ba46-2dc881f5a2d5
+DTSTAMP:20180107T132526
+LOCATION:NVIDIA Auditorium
 DESCRIPTION:How to make good decisions in a complex, dynamic, and uncertain world. People often make decisions that on close examination they regard as wrong. Decision analysis uses a structured conversation based on actional thought to obtain clarity of action in a wide variety of domains. Topics: distinctions, possibilities and probabilities, relevance, value of information and experimentation, relevance and decision diagrams, risk attitude.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E152 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T090000
-CREATED:20170927T180002
+CREATED:20180107T132526
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20170927T180003
-UID:explore_courses822c9351-49f5-4af8-82e3-a8480da593da
-DTSTAMP:20170927T180003
+LAST-MODIFIED:20180107T132528
+UID:explore_courses6a1bf2f9-27c0-4fa1-a6b9-03fb964d82c2
+DTSTAMP:20180107T132528
 LOCATION:School of Education 128
 DESCRIPTION:Materials design and engineering for regenerative medicine. How materials interact with cells through their micro- and nanostructure, mechanical properties, degradation characteristics, surface chemistry, and biochemistry. Examples include novel materials for drug and gene delivery, materials for stem cell proliferation and differentiation, and tissue engineering scaffolds. Prerequisites: undergraduate chemistry, and cell/molecular biology or biochemistry.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI381 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20170927T180003
+CREATED:20180107T132528
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

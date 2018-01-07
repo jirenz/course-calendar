@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T145000
-LAST-MODIFIED:20170927T175843
-UID:explore_courses25ea8c67-70aa-4f2e-8094-1751a31dfa94
-DTSTAMP:20170927T175843
+DTEND;TZID=America/Los_Angeles:20180108T175000
+LAST-MODIFIED:20180107T132332
+UID:explore_courses6f4f883d-fc9a-4993-903e-c179618a2605
+DTSTAMP:20180107T132332
 LOCATION:80-113
-DESCRIPTION:His philosophical system emphasizing his metaphysics.
+DESCRIPTION:A polymath, Leibniz invented the calculus independently of Newton and made major contributions to virtually every science, including logic and computer science.  In this course, we investigate Leibniz's philosophical system and its metaphysics: that God created the best of all possible worlds; that humans freely choose actions that are nevertheless pre-established; that space and time are idealizations and `imaginary'; and that true, fundamental reality consists of minds.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL220 LEC
-DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20170927T175843
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T163000
+CREATED:20180107T132332
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

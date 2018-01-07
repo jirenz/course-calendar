@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T162000
-LAST-MODIFIED:20170927T175952
-UID:explore_coursesa1632b42-4e72-4bbe-8ba7-bc2bc55c8ffe
-DTSTAMP:20170927T175952
+LAST-MODIFIED:20180107T132511
+UID:explore_courses84b8043c-0f46-443e-a69c-5a0550ee8c77
+DTSTAMP:20180107T132511
 LOCATION:Y2E2 101
 DESCRIPTION:An introduction to the Atmospheric Boundary Layer (ABL), including measurements and simulations of ABL flows. Wind and flow, turbulent transport, buoyancy and virtual potential temperature, the diurnal cycle. Derivation of the governing equations, simplifications and assumptions. Turbulence kinetic energy and its budget, ABL stability, the Richardson number and teh Obukhov length. Analysis of boundary layer turbulence. Overview of field and wind tunnel measurement techniques, and of computational models from meso- to micro-scale. a Discussion of micro-scale applications, including pedestrian wind comfort, pollutant dispersion and wind loading, and an introduction to uncertainty quantification for ABL flows. Prerequisites: Knowledge of fluid mechanics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE261A LEC
 DTSTART;TZID=America/Los_Angeles:20170926T150000
-CREATED:20170927T175952
+CREATED:20180107T132511
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

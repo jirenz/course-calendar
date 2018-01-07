@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170929T165000
-LAST-MODIFIED:20170927T175853
-UID:explore_courses3445489c-0443-46ec-8b0a-77a4840ae457
-DTSTAMP:20170927T175853
+LAST-MODIFIED:20180107T132356
+UID:explore_courses1af8c329-4a79-42e1-b295-9b7cc7df3e73
+DTSTAMP:20180107T132356
 LOCATION:Sequoia Hall 200
 DESCRIPTION:Mathematical tools: sigma algebras, measure theory, connections between coin tossing and Lebesgue measure, basic convergence theorems. Probability: independence, Borel-Cantelli lemmas, almost sure and Lp convergence, weak and strong laws of large numbers. Large deviations. Weak convergence; central limit theorems; Poisson convergence; Stein's method. Prerequisites: 116, MATH 171.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS310A DIS
 DTSTART;TZID=America/Los_Angeles:20170929T153000
-CREATED:20170927T175853
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T165000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

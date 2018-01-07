@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T172000
-LAST-MODIFIED:20170927T175940
-UID:explore_coursesfbb3b1f5-aa54-41d3-89fb-e5fff6a16e2f
-DTSTAMP:20170927T175940
+LAST-MODIFIED:20180107T132455
+UID:explore_courses30b2dc55-3a34-4a99-8134-71c2ea76f688
+DTSTAMP:20180107T132455
 LOCATION:Mitchb67
 DESCRIPTION:Survey of geographic information including maps, satellite imagery, and census data, approaches to spatial data, and tools for integrating and examining spatially-explicit data. Emphasis is on fundamental concepts of geographic information science and associated technologies. Topics include geographic data structure, cartography, remotely sensed data, statistical analysis of geographic data, spatial analysis, map design, and geographic information system software. Computer lab assignments. All students are required to attend a weekly lab session.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS144 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T153000
-CREATED:20170927T175940
+CREATED:20180107T132455
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

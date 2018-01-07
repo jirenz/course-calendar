@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20170927T175953
-UID:explore_coursesce0eff3b-0b49-44bb-b364-369e5f1b52b6
-DTSTAMP:20170927T175953
+LAST-MODIFIED:20180107T132511
+UID:explore_courses09fd245a-bbf9-46b9-8ac3-20ed0c2937be
+DTSTAMP:20180107T132511
 LOCATION:200-205
 DESCRIPTION:This class will give  hands on experience with programming multicore processors, graphics processing units (GPU), and parallel computers. Focus will be on the message passing interface (MPI, parallel clusters) and the compute unified device architecture (CUDA, GPU). Topics will include: network topologies, modeling communication times, collective communication operations, parallel efficiency, MPI, dense linear algebra using MPI. Symmetric multiprocessing (SMP), pthreads, openMP. CUDA, combining MPI and CUDA, dense linear algebra using CUDA, sort, reduce and scan using CUDA. Pre-requisites include: C programming language and numerical algorithms (solution of differential equations, linear algebra, Fourier transforms).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME213 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T150000
-CREATED:20170927T175953
+CREATED:20180107T132511
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

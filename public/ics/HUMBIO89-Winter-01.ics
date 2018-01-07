@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T132000
-LAST-MODIFIED:20170927T175831
-UID:explore_courses110b281a-6af3-4d4d-8273-48b58f57e222
-DTSTAMP:20170927T175831
+LAST-MODIFIED:20180107T132302
+UID:explore_coursesbc8f86bc-c2c2-4845-9179-f5504375880f
+DTSTAMP:20180107T132302
 LOCATION:60-109
 DESCRIPTION:This course aims to provide a firm grounding in the foundations of probability and statistics, with a focus on analyzing data from the health sciences. Students will learn how to read, interpret, and critically evaluate the statistics in medical and biological studies. The course also prepares students to be able to analyze their own data, guiding them on how to choose the correct statistical test, avoid common statistical pitfalls, and perform basic functions in R deducer. Cardinal Course certified by the Haas Center
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO89 SEM
 DTSTART;TZID=America/Los_Angeles:20180108T113000
-CREATED:20170927T175831
+CREATED:20180107T132302
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

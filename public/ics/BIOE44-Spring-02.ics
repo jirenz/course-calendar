@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T182000
-LAST-MODIFIED:20170927T175948
-UID:explore_courses10e0b079-6ced-4a0c-b5f8-60165f6c15df
-DTSTAMP:20170927T175948
+LAST-MODIFIED:20180107T132506
+UID:explore_courses5261336a-fa6f-4e2e-97be-358efdaa9d53
+DTSTAMP:20180107T132506
 LOCATION:
 DESCRIPTION:Introduction to next-generation techniques in genetic, molecular, biochemical, and cellular engineering. Lab modules build upon current research including: gene and genome engineering via decoupled design and construction of genetic material; component engineering focusing on molecular design and quantitative analysis of experiments; device and system engineering using abstracted genetically encoded objects; and product development based on useful applications of biological technologies. Concurrent or previous enrollment in BIO 82 or BIO 83.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE44 LBS
 DTSTART;TZID=America/Los_Angeles:20180402T153000
-CREATED:20170927T175948
+CREATED:20180107T132506
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T112000
-LAST-MODIFIED:20170927T175933
-UID:explore_courses4b277fd7-4393-4e52-8a75-2c926cf9b0b5
-DTSTAMP:20170927T175933
-LOCATION:Hewlett Teaching Center 201
-DESCRIPTION:How do the discoveries since the dawn of the 20th century impact our understanding of 21st-century physics? This course introduces the foundations of modern physics: Einstein's theory of special relativity and quantum mechanics. Combining the language of physics with tools from algebra and trigonometry, students gain insights into how the universe works on both the smallest and largest scales. Topics may include atomic, molecular, and laser physics; semiconductors; elementary particles and the fundamental forces; nuclear physics (fission, fusion, and radioactivity); astrophysics and cosmology (the contents and evolution of the universe). Emphasis on applications of modern physics in everyday life, progress made in our understanding of the universe, and open questions that are the subject of active research. Physical understanding fostered by peer interaction and demonstrations in lecture, and interactive group problem solving in discussion sections. Prerequisite: PHYSICS 23 or PHYSICS 23S.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:PHYSICS25 LEC
-DTSTART;TZID=America/Los_Angeles:20180402T103000
-CREATED:20170927T175933
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T102000
-LAST-MODIFIED:20170927T175933
-UID:explore_coursesf32a7baf-a1b3-47f4-b2d6-ad8165bac161
-DTSTAMP:20170927T175933
+LAST-MODIFIED:20180107T132334
+UID:explore_courses6b2120ef-cdc9-4ba1-a8fd-92c021e6af69
+DTSTAMP:20180107T132334
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:How do the discoveries since the dawn of the 20th century impact our understanding of 21st-century physics? This course introduces the foundations of modern physics: Einstein's theory of special relativity and quantum mechanics. Combining the language of physics with tools from algebra and trigonometry, students gain insights into how the universe works on both the smallest and largest scales. Topics may include atomic, molecular, and laser physics; semiconductors; elementary particles and the fundamental forces; nuclear physics (fission, fusion, and radioactivity); astrophysics and cosmology (the contents and evolution of the universe). Emphasis on applications of modern physics in everyday life, progress made in our understanding of the universe, and open questions that are the subject of active research. Physical understanding fostered by peer interaction and demonstrations in lecture, and interactive group problem solving in discussion sections. Prerequisite: PHYSICS 23 or PHYSICS 23S.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS25 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T093000
-CREATED:20170927T175933
+CREATED:20180107T132334
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T112000
+LAST-MODIFIED:20180107T132334
+UID:explore_coursesa6361e1b-41cd-46d1-bf75-714f1387c06a
+DTSTAMP:20180107T132334
+LOCATION:Hewlett Teaching Center 201
+DESCRIPTION:How do the discoveries since the dawn of the 20th century impact our understanding of 21st-century physics? This course introduces the foundations of modern physics: Einstein's theory of special relativity and quantum mechanics. Combining the language of physics with tools from algebra and trigonometry, students gain insights into how the universe works on both the smallest and largest scales. Topics may include atomic, molecular, and laser physics; semiconductors; elementary particles and the fundamental forces; nuclear physics (fission, fusion, and radioactivity); astrophysics and cosmology (the contents and evolution of the universe). Emphasis on applications of modern physics in everyday life, progress made in our understanding of the universe, and open questions that are the subject of active research. Physical understanding fostered by peer interaction and demonstrations in lecture, and interactive group problem solving in discussion sections. Prerequisite: PHYSICS 23 or PHYSICS 23S.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHYSICS25 LEC
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20180107T132334
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

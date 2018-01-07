@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T102000
-LAST-MODIFIED:20170927T175837
-UID:explore_coursesafbe2a8d-3013-46d0-9b65-690d177599bd
-DTSTAMP:20170927T175837
+LAST-MODIFIED:20180107T132316
+UID:explore_courses4dace7fd-dd3c-4bbb-a1ce-0a4a68a9a756
+DTSTAMP:20180107T132316
 LOCATION:380-380F
 DESCRIPTION:Similar to 205A, but for undergraduate Math majors and graduate students in other disciplines. Topics include Lebesgue measure on Euclidean space, Lebesgue integration, L^p spaces, the Fourier transform, the Hardy-Littlewood maximal function and Lebesgue differentiation. Prerequisite: 171 or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH172 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T090000
-CREATED:20170927T175837
+CREATED:20180107T132316
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

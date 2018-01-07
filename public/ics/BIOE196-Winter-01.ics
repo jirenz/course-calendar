@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T132000
-LAST-MODIFIED:20170927T175948
-UID:explore_courses9e5d5c26-52a6-4a8b-a32e-ed6ea0785a2b
-DTSTAMP:20170927T175948
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180109T175000
+LAST-MODIFIED:20180107T132506
+UID:explore_coursesa387e783-e4ef-4397-9055-6784dea098ad
+DTSTAMP:20180107T132506
+LOCATION:200-002
 DESCRIPTION:Interactive media and games increasingly pervade and shape our society. In addition to their dominant roles in entertainment, video games play growing roles in education, arts, and science. This seminar series brings together a diverse set of experts to provide interdisciplinary perspectives on these media regarding their history, technologies, scholarly research, industry, artistic value, and potential future.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE196 SEM
-DTSTART;TZID=America/Los_Angeles:20180109T120000
-CREATED:20170927T175948
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180109T163000
+CREATED:20180107T132506
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

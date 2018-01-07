@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20170927T180002
-UID:explore_courses1920e7f5-be8c-4166-be1c-4d51f89cd04f
-DTSTAMP:20170927T180002
+LAST-MODIFIED:20180107T132526
+UID:explore_coursesa6a2f4cb-8b3f-45c7-9fb2-ed0bde360ca1
+DTSTAMP:20180107T132526
 LOCATION:380-380Y
 DESCRIPTION:The basic limit theorems of probability theory and their application to maximum likelihood estimation. Basic Monte Carlo methods and importance sampling.  Markov chains and processes, random walks, basic ergodic theory and its application to parameter estimation. Discrete time stochastic control and Bayesian filtering. Diffusion approximations, Brownian motion and an introduction to stochastic differential equations. Examples and problems from various applied areas. Prerequisites: exposure to probability and background in analysis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E324 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20170927T180002
+CREATED:20180107T132526
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

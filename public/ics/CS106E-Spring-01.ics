@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T142000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses8b18131e-c215-401b-a279-f58caf7c2865
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_courses26fad2b9-f55c-43bc-95c5-3b1561e574f1
+DTSTAMP:20180107T132519
 LOCATION:Herrin T185
 DESCRIPTION:A follow up class to CS106A for non-majors which will both provide practical web programming skills and cover essential computing topics including computer security and privacy. Additional topics will include digital representation of images and music, an exploration of how the Internet works, and a look at the internals of the computer. Students taking the course for 4 units will be required to carry out supplementary programming assignments in addition to the course's regular assignments. Prerequisite: 106A or equivalent
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106E LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

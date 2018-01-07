@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T125000
-LAST-MODIFIED:20170927T180001
-UID:explore_courses8594f4f1-c928-419c-8d82-68fe27d135ce
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132523
+UID:explore_coursesa6e7a393-8745-468e-9ae0-cc0958563c92
+DTSTAMP:20180107T132523
 LOCATION:320-105
 DESCRIPTION:In modern VLSI technologies, device electrical characteristics are sensitive to structural details and therefore to fabrication techniques. How are advanced VLSI devices designed and what future changes are likely? What are the implications for device electrical performance caused by fabrication techniques? Physical models for nanometer scale structures, control of electrical characteristics (threshold voltage, short channel effects, ballistic transport) in small structures, and alternative device structures for VLSI. Prerequisites: 216 or equivalent. Recommended: EE 212.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE316 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T113000
-CREATED:20170927T180001
+CREATED:20180107T132523
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T125000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

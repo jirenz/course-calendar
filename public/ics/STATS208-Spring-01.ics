@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T102000
-LAST-MODIFIED:20170927T175853
-UID:explore_coursesc59e61b3-fc0a-4bb0-9fd3-3512242e843a
-DTSTAMP:20170927T175853
+LAST-MODIFIED:20180107T132356
+UID:explore_coursesc3932fd3-b69e-4d28-9997-d0f610b031d5
+DTSTAMP:20180107T132356
 LOCATION:50-52H
 DESCRIPTION:The bootstrap is a computer-based method for assigning measures of accuracy to statistical estimates. By substituting computation in place of mathematical formulas, it permits the statistical analysis of complicated estimators. Topics: nonparametric assessment of standard errors, biases, and confidence intervals; related resampling methods including the jackknife, cross-validation, and permutation tests. Theory and applications. Prerequisite: course in statistics or probability.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS208 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T090000
-CREATED:20170927T175853
+CREATED:20180107T132356
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

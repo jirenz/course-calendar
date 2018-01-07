@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180111T132000
-LAST-MODIFIED:20170927T175851
-UID:explore_courses2bcddd88-cd5d-4c93-8a16-080b9a23f929
-DTSTAMP:20170927T175851
-LOCATION:200-013
+DTEND;TZID=America/Los_Angeles:20180112T132000
+LAST-MODIFIED:20180107T132351
+UID:explore_courses47e6ebdf-bfe3-43fe-bd3f-34c2a1bf33e3
+DTSTAMP:20180107T132351
+LOCATION:160-125
 DESCRIPTION:Sociological analyses of the rise and impact of the expanded modern world order, with its internationalized organizations and globalized discourse. Consequences for national and local society: education, political organization, economic structure, the environment, and science. The centrality of the individual and the rationalized organization as legitimated actors.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC378 SEM
-DTSTART;TZID=America/Los_Angeles:20180111T103000
-CREATED:20170927T175851
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180112T103000
+CREATED:20180107T132351
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

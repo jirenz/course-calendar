@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T122000
-LAST-MODIFIED:20170927T175941
-UID:explore_courses016b8fe3-fbd6-4462-8be1-2cbf46bc1f48
-DTSTAMP:20170927T175941
+LAST-MODIFIED:20180107T132456
+UID:explore_courses7b361b81-1c0b-4249-8276-9380a1423060
+DTSTAMP:20180107T132456
 LOCATION:Mitchb67
 DESCRIPTION:This course explores the transition to a sustainable energy system at large scales (national and global), and over long time periods (decades).  Explores the drivers of global energy demand and the fundamentals of technologies that can meet this demand sustainably.  Focuses on constraints affecting large-scale deployment of technologies, as well as inertial factors affecting this transition.  Problems will involve modeling global energy demand, deployment rates for sustainable technologies, technological learning and economics of technical change.  Recommended: ENERGY 101, 102.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY104 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T113000
-CREATED:20170927T175941
+CREATED:20180107T132456
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

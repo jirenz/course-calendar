@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180110T152017
-LAST-MODIFIED:20170927T175829
-UID:explore_coursese791fbd1-6416-4ed7-bbc0-813b38b81a2c
-DTSTAMP:20170927T175829
-LOCATION:Encina West 101
+DTEND;TZID=America/Los_Angeles:20180110T152000
+LAST-MODIFIED:20180107T132259
+UID:explore_courses2fd14e2c-8eac-4222-9831-7f1170c15242
+DTSTAMP:20180107T132259
+LOCATION:160-321
 DESCRIPTION:The purpose of the course is two fold: 1) to expose students to salient historical themes and topics in Mexican American history, and 2) to establish a mentoring project with students currently enrolled in Mexican American history courses at Luis Valdez Leadership Academy (LVLA) high school in San Jose. Students will gain a broad understanding of Mexican American history, especially since the early twentieth century, with a particular focus on the Chicano Movement of the 1960s and 1970s. Students must also commit to enrollment in Hist 272F in spring quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY272D COL
 DTSTART;TZID=America/Los_Angeles:20180110T123000
-CREATED:20170927T175829
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180228T152017;BYDAY=WE
+CREATED:20180107T132259
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

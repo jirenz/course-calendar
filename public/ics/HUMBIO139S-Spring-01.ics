@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180404T212000
-LAST-MODIFIED:20170927T175831
-UID:explore_courses46bb16ea-4952-4077-9b51-4b0a9f23bbdb
-DTSTAMP:20170927T175831
-LOCATION:200-219
+DTEND;TZID=America/Los_Angeles:20180403T195000
+LAST-MODIFIED:20180107T132302
+UID:explore_coursesad497f10-7b99-4b72-a76b-9e51a534300f
+DTSTAMP:20180107T132302
+LOCATION:STLC118
 DESCRIPTION:Formerly HUMBIO 139E. This is an upper division course taught by the course director and guest lecturers with a common theme of injury and illness prevention in sport and physical activity.  The topics include the human body's adaptation to exercise, wellness and the prevention of chronic disease, the balance point between health and harm in sports, clinical and sports biomechanics, injury prevention theories, ethical issues in return-to-play decisions, and the treatment and evaluation of common sports injuries and illnesses.  Students will also develop critical reading and thinking skills as well as oral presentation skills.  Classes will incorporate didactic lectures, critical analysis of sports and exercise medicine literature, as well as hand-on labs incorporating current sports medicine injury evaluation tools. Prerequisite: Human Biology Core or equivalent or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO139S LEC
-DTSTART;TZID=America/Los_Angeles:20180404T183000
-CREATED:20170927T175831
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T212000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180403T183000
+CREATED:20180107T132302
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T195000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

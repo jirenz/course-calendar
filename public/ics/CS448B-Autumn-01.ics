@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T175000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses6f72ff85-b867-4220-9a0e-ddebb395d561
-DTSTAMP:20170927T175958
+LAST-MODIFIED:20180107T132519
+UID:explore_courses79813a7e-3774-469e-b28d-d425f425368a
+DTSTAMP:20180107T132519
 LOCATION:Lathrop 282
 DESCRIPTION:Techniques and algorithms for creating effective visualizations based on principles from graphic design, visual art, perceptual psychology, and cognitive science.  Topics: graphical perception, data and image models, visual encoding, graph and tree layout, color, animation, interaction techniques, automated design.  Lectures, reading, and project.  Prerequisite: one of 147, 148, or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS448B LEC
 DTSTART;TZID=America/Los_Angeles:20170925T163000
-CREATED:20170927T175958
+CREATED:20180107T132519
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

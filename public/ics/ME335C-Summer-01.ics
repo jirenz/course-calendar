@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180626T115000
-LAST-MODIFIED:20170927T180006
-UID:explore_courses0a327309-a018-41f3-b98e-dbbbd3156ae1
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132531
+UID:explore_coursesca963104-de32-4348-a3db-9d385764259f
+DTSTAMP:20180107T132531
 LOCATION:Green Earth Sciences131
 DESCRIPTION:Newton's method for nonlinear problems; convergence, limit points and bifurcation; consistent linearization of nonlinear variational forms by directional derivative; tangent operator and residual vector; variational formulation and finite element discretization of nonlinear boundary value problems (e.g. nonlinear heat equation, nonlinear elasticity); enhancements of Newton's method: line-search techniques, quasi-Newton and arc-length methods.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME335C LEC
 DTSTART;TZID=America/Los_Angeles:20180626T103000
-CREATED:20170927T180006
+CREATED:20180107T132531
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

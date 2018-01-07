@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T175000
-LAST-MODIFIED:20170927T180006
-UID:explore_courses1b51d1b0-4a8b-4c5c-bc56-28f716184cc9
-DTSTAMP:20170927T180006
-LOCATION:Green Earth Sciences150
+LAST-MODIFIED:20180107T132531
+UID:explore_courses3b6afe55-72dc-4ad3-9ac5-7fe8e0ceef23
+DTSTAMP:20180107T132531
+LOCATION:
 DESCRIPTION:Your team has RE-framed a solid human-centric need/problem.  You have your X.  Now explore the solution space.  Search for the dark-horse (the impossible solution that actually works).  ME310B and ME310C are a single course with one grade in June.  Your interdisciplinary team-of-teams is challenged by your industry partners to achieve break-through-innovation.  In late March, Stanford students typically visit their international partners to converge on one solution path to be made REAL by June.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME310B LAB
 DTSTART;TZID=America/Los_Angeles:20180109T163000
-CREATED:20170927T180006
+CREATED:20180107T132531
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

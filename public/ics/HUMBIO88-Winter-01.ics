@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T122000
-LAST-MODIFIED:20170927T175831
-UID:explore_courses6ee2d607-b75f-41f2-950e-4d838c4e9f64
-DTSTAMP:20170927T175831
+LAST-MODIFIED:20180107T132302
+UID:explore_coursesff06098e-a0b9-4970-abe1-bc65375a724d
+DTSTAMP:20180107T132302
 LOCATION:STLC105
 DESCRIPTION:Students will learn the statistical tools used to describe and analyze data in the fields of medicine and epidemiology.  This very applied course will rely on current research questions and publicly available data.  Students will gain proficiency with Stata to do basic analyses of health-related data, including linear and logistic regression, and will become sophisticated consumers of health-related statistical results.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HUMBIO88 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20170927T175831
+CREATED:20180107T132302
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

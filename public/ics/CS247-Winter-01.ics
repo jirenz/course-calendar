@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T152000
-LAST-MODIFIED:20170927T175958
-UID:explore_courses1a0b49ff-513e-4c5b-9390-b6630fe0669a
-DTSTAMP:20170927T175958
+DTEND;TZID=America/Los_Angeles:20180108T142000
+LAST-MODIFIED:20180107T132519
+UID:explore_courses277d7570-ba83-4812-832c-14274ca11aeb
+DTSTAMP:20180107T132519
 LOCATION:Lathrop 282
 DESCRIPTION:Project-based focus on interaction design process, especially early-stage design and rapid prototyping. Methods used in interaction design including needs analysis, user observation, sketching, concept generation, scenario building, and evaluation. Prerequisites: 147 or equivalent background in design thinking; 106B or equivalent background in programming. Recommended: CS 142 or equivalent background in web programming.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS247 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20170927T175958
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=MO,WE
+CREATED:20180107T132519
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T142000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

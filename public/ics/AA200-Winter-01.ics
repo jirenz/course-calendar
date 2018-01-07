@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20170927T175947
-UID:explore_coursesdd890643-75f9-433d-9469-d5297234597e
-DTSTAMP:20170927T175947
-LOCATION:Shriram Ctr BioChemE 104
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20180107T132504
+UID:explore_coursesffc44faf-e678-4f97-aa7a-16e555a919a1
+DTSTAMP:20180107T132504
+LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Analytical and numerical techniques for the aerodynamic analysis of aircraft, focusing on airfoil theory, finite wing theory, far-field and Trefftz-plane analysis, two-dimensional laminar and turbulent boundary layers in airfoil analysis, laminar-to-turbulent transition, compressibility effects, and similarity rules.  Biweekly assignments require MATLAB or a suitable programming language.  Prerequisite: undergraduate courses in basic fluid mechanics and applied aerodynamics, AA 210A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA200 LEC
-DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20170927T175947
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20180107T132504
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

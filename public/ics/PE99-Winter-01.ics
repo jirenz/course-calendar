@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20170927T175934
-UID:explore_courses4b5ee818-f833-4484-8cd0-aa61e0c1d0ad
-DTSTAMP:20170927T175934
+LAST-MODIFIED:20180107T132447
+UID:explore_courses9ae1a96c-ae52-4ab2-923b-03b5f08c5025
+DTSTAMP:20180107T132447
 LOCATION:ACSR Studio
 DESCRIPTION:Exploration of a topic (to be determined) not covered by the standard curriculum but of interest to faculty and students in a particular quarter. May be repeated with change of content. For more information regarding specific course titles, please refer to the notes of each course section.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PE99 ACT
 DTSTART;TZID=America/Los_Angeles:20180109T093000
-CREATED:20170927T175934
+CREATED:20180107T132447
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20170927T180006
-UID:explore_coursesab4b17e0-b9b4-4778-b974-4b516a1e5104
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132531
+UID:explore_coursesaeed7ae8-faa2-4607-ae56-396956d1942d
+DTSTAMP:20180107T132531
 LOCATION:530-127
 DESCRIPTION:Study of the design and control of haptic systems, which provide touch feedback to human users interacting with virtual environments and teleoperated robots. Focus is on device modeling (kinematics and dynamics), synthesis and analysis of control systems, design and implementation, and human interaction with haptic systems. Coursework includes homework/laboratory assignments and a research-oriented project. Directed toward graduate students and advanced undergraduates in engineering and computer science. Prerequisites: dynamic systems and MATLAB programming. Suggested experience with programming, feedback control design, and hardware prototyping.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME327 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20170927T180006
+CREATED:20180107T132531
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

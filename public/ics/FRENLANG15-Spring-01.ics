@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T102000
-LAST-MODIFIED:20170927T175824
-UID:explore_courses32d1a88a-e4a2-40ea-a670-53fa2d041867
-DTSTAMP:20170927T175824
-LOCATION:Lathrop 299
-DESCRIPTION:For students who have completed FRENLANG 3 or FRENLANG 2A (end of first-year). Emphasis is on current events and news in the French and Francophone world. May be repeated once for credit.
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20180107T132247
+UID:explore_courses24ac78b0-c2d8-4593-aa56-64403ea128b2
+DTSTAMP:20180107T132247
+LOCATION:
+DESCRIPTION:Intermediate conversation.For students who have completed FRENLANG 1A or 2. Emphasis is on speaking skills, pronunciation, vocabulary in the context of current events and news in the French and Francophone world. May be repeated once for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FRENLANG15 LNG
-DTSTART;TZID=America/Los_Angeles:20180402T093000
-CREATED:20170927T175824
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20180107T132247
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

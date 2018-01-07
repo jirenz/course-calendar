@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20170927T175949
-UID:explore_courses88f25ac7-2e1c-49aa-8ea6-ceaf72aa09dd
-DTSTAMP:20170927T175949
-LOCATION:
+LAST-MODIFIED:20180107T132507
+UID:explore_courses0c5af44c-5433-433e-a214-da1ae05b75b9
+DTSTAMP:20180107T132507
+LOCATION:NVIDIA Auditorium
 DESCRIPTION:An introduction and overview to the challenges and opportunities of energy supply and consumption. Emphasis on energy technologies where chemistry and engineering play key roles. Review of energy fundamentals along with historical energy perspectives and current energy production technologies. In depth analysises of solar thermal systems, biofuels, photovoltaics and electrochemical devices (batteries and fuel cells). Prerequisites: high school chemistry or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG25E LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20170927T175949
+CREATED:20180107T132507
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

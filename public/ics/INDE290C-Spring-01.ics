@@ -22,45 +22,45 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T192000
-LAST-MODIFIED:20170927T175909
-UID:explore_courses36349a61-0b05-4ef0-b450-b4b6d67ccb69
-DTSTAMP:20170927T175909
-LOCATION:Alway Building, Room M112
-DESCRIPTION:Continuation of monthly workshop series begun in INDE 290A and INDE 290B, with new monthly topics. Students will continue to follow the journey of their patient partner, and gain further understand the challenges of managing optimal health in a complex health care system. n nThis course is a partnership of the Stanford Healthcare Innovations and Experiential Learning Directive (SHIELD), the Stanford Health Care Patient &amp; Family Partner Program, and the Stanford Medicine Office for Medical Student Wellness.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:INDE290C WKS
-DTSTART;TZID=America/Los_Angeles:20180402T173000
-CREATED:20170927T175909
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180402T192000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180604T192000
-LAST-MODIFIED:20170927T175909
-UID:explore_courses5ea9862a-f9b7-4d83-a3e3-7d7c8684eae5
-DTSTAMP:20170927T175909
+LAST-MODIFIED:20180107T132420
+UID:explore_courses43df260e-32da-4ce9-81fa-fef18799b26a
+DTSTAMP:20180107T132420
 LOCATION:Alway Building, Room M112
 DESCRIPTION:Continuation of monthly workshop series begun in INDE 290A and INDE 290B, with new monthly topics. Students will continue to follow the journey of their patient partner, and gain further understand the challenges of managing optimal health in a complex health care system. n nThis course is a partnership of the Stanford Healthcare Innovations and Experiential Learning Directive (SHIELD), the Stanford Health Care Patient &amp; Family Partner Program, and the Stanford Medicine Office for Medical Student Wellness.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE290C WKS
 DTSTART;TZID=America/Los_Angeles:20180604T173000
-CREATED:20170927T175909
+CREATED:20180107T132420
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180604T192000;BYDAY=MO
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T192000
+LAST-MODIFIED:20180107T132420
+UID:explore_coursesfadd5b5e-18fe-4221-80a5-d0c24844b450
+DTSTAMP:20180107T132420
+LOCATION:Alway Building, Room M112
+DESCRIPTION:Continuation of monthly workshop series begun in INDE 290A and INDE 290B, with new monthly topics. Students will continue to follow the journey of their patient partner, and gain further understand the challenges of managing optimal health in a complex health care system. n nThis course is a partnership of the Stanford Healthcare Innovations and Experiential Learning Directive (SHIELD), the Stanford Health Care Patient &amp; Family Partner Program, and the Stanford Medicine Office for Medical Student Wellness.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:INDE290C WKS
+DTSTART;TZID=America/Los_Angeles:20180402T173000
+CREATED:20180107T132420
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180402T192000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180507T192000
-LAST-MODIFIED:20170927T175909
-UID:explore_courses90f00316-b56d-4c09-8753-8def186c8ab6
-DTSTAMP:20170927T175909
+LAST-MODIFIED:20180107T132420
+UID:explore_courses0475919b-4e1f-4833-8886-ab6ec7fbdda7
+DTSTAMP:20180107T132420
 LOCATION:Alway Building, Room M112
 DESCRIPTION:Continuation of monthly workshop series begun in INDE 290A and INDE 290B, with new monthly topics. Students will continue to follow the journey of their patient partner, and gain further understand the challenges of managing optimal health in a complex health care system. n nThis course is a partnership of the Stanford Healthcare Innovations and Experiential Learning Directive (SHIELD), the Stanford Health Care Patient &amp; Family Partner Program, and the Stanford Medicine Office for Medical Student Wellness.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE290C WKS
 DTSTART;TZID=America/Los_Angeles:20180507T173000
-CREATED:20170927T175909
+CREATED:20180107T132420
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180507T192000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

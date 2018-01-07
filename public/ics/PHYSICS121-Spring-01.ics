@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20170927T175844
-UID:explore_courses11573d7f-b48d-426d-a8be-299b56b1db73
-DTSTAMP:20170927T175844
+LAST-MODIFIED:20180107T132335
+UID:explore_courses37981a36-34e8-486d-b849-7545afbae757
+DTSTAMP:20180107T132335
 LOCATION:60-109
 DESCRIPTION:Conservation laws and electromagnetic waves, Poynting's theorem, tensor formulation, potentials and fields.  Plane wave problems (free space, conductors and dielectric materials, boundaries). Dipole and quadruple radiation. Special relativity and transformation between electric and magnetic fields.  Prerequisites: PHYS 120 and PHYS 111 or MATH 131P or MATH 173; Recommended: PHYS 112.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS121 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20170927T175844
+CREATED:20180107T132335
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

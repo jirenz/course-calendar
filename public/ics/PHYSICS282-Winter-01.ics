@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T145000
-LAST-MODIFIED:20170927T175844
-UID:explore_courses8b456e89-c35b-4952-a747-1075e4adfeeb
-DTSTAMP:20170927T175844
+LAST-MODIFIED:20180107T132335
+UID:explore_coursesff5cce05-1a13-459c-93e1-e58eaaae34e3
+DTSTAMP:20180107T132335
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Introduction to modern atomic physics, including laser cooling and trapping, collisions, ultracold and quantum gases, optical lattices, entanglement, and ion trap quantum gates.  Introduction to quantum optical theory of light and atom-photon interactions, including cavity QED, quantum trajectory theory, nonlinear optics, and fundamentals of laser spectroscopy including frequency combs.  Prerequisites: PHYSICS 131 or 134 and 171.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS282 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20170927T175844
+CREATED:20180107T132335
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

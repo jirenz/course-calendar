@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T132000
-LAST-MODIFIED:20170927T180002
-UID:explore_coursesd25e5e05-8e92-4b66-bd87-7526dc0786cf
-DTSTAMP:20170927T180002
+LAST-MODIFIED:20180107T132526
+UID:explore_coursesf5facb94-9bd0-42a8-9bda-1b12362c6a64
+DTSTAMP:20180107T132526
 LOCATION:Huang Engineering Center 18
 DESCRIPTION:With healthcare spending in the US exceeding 17% of GDP and growing, improvements in the quality and efficiency of healthcare services are urgently needed. This class focuses on the use of analytical tools to support efficient and effective delivery of health care. Topics include quality control and management, capacity planning, resource allocation, management of patient flows, and scheduling. Prerequisites: basic knowledge of Excel spreadsheets, probability, and optimization.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E263 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T120000
-CREATED:20170927T180002
+CREATED:20180107T132526
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

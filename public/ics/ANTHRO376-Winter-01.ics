@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180111T175000
-LAST-MODIFIED:20170927T175757
-UID:explore_courses995844e9-3b2e-4cf0-abbb-ce9e0cbf276a
-DTSTAMP:20170927T175757
+DTEND;TZID=America/Los_Angeles:20180111T162000
+LAST-MODIFIED:20180107T132155
+UID:explore_courses642110a6-4d0b-4f79-9859-b26aa8449822
+DTSTAMP:20180107T132155
 LOCATION:500-106
 DESCRIPTION:This course explores the key thinkers and practitioners who have founded the discipline of archaeology. Reaching back into the nineteenth century, the course examines in depth the key figures, their preoccupations and projects that shaped the way that archaeology grew through the 20th and into the 21st century. Global in scope, the emphasis will be on field projects and practical problems that stimulated the intellectual development of archaeology as an independent discipline closely tied to geology, history, anthropology, and the natural sciences. Prerequisite: consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO376 SEM
-DTSTART;TZID=America/Los_Angeles:20180111T150000
-CREATED:20170927T175757
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T133000
+CREATED:20180107T132155
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

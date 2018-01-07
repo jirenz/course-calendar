@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T132000
-LAST-MODIFIED:20170927T175851
-UID:explore_courses4de1c1a4-2b72-46fb-bfcc-b88f5808074d
-DTSTAMP:20170927T175851
-LOCATION:Lathrop 299
+DTEND;TZID=America/Los_Angeles:20180402T122000
+LAST-MODIFIED:20180107T132350
+UID:explore_coursesa5d90168-031a-4fd5-970a-1983d796247e
+DTSTAMP:20180107T132350
+LOCATION:
 DESCRIPTION:Our social and physical environments are widely recognized as playing a central role in shaping patterns of health and disease within and across populations. Across disciplines, a key question has been: How does the social environment &iquest;gets under the skin to influence health? In this course, we will explore how social scientists, epidemiologists, public health experts, and physicians tackle this question. Reflecting both qualitative and quantitative approaches, we will draw on literatures in social science, public health, and medicine to understand the processes through which our environments shape health outcomes. We will examine a number of key social determinants of health, wellness and illness. These determinants include socioeconomic status, gender. race/ethnicity, religious affiliation, neighborhoods, environments, social relationships, and health care. We will also discuss a host of mechanisms through which these factors are hypothesized to influence health, such as stress, lifestyle, and access to health resources. An overall theme will be how contextual factors that adversely affect health are inequitably distributed and thereby fuel health disparities. Through all of this, we will assess the promise of public policy, planning and research for generating more equitable health outcomes across society.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC152 SEM
-DTSTART;TZID=America/Los_Angeles:20180402T103000
-CREATED:20170927T175851
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180402T093000
+CREATED:20180107T132350
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T102000
-LAST-MODIFIED:20170927T180006
-UID:explore_coursesf5196cb3-573e-4a63-93cc-73ccb8088c88
-DTSTAMP:20170927T180006
+LAST-MODIFIED:20180107T132530
+UID:explore_coursesc8e2be40-6185-4cae-9346-419277545ff1
+DTSTAMP:20180107T132530
 LOCATION:260-113
 DESCRIPTION:Engineering applications involving compressible flow: aircraft and rocket propulsion, power generation; application of mass, momentum, energy and entropy balance to compressible flows; variable area isentropic flow, normal shock waves, adiabatic flow with friction, flow with heat addition. Operation of flow systems: the propulsion system. Turbomachinery: pumps, compressors, turbines. Angular momentum analysis of turbomachine performance, centrifugal and axial flow machines, effect of blade geometry, dimensionless performance of turbomachines; hydraulic turbines; steam turbines; wind turbines. Compressible flow turbomachinery: the aircraft engine. Prerequisites: 70, ENGR 30.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME131B LEC
 DTSTART;TZID=America/Los_Angeles:20180402T093000
-CREATED:20170927T180006
+CREATED:20180107T132530
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

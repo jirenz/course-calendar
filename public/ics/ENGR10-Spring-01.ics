@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T102000
-LAST-MODIFIED:20170927T180001
-UID:explore_coursescaf47991-29be-413a-a6aa-2e52ac6e3880
-DTSTAMP:20170927T180001
+LAST-MODIFIED:20180107T132525
+UID:explore_courses2b54e65c-940e-4d82-86c4-85662cbf5d78
+DTSTAMP:20180107T132525
 LOCATION:Herrin T185
 DESCRIPTION:Integrated approach to the fundamental scientific principles that are the cornerstones of engineering analysis: conservation of mass, atomic species, charge, momentum, angular momentum, energy, production of entropy expressed in the form of balance equations on carefully defined systems, and incorporating simple physical models. Emphasis is on setting up analysis problems arising in engineering. Topics: simple analytical solutions, numerical solutions of linear algebraic equations, and laboratory experiences. Provides the foundation and tools for subsequent engineering courses. Prerequisite: AP Physics and AP Calculus or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR10 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T093000
-CREATED:20170927T180001
+CREATED:20180107T132525
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

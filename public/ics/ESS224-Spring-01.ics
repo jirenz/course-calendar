@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20170927T175943
-UID:explore_courses81c9d851-11ca-4713-aec1-36b1d32c74c5
-DTSTAMP:20170927T175943
+LAST-MODIFIED:20180107T132459
+UID:explore_courses2c1c5717-547d-4c03-a3dd-913f931e9503
+DTSTAMP:20180107T132459
 LOCATION:Herrin T185
 DESCRIPTION:This class discusses the methods available for remote sensing of the components of the terrestrial hydrologic cycle and how to use them. Topics include the hydrologic cycle, relevant sensor types and the electromagnetic spectrum, active/passive microwave remote sensing (snow, soil moisture, canopy water content, rainfall), thermal sensing of evapotranspiration, gravity and hyperspectral methods, as well as an introduction to data assimilation and calibration/validation approaches for hydrologic variables. Pre-requisite: programming experience.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS224 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20170927T175943
+CREATED:20180107T132459
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR
