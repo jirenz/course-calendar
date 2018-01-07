@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20180107T132213
+UID:explore_courses0b473055-c046-470c-bb53-0a8f5017d290
+DTSTAMP:20180107T132213
+LOCATION:50-51P
+DESCRIPTION:Students will create individual studio portfolios of ceramic work and pursue technical investigations of clay properties and the firing process using modern scientific equipment. Emphasis on development of creative process; parallels between science and traditional craft; integration of creative expression with scientific method and analysis. Prior ceramics experience desirable but not necessary. Limited enrollment. Prerequisites: any level of background in physics, Instructor permission.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSINST100 LEC
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20180107T132213
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T205000
+LAST-MODIFIED:20180107T132213
+UID:explore_coursese4e3237b-f4c2-4743-82c6-21b9b7bddc19
+DTSTAMP:20180107T132213
+LOCATION:50-52E
+DESCRIPTION:Students will create individual studio portfolios of ceramic work and pursue technical investigations of clay properties and the firing process using modern scientific equipment. Emphasis on development of creative process; parallels between science and traditional craft; integration of creative expression with scientific method and analysis. Prior ceramics experience desirable but not necessary. Limited enrollment. Prerequisites: any level of background in physics, Instructor permission.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSINST100 LEC
+DTSTART;TZID=America/Los_Angeles:20180110T180000
+CREATED:20180107T132213
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T205000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

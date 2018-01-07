@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T145000
+LAST-MODIFIED:20180107T132130
+UID:explore_courses5ccb0c6a-5175-4e90-ae48-51e894bed9fc
+DTSTAMP:20180107T132130
+LOCATION:GSB Class of 1968 108
+DESCRIPTION:Whether you are launching a start-up, leading an organization, or inspiring social action the need to communicate effectively is crucial to your success. This seminar, grounded in the work of Nancy Duarte's book Illuminate, will look at how leaders can effectively use speeches, ceremonies, stories, and symbols to lead change.n nYou will be able to apply course concepts to a change initiative within which they are already engaged and receive feedback from professor and peers to improve. Plans include field visits to Duarte's offices and other venues where change efforts are underway. You will also benefit from seeing the evolution of MBA students' presentations in the highly successful LOWkeynotes program.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GSBGEN114Q ISS
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20180107T132130
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180219T181500
+LAST-MODIFIED:20180107T132131
+UID:explore_courses506b1f13-ea8f-4454-80e3-cc8da13b2e87
+DTSTAMP:20180107T132131
+LOCATION:GSB Class of 1968 105
+DESCRIPTION:The average CEO, C-suite manager, or funder, will say that a firm's success hinges on hiring and motivating the right people. Therefore, this class aims to examine the people management strategies you might choose from as you build a young firm, or as you grow a larger firm. There are three facets to this course. The first is to acknowledge that the People Management Strategy that you choose must be selected with the overall external strategy of the firm in mind. Technology-based firms will have different strategies than brick-n-mortar retail firms. The second facet is to discuss the evolution of people management strategies as the firm grows over time: a very small firm will have few formal processes; a large firm typically can't live without them and may need to change them over time. The third facet covered is an analysis of the detailed issues you should consider as you set up your HR practices surrounding hiring, compensation, and promotion. Classes will have guest speakers, and cases will draw from LinkedIn, Box, Royal Bank of Canada, Tesla, the Gap, and various startups.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HRMGT284 CAS
+DTSTART;TZID=America/Los_Angeles:20180219T163000
+CREATED:20180107T132131
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T181500;BYDAY=MO,FR
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T172000
+LAST-MODIFIED:20180107T132239
+UID:explore_coursesbcf185de-5595-46e1-9f12-462d259d58ee
+DTSTAMP:20180107T132239
+LOCATION:Lathrop 282
+DESCRIPTION:Focuses on how managers use accounting information for decision making.  Students will study product and service costing, activity based costing, performance management and evaluation, CVP analysis, forecasting, factors to be considered in pricing decision, capital investment analysis, and quality management and measurement.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON191 LEC
+DTSTART;TZID=America/Los_Angeles:20180108T153000
+CREATED:20180107T132239
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T122000
+LAST-MODIFIED:20180107T132239
+UID:explore_courses626f5abe-d5af-4bc9-8de0-7cf01bbec218
+DTSTAMP:20180107T132239
+LOCATION:Lathrop 282
+DESCRIPTION:Focuses on how managers use accounting information for decision making.  Students will study product and service costing, activity based costing, performance management and evaluation, CVP analysis, forecasting, factors to be considered in pricing decision, capital investment analysis, and quality management and measurement.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON191 LEC
+DTSTART;TZID=America/Los_Angeles:20180112T103000
+CREATED:20180107T132239
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

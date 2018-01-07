@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170927T172000
+LAST-MODIFIED:20180107T132218
+UID:explore_coursesfcdd0592-7ea7-48fb-b498-79d635e367e4
+DTSTAMP:20180107T132218
+LOCATION:Gilbert Biological Science 117
+DESCRIPTION:Capstone course series for seniors. Creative, self-reflective and scientifically relevant projects conceived, produced and exhibited over the course of three quarters. Explore scientific content of personal interest through creative forms including but not limited to writing, music, fine arts, performing arts, photography, film or new media. A written essay on the creative process and scientific significance of the selected topic will accompany the creative work. Completed projects may be included in a creative portfolio. Required enrollment in 196A,B,C. Satisfies WIM in Biology.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIO196A DIS
+DTSTART;TZID=America/Los_Angeles:20170927T153000
+CREATED:20180107T132218
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T152000
+LAST-MODIFIED:20180107T132337
+UID:explore_coursesfa085aa8-8e44-45d5-8c70-f99830e8244d
+DTSTAMP:20180107T132337
+LOCATION:Encina West 101
+DESCRIPTION:American political institutions (the Presidency, Congress, and the Court) and political processes (the formation of political attitudes and voting) have for some time now been criticized as inadequate to the task of making modern public policy. Against the backdrop of American culture and political history we examine how public policy has been and is being made. We use theories from Political Science and Economics to assess the state of the American system and the policy making process. We use case studies and lectures to analyze contemporary issues including environmental policy, taxes and spending , gun control , economic growth and inequality and mobility. In some of these issue areas we use comparative data from other countries to see how the U.S. is doing relative to other countries. In addition to class room lecture and discussion, student groups are formed to analyze policy issues of relevance to them. Undergraduate Public Policy students are required to enroll in this class for five units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:POLISCI102 DIS
+DTSTART;TZID=America/Los_Angeles:20180110T143000
+CREATED:20180107T132337
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

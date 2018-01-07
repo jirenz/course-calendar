@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T175000
+LAST-MODIFIED:20180107T132127
+UID:explore_coursesd4ac009c-4b77-4b1a-a070-a86c1e150527
+DTSTAMP:20180107T132127
+LOCATION:GSB Bass 301
+DESCRIPTION:This course develops tools from information economics to study the strategic interactions between agents inside a firm and between firm insiders and market participants. Common to these studies is that agents acquire private information that is valuable to other parties. The range of applications includes: the structure of managerial performance measures, buyer-supplier contracting arrangements, earnings management, voluntary and mandatory disclosure and financial analysts.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ACCT611 SEM
+DTSTART;TZID=America/Los_Angeles:20180110T150000
+CREATED:20180107T132127
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

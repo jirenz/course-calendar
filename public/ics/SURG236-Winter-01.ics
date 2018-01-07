@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T185000
+LAST-MODIFIED:20180107T132444
+UID:explore_courses31cbf006-58c0-410e-84b3-f94ab1db3371
+DTSTAMP:20180107T132444
+LOCATION:Li Ka Shing Center, rms304/305
+DESCRIPTION:Providing safe, mutually beneficial, and sustainable surgical services in low-resource settings presents a unique set of considerations. This seminar, formatted as five two-hour sessions, will explore the background rationale for the evolving field of Global Surgery and discuss the unique implications surrounding implementation of global surgical programs. Course format will blend didactic presentation, discussion-based journal clubs, and case-based study. Topics covered will include the burden of surgical disease, human and infrastructure capacity building, outcomes, ethics/equity, economics, innovation/technology, volunteerism, training, safety, and research agenda. Instructors will provide mentorship to participants, helping them to formulate  feasible research or potential MedScholar project.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SURG236 SEM
+DTSTART;TZID=America/Los_Angeles:20180109T173000
+CREATED:20180107T132444
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T185000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

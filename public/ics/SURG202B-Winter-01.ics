@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T122000
+LAST-MODIFIED:20180107T132444
+UID:explore_coursesf26f84f0-b842-4372-9950-8c016956f8bc
+DTSTAMP:20180107T132444
+LOCATION:Li Ka Shing Center, room 308
+DESCRIPTION:Second quarter of a two-quarter course provides hands-on experience summarizing qualitative data and describing findings for dissemination. Final course product will be a draft manuscript for submission with students listed as co-authors. Core topics include: identifying themes and representative quotes, community-engaged dissemination, abstract submission, posters, oral presentations, manuscript writing, and journal selection. Prerequisite: Successful completion of PEDS 202A.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SURG202B PRA
+DTSTART;TZID=America/Los_Angeles:20180110T093000
+CREATED:20180107T132444
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

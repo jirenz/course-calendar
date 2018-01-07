@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T112000
+LAST-MODIFIED:20180107T132455
+UID:explore_coursesc33a9571-8029-4597-9027-beb5a770574b
+DTSTAMP:20180107T132455
+LOCATION:Jasper Ridge Hillside Lab
+DESCRIPTION:This course makes space to use art as an entry point for closer observation, deeper curiosity, and better understanding of natural systems. With a series of guest experts in art, science, and the practice of natural history, we will investigate the Jasper Ridge Biological Preserve through a number of lenses, microscopic to macroscopic. In each session, we will venture into the preserve to explore how field journaling, quick capture watercolor, and expressive language can mediate insight and sense of connection. Come build a community of practice with us! Apply at https://tinyurl.com/earthsys24 and direct further questions to Freya Chay (freyac@stanford.edu) and Hannah Black (hmcblack@stanford.edu).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EARTHSYS24 SEM
+DTSTART;TZID=America/Los_Angeles:20180112T083000
+CREATED:20180107T132455
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

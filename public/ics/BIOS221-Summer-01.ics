@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180626T152000
+LAST-MODIFIED:20180107T132404
+UID:explore_courses8115d732-99b1-4781-b565-d7683d140b33
+DTSTAMP:20180107T132404
+LOCATION:
+DESCRIPTION:Application based course in nonparametric statistics. Modern toolbox of visualization and statistical methods for the analysis of data, examples drawn from immunology, microbiology, cancer research and ecology. Methods covered include multivariate methods (PCA and extensions), sparse representations (trees, networks, contingency tables) as well as nonparametric testing (Bootstrap, permutation and Monte Carlo methods). Hands on, use R and cover many Bioconductor packages.  Prerequisite: Minimal familiarity with computers. Instructor consent. Cross-listed as STATS 366.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS221 LEC
+DTSTART;TZID=America/Los_Angeles:20180626T133000
+CREATED:20180107T132404
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T152000;BYDAY=TU,WE,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180625T122000
+LAST-MODIFIED:20180107T132404
+UID:explore_coursesc797d104-cec1-495d-aaf7-426a56bc1d5a
+DTSTAMP:20180107T132404
+LOCATION:Li Ka Shing Center, room 120
+DESCRIPTION:Application based course in nonparametric statistics. Modern toolbox of visualization and statistical methods for the analysis of data, examples drawn from immunology, microbiology, cancer research and ecology. Methods covered include multivariate methods (PCA and extensions), sparse representations (trees, networks, contingency tables) as well as nonparametric testing (Bootstrap, permutation and Monte Carlo methods). Hands on, use R and cover many Bioconductor packages.  Prerequisite: Minimal familiarity with computers. Instructor consent. Cross-listed as STATS 366.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS221 LEC
+DTSTART;TZID=America/Los_Angeles:20180625T103000
+CREATED:20180107T132404
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T122000;BYDAY=MO,TU,WE,TH,FR
+END:VEVENT
+END:VCALENDAR

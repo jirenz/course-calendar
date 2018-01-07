@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20180107T132231
+UID:explore_courses945834c8-0c41-4234-ba18-1c7d36b2d87e
+DTSTAMP:20180107T132231
+LOCATION:McMurtry Building rm 350
+DESCRIPTION:(Same as ARTHIST 176) The impact of second wave feminism on art making and art historical practice in the 70s, and its reiteration and transformation in contemporary feminist work. Topics: sexism and art history, feminist studio programs in the 70s, essentialism and self-representation, themes of domesticity, the body in feminist art making, bad girls, the exclusion of women of color and lesbians from the art historical mainstream, notions of performativity.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CSRE167 LEC
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20180107T132231
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

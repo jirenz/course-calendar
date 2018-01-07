@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180326T175000
+LAST-MODIFIED:20180107T132440
+UID:explore_courses566af5fa-dcd3-40d2-b4e5-079109cb1abc
+DTSTAMP:20180107T132440
+LOCATION:Li Ka Shing Center, room 209
+DESCRIPTION:Through tailored lecture, case study, and a practical final project, academic and professional leaders will help you gain insight into the science policy industry and the skills necessary to succeed within the various positions and levels available within it. This course aims to demystify the U.S. science policy process and teach both how policy affects scientific funding and administration, and how science is used to create and influence the creation of law and policy in the U.S. This course will be taught i two parts. The first part, to be completed prior to the first class outlines the basic structure of the US government, and fundamental issues in US political system, and refresh students who haven't encountered basic civics since high school, this introductory material will cover the structure of the US government, the governance of key agencies, broad concepts of federalism and shared federal and power, the political party system, and a brief and general modern history of the role of science in policy making. The short class online class will acquaint students with the structure of law, regulations and other appropriate policy documents. This online class will be available asynchronously two weeks prior to the live course. A faculty member will moderate this course and give feedback to students on short assignments designed to ensure they understand basic concepts and are prepared for the live class. nThe second part, taught over five days in 3-hour in-class sessions, will review four key concepts: 1) who's who and how they work. The structure and function of the executive branch and its control over science-based agencies, and the legislative oversight and budgeting of these agencies. 2) The policy making process. The policy making process, and the role of science in creating policy. This section will include broad overviews of the legislative process, competing political theory, and risk/assessment/risk management models, as well as discussion of the role of scientists as agency employees and officials, and scientists as experts, interested parties and reviewers. 3) Government funding science. the funding of science by government, including the mechanisms, processes and dominant theories of science funding, as well as the practical and political tensions around science funding, and the reporting and accountability standards to which recipients are subject. 4) Issues, theories and trends in science and policy. The ecology of innovation and policy in the US. Sometimes referred to as the emerging &quot;science of science policy&quot;. This final section will review a variety of cross-cutting issues in science policy development, including innovation theory, the role of uncertainty, and a discussion of the government's role as a developer and repository of science data, and other current topics in the relationship between science and government.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOMGEN211 SEM
+DTSTART;TZID=America/Los_Angeles:20180326T150000
+CREATED:20180107T132440
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180330T175000;BYDAY=MO,TU,WE,TH,FR
+END:VEVENT
+END:VCALENDAR

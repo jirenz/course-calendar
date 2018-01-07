@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T122000
+LAST-MODIFIED:20180107T132444
+UID:explore_coursesb4f5b45e-eec7-4015-be97-839c862d7365
+DTSTAMP:20180107T132444
+LOCATION:Li Ka Shing Center, room 308
+DESCRIPTION:In-depth introduction to qualitative research methods and study design. Gain theoretical and practical knowledge necessary to design and implement a qualitative study. Explore qualitative methods through class lectures, foundational readings and hands-on learning.  Core topics include: theoretical frameworks, research questions, methodological approaches (i.e. interviews, focus groups, participant observation, photovoice), data collection, sampling, reliability and validity, and IRB protocols. Students enrolled for 2-units participate in journal club-style discussions of literature employing qualitative methods to gain an appreciation for how qualitative projects are conducted, and what settings and research questions are relevant to qualitative inquiry. Students enrolled for 3-units plan and design an independent research project (i.e. Med Scholars, dissertation, honors thesis), receiving extensive support and feedback to further develop individual study designs and data collection instruments. Prerequisite: Consent from instructor for undergraduates.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SURG202C SEM
+DTSTART;TZID=America/Los_Angeles:20180404T093000
+CREATED:20180107T132444
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

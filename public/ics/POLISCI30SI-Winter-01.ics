@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T125000
+LAST-MODIFIED:20180107T132337
+UID:explore_courses153a78f6-3115-40f6-af37-6fcbb77a2dac
+DTSTAMP:20180107T132337
+LOCATION:Econ 139
+DESCRIPTION:This class will instruct students in the political economy of software and digital infrastructure as they relate to civil society in democracies. We will consider the role of privacy, anonymity, free expression and free association in democracies and examine the digital tools and practices that enable these freedoms. The class consists of three interwoven themes:n1)	The role of civil society in democracies n2)	The political economy of digital tools and their influence on societyn3)	Individual and collective digital security
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:POLISCI30SI ACT
+DTSTART;TZID=America/Los_Angeles:20180110T113000
+CREATED:20180107T132337
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T125000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

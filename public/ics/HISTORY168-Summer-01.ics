@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180628T220000
+LAST-MODIFIED:20180107T132259
+UID:explore_courses891eb509-1528-4dca-b0a3-e3ca857c6d7d
+DTSTAMP:20180107T132259
+LOCATION:200-305
+DESCRIPTION:U.S. society, culture, and politics since WW II through feature films. Topics include: McCarthyism and the Cold War; ethnicity and racial identify; changing sex and gender relationships; the civil rights and anti-war movements; and mass media. Films include: The Best Years of Our Lives, Salt of the Earth, On the Waterfront, Raisin in the Sun, Kramer v Kramer, and Falling Down.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY168 LEC
+DTSTART;TZID=America/Los_Angeles:20180628T190000
+CREATED:20180107T132259
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T220000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180626T210000
+LAST-MODIFIED:20180107T132259
+UID:explore_courses176df871-45d9-4058-981c-d4f230190861
+DTSTAMP:20180107T132259
+LOCATION:200-305
+DESCRIPTION:U.S. society, culture, and politics since WW II through feature films. Topics include: McCarthyism and the Cold War; ethnicity and racial identify; changing sex and gender relationships; the civil rights and anti-war movements; and mass media. Films include: The Best Years of Our Lives, Salt of the Earth, On the Waterfront, Raisin in the Sun, Kramer v Kramer, and Falling Down.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY168 LEC
+DTSTART;TZID=America/Los_Angeles:20180626T190000
+CREATED:20180107T132259
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T210000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

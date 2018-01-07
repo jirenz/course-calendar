@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180529T115000
+LAST-MODIFIED:20180107T132404
+UID:explore_courses23a91225-3cb3-443f-a6da-8c9417d2379f
+DTSTAMP:20180107T132404
+LOCATION:Health Research & PolicyT138B
+DESCRIPTION:Mini-course. Focus on development of basic skills for quantitative reasoning in biology, including order-of-magnitude estimation and use of the broad spectrum of time scales to enable understanding. Primary examples include going from molecular size and energy scales to functions of single cells and going from mutational and selective processes acting on organisms to evolution of populations on laboratory global scales.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS265 LEC
+DTSTART;TZID=America/Los_Angeles:20180529T090000
+CREATED:20180107T132404
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180615T115000;BYDAY=TU,FR
+END:VEVENT
+END:VCALENDAR

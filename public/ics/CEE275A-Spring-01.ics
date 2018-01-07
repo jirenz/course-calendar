@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T124000
+LAST-MODIFIED:20180107T132511
+UID:explore_courses5f4ae54d-338f-4a97-b27e-769ec8d35f54
+DTSTAMP:20180107T132511
+LOCATION:
+DESCRIPTION:This interdisciplinary course integrates the legal, scientific, and policy dimensions of how we characterize and manage resource use and allocation along the California coast. We will use this geographic setting as the vehicle for exploring more generally how agencies, legislatures, and courts resolve resource-use conflicts and the role that scientific information and uncertainty play in the process. Our focus will be on the land-sea interface as we explore contemporary coastal land-use and marine resource decision-making, including coastal pollution, public health, ecosystem management; public access; private development; local community and state infrastructure; natural systems and significant threats; resource extraction; and conservation, mitigation and restoration. Students will learn the fundamental physics, chemistry, and biology of the coastal zone, tools for exploring data collected in the coastal ocean, and the institutional framework that shapes public and private decisions affecting coastal resources. There will be 3 to 4 written assignments addressing policy and science issues during the quarter, as well as a take-home final assignment. Special Instructions: In-class work and discussion is often done in interdisciplinary teams of students from the School of Law, the School of Engineering, the School of Humanities and Sciences, and the School of Earth, Energy, and Environmental Sciences. Students are expected to participate in class discussion and field trips. Elements used in grading: Participation, including class session and field trip attendance, writing and quantitative assignments. Cross-listed with Civil &amp; Environmental Engineering (CEE 175A/275A), Earth Systems (EARTHSYS 175/275), and Law (LAW 2510). Open to graduate students and to advanced undergraduates with instructor consent.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE275A LEC
+DTSTART;TZID=America/Los_Angeles:20180402T111000
+CREATED:20180107T132511
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T124000;BYDAY=MO,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180406T095000
+LAST-MODIFIED:20180107T132511
+UID:explore_coursesc6dd9e4d-d127-461b-a677-ba6a3686963e
+DTSTAMP:20180107T132511
+LOCATION:
+DESCRIPTION:This interdisciplinary course integrates the legal, scientific, and policy dimensions of how we characterize and manage resource use and allocation along the California coast. We will use this geographic setting as the vehicle for exploring more generally how agencies, legislatures, and courts resolve resource-use conflicts and the role that scientific information and uncertainty play in the process. Our focus will be on the land-sea interface as we explore contemporary coastal land-use and marine resource decision-making, including coastal pollution, public health, ecosystem management; public access; private development; local community and state infrastructure; natural systems and significant threats; resource extraction; and conservation, mitigation and restoration. Students will learn the fundamental physics, chemistry, and biology of the coastal zone, tools for exploring data collected in the coastal ocean, and the institutional framework that shapes public and private decisions affecting coastal resources. There will be 3 to 4 written assignments addressing policy and science issues during the quarter, as well as a take-home final assignment. Special Instructions: In-class work and discussion is often done in interdisciplinary teams of students from the School of Law, the School of Engineering, the School of Humanities and Sciences, and the School of Earth, Energy, and Environmental Sciences. Students are expected to participate in class discussion and field trips. Elements used in grading: Participation, including class session and field trip attendance, writing and quantitative assignments. Cross-listed with Civil &amp; Environmental Engineering (CEE 175A/275A), Earth Systems (EARTHSYS 175/275), and Law (LAW 2510). Open to graduate students and to advanced undergraduates with instructor consent.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE275A LEC
+DTSTART;TZID=America/Los_Angeles:20180406T085000
+CREATED:20180107T132511
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T095000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

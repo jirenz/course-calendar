@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T181500
+LAST-MODIFIED:20180107T132133
+UID:explore_coursescc21da63-2043-4ae4-a47a-2aa0e1ef2169
+DTSTAMP:20180107T132133
+LOCATION:GSB McClelland 109
+DESCRIPTION:In this two-quarter course series (OIT 384/5), multidisciplinary student teams from medicine, business, and engineering work together to identify real-world unmet healthcare needs, invent new health technologies to address them, and plan for their development and implementation into patient care. During the first quarter (winter 2018), students select and characterize an important unmet healthcare problem, validate it through primary interviews and secondary research, and then brainstorm and screen initial technology-based solutions. In the second quarter (spring 2018), teams screen their ideas, select a lead solution, and move it toward the market through prototyping, technical re-risking, strategies to address healthcare-specific requirements (regulation, reimbursement), and business planning. Final presentations in winter and spring are made to a panel of prominent health technology industry experts and investors. Class sessions include faculty-led instruction and case studies, coaching sessions by industry specialists, expert guest lecturers, and interactive team meetings. Enrollment is by application only, and students are expected to participate in both quarters of the course. Visit http://biodesign.stanford.edu/programs/stanford-courses/biodesign-innovation.html to access the application, examples of past projects, and student testimonials. More information about Stanford Biodesign, which has led to the creation of more than 40 venture-backed healthcare companies and has helped hundreds of students launch health technology careers, can be found at http://biodesign.stanford.edu/.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OIT384 WKS
+DTSTART;TZID=America/Los_Angeles:20180109T163000
+CREATED:20180107T132133
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T181500;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

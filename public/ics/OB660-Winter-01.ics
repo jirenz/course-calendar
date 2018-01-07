@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T112000
+LAST-MODIFIED:20180107T132133
+UID:explore_courses8ef51a56-7f23-4de3-8206-a99dc2b3e6f8
+DTSTAMP:20180107T132133
+LOCATION:GSB Class of 1968 104
+DESCRIPTION:This course will focus on psychological processes that occur within individuals that cannot be seen but whose existence can be inferred on the basis of people's behavior. Such processes, referred to as individual processes, include personality, emotions, perception, and learning. This course aims to introduce students to both theoretical and applied background on individual processes, with a special emphasis on their assessment, importance for person-job fit, and career planning. The course will include a hands-on section aimed at practicing test/survey development and delivering it in the online environment.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OB660 SEM
+DTSTART;TZID=America/Los_Angeles:20180110T083000
+CREATED:20180107T132133
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

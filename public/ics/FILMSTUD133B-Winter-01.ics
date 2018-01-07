@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20180107T132247
+UID:explore_courses654d1f29-3cf4-4c15-a794-d6e112d02f98
+DTSTAMP:20180107T132247
+LOCATION:School of Education 313
+DESCRIPTION:An exploration of the dynamic relationship between technology and the ways we see and represent the world, with a focus on American visual culture from the 19th century through the present. We study the history of different tools from telescopes and microscopes to digital detectors that have changed and enhanced our visual capabilities; the way technological shifts, such as the introduction of electric lights or train travel, have shaped our visual imagination and aesthetic sensibilities; and how technology has inspired or responded to visual art. Special attention is paid to how different media, such as photography, cinema, and computer screens, translate the visual experience into a representation; the automation of vision; and the intersection of technology with notions of time and space.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD133B LEC
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20180107T132247
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

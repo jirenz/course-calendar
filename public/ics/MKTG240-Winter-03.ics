@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T145000
+LAST-MODIFIED:20180107T132131
+UID:explore_coursesc73cd86f-c97a-4692-a0ac-9ae28b96215f
+DTSTAMP:20180107T132131
+LOCATION:GSB Class of 1968 102
+DESCRIPTION:The objectives of this course are to introduce students to the substantive and procedural aspects of marketing management and to sharpen skills for critical analytical thinking and effective communication. Specifically, the goals are to introduce students to marketing strategy and to the elements of marketing analysis: customer analysis, competitor analysis, and company analysis; to familiarize students with the elements of the marketing mix (product strategy, pricing, advertising and promotion, and distribution), and to enhance problem solving and decision-making abilities in these operational areas of marketing; and to provide students with a forum (both written and verbal) for presenting and defending their own recommendations, and for critically examining and discussing the recommendations of others.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MKTG240 CAS
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20180107T132131
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,FR
+END:VEVENT
+END:VCALENDAR

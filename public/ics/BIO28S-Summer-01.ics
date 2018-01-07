@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180626T145000
+LAST-MODIFIED:20180107T132217
+UID:explore_coursesdfc175e9-e751-473b-8a0c-8a3ae0e7b7de
+DTSTAMP:20180107T132217
+LOCATION:Hewlett Teaching Center Rm 101
+DESCRIPTION:This course covers the fundamentals of molecular genetics, including principles of how genes work, how gene expression is regulated in both prokaryotes and eukaryotes, and how signals are passed from cells to cells that are far away. We will also explore key advances in biotechnology, including cloning, sequencing, and next-generation sequencing, and discuss case studies involving cancer, Huntington&iquest;s Disease, and more.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIO28S LEC
+DTSTART;TZID=America/Los_Angeles:20180626T133000
+CREATED:20180107T132217
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20180107T132247
+UID:explore_coursesacb11019-b124-4391-aaad-744141d49eed
+DTSTAMP:20180107T132247
+LOCATION:McMurtry Building rm 370
+DESCRIPTION:This seminar explores a set of currents in media theory (and related fields), which we will seek to navigate together as a group. We will focus on approaches, discourses, conversations, and paradigms that seek to explain the mediations, modulations, and triangulations of our experience within a changing landscape of technological, social, political, and other forces. Special attention will be given to contemporary works of theory and/or works that are enjoying a renewed contemporary reception.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD252 SEM
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20180107T132247
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

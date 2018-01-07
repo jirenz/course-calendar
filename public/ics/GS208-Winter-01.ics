@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20180107T132500
+UID:explore_coursesdd4b1f49-276a-40fc-83cc-31048afe628d
+DTSTAMP:20180107T132500
+LOCATION:Y2E2 101
+DESCRIPTION:Reading course addressing current topics in geobiology. Topics will vary from year to year, but will generally cover areas of current debate in the primary literature, such as the origin of life, the origin and consequences of oxygenic photosynthesis, environmental controls on and consequences of metabolic innovations in microbes, the early evolution of animals and plants, and the causes and consequences of major extinction events. Participants will be expected to read and present on current papers in the primary literature.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GS208 SEM
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20180107T132500
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

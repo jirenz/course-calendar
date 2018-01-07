@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20180107T132249
+UID:explore_coursesbfc8c244-171d-4451-a868-e67705d004ec
+DTSTAMP:20180107T132249
+LOCATION:Encina West 202
+DESCRIPTION:This course aims to provide an introduction to contemporary Muslim political thought.  It presents post-nineteenth century Muslim contributions to political thought.  It is designed as a survey of some major thinkers that sought to interpret Islam's basic sources and Islamic intellectual legacy from the Arab world to Iran and Southeast Asia, from Turkey to North America.  Our readings include primary texts by Tahtawi, Tunisi, Afghani, Rida, Iqbal, Qutb, Maududi, Shariati, and some current figures.  We will approach the texts as just other works of political theory rather than a study of intellectual  history.  We will analyze the recurring ideas in this body of thought such as decline, civilization, rationality, ijtihad (Islamic independent reasoning), shura (deliberative decision-making), democracy, secularism, Muslim unity, khilafah (caliphate and vicegerency), freedom, equality, and justice.  We will discuss their current significance fro the ongoing theoretical debates in Muslim political thought and comparative political theory.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GLOBAL136 SEM
+DTSTART;TZID=America/Los_Angeles:20180403T113000
+CREATED:20180107T132249
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20180107T132459
+UID:explore_courses8f648512-214e-4936-850d-d4bbeec9710d
+DTSTAMP:20180107T132459
+LOCATION:Green Earth Sciences124
+DESCRIPTION:Fundamentals and application of laboratory techniques to study the diversity and activity of microorganisms in environmental samples, including soil, sediment, and water. Emphasis is on culture-independent approaches, including epifluorescence microscopy, extraction and analysis of major biomolecules (DNA, RNA, protein, lipids), stable isotope probing, and metabolic rate measurements. Format will include lectures, laboratory exercises, and discussions. Students will learn how to collect, analyze, and understand common and cutting-edge datasets in environmental microbiology.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ESS210 LBS
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20180107T132459
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T175000
+LAST-MODIFIED:20180107T132128
+UID:explore_coursesef71c1e0-e4d6-48b1-ad6c-dab1815c101a
+DTSTAMP:20180107T132128
+LOCATION:GSB Class of 1968 108
+DESCRIPTION:Continuous-time methods can, in many cases, lead to more powerful models to understand economic phenomena. The Black-Scholes option-pricing formula is significantly more tractable than discrete- time methods of option pricing based on binomial trees. There is an established tradition in continuous-time asset pricing, and there is increasing use of these methods in other fields, such as game theory, contract theory, market microstructure and macroeconomics.nnThe goal of this class is to explore some of the old classic research as well as new economic models, and to discover areas of economics where continuous-time methods can help. The intention is to give graduate students a tool, which they can use to gain comparative advantage in their research, when they see appropriate.nnWith this goal in mind, 25% of the class will focus on mathematics, but with economically relevant examples to illustrate the mathematical results. Up to one half of the class will cover established models, and the rest will focus on new papers. If students have their own work that uses continuous time, we can take a look at that as well.nnCoursework will include biweekly problem sets and a take-home final exam. There will also be room for short student presentations (related to homework assignments, economic papers, or definitions and results related to specific math concepts).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MGTECON626 CAS
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20180107T132128
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

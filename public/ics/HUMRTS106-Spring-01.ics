@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20180107T132302
+UID:explore_coursesb813a4c3-153b-4e7b-89a0-86da35fa8e17
+DTSTAMP:20180107T132302
+LOCATION:School of Education 128
+DESCRIPTION:What are the necessary political, social, and economic conditions for the realization of human rights? Is the concept of human rights universal or should very different national or cultural ideas and instantiations of &iquest;human rights&iquest; be accorded equal respect? This course will examine the way in which different societies have dealt with such issues and the way in which tensions around these issues continue to inform debates on human rights and impede the full implementation of international human rights frameworks.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HUMRTS106 LEC
+DTSTART;TZID=America/Los_Angeles:20180403T120000
+CREATED:20180107T132302
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

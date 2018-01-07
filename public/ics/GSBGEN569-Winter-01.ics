@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T114500
+LAST-MODIFIED:20180107T132131
+UID:explore_coursesb019256c-1097-4b43-8a4a-4cf4699e3126
+DTSTAMP:20180107T132131
+LOCATION:GSB McClelland 105
+DESCRIPTION:This course will look at ongoing and upcoming innovation in cars, driving, and mobility from three perspectives: (1) technology, (2) economics &amp; business Models, and (3) policy. We'll survey changes in powering vehicles (e.g. electrification and biofuels), in vehicle connectivity and communications, and most especially changes in autonomy and self-driving vehicles. We'll look at changes in the economics of cars, vehicles, and driving &iquest;new business models, shared ownership, mobility as a service, as well as who some of the major players are in this nascent field and what they're doing/developing. And we'll explore the interactions of technology and economics with policy and broader societal changes-&iquest;direct effects like safety, legal liability, and who can drive; indirect effects on traffic, insurance, infrastructure needs, fuel taxes, and the environment; as well as longer-term and even bigger changes in daily life and where and how we live, work, and drive.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GSBGEN569 CAS
+DTSTART;TZID=America/Los_Angeles:20180109T100000
+CREATED:20180107T132131
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180206T114500;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

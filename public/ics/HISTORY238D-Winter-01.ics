@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T132000
+LAST-MODIFIED:20180107T132259
+UID:explore_coursesf691f3b9-094f-4855-8263-1d843027f404
+DTSTAMP:20180107T132259
+LOCATION:Lathrop 296
+DESCRIPTION:(Students who have taken History 38A/138A should not enroll in this course.)  This course examines Germany's tumultuous history from the Second Empire through the end of the Cold War. During this time, Germany ushered in five regimes and two world wars, seesawing between material ruin and economic prosperity on the frontline of Europe's military and ideological rifts. Beginning with Bismarck's wars of unification, the class spans World War One, the Weimar Republic, the rise of Nazism, World War Two, the Holocaust, the division of communist East and capitalist West Germany, and the fall of the Iron Curtain.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY238D COL
+DTSTART;TZID=America/Los_Angeles:20180108T103000
+CREATED:20180107T132259
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

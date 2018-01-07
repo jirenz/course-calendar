@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T145000
+LAST-MODIFIED:20180107T132519
+UID:explore_coursescc881360-c979-4e72-a560-1319f1e1fa78
+DTSTAMP:20180107T132519
+LOCATION:Econ 139
+DESCRIPTION:The fundamentals of cross-platform mobile application development using the React Native framework (RN). Primary focus on developing best practices in creating apps for both iOS and Android by using Javascript and existing web + mobile development paradigms. Students will explore the unique aspects that made RN a primary tool for mobile development within Facebook, Instagram, Airbnb, Walmart, Tesla, and UberEats. Skills developed over the course will be consolidated by the completion of a final project. Required Prerequisites &iquest; at least one of the following: CS142, CS193P, CS193A (Web/Mobile development or heavy project-based class experience). Apply here: https://goo.gl/forms/sF3TDYd5mN7V8f1W2 by January 13th (Saturday of week one)
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CS47SI ACT
+DTSTART;TZID=America/Los_Angeles:20180109T133000
+CREATED:20180107T132519
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180111T212000
+LAST-MODIFIED:20180107T132327
+UID:explore_coursesda594017-3b7c-40f7-bac4-c13782ec88ce
+DTSTAMP:20180107T132327
+LOCATION:Lathrop 298
+DESCRIPTION:The persistence of tribal spiritual beliefs and practices in light of legal challenges (sacred geography and the 1st Amendment), treatment of the dead and sacred objects (repatriation), consumerism (New Age commodification), and cultural intellectual property protection (trademark, copyright, patent law). Focus is on contemporary issues and cases, analyzed through interdisciplinary scholarship and practical strategies to protect the fundamental liberty of American Indian religious freedom.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:NATIVEAM108S SEM
+DTSTART;TZID=America/Los_Angeles:20180111T193000
+CREATED:20180107T132327
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T212000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

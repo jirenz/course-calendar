@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170925T202000
+LAST-MODIFIED:20180107T132222
+UID:explore_coursesc16a6f40-c758-453d-9236-303d47f21fc9
+DTSTAMP:20180107T132222
+LOCATION:School of Education 313
+DESCRIPTION:The principal purpose of this course is to support Habla tutors in developing lesson plans and strategies to implement during their tutoring sessions with English language learners. The course equips students with a foundational understanding of English as a second language, practical experience with developing educational materials for language learning, and a collaborative space to reflect on the tutoring experience.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHILATST1SI ACT
+DTSTART;TZID=America/Los_Angeles:20170925T193000
+CREATED:20180107T132222
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T202000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

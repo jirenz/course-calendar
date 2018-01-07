@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20180107T132440
+UID:explore_courses63e211b1-dd40-44eb-be2f-770913d6c1ee
+DTSTAMP:20180107T132440
+LOCATION:Encina Hall C464
+DESCRIPTION:(Same as FEMGEN 230). Focus is on development of personal and professional skills to interact with people across the diverse range of human sexuality, from childhood (pediatric) to older ages (geriatric), with consideration of gender identity, sexual orientation, sociocultural (predominantly U.S., not global) and religious values, and selected medical issues (e.g. hormonal therapy, disabilities, e.g. spinal cord injury, etc. with discussion of sexual taboos and unusual sexual practices that you might encounter in a general medical setting.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOMGEN230 LEC
+DTSTART;TZID=America/Los_Angeles:20180403T113000
+CREATED:20180107T132440
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

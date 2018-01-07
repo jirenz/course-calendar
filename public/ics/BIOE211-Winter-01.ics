@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T115000
+LAST-MODIFIED:20180107T132506
+UID:explore_courses94667dc8-62a8-48ca-b985-84d9e8090f28
+DTSTAMP:20180107T132506
+LOCATION:Hewlett Teaching Center Rm 101
+DESCRIPTION:Provides an interdisciplinary perspective on the design, emergent behavior, and functionality of multi-cellular biological systems such as embryos, biofilms, and artificial tissues and their conceptual relationship to amorphous computers. Students discuss relevant literature and introduced to and apply pertinent mathematical and biophysical modeling approaches to various aspect multi-cellular systems, furthermore carry out real biology experiments over the web. Specific topics include: (Morphogen) gradients; reaction-diffusion systems (Turing patterns); visco-elastic aspects and forces in tissues; morphogenesis; coordinated gene expression, genetic oscillators and synchrony; genetic networks; self-organization, noise, robustness, and evolvability; game theory; emergent behavior; criticality; symmetries; scaling; fractals; agent based modeling. The course is geared towards a broadly interested graduate and advanced undergraduates audience such as from bio / applied physics, computer science, developmental and systems biology, and bio / tissue / mechanical / electrical engineering. Prerequisites: Previous knowledge in one programming language - ideally Matlab - is recommended; undergraduate students benefit from BIOE 42, or equivalent.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOE211 LEC
+DTSTART;TZID=America/Los_Angeles:20180109T103000
+CREATED:20180107T132506
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

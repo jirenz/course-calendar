@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20180107T132526
+UID:explore_courses9176710a-38b1-494e-948d-469dca8ea611
+DTSTAMP:20180107T132526
+LOCATION:Gates B1
+DESCRIPTION:Explores the relation between technology, war, and national security policy from early history to modern day, focusing on current U.S. national security challenges and the role that technology plays in shaping our understanding and response to these challenges. Topics include the interplay between technology and modes of warfare; dominant and emerging technologies such as nuclear weapons, cyber, sensors, stealth, and biological; security challenges to the U.S.; and the U.S. response and adaptation to new technologies of military significance.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MS&E293 LEC
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20180107T132526
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR
