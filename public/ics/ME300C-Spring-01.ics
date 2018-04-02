@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T132000
-LAST-MODIFIED:20180107T132531
-UID:explore_courseseb8921f6-200d-44cf-a22b-9177f809b6e2
-DTSTAMP:20180107T132531
-LOCATION:Gates B3
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20180401T174202
+UID:explore_courses30eae601-8366-4ad0-bb03-fa49f6bf3d60
+DTSTAMP:20180401T174202
+LOCATION:380-380C
 DESCRIPTION:Numerical methods from a user's point of view. Lagrange interpolation, splines. Integration: trapezoid, Romberg, Gauss, adaptive quadrature; numerical solution of ordinary differential equations: explicit and implicit methods, multistep methods, Runge-Kutta and predictor-corrector methods, boundary value problems, eigenvalue problems; systems of differential equations, stiffness. Emphasis is on analysis of numerical methods for accuracy, stability, and convergence. Introduction to numerical solutions of partial differential equations; Von Neumann stability analysis; alternating direction implicit methods and nonlinear equations. Prerequisites: CME 200/ME 300A, CME 204/ME 300B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME300C LEC
-DTSTART;TZID=America/Los_Angeles:20180403T120000
-CREATED:20180107T132531
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20180401T174202
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20180107T132332
-UID:explore_courses84199b4a-4de0-4015-b03a-4ba0fa258d77
-DTSTAMP:20180107T132332
-LOCATION:
+LAST-MODIFIED:20180401T174055
+UID:explore_courses52c6b549-36ef-4f3d-9dd6-39df0484a5f7
+DTSTAMP:20180401T174055
+LOCATION:380-381T
 DESCRIPTION:Modal logic encompasses a rich variety of systems that have been used within philosophy to study such diverse topics as necessity and possibility, knowledge, time, action, and deontology. In recent years modal logic has also found applications outside of philosophy, in mathematics (the study of topology and formal provability) and in computational theory (including knowledge representation and software verification). This course will offer a modern approach to modal logic, covering the classical themes as well as cutting edge approaches and topics, such as hybrid logics and dynamic logics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL156A LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20180107T132332
+CREATED:20180401T174055
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

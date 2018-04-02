@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses1cce25b1-65ef-4368-82cf-202aad6bb103
-DTSTAMP:20180107T132523
-LOCATION:Hewlett Teaching Center 201
-DESCRIPTION:The fundamental operation of semiconductor devices and overview of applications. The physical principles of semiconductors, both silicon and compound materials; operating principles and device equations for junction devices (diodes, bipolar transistor, photo-detectors). Introduction to quantum effects and band theory of solids. Recommended corequisites: EE 65 and EE 101B. Non-EE majors are encouraged to take ENGR 40 before EE 116.
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20180401T174156
+UID:explore_coursesbadd1525-0241-47fd-b855-75cb88cb7fbd
+DTSTAMP:20180401T174156
+LOCATION:320-107
+DESCRIPTION:The underpinnings of modern technology are the transistor (circuits), the capacitor (memory), and the solar cell (energy). EE 116 introduces the physics of their operation, their historical origins (including Nobel prize breakthroughs), and how they can be optimized for future applications. The class covers physical principles of semiconductors, including silicon and new material discoveries, quantum effects, band theory, operating principles, and device equations. Recommended (but not required) co-requisite: EE 65 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE116 LEC
-DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132523
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20180401T174156
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T112000
-LAST-MODIFIED:20180107T132531
-UID:explore_courses627c4f43-8491-45f4-9a35-ee83fb671a7f
-DTSTAMP:20180107T132531
+LAST-MODIFIED:20180401T174202
+UID:explore_courses5a121031-8cf9-4bb0-9667-e4335d51ed91
+DTSTAMP:20180401T174202
 LOCATION:540-108
 DESCRIPTION:Introduction to the theories of elasticity, plasticity and fracture and their applications.  Elasticity: Definition of stress, strain, and elastic energy; equilibrium and compatibility conditions; and formulation of boundary value problems.  Stress function approach to solve 2D elasticity problems and Green&acirc;s function approach in 3D. Applications to contact and crack. Plasticity: Yield surface, associative flow rule, strain hardening models, crystal plasticity models.  Applications to plastic bending, torsion and pressure vessels.  Fracture: Linear elastic fracture mechanics, J-integral, Dugdale-Barrenblatt crack model.  Applications to brittle fracture and fatigue crack growth.  Computer programming in Matlab is used to aid analytic derivation and numerical solutions.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME340 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T093000
-CREATED:20180107T132531
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

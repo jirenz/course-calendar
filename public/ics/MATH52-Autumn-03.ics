@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T112000
-LAST-MODIFIED:20180107T132316
-UID:explore_coursesdd50f059-9f04-4d4e-b7fd-98934c46b23f
-DTSTAMP:20180107T132316
+LAST-MODIFIED:20180401T174048
+UID:explore_courses97c2ebc4-6226-4111-ad4f-a657a84dc861
+DTSTAMP:20180401T174048
 LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Iterated integrals, line and surface integrals, vector analysis with applications to vector potentials and conservative vector fields, physical interpretations. Divergence theorem and the theorems of Green, Gauss, and Stokes. Prerequisite: 51 or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH52 DIS
 DTSTART;TZID=America/Los_Angeles:20170926T103000
-CREATED:20180107T132316
+CREATED:20180401T174048
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

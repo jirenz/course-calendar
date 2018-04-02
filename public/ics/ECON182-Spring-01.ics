@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T152000
-LAST-MODIFIED:20180107T132239
-UID:explore_courses01a54be7-7d0c-4034-a40f-2973a822a947
-DTSTAMP:20180107T132239
+LAST-MODIFIED:20180401T174035
+UID:explore_courses3c195662-665b-43be-ad5d-19c6a74124e9
+DTSTAMP:20180401T174035
 LOCATION:Econ 206
 DESCRIPTION:Rigorous introduction to the theory of matching and resource allocation, and its application to practical market design. Theory covers two-sided matching, &quot;house allocation&quot; problems, random assignment, and their variants. Applied topics include school choice, labor market, house allocation, and organ allocation for transplantation.  Final paper required. Forms a sequence with ECON 180 and ECON 181, but can be taken independently. Prerequisites: Experience with abstract mathematics and willingness tonwork hard. No prior knowledge of economics is required, although basic knowledge in game theory is useful.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON182 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132239
+CREATED:20180401T174035
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T142000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursesaa072c0a-3551-48b4-b92e-5d4dffe70f99
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174153
+UID:explore_courses1a81f74c-b7b1-4204-bccf-c0432582ddf3
+DTSTAMP:20180401T174153
 LOCATION:200-002
 DESCRIPTION:Introduction to the engineering of computer applications in Python, emphasizing modern software engineering principles: decomposition, abstraction, and testing. Emphasis is on good programming style. This course covers most of the same material as CS106A Section 1 in Java and CS 106A Section 2 in JavaScript, but this course uses the Python programming language which is popular for general engineering and web development. Required readings will all be available for free on the web. Students are encouraged to bring a laptop to lecture to do the live exercises which are integrated with lecture. No prior programming experience required. To enroll in this class, enroll in CS 106A Section 3. May be taken for 3 units by grad students. Enrollment is limited for winter quarter 2017-18 but from spring quarter 2017-18 enrollment will be unlimited.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106AP LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

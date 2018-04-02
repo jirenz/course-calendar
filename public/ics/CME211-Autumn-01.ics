@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T162000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses786a056f-b45a-438f-b384-5b6acd84c1c0
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_courses1f9c8b71-cdb1-47f3-b88f-8edf86570276
+DTSTAMP:20180401T174147
 LOCATION:Bishop Auditorium
 DESCRIPTION:Basic usage of the Python and C/C++ programming languages are introduced and used to solve representative computational problems from various science and engineering disciplines. Software design principles including time and space complexity analysis, data structures, object-oriented design, decomposition, encapsulation, and modularity are emphasized. Usage of campus wide Linux compute resources: login, file system navigation, editing files, compiling and linking, file transfer, etc. Versioning and revision control, software build utilities, and the LaTeX typesetting software are introduced and used to help complete programming assignments. Prerequisite: introductory programming course equivalent to CS 106A or instructor consent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME211 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T150000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

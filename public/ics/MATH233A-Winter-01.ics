@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20180107T132316
-UID:explore_courses5d2a3ab4-cedb-4ae7-8e06-0efdc2f3a127
-DTSTAMP:20180107T132316
+LAST-MODIFIED:20180401T174049
+UID:explore_courses37d7cabc-d67c-4468-a5ad-37cf16e8a1ae
+DTSTAMP:20180401T174049
 LOCATION:200-015
 DESCRIPTION:Geometry of polynomials and non-constructive proofs in combinatorics: The independence polynomial, the Lovasz Local Lemma and Shearer's Lemma. Real-rooted polynomials, stable polynomials, Ramanujan graphs and the Kadison-Singer problem. Strongly Rayleigh measures and negative dependence. Applications in algorithms.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH233A LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20180107T132316
+CREATED:20180401T174049
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20180107T132528
-UID:explore_courses6726e8d1-6c35-4c5d-9bc6-cc38020f62f1
-DTSTAMP:20180107T132528
+LAST-MODIFIED:20180401T174159
+UID:explore_courses2a13810a-e9c2-4795-b2a1-abf4e2603b0a
+DTSTAMP:20180401T174159
 LOCATION:300-300
 DESCRIPTION:Literature based. Principles that make nanoscale materials unique, applications to biology, and how biological systems can create nanomaterials. Molecular sensing, drug delivery, bio-inspired synthesis, self-assembling systems, and nanomaterial based therapies. Interactions at the nanoscale. Applications and opportunities for new technology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI380 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132528
+CREATED:20180401T174159
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

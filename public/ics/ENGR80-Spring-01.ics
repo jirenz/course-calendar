@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T142000
-LAST-MODIFIED:20180107T132525
-UID:explore_coursesdfcf9608-943c-4c99-a361-c1ea1ee36f9c
-DTSTAMP:20180107T132525
+LAST-MODIFIED:20180401T174157
+UID:explore_coursesb04a7496-b4b5-4a25-9ea5-37b8f0cdd150
+DTSTAMP:20180401T174157
 LOCATION:320-105
 DESCRIPTION:Students completing BIOE.80 should have a working understanding for how to approach the systematic engineering of living systems to benefit all people and the planet.  Our main goals are (1) to help students learn ways of thinking about engineering living matter and (2) to empower students to explore the broader ramifications of engineering life. Specific concepts and skills covered include but are not limited to: capacities of natural life on Earth; scope of the existing human-directed bioeconomy; deconstructing complicated problems; reaction &amp; diffusion systems; microbial human anatomy; conceptualizing the engineering of biology; how atoms can be organized to make molecules; how to print DNA from scratch; programming genetic sensors, logic, &amp; actuators; biology beyond molecules (photons, electrons, etc.); what constraints limit what life can do?; what will be the major health challenges in 2030?; how does what we want shape bioengineering?; who should choose and realize various competing bioengineering futures?
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR80 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132525
+CREATED:20180401T174157
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

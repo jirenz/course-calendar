@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T145000
-LAST-MODIFIED:20180107T132403
-UID:explore_coursesf5a50214-68f6-4cf2-9782-68894507a179
-DTSTAMP:20180107T132403
+LAST-MODIFIED:20180401T174109
+UID:explore_courses1aff1b81-7b9a-4c6e-a6d1-451ce59a48a9
+DTSTAMP:20180401T174109
 LOCATION:MSOBX275
 DESCRIPTION:Analytic methods for determining optimal diagnostic and therapeutic decisions with applications to the care of individual patients and the design of policies applied to patient populations. Topics include: utility theory and probability modeling, empirical methods for disease prevalence estimation, probability models for periodic processes, binary decision-making techniques, Markov models of dynamic disease state problems, utility assessment techniques, parametric utility models, utility models for multidimensional outcomes, analysis of time-varying clinical outcomes, and the design of cost-constrained clinical policies. Extensive problem sets compliment the lectures. Prerequisites: introduction to calculus and basic statistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOMEDIN219 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20180107T132403
+CREATED:20180401T174109
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

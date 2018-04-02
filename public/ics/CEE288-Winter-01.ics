@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T122000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses1132bd42-6275-489a-af95-dbc948ee8cfd
-DTSTAMP:20180107T132511
-LOCATION:380-380F
+LAST-MODIFIED:20180401T174147
+UID:explore_courses5127013d-46b7-483e-9f1e-58a365d839c1
+DTSTAMP:20180401T174147
+LOCATION:Turingaud
 DESCRIPTION:Earthquake phenomena, faulting, ground motion, earthquake hazard formulation, effects of earthquakes on manmade structures, response spectra, Fourier spectra, soil effects on ground motion and structural damage, methods for structural damage evaluation, and formulation of the performance-based earthquake engineering problems. Prerequisites: 203, 283.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE288 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

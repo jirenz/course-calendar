@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180112T112000
-LAST-MODIFIED:20180107T132338
-UID:explore_courses8f9cb7cf-55e6-4164-837d-8f968e30d95d
-DTSTAMP:20180107T132338
+LAST-MODIFIED:20180401T174058
+UID:explore_coursesd1e5d221-d4e9-4c80-a4e9-9f18aa816e2f
+DTSTAMP:20180401T174058
 LOCATION:Encina West 400
 DESCRIPTION:Survey of statistical methods for causal inference in political science research.  Covers a variety of causal inference designs, including experiments, matching, regression, panel methods, difference-in-differences, synthetic control methods, instrumental variables, regression discontinuity designs, quantile regression, and bounds.  450A is a prequisite for this class.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI450B DIS
 DTSTART;TZID=America/Los_Angeles:20180112T093000
-CREATED:20180107T132338
+CREATED:20180401T174058
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

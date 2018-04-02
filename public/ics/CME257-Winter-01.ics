@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses5b4f18d8-66ad-41be-8a2a-84b3f1dd5517
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_coursesbc8955fb-524d-442d-89c1-d8ae1823badf
+DTSTAMP:20180401T174147
 LOCATION:STLC105
 DESCRIPTION:This course will rapidly introduce students to the Julia programming language, with the goal of giving students the knowledge and experience necessary to navigate the language and package ecosystem while using Julia for their own scientific computing needs. The course will begin with learning the basics of Julia, and then introduce students to git version control and package development. Additional topics include: common packages, parallelism, interfacing with shared object libraries, and aspects of Julia's implementation (e.g. core numerical linear algebra). Lectures will be interactive, with an emphasis on collaboration and learning by example. Prerequisites: Data structures at the level of CS106B, experience with one or more scientific computing languages (e.g. Python, Matlab, or R), and some familiarity with the Unix shell. No prior experience with Julia or git is required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME257 WKS
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

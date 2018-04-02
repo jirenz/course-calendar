@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20180107T132504
-UID:explore_courses063e2d65-e9e6-4aa5-89c9-d017e3e2c974
-DTSTAMP:20180107T132504
+LAST-MODIFIED:20180401T174143
+UID:explore_courses149f26b3-351f-468e-b364-df84c4ecdc20
+DTSTAMP:20180401T174143
 LOCATION:Thornt211
 DESCRIPTION:Methods of symmetry analysis and their use in the reduction and simplification of physical problems. Topics: dimensional analysis, phase-space analysis of autonomous systems of ordinary differential equations, use of Lie groups to reduce the order of nonlinear ODEs and to generate integrating factors, use of Lie groups to reduce the dimension of partial differential equations and to generate similarity variables, exact solutions of nonlinear PDEs generated from groups. Mathematica-based software developed by the instructor is used for finding invariant groups of ODEs and PDEs.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA218 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20180107T132504
+CREATED:20180401T174143
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

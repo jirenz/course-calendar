@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20180107T132208
-UID:explore_courses0b189ad5-750a-4a80-8476-1f97d9968760
-DTSTAMP:20180107T132208
+LAST-MODIFIED:20180401T174017
+UID:explore_courses123bc55e-d1a2-4f10-b9c9-f936438eddb0
+DTSTAMP:20180401T174017
 LOCATION:McCullough 126
 DESCRIPTION:Lecture/lab emphasizing analog and digital electronics for lab research. Continuation of APPPHYS 207 with emphasis on applications of digital techniques. Combinatorial and synchronous digital circuits. Design using programmable logic. Analog/digital conversion. Microprocessors and real time programming, concepts and methods of digital signal processing techniques. Current lab interface protocols. Techniques commonly used for lab measurements. Development of student lab projects during the last three weeks. Prerequisites: undergraduate device and circuit exposure.  Recommended: previous enrollment in APPPHYS 207.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS208 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132208
+CREATED:20180401T174017
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

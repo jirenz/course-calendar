@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses37e3f8ac-f91e-4e3a-9703-fb068858a2a8
-DTSTAMP:20180107T132511
-LOCATION:Hewlett Teaching Center Rm 101
+LAST-MODIFIED:20180401T174147
+UID:explore_courses83b45011-2b0d-4dc3-8802-b7acd57d710e
+DTSTAMP:20180401T174147
+LOCATION:Cubberley Auditorium
 DESCRIPTION:Introduction to applied linear algebra with emphasis on applications. Vectors, norm, and angle; linear independence and orthonormal sets; applications to document analysis. Clustering and the k-means algorithm.  Matrices, left and right inverses, QR factorization. Least-squares and model fitting, regularization and cross-validation.  Constrained and nonlinear least-squares.  Applications include time-series prediction, tomography, optimal control, and portfolio optimization. Undergraduate students should enroll for 5 units, and graduate students should enroll for 3 units. Prerequisites:MATH 51 or CME 100, and basic knowledge of computing (CS 106A is more than enough, and can be taken concurrently). EE103/CME103 and Math 104 cover complementary topics in applied linear algebra. The focus of EE103 is on a few linear algebra concepts, and many applications; the focus of Math 104 is on algorithms and concepts.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME103 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

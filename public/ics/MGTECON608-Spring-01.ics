@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20180107T132128
-UID:explore_courses7646a38e-ae15-41a7-b1f5-dd09b3601286
-DTSTAMP:20180107T132128
-LOCATION:Encina West 101
+LAST-MODIFIED:20180401T173955
+UID:explore_coursesa4e4e3a2-adb9-4d05-a3d4-d570bca6d10c
+DTSTAMP:20180401T173955
+LOCATION:GSB Class of 1968 101
 DESCRIPTION:Students and faculty review and present recent research papers on basic theories and economic applications of decision theory, game theory and mechanism design. Applications include market design and analyses of incentives and strategic behavior in markets, and selected topics such as auctions, bargaining, contracting, signaling, and computation.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MGTECON608 WKS
 DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20180107T132128
+CREATED:20180401T173955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

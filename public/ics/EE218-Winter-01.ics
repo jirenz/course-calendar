@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses6004dfb8-dff7-40ce-9fcf-091a2a077ffc
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_courses24e29a33-e761-4287-b617-9940e212ba6c
+DTSTAMP:20180401T174156
 LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:This course starts by covering the device physics and technology of current silicon power semiconductor devices including power MOSFETs, IGBTs, and Thyristors. Wide bandgap materials, especially GaN and SiC are potential replacements for Si power devices because of their fundamentally better properties. This course explores what is possible in these new materials, and what the remaining challenges are for wide bandgap materials to find widespread market acceptance in power applications. Future clean, renewable energy systems and high efficiency power control systems will critically depend on the higher performance devices possible in these new materials. Prerequisites: EE 116 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE218 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

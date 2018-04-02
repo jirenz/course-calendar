@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses8a34af6d-b4ca-47e8-808a-887285d4988d
-DTSTAMP:20180107T132519
-LOCATION:380-380C
+LAST-MODIFIED:20180401T174152
+UID:explore_courses5aaf8176-b2f2-4b96-aa08-652c80d17fe8
+DTSTAMP:20180401T174152
+LOCATION:STLC111
 DESCRIPTION:Mathematical foundations required for computer science, including propositional predicate logic, induction, sets, functions, and relations. Formal language theory, including regular expressions, grammars, finite automata, Turing machines, and NP-completeness. Mathematical rigor, proof techniques, and applications. Prerequisite: CS106B or equivalent.  CS106B may be taken concurrently with CS103.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS103 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T150000
-CREATED:20180107T132519
+CREATED:20180401T174152
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T145000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses683b8567-8a6d-4eb1-b5f1-0550b43f9e66
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_courses25a68441-76eb-49ed-b398-359de05620de
+DTSTAMP:20180401T174154
 LOCATION:Skillaud
 DESCRIPTION:(Formerly 223B) An introduction to the concepts and applications in computer vision. Topics include: cameras and projection models, low-level image processing methods such as filtering and edge detection; mid-level vision topics such as segmentation and clustering; shape reconstruction from stereo, as well as high-level vision tasks such as object recognition, scene recognition, face detection and human motion categorization. Prerequisites: linear algebra, basic probability and statistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS231A LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

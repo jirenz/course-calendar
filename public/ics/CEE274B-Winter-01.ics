@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20180107T132511
-UID:explore_coursesafcd577a-2c48-4b09-9be5-267ee611a37f
-DTSTAMP:20180107T132511
-LOCATION:McMurtry Building 102, Oshman
+LAST-MODIFIED:20180401T174147
+UID:explore_coursesc3b9d973-eee5-462c-9bd9-fd26fc75bf8b
+DTSTAMP:20180401T174147
+LOCATION:Clark Center S361
 DESCRIPTION:Introduction to microbial metabolic pathways and to the pathway logic with a special focus on microbial bioenergy systems.  The first part of the course emphasizes the metabolic and biochemical principles of pathways, whereas the second part is more specifically directed toward using this knowledge to understand existing systems and to design innovative microbial bioenergy systems for biofuel, biorefinery, and environmental applications. There also is an emphasis on the implications of rerouting of energy and reducing equivalents for the fitness and ecology of the organism. Prerequisites: CHEMENG 174 or 181 and organic chemistry, or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE274B LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

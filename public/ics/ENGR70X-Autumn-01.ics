@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T132000
-LAST-MODIFIED:20180107T132525
-UID:explore_courses204f9e18-6d81-4ca5-bc83-17a924814885
-DTSTAMP:20180107T132525
+LAST-MODIFIED:20180401T174157
+UID:explore_coursescc092b63-086f-4640-8ab2-fd2993c5e10f
+DTSTAMP:20180401T174157
 LOCATION:420-041
 DESCRIPTION:Intensive version of 106B for students with a strong programming background interested in a rigorous treatment of the topics at an accelerated pace. Additional advanced material and more challenging projects. Winter quarter assignments will be based in CS department research.  Prerequisite: excellence in 106A or equivalent, or consent of instructor.  Winter quarter enrollment limited to 30.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR70X LEC
 DTSTART;TZID=America/Los_Angeles:20170925T123000
-CREATED:20180107T132525
+CREATED:20180401T174157
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

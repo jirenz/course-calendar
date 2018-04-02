@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180406T122000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursesdead3243-c6d1-49f0-bcbc-a51b0d453808
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174152
+UID:explore_courses4d957e4a-a696-46d6-b200-888621464cfc
+DTSTAMP:20180401T174152
 LOCATION:260-001
 DESCRIPTION:Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Emphasis is on good programming style and the built-in facilities of respective languages. No prior programming experience required. Summer quarter enrollment is limited. Alternative versions of CS106A are available which cover most of the same material but in different programming languages: Java [Fall, Win, Spr, or Sum qtr enroll in CS106A Section 1] Javascript [Fall qtr enroll in CS 106A Section 2] Python [Winter or Spring qtr enroll in CS 106A Section 3]
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106A DIS
 DTSTART;TZID=America/Los_Angeles:20180406T113000
-CREATED:20180107T132519
+CREATED:20180401T174152
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

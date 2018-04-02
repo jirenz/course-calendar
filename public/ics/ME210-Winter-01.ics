@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T112000
-LAST-MODIFIED:20180107T132530
-UID:explore_coursesf702d5f6-c6a2-4369-9714-b26c87f4165f
-DTSTAMP:20180107T132530
+LAST-MODIFIED:20180401T174202
+UID:explore_coursesd74df2fa-6b0c-44db-bbb2-64ce08825566
+DTSTAMP:20180401T174202
 LOCATION:Skillaud
 DESCRIPTION:Technologies involved in mechatronics (intelligent electro-mechanical systems), and techniques to apply this technology to mecatronic system design. Topics include: electronics (A/D, D/A converters, op-amps, filters, power devices); software program design, event-driven programming; hardware and DC stepper motors, solenoids, and robust sensing. Large, open-ended team project. Prerequisites: ENGR 40, CS 106, or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME210 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T093000
-CREATED:20180107T132530
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

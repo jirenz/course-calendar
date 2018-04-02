@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T145000
-LAST-MODIFIED:20180107T132526
-UID:explore_courses80f0e814-e958-4c63-933f-89586641db44
-DTSTAMP:20180107T132526
+LAST-MODIFIED:20180401T174158
+UID:explore_courses1dd1a35d-5ef5-420a-be70-32419521e4fd
+DTSTAMP:20180401T174158
 LOCATION:Thornt102
 DESCRIPTION:The techniques of analysis of engineering systems for risk management decisions involving trade-offs (technical, human, environmental aspects). Elements of decision analysis; probabilistic risk analysis (fault trees, event trees, systems dynamics); economic analysis of failure consequences (human safety and long-term economic discounting); and case studies such as space systems, nuclear power plants, and medical systems. Public and private sectors. Prerequisites: probability, decision analysis, stochastic processes, and convex optimization.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E250A LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

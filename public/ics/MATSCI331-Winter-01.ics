@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20180107T132528
-UID:explore_courses7f1fa9bc-b24e-4e9d-9aff-b7db4164ae82
-DTSTAMP:20180107T132528
+LAST-MODIFIED:20180401T174159
+UID:explore_courses30f4019b-27b8-4aa7-945f-05e8b0366a95
+DTSTAMP:20180401T174159
 LOCATION:540-108
 DESCRIPTION:Introduction to atom-based computational methods for materials with emphasis on quantum methods. Topics include density functional theory, tight-binding and empirical approaches. Computation of optical, electronic, phonon properties. Bulk materials, interfaces, nanostructures. Molecular dynamics. Prerequisites - undergraduate quantum mechanics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI331 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20180107T132528
+CREATED:20180401T174159
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

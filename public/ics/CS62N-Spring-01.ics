@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursesa2a920a4-c35c-4f71-af51-8262d4a46a92
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174152
+UID:explore_coursesafb17c20-2562-4a85-89df-ab0fc854a856
+DTSTAMP:20180401T174152
 LOCATION:200-124
 DESCRIPTION:The class will discuss the Theory of Computing as an ambitious intellectual endeavor with impact beyond Computer Science.  What are computations? How can their study capture important aspects of the evolution of species, the structure of social networks, and the working of your smart phone? What are the laws of efficiency and complexity that govern computations? We will see surprising algorithms for very familiar problems as well as simple problems no one knows how to solve efficiently. We will encounter logic paradoxes that expose the limitations of computations and explore the different worlds we may be living in, depending on the answers to some of the central problems on computations.n nThe class is intended for students with a wide range of interests. The course will not involve programming. While our class will not rely on any deep mathematics (beyond basic high-school math) we will deal with mathematical formalization of concepts and with mathematical problem-solving. Therefore, some mathematical maturity and interest would be useful.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS62N ISF
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20180107T132519
+CREATED:20180401T174152
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20180107T132313
-UID:explore_courses4b204d57-495a-4049-8ca1-5daa573c9626
-DTSTAMP:20180107T132313
+LAST-MODIFIED:20180401T174047
+UID:explore_courses53dec3fd-b0bb-4bbf-9542-e2d19c67684b
+DTSTAMP:20180401T174047
 LOCATION:360-361A
 DESCRIPTION:Over the past ten years, linguists have become increasingly interested in testing theories with a wider range of empirical data than the traditionally accepted introspective judgments of hand-selected linguistic examples. Consequently, linguistics has seen a surge of interest in psycholinguistic methods across all subfields. This course will provide an overview of various standard psycholinguistic techniques and measures, including offline judgments (e.g., binary categorization tasks like truth-value judgments, Likert scale ratings, continuous slider ratings), response times, reading times, eye-tracking, ERPs, and corpus methods. A particular focus will be placed on a problem that runs through all measures and techniques: that of generating an appropriate linking hypothesis from theoretical predictions to an expected empirical response pattern. Students will discuss research articles and gain hands-on experience with experimental design and implementation, data management, analysis, and visualization in R.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LINGUIST245 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20180107T132313
+CREATED:20180401T174047
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

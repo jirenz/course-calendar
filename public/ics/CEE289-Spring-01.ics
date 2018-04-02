@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T152000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses03fd89dd-bc8a-4024-a3d3-ff0430d46903
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_courses4f3ba28a-a6f2-42bd-9c22-4635fd328acc
+DTSTAMP:20180401T174147
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Introduction to random processes. Correlation and power spectral density functions. Stochastic dynamic analysis of multi-degree-of-freedom structures subjected to stationary and non-stationary random excitations. Crossing rates, first-excursion probability, and distributions of peaks and extremes. Applications in earthquake, wind, and ocean engineering. Prerequisite: 203 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE289 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

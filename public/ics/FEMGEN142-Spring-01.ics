@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T172000
-LAST-MODIFIED:20180107T132245
-UID:explore_courses4d125461-91aa-4450-8022-12a5ad30450f
-DTSTAMP:20180107T132245
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20180401T174037
+UID:explore_courses6afb43bd-e554-4e25-a6a3-e979335855d2
+DTSTAMP:20180401T174037
+LOCATION:200-015
 DESCRIPTION:The aim of this course is to provide students with an understanding of the sociological conceptualization of gender. Through the sociological lens, gender is not an individual attribute or a role, but rather a system of social practices that constructs two different categories of people men and women and organizes social interaction and inequality around this difference. First we will explore what &iquest;gender&iquest; is according to sociologists and the current state of gender inequality in the labor market, at home, and at school. We will then investigate how gender structures our everyday lives through the individual, interactional, and institutional levels. Finally, we will discuss avenues for reducing gender inequality. Throughout the course, we will prioritize reading, evaluating, and questioning sociological theory and research on gender.&quot;
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FEMGEN142 LEC
-DTSTART;TZID=America/Los_Angeles:20180402T163000
-CREATED:20180107T132245
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20180401T174037
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

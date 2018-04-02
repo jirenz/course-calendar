@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T102000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses26ccad38-12fa-4022-92e0-6196a9001ae9
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_coursesda52804e-3a95-4565-9d3c-bcb2b795a8b6
+DTSTAMP:20180401T174147
 LOCATION:200-002
 DESCRIPTION:Scientific computing and numerical analysis for physical sciences and engineering. Advanced version of CME206 that, apart from CME206 material, includes nonlinear PDEs, multidimensional interpolation and integration and an extended discussion of stability for initial boundary value problems. Recommended for students who have some prior numerical analysis experience. Topics include: 1D and multi-D interpolation, numerical integration in 1D and multi-D including adaptive quadrature, numerical solutions of ordinary differential equations (ODEs) including stability, numerical solutions of 1D and multi-D linear and nonlinear partial differential equations (PDEs) including concepts of stability and accuracy. Prerequisites: linear algebra, introductory numerical analysis (CME 108 or equivalent).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME207 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T093000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

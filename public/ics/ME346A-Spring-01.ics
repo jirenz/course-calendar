@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T112000
-LAST-MODIFIED:20180107T132531
-UID:explore_coursesc97ce594-3e35-4786-9e93-9a874961aa97
-DTSTAMP:20180107T132531
+LAST-MODIFIED:20180401T174202
+UID:explore_coursesbc4a873d-27ac-481a-a161-9eada3b168e7
+DTSTAMP:20180401T174202
 LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:The main purpose of this course is to provide students with enough statistical mechanics background to the Molecular Simulations classes (ME 346B,C), including the fundamental concepts such as ensemble, entropy, and free energy, etc. The main theme of this course is how the laws at the macroscale (thermodynamics) can be obtained by analyzing the spontaneous fluctuations at the microscale (dynamics of molecules).  Topics include thermodynamics, probability theory, information entropy, statistical ensembles, phase transition and phase equilibrium. Recommended: PHYSICS 110 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME346A LEC
 DTSTART;TZID=America/Los_Angeles:20180402T093000
-CREATED:20180107T132531
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T112000
-LAST-MODIFIED:20180107T132221
-UID:explore_courses0bd87343-9151-4433-8572-e73b113e7e82
-DTSTAMP:20180107T132221
+LAST-MODIFIED:20180401T174025
+UID:explore_courses6662db80-1c0f-41ef-8469-3e98c2c048bd
+DTSTAMP:20180401T174025
 LOCATION:STLC119
 DESCRIPTION:Use of spectroscopic instrumentation to obtain familiarity with important types of spectrometers and spectroscopic method and to apply them to study molecular properties and physical chemical time-dependent processes. Spectrometers include electronic ultraviolet/visible absorption, fluorescence, Raman, Fourier transform infrared, and nuclear magnetic resonance.  Prerequisite: 173.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM176 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20180107T132221
+CREATED:20180401T174025
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

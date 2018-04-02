@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T152000
-LAST-MODIFIED:20180107T132355
-UID:explore_courses6f0862d9-03dd-4842-8404-4036ab172878
-DTSTAMP:20180107T132355
+LAST-MODIFIED:20180401T174105
+UID:explore_courses6bdc58dc-a3c0-437b-b063-c1289693f874
+DTSTAMP:20180401T174105
 LOCATION:50-51B
 DESCRIPTION:Techniques for organizing data, computing, and interpreting measures of central tendency, variability, and association. Estimation, confidence intervals, tests of hypotheses, t-tests, correlation, and regression. Possible topics: analysis of variance and chi-square tests, computer statistical packages.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS60 DIS
 DTSTART;TZID=America/Los_Angeles:20180108T143000
-CREATED:20180107T132355
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

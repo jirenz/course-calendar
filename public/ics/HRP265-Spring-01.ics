@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20180107T132414
-UID:explore_coursesa07f48f0-8440-48d8-8cef-b7ba5974e169
-DTSTAMP:20180107T132414
+LAST-MODIFIED:20180401T174113
+UID:explore_courses34834f39-047a-4764-bff3-b621fb615c03
+DTSTAMP:20180401T174113
 LOCATION:Health Research & PolicyT116
-DESCRIPTION:The course will cover the area of network meta-analysis, a technique used to compare treatments that have not been compared directly to each other, but are included in a &quot;network&quot; of randomized trials that allows inferences to be made based on indirect comparisons. In traditional meta-analysis all included studies compare the same intervention with the same comparator. Network meta-analysis extends this concept by including multiple pair-wise comparisons across a range of interventions and provides estimates of relative treatment effects between all interventions in the network. This technique is being increasingly used in evidence-based medicine, health technology assessments and policy making.  nnRecommended preparation: HEP 206, and at least 2 quarters of biostatistics and one of epidemiology, including clinical research design. Familiarity with logistic and linear regression modeling required.
+DESCRIPTION:Meta-analysis is a method to quantitatively combine information from multiple studies; this combination is also called &quot;research synthesis.&quot; Historically, it has been used to combine studies with a similar design, such as randomized controlled trials or observational studies examining similar interventions or exposures. However, evidence about a given relationship is often provided by many studies with different designs, or studies that can be &quot;fit together&quot; to create an evidence base. This can only be done with advanced meta-analytic methods. The course will cover advanced methods for research synthesis, including multivariate meta-analysis for multiple outcomes, generalized evidence synthesis of multiple study designs, and network meta-analysis for multiple interventions. These techniques are being increasingly used in evidence-based medicine, health technology assessments and policy making. Recommended preparation: HRP 206, and at least 2 quarters of biostatistics and one of epidemiology, including clinical research design. Familiarity with logistic and linear regression modeling required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP265 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T143000
-CREATED:20180107T132414
+CREATED:20180401T174113
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

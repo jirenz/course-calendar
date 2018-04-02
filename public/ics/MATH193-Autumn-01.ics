@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T205000
-LAST-MODIFIED:20180107T132316
-UID:explore_coursesbb8b3e24-887d-4e02-9fe1-745166255f47
-DTSTAMP:20180107T132316
+LAST-MODIFIED:20180401T174049
+UID:explore_courses45ef815d-979d-4df2-b75a-3df4de0cfe83
+DTSTAMP:20180401T174049
 LOCATION:
 DESCRIPTION:Topics in mathematics and problem solving strategies with an eye towards the Putnam Competition.  Topics may include parity, the pigeonhole principle, number theory, recurrence, generating functions, and probability.  Students present solutions to the class.  Open to anyone with an interest in mathematics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH193 SEM
 DTSTART;TZID=America/Los_Angeles:20170925T180000
-CREATED:20180107T132316
+CREATED:20180401T174049
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T205000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

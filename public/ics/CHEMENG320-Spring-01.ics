@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T102000
-LAST-MODIFIED:20180107T132507
-UID:explore_courses7ed2f345-8b46-4dfe-b2ea-11a5b2606f3b
-DTSTAMP:20180107T132507
-LOCATION:
+LAST-MODIFIED:20180401T174145
+UID:explore_courses9e118d76-fbca-4342-9a12-9f1256374718
+DTSTAMP:20180401T174145
+LOCATION:Gates B3
 DESCRIPTION:Theoretical and experimental tools useful in understanding and manipulating reactions mediated by small-molecules and biological catalysts. Theoretical: first classical chemical kinetics and transition state theory; then RRKM theory and Monte Carlo simulations. Experimental approaches include practical application of modern spectroscopic techniques, stopped-flow measurements, temperature-jump experiments, and single-molecule approaches to chemical and biological systems. Both theory and application are framed with regard to systems of particular interest, including industrially relevant enzymes, organometallic catalysts, heterogeneous catalysis, electron transfer reactions, and chemical kinetics within living cells.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG320 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T090000
-CREATED:20180107T132507
+CREATED:20180401T174145
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

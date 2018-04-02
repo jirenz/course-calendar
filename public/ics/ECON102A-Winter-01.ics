@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T152000
-LAST-MODIFIED:20180107T132239
-UID:explore_courses8af3f71b-ba68-4301-8456-995edbac0de0
-DTSTAMP:20180107T132239
+LAST-MODIFIED:20180401T174034
+UID:explore_courses4a2b7103-548d-4529-bd72-45971e615844
+DTSTAMP:20180401T174034
 LOCATION:370-370
 DESCRIPTION:Probabilistic modeling and statistical techniques relevant for economics. Concepts include: probability trees, conditional probability, random variables, discrete and continuous distributions, correlation, central limit theorems, point estimation, hypothesis testing and confidence intervals for both one and two populations. Prerequisite: MATH 20 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON102A LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20180107T132239
+CREATED:20180401T174034
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses5ea6b99a-9d60-4612-b642-d1c2e71b3d15
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174157
+UID:explore_coursesc26252df-2655-4dd1-aa6f-35d4ebd7336b
+DTSTAMP:20180401T174157
 LOCATION:Gilbert Biological Science 117
 DESCRIPTION:EE 392AA focuses on state-of-the-art data communication systems that use multiple dimensions (parallel antennas, wires, links), including the latest versions of 5G, Wi-Fi, G.MGfast wireline, DOCSIS 3.1, and other systems that stress fundamental transmission limits. Topics include system design, particularly physical-layer modulation/coding for analysis and optimization for specific channels. Included are all vectored designs (MIMO, massive MIMO, SIMO, MISO) and methods to design and adapt both transmitter and receiver to variable channels. This course is approved for satisfying the MSEE Depth Sequence on Communication and Networking. Prerequisites: EE 278, EE 279, EE 379 or instructor consent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE392AA LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132523
+CREATED:20180401T174157
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

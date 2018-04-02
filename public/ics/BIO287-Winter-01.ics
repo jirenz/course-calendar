@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T122000
-LAST-MODIFIED:20180107T132218
-UID:explore_coursesbefd489d-3b1d-4f44-ba9f-1fb79c1cb79b
-DTSTAMP:20180107T132218
+LAST-MODIFIED:20180401T174022
+UID:explore_courses92e54e35-7c7f-43c8-b176-77079a3249d6
+DTSTAMP:20180401T174022
 LOCATION:380-380F
 DESCRIPTION:Focused examination of specific topics in mathematical evolutionary biology and population genetics. Course themes may include: mathematical properties of statistics used in human population genetics, mathematics of evolutionary trees, population genetics and biological race, and statistical inference of human migrations.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO287 SEM
 DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20180107T132218
+CREATED:20180401T174022
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

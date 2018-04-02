@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T175000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursesfa825f1f-9c96-4c08-a7ba-94ac09698aaf
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_courses25dbfafd-c94a-474b-a6fe-a708458c5604
+DTSTAMP:20180401T174154
 LOCATION:110-101
 DESCRIPTION:High-performance network system design. Students will work in teams of two to build a fully functioning Internet router. Students will design the control plane in C on a linux host and will design the data plane in the new P4 language on the NetFPGA 4 x 10GE switch. For the midterm milestone, teams must demonstrate that their routers can interoperate with the other teams by building a small scale datacenter topology. In the final 3-4 weeks of the class, teams will participate in an open-ended design challenge. Prerequisites: At least one student in each team must have taken CS144 at Stanford and completed Lab 3 (static router), Verilog experience for one member of each team is helpful but not required. Advanced material is often taught for the first time as a topics course, perhaps by a faculty member visiting from another institution. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS344 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T163000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

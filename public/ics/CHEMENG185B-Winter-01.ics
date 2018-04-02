@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T115000
-LAST-MODIFIED:20180107T132507
-UID:explore_courses4accb184-0143-4751-8acf-039b9ac0090f
-DTSTAMP:20180107T132507
+LAST-MODIFIED:20180401T174145
+UID:explore_courses85676b30-9c7b-4ffe-a15f-a9525550d346
+DTSTAMP:20180401T174145
 LOCATION:
 DESCRIPTION:Second quarter of two-quarter sequence. Experimental aspects of chemical engineering.  Emphasizes experimental design, project execution, team organization, and communication skills. Lab section times will not be assigned, though students should expect to spend at least 5 hours per week on average in the lab working on their team research projects. Labs will typically be available M-F between 9am-6pm; to be arranged separately. Prerequisite: CHEMENG 185A. Corequisite: CHEMENG 150.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG185B LAB
 DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20180107T132507
+CREATED:20180401T174145
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

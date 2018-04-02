@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20180107T132316
-UID:explore_courses4531fa81-7d45-486a-8896-63b6318b4eba
-DTSTAMP:20180107T132316
+LAST-MODIFIED:20180401T174049
+UID:explore_coursesfff23eb3-6b45-4dbf-89c1-a45c29951940
+DTSTAMP:20180401T174049
 LOCATION:Mitchb67
-DESCRIPTION:The development of real analysis in Euclidean space: sequences and series, limits, continuous functions, derivatives, integrals. Basic point set topology. Honors math majors and students who intend to do graduate work in mathematics should take 171. Prerequisite: 51.
+DESCRIPTION:The development of real analysis in Euclidean space: sequences and series, limits, continuous functions, derivatives, integrals. Basic point set topology. Honors math majors and students who intend to do graduate work in mathematics should take 171. Prerequisite: 21.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH115 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20180107T132316
+CREATED:20180401T174049
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

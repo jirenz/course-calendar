@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T102000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses80d5e13b-bbc5-4533-a50a-162d63524bb1
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_courses12ca3df0-3dbe-4d79-93c6-936478331c36
+DTSTAMP:20180401T174147
 LOCATION:Thornt110
 DESCRIPTION:Theoretical development and computer implementation of direct stiffness method of structural analysis; virtual work principles; computation of element stiffness matrices and load vectors; direct assembly procedures; equation solution techniques. Analysis of two- and three-dimensional truss and frame structures, thermal loads, and substructuring and condensation techniques for large systems. Practical modeling techniques and programming assignments. Introduction to nonlinear analysis concepts. Prerequisites: elementary structural analysis and matrix algebra.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE280 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T083000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

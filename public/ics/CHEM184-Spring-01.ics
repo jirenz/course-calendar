@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T172000
-LAST-MODIFIED:20180107T132222
-UID:explore_courses43be64f3-9252-46f1-9492-3b4c0e441b1d
-DTSTAMP:20180107T132222
+LAST-MODIFIED:20180401T174025
+UID:explore_courses74b2e219-7a4c-41bc-a87e-e8d2c8bc76d2
+DTSTAMP:20180401T174025
 LOCATION:STLC119
 DESCRIPTION:Modern techniques in biological chemistry including protein purification, characterization of enzyme kinetics, heterologous expression of His-tagged fluorescent proteins, site-directed mutagenesis, and single-molecule fluorescence microscopy. Prerequisite: 181.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM184 LAB
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132222
+CREATED:20180401T174025
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

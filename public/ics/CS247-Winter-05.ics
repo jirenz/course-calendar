@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursesd242cc83-a778-4499-8408-592bec77a68b
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_coursese0374c45-12f7-43bb-9ea1-0acb1173060a
+DTSTAMP:20180401T174154
 LOCATION:200-219
 DESCRIPTION:Project-based focus on interaction design process, especially early-stage design and rapid prototyping. Methods used in interaction design including needs analysis, user observation, sketching, concept generation, scenario building, and evaluation. Prerequisites: 147 or equivalent background in design thinking; 106B or equivalent background in programming. Recommended: CS 142 or equivalent background in web programming.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS247 DIS
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T122000
-LAST-MODIFIED:20180107T132511
-UID:explore_coursese01bf173-e250-4dc8-a1cd-868f2c7d921d
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_coursesd7e69b82-92ad-4e12-9eea-17badf386b8e
+DTSTAMP:20180401T174147
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Daily and severe weather and global climate. Topics: structure and composition of the atmosphere, fog and cloud formation, rainfall, local winds, wind energy, global circulation, jet streams, high and low pressure systems, inversions, el Ni&ntilde;o, la Ni&ntilde;a, atmosphere/ocean interactions, fronts, cyclones, thunderstorms, lightning, tornadoes, hurricanes, pollutant transport, global climate and atmospheric optics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE263C LEC
 DTSTART;TZID=America/Los_Angeles:20170925T113000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

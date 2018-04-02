@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T102000
-LAST-MODIFIED:20180107T132511
-UID:explore_coursesdf83382f-2831-4ff0-9f65-92410b138678
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_courses8d6eb46c-442b-4624-97fc-a80fefb2c8db
+DTSTAMP:20180401T174147
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Applied linear algebra and linear dynamical systems with applications to circuits, signal processing, communications, and control systems. Topics: least-squares approximations of over-determined equations, and least-norm solutions of underdetermined equations. Symmetric matrices, matrix norm, and singular-value decomposition. Eigenvalues, left and right eigenvectors, with dynamical interpretation. Matrix exponential, stability, and asymptotic behavior. Multi-input/multi-output systems, impulse and step matrices; convolution and transfer-matrix descriptions. Control, reachability, and state transfer; observability and least-squares state estimation. Prerequisites: Linear algebra and matrices as in EE103 or MATH104; ordinary differential equations and Laplace transforms as in EE102B or CME 102.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME263 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T090000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

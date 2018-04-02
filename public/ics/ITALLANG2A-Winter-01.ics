@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T112000
-LAST-MODIFIED:20180107T132307
-UID:explore_coursesf0e7229d-b96b-4754-9a10-c36db6f53160
-DTSTAMP:20180107T132307
+LAST-MODIFIED:20180401T174045
+UID:explore_courses65a6dbc3-5f1b-4076-ab21-4ada490ac0eb
+DTSTAMP:20180401T174045
 LOCATION:260-008
 DESCRIPTION:Continuation of ITALLANG 1A. Accelerated sequence that completes first-year Italian in two rather than three quarters. For students with previous knowledge of Italian or with a strong background in another Romance language. Prerequisite: Placement Test or ITALLANG 1A.  Fulfills the University language requirement.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ITALLANG2A LNG
 DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20180107T132307
+CREATED:20180401T174045
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

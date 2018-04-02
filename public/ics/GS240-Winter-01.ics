@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T142000
-LAST-MODIFIED:20180107T132500
-UID:explore_coursesb8c0e06c-5629-4551-9db3-0262088147fd
-DTSTAMP:20180107T132500
+LAST-MODIFIED:20180401T174141
+UID:explore_courses08a6851f-a8b3-4cd3-9257-449cca752741
+DTSTAMP:20180401T174141
 LOCATION:540-108
 DESCRIPTION:Overview of some of the most important data science methods (statistics, machine learning &amp; computer vision) relevant for geological sciences, as well as other fields in the Earth Sciences. Areas covered are: extreme value statistics for predicting rare events; compositional data analysis for geochemistry; multivariate analysis for designing data &amp; computer experiments; probabilistic aggregation of evidence for spatial mapping; functional data analysis for multivariate environmental datasets, spatial regression and modeling spatial uncertainty with covariate information (geostatistics). Identification &amp; learning of geo-objects with computer vision. Focus on practicality rather than theory. Matlab exercises on realistic data problems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GS240 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20180107T132500
+CREATED:20180401T174141
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

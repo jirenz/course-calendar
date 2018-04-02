@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180405T162000
-LAST-MODIFIED:20180107T132459
-UID:explore_courses16910d3e-c6f6-487d-8e69-93309f3b243f
-DTSTAMP:20180107T132459
-LOCATION:Thornt210
-DESCRIPTION:For upper-division undergraduates and graduate students in the earth, biologic, and environmental sciences. Topical issues in marine science/oceanography. Topics vary each year following or anticipating research trends in oceanographic research. Focus is on links between the circulation and physics of the ocean with climate in the N. Pacific region, and marine ecologic responses. Participation by marine scientists from research groups and organizations including the Monterey Bay Aquarium Research Institute.
+LAST-MODIFIED:20180401T174140
+UID:explore_courses9c7c2abf-f9b4-4652-8af2-a835d65ea529
+DTSTAMP:20180401T174140
+LOCATION:Shriram Ctr BioChemE 368
+DESCRIPTION:For upper-division undergraduates and graduate students in the natural sciences and engineering. Topical issues in marine science/oceanography. Topics vary each year following or anticipating research trends in ocean research and issues. For 2018, the focus is on the Arctic Ocean, including Arctic Oceanography, Ecosystems, Resource Utilization and Geopolitics, and Environmental Change.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ESS240 LEC
 DTSTART;TZID=America/Los_Angeles:20180405T133000
-CREATED:20180107T132459
+CREATED:20180401T174140
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses1d6ec942-c019-478d-b7cb-0ba1acc69685
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_courses12da92cb-3cd9-4ac4-9312-46a67cae5f4c
+DTSTAMP:20180401T174154
 LOCATION:STLC114
 DESCRIPTION:Artificial intelligence (AI) has had a huge impact in many areas, including medical diagnosis, speech recognition, robotics, web search, advertising, and scheduling.  This course focuses on the foundational concepts that drive these applications.  In short, AI is the mathematics of making good decisions given incomplete information (hence the need for probability) and limited computation (hence the need for algorithms).  Specific topics include search, constraint satisfaction, game playing, Markov decision processes, graphical models, machine learning, and logic. Prerequisites: CS 103 or CS 103B/X, CS 106B or CS 106X, CS 107, and CS 109 (algorithms, probability, and programming experience).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS221 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

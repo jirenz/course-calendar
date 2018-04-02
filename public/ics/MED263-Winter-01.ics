@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T132000
-LAST-MODIFIED:20180107T132419
-UID:explore_courses25e7535f-72a9-4638-9166-8ac9ede2bf6b
-DTSTAMP:20180107T132419
+LAST-MODIFIED:20180401T174117
+UID:explore_courses8d24e919-4d43-4af6-ae40-deb00a6137e9
+DTSTAMP:20180401T174117
 LOCATION:Encina Hall C464
 DESCRIPTION:Advanced methods currently used in published model-based cost-effectiveness analyses in medicine and public health, both theory and technical applications. Topics include: Markov and microsimulation models, model calibration and evaluation, and probabilistic sensitivity analyses.  Prerequisites: a course in probability, a course in statistics or biostatistics, a course on cost-effectiveness such as HRP 392, a course in economics, and familiarity with decision modeling software such as TreeAge.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED263 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T120000
-CREATED:20180107T132419
+CREATED:20180401T174117
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

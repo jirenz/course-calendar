@@ -22,59 +22,59 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170829T172000
-LAST-MODIFIED:20180107T132444
-UID:explore_courses31fe6501-8f42-4421-8aec-4e932880f3ec
-DTSTAMP:20180107T132444
-LOCATION:CCSR0001
-DESCRIPTION:Introduction to human structure and function presented from a clinical perspective. Includes clinical scenarios, medical imaging techniques, and interventional procedures to illustrate the underlying anatomy.  Course consists of lectures and dissection of the human body in the anatomy laboratory.  Surgery 203 presents structures of the thorax, abdomen, pelvis, back, upper and lower limbs, and head &amp; neck. Course opened to MD, MSM, and MSPA students only.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:SURG203 LEC
-DTSTART;TZID=America/Los_Angeles:20170829T152000
-CREATED:20180107T132444
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T172000;BYDAY=TU,TH
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170829T152000
-LAST-MODIFIED:20180107T132444
-UID:explore_courses8f9c0f7a-c27d-4cab-9516-ca837d440442
-DTSTAMP:20180107T132444
-LOCATION:Li Ka Shing Center, room 130
-DESCRIPTION:Introduction to human structure and function presented from a clinical perspective. Includes clinical scenarios, medical imaging techniques, and interventional procedures to illustrate the underlying anatomy.  Course consists of lectures and dissection of the human body in the anatomy laboratory.  Surgery 203 presents structures of the thorax, abdomen, pelvis, back, upper and lower limbs, and head &amp; neck. Course opened to MD, MSM, and MSPA students only.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:SURG203 LEC
-DTSTART;TZID=America/Los_Angeles:20170829T133000
-CREATED:20180107T132444
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T152000;BYDAY=TU,TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20171002T122000
-LAST-MODIFIED:20180107T132444
-UID:explore_courses713fd4c3-8f7b-428e-8c16-04ba206ee2cc
-DTSTAMP:20180107T132444
+LAST-MODIFIED:20180401T174132
+UID:explore_courses8a276ef2-7e4f-452f-8c87-36323c21387e
+DTSTAMP:20180401T174132
 LOCATION:Li Ka Shing Center, room 130
 DESCRIPTION:Introduction to human structure and function presented from a clinical perspective. Includes clinical scenarios, medical imaging techniques, and interventional procedures to illustrate the underlying anatomy.  Course consists of lectures and dissection of the human body in the anatomy laboratory.  Surgery 203 presents structures of the thorax, abdomen, pelvis, back, upper and lower limbs, and head &amp; neck. Course opened to MD, MSM, and MSPA students only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SURG203 LEC
 DTSTART;TZID=America/Los_Angeles:20171002T113000
-CREATED:20180107T132444
+CREATED:20180401T174132
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T122000;BYDAY=MO
 END:VEVENT
 BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170829T172000
+LAST-MODIFIED:20180401T174132
+UID:explore_courses17c4aee8-4042-44bb-b4e1-d3b151d8adae
+DTSTAMP:20180401T174132
+LOCATION:CCSR0001
+DESCRIPTION:Introduction to human structure and function presented from a clinical perspective. Includes clinical scenarios, medical imaging techniques, and interventional procedures to illustrate the underlying anatomy.  Course consists of lectures and dissection of the human body in the anatomy laboratory.  Surgery 203 presents structures of the thorax, abdomen, pelvis, back, upper and lower limbs, and head &amp; neck. Course opened to MD, MSM, and MSPA students only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SURG203 LEC
+DTSTART;TZID=America/Los_Angeles:20170829T152000
+CREATED:20180401T174132
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T172000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170829T122000
-LAST-MODIFIED:20180107T132444
-UID:explore_coursesc100b511-09f9-4dca-b50c-3c07ec006285
-DTSTAMP:20180107T132444
+LAST-MODIFIED:20180401T174132
+UID:explore_courses9df52995-39b0-411b-8323-de480da87c8b
+DTSTAMP:20180401T174132
 LOCATION:Li Ka Shing Center, room 130
 DESCRIPTION:Introduction to human structure and function presented from a clinical perspective. Includes clinical scenarios, medical imaging techniques, and interventional procedures to illustrate the underlying anatomy.  Course consists of lectures and dissection of the human body in the anatomy laboratory.  Surgery 203 presents structures of the thorax, abdomen, pelvis, back, upper and lower limbs, and head &amp; neck. Course opened to MD, MSM, and MSPA students only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SURG203 LEC
 DTSTART;TZID=America/Los_Angeles:20170829T113000
-CREATED:20180107T132444
+CREATED:20180401T174132
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T122000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170829T152000
+LAST-MODIFIED:20180401T174132
+UID:explore_courses89a70d33-62a7-4f9c-a29b-0a33808a6e11
+DTSTAMP:20180401T174132
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:Introduction to human structure and function presented from a clinical perspective. Includes clinical scenarios, medical imaging techniques, and interventional procedures to illustrate the underlying anatomy.  Course consists of lectures and dissection of the human body in the anatomy laboratory.  Surgery 203 presents structures of the thorax, abdomen, pelvis, back, upper and lower limbs, and head &amp; neck. Course opened to MD, MSM, and MSPA students only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SURG203 LEC
+DTSTART;TZID=America/Los_Angeles:20170829T133000
+CREATED:20180401T174132
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171201T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

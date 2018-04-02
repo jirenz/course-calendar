@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170929T112000
-LAST-MODIFIED:20180107T132239
-UID:explore_courses0643d2c5-e54a-44c6-8c99-2f3fe2354bb5
-DTSTAMP:20180107T132239
+LAST-MODIFIED:20180401T174035
+UID:explore_coursesca704d40-f8ce-40f0-bbeb-64e8c87adf0d
+DTSTAMP:20180401T174035
 LOCATION:Econ 140
 DESCRIPTION:Dynamic programming applied to a variety of economic problems. These problems will be formulated in discrete or continuous time, with or without uncertainty, with a finite or infinite horizon. There will be weekly problem sets and a take-home final that will require MATLAB programming. Limited enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON210 DIS
 DTSTART;TZID=America/Los_Angeles:20170929T093000
-CREATED:20180107T132239
+CREATED:20180401T174035
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

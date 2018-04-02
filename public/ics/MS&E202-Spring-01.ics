@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20180107T132526
-UID:explore_courses2c88af44-fab2-4295-bcbe-39960e7abf7d
-DTSTAMP:20180107T132526
+LAST-MODIFIED:20180401T174158
+UID:explore_courses8e19932a-1ef0-44ab-a692-6720600dcb97
+DTSTAMP:20180401T174158
 LOCATION:Econ 140
 DESCRIPTION:Provide a solid foundation in optimal control theory that can be applied to various disciplines. Topics covered are Maximum Principle, Dynamic Programming, Riccati Equation, Infinite time Optimal Control with time discounting, Infinite time differential games. The theory will be applied to optimal economic growth, resource management, production planning, dynamic pricing, financial planning, oligopoly competition, network platform competition. Prerequisite: MS&amp;E 201.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E202 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

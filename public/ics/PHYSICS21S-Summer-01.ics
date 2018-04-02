@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180625T145000
-LAST-MODIFIED:20180107T132334
-UID:explore_coursesaa92614e-656c-4309-aeaf-c32169ba680f
-DTSTAMP:20180107T132334
-LOCATION:Hewlett Teaching Center 201
-DESCRIPTION:How are the motions of objects and the behavior of fluids and gases determined by the laws of physics? Students learn to describe the motion of objects (kinematics) and understand why objects move as they do (dynamics). Emphasis on how Newton's three laws of motion are applied to solids, liquids, and gases to describe phenomena as diverse as spinning gymnasts, blood flow, and sound waves. Understanding many-particle systems requires connecting macroscopic properties (e.g., temperature and pressure) to microscopic dynamics (collisions of particles). Laws of thermodynamics provide understanding of real-world phenomena such as energy conversion and performance limits of heat engines. Everyday examples are analyzed using tools of algebra and trigonometry. Problem-solving skills are developed, including verifying that derived results satisfy criteria for correctness, such as dimensional consistency and expected behavior in limiting cases. Physical understanding fostered by peer interaction and demonstrations in lecture, and interactive group problem solving in discussion sections. Labs are an integrated part of the summer course.  Prerequisite: high school algebra and trigonometry; calculus not required.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:PHYSICS21S LEC
-DTSTART;TZID=America/Los_Angeles:20180625T133000
-CREATED:20180107T132334
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T145000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180625T115000
-LAST-MODIFIED:20180107T132334
-UID:explore_courses2dca4e55-58b4-4812-8d14-179cd5fd2999
-DTSTAMP:20180107T132334
+LAST-MODIFIED:20180401T174056
+UID:explore_courses71c1e77a-b1fb-4952-bb4e-b9a8a1638254
+DTSTAMP:20180401T174056
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:How are the motions of objects and the behavior of fluids and gases determined by the laws of physics? Students learn to describe the motion of objects (kinematics) and understand why objects move as they do (dynamics). Emphasis on how Newton's three laws of motion are applied to solids, liquids, and gases to describe phenomena as diverse as spinning gymnasts, blood flow, and sound waves. Understanding many-particle systems requires connecting macroscopic properties (e.g., temperature and pressure) to microscopic dynamics (collisions of particles). Laws of thermodynamics provide understanding of real-world phenomena such as energy conversion and performance limits of heat engines. Everyday examples are analyzed using tools of algebra and trigonometry. Problem-solving skills are developed, including verifying that derived results satisfy criteria for correctness, such as dimensional consistency and expected behavior in limiting cases. Physical understanding fostered by peer interaction and demonstrations in lecture, and interactive group problem solving in discussion sections. Labs are an integrated part of the summer course.  Prerequisite: high school algebra and trigonometry; calculus not required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS21S LEC
 DTSTART;TZID=America/Los_Angeles:20180625T103000
-CREATED:20180107T132334
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T115000;BYDAY=MO,TU,WE,TH,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180625T145000
+LAST-MODIFIED:20180401T174056
+UID:explore_coursesd88e35c6-be64-49ea-a546-29e4564bd0b1
+DTSTAMP:20180401T174056
+LOCATION:Hewlett Teaching Center 201
+DESCRIPTION:How are the motions of objects and the behavior of fluids and gases determined by the laws of physics? Students learn to describe the motion of objects (kinematics) and understand why objects move as they do (dynamics). Emphasis on how Newton's three laws of motion are applied to solids, liquids, and gases to describe phenomena as diverse as spinning gymnasts, blood flow, and sound waves. Understanding many-particle systems requires connecting macroscopic properties (e.g., temperature and pressure) to microscopic dynamics (collisions of particles). Laws of thermodynamics provide understanding of real-world phenomena such as energy conversion and performance limits of heat engines. Everyday examples are analyzed using tools of algebra and trigonometry. Problem-solving skills are developed, including verifying that derived results satisfy criteria for correctness, such as dimensional consistency and expected behavior in limiting cases. Physical understanding fostered by peer interaction and demonstrations in lecture, and interactive group problem solving in discussion sections. Labs are an integrated part of the summer course.  Prerequisite: high school algebra and trigonometry; calculus not required.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHYSICS21S LEC
+DTSTART;TZID=America/Los_Angeles:20180625T133000
+CREATED:20180401T174056
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T145000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

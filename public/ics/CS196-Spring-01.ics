@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T192000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses231dd825-1b3e-463b-8033-f76cc0b4a308
-DTSTAMP:20180107T132519
+DTEND;TZID=America/Los_Angeles:00060406T192000
+LAST-MODIFIED:20180401T174153
+UID:explore_courses30222ae9-04ff-461c-9f62-2d6227bd6800
+DTSTAMP:20180401T174153
 LOCATION:Gates B12
 DESCRIPTION:Focus is on Macintosh and Windows operating system maintenance and troubleshooting through hardware and software foundation and concepts. Topics include operating systems, networking, security, troubleshooting methodology with emphasis on Stanford's computing environment. Not a programming course. Prerequisite: 1C or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS196 LEC
-DTSTART;TZID=America/Los_Angeles:20180403T180000
-CREATED:20180107T132519
+DTSTART;TZID=America/Los_Angeles:00060406T180000
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

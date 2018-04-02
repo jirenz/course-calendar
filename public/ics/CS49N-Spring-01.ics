@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T172000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursesddec7964-e25e-48b7-8a4c-113f1fd1e411
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174152
+UID:explore_coursesbb9c5eed-d186-455d-ac92-de84f9a80f7b
+DTSTAMP:20180401T174152
 LOCATION:Gates100
-DESCRIPTION:This is a crash course in how to use a stripped-down computer system aboutnthe size of a credit card (the rasberry pi computer) to control as manyndifferent sensors as we can implement in ten weeks, including LEDs, motionnsensors, light controllers, and accelerometers.  The ability to fearlesslyngrab a set of hardware devices, examine the data sheet to see how to usenit, and stitch them  together using simple code is a secret weapon thatnsoftware-only people lack, and allows you to build many interestingngadgets.  We will start with a ``bare metal'' system --- no operatingnsystem, no support --- and teach you how to read device data sheetsndescribing sensors and write the minimal code needed to control themn(including how to debug when things go wrong, as they always do).  Thisncourse differs from most in that it is deliberately mostly about what andnwhy rather than how --- our hope is that the things you are able at the endnwill inspire you to follow the rest of the CS curriculum to understandnbetter how things you've used work. Prerequisites: knowledge of the Cnprogramming language.  A Linux or Mac laptop that you are comfortablencoding on.
+DESCRIPTION:This is a crash course in how to use a stripped-down computer system about the size of a credit card (the rasberry pi computer) to control as many different sensors as we can implement in ten weeks, including LEDs, motion sensors, light controllers, and accelerometers. The ability to fearlessly grab a set of hardware devices, examine the data sheet to see how to use it, and stitch them  together using simple code is a secret weapon that software-only people lack, and allows you to build many interesting gadgets. We will start with a &quot;bare metal'' system --- no operating system, no support --- and teach you how to read device data sheets describing sensors and write the minimal code needed to control them (including how to debug when things go wrong, as they always do). This course differs from most in that it is deliberately mostly about what and why rather than how --- our hope is that the things you are able at the end will inspire you to follow the rest of the CS curriculum to understand better how things you've used work. Prerequisites: knowledge of the C programming language.  A Linux or Mac laptop that you are comfortable coding on.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS49N ISF
 DTSTART;TZID=America/Los_Angeles:20180402T153000
-CREATED:20180107T132519
+CREATED:20180401T174152
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

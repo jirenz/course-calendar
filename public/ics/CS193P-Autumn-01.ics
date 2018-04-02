@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T175000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses2ccae2e1-5783-4b4c-ad79-522e390f0e81
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174153
+UID:explore_courses5d7fc323-e3b1-43c3-989e-714004f2a14a
+DTSTAMP:20180401T174153
 LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Tools and APIs required to build applications for the iPhone and iPad platforms using the iOS SDK. User interface design for mobile devices and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management, Swift programming language. Other topics include: object-oriented database API, animation, multi-threading, networking and performance considerations. nPrerequisites: C language and object-oriented programming experience exceeding 106B or X level. Previous completion of any one of the following is required: CS 107&lt;https://explorecourses.stanford.edu/search?view=catalog&amp;filter-coursestatus-Active=on&amp;page=0&amp;q=CS107&gt;, 108 (preferred) or 110. Recommended: UNIX, graphics, databases.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS193P LEC
 DTSTART;TZID=America/Los_Angeles:20170925T163000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

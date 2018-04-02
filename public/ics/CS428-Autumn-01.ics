@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses2de58d8f-7a28-42bf-9cc8-45d366132b46
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_coursesbe3438c0-89da-42ee-82db-ea82512431d9
+DTSTAMP:20180401T174154
 LOCATION:200-305
 DESCRIPTION:This course will introduce the probabilistic approach to cognitive science, in which learning and reasoning are understood as inference in complex probabilistic models. Examples will be drawn from areas including concept learning, causal reasoning, social cognition, and language understanding. Formal modeling ideas and techniques will be discussed in concert with relevant empirical phenomena.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS428 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

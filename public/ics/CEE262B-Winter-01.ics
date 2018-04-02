@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T122000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses5152a943-d776-4732-823f-d2e404714ad7
-DTSTAMP:20180107T132511
-LOCATION:Y2E2 253
+LAST-MODIFIED:20180401T174147
+UID:explore_courses50a77835-755c-4ac1-830c-e0576d2ebf42
+DTSTAMP:20180401T174147
+LOCATION:Y2E2 111
 DESCRIPTION:Application of fluid mechanics to problems of pollutant transport and mixing in the water environment. Mathematical  models of advection, diffusion, and dispersion. Application of theory to problems of transport and mixing in rivers, estuaries, and lakes and reservoirs. Recommended: 262A and CME 102 (formerly ENGR 155A), or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE262B LEC
 DTSTART;TZID=America/Los_Angeles:20180108T113000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

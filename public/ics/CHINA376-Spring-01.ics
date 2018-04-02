@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20180107T132223
-UID:explore_coursesff6a03a7-fbc6-455a-ad48-37f01a948e20
-DTSTAMP:20180107T132223
-LOCATION:
-DESCRIPTION:This course is designed for graduate students, particularly those with concentration in Chinese archaeology. We will focus on archaeological theories and methods, which may be relevant to students&iquest; dissertation or thesis research. The course will be a combination of seminar, experimental study, and laboratory training.
+LAST-MODIFIED:20180401T174026
+UID:explore_coursesc379b4e0-5a10-4be3-b0da-ec69a73ebb09
+DTSTAMP:20180401T174026
+LOCATION:500-106
+DESCRIPTION:This course is designed for graduate students who are interested in Chinese archaeology. We will discuss the current issues in the discipline, particularly related to archaeological research on food and foodways. We will conduct experimental study and laboratory analyses to investigate ancient human behavior in food procurement, preparation, and consumption. The archaeological methods include analyses of use-wear on stone tools and various microbotanical remains (starch, phytoliths, etc.) on artifacts.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHINA376 SEM
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132223
+CREATED:20180401T174026
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

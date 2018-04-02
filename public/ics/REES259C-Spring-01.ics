@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T192000
-LAST-MODIFIED:20180107T132346
-UID:explore_coursesdb6824f9-81e7-4196-aa32-07cd2b7d2e13
-DTSTAMP:20180107T132346
-LOCATION:50-51P
+DTEND;TZID=America/Los_Angeles:20180402T192000
+LAST-MODIFIED:20180401T174101
+UID:explore_coursesad9b7c7c-c434-4093-b87b-8317843f04f7
+DTSTAMP:20180401T174101
+LOCATION:50-51B
 DESCRIPTION:What sort of topics, research questions, approaches, theories and concepts lead to an integration of various kinds of knowledges? Ecological Humanities provides a conceptual platform for a merger of humanities and social sciences with earth and life sciences, soil science and forensic sciences. The course will discuss such selected topics as the Anthropocene, geologic/mineral and exhumed subjects/personae, bio- and geosocial collectives, symbiotic life-forms, non-human agencies, and forensic landscapes as examples of this merger.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:REES259C SEM
-DTSTART;TZID=America/Los_Angeles:20180403T173000
-CREATED:20180107T132346
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180402T173000
+CREATED:20180401T174101
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

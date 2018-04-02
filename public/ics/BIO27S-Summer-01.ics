@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180626T102000
-LAST-MODIFIED:20180107T132217
-UID:explore_coursesea1917a5-ce9e-49fa-8fc7-bcc923b3c23c
-DTSTAMP:20180107T132217
+LAST-MODIFIED:20180401T174022
+UID:explore_courses39dd2d4d-ba87-4046-84af-a0c76839225e
+DTSTAMP:20180401T174022
 LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:This course centers on the fundamental idea of evolution, which impacts fields as disparate as genetics to paleontology. You will learn about the history of evolutionary thought, including Darwin&iquest;s idea of evolution by natural selection, and explore evolutionary timescales both small and large. Topics include population genetics, genomics, molecular evolution, evolutionary forces, formation of new species, evolutionary divergences in the history of life, and evidence of evolution, including patterns from DNA and the fossil record.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO27S LEC
 DTSTART;TZID=America/Los_Angeles:20180626T090000
-CREATED:20180107T132217
+CREATED:20180401T174022
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

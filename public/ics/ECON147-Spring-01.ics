@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T112000
-LAST-MODIFIED:20180107T132239
-UID:explore_courses4cb4a755-b885-429a-aace-06b9b5bba19e
-DTSTAMP:20180107T132239
+LAST-MODIFIED:20180401T174035
+UID:explore_coursesd5dfc2b1-6a2d-4eb8-b7ed-4ce559276111
+DTSTAMP:20180401T174035
 LOCATION:Econ 106
 DESCRIPTION:This course will cover the economics of labor markets.  Topics include: determinants of employment and unemployment, with a special focus on understanding business cycle fluctuations.  Job creation and job destruction.  The effects of technological change on the labor market.  Determinants of labor supply and the effects of universal basic income.  Prerequisites: ECON 51 (Public Policy majors may take PUBLPOL 51 as a substitute for ECON 51), Econ 52, Econ 102B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON147 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T093000
-CREATED:20180107T132239
+CREATED:20180401T174035
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

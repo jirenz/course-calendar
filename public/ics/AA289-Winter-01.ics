@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180112T130000
-LAST-MODIFIED:20180107T132504
-UID:explore_coursesc3e37009-a6fe-4d68-8334-7128b1656c7e
-DTSTAMP:20180107T132504
+LAST-MODIFIED:20180401T174143
+UID:explore_courses636fec6a-37c2-4fa1-88f4-672685de7e90
+DTSTAMP:20180401T174143
 LOCATION:420-040
 DESCRIPTION:Seminar talks by researchers and industry professionals on topics related to modern robotics and autonomous systems. Broadly, talks will cover robotic design, perception and navigation, planning and control, and learning for complex robotic systems. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA289 COL
 DTSTART;TZID=America/Los_Angeles:20180112T120000
-CREATED:20180107T132504
+CREATED:20180401T174143
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T130000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

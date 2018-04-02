@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20180107T132440
-UID:explore_courses6e22dfba-8964-4680-99d1-9b42d6a08cb7
-DTSTAMP:20180107T132440
+LAST-MODIFIED:20180401T174129
+UID:explore_coursesf9c70d4b-67eb-4860-a038-9cf901683889
+DTSTAMP:20180401T174129
 LOCATION:Alway Building, Room M114
 DESCRIPTION:Physics, instrumentation, and algorithms for radionuclide-based medical imaging, with a focus on positron emission tomography (PET) and single photon emission computed tomography (SPECT). Topics include basic physics of photon emission from the body and detection, sensors, readout and data acquisition electronics, system design, strategies for tomographic image reconstruction, system calibration and data correction algorithms, methods of image quantification, and image quality assessment, and current developments in the field. Prerequisites: A year of university-level mathematics and physics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:RAD221 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20180107T132440
+CREATED:20180401T174129
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

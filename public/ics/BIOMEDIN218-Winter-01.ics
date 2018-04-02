@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132403
-UID:explore_coursesf95a0421-163f-4a67-9dc1-e24e9b631605
-DTSTAMP:20180107T132403
+LAST-MODIFIED:20180401T174109
+UID:explore_courses7efa5289-7666-49e7-a8bf-f5431b366bc8
+DTSTAMP:20180401T174109
 LOCATION:
 DESCRIPTION:Same content as BIOMEDIN 217; for medical and graduate students who attend lectures and participate in limited assignments and final project. Computational methods for the translation of biomedical data into diagnostic, prognostic, and therapeutic applications in medicine. Topics: multi-scale omics data generation and analysis, utility and limitations of public biomedical resources, machine learning and data mining, issues and opportunities in drug discovery, and mobile/digital health solutions. Case studies.nPrerequisites: programming ability at the level of CS 106A and familiarity with biology and statistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOMEDIN218 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132403
+CREATED:20180401T174109
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

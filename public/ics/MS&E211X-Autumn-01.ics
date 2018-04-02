@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T132000
-LAST-MODIFIED:20180107T132526
-UID:explore_courses98e49501-b7e1-4975-8c53-cd6d9e4d9f65
-DTSTAMP:20180107T132526
+LAST-MODIFIED:20180401T174158
+UID:explore_courses5d488e13-ab4c-4b6c-a7cc-cf4c94e7c07c
+DTSTAMP:20180401T174158
 LOCATION:Skillaud
 DESCRIPTION:Optimization theory and modeling. The role of prices, duality, optimality conditions, and algorithms in finding and recognizing solutions. Perspectives: problem formulation, analytical theory, computational methods, and recent applications in engineering, finance, and economics. Theories: finite dimensional derivatives, convexity, optimality, duality, and sensitivity. Methods: simplex and interior-point, gradient, Newton, and barrier. Prerequisite: CME 100 or MATH 51 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E211X LEC
 DTSTART;TZID=America/Los_Angeles:20170926T120000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

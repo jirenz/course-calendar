@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170926T115000
-LAST-MODIFIED:20180107T132437
-UID:explore_coursesf53208e7-b612-4869-bcd9-8bfc267cb86f
-DTSTAMP:20180107T132437
-LOCATION:540-103
-DESCRIPTION:Apply scientific methods and principles to discern and realize value. Read history, philosophy, ecology, economics, sociology, linguistics and psychology pertinent to emergence of valuescience as foundation for an increasing range of human action. Explore perceptual, cognitive, and cultural impediments to valuescience; strategies for overcoming these; and personal and social benefits of doing so. 4 units includes weekly practice (e.g., meditation, aerobic exercise). Students may enroll in PSYC 136A or PSYC 136B or both. Either may be taken first.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:PSYC136A SEM
-DTSTART;TZID=America/Los_Angeles:20170926T103000
-CREATED:20180107T132437
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170928T115000
-LAST-MODIFIED:20180107T132437
-UID:explore_courses6f9f000f-1398-44f3-ac24-45920460ede0
-DTSTAMP:20180107T132437
+LAST-MODIFIED:20180401T174127
+UID:explore_coursesda059e4a-7d46-4e13-9777-4fca8dd49365
+DTSTAMP:20180401T174127
 LOCATION:Gates100
 DESCRIPTION:Apply scientific methods and principles to discern and realize value. Read history, philosophy, ecology, economics, sociology, linguistics and psychology pertinent to emergence of valuescience as foundation for an increasing range of human action. Explore perceptual, cognitive, and cultural impediments to valuescience; strategies for overcoming these; and personal and social benefits of doing so. 4 units includes weekly practice (e.g., meditation, aerobic exercise). Students may enroll in PSYC 136A or PSYC 136B or both. Either may be taken first.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYC136A SEM
 DTSTART;TZID=America/Los_Angeles:20170928T103000
-CREATED:20180107T132437
+CREATED:20180401T174127
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20180401T174127
+UID:explore_courses2b435de7-a57b-4645-a389-e229406d674f
+DTSTAMP:20180401T174127
+LOCATION:540-103
+DESCRIPTION:Apply scientific methods and principles to discern and realize value. Read history, philosophy, ecology, economics, sociology, linguistics and psychology pertinent to emergence of valuescience as foundation for an increasing range of human action. Explore perceptual, cognitive, and cultural impediments to valuescience; strategies for overcoming these; and personal and social benefits of doing so. 4 units includes weekly practice (e.g., meditation, aerobic exercise). Students may enroll in PSYC 136A or PSYC 136B or both. Either may be taken first.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PSYC136A SEM
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20180401T174127
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

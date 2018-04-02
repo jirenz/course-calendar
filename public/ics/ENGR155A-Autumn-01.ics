@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T145000
-LAST-MODIFIED:20180107T132525
-UID:explore_courses0ce11411-7eba-4dfb-84be-7bb68995a2b2
-DTSTAMP:20180107T132525
+LAST-MODIFIED:20180401T174157
+UID:explore_courses0b714c7d-b4c6-457c-9751-e61b6bc71d6e
+DTSTAMP:20180401T174157
 LOCATION:Gates B3
 DESCRIPTION:Analytical and numerical methods for solving ordinary differential equations arising in engineering applications: Solution of initial and boundary value problems, series solutions, Laplace transforms, and nonlinear equations; numerical methods for solving ordinary differential equations, accuracy of numerical methods, linear stability theory, finite differences. Introduction to MATLAB programming as a basic tool kit for computations. Problems from various engineering fields. Prerequisite: 10 units of AP credit (Calc BC with 5, or Calc AB with 5 or placing out of the single variable math placement test: https://exploredegreesnextyear.stanford.edu/undergraduatedegreesandprograms/#aptextt),), or Math 19-21. Recommended: CME100.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR155A LEC
 DTSTART;TZID=America/Los_Angeles:20170925T133000
-CREATED:20180107T132525
+CREATED:20180401T174157
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

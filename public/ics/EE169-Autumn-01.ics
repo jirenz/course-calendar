@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T162000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses671be516-8d61-48fe-af4d-6e11f54c275c
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_courses279c3a27-b7a2-4700-920e-e95b36cbce66
+DTSTAMP:20180401T174156
 LOCATION:380-380W
 DESCRIPTION:Bioimaging is important for both clinical medicine, and medical research.  This course will provide a introduction to several of the major imaging modalities, using a signal processing perspective. The course will start with an introduction to multi-dimensional Fourier transforms, and image quality metrics.  It will then study projection imaging systems (projection X-Ray), backprojection based systems (CT, PET, and SPECT), systems that use beam forming (ultrasound), and systems that use Fourier encoding (MRI). Prerequisites: EE102A, EE102B
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE169 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T150000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

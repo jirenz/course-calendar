@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170925T205000
-LAST-MODIFIED:20180107T132248
-UID:explore_coursesab51f961-4aea-4147-90a7-d6580d4f34c5
-DTSTAMP:20180107T132248
-LOCATION:200-107
-DESCRIPTION:Women as objects and subjects of the voyeuristic gaze inherent to cinema. The myth of the feminine idol in French films in historical and cultural context since the New Wave until now. The mythology of stars as the imaginary vehicle that helped France to change from traditional society to modern, culturally mixed nation. The evolution of female characters, roles, actresses, directors in the film industry. Filmmakers include Vadim, Truffaut, Varda, Godard, Ozon, Colline Serreau, Tonie Marshall, Ma&iuml;wen. Discussion in English; films in French with English subtitles. 3 units, 4 units or 5 units.nNOTE: FILMSTUD students must take this course for 3 units only.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:FRENCH192 SEM
-DTSTART;TZID=America/Los_Angeles:20170925T180000
-CREATED:20180107T132248
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T205000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T132000
-LAST-MODIFIED:20180107T132248
-UID:explore_courses24f85a20-820b-4b8e-9117-5b25afbde951
-DTSTAMP:20180107T132248
+LAST-MODIFIED:20180401T174039
+UID:explore_coursesd0331e26-2f94-4cf3-bdac-283ba2e5f729
+DTSTAMP:20180401T174039
 LOCATION:School of Education 313
 DESCRIPTION:Women as objects and subjects of the voyeuristic gaze inherent to cinema. The myth of the feminine idol in French films in historical and cultural context since the New Wave until now. The mythology of stars as the imaginary vehicle that helped France to change from traditional society to modern, culturally mixed nation. The evolution of female characters, roles, actresses, directors in the film industry. Filmmakers include Vadim, Truffaut, Varda, Godard, Ozon, Colline Serreau, Tonie Marshall, Ma&iuml;wen. Discussion in English; films in French with English subtitles. 3 units, 4 units or 5 units.nNOTE: FILMSTUD students must take this course for 3 units only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FRENCH192 SEM
 DTSTART;TZID=America/Los_Angeles:20170926T120000
-CREATED:20180107T132248
+CREATED:20180401T174039
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170925T205000
+LAST-MODIFIED:20180401T174039
+UID:explore_courses685f2b00-7362-487b-9c46-eb76d0252271
+DTSTAMP:20180401T174039
+LOCATION:200-107
+DESCRIPTION:Women as objects and subjects of the voyeuristic gaze inherent to cinema. The myth of the feminine idol in French films in historical and cultural context since the New Wave until now. The mythology of stars as the imaginary vehicle that helped France to change from traditional society to modern, culturally mixed nation. The evolution of female characters, roles, actresses, directors in the film industry. Filmmakers include Vadim, Truffaut, Varda, Godard, Ozon, Colline Serreau, Tonie Marshall, Ma&iuml;wen. Discussion in English; films in French with English subtitles. 3 units, 4 units or 5 units.nNOTE: FILMSTUD students must take this course for 3 units only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FRENCH192 SEM
+DTSTART;TZID=America/Los_Angeles:20170925T180000
+CREATED:20180401T174039
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T205000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

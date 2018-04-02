@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20180107T132231
-UID:explore_coursesabce50b2-d27f-4a5b-af0e-9b04e482cb48
-DTSTAMP:20180107T132231
+LAST-MODIFIED:20180401T174030
+UID:explore_courses4806268e-8d38-4f1a-8c82-ae213179397a
+DTSTAMP:20180401T174030
 LOCATION:Lathrop 299
-DESCRIPTION:Data and algorithms are rapidly transforming law enforcement and criminal justice, including how police officers are deployed, how discrimination is detected, and how sentencing, probation, and parole terms are set. Modern computational and statistical methods offer the promise of greater efficiency, equity, and transparency, but their use also raises complex legal, social, and ethical questions. In this course, we analyze recent court decisions, discuss methods from machine learning and game theory, and examine the often subtle relationship between law, public policy, and statistics. The class is centered around several data-intensive projects in criminal justice that students work on in interdisciplinary teams. Students work closely with criminal justice agencies to carry out these projects, with the goal of producing research that impacts policy. Students with a background in statistics, computer science, law, and/or public policy are encouraged to participate. Enrollment is limited, and project teams will be selected during the first week of class.
+DESCRIPTION:Data and algorithms are transforming law enforcement and criminal justice, a shift that is ripe for rigorous empirical and narrative exploration. This class is centered around several data-driven projects in criminal justice, with the goal of fostering greater understanding, transparency, and public accountability. Students work in interdisciplinary teams, using a combination of statistical and journalistic methods. Some of the work may be published by news organizations or may be used to advance data journalism investigations. Students with a background in statistics, computer science, law, public policy or journalism are encouraged to participate. Enrollment is limited, and project teams will be selected during the first week of class.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CSRE230 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132231
+CREATED:20180401T174030
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

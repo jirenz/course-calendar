@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T162000
-LAST-MODIFIED:20180107T132526
-UID:explore_courses4ea4b9c9-3162-4780-8889-ca8996e5c3bd
-DTSTAMP:20180107T132526
+LAST-MODIFIED:20180401T174158
+UID:explore_courses6476bcd7-b69c-4883-87be-beee287ce739
+DTSTAMP:20180401T174158
 LOCATION:380-381U
 DESCRIPTION:This course provides a in-depth survey of methods research for the analysis of large-scale social and behavioral data. There will be a particular focus on recent developments in discrete choice theory and preference learning. Connections will be made to graph-theoretic investigations common in the study of social networks. Topics will include random utility models, item-response theory, ranking and learning to rank, centrality and ranking on graphs, and random graphs. The course is intended for Ph.D. students, but masters students with an interested in research topics are welcome. Recommended: 221, 226, CS161, or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E334 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T150000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

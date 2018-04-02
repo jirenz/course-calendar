@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T102000
-LAST-MODIFIED:20180107T132525
-UID:explore_courses7b8267e5-9056-47e4-80b7-c73e3eccf7a2
-DTSTAMP:20180107T132525
+LAST-MODIFIED:20180401T174157
+UID:explore_coursesbb2f509b-4229-4941-9b3f-61df7edccd94
+DTSTAMP:20180401T174157
 LOCATION:370-370
 DESCRIPTION:Design of linear feedback control systems for command-following error, stability, and dynamic response specifications. Root-locus and frequency response design techniques. Examples from a variety of fields. Some use of computer aided design with MATLAB. Prerequisite: EE 102B, CME 102 (Math 53) or ME 161.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR105 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T093000
-CREATED:20180107T132525
+CREATED:20180401T174157
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

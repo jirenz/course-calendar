@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T102000
-LAST-MODIFIED:20180107T132531
-UID:explore_coursesddc4c1a0-ac60-4c10-9778-dcaa38868cd5
-DTSTAMP:20180107T132531
+LAST-MODIFIED:20180401T174202
+UID:explore_courses1de4eaa8-167f-4c34-a685-9221a0ff750d
+DTSTAMP:20180401T174202
 LOCATION:530-127
 DESCRIPTION:Prediction of heat and mass transfer rates based on analytical and numerical solutions of the governing partial differential equations. Heat transfer in fully developed pipe and channel flow, pipe entrance flow, laminar boundary layers, and turbulent boundary layers. Superposition methods for handling non-uniform wall boundary conditions. Approximate models for turbulent flows. Comparison of exact and approximate analyses to modern experimental results. General introduction to heat transfer in complex flows. Prerequisite: 351B or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME352C LEC
 DTSTART;TZID=America/Los_Angeles:20180402T093000
-CREATED:20180107T132531
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T175000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses2931dd2e-ceff-4a97-9ec8-7328274bce96
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174152
+UID:explore_coursesb94cf651-a97b-45b8-88f0-26522a4d889e
+DTSTAMP:20180401T174152
 LOCATION:200-030
 DESCRIPTION:Clojure is a dialect of Lisp that runs on the JVM, CLR, or Javascript engine. This course explores the fundamentals and philosophy of Clojure, with emphasis on the benefits of immutability and functional programming that make it such a powerful and fun language. Topics include: immutability, functional programming (function composition, higher order functions), concurrency (atoms, promises, futures, actors, Software Transactional Memory, etc), LISP (REPL-driven development, homoiconicity, macros), and interop (between Clojure code and code native to the host VM). The course also explores design paradigms and looks at the differences between functional programing and object-oriented programing, as well as bottom-up versus top-down design.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS43 ACT
 DTSTART;TZID=America/Los_Angeles:20180109T163000
-CREATED:20180107T132519
+CREATED:20180401T174152
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

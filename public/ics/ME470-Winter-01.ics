@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132531
-UID:explore_courses15578c32-796d-418e-ad33-af38991048ad
-DTSTAMP:20180107T132531
+LAST-MODIFIED:20180401T174202
+UID:explore_coursesf7f86d56-00f9-4a4e-ad7d-d7cd020ee534
+DTSTAMP:20180401T174202
 LOCATION:Y2E2 101
 DESCRIPTION:Uncertainty analysis in computational science. Probabilistic data representation, propagation techniques and validation under uncertainty. Mathematical and statistical foundations of random variables and processes for uncertainty modeling. Focus is on state-of-the-art propagation schemes, sampling techniques, and stochastic Galerkin methods. The concept of model validation under uncertainty and the determination of confidence bounds estimates. Prerequisite: basic probability and statistics at the level of CME 106 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME470 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20180107T132531
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

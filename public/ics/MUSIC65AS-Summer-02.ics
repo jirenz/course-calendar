@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180626T193000
-LAST-MODIFIED:20180107T132322
-UID:explore_coursesbb080324-99f6-48b7-a293-6866861216cd
-DTSTAMP:20180107T132322
+DTEND;TZID=America/Los_Angeles:20180626T192000
+LAST-MODIFIED:20180401T174052
+UID:explore_courses4b5e2075-d4e5-490b-9d31-72528e5de2eb
+DTSTAMP:20180401T174052
 LOCATION:Braun 233
 DESCRIPTION:Group (6 students to a section) beginning voice (A = level 1; B = level 2). Complete registration form available for download at: http://tinyurl.com/q43c48g. May be repeated for credit 5 times. Zero unit enrollment option available with instructor permission. See website: (http://tinyurl.com/posmuhn) for policy and procedure. By enrolling in this course you are giving consent for the video and audio recording and distribution of your image and performance for use by any entity at Stanford University.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC65AS PRA
 DTSTART;TZID=America/Los_Angeles:20180626T183000
-CREATED:20180107T132322
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T193000;BYDAY=TU
+CREATED:20180401T174052
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T192000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

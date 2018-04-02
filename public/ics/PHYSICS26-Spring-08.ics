@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T132000
-LAST-MODIFIED:20180107T132334
-UID:explore_courses79f0dd85-4265-4a8e-a35c-bed489cea67d
-DTSTAMP:20180107T132334
+LAST-MODIFIED:20180401T174056
+UID:explore_courses57747fe6-cbac-4116-82ec-11abbac3cf39
+DTSTAMP:20180401T174056
 LOCATION:
 DESCRIPTION:Guided hands-on and simulation-based exploration of concepts in modern physics, including special relativity, quantum mechanics and nuclear physics with an emphasis on student predictions, observations and explanations. Pre- or corequisite: PHYSICS 25.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS26 LBS
 DTSTART;TZID=America/Los_Angeles:20180403T113000
-CREATED:20180107T132334
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

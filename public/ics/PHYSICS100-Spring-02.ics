@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180406T162000
-LAST-MODIFIED:20180107T132335
-UID:explore_courses93ccc9ba-7306-45b8-b2b8-816eaa905e4d
-DTSTAMP:20180107T132335
+DTEND;TZID=America/Los_Angeles:20180404T235900
+LAST-MODIFIED:20180401T174056
+UID:explore_courses65628240-9e97-4d11-831a-8e1190e4336a
+DTSTAMP:20180401T174056
 LOCATION:
-DESCRIPTION:Designed for undergraduate physics majors but open to all students with a calculus-based physics background and some laboratory and coding experience. Students make and analyze observations using the telescopes at the Stanford Student Observatory. Topics covered include navigating the night sky, the physics of stars and galaxies, telescope instrumentation and operation, imaging and spectroscopic techniques, quantitative error analysis, and effective scientific communication. The course concludes with an independent project where student teams propose and execute an observational astronomy project of their choosing, using techniques learned in class to gather and analyze their data, and presenting their findings in the forms of professional-style oral presentations and research papers. Enrollment by permission. To get a permission number please complete form: http://web.stanford.edu/~elva/physics100prelim.fbn If you have not heard from us by the beginning of class, please come to the first class session.
+DESCRIPTION:Designed for undergraduate physics majors but open to all students with a calculus-based physics background and some laboratory and coding experience. Students make and analyze observations using the telescopes at the Stanford Student Observatory. Topics covered include navigating the night sky, the physics of stars and galaxies, telescope instrumentation and operation, imaging and spectroscopic techniques, quantitative error analysis, and effective scientific communication. The course concludes with an independent project where student teams propose and execute an observational astronomy project of their choosing, using techniques learned in class to gather and analyze their data, and presenting their findings in the forms of professional-style oral presentations and research papers. Enrollment by permission. To get a permission number please complete form: http://web.stanford.edu/~elva/physics100prelim.fb If you have not heard from us by the beginning of class, please come to the first class session.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHYSICS100 LBS
+DTSTART;TZID=America/Los_Angeles:20180404T200000
+CREATED:20180401T174056
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T235900;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180406T162000
+LAST-MODIFIED:20180401T174056
+UID:explore_coursesa7f11b38-a7f0-4d18-a131-d7eb3ef9dd3b
+DTSTAMP:20180401T174056
+LOCATION:Lathrop 290
+DESCRIPTION:Designed for undergraduate physics majors but open to all students with a calculus-based physics background and some laboratory and coding experience. Students make and analyze observations using the telescopes at the Stanford Student Observatory. Topics covered include navigating the night sky, the physics of stars and galaxies, telescope instrumentation and operation, imaging and spectroscopic techniques, quantitative error analysis, and effective scientific communication. The course concludes with an independent project where student teams propose and execute an observational astronomy project of their choosing, using techniques learned in class to gather and analyze their data, and presenting their findings in the forms of professional-style oral presentations and research papers. Enrollment by permission. To get a permission number please complete form: http://web.stanford.edu/~elva/physics100prelim.fb If you have not heard from us by the beginning of class, please come to the first class session.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS100 LBS
 DTSTART;TZID=America/Los_Angeles:20180406T133000
-CREATED:20180107T132335
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

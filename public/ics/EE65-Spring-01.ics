@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T112000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses40e87db4-9c90-4e9b-b46e-94c5c96497d0
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_courses74ed57df-98ce-42a9-b7e9-e3c74ddac06e
+DTSTAMP:20180401T174156
 LOCATION:Mitchb67
 DESCRIPTION:This course introduces the core ideas of modern physics that enable applications ranging from solar energy and efficient lighting to the modern electronic and optical devices and nanotechnologies that sense, process, store, communicate and display all our information. Though the ideas have broad impact, the course is widely accessible to engineering and science students with only basic linear algebra and calculus through simple ordinary differential equations as mathematics background. Topics include the quantum mechanics of electrons and photons (Schr&ouml;dinger's equation, atoms, electrons, energy levels and energy bands; absorption and emission of photons; quantum confinement in nanostructures), the statistical mechanics of particles (entropy, the Boltzmann factor, thermal distributions), the thermodynamics of light (thermal radiation, limits to light concentration, spontaneous and stimulated emission), and the physics of information (Maxwell&iquest;s demon, reversibility, entropy and noise in physics and information theory).  Pre-requisite: Physics 41. Pre- or co-requisite: Math 53 or CME 102.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE65 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T103000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

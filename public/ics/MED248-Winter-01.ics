@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180111T195000
-LAST-MODIFIED:20180107T132419
-UID:explore_courses53c3ec4b-94ea-48e0-8744-3427e71a76aa
-DTSTAMP:20180107T132419
+LAST-MODIFIED:20180401T174117
+UID:explore_coursesd7a1c4b3-1eeb-4ec0-9a54-7565bfed606f
+DTSTAMP:20180401T174117
 LOCATION:Alway Building, Room M112
 DESCRIPTION:Teams of preclinical students meet weekly with a clinical student to hear the history and physical of a recent case the clinical student encountered on the wards. Following the presentation, the preclinical students work together under the guidance of the clinical student to develop a problem list and plan, which are then compared with the problem list, plan, and orders made by the actual admitting team. In the course of presenting the cases, the clinical student describes personal experiences and practical components of ward work and daily clinical routine.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED248 SEM
 DTSTART;TZID=America/Los_Angeles:20180111T183000
-CREATED:20180107T132419
+CREATED:20180401T174117
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T195000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T145000
-LAST-MODIFIED:20180107T132334
-UID:explore_courses5b895907-3a46-4d05-bd06-d2ede322acf6
-DTSTAMP:20180107T132334
+LAST-MODIFIED:20180401T174056
+UID:explore_coursesb558bdf7-ef34-492d-93e3-d2c636a478fd
+DTSTAMP:20180401T174056
 LOCATION:Green Earth Sciences150
 DESCRIPTION:(First in a three-part advanced freshman physics series: PHYSICS 61, PHYSICS 63, PHYSICS 65.) This course covers Einstein's special theory of relativity and Newtonian mechanics at a level appropriate for students with a strong high school mathematics and physics background, who are contemplating a major in Physics or Engineering Physics, or are interested in a rigorous treatment of physics. Postulates of special relativity, simultaneity, time dilation, length contraction, the Lorentz transformation, causality, and relativistic mechanics. Central forces, contact forces, linear restoring forces. Momentum transport, work, energy, collisions. Angular momentum, torque, moment of inertia in three dimensions. Damped and forced harmonic oscillators. Uses the language of vectors and multivariable calculus. Recommended prerequisites: Mastery of mechanics at the level of AP Physics C and AP Calculus BC or equivalent. Corequisite: MATH 51 or MATH 61CM or MATH 61DM.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS61 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T133000
-CREATED:20180107T132334
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

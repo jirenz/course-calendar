@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T102000
-LAST-MODIFIED:20180107T132506
-UID:explore_coursescdd17455-30a9-4604-9295-b3c57375e31a
-DTSTAMP:20180107T132506
+LAST-MODIFIED:20180401T174144
+UID:explore_courses60a86de7-e833-4dc0-90d5-393cc1aea8ea
+DTSTAMP:20180401T174144
 LOCATION:Shriram Ctr BioChemE 108
 DESCRIPTION:Concepts and techniques for the design and implementation of engineered genetic systems.  Topics covered include the quantitative exploration of tools that support (a) molecular component engineering, (b) abstraction and composition of functional genetic devices, (c) use of control and dynamical systems theory in device and systems design, (d) treatment of molecular &quot;noise&quot;, (e) integration of DNA-encoded programs within cellular chassis, (f) designing for evolution, and (g) the use of standards in measurement, genetic layout architecture, and data exchange. Prerequisites: CME104, CME106, CHEM 33, BIO41, BIO42, BIOE41, BIOE42, and BIOE44 (or equivalents), or permission of the instructors.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE244 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T090000
-CREATED:20180107T132506
+CREATED:20180401T174144
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

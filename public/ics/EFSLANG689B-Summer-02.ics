@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180628T172000
-LAST-MODIFIED:20180107T132242
-UID:explore_courses6531787f-c55b-4d85-8bd9-17d05a188d91
-DTSTAMP:20180107T132242
+DTEND;TZID=America/Los_Angeles:20180712T172000
+LAST-MODIFIED:20180401T174036
+UID:explore_courses6ebdd3d7-e360-417b-99dc-62c13c0e9cb3
+DTSTAMP:20180401T174036
 LOCATION:260-002
 DESCRIPTION:Focus on building a range of English communication skills through improvisation activities. Participants explore theatrical techniques that teach collaboration, spontaneity, team building, storytelling, and confident public speaking with connections to academic, professional, and personal situations. Course is co-taught by an improvisation expert and an ESL instructor. No previous improvisation or theater experience necessary.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EFSLANG689B SEM
-DTSTART;TZID=America/Los_Angeles:20180628T153000
-CREATED:20180107T132242
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T172000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180712T153000
+CREATED:20180401T174036
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180817T172000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

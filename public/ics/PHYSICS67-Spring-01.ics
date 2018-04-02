@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T172000
-LAST-MODIFIED:20180107T132335
-UID:explore_courses3c252370-7ac4-414e-8405-321889e1931b
-DTSTAMP:20180107T132335
+LAST-MODIFIED:20180401T174056
+UID:explore_coursescb507df5-0f20-43dc-811d-3136e22e43dc
+DTSTAMP:20180401T174056
 LOCATION:Lathrop 299
 DESCRIPTION:Methods of experimental design, data collection and analysis, statistics, and curve fitting in a laboratory setting.  Experiments drawn from electronics, optics, heat, and modern physics. Lecture plus laboratory format. Required for PHYSICS 60 series Physics and Engineering Physics majors; recommended, in place of PHYSICS 44, for PHYSICS 40 series students who intend to major in Physics or Engineering Physics.  Pre- or corequisite: PHYSICS 65 or PHYSICS 43.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS67 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T163000
-CREATED:20180107T132335
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

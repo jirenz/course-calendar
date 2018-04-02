@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180111T165000
-LAST-MODIFIED:20180107T132458
-UID:explore_courses1abef511-4382-4e7b-9499-e3166e5ceb4f
-DTSTAMP:20180107T132458
-LOCATION:Y2E2 105
+DTEND;TZID=America/Los_Angeles:20180111T182000
+LAST-MODIFIED:20180401T174140
+UID:explore_courses3b17f2e2-6a2e-4d4c-b4e0-d8e09bd4249b
+DTSTAMP:20180401T174140
+LOCATION:Y2E2 253
 DESCRIPTION:Required core course restricted to second-year E-IPER PhD students. Actively pursue one or more writing goals relevant to this stage in their graduate studies in a structured setting.  Set specific writing goals, create and follow a plan for reaching these goals, and receive substantive feedback on their written products from their peers. Examples of writing products include, but are not limited to, the student's dissertation proposal, E-IPER Fields of Inquiry essay, a literature review, or a grant or fellowship application. By the end of the course, students are expected to have completed or have made substantial progress toward their writing goal.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENVRES340 SEM
-DTSTART;TZID=America/Los_Angeles:20180111T150000
-CREATED:20180107T132458
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T165000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T163000
+CREATED:20180401T174140
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

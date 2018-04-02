@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T145000
-LAST-MODIFIED:20180107T132440
-UID:explore_courses5913e616-e200-4b49-86ea-d4e72eab01f7
-DTSTAMP:20180107T132440
+LAST-MODIFIED:20180401T174129
+UID:explore_courses50222b3f-9724-43a6-8df0-c55560b5f4fa
+DTSTAMP:20180401T174129
 LOCATION:CCSR 4107
 DESCRIPTION:Magnetic Resonance Imaging (MRI) uses sequences of radiofrequency excitation and magnetic field gradients to generate a signal and form images. Numerous common and advanced sequences will be studied, including analysis techniques to predict signal and contrast levels, and to measure and reduce unwanted image artifacts. Prerequisite: EE 369B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:RAD229 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T133000
-CREATED:20180107T132440
+CREATED:20180401T174129
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180110T175000
-LAST-MODIFIED:20180107T132419
-UID:explore_coursesc89e8341-2c09-4ce9-8fdf-ba514d5ba7c5
-DTSTAMP:20180107T132419
-LOCATION:300-303
-DESCRIPTION:In recent years, there has been a groundswell of interest in empathy as a key competency of the emotionally intelligent, and a primary motivator of moral behavior. But what is empathy, exactly? This seminar will seek to find out, exploring the concept through the lens of literature and medicine. nReading novels and exploring the philosophical beginnings of the term empathy, we will learn about the range of ways in which human beings have attempted to know and understand the other. Guided by research studies and our own experience, we will explore the critical question of whether empathy really does lead to altruism. We will consider why it can be so hard for human beings to walk in another's shoes and why we so often fail to do so. Through memoirs of suffering, we will learn about empathy in medicine and about what the latest studies in biology and neuroscience can teach us about how we relate to each other. Lastly, we will explore the dangers and limitations of empathy, reading scholarly circuits and discussing the role of empathy in life and society.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:MED10Q ISS
-DTSTART;TZID=America/Los_Angeles:20180110T163000
-CREATED:20180107T132419
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=WE
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T162000
-LAST-MODIFIED:20180107T132419
-UID:explore_courses599c252b-7459-45ec-a310-070341b90710
-DTSTAMP:20180107T132419
+LAST-MODIFIED:20180401T174117
+UID:explore_courses2da7a156-6b7c-4f1d-90f3-215abd6d52b0
+DTSTAMP:20180401T174117
 LOCATION:300-303
 DESCRIPTION:In recent years, there has been a groundswell of interest in empathy as a key competency of the emotionally intelligent, and a primary motivator of moral behavior. But what is empathy, exactly? This seminar will seek to find out, exploring the concept through the lens of literature and medicine. nReading novels and exploring the philosophical beginnings of the term empathy, we will learn about the range of ways in which human beings have attempted to know and understand the other. Guided by research studies and our own experience, we will explore the critical question of whether empathy really does lead to altruism. We will consider why it can be so hard for human beings to walk in another's shoes and why we so often fail to do so. Through memoirs of suffering, we will learn about empathy in medicine and about what the latest studies in biology and neuroscience can teach us about how we relate to each other. Lastly, we will explore the dangers and limitations of empathy, reading scholarly circuits and discussing the role of empathy in life and society.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED10Q ISS
 DTSTART;TZID=America/Los_Angeles:20180110T150000
-CREATED:20180107T132419
+CREATED:20180401T174117
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T175000
+LAST-MODIFIED:20180401T174117
+UID:explore_courses430dc313-9caa-40c0-a2d5-71f3bbd32044
+DTSTAMP:20180401T174117
+LOCATION:300-303
+DESCRIPTION:In recent years, there has been a groundswell of interest in empathy as a key competency of the emotionally intelligent, and a primary motivator of moral behavior. But what is empathy, exactly? This seminar will seek to find out, exploring the concept through the lens of literature and medicine. nReading novels and exploring the philosophical beginnings of the term empathy, we will learn about the range of ways in which human beings have attempted to know and understand the other. Guided by research studies and our own experience, we will explore the critical question of whether empathy really does lead to altruism. We will consider why it can be so hard for human beings to walk in another's shoes and why we so often fail to do so. Through memoirs of suffering, we will learn about empathy in medicine and about what the latest studies in biology and neuroscience can teach us about how we relate to each other. Lastly, we will explore the dangers and limitations of empathy, reading scholarly circuits and discussing the role of empathy in life and society.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MED10Q ISS
+DTSTART;TZID=America/Los_Angeles:20180110T163000
+CREATED:20180401T174117
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

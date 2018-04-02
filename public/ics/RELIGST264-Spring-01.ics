@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20180107T132345
-UID:explore_courses58cf5efa-3a02-4a32-bf92-1677a05e72ec
-DTSTAMP:20180107T132345
-LOCATION:School of Education 334
-DESCRIPTION:What is Tantra? Tantric forms of ritual and philosophy have been integral to the practice of Hinduism for most of its history. Tantra has provided initiates with a spiritual technology for embodying the divine and transcending the cycle of rebirth; on a social and political level, Tantra has mediated the institutions of Hindu kingship and appealed to a diverse population of initiates. This course covers a number of influential and well-documented Hindu tantric traditions, exploring several prominent features of Tantric religion as they develop historically, including: tantric ritual practice (core technologies of the subtle body, mantras, ma&iquest;&iquest;alas, etc., along with the more &iquest;notorious&iquest; elements of sex and transgression), theology and philosophical speculation, as well as Tantra&iquest;s relationship to the outside world and state power.
+DTEND;TZID=America/Los_Angeles:20180402T182000
+LAST-MODIFIED:20180401T174101
+UID:explore_coursesf0c7d231-3790-4e39-8863-123a55757bd0
+DTSTAMP:20180401T174101
+LOCATION:70-72A1
+DESCRIPTION:What is Tantra? Tantric forms of ritual and philosophy have been integral to the practice of Hinduism for most of its history. Tantra has provided initiates with a spiritual technology for embodying the divine and transcending the cycle of rebirth; on a social and political level, Tantra has mediated the institutions of Hindu kingship and appealed to a diverse population of initiates. This course covers a number of influential and well-documented Hindu tantric traditions, exploring several prominent features of Tantric religion as they develop historically, including: tantric ritual practice (core technologies of the subtle body, mantras, ma, alas, etc., along with the more notorious elements of sex and transgression), theology and philosophical speculation, as well as Tantra's relationship to the outside world and state power.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:RELIGST264 SEM
-DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132345
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180402T175000
+CREATED:20180401T174101
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T175000
+LAST-MODIFIED:20180401T174101
+UID:explore_courses9e04b5f2-a708-4388-8ef2-eb1a89b2ad1d
+DTSTAMP:20180401T174101
+LOCATION:70-72A1
+DESCRIPTION:What is Tantra? Tantric forms of ritual and philosophy have been integral to the practice of Hinduism for most of its history. Tantra has provided initiates with a spiritual technology for embodying the divine and transcending the cycle of rebirth; on a social and political level, Tantra has mediated the institutions of Hindu kingship and appealed to a diverse population of initiates. This course covers a number of influential and well-documented Hindu tantric traditions, exploring several prominent features of Tantric religion as they develop historically, including: tantric ritual practice (core technologies of the subtle body, mantras, ma, alas, etc., along with the more notorious elements of sex and transgression), theology and philosophical speculation, as well as Tantra's relationship to the outside world and state power.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:RELIGST264 SEM
+DTSTART;TZID=America/Los_Angeles:20180402T150000
+CREATED:20180401T174101
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

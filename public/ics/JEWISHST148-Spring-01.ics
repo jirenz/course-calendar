@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20180107T132311
-UID:explore_courses18b9452d-a039-40a9-b7c6-269db958893a
-DTSTAMP:20180107T132311
-LOCATION:110-101
-DESCRIPTION:Eastern European Jews spoke and read Hebrew, Yiddish, and their co-territorial languages (Russian, Polish, etc.).  In the modern period they developed secular literatures in all of them, and their writing reflected their own multilinguality and evolving language ideologies.  We focus on major literary and sociolinguistic texts.  Reading and discussion in English; students should have some reading knowledge of at least one relevant language as well.
+DTEND;TZID=America/Los_Angeles:20180405T152000
+LAST-MODIFIED:20180401T174046
+UID:explore_coursesd8ff1316-bb2f-4ffe-b8de-8afce2f59b23
+DTSTAMP:20180401T174046
+LOCATION:240-110
+DESCRIPTION:Eastern European Jews spoke and read Hebrew, Yiddish, and their co-territorial languages (Russian, Polish, etc.).  In the modern period they developed secular literatures in all of them, and their writing reflected their own multilinguality and evolving language ideologies.  We focus on major literary and sociolinguistic texts.  Reading and discussion in English; students should have some reading knowledge of at least one relevant language as well. ***This course must be taken for a minimum of 3 units and a letter grade to be eligible for Ways credit***
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:JEWISHST148 SEM
-DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132311
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180405T133000
+CREATED:20180401T174046
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

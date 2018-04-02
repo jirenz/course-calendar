@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20180107T132504
-UID:explore_coursesa4d3432a-81b0-40e3-a702-a1dc056b3192
-DTSTAMP:20180107T132504
+LAST-MODIFIED:20180401T174143
+UID:explore_courses888bb61d-1699-49ed-bbb4-543fc219f63e
+DTSTAMP:20180401T174143
 LOCATION:McCullough 122
 DESCRIPTION:(Graduate students only enroll in ME 271e or AA 248e) A result-focused introduction to the design of winged aerial robots capable of vertical takeoff and landing for a wide range of applications. Students will learn how to ideate specific aerial robot applications and make an appropriate design from scratch that meets mission requirements. Design skill outcomes include: robot need identification based on mission requirements; system ideation and sizing; making design performance tradeoffs; aerodynamic wing design; CAD assembly; communicating the design and its application. The hands-on lab experience includes prototyping the aerial robot mission, to inform system design, by building and flying quadcopters. Prerequisites: intro level undergraduate fluid mechanics or aerodynamics (e.g. ME 70 or AA 100) or equivalent; Intro level undergraduate electronics or Arduino experience; MATLAB experience.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA248E LAB
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20180107T132504
+CREATED:20180401T174143
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

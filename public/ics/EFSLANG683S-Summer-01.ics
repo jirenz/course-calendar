@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180626T152000
-LAST-MODIFIED:20180107T132242
-UID:explore_courses88343d27-28b6-49be-b746-52d24db479d1
-DTSTAMP:20180107T132242
-LOCATION:380-380X
+DTEND;TZID=America/Los_Angeles:20180627T152000
+LAST-MODIFIED:20180401T174036
+UID:explore_coursesb40a4f9a-7948-4ec7-b72b-e70c2121d94a
+DTSTAMP:20180401T174036
+LOCATION:
 DESCRIPTION:(1-2 units) Provides support in the development of listening and speaking skills in English, including academic listening, small group discussion, oral presentation, and intercultural communication. Students taking the course for 2 units will have additional individual assignments and a 30-minute tutorial each week. Limited to visiting undergraduates and students in the High School Summer College program.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EFSLANG683S LNG
-DTSTART;TZID=America/Los_Angeles:20180626T133000
-CREATED:20180107T132242
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T152000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180627T133000
+CREATED:20180401T174036
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T152000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T132000
-LAST-MODIFIED:20180107T132419
-UID:explore_courses616ebbb6-a6ce-4c40-816e-5a64cf77284c
-DTSTAMP:20180107T132419
+LAST-MODIFIED:20180401T174117
+UID:explore_courses3fea978e-ed62-4f85-b97b-18a201fa07c7
+DTSTAMP:20180401T174117
 LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:The focus of MED223 is to fine tune critical thinking skills by analyzing original publications and understanding the current complexities of the cardiovascular system. Students will attend a lecture series presented by prominent external speakers on Tuesdays and learn new approaches and technology from Stanford faculty on Thursdays. Assigned reading  will be discussed and interpreted in class (1-2 papers per class).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED223 SEM
 DTSTART;TZID=America/Los_Angeles:20170926T123000
-CREATED:20180107T132419
+CREATED:20180401T174117
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

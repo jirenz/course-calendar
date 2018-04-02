@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20180107T132526
-UID:explore_coursesc67af468-8f9b-47a7-b487-062d234ff1a8
-DTSTAMP:20180107T132526
-LOCATION:Huang Engineering Center 203
+LAST-MODIFIED:20180401T174158
+UID:explore_coursese8446abe-6cc8-4e2d-870b-c3332800c567
+DTSTAMP:20180401T174158
+LOCATION:SpilkerEng&AppliedSci143
 DESCRIPTION:Credit risk modeling, valuation, and hedging emphasizing underlying economic, probabilistic, and statistical concepts. Point processes and their compensators. Structural, incomplete information and reduced form approaches. Single name products: corporate bonds, equity, equity options, credit and equity default swaps, forwards and swaptions. Multiname modeling: index and tranche swaps and options, collateralized debt obligations. Implementation, calibration and testing of models. Industry and market practice. Data and implementation driven group projects that focus on problems in the financial industry.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E347 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

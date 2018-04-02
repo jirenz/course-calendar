@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T103000
-LAST-MODIFIED:20180107T132404
-UID:explore_courses2c4315fe-95b8-415d-8ef7-c86ad6ce22aa
-DTSTAMP:20180107T132404
+LAST-MODIFIED:20180401T174109
+UID:explore_coursesb8508638-0ff0-4d79-9f19-b16a05dea710
+DTSTAMP:20180401T174109
 LOCATION:
 DESCRIPTION:Autumn quarter enrollment limited to ADVANCE students; instructor consent required for enrollment. Topics include: basics of R (widely used, open-source programming and data analysis environment) programming language and data structures, reading/writing files, graphics tools for figure generation, basic statistical and regression operations, survey of relevant R library packages.  Interactive format combining lectures and computer lab. For course and enrollment information, see https://web.stanford.edu/~sbagley2/bios205/
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS205 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T090000
-CREATED:20180107T132404
+CREATED:20180401T174109
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T103000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

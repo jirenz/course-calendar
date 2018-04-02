@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T125000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursesb3536d78-e1a1-42c1-99bc-a6688162df68
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174153
+UID:explore_courses38fa7cec-9e1e-4507-a992-f29da4947775
+DTSTAMP:20180401T174153
 LOCATION:160-124
 DESCRIPTION:Introduction to the fundamental concepts of computer systems through bare metal programming on the Raspberry Pi. Explores how five concepts come together in computer systems: hardware, architecture, assembly code, the C language, and software development tools. Students do all programming with a Raspberry Pi kit and several add-ons (LEDs, buttons). Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, compilation, memory organization and management, debugging, hardware, and I/O. Prerequisite: 106B or X, and consent of instructor. There is a $50 required lab fee.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS107E LEC
 DTSTART;TZID=America/Los_Angeles:20180108T113000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T125000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

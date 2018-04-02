@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T192000
-LAST-MODIFIED:20180107T132133
-UID:explore_courses237ff10f-cd54-4dca-92d0-c7f0caf4c801
-DTSTAMP:20180107T132133
+LAST-MODIFIED:20180401T173958
+UID:explore_coursesb25a2815-e8c6-4135-8159-5ecc2e54de17
+DTSTAMP:20180401T173958
 LOCATION:GSB Faculty East 259
-DESCRIPTION:For students who seek experience and advanced training in empirical research methods. Analysis of experimental data with methods ranging from simple chi-square to multiple regression models, including an introduction to mixed models. Uses the free statistical computing package R.
+DESCRIPTION:This course is designed for OIT students of all cohorts.  It will focus on alternative approaches to modeling the types of problems that arise in OIT research, based on the analysis of papers in the area.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT652 SEM
 DTSTART;TZID=America/Los_Angeles:20180110T163000
-CREATED:20180107T132133
+CREATED:20180401T173958
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T192000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

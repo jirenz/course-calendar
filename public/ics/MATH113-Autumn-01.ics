@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T122000
-LAST-MODIFIED:20180107T132316
-UID:explore_courses93b13b05-aa5a-4c6f-8b88-2b773ccbadb1
-DTSTAMP:20180107T132316
+LAST-MODIFIED:20180401T174049
+UID:explore_coursesca2cd470-5b52-4e64-9dd8-bb86f96d2a7f
+DTSTAMP:20180401T174049
 LOCATION:Econ 140
 DESCRIPTION:Algebraic properties of matrices and their interpretation in geometric terms. The relationship between the algebraic and geometric points of view and matters fundamental to the study and solution of linear equations. Topics: linear equations, vector spaces, linear dependence, bases and coordinate systems; linear transformations and matrices; similarity; eigenvectors and eigenvalues; diagonalization. (Math 104 offers a more application-oriented treatment.)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH113 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T113000
-CREATED:20180107T132316
+CREATED:20180401T174049
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

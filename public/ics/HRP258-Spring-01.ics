@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T132000
-LAST-MODIFIED:20180107T132414
-UID:explore_coursesdaf61c37-09ca-4cfe-995d-ae848db2f942
-DTSTAMP:20180107T132414
+LAST-MODIFIED:20180401T174113
+UID:explore_coursesbe87bb80-2d45-441f-9dd2-154ae94a75be
+DTSTAMP:20180401T174113
 LOCATION:Alway Building, Room M112
 DESCRIPTION:Open to medical and graduate students; required of medical students in the Clinical Research Scholarly Concentration. Tools to evaluate medical literature. Topics include random variables, expectation, variance, probability distributions, the central limit theorem, sampling theory, hypothesis testing, confidence intervals, correlation, regression, analysis of variance, and survival analysis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP258 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T120000
-CREATED:20180107T132414
+CREATED:20180401T174113
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

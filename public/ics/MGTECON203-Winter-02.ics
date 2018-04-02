@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20180107T132128
-UID:explore_coursesfd6c544e-11a9-4c64-b28c-b2735ff5ed1f
-DTSTAMP:20180107T132128
+LAST-MODIFIED:20180401T173955
+UID:explore_courses4eafd075-1c4c-4938-993e-021f68aa546a
+DTSTAMP:20180401T173955
 LOCATION:GSB Patterson 107
 DESCRIPTION:MGTECON 203 uses the same math as 200 (derivatives and algebra, and not much more) but uses it more often. Previous economics is not necessary, but it does help to be comfortable with simple mathematical models. The business world has become more quantitative and economics-oriented in the last 30 years, but many of the key ideas in economics, relating to topics such as pricing, monopoly, imperfect competition, game theory, moral hazard and adverse selection, public choice, externalities, risk aversion, capital market pricing and equilibrium, and auction theory can all be usefully approached with this relatively small amount of math. The key is for students to develop the small number of intellectual tools that enables one to analyze a wide variety of economic problems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MGTECON203 CAS
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20180107T132128
+CREATED:20180401T173955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

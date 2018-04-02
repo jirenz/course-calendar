@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T132000
-LAST-MODIFIED:20180107T132506
-UID:explore_coursesbfd85387-5e89-4df2-9ff3-82b894294ea7
-DTSTAMP:20180107T132506
+LAST-MODIFIED:20180401T174144
+UID:explore_coursesfca19fbe-b32e-4af6-bd89-2571a6445293
+DTSTAMP:20180401T174144
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Bioengineering department labs at Stanford present recent research projects and results. Guest lecturers. Topics include applications of engineering to biology, medicine, biotechnology, and medical technology, including biodesign and devices, molecular and cellular engineering, regenerative medicine and tissue engineering, biomedical imaging, and biomedical computation.  Aut, Win, Spr (Lin, Riedel-Kruse, Barron)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE393 COL
 DTSTART;TZID=America/Los_Angeles:20180108T123000
-CREATED:20180107T132506
+CREATED:20180401T174144
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

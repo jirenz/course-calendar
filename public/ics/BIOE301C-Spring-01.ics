@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T152000
-LAST-MODIFIED:20180107T132506
-UID:explore_courses17e1752d-20a8-467f-b4c5-16f8e89828a7
-DTSTAMP:20180107T132506
-LOCATION:
+LAST-MODIFIED:20180401T174144
+UID:explore_courses4ae70687-53e7-49e0-a618-ab9c314dbbed
+DTSTAMP:20180401T174144
+LOCATION:Shriram Ctr BioChemE 366
 DESCRIPTION:This course exposes students to the engineering principles and clinical application of medical devices through lectures and hands-on labs, performed in teams of two. Teams take measurements with these devices and fit their data to theory presented in the lecture. Devices covered include X-ray, CT, MRI, EEG, ECG, Ultrasound and BMI (Brain-machine interface). Prerequisites: BIOE 103 or BIOE 300B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE301C LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132506
+CREATED:20180401T174144
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

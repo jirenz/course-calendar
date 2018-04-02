@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T175000
-LAST-MODIFIED:20180107T132128
-UID:explore_courses91570323-5323-47f5-a4d2-1ef744e5a913
-DTSTAMP:20180107T132128
+LAST-MODIFIED:20180401T173955
+UID:explore_courses29654cde-a467-4a75-84a7-482945ae6f30
+DTSTAMP:20180401T173955
 LOCATION:GSB Class of 1968 101
 DESCRIPTION:This course presents a comprehensive treatment of econometric methods used in economics, finance, marketing, and other management disciplines. Among the topics covered are: the classical linear regression analysis, linear simultaneous equations systems and instrumental variables techniques, panel data models, generalized method of moments, selection models, and limited dependent variable models. This course uses Matlab or similar computational software, but previous experience with such software is not a prerequisite. This course assumes working knowledge of undergraduate econometrics, basic linear algebra, basic probability theory, and statistics that are covered in MGTECON 603. Those who did not take MGTECON 603 or similar should see the instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MGTECON604 CAS
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132128
+CREATED:20180401T173955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

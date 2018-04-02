@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T122000
-LAST-MODIFIED:20180107T132525
-UID:explore_courses41f6e1dc-5cb9-4834-b5ac-d5d4c5353762
-DTSTAMP:20180107T132525
+LAST-MODIFIED:20180401T174157
+UID:explore_courses0220cdef-fa80-4ba9-b579-9a4284668ed9
+DTSTAMP:20180401T174157
 LOCATION:Bishop Auditorium
 DESCRIPTION:First portion of the former ENGR 40, for students not pursuing degree in Electrical Engineering. Instruction to be completed in the first seven weeks of the quarter. Students wishing to complete the equivalent of ENGR 40 should enroll in both ENGR 40A and ENGR 40B. Overview of electronic circuits and applications. Electrical quantities and their measurement, including operation of the oscilloscope. Basic models of electronic components including resistors, capacitors, inductors, and the operational amplifier. Lab. Lab assignments. Enrollment limited to 300.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR40A LEC
 DTSTART;TZID=America/Los_Angeles:20180108T113000
-CREATED:20180107T132525
+CREATED:20180401T174157
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

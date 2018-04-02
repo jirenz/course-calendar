@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180604T122000
-LAST-MODIFIED:20180107T132404
-UID:explore_coursesc81e3d29-aeef-4be7-88a9-0fd94c65fa6f
-DTSTAMP:20180107T132404
+DTEND;TZID=America/Los_Angeles:20180604T135000
+LAST-MODIFIED:20180401T174109
+UID:explore_coursesed116845-243f-4e6a-b248-99e2688dad24
+DTSTAMP:20180401T174109
 LOCATION:Alway Building, Room M218
-DESCRIPTION:Mini-course. Covers the fundamentals of major single-molecule manipulation methods (optical tweezers, magnetic tweezers, and atomic force microscopy), principles of force measurement signal and noise, and applications to studies of folding, binding, measurement signal and noise, and applications to studies of folding, binding, polymer elasticity, and structural transitions in proteins and nucleic acids. Intended for students with no previous exposure to single-molecule manipulation or for beginning practitioners. Lectures and discussion of current literature.
+DESCRIPTION:Mini-course. Covers the fundamentals of major single-molecule manipulation methods (optical tweezers, magnetic tweezers, and atomic force microscopy), principles of force measurement signal and noise, and applications to studies of folding, binding, polymer elasticity, and structural transitions in proteins and nucleic acids. Intended for students with no previous exposure to single-molecule manipulation or for beginning practitioners. Lectures and discussion of current literature.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS226 LEC
-DTSTART;TZID=America/Los_Angeles:20180604T103000
-CREATED:20180107T132404
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,TU,FR
+DTSTART;TZID=America/Los_Angeles:20180604T120000
+CREATED:20180401T174109
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T135000;BYDAY=MO,TU,FR
 END:VEVENT
 END:VCALENDAR

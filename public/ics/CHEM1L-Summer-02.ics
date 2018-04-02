@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180625T183000
-LAST-MODIFIED:20180107T132221
-UID:explore_courses43f0f581-740c-467c-ba49-545de6984f0e
-DTSTAMP:20180107T132221
+LAST-MODIFIED:20180401T174025
+UID:explore_courses16ca063c-a770-4d32-8bc1-a6491df76860
+DTSTAMP:20180401T174025
 LOCATION:
 DESCRIPTION:Hands on exploration of laboratory reactions &amp; phenomena discussed in Chem 1. Learn techniques for separation of compounds: distillation, extraction and chromatography (TLC, GCMS) while investigating the nature and properties of organic compounds such as boiling points, polarity, solubility and chirality. Prerequisite: Chem 33 (or course equivalent) or Chem 1 co-requisite.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM1L LBS
 DTSTART;TZID=America/Los_Angeles:20180625T143000
-CREATED:20180107T132221
+CREATED:20180401T174025
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180713T183000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

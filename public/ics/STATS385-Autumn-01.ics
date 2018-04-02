@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170927T162000
-LAST-MODIFIED:20180107T132356
-UID:explore_courses57925c44-70a1-4d0c-a167-aeee3b8171a5
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174105
+UID:explore_courses6a8ba354-650c-4189-979d-b5b4f97e89b3
+DTSTAMP:20180401T174105
 LOCATION:200-002
 DESCRIPTION:The spectacular recent successes of deep learning are purely empirical. Nevertheless intellectuals always try to explain important developments theoretically. In this literature course we will review recent work of Burna and Mallat, Mhaskar and Poggio, Papyan and Elad, Bolsckei and co-authors, Baraniuk and co-authors, and others, seeking to build theoretical frameworks deriving deep networks as consequences. After initial background lectures, we will have some of the authors presenting lectures on specific papers.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS385 RES
 DTSTART;TZID=America/Los_Angeles:20170927T150000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

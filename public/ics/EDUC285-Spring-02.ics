@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T175000
-LAST-MODIFIED:20180107T132453
-UID:explore_courses4af70258-4bc1-4a02-9fd7-cefb879d7af2
-DTSTAMP:20180107T132453
+DTEND;TZID=America/Los_Angeles:20180404T192000
+LAST-MODIFIED:20180401T174136
+UID:explore_coursesbbcf3012-a0f5-40c3-aa24-27bf17bf588e
+DTSTAMP:20180401T174136
 LOCATION:
 DESCRIPTION:For STEP teacher candidates. Needs of exceptional learners, identification of learning differences and disabilities, and adaptations in the regular inclusion classroom. Legal requirements of special education, testing procedures, development of individualized education plans, and support systems and services. Students follow a special needs learner to understand diagnosis, student needs, and types of services.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC285 DIS
-DTSTART;TZID=America/Los_Angeles:20180402T150000
-CREATED:20180107T132453
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180404T150000
+CREATED:20180401T174136
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T122000
-LAST-MODIFIED:20180107T132511
-UID:explore_coursesf78c9c5d-46f4-4a0c-9b09-9850c1b6b848
-DTSTAMP:20180107T132511
-LOCATION:
+LAST-MODIFIED:20180401T174147
+UID:explore_courses5947fe25-4c11-4367-b12b-8b1f0d226dd3
+DTSTAMP:20180401T174147
+LOCATION:Gates B3
 DESCRIPTION:This course explores tools and techniques for computational design and parametric modeling as a foundation for design optimization. Class sessions will introduce several parametric design modeling platforms and scripting environments that enable rapid generation of 3D models and enable rapid evaluation of parametrically-driven design alternatives.nnTopics to be featured include:n-Principles of parametric design vs. direct modelingn-Design exploration using parametric modeling platforms (Revit/FormIt, Rhino)n-Visual scripting languages and environments (Dynamo, Grasshopper, DesignScript)n-Single- and multi-dimensional optimization techniques and guidance strategies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE220C LEC
 DTSTART;TZID=America/Los_Angeles:20180402T103000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

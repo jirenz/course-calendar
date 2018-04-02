@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20180107T132419
-UID:explore_courses7db77eb6-66eb-47af-b22b-da3341d7a4bf
-DTSTAMP:20180107T132419
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20180401T174117
+UID:explore_courses20bd4817-f814-42ce-8d4f-a98102ba36e5
+DTSTAMP:20180401T174117
 LOCATION:
 DESCRIPTION:MED 275B is an introduction to the Biodesign process for health technology innovation. This team-based course emphasizes interdisciplinary collaboration and hands-on learning at the intersection of medicine and technology. Students will work on projects in the space of medical devices, digital health, and healthcare technologies with the assistance of clinical and industry mentors. Applicants from all majors and stages in their education welcome. n nStudents will work in teams to develop solutions to current unmet medical needs, starting with a deep dive into understanding and characterizing important unmet medical needs through disease research, competitive analysis, market research, and stakeholder analysis. In the latter part of the course, students will go through the design cycle and build prototypes to their needs. The course will conclude with a pitch day where students will present and demonstrate their solution to a panel of judges, including prominent academics, industry professionals, and investors. Other topics that will be discussed include FDA regulation of medical technology, intellectual property, value proposition, and business model development. There will be guest speakers from Google X, IDEO, and more.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED275B LEC
-DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20180107T132419
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20180401T174117
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

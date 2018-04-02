@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T182000
-LAST-MODIFIED:20180107T132335
-UID:explore_courses83c7794f-99f9-4b93-92c9-4913a9fc68ab
-DTSTAMP:20180107T132335
+LAST-MODIFIED:20180401T174056
+UID:explore_courses9c4c08ec-2929-4caf-82aa-c2b3d9334f13
+DTSTAMP:20180401T174056
 LOCATION:Lathrop 296
 DESCRIPTION:Essential computing skills for researchers in the natural sciences. Helping students transition their computing skills from a classroom to a research environment. Topics include the Unix operating system, the Python programming language, and essential tools for data analysis, simulation, and optimization. More advanced topics as time allows. Prerequisite: CS106A or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS91SI ACT
 DTSTART;TZID=America/Los_Angeles:20180403T163000
-CREATED:20180107T132335
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

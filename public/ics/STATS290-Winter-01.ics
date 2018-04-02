@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T112000
-LAST-MODIFIED:20180107T132356
-UID:explore_coursesabadf4b9-993f-4170-ad95-78e7029a222f
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174105
+UID:explore_coursesc5f3a4e5-f236-46f0-9a04-b42adf0855df
+DTSTAMP:20180401T174105
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Programming and computing techniques for the requirements of data science: acquisition and organization of data; visualization, modelling and inference for scientific applications; presentation and interactive communication of results. Emphasis on computing for substantial projects. Software development with emphasis on R, plus other key software tools. Prerequisites: Programming experience including familiarity with R; computing at least at the level of CS 106; statistics at the level of STATS 110 or 141.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS290 SEM
 DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

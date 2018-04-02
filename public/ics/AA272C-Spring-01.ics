@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20180107T132504
-UID:explore_courses027767ef-c45c-4bf7-8b39-74860109d0ce
-DTSTAMP:20180107T132504
-LOCATION:School of Education 128
+DTEND;TZID=America/Los_Angeles:20180403T175000
+LAST-MODIFIED:20180401T174143
+UID:explore_coursesd5e6cdfd-77cf-4418-959c-3aef29939b17
+DTSTAMP:20180401T174143
+LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:The principles of satellite navigation using GPS. Positioning techniques using code tracking, single and dual frequency, carrier aiding, and use of differential GPS for improved accuracy and integrity. Use of differential carrier techniques for attitude determination and precision position determination. Prerequisite: familiarity with matrix algebra and MatLab (or another mathematical programming language).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA272C LEC
-DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20180107T132504
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T163000
+CREATED:20180401T174143
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

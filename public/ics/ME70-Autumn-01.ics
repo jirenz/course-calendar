@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T162000
-LAST-MODIFIED:20180107T132530
-UID:explore_courses7505b593-3f9a-44eb-a613-9b2cf89203da
-DTSTAMP:20180107T132530
+LAST-MODIFIED:20180401T174202
+UID:explore_coursesae8dd8a5-ad58-4a62-876c-9c2996832416
+DTSTAMP:20180401T174202
 LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Elements of fluid mechanics as applied to engineering problems. Equations of motion for incompressible ideal flow. Hydrostatics. Control volume laws for mass, momentum, and energy. Bernoulli equation. Dimensional analysis and similarity. Flow in ducts. Boundary layer flows. Lift and drag. Lab experiment demonstrations. Prerequisites: ENGR 14 and 30.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME70 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T150000
-CREATED:20180107T132530
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

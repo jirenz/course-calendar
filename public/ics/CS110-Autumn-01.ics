@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T145000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses75db7002-7f5d-42dc-a575-ac77cd77e9c6
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174153
+UID:explore_coursesadce5f71-0421-4d00-a214-308274a7250d
+DTSTAMP:20180401T174153
 LOCATION:Skillaud
 DESCRIPTION:Principles and practice of engineering of computer software and hardware systems. Topics include: techniques for controlling complexity; strong modularity using client-server design, virtual memory, and threads; networks; atomicity and coordination of parallel activities; security, and encryption; and performance optimizations. Prerequisite: 107.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS110 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T133000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

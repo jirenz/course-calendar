@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T132000
-LAST-MODIFIED:20180107T132530
-UID:explore_courses26ad3847-f6f1-4ff2-8672-25fd8363f4bf
-DTSTAMP:20180107T132530
+LAST-MODIFIED:20180401T174202
+UID:explore_courses7c284491-8cc5-40de-9594-1f836059d16c
+DTSTAMP:20180401T174202
 LOCATION:550-200
 DESCRIPTION:Lecture/Lab. Team design project series on programmable electromechanical systems design. Topics: transistors as switches, basic digital and analog circuits, operational amplifiers, comparators, software design, state machines, programming in C. Lab fee. Limited enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME218A LEC
 DTSTART;TZID=America/Los_Angeles:20170926T113000
-CREATED:20180107T132530
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180212T175000
-LAST-MODIFIED:20180107T132136
-UID:explore_courses0f6d2570-5c63-4d32-9b8d-e34f70a1bbd4
-DTSTAMP:20180107T132136
-LOCATION:
-DESCRIPTION:Advances in advertising technology, such as online publishing, digital and mobile advertising platforms, as well as new ways of consuming video content are driving a rapid evolution of the advertising market. We analyze this evolution from the perspective of three main constituents: 1) Marketers who rely on advertising to launch and sustain product sales, 2) Publishers and media owners for whom advertising often represents the largest source of monetization, and 3) Advertising agencies who design, plan and buy media for advertising campaigns. We will review challenges and opportunities from each of the three perspectives, including challenges in measurement for advertisers as well as forces that make it hard for small and medium sized publishers to monetize solely through advertising.  Guest speakers provide a perspective on current trends and technologies.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:STRAMGT518 SEM
-DTSTART;TZID=America/Los_Angeles:20180212T150000
-CREATED:20180107T132136
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180216T175000;BYDAY=MO,WE,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180129T175000
-LAST-MODIFIED:20180107T132136
-UID:explore_courses0aabf9ad-bb88-4ab0-969e-fa0bd4974dac
-DTSTAMP:20180107T132136
+LAST-MODIFIED:20180401T174001
+UID:explore_coursesa9934926-6250-4f2d-898b-d26ce3e43719
+DTSTAMP:20180401T174001
 LOCATION:GSB Gunn 102
 DESCRIPTION:Advances in advertising technology, such as online publishing, digital and mobile advertising platforms, as well as new ways of consuming video content are driving a rapid evolution of the advertising market. We analyze this evolution from the perspective of three main constituents: 1) Marketers who rely on advertising to launch and sustain product sales, 2) Publishers and media owners for whom advertising often represents the largest source of monetization, and 3) Advertising agencies who design, plan and buy media for advertising campaigns. We will review challenges and opportunities from each of the three perspectives, including challenges in measurement for advertisers as well as forces that make it hard for small and medium sized publishers to monetize solely through advertising.  Guest speakers provide a perspective on current trends and technologies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STRAMGT518 SEM
 DTSTART;TZID=America/Los_Angeles:20180129T150000
-CREATED:20180107T132136
+CREATED:20180401T174001
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180202T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180212T175000
+LAST-MODIFIED:20180401T174001
+UID:explore_courses6fa942cb-99e8-4fe4-b965-424e8185fb6f
+DTSTAMP:20180401T174001
+LOCATION:
+DESCRIPTION:Advances in advertising technology, such as online publishing, digital and mobile advertising platforms, as well as new ways of consuming video content are driving a rapid evolution of the advertising market. We analyze this evolution from the perspective of three main constituents: 1) Marketers who rely on advertising to launch and sustain product sales, 2) Publishers and media owners for whom advertising often represents the largest source of monetization, and 3) Advertising agencies who design, plan and buy media for advertising campaigns. We will review challenges and opportunities from each of the three perspectives, including challenges in measurement for advertisers as well as forces that make it hard for small and medium sized publishers to monetize solely through advertising.  Guest speakers provide a perspective on current trends and technologies.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STRAMGT518 SEM
+DTSTART;TZID=America/Los_Angeles:20180212T150000
+CREATED:20180401T174001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180216T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

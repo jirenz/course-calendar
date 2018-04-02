@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses7b760a40-4e40-4b71-869c-ba8f0c288651
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_courses7bacdf67-94a8-4c0f-8f00-2b002cc23504
+DTSTAMP:20180401T174147
 LOCATION:380-380Y
 DESCRIPTION:Introduction to Scientific Computing Numerical computation for mathematical, computational, physical sciences and engineering: error analysis, floating-point arithmetic, nonlinear equations, numerical solution of systems of algebraic equations, banded matrices, least squares, unconstrained optimization, polynomial interpolation, numerical differentiation and integration, numerical solution of ordinary differential equations, truncation error, numerical stability for time dependent problems and stiffness. Implementation of numerical methods in MATLAB programming assignments. Prerequisites: MATH 51, 52, 53; prior programming experience (MATLAB or other language at level of CS 106A or higher).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME108 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

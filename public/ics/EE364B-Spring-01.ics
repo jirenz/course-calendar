@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180611T162000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses05f762a0-ad46-491f-9cfe-03836095d18d
-DTSTAMP:20180107T132523
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20180401T174156
+UID:explore_coursesd5df2c02-85a5-401a-88f6-ed6fce383aba
+DTSTAMP:20180401T174156
 LOCATION:Herrin T175
 DESCRIPTION:Continuation of 364A. Subgradient, cutting-plane, and ellipsoid methods. Decentralized convex optimization via primal and dual decomposition. Monotone operators and proximal methods; alternating direction method of multipliers.  Exploiting problem structure in implementation. Convex relaxations of hard problems. Global optimization via branch and bound. Robust and stochastic optimization. Applications in areas such as control, circuit design, signal processing, and communications. Course requirements include project. Prerequisite: 364A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE364B LEC
-DTSTART;TZID=America/Los_Angeles:20180611T150000
-CREATED:20180107T132523
+DTSTART;TZID=America/Los_Angeles:20180402T150000
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

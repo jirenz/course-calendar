@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180122T175000
-LAST-MODIFIED:20180107T132127
-UID:explore_coursesadecb11b-3fcb-4724-860a-c05aa7062e4b
-DTSTAMP:20180107T132127
-LOCATION:
-DESCRIPTION:This course is focused on helping students understand the role boards and board members play in corporate governance and the lives of businesses large and small. This case-driven course is designed to help students who plan to serve on boards as private-equity or venture investors, entrepreneurs who will need to assemble and manage boards, and executives who realize they will need to interact with and answer to boards.nThe course is designed to help students understand the issues boards face - both routine and non-routine - through the eyes of the board member. By understanding the roles and responsibilities of board members and the mechanisms though which they exercise these duties, students will come away with an understanding of how boards function effectively (and in too many cases fail to function effectively). The course will include examining boards in a variety of contexts with a focus on three types of situations:  public for-profit companies, early-stage private companies, and not-for-profit companies of different sizes.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:ACCT523 SEM
-DTSTART;TZID=America/Los_Angeles:20180122T150000
-CREATED:20180107T132127
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180126T175000;BYDAY=MO,WE,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T175000
-LAST-MODIFIED:20180107T132127
-UID:explore_coursesd4418ad3-01ce-42bc-9a1a-8d1676c85d47
-DTSTAMP:20180107T132127
+LAST-MODIFIED:20180401T173954
+UID:explore_courses21ecb514-8e54-4536-b71b-15bf4f8bcecd
+DTSTAMP:20180401T173954
 LOCATION:GSB Patterson 107
 DESCRIPTION:This course is focused on helping students understand the role boards and board members play in corporate governance and the lives of businesses large and small. This case-driven course is designed to help students who plan to serve on boards as private-equity or venture investors, entrepreneurs who will need to assemble and manage boards, and executives who realize they will need to interact with and answer to boards.nThe course is designed to help students understand the issues boards face - both routine and non-routine - through the eyes of the board member. By understanding the roles and responsibilities of board members and the mechanisms though which they exercise these duties, students will come away with an understanding of how boards function effectively (and in too many cases fail to function effectively). The course will include examining boards in a variety of contexts with a focus on three types of situations:  public for-profit companies, early-stage private companies, and not-for-profit companies of different sizes.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ACCT523 SEM
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132127
+CREATED:20180401T173954
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180112T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180122T175000
+LAST-MODIFIED:20180401T173954
+UID:explore_courses2591e54d-80e3-49b4-8a5e-dd10d4fee029
+DTSTAMP:20180401T173954
+LOCATION:
+DESCRIPTION:This course is focused on helping students understand the role boards and board members play in corporate governance and the lives of businesses large and small. This case-driven course is designed to help students who plan to serve on boards as private-equity or venture investors, entrepreneurs who will need to assemble and manage boards, and executives who realize they will need to interact with and answer to boards.nThe course is designed to help students understand the issues boards face - both routine and non-routine - through the eyes of the board member. By understanding the roles and responsibilities of board members and the mechanisms though which they exercise these duties, students will come away with an understanding of how boards function effectively (and in too many cases fail to function effectively). The course will include examining boards in a variety of contexts with a focus on three types of situations:  public for-profit companies, early-stage private companies, and not-for-profit companies of different sizes.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ACCT523 SEM
+DTSTART;TZID=America/Los_Angeles:20180122T150000
+CREATED:20180401T173954
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180126T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T115000
-LAST-MODIFIED:20180107T132531
-UID:explore_courses9bd313d4-759a-4151-9dfd-5442fc215967
-DTSTAMP:20180107T132531
+LAST-MODIFIED:20180401T174202
+UID:explore_courses150a2161-7ede-4482-9dd8-5f8e48374475
+DTSTAMP:20180401T174202
 LOCATION:Littlefield 107
 DESCRIPTION:Exact and approximate analysis of fluid flow covering kinematics, global and differential equations of mass, momentum, and energy conservation. Forces and stresses in fluids. Euler&iquest;s equations and the Bernoulli theorem applied to inviscid flows. Vorticity dynamics. Topics in irrotational flow: stream function and velocity potential for exact and approximate solutions; superposition of solutions; complex potential function; circulation and lift. Some boundary layer concepts.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME351A LEC
 DTSTART;TZID=America/Los_Angeles:20170926T103000
-CREATED:20180107T132531
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

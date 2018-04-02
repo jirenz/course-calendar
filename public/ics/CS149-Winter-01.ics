@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T175000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses3dcee6e5-57f9-4522-9d6f-9a608294e9e8
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174153
+UID:explore_courses2ccd1c8f-c17b-4b89-8e61-b7fa6e24be2a
+DTSTAMP:20180401T174153
 LOCATION:Gates B1
 DESCRIPTION:This course is an introduction to parallelism and parallel programming.  Most new computer architectures are parallel; programming these machines requires knowledge of the basic issues of and techniques for writing parallel software. Topics:  varieties of parallelism in current hardware (e.g., fast networks, multicore, accelerators such as GPUs, vector instruction sets), importance of locality, implicit vs. explicit parallelism, shared vs. non-shared memory, synchronization mechanisms (locking, atomicity, transactions, barriers), and parallel programming models (threads, data parallel/streaming, MapReduce, Apache Spark, SPMD, message passing, SIMT, transactions, and nested parallelism).  Significant parallel programming assignments will be given as homework.  The course is open to students who have completed the introductory CS course sequence through 110 and have taken CS 143.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS149 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T163000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

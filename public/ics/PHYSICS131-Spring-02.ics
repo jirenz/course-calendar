@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180406T162000
-LAST-MODIFIED:20180107T132335
-UID:explore_coursesb30c3b0d-bc25-4cb0-a548-6641c053a721
-DTSTAMP:20180107T132335
-LOCATION:Hewlett Teaching Center Rm 101
+LAST-MODIFIED:20180401T174056
+UID:explore_courses8c75a300-050f-48cb-b432-e781ce0fdafd
+DTSTAMP:20180401T174056
+LOCATION:Lathrop 292
 DESCRIPTION:Identical particles; Fermi and Bose statistics. Time-independent perturbation theory. Fine structure, the Zeeman effect and hyperfine splitting in the hydrogen atom. Time-dependent perturbation theory. Variational principle and WKB approximation.  Prerequisite: PHYSICS 120, PHYSICS 130, PHYSICS 111 or MATH 131P, or MATH 173.  Pre- or corequisite: PHYSICS 121.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS131 DIS
 DTSTART;TZID=America/Los_Angeles:20180406T150000
-CREATED:20180107T132335
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

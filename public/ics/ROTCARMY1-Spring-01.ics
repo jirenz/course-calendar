@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180404T170000
-LAST-MODIFIED:20180107T132142
-UID:explore_courses0bdff1b6-1d8a-4e36-977d-9953678acd8e
-DTSTAMP:20180107T132142
+LAST-MODIFIED:20180401T174006
+UID:explore_courses2e31eb9d-17bd-4f6f-873f-7bd0b8e89c4a
+DTSTAMP:20180401T174006
 LOCATION:
 DESCRIPTION:Leadership laboratories, held weekly for three hours, are required of all students. Performance during lab periods is reflected in the student's course grade. Labs include activities such as rappelling, terrain navigation, marksmanship, drill and ceremonies, and tactical field training exercises.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ROTCARMY1 ACT
 DTSTART;TZID=America/Los_Angeles:20180404T141500
-CREATED:20180107T132142
+CREATED:20180401T174006
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T170000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

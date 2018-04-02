@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180405T172000
-LAST-MODIFIED:20180107T132342
-UID:explore_courses0a36850b-7d3b-4a3d-afb9-d1f7596a877a
-DTSTAMP:20180107T132342
-LOCATION:School of Education 313
-DESCRIPTION:Provides students with a basic understanding of the technologies, policies, and investments behind energy efficiency. Explores each of these dimensions, and their interplay, through structured lectures and expert perspectives from leading professionals and practitioners. The seminar covers the following energy efficiency topics: fundamental concepts; history and achievements; role of policy and new policy frameworks; investment, strategy and finance; evolving digital/analytical and platform tools; international development; low income programs; relationship between efficiency and climate change; energy efficiency and the changing grid; and new entrants and business models. Limited to 30 students. Prerequisites required.
+DTEND;TZID=America/Los_Angeles:20180403T172000
+LAST-MODIFIED:20180401T174100
+UID:explore_coursesba38db05-9fd9-4d99-b4d3-453f9d719c02
+DTSTAMP:20180401T174100
+LOCATION:160-318
+DESCRIPTION:Provides students with a basic understanding of the technologies, policies, and investments behind energy efficiency. Explores each of these dimensions, and their interplay, through structured lectures and expert perspectives from leading professionals and practitioners. The seminar covers the following energy efficiency topics: fundamental concepts; history and achievements; role of policy and new policy frameworks; investment, strategy and finance; evolving digital/analytical and platform tools; low income programs; international development; relationship between efficiency and climate change; energy efficiency and the changing grid; and new entrants and business models. Limited to 30 students. Prerequisite: at least one &iquest; or equivalent &iquest; of CEE 100, CEE 226A, CEE 107A/207A, ENVRES 280, LAW 2503, GSBGEN 532.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PUBLPOL342 SEM
-DTSTART;TZID=America/Los_Angeles:20180405T163000
-CREATED:20180107T132342
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180403T163000
+CREATED:20180401T174100
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

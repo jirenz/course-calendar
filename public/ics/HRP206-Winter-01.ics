@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180112T122000
-LAST-MODIFIED:20180107T132414
-UID:explore_coursescd12cf14-9dfc-40fb-8a31-9374d878c9ab
-DTSTAMP:20180107T132414
-LOCATION:50-52H
+LAST-MODIFIED:20180401T174113
+UID:explore_courses48db3bf2-1178-40d8-84b2-f9a15981a1d1
+DTSTAMP:20180401T174113
+LOCATION:60-109
 DESCRIPTION:Open to graduate, medical, and undergraduate students. Appraisal of the quality and credibility of research findings; evaluation of sources of bias. Meta-analysis as a quantitative (statistical) method for combining results of independent studies. Examples from medicine, epidemiology, genomics, ecology, social/behavioral sciences, education. Collaborative analyses. Project involving generation of a meta-research project or reworking and evaluation of an existing published meta-analysis. Prerequisite: knowledge of basic statistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP206 SEM
 DTSTART;TZID=America/Los_Angeles:20180112T093000
-CREATED:20180107T132414
+CREATED:20180401T174113
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

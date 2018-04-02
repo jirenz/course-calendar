@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T112000
-LAST-MODIFIED:20180107T132530
-UID:explore_coursesa3df6644-b751-4427-abf6-47a0ec15ea3c
-DTSTAMP:20180107T132530
-LOCATION:Herrin T175
+LAST-MODIFIED:20180401T174202
+UID:explore_courses2f735684-585b-409a-bf70-10bf4e8e3fe2
+DTSTAMP:20180401T174202
+LOCATION:Skillaud
 DESCRIPTION:Sensors are widely used in scientific research and as an integral part of commercial products and automated systems. The basic principles for sensing displacement, force, pressure, acceleration, temperature, optical radiation, nuclear radiation, and other physical parameters. Performance, cost, and operating requirements of available sensors. Elementary electronic circuits which are typically used with sensors. Lecture demonstration of a representative sensor from each category elucidates operating principles and typical performance. Lab experiments with off-the-shelf devices. Recommended Pre-requisites or equivalent knowledge: Physics 43 electromagnetism, Physics 41 mechanics, Math 53 Taylor series approximation, 2nd order Ordinary Diff Eqns, ENGR40A/Engr40 or ME210, i.e. some exposure to building basic circuits
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME220 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T093000
-CREATED:20180107T132530
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20180107T132530
-UID:explore_courses3f95dba7-f027-4d3a-97cb-73f478af8566
-DTSTAMP:20180107T132530
+LAST-MODIFIED:20180401T174202
+UID:explore_courses788daf4c-c29e-470c-a9a8-83b35b326efc
+DTSTAMP:20180401T174202
 LOCATION:160-124
 DESCRIPTION:Introduction to the application of mechanical engineering analysis to understand human physiology and disease.  Topics include basics of musculoskeletal force analysis, cell mechanics, blood flow, and mechanical behaviors of tissues.  Undergraduates should have taken ME 70 and ME 80 or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME283 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T150000
-CREATED:20180107T132530
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

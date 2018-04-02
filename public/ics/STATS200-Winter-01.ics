@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T122000
-LAST-MODIFIED:20180107T132356
-UID:explore_courses969eaf02-af4f-4541-8a09-2d32981a9f96
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174105
+UID:explore_coursesbcf33091-4f66-47e0-8b44-b48bc4431e31
+DTSTAMP:20180401T174105
 LOCATION:370-370
 DESCRIPTION:Modern statistical concepts and procedures derived from a mathematical framework. Statistical inference, decision theory; point and interval estimation, tests of hypotheses; Neyman-Pearson theory. Bayesian analysis; maximum likelihood, large sample theory. Prerequisite: 116. http://statweb.stanford.edu/~sabatti/Stat200/index.html
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS200 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T113000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

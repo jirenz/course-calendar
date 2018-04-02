@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20180107T132456
-UID:explore_coursesf816aea5-7a38-4fbd-91d2-c0bada7a87f2
-DTSTAMP:20180107T132456
+LAST-MODIFIED:20180401T174139
+UID:explore_courses403b626e-c1f9-435a-a920-a22205e8a6d3
+DTSTAMP:20180401T174139
 LOCATION:Green Earth Sciences104
 DESCRIPTION:For earth scientists and engineers. Interdisciplinary, providing a practical understanding of the interpretation of well logs. Lectures, problem sets using real field examples: methods for evaluating the presence of hydrocarbons in rock formations penetrated by exploratory and development drilling. The fundamentals of all types of logs, including electric and non-electric logs.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY130 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20180107T132456
+CREATED:20180401T174139
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

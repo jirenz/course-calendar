@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses748c424f-e965-4ff6-b666-426b0cb7cf4b
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_courses6218d854-905c-4827-b23f-903939947d95
+DTSTAMP:20180401T174154
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Availability of massive datasets is revolutionizing science and industry. This course discusses data mining and machine learning algorithms for analyzing very large amounts of data. The focus is on algorithms and systems for mining big data. nTopics include: Big data systems (Hadoop, Spark, Hive); Link Analysis (PageRank, spam detection, hubs-and-authorities); Similarity search (locality-sensitive hashing, shingling, minhashing, random hyperplanes); Stream data processing; Analysis of social-network graphs; Association rules; Dimensionality reduction (UV, SVD, and CUR decompositions); Algorithms for very-large-scale mining (clustering, nearest-neighbor search); Large-scale machine learning (gradient descent, support-vector machines, classification, and regression); Submodular function optimization; Computational advertising. Prerequisites: At least one of CS107 or CS145.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS246 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

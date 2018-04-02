@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20180107T132316
-UID:explore_coursesae0c8380-8877-4277-b64c-07470679c14e
-DTSTAMP:20180107T132316
+LAST-MODIFIED:20180401T174049
+UID:explore_courses344831ed-57e8-44f9-89f2-ae1b5db9c7d3
+DTSTAMP:20180401T174049
 LOCATION:Herrin T175
 DESCRIPTION:An introductory course in graph theory establishing fundamental concepts and results in variety of topics. Topics include: basic notions, connectivity, cycles, matchings, planar graphs, graph coloring, matrix-tree theorem, conditions for hamiltonicity, Kuratowski's theorem, Ramsey and Turan-type theorem. Prerequisites: 51 or equivalent and some familiarity with proofs is required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH107 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132316
+CREATED:20180401T174049
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

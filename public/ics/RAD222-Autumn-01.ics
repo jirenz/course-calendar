@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T102000
-LAST-MODIFIED:20180107T132440
-UID:explore_courses4f6c3cce-abc1-4c97-8cfc-c12f767c4a4f
-DTSTAMP:20180107T132440
+LAST-MODIFIED:20180401T174129
+UID:explore_coursesc681de41-df86-4b15-aab7-a6d2f987736b
+DTSTAMP:20180401T174129
 LOCATION:
 DESCRIPTION:Focuses on instruments, algorithms and other technologies for imaging of cellular and molecular processes in living subjects. Introduces preclinical and clinical molecular imaging modalities, including strategies for molecular imaging using PET, SPECT, MRI, Ultrasound, Optics, and Photoacoustics. For each modality, lectures cover the basics of the origin and properties of imaging signal generation, instrumentation physics and engineering of signal detection, image signal processing, image reconstruction, and image data quantification.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:RAD222 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T083000
-CREATED:20180107T132440
+CREATED:20180401T174129
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

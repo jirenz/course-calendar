@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T175000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursese086f760-33ac-4dd8-804b-3bc16e586611
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_coursese029aaad-1cbe-4e8b-ac05-3909085e036a
+DTSTAMP:20180401T174154
 LOCATION:Gates B1
 DESCRIPTION:Program analysis techniques used in compilers and software development tools to improve productivity, reliability, and security. The methodology of applying mathematical abstractions such as graphs, fixpoint computations, binary decision diagrams in writing complex software, using compilers as an example. Topics include data flow analysis, instruction scheduling, register allocation, parallelism, data locality, interprocedural analysis, and garbage collection. Prerequisites: 103 or 103B, and 107.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS243 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T163000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

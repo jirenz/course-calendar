@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180404T145000
-LAST-MODIFIED:20180107T132155
-UID:explore_coursesc4c8c433-d2e4-4a13-b9bf-62486f051f46
-DTSTAMP:20180107T132155
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20180401T174016
+UID:explore_courses887b2f55-a8ba-4d5d-80bd-413da7d13ae7
+DTSTAMP:20180401T174016
 LOCATION:40-42A
 DESCRIPTION:Preparation for anthropological field research in other societies and the U.S. Data collection techniques include participant observation, interviewing, surveys, sampling procedures, life histories, ethnohistory, and the use of documentary materials. Strategies for successful entry into the community, research ethics, interpersonal dynamics, and the reflexive aspects of fieldwork. Service Learning Course (certified by Haas Center).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO93B LAB
-DTSTART;TZID=America/Los_Angeles:20180404T133000
-CREATED:20180107T132155
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20180401T174016
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

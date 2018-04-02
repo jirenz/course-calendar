@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T165000
-LAST-MODIFIED:20180107T132323
-UID:explore_courses6ee34835-c0e2-46f4-86b2-f97afca1285d
-DTSTAMP:20180107T132323
+LAST-MODIFIED:20180401T174052
+UID:explore_courses2adb6fa5-e247-4f61-98c8-a0e14ce17536
+DTSTAMP:20180401T174052
 LOCATION:Knoll217
 DESCRIPTION:Spectrum analysis and signal processing using Fast Fourier Transforms (FFTs) with emphasis on audio applications. Topics: Fourier theorems; FFT windows; spectrum analysis; spectrograms; sinusoidal modeling; spectral modeling synthesis; FFT convolution; FIR filter design and system identification; overlap-add and filter-bank-summation methods for short-time Fourier analysis, modification, and resynthesis. See http://ccrma.stanford.edu/courses/421/. Prerequisites: Music 320A and Music 320B or equivalent background in spectrum analysis and linear systems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC421A LEC
 DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20180107T132323
+CREATED:20180401T174052
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T165000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

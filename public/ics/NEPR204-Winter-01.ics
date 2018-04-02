@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T160000
-LAST-MODIFIED:20180107T132424
-UID:explore_courses2f10ef99-c647-4ed8-856d-f67b9de45570
-DTSTAMP:20180107T132424
+LAST-MODIFIED:20180401T174119
+UID:explore_coursesd088050a-b2b5-4783-b575-9011153c1b8e
+DTSTAMP:20180401T174119
 LOCATION:
 DESCRIPTION:For first-year Neurosciences graduate students; open to other graduate students as space permits with preference given to Neuroscience students. Course provides an overview of molecular neuroscience by focusing on a few selected key topics, such as molecular neuroscience methods, voltage-gated ion channels, synaptic transmission, neuronal gene expression, and signal transduction pathways.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NEPR204 WKS
 DTSTART;TZID=America/Los_Angeles:20180108T130000
-CREATED:20180107T132424
+CREATED:20180401T174119
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180124T160000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

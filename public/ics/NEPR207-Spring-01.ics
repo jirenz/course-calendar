@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T161500
-LAST-MODIFIED:20180107T132424
-UID:explore_courses553018a7-a224-4305-a1cb-546f93d246f0
-DTSTAMP:20180107T132424
+LAST-MODIFIED:20180401T174119
+UID:explore_coursesb8737ece-c341-4f02-a5a0-f7e6182a19a9
+DTSTAMP:20180401T174119
 LOCATION:Alway Building, Room M206
 DESCRIPTION:For first-year Neurosciences graduate students; open to other graduate students as space permits with preference given to Neuroscience students. Focus is on several domains of cognitive function where cognitive neuroscience approaches have been successfully applied across many different model systems from mice to monkeys to humans: attention, decision-making, and memory.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NEPR207 WKS
 DTSTART;TZID=America/Los_Angeles:20180403T140000
-CREATED:20180107T132424
+CREATED:20180401T174119
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T161500;BYDAY=TU,WE,TH
 END:VEVENT
 END:VCALENDAR

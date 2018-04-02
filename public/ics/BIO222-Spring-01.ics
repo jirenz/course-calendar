@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180406T162000
-LAST-MODIFIED:20180107T132218
-UID:explore_courses1fd93dc6-1be1-424a-9699-18012f17be3a
-DTSTAMP:20180107T132218
+LAST-MODIFIED:20180401T174022
+UID:explore_courses3634841d-7f03-48c4-a4ce-ccdd3da702ea
+DTSTAMP:20180401T174022
 LOCATION:STLC104
 DESCRIPTION:Seminar. The logic of how neural circuits control behavior; how neural circuits are assembled during development and modified by experience. Emphasis is on primary literature. Topics include: neurons as information processing units; simple and complex circuits underlying sensory information processing and motor control; and development and plasticity of neural circuits. Advanced undergraduates and graduate students with background in physical science, engineering, and biology may apply to enroll. Enrollment is by application only. Recommended: background in neuroscience.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIO222 SEM
 DTSTART;TZID=America/Los_Angeles:20180406T133000
-CREATED:20180107T132218
+CREATED:20180401T174022
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:00060405T192000
-LAST-MODIFIED:20180107T132419
-UID:explore_courses516e3806-a887-4594-a78b-a19beb24c39b
-DTSTAMP:20180107T132419
+DTEND;TZID=America/Los_Angeles:20180402T192000
+LAST-MODIFIED:20180401T174117
+UID:explore_courses3ec80e83-6e3f-4efc-a53b-10cd0c994597
+DTSTAMP:20180401T174117
 LOCATION:Health Research & PolicyT138B
 DESCRIPTION:Third of a three-quarter course series that provides students with knowledge and concrete skills for working with and advocating for underserved populations. Through coursework and placements in community health clinics and social service organizations, students broaden and deepen their understanding of the social and economic determinants of health, how they impact underserved populations, and the various levels at which these challenges can &iquest; and should &iquest; be addressed.  Student engage in structured activities that center around supporting the mission of their placement organization:  direct service with clients and design and implementation of a capacity-building project.  Weekly evening classroom meetings serve as a forum for teaching and training, discussion of class readings and placement experiences, project development, and troubleshooting and support.  Prerequisites:  MED 257A/B.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED161C SEM
-DTSTART;TZID=America/Los_Angeles:00060405T173000
-CREATED:20180107T132419
+DTSTART;TZID=America/Los_Angeles:20180402T173000
+CREATED:20180401T174117
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

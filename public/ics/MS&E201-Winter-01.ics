@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132526
-UID:explore_courses80572c03-7060-42ee-a52e-97c00eb0c059
-DTSTAMP:20180107T132526
+LAST-MODIFIED:20180401T174158
+UID:explore_courses8406c108-97e2-4f98-a9db-15502b559618
+DTSTAMP:20180401T174158
 LOCATION:Huang Engineering Center 18
 DESCRIPTION:Provides a solid foundation in understanding and modeling the dynamics of change. Differential equations are used as a mathematical language to facilitate discussions on dynamic phenomena. Develop mathematical tools to analyze the dynamic models, and use such tools to think about and manage the dynamics of change. The analytical part of the course will be on mathematical analysis of linear and nonlinear dynamic systems. The notions of equilibrium, stability, growth and limit cycle will be introduced and discussed in terms of examples in business competition, organizational hierarchy, population dynamics, social interactions, ecology and spread of epidemics. Introduction to Catastrophe Theory, which provides a mathematical model for certain discontinuous phenomena like the crash of the stock market and the extinction of species. Required project in dynamic system modeling. Prerequisite: Math 104 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E201 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

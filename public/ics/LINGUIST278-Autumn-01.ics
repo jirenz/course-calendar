@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T172000
-LAST-MODIFIED:20180107T132313
-UID:explore_coursesa7b1db61-9291-4ff3-b5cb-3f9710a310cc
-DTSTAMP:20180107T132313
+LAST-MODIFIED:20180401T174047
+UID:explore_courses3b122a4b-3d27-4570-b2cd-e4cab835937e
+DTSTAMP:20180401T174047
 LOCATION:460-126
 DESCRIPTION:Computer programming techniques for collecting and analyzing data in linguistic research. Introduction to the UNIX, regular expressions, and Python scripting. Hands-on experience gathering, formatting, and manipulating corpus, field, and experimental data, combining data from multiple sources, and working with existing tools.  Knowledge of computer programming not required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LINGUIST278 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T153000
-CREATED:20180107T132313
+CREATED:20180401T174047
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

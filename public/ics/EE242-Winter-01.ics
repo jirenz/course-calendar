@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses70bd3583-5ebb-483d-918b-b82426049acf
-DTSTAMP:20180107T132523
-LOCATION:Hewlett Teaching Center 103
+DTEND;TZID=America/Los_Angeles:20180108T175000
+LAST-MODIFIED:20180401T174156
+UID:explore_courses4e15340e-6c7c-4d12-b5ad-8ac9889490da
+DTSTAMP:20180401T174156
+LOCATION:320-106
 DESCRIPTION:Continuation of 142. Maxwell's equations. Plane waves in lossless and lossy media. Skin effect. Flow of electromagnetic power (Poynting's theorem). Reflection and refraction of waves at planar boundaries. Snell's law and total internal reflection. Reflection and refraction from lossy media. Guided waves. Parallel-plate and dielectric-slab waveguides. Hollow wave-guides, cavity resonators, microstrip waveguides, optical fibers. Interaction of fields with matter and particles. Antennas and radiation of electromagnetic energy. Prerequisites: EE 142 or PHYSICS 120.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE242 LEC
-DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132523
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180108T163000
+CREATED:20180401T174156
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T192000
-LAST-MODIFIED:20180107T132526
-UID:explore_courses7b06842e-9459-43b2-8ff7-da45959eb814
-DTSTAMP:20180107T132526
+LAST-MODIFIED:20180401T174158
+UID:explore_courses678e5f1d-d2eb-4ace-987a-ae94d089b4f8
+DTSTAMP:20180401T174158
 LOCATION:380-380W
 DESCRIPTION:Project course emphasizing the connection between data, models, and reality. Vast amounts of high volume, high frequency observations of financial quotes, orders and transactions are now available, and poses a unique set of challenges. This type of data will be used as the empirical basis for modeling and testing various ideas within the umbrella of algorithmic trading and quantitative modeling related to the dynamics and micro-structure of financial markets. Due to the fact that it is near impossible to perform experiments in finance, there is a need for empirical inference and intuition, any model should also be justified in terms of plausibility that goes beyond pure econometric and data mining approaches. Introductory lectures, followed by real-world type projects to get a hands-on experience with realistic challenges and hone skills needed in the work place. Work in groups on selected projects that will entail obtaining and cleaning the raw data and becoming familiar with techniques and challenges in handling big data sets.  Develop a framework for modeling and testing  (in computer languages such as Python, C++ , Matlab and R) and prepare presentations to present to the class. Example projects include optimal order execution, developing a market making algorithm, design of an intra-day trading strategy, and modeling the dynamics of the bid and ask. Prerequisites: MS&amp;E 211, 242, 342, or equivalents, some exposure to statistics and programming. Enrollment limited. Admission by application; details at first class.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E448 WKS
 DTSTART;TZID=America/Los_Angeles:20180403T163000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

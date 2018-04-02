@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T162000
-LAST-MODIFIED:20180107T132506
-UID:explore_courses80f8b2a7-89fe-412c-a453-1d517f55d911
-DTSTAMP:20180107T132506
+LAST-MODIFIED:20180401T174144
+UID:explore_courses7ed10621-25e0-4b62-bf49-d19dd2c1c1fa
+DTSTAMP:20180401T174144
 LOCATION:
 DESCRIPTION:Lecture/Lab. Second course of two-quarter capstone sequence. Team based project introduces students to the process of designing new biological technologies to address societal needs. Emphasis is on implementing and testing the design from the first quarter with the at least one round of prototype iteration.  Guest lectures and practical demonstrations are incorporated. Prerequisites: BIOE123 and BIOE44. This course is open only to seniors in the undergraduate Bioengineering program. IMPORTANT NOTE: class meets in Shriram 112.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE141B LBS
 DTSTART;TZID=America/Los_Angeles:20180110T133000
-CREATED:20180107T132506
+CREATED:20180401T174144
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T132000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses7f8c264d-f7c3-4d77-8538-e263d505d197
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174148
+UID:explore_courses5fb6a0cd-f613-4df8-a013-46d3d8c1bf5c
+DTSTAMP:20180401T174148
 LOCATION:260-113
 DESCRIPTION:The emergence of clusters of commodity machines with parallel processing units has brought with it a slew of new algorithms and tools. Many fields such as Machine Learning and Optimization have adapted their algorithms to handle such clusters. Topics include distributed and parallel algorithms for: Optimization, Numerical Linear Algebra, Machine Learning, Graph analysis, Streaming algorithms, and other problems that are challenging to scale on a commodity cluster. The class will focus on analyzing parallel and distributed programs, with some implementation using Apache Spark and TensorFlow.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME323 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T120000
-CREATED:20180107T132511
+CREATED:20180401T174148
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

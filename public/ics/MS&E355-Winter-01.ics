@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20180107T132526
-UID:explore_courses16a17409-a664-4e14-a0f5-dd46c9c38d1a
-DTSTAMP:20180107T132526
+LAST-MODIFIED:20180401T174158
+UID:explore_courses6b9877a7-2968-4211-abcd-243b2324b011
+DTSTAMP:20180401T174158
 LOCATION:240-110
 DESCRIPTION:Network representations for reasoning under uncertainty: influence diagrams, belief networks, and Markov networks. Structuring and assessment of decision problems under uncertainty. Learning from evidence. Conditional independence and requisite information. Node reductions. Belief propagation and revision. Simulation. Linear-quadratic-Gaussian decision models and Kalman filters. Dynamic processes. Bayesian meta-analysis. Prerequisites: 220, 252, or equivalents, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E355 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

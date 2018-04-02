@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180112T162000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses8ae02fac-3b13-4b74-a011-6cdebdf813d0
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_courses5156d180-daa5-4627-be21-0c9a977d20f5
+DTSTAMP:20180401T174154
 LOCATION:Gates100
 DESCRIPTION:Methods for modeling biomedical systems and for building model-based software systems. Emphasis is on intelligent systems for decision support and Semantic Web applications. Topics: knowledge representation, controlled terminologies, ontologies, reusable problem solvers, and knowledge acquisition. Students learn about current trends in the development of advanced biomedical software systems and acquire hands-on experience with several systems and tools. Prerequisites: CS106A, basic familiarity with biology.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS270 DIS
 DTSTART;TZID=America/Los_Angeles:20180112T153000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

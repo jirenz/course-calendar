@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20180107T132335
-UID:explore_courses514699cd-c4a7-45cf-b280-1669320d1ab9
-DTSTAMP:20180107T132335
+LAST-MODIFIED:20180401T174056
+UID:explore_courses965a95f8-7745-4a78-9dd0-ec00a00fff55
+DTSTAMP:20180401T174056
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Special relativity: The principles of relativity, Lorentz transformations, four vectors and tensors, relativistic mechanics and the principle of least action. Lagrangian formulation, charges in electromagnetic fields, gauge invariance, the electromagnetic field tensor, covariant equations of electrodynamics and mechanics, four-current and continuity equation. Noether's theorem and conservation laws, Poynting's theorem, stress-energy tensor.  Constant electromagnetic fields: conductors and dielectrics, magnetic media, electric and magnetic forces, and energy.  Electromagnetic waves: Plane and monochromatic waves, spectral resolution, polarization, electromagnetic properties of matter, dispersion relations, wave guides and cavities.  Prerequisites: PHYSICS 121 and PHYSICS 210, or equivalent; MATH 106 or MATH 116, and MATH 132 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS220 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20180107T132335
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

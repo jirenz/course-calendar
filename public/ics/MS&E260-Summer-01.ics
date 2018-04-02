@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180625T115000
-LAST-MODIFIED:20180107T132526
-UID:explore_courses931ebbc7-5532-491d-b631-7dcd12c5e1a4
-DTSTAMP:20180107T132526
-LOCATION:
+LAST-MODIFIED:20180401T174158
+UID:explore_courses9931f73c-5aa2-4247-bf38-2a49ba902ab6
+DTSTAMP:20180401T174158
+LOCATION:Skillaud
 DESCRIPTION:Operations management focuses on the effective planning, scheduling, and control of manufacturing and service entities. This course introduces students to a broad range of key issues in operations management. Topics include determination of optimal facility location, production planning, optimal timing and sizing of capacity expansion, and inventory control. Prerequisites: basic knowledge of Excel spreadsheets, probability.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E260 LEC
 DTSTART;TZID=America/Los_Angeles:20180625T103000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T115000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

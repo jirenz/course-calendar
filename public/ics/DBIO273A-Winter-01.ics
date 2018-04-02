@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T145000
-LAST-MODIFIED:20180107T132408
-UID:explore_courses6db9df5b-4e9a-4a78-b06e-fefe1ae733fa
-DTSTAMP:20180107T132408
+LAST-MODIFIED:20180401T174111
+UID:explore_courses44c614ff-bc4d-449d-9c48-da984b462665
+DTSTAMP:20180401T174111
 LOCATION:Beckman Center B302
 DESCRIPTION:A computational introduction to the most amazing programming language on the planet: your genome. Topics include genome sequencing (assembling source code from code fragments); the human genome functional landscape: variable assignments (genes), control-flow logic (gene regulation) and run-time stack (epigenomics); human disease and personalized genomics (as a hunt for bugs in the human code); genome editing (code injection) to cure the incurable; and the source code behind amazing animal adaptations. Algorithmic approaches will introduce ideas from computational genomics, machine learning and natural language processing. Course includes primers on molecular biology, and text processing languages. No prerequisites.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DBIO273A LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20180107T132408
+CREATED:20180401T174111
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

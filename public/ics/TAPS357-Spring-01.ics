@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180404T122000
-LAST-MODIFIED:20180107T132357
-UID:explore_coursesc2cd27fc-e52f-47d7-9fa3-56fe23dc630e
-DTSTAMP:20180107T132357
+DTEND;TZID=America/Los_Angeles:20180405T115000
+LAST-MODIFIED:20180401T174106
+UID:explore_courses52e10b21-b8b7-489b-b7ca-968d7acdb447
+DTSTAMP:20180401T174106
 LOCATION:ROBLEG139
 DESCRIPTION:This course takes up a geographically expansive conversation by looking at modern and contemporary drama from nations including Ghana, Egypt, India, Argentina, among others. Considering influential texts from the Global South will also enable us to explore a range of themes and methodologies that are radically re-shaping the field of Performance Studies. We will examine the relationship between colonialism and globalization, empire and capital, cosmopolitanism and neoliberalism. Re-situating our perspective from the Global South and the non-western world, we will &iquest;provincialize Europe&iquest; and probe the limits of its universalizing discourses.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:TAPS357 SEM
-DTSTART;TZID=America/Los_Angeles:20180404T093000
-CREATED:20180107T132357
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180405T090000
+CREATED:20180401T174106
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T132000
-LAST-MODIFIED:20180107T132419
-UID:explore_courses1a4a50a6-d95a-4ecd-ac97-dbed3865d75f
-DTSTAMP:20180107T132419
+LAST-MODIFIED:20180401T174117
+UID:explore_courses4bc99669-de74-46bf-a942-a7d12c64a140
+DTSTAMP:20180401T174117
 LOCATION:Alway Building, Room M114
 DESCRIPTION:The focus of MED223 is to fine tune critical thinking skills by analyzing original publications and understanding the current complexities of the cardiovascular system. Students will attend a lecture series presented by prominent external speakers on Tuesdays and learn new approaches and technology from Stanford faculty on Thursdays. Assigned reading  will be discussed and interpreted in class (1-2 papers per class).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED223 SEM
 DTSTART;TZID=America/Los_Angeles:20180109T123000
-CREATED:20180107T132419
+CREATED:20180401T174117
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

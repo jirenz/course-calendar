@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20180107T132511
-UID:explore_coursesbbb2106d-2fcd-4143-b447-5a92c091920d
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_coursescdcc8ef4-cddd-4282-8f28-80b084cdf5b2
+DTSTAMP:20180401T174147
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Geometric interpretation of partial differential equation (PDE) characteristics; solution of first order PDEs and classification of second-order PDEs; self-similarity; separation of variables as applied to parabolic, hyperbolic, and elliptic PDEs; special functions; eigenfunction expansions; the method of characteristics. If time permits, Fourier integrals and transforms, Laplace transforms. Prerequisite: CME 200/ME 300A, equivalent, or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME204 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20180107T132523
-UID:explore_coursesbc4445c6-429e-4da0-8eee-175eff6942c9
-DTSTAMP:20180107T132523
-LOCATION:Thornt208
+LAST-MODIFIED:20180401T174156
+UID:explore_courses4d97dfec-ac3d-4985-ad69-e776ba614c27
+DTSTAMP:20180401T174156
+LOCATION:320-107
 DESCRIPTION:Design and understanding of modern optical systems. Topics: geometrical optics; aberration theory; systems layout; applications such as microscopes, telescopes, optical processors. Computer ray tracing program as a design tool. Prerequisite: 236A or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE347 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

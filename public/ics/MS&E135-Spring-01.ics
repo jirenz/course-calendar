@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20180107T132526
-UID:explore_coursese8985bb0-605c-45b0-b0a2-f2a2bce3db3c
-DTSTAMP:20180107T132526
-LOCATION:380-380C
+LAST-MODIFIED:20180401T174158
+UID:explore_coursesc22e455e-60d6-4300-b754-866f3eeddc53
+DTSTAMP:20180401T174158
+LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:This course provides an introduction to how networks underly our social, technological, and natural worlds, with an emphasis on developing intuitions for broadly applicable concepts in network analysis. The course will include: an introduction to graph theory and graph concepts; social networks; information networks; the aggregate behavior of markets and crowds; network dynamics; information diffusion; the implications of popular concepts such as &quot;six degrees of separation&quot;, the &quot;friendship paradox&quot;, and the &quot;wisdom of crowds&quot;.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E135 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

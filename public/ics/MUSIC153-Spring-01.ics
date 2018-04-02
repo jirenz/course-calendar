@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T112000
-LAST-MODIFIED:20180107T132322
-UID:explore_courses4973e0f1-3437-40b9-8353-90980fae1a22
-DTSTAMP:20180107T132322
+LAST-MODIFIED:20180401T174052
+UID:explore_courses823caf04-f82f-4e75-b31b-bb1f4b1f2818
+DTSTAMP:20180401T174052
 LOCATION:Knoll217
 DESCRIPTION:Today's vast amount of streaming and video conferencing on the Internet lacks one aspect of musical fun and that's what this course is about: high-quality, near-synchronous musical collaboration. Under the right conditions, the Internet can be used for ultra-low-latency, uncompressed sound transmission. The course teaches open-source (free) techniques for setting up city-to-city studio-to-studio audio links. Distributed rehearsing, production and split ensemble concerts are the goal. Setting up such links and debugging them requires knowledge of network protocols, network audio issues and some ear training.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC153 PRA
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20180107T132322
+CREATED:20180401T174052
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

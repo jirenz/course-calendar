@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses79371e1a-3516-40ff-886c-f8cbabbd6fcf
-DTSTAMP:20180107T132523
-LOCATION:460-334
+LAST-MODIFIED:20180401T174156
+UID:explore_coursescb96bd39-3501-4b10-b97e-bc9442e2bffa
+DTSTAMP:20180401T174156
+LOCATION:Mitch 350 plus 372
 DESCRIPTION:Computer processing of digital 2-D and 3-D data, combining theoretical material with implementation of computer algorithms. Topics: properties of digital images, design of display systems and algorithms, time and frequency representations, filters, image formation and enhancement, imaging systems, perspective, morphing, and animation applications. Instructional computer lab exercises implement practical algorithms. Final project consists of computer animations incorporating techniques learned in class. Prerequisite: Matlab programming.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE168 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

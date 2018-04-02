@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T162000
-LAST-MODIFIED:20180107T132334
-UID:explore_courses301e37cb-9bca-4c2e-98d9-cd198fca3b03
-DTSTAMP:20180107T132334
+LAST-MODIFIED:20180401T174056
+UID:explore_courses77602598-1c59-480b-801b-714aca530fdf
+DTSTAMP:20180401T174056
 LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:Introduction to observational astronomy emphasizing the use of optical telescopes. Observations of stars, nebulae, and galaxies in laboratory sessions with telescopes at the Stanford Student Observatory. Meets at the observatory one evening per week from dusk until well after dark, in addition to day-time lectures each week. No previous physics required. Limited enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS50 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T153000
-CREATED:20180107T132334
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

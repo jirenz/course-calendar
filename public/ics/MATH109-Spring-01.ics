@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T122000
-LAST-MODIFIED:20180107T132316
-UID:explore_coursesfb199a30-7642-4a59-a3f5-b435cfd3428a
-DTSTAMP:20180107T132316
+LAST-MODIFIED:20180401T174049
+UID:explore_courses02fdb5ec-9d19-4ffd-826f-ea694dbaad1b
+DTSTAMP:20180401T174049
 LOCATION:380-380D
 DESCRIPTION:Applications of the theory of groups. Topics: elements of group theory, groups of symmetries, matrix groups, group actions, and applications to combinatorics and computing. Applications: rotational symmetry groups, the study of the Platonic solids, crystallographic groups and their applications in chemistry and physics. Honors math majors and students who intend to do graduate work in mathematics should take 120. WIM.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH109 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T113000
-CREATED:20180107T132316
+CREATED:20180401T174049
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

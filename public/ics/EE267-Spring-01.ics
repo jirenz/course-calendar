@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20180107T132523
-UID:explore_coursesdeb8c551-c460-4266-8d51-1a155bd7d075
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_coursesf4198c37-12f1-4306-b82c-f7be053c8334
+DTSTAMP:20180401T174156
 LOCATION:200-034
 DESCRIPTION:OpenGL, real-time rendering, 3D display systems, display optics &amp; electronics, IMUs and sensors, tracking, haptics, rendering pipeline, multimodal human perception and depth perception, stereo rendering, presence. Emphasis on VR technology. Hands-on programming assignments. The 3-unit version requires a final programming assignment in which you create your own virtual environment. The 4-unit version requires a final course project and written report in lieu of the final assignment. Prerequisites: Strong programming skills, EE 103 or equivalent. Helpful: basic computer graphics / OpenGL.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE267 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T150000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

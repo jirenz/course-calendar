@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T122000
-LAST-MODIFIED:20180107T132530
-UID:explore_coursesd52d5977-92a2-4c75-ab9a-e032a7659f44
-DTSTAMP:20180107T132530
+LAST-MODIFIED:20180401T174202
+UID:explore_coursescac91f59-a0a9-4df7-b136-748112a47073
+DTSTAMP:20180401T174202
 LOCATION:530-127
 DESCRIPTION:The basic principles of thermodynamics are introduced in this course.  Concepts of energy and entropy from elementary considerations of the microscopic nature of matter are discussed.  The principles are applied in thermodynamic analyses directed towards understanding the performances of engineering systems.  Methods and problems cover socially responsible economic generation and utilization of energy in central power generation plants, solar systems, refrigeration devices, and automobile, jet and gas-turbine engines.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME30 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T113000
-CREATED:20180107T132530
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

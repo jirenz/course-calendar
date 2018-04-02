@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses20e75a7c-f37d-4232-aec2-fb1e922bbb72
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_courses54022352-05da-40ab-a18c-354f1e4f6815
+DTSTAMP:20180401T174147
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:An overview of the statistical analysis of unsteady flows, with a focus on chaos and turbulence. Topics will include random variables and statistical analysis; self-similarity, scaling, and symmetries; the turbulent energy cascade and the Kolmogorov similarity hypotheses; intermittency, refined similarity, and multifractal analysis; mixing and transport in chaotic and turbulent flows; and an overview of the effects of additional conservation laws on flow statistics.  Prerequisites: CEE 262A or ME 351A, or permission of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE363B LEC
 DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

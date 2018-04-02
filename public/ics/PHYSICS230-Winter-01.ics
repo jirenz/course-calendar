@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20180107T132335
-UID:explore_courses90053b60-2c79-477f-aac5-2dac0042a895
-DTSTAMP:20180107T132335
+LAST-MODIFIED:20180401T174056
+UID:explore_coursesc2e7eeae-7d05-4349-bb38-49aed5dd6979
+DTSTAMP:20180401T174056
 LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:Fundamental concepts. Introduction to Hilbert spaces and Dirac's notation. Postulates applied to simple systems, including those with periodic structure. Symmetry operations and gauge transformation. The path integral formulation of quantum statistical mechanics. Problems related to measurement theory. The quantum theory of angular momenta and central potential problems. Prerequisite: PHYSICS 131 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS230 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20180107T132335
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

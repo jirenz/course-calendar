@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180112T132000
-LAST-MODIFIED:20180107T132419
-UID:explore_courses7b849cb9-b7b6-4cd9-a784-65a098284a2f
-DTSTAMP:20180107T132419
+LAST-MODIFIED:20180401T174117
+UID:explore_coursesfcf5ea71-e67d-4bd4-85cc-a52ed9668fc3
+DTSTAMP:20180401T174117
 LOCATION:Alway Building, Room M106
 DESCRIPTION:This course is a lecture series offered during the winter quarter. The aim of this seminar is to allow medical students to experience the mindset of primary care physicians in real time. Classes feature presentations of patient cases submitted by Stanford faculty. Faculty presenters are provided with the diagnostic information for the cases in a sequential manner during and not in advance of each class, allowing students to learn from the thought process of physicians in real time as they put together the differential diagnosis, interpret diagnostic information, deliberate treatment and management options, and discuss other thoughts about the cases.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MED200 LEC
 DTSTART;TZID=America/Los_Angeles:20180112T123000
-CREATED:20180107T132419
+CREATED:20180401T174117
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

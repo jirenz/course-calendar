@@ -23,16 +23,58 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T122000
-LAST-MODIFIED:20180107T132155
-UID:explore_courses3c527167-70de-4766-9430-36453da596eb
-DTSTAMP:20180107T132155
+LAST-MODIFIED:20180401T174016
+UID:explore_coursesaa7c2cc5-fe80-4f5f-8b78-2adfe1cca574
+DTSTAMP:20180401T174016
 LOCATION:Turingaud
 DESCRIPTION:Aims, methods, and data in the study of human society's development from early hunters through late prehistoric civilizations. Archaeological sites and remains characteristic of the stages of cultural development for selected geographic areas, emphasizing methods of data collection and analysis appropriate to each.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ANTHRO3 LEC
 DTSTART;TZID=America/Los_Angeles:20180110T103000
-CREATED:20180107T132155
+CREATED:20180401T174016
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T122000
+LAST-MODIFIED:20180401T174016
+UID:explore_courses79cc5110-7b5f-4152-9665-6e8e6fe7bd88
+DTSTAMP:20180401T174016
+LOCATION:50-51A
+DESCRIPTION:Aims, methods, and data in the study of human society's development from early hunters through late prehistoric civilizations. Archaeological sites and remains characteristic of the stages of cultural development for selected geographic areas, emphasizing methods of data collection and analysis appropriate to each.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ANTHRO3 LEC
+DTSTART;TZID=America/Los_Angeles:20180112T103000
+CREATED:20180401T174016
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T122000
+LAST-MODIFIED:20180401T174016
+UID:explore_courses7cd05dc2-8aee-43c4-9e12-4899a7d9801e
+DTSTAMP:20180401T174016
+LOCATION:40-41J
+DESCRIPTION:Aims, methods, and data in the study of human society's development from early hunters through late prehistoric civilizations. Archaeological sites and remains characteristic of the stages of cultural development for selected geographic areas, emphasizing methods of data collection and analysis appropriate to each.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ANTHRO3 LEC
+DTSTART;TZID=America/Los_Angeles:20180112T103000
+CREATED:20180401T174016
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T122000
+LAST-MODIFIED:20180401T174016
+UID:explore_coursesafb5f73a-c008-41f4-8edf-e39b3b5366da
+DTSTAMP:20180401T174016
+LOCATION:50-51B
+DESCRIPTION:Aims, methods, and data in the study of human society's development from early hunters through late prehistoric civilizations. Archaeological sites and remains characteristic of the stages of cultural development for selected geographic areas, emphasizing methods of data collection and analysis appropriate to each.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ANTHRO3 LEC
+DTSTART;TZID=America/Los_Angeles:20180112T103000
+CREATED:20180401T174016
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

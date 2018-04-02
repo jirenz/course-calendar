@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T105000
-LAST-MODIFIED:20180107T132322
-UID:explore_courses90d99ebd-50f4-4ee3-b3cc-573eff8b5e5f
-DTSTAMP:20180107T132322
-LOCATION:Dinkelspiel  Rehearsal Room
-DESCRIPTION:For non-music majors and Music majors or minors unable to pass the proficiency test for entry to MUSIC 21. The fundamentals of music theory and notation, basic sight reading, sight singing, ear training, keyboard harmony; melodic, rhythmic, and harmonic dictation. Skill oriented, using piano and voice as basic tools to develop listening and reading skills.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:MUSIC19A LEC
-DTSTART;TZID=America/Los_Angeles:20180108T093000
-CREATED:20180107T132322
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T105000;BYDAY=MO,WE
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180112T102000
-LAST-MODIFIED:20180107T132322
-UID:explore_courses644340e0-c68b-4dbc-879b-0553790d4075
-DTSTAMP:20180107T132322
-LOCATION:Dinkelspiel  Rehearsal Room
+LAST-MODIFIED:20180401T174052
+UID:explore_coursesc5d5661a-7517-49dd-a61e-ff4be7b81c9a
+DTSTAMP:20180401T174052
+LOCATION:DINKG10
 DESCRIPTION:For non-music majors and Music majors or minors unable to pass the proficiency test for entry to MUSIC 21. The fundamentals of music theory and notation, basic sight reading, sight singing, ear training, keyboard harmony; melodic, rhythmic, and harmonic dictation. Skill oriented, using piano and voice as basic tools to develop listening and reading skills.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC19A LEC
 DTSTART;TZID=America/Los_Angeles:20180112T093000
-CREATED:20180107T132322
+CREATED:20180401T174052
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T105000
+LAST-MODIFIED:20180401T174052
+UID:explore_coursesf824a965-995e-49ab-8cdd-08497ee61e62
+DTSTAMP:20180401T174052
+LOCATION:DINKG10
+DESCRIPTION:For non-music majors and Music majors or minors unable to pass the proficiency test for entry to MUSIC 21. The fundamentals of music theory and notation, basic sight reading, sight singing, ear training, keyboard harmony; melodic, rhythmic, and harmonic dictation. Skill oriented, using piano and voice as basic tools to develop listening and reading skills.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MUSIC19A LEC
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20180401T174052
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T105000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

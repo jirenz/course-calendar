@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180628T220000
-LAST-MODIFIED:20180107T132259
-UID:explore_courses891eb509-1528-4dca-b0a3-e3ca857c6d7d
-DTSTAMP:20180107T132259
-LOCATION:200-305
-DESCRIPTION:U.S. society, culture, and politics since WW II through feature films. Topics include: McCarthyism and the Cold War; ethnicity and racial identify; changing sex and gender relationships; the civil rights and anti-war movements; and mass media. Films include: The Best Years of Our Lives, Salt of the Earth, On the Waterfront, Raisin in the Sun, Kramer v Kramer, and Falling Down.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:HISTORY168 LEC
-DTSTART;TZID=America/Los_Angeles:20180628T190000
-CREATED:20180107T132259
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T220000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180626T210000
-LAST-MODIFIED:20180107T132259
-UID:explore_courses176df871-45d9-4058-981c-d4f230190861
-DTSTAMP:20180107T132259
+LAST-MODIFIED:20180401T174042
+UID:explore_coursesdaaa4cdf-b618-4d28-8883-809005500eee
+DTSTAMP:20180401T174042
 LOCATION:200-305
 DESCRIPTION:U.S. society, culture, and politics since WW II through feature films. Topics include: McCarthyism and the Cold War; ethnicity and racial identify; changing sex and gender relationships; the civil rights and anti-war movements; and mass media. Films include: The Best Years of Our Lives, Salt of the Earth, On the Waterfront, Raisin in the Sun, Kramer v Kramer, and Falling Down.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY168 LEC
 DTSTART;TZID=America/Los_Angeles:20180626T190000
-CREATED:20180107T132259
+CREATED:20180401T174042
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T210000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180628T220000
+LAST-MODIFIED:20180401T174042
+UID:explore_coursesfcab1847-f007-4fe2-9b9e-d6c717e7d314
+DTSTAMP:20180401T174042
+LOCATION:200-305
+DESCRIPTION:U.S. society, culture, and politics since WW II through feature films. Topics include: McCarthyism and the Cold War; ethnicity and racial identify; changing sex and gender relationships; the civil rights and anti-war movements; and mass media. Films include: The Best Years of Our Lives, Salt of the Earth, On the Waterfront, Raisin in the Sun, Kramer v Kramer, and Falling Down.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY168 LEC
+DTSTART;TZID=America/Los_Angeles:20180628T190000
+CREATED:20180401T174042
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T220000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

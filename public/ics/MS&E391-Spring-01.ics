@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20180107T132526
-UID:explore_courses52d40ff3-e8d3-4c61-a097-013fa713957f
-DTSTAMP:20180107T132526
+LAST-MODIFIED:20180401T174158
+UID:explore_courses135e5dfc-fa5b-44d0-89c9-2c04c6cae269
+DTSTAMP:20180401T174158
 LOCATION:
 DESCRIPTION:Restricted to PhD students, or by consent of instructor. Doctoral research seminar covering current topics in energy and environmental modeling and analysis.  Current emphasis on approaches to incorporation of uncertainty and technology dynamics into complex systems models. May be repeated for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E391 RES
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

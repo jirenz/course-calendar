@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180404T162000
-LAST-MODIFIED:20180107T132507
-UID:explore_courses22bb5d51-f488-4b35-9dcc-448ab1e7c2e1
-DTSTAMP:20180107T132507
-LOCATION:
+LAST-MODIFIED:20180401T174145
+UID:explore_coursesd40f0f9d-2d96-4073-b171-3be36ed0a92f
+DTSTAMP:20180401T174145
+LOCATION:Huang Engineering Center 18
 DESCRIPTION:Combines biological knowledge and methods with quantitative engineering principles. Quantitative review of biochemistry and metabolism; recombinant DNA technology and synthetic biology (metabolic engineering). The production of protein pharaceuticals as a paradigm for the application of chemical engineering principles to advanced process development within the framework of current business and regulatory requirements. Prerequisite: CHEMENG 181 (formerly 188) or BIOSCI 41, or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG355 DIS
 DTSTART;TZID=America/Los_Angeles:20180404T150000
-CREATED:20180107T132507
+CREATED:20180401T174145
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

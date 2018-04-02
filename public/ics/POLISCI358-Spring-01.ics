@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T172000
-LAST-MODIFIED:20180107T132338
-UID:explore_coursesa87b5287-5162-48e8-be65-2f426236abc4
-DTSTAMP:20180107T132338
+LAST-MODIFIED:20180401T174058
+UID:explore_courses53b49059-95bd-47f4-806c-a5d6bd802464
+DTSTAMP:20180401T174058
 LOCATION:School of Education 313
 DESCRIPTION:Covers advanced computational and statistical methods for collecting and modeling large-scale data on politics. Topics will include automated and computer-assisted methods for collecting, disambiguating, and merging unstructured data (web-scraping, identity resolution, and record-linkage), database management (SQL, data architecture), data-reduction techniques for measuring the political preferences for large numbers of individuals, topic models applied to political text/speech, and social network analysis for mapping relationships and identifying influential actors.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI358 SEM
 DTSTART;TZID=America/Los_Angeles:20180402T143000
-CREATED:20180107T132338
+CREATED:20180401T174058
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

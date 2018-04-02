@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses6fe6c0e0-e28f-4a8b-8bb4-ddde84e02d48
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_courses88157ad4-42c9-45fd-960c-72fa3e82fab9
+DTSTAMP:20180401T174147
 LOCATION:McCullough 115
 DESCRIPTION:The numerical modeling of urban, regional, and global air pollution focusing on gas chemistry and radiative transfer. Stratospheric, free-tropospheric, and urban chemistry. Methods for solving stiff systems of chemical ordinary differential, including the multistep implicit-explicit method, Gear's method with sparse-matrix techniques, and the family method. Numerical methods of solving radiative transfer, coagulation, condensation, and chemical equilibrium problems. Project involves developing a basic chemical ordinary differential equation solver. Prerequisite: CS 106A or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE263A LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

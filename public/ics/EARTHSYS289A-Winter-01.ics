@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180110T175000
-LAST-MODIFIED:20180107T132455
-UID:explore_courses313e66e9-ecb1-4e1f-83fc-703a29051fe7
-DTSTAMP:20180107T132455
+DTEND;TZID=America/Los_Angeles:20180110T152000
+LAST-MODIFIED:20180401T174138
+UID:explore_courses5fbb62a7-d38c-4bc1-883f-b8a78b20771f
+DTSTAMP:20180401T174138
 LOCATION:
 DESCRIPTION:FEED Lab is a 3-4 unit introductory course in design thinking and food system innovation offered through the FEED Collaborative. Targeted at graduate students interested in food and the food system, this course provides a series of diverse, primarily hands-on experiences (design projects with industry-leading thinkers, field work, and collaborative leadership development) in which students both learn and apply the process of human-centered design to projects of real consequence in the food system. The intent of this course is to develop students' creative confidence, collaborative leadership ability, and skills in systems thinking to prepare them to be more effective as innovators and leaders in the food system. This course is mandatory for any student wishing to qualify for the FEED Collaborative's summer Leadership and Innovation Program, in which select students participate in full-time, paid, externship roles with collaborating thought-leaders in the industry. Admission is by application: http://feedcollaborative.org/classes/.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS289A SEM
 DTSTART;TZID=America/Los_Angeles:20180110T133000
-CREATED:20180107T132455
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=WE,FR
+CREATED:20180401T174138
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

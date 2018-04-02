@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180625T162000
-LAST-MODIFIED:20180107T132229
-UID:explore_courses109fce5b-7bfc-47eb-bf75-805a5c514353
-DTSTAMP:20180107T132229
+DTEND;TZID=America/Los_Angeles:20180626T132000
+LAST-MODIFIED:20180401T174028
+UID:explore_courses932bfefa-695b-4e61-b303-e30f65be991d
+DTSTAMP:20180401T174028
 LOCATION:160-317
 DESCRIPTION:In this introductory-level class we will investigate the Internet as a material technology created in a specific historical and cultural context and explore how its architecture has shaped the ways we work, think, and relate to each other in 2018. First, we will learn what the Internet is, how it works, and why it came to be. Next, by working through a variety of historical and analytical texts, we will examine the reality and mythologies of cyberspace. Key areas of interest include economics, law, and how people use the Internet to connect. Over the course of the quarter, you will gain skills to think critically and analytically about issues related to the Internet in today's world and articulate your own positions on them.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMM112S LEC
-DTSTART;TZID=America/Los_Angeles:20180625T143000
-CREATED:20180107T132229
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T162000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180626T113000
+CREATED:20180401T174028
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T112000
-LAST-MODIFIED:20180107T132530
-UID:explore_courses1bc257f4-cf97-4ca9-8acb-41adcc590b30
-DTSTAMP:20180107T132530
+LAST-MODIFIED:20180401T174202
+UID:explore_courses613ff47a-8a24-48d1-8b61-d147cd3efcec
+DTSTAMP:20180401T174202
 LOCATION:
 DESCRIPTION:Mechanics of materials and deformation of structural members. Topics include stress and deformation analysis under axial loading, torsion and bending, column buckling and pressure vessels. Introduction to stress transformation and multiaxial loading. Prerequisite: ENGR 14.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME80 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T093000
-CREATED:20180107T132530
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

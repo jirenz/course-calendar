@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses25edecdc-694c-48b4-a472-f751eff75fb6
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_courses33cb15d9-15b2-464b-88cf-6baacf311058
+DTSTAMP:20180401T174147
 LOCATION:Y2E2 292A
 DESCRIPTION:The objectives of this course are to: 1) introduce you to the mathematical theory of networks and common metrics of networks; 2) develop an understanding of how to utilize network models to study urban systems; 3) provide an opportunity to apply network models to analyze a real urban system.  Students are expected to have a strong background in calculus and linear algebra before taking this course and should be comfortable with the calculation and manipulation of matrices.  Experience in a numerical scripting language (preferably Python, R or Matlab) is necessary for the final project.  Coursework will consist of graded problem sets pertaining to both theory of networks and applications to urban systems.  There will be a final project where students will be required to apply network based methods to the analysis of real data of an urban system. (subject to change)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE345 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

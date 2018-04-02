@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170929T112000
-LAST-MODIFIED:20180107T132239
-UID:explore_courses2d952f24-7b5c-4b3c-bdee-92db94151fea
-DTSTAMP:20180107T132239
+LAST-MODIFIED:20180401T174034
+UID:explore_coursesf4e3b90b-2f4c-4d13-a3d4-98fa7100a308
+DTSTAMP:20180401T174034
 LOCATION:Encina West 101
 DESCRIPTION:Probabilistic modeling and statistical techniques relevant for economics. Concepts include: probability trees, conditional probability, random variables, discrete and continuous distributions, correlation, central limit theorems, point estimation, hypothesis testing and confidence intervals for both one and two populations. Prerequisite: MATH 20 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON102A DIS
 DTSTART;TZID=America/Los_Angeles:20170929T103000
-CREATED:20180107T132239
+CREATED:20180401T174034
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

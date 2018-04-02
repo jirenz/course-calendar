@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T132000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses1de8d177-a1e8-4c3c-844a-56ec92db4349
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_coursesd1533f30-b039-4190-a740-eea4ec01590e
+DTSTAMP:20180401T174147
 LOCATION:300-300
 DESCRIPTION:This short course runs for four weeks beginning in the second week of the quarter and is offered in fall and spring.  It is recommended for students who want to use R in statistics, science, or engineering courses and for students who want to learn the basics of R programming. The goal of the short course is to familiarize students with R's tools for scientific computing. Lectures will be interactive with a focus on learning by example, and assignments will be application-driven. No prior programming experience is needed. Topics covered include basic data structures, File I/O, graphs, control structures, etc, and some useful packages in R.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME195 WKS
-DTSTART;TZID=America/Los_Angeles:20170926T120000
-CREATED:20180107T132511
+DTSTART;TZID=America/Los_Angeles:20170926T112000
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

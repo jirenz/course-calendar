@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T175000
-LAST-MODIFIED:20180107T132526
-UID:explore_coursesb0bd6168-1e92-422f-98f0-be39c730cde7
-DTSTAMP:20180107T132526
-LOCATION:Hewlett Teaching Center Rm 101
+LAST-MODIFIED:20180401T174158
+UID:explore_coursesa5c02e34-263d-4a44-92e7-e73b471ed3e2
+DTSTAMP:20180401T174158
+LOCATION:530-127
 DESCRIPTION:Architecture of the Internet and performance engineering of computer systems and networks. Switching, routing and shortest path algorithms. Congestion management and queueing networks.  Peer-to-peer networking. Wireless and mobile networking. Information service engineering and management. Search engines and recommendation systems. Reputation systems and social networking technologies. Security and trust. Information markets. Select special topics and case studies. Prerequisites: 111, 120, and CS 106A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E130 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T163000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20180107T132208
-UID:explore_courses0e7bb9e7-a09d-410e-a8fa-b23b999c4db3
-DTSTAMP:20180107T132208
+LAST-MODIFIED:20180401T174017
+UID:explore_courses3fd40492-8726-4618-b6da-73ab21d66e6a
+DTSTAMP:20180401T174017
 LOCATION:Gilbert Biological Science 117
 DESCRIPTION:Recursive filtering, parameter estimation, and feedback control methods based on linear and nonlinear state-space modeling. Topics in: dynamical systems theory; practical overview of stochastic differential equations; model reduction; and tradeoffs among performance, complexity, and robustness. Numerical implementations in MATLAB. Contemporary applications in systems biology and quantum precision measurement. Prerequisites: linear algebra and ordinary differential equations.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS217 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20180107T132208
+CREATED:20180401T174017
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

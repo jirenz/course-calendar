@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T162000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses1da49dc2-5562-4dd8-bb64-c7b785aa526a
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_coursesc07286c1-9d91-4796-9adc-42576fcbd3e9
+DTSTAMP:20180401T174147
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Computational techniques for investigating and designing the three-dimensional structure and dynamics of biomolecules and cells.  These computational methods play an increasingly important role in drug discovery, medicine, bioengineering, and molecular biology.  Course topics include protein structure prediction, protein design, drug screening, molecular simulation, cellular-level simulation, image analysis for microscopy, and methods for solving structures from crystallography and electron microscopy data.  Prerequisites: elementary programming background (CS 106A or equivalent) and an introductory course in biology or biochemistry.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME279 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T150000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

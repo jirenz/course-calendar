@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180625T112000
-LAST-MODIFIED:20180107T132221
-UID:explore_coursesafa3a037-b944-4eae-b213-43802b0f7777
-DTSTAMP:20180107T132221
+LAST-MODIFIED:20180401T174025
+UID:explore_courses00daff94-33f0-4bfc-8d8d-9255bf8acf1a
+DTSTAMP:20180401T174025
 LOCATION:STLC119
 DESCRIPTION:A four-week intensive biochemistry course from a chemical perspective. The chemical basis of life, including the biomolecular chemistry of amino acids, proteins, carbohydrates, lipids, and nucleic acids, as well as enzyme kinetics and mechanisms, thermodynamics, and core metabolism, control, and regulation. Recitation includes group work on case studies that support the daily lecture material. Prerequisites: CHEM 33, 35, 131 or 1 year of organic chemistry; Math 19, 20, 21 or 41, 42 or 1 year of single variable calculus.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM4 LEC
 DTSTART;TZID=America/Los_Angeles:20180625T093000
-CREATED:20180107T132221
+CREATED:20180401T174025
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T112000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

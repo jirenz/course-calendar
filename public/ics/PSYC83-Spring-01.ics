@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T042000
-LAST-MODIFIED:20180107T132437
-UID:explore_coursesdcc92fad-be9b-4fbb-b376-7818f2301b18
-DTSTAMP:20180107T132437
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20180401T174127
+UID:explore_courses754c3b30-1691-474a-9274-3fc7136237ab
+DTSTAMP:20180401T174127
+LOCATION:School of Education 206
 DESCRIPTION:Addiction is a powerful brain-based behavioral disorder that interferes with many lives. The National Survey on Drug Use and Health has estimated 21.5 million Americans aged 12 and older are classified as having a substance use disorder, an extraordinary 8.1% of the population. The field of mental health is advancing the understanding of this disorder through research, education, innovation and policy guidance. This class aims to help students better understand the struggles of addiction in our world by discussing many components involved in the disease including: physiology, psychology, treatment options, and the societal implications of addiction.nnStudents will engage in thought-provoking between psychology, neuroscience, and society. They will develop the knowledge-base and framework to critically evaluate the science behind addiction and how to apply this knowledge to address the addiction epidemic in our world. As technology advances, many new types of addiction are emerging, creating an additional urgent need to discuss the implications this burgeoning problem. This highly interactive seminar aims to engage the students in critical thinking didactics, activities and discussions that shape their understanding of the complexity inherent to the issues surrounding addiction, and increase the student&iquest;s ability to more critically assimilate and interrogate information.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYC83 SEM
-DTSTART;TZID=America/Los_Angeles:20180402T030000
-CREATED:20180107T132437
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T042000;BYDAY=MO,FR
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20180401T174127
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

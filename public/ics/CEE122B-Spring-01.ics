@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180406T152000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses12ae344a-6bbf-410a-86b0-3850ab4c5315
-DTSTAMP:20180107T132511
-LOCATION:
-DESCRIPTION:Undergraduates serve as apprentices to graduate students in the AEC global project teams in CEE 222B. Project activity focuses on modeling, simulation, life-cycle cost, and cost benefit analysis in the project development phase. Prerequisite: CEE 122A.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:CEE122B LEC
-DTSTART;TZID=America/Los_Angeles:20180406T123000
-CREATED:20180107T132511
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180406T162000
-LAST-MODIFIED:20180107T132511
-UID:explore_coursesee66583d-11e0-44b2-96a0-93dffd48a858
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174146
+UID:explore_coursesbc8fba96-5ef1-4fe2-a8d9-8c176937eeba
+DTSTAMP:20180401T174146
 LOCATION:
 DESCRIPTION:Undergraduates serve as apprentices to graduate students in the AEC global project teams in CEE 222B. Project activity focuses on modeling, simulation, life-cycle cost, and cost benefit analysis in the project development phase. Prerequisite: CEE 122A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE122B LEC
 DTSTART;TZID=America/Los_Angeles:20180406T153000
-CREATED:20180107T132511
+CREATED:20180401T174146
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180406T152000
+LAST-MODIFIED:20180401T174146
+UID:explore_courses12ba34f5-ac97-4892-aa10-4915cce0d3ff
+DTSTAMP:20180401T174146
+LOCATION:
+DESCRIPTION:Undergraduates serve as apprentices to graduate students in the AEC global project teams in CEE 222B. Project activity focuses on modeling, simulation, life-cycle cost, and cost benefit analysis in the project development phase. Prerequisite: CEE 122A.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE122B LEC
+DTSTART;TZID=America/Los_Angeles:20180406T123000
+CREATED:20180401T174146
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

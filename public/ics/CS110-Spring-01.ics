@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T132000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses09efa3d4-9aad-4da4-a817-742f534aedb1
-DTSTAMP:20180107T132519
-LOCATION:320-105
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20180401T174153
+UID:explore_courses207ee5ff-8f5d-4f49-a8ed-aa4f82902b4c
+DTSTAMP:20180401T174153
+LOCATION:Cemex Auditorium
 DESCRIPTION:Principles and practice of engineering of computer software and hardware systems. Topics include: techniques for controlling complexity; strong modularity using client-server design, virtual memory, and threads; networks; atomicity and coordination of parallel activities; security, and encryption; and performance optimizations. Prerequisite: 107.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS110 LEC
-DTSTART;TZID=America/Los_Angeles:20180402T113000
-CREATED:20180107T132519
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=MO,WE,FR
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20180401T174153
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180406T145000
+LAST-MODIFIED:20180401T174153
+UID:explore_coursesdda46323-6551-4228-a4b9-de3a312e71a2
+DTSTAMP:20180401T174153
+LOCATION:
+DESCRIPTION:Principles and practice of engineering of computer software and hardware systems. Topics include: techniques for controlling complexity; strong modularity using client-server design, virtual memory, and threads; networks; atomicity and coordination of parallel activities; security, and encryption; and performance optimizations. Prerequisite: 107.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CS110 LEC
+DTSTART;TZID=America/Los_Angeles:20180406T133000
+CREATED:20180401T174153
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

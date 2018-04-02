@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T162000
-LAST-MODIFIED:20180107T132414
-UID:explore_coursese48d0e9f-7c1a-43b3-8b81-1a811aa8a2d0
-DTSTAMP:20180107T132414
+LAST-MODIFIED:20180401T174113
+UID:explore_courses4ee2c417-5ddc-4538-919e-6865b943cb96
+DTSTAMP:20180401T174113
 LOCATION:Health Research & PolicyT138B
 DESCRIPTION:New technologies designed to monitor and improve health outcomes are constantly emerging, but most fail in the clinic and in the marketplace because relatively few are supported by reliable, reproducible evidence that they produce a health benefit. This course covers the designs and methods that should be used to evaluate technologies to diagnose patients, predict prognosis or other health events, or screen for disease. These technologies can include devices,  statistical prediction rules, biomarkers, gene panels, algorithms, imaging, or any information used to predict a future or a previously unknown health state.  Specific topics to be covered include the phases of test development, how to frame a proper evaluation question, measures of test accuracy, Bayes theorem, internal and external validation, prediction evaluation criteria, decision analysis, net-utility, ROC curves, c-statistics, net reclassification index, decision curves and reporting standards. Examples of technology assessments and original methods papers are used. Software used in the course is R or Stata. Open to graduate students with a solid understanding of introductory biostatistics, epidemiologic and clinical research study design, and of medical conditions and related technologies required. Basic understanding of Stata or R is also required. Undergraduates may enroll with consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP219 LEC
 DTSTART;TZID=America/Los_Angeles:20180110T150000
-CREATED:20180107T132414
+CREATED:20180401T174113
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

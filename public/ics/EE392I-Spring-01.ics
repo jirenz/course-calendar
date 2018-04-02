@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180405T172000
-LAST-MODIFIED:20180107T132523
-UID:explore_coursesc34a17c1-2633-414e-b554-c94cab31db8a
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174157
+UID:explore_coursesf2144bfe-5479-42b8-b31c-475d162c7e77
+DTSTAMP:20180401T174157
 LOCATION:380-380X
 DESCRIPTION:Lectures series and invited talks on current trends in computing and communications, and ongoing initiatives for research and open innovation. This year's focus on evolving cloud computing architectures and their impact on the enterprise; big data trends and rise of the third platform; software as a service; wireless and cellular network architectures; mobility and mobile data proliferation; open mobile platforms (e.g. Android); multi-homed mobile networking, associated data communication and mobile resource trade-offs, and system implementation in smartphones and Android devices.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE392I SEM
 DTSTART;TZID=America/Los_Angeles:20180405T163000
-CREATED:20180107T132523
+CREATED:20180401T174157
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

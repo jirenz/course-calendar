@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180111T182000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses02ab0bd8-7ba1-4de3-8490-5139cb5e9c40
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174153
+UID:explore_courses11cf410e-4ed8-41c4-9e6e-97b01a3c7f20
+DTSTAMP:20180401T174153
 LOCATION:Littlefield 107
 DESCRIPTION:Supplemental lab to CS 106B and CS 106X. Students will apply fundamental computer science concepts learned in 106B/X to problems in the social good space (such as health, government, education, and environment). Course consists of in-class activities designed by local tech companies and nonprofits.  Corequisite: 106B or 106X.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS106S LAB
 DTSTART;TZID=America/Los_Angeles:20180111T163000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T182000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20180107T132247
-UID:explore_courses356d1615-6499-45ce-9bc8-6fb6dee0e32c
-DTSTAMP:20180107T132247
-LOCATION:McMurtry Building rm 360
-DESCRIPTION:Major theoretical arguments and debates about cinema: realism,formalism, poststructuralism, feminism, postmodernism, and phenomenology. Prerequisites: FILMSTUD 4.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:FILMSTUD302 LEC
-DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20180107T132247
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180404T212000
-LAST-MODIFIED:20180107T132247
-UID:explore_courses3dd3466f-03cd-4f69-99d6-4622ae543275
-DTSTAMP:20180107T132247
+LAST-MODIFIED:20180401T174038
+UID:explore_coursesb895462f-4cab-4b47-b224-4e151698adf9
+DTSTAMP:20180401T174038
 LOCATION:McMurtry Building rm 115
-DESCRIPTION:Major theoretical arguments and debates about cinema: realism,formalism, poststructuralism, feminism, postmodernism, and phenomenology. Prerequisites: FILMSTUD 4.
+DESCRIPTION:Major theoretical arguments and debates about cinema: realism,formalism, poststructuralism, feminism, postmodernism, and phenomenology. Prerequisites: FILMSTUD 4. WIM at 4 units only.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FILMSTUD302 LEC
 DTSTART;TZID=America/Los_Angeles:20180404T183000
-CREATED:20180107T132247
+CREATED:20180401T174038
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T212000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20180401T174038
+UID:explore_courses0c8388cc-5ee2-4c84-802e-e8d2ed3c35bb
+DTSTAMP:20180401T174038
+LOCATION:McMurtry Building rm 360
+DESCRIPTION:Major theoretical arguments and debates about cinema: realism,formalism, poststructuralism, feminism, postmodernism, and phenomenology. Prerequisites: FILMSTUD 4. WIM at 4 units only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD302 LEC
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20180401T174038
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

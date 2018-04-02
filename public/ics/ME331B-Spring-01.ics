@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20180107T132531
-UID:explore_courses0224ed7a-4b4a-4c92-90db-a79a88ab6b39
-DTSTAMP:20180107T132531
+LAST-MODIFIED:20180401T174202
+UID:explore_coursesc8885d26-e6fb-4052-9cdf-225d850f3463
+DTSTAMP:20180401T174202
 LOCATION:530-127
 DESCRIPTION:Advanced methods and computational tools for the efficient formulation of equations of motion for multibody systems. D'Alembert principle. Power, work, and energy. Kane's and Lagrange's method. Computed torque control. Systems with constraints. Quaternions. Numerical solutions (e.g., MATLAB, etc.) of nonlinear algebraic and differential equations governing the behavior of multiple degree of freedom systems. Team-based computational multi-body lab project (inclusion of feed-forward control optional).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME331B LEC
 DTSTART;TZID=America/Los_Angeles:20180402T150000
-CREATED:20180107T132531
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T162000
-LAST-MODIFIED:20180107T132356
-UID:explore_coursesa7b37128-b960-4744-a67b-04dbd8b62c09
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174105
+UID:explore_courses64453bbf-6dec-4478-8ff0-f131e0882909
+DTSTAMP:20180401T174105
 LOCATION:300-303
 DESCRIPTION:Introduction to the statistical analysis of several quantitative measurements on each observational unit. Emphasis is on concepts, computer-intensive methods. Examples from economics, education, geology, psychology. Topics: multiple regression, multivariate analysis of variance, principal components, factor analysis, canonical correlations, multidimensional scaling, clustering. Pre- or corequisite: 200.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS206 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T150000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

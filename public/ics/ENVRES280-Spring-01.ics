@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180404T182000
-LAST-MODIFIED:20180107T132458
-UID:explore_coursesf7465789-69b0-4e96-ad8d-35d8a8ab3660
-DTSTAMP:20180107T132458
-LOCATION:Y2E2 101
-DESCRIPTION:For E-IPER Joint M.S. students only. This course functions as a gateway for E-IPER Joint M.S. students to learn about the variety of environmental science conducted by the program's affiliated faculty. Topics include oceans, green chemistry, water policy, energy, and others. Students engage in problem solving related to the application of science to business, law, and the conservation of natural resources.
+LAST-MODIFIED:20180401T174140
+UID:explore_coursese82a3670-086b-4d3f-872d-6e987537b967
+DTSTAMP:20180401T174140
+LOCATION:GSB Patterson 107
+DESCRIPTION:Required core course restricted to E-IPER Joint M.S. students. This course functions as a gateway to fundamental concepts in environment, energy and sustainability. Topics include climate change, ecosystem services, life cycle assessment, energy systems, food systems, and others. Students engage with affiliated faculty, and begin to develop ways to integrate science and technology with business, law and other professional skills to solve environment and resource problems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENVRES280 SEM
 DTSTART;TZID=America/Los_Angeles:20180404T163000
-CREATED:20180107T132458
+CREATED:20180401T174140
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

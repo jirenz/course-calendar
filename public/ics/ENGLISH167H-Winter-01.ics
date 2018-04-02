@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:60180108T145000
-LAST-MODIFIED:20180107T132241
-UID:explore_courses39e99136-262a-43e3-abda-460c0376ba52
-DTSTAMP:20180107T132241
+DTEND;TZID=America/Los_Angeles:20180108T145000
+LAST-MODIFIED:20180401T174036
+UID:explore_courses4b3af788-a8ec-49d2-90e7-c425b534c758
+DTSTAMP:20180401T174036
 LOCATION:300-300
 DESCRIPTION:(English majors must register for 5 units) A study of recent developments in understanding human moral psychology using mafia movies to explore the differences between Kantian and Utilitarian moral theory.  We will study the greatest hits of gangster fiction and film, from Fielding's <i>Jonathan Wild</i> to <i>The Sopranos.</i>
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGLISH167H LEC
-DTSTART;TZID=America/Los_Angeles:60180108T133000
-CREATED:20180107T132241
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20180401T174036
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

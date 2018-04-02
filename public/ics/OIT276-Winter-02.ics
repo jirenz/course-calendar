@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20180107T132133
-UID:explore_coursesfea1cdea-fc14-40bb-b63b-3efaa92fbc10
-DTSTAMP:20180107T132133
+LAST-MODIFIED:20180401T173958
+UID:explore_coursesbb5810c3-276a-4af6-b896-d431de3aba90
+DTSTAMP:20180401T173958
 LOCATION:GSB Class of 1968 106
 DESCRIPTION:Accelerated Data and Decisions is a first-year MBA course in statistics and regression analysis. The course is taught using a flipped classroom model that combines extensive online materials with a more lab-based classroom approach. Traditional lecture content will be learned through online videos, simulations, and exercises, while time spent in the classroom will be discussions, problem solving, or computer lab sessions. Content covered includes sampling techniques, hypothesis testing, t-tests, linear regression, and prediction models. The group regression project is a key component of the course, and all students will learn the statistical software package R. The accelerated course is designed for students with strong quantitative backgrounds. Students taking this course need to be comfortable with mathematical notation, algebra, and basic probability. Students without quantitative backgrounds should consider enrolling in the base version of the course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT276 WKS
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20180107T132133
+CREATED:20180401T173958
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180405T145000
-LAST-MODIFIED:20180107T132406
-UID:explore_coursesf84c1310-231c-415b-826b-32ea49f1c4c7
-DTSTAMP:20180107T132406
-LOCATION:Li Ka Shing Center, room 120
-DESCRIPTION:This course is coordinated seminar series that presents evidence-based health promotion and disease prevention guidelines by clinical and translational research and population health science faculty of clinical departments other than Medicine (the focus of CHPR 260) of the Stanford School of Medicine, including; Anesthesiology &amp; Perioperative, &amp; Pain Medicine, Cardiothoracic Surgery, Dermatology, Emergency Medicine, Neurology &amp; Neurological Sciences, Neurosurgery, Obstetrics &amp; Gynecology, Ophthalmology, Orthopaedic Surgery, Otolaryngology, Pathology, Pediatrics, Psychiatry &amp; Behavioral Sciences, Radiation Oncology, Radiology, Surgery and Urology, CHPR master's program students must enroll for a letter grade and priority for enrollment will be given to current CHPR students. Prerequisites: CHPR 201 or HUMBIO 126/CHPR 226 or equivalent or consent of instructor. This course may be taken instead of CHPR 260 as a foundation core course, or as a CHPR elective.
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20180401T174111
+UID:explore_courses0914ab6b-826a-48c4-8b8b-17dffeaada14
+DTSTAMP:20180401T174111
+LOCATION:Health Research & PolicyT138B
+DESCRIPTION:This course is coordinated seminar series that presents evidence-based health promotion and disease prevention guidelines by clinical and translational research and population health science faculty of clinical departments other than Medicine (the focus of CHPR 260) of the Stanford School of Medicine, including; Anesthesiology &amp; Perioperative, &amp; Pain Medicine, Cardiothoracic Surgery, Dermatology, Emergency Medicine, Neurology &amp; Neurological Sciences, Neurosurgery, Obstetrics &amp; Gynecology, Ophthalmology, Orthopaedic Surgery, Otolaryngology, Pathology, Pediatrics, Psychiatry &amp; Behavioral Sciences, Radiation Oncology, Radiology, Surgery and Urology, CHPR master's program students must enroll for a letter grade and priority for enrollment will be given to current CHPR students. Prerequisites: CHPR 201 or HUMBIO 126/CHPR 226 or equivalent or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHPR270 SEM
-DTSTART;TZID=America/Los_Angeles:20180405T133000
-CREATED:20180107T132406
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20180401T174111
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

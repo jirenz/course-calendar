@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180405T152000
-LAST-MODIFIED:20180107T132414
-UID:explore_courses83d22c35-46ee-4cf9-b071-fd80ddee83d7
-DTSTAMP:20180107T132414
-LOCATION:Health Research & PolicyT116
+DTEND;TZID=America/Los_Angeles:20180405T112000
+LAST-MODIFIED:20180401T174113
+UID:explore_courses24534f15-ea71-46f7-910f-d8e4c01361fc
+DTSTAMP:20180401T174113
+LOCATION:
 DESCRIPTION:Third in a three-quarter seminar series is the core tutorial for first-year Health Policy and Health Services Research graduate students. Major themes in fields of study including health insurance, healthcare financing and delivery, health systems and reform and disparities in the US and globally, health and economic development, health law and policy, resource allocation, efficiency and equity, healthcare quality, measurement and the efficacy and effectiveness of interventions. Blocks of session led by Stanford expert faculty in particular fields of study.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HRP201C SEM
-DTSTART;TZID=America/Los_Angeles:20180405T133000
-CREATED:20180107T132414
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T093000
+CREATED:20180401T174113
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

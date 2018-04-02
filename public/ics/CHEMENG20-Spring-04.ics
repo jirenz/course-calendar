@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180406T172000
-LAST-MODIFIED:20180107T132507
-UID:explore_courses8cb68cb4-6d7f-4f55-beda-b9e075457b36
-DTSTAMP:20180107T132507
+LAST-MODIFIED:20180401T174145
+UID:explore_courses0f4bc7d4-443b-4c76-b0aa-647b451d14ab
+DTSTAMP:20180401T174145
 LOCATION:Y2E2 178
 DESCRIPTION:Overview of chemical engineering through discussion and engineering analysis of physical and chemical processes. Topics: overall staged separations, material and energy balances, concepts of rate processes, energy and mass transport, and kinetics of chemical reactions. Applications of these concepts to areas of current technological importance: biotechnology, energy, production of chemicals, materials processing, and purification. Prerequisite: CHEM 31.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEMENG20 DIS
 DTSTART;TZID=America/Los_Angeles:20180406T153000
-CREATED:20180107T132507
+CREATED:20180401T174145
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

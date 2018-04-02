@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132259
-UID:explore_courses1c8f5658-135c-4922-807c-5c23a75b03d6
-DTSTAMP:20180107T132259
-LOCATION:160-321
+LAST-MODIFIED:20180401T174042
+UID:explore_courses3f178da8-9604-496c-ae4c-69a8d70ecb64
+DTSTAMP:20180401T174042
+LOCATION:200-124
 DESCRIPTION:This course examines the history of evolutionary biology from its emergence around the middle of the eighteenth century.  We will consider the continual engagement of evolutionary theories of life with a larger, transforming context: philosophical, political, social, economic, institutional, aesthetic, artistic, literary.  Our goal will be to achieve a historical rich and nuanced understanding of how evolutionary thinking about life has developed to its current form.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY240 COL
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20180107T132259
+CREATED:20180401T174042
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

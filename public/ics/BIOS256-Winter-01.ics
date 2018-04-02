@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180305T112000
-LAST-MODIFIED:20180107T132404
-UID:explore_coursesf344a362-70d7-4f3d-b01c-a795edef6a80
-DTSTAMP:20180107T132404
+LAST-MODIFIED:20180401T174109
+UID:explore_courses108c2616-30f4-43e4-88ca-2da7517c9cbf
+DTSTAMP:20180401T174109
 LOCATION:CCSR 4107
 DESCRIPTION:Mini-course. Students will use learn make and print 3D models of their data to use as a focal point when describing their project. We will teach the students how to use Autocad and Blender to process existing data sets and students are encouraged to bring their own data.  We strive to make wearable models to enable instant mini-lectures any place and anytime.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS256 WKS
 DTSTART;TZID=America/Los_Angeles:20180305T093000
-CREATED:20180107T132404
+CREATED:20180401T174109
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132356
-UID:explore_courses736c54fc-9257-487a-b598-9698f1d51e73
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174105
+UID:explore_courses26179650-218d-4d6c-9a6d-b611b06ed6c1
+DTSTAMP:20180401T174105
 LOCATION:Mitchb67
 DESCRIPTION:Random numbers and vectors: inversion, acceptance-rejection, copulas. Variance reduction: antithetics, stratification, control variates, importance sampling. MCMC: Markov chains, detailed balance, Metropolis-Hastings, random walk Metropolis,nnindependence sampler, Gibbs sampling, slice sampler, hybrids of Gibbs and Metropolis, tempering. Sequential Monte Carlo. Quasi-Monte Carlo. Randomized quasi-Monte Carlo. Examples, problems and motivation from Bayesian statistics,nnmachine learning, computational finance and graphics. May be repeat for credit.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS362 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

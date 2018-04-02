@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180405T115000
-LAST-MODIFIED:20180107T132351
-UID:explore_coursesa0ba02ef-3239-4e49-a34c-0632e14f092c
-DTSTAMP:20180107T132351
-LOCATION:Lathrop 299
+LAST-MODIFIED:20180401T174103
+UID:explore_courses3a272df0-a561-4eaa-8a05-eb654dfbcbde
+DTSTAMP:20180401T174103
+LOCATION:120-215
 DESCRIPTION:Sociology PhD students will present their own work weekly, and read and critique the research-in-progress of their peers on issues of family, household structure, interpersonal relationships, marriage, demography, survey data, demographic methods, statistical methods, and related fields. May be repeat for credit starting 8/1/2016.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOC325W WKS
 DTSTART;TZID=America/Los_Angeles:20180405T103000
-CREATED:20180107T132351
+CREATED:20180401T174103
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

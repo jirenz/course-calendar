@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T122000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses39f5533a-e375-4bbb-8eca-7c384f9bf832
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_coursesac56bc36-6ebd-457c-8845-dcb998834a9f
+DTSTAMP:20180401T174156
 LOCATION:380-380Y
 DESCRIPTION:Continuation of EE101A. Introduction to circuit design for modern electronic systems. Modeling and analysis of analog gain stages, frequency response, feedback. Filtering and analog&iquest;to&iquest;digital conversion. Fundamentals of circuit simulation. Prerequisites: EE101A, EE102A. Recommended: CME102.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE101B LEC
 DTSTART;TZID=America/Los_Angeles:20180402T113000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

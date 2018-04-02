@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180405T112000
-LAST-MODIFIED:20180107T132411
-UID:explore_coursesec189a60-8bf5-416a-896a-b513f0954f5b
-DTSTAMP:20180107T132411
+LAST-MODIFIED:20180401T174113
+UID:explore_courses182b08e1-5c1f-449e-bdae-3366d291265f
+DTSTAMP:20180401T174113
 LOCATION:Li Ka Shing Center, room 208
 DESCRIPTION:For genetic counseling students, graduate students in genetics, medical students, residents, and fellows. Case-based scenarios and guest expert lectures. Students learn skills in case preparation, management, and presentation, as well as content around common genetic disorders.  This course is a continuation of GENE 274A, but may be taken individually with instructor permission.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE274B LEC
 DTSTART;TZID=America/Los_Angeles:20180405T093000
-CREATED:20180107T132411
+CREATED:20180401T174113
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

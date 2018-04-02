@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T142000
-LAST-MODIFIED:20180107T132501
-UID:explore_coursesc48edb90-0444-4670-ba9f-492eb7b147b5
-DTSTAMP:20180107T132501
+LAST-MODIFIED:20180401T174142
+UID:explore_courses25702fff-f667-4d5d-b0cb-c0d88046d09a
+DTSTAMP:20180401T174142
 LOCATION:Mitch452
 DESCRIPTION:The principles of imaging complex structures in the Earth subsurface using 3-D reflection seismology. Emphasis is on processing methodologies and algorithms, with examples of applications to field data. Topics: acquisition geometrics of land and marine 3-D seismic surveys, time vs. depth imaging, migration by Kirchhoff methods and by wave-equation methods, migration velocity analysis, velocity model building, imaging irregularly sampled and aliased data. Computational labs involve some programming. Lab for 3 units. Offered every year, Spring quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GEOPHYS280 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132501
+CREATED:20180401T174142
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

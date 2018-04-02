@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180406T152000
-LAST-MODIFIED:20180107T132528
-UID:explore_coursesa40dfb8d-130c-43ca-bd16-ea57f91cf348
-DTSTAMP:20180107T132528
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180406T142000
+LAST-MODIFIED:20180401T174159
+UID:explore_courses15690129-da84-4d5d-8a8a-6ba57fe29b19
+DTSTAMP:20180401T174159
+LOCATION:Durand Building 114
 DESCRIPTION:Imagine a world where cancer is cured with light, objects can be made invisible, and teleportation is allowed through space and time. The future once envisioned by science fiction writers is now becoming a reality, thanks to advances in materials science and engineering. This seminar will explore 'impossible' technologies - those that have shaped our past and those that promise to revolutionize the future. Attention will be given to both the science and the societal impact of these technologies. We will begin by investigating breakthroughs from the 20th century that seemed impossible in the early 1900s, such as the invention of integrated circuits and the discovery of chemotherapy. We will then discuss the scientific breakthroughs that enabled modern 'impossible' science, such as photodynamic cancer therapeutics, invisibility, and psychokinesis through advanced mind-machine interfaces. Lastly, we will explore technologies currently perceived as completely impossible and brainstorm the breakthroughs needed to make such science fiction a reality. The course will include introductory lectures and in-depth conversations based on readings. Students will also be given the opportunity to lead class discussions on a relevant 'impossible science' topic of their choosing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI82N ISF
 DTSTART;TZID=America/Los_Angeles:20180406T133000
-CREATED:20180107T132528
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=FR
+CREATED:20180401T174159
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T142000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

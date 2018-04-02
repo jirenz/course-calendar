@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T102000
-LAST-MODIFIED:20180107T132356
-UID:explore_courses6e7f20b5-b761-48bb-9cd7-0d568345b9bc
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174105
+UID:explore_courses4542c4d8-1759-478e-a17e-bc0af9168ac3
+DTSTAMP:20180401T174105
 LOCATION:Skillaud
 DESCRIPTION:Data mining is used to discover patterns and relationships in data. Emphasis is on large complex data sets such as those in very large databases or through web mining. Topics: decision trees, association rules, clustering, case based methods, and data visualization. Prereqs: Introductory courses in statistics or probability (e.g., Stats 60), linear algebra (e.g., Math 51), and computer programming (e.g., CS 105).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS202 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T093000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

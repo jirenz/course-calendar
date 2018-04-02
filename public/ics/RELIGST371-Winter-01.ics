@@ -23,16 +23,30 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T122000
-LAST-MODIFIED:20180107T132345
-UID:explore_coursesed7b177c-2a0a-4ef4-a82c-78e74bdc3722
-DTSTAMP:20180107T132345
-LOCATION:School of Education 313
+LAST-MODIFIED:20180401T174101
+UID:explore_courses51b627fa-5ef9-4b87-89ff-5b5c103b3c93
+DTSTAMP:20180401T174101
+LOCATION:Thornt208
 DESCRIPTION:This course offers graduate students a sustained opportunity to think about the craft of writing religious history. We will work together on issues ranging from structuring sentences, to revising an article, to conceptualizing a dissertation. Students will be encouraged to establish a daily writing habit and to formulate clear and searchable research strategies. Readings will include exemplars of different kinds of writing in the field. Students will write and workshop several brief (3-5 page) papers applying different approaches. The final project will be a revision of an article-length paper.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:RELIGST371 SEM
 DTSTART;TZID=America/Los_Angeles:20180110T093000
-CREATED:20180107T132345
+CREATED:20180401T174101
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T132000
+LAST-MODIFIED:20180401T174101
+UID:explore_courses2e62fb08-1321-4364-acbc-d62944a17e1a
+DTSTAMP:20180401T174101
+LOCATION:Thornt208
+DESCRIPTION:This course offers graduate students a sustained opportunity to think about the craft of writing religious history. We will work together on issues ranging from structuring sentences, to revising an article, to conceptualizing a dissertation. Students will be encouraged to establish a daily writing habit and to formulate clear and searchable research strategies. Readings will include exemplars of different kinds of writing in the field. Students will write and workshop several brief (3-5 page) papers applying different approaches. The final project will be a revision of an article-length paper.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:RELIGST371 SEM
+DTSTART;TZID=America/Los_Angeles:20180110T123000
+CREATED:20180401T174101
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

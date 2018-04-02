@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T142000
-LAST-MODIFIED:20180107T132208
-UID:explore_courses8bf704a6-5a4c-4b1f-8658-594f77106611
-DTSTAMP:20180107T132208
-LOCATION:420-286
+LAST-MODIFIED:20180401T174017
+UID:explore_coursesea8a0d6c-7067-4a4e-926b-dcba1c2eae4b
+DTSTAMP:20180401T174017
+LOCATION:School of Education 128
 DESCRIPTION:Statistical mechanics of water-protein or water-DNA (or RNA) interactions; effects of coulomb forces on molecular hydration shells and ion clouds; limitations of the Poisson-Boltzmann equations; DNA collapse, DNA-protein interactions; structure-function relationships in ion channels.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS393 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20180107T132208
+CREATED:20180401T174017
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T142000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

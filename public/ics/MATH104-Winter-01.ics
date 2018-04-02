@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20180107T132316
-UID:explore_courses1a424887-bc94-44f1-a272-54b46f6b8231
-DTSTAMP:20180107T132316
-LOCATION:Herrin T175
+LAST-MODIFIED:20180401T174049
+UID:explore_courses81733923-82b6-4d71-b7d8-3872f2be3eb0
+DTSTAMP:20180401T174049
+LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Linear algebra for applications in science and engineering: orthogonality, projections, spectral theory for symmetric matrices, the singular value decomposition, the QR decomposition, least-squares, the condition number of a matrix, algorithms for solving linear systems. (Math 113 offers a more theoretical treatment of linear algebra.)  Prerequisites: Math 51 and programming experience on par with CS106nnMath 104 and EE103/CME103 cover complementary topics in applied linear algebra. The focus of Math 104 is on algorithms and concepts; the focus of EE103 is on a few linear algebra concepts, and many applications.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH104 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20180107T132316
+CREATED:20180401T174049
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170927T175000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses9f696b79-8b5a-4511-9833-b7bdde85afb5
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_coursesfed43747-50b0-4039-abc4-e498e7460afb
+DTSTAMP:20180401T174156
 LOCATION:
 DESCRIPTION:Seminar. For engineering students interested in camera and display engineering, computer vision, and computational imaging. Speakers include Stanford faculty and research scientists as well as industry professionals, mostly from consumer electronics companies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE292E SEM
 DTSTART;TZID=America/Los_Angeles:20170927T163000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

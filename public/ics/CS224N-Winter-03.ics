@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T212000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses40cf6a5b-00a8-4bbd-af71-ce06cba1180c
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_coursesc473f84d-ba7e-415b-a6bb-4e253cc550f5
+DTSTAMP:20180401T174154
 LOCATION:120-414
 DESCRIPTION:Methods for processing human language information and the underlying computational properties of natural languages. Focus on deep learning approaches: understanding, implementing, training, debugging, visualizing, and extending neural network models for a variety of language understanding tasks. Exploration of natural language tasks ranging from simple word level and syntactic processing to coreference, question answering, and machine translation. Examination of representative papers and systems and completion of a final project applying a complex neural network model to a large-scale NLP problem. Prerequisites: calculus and linear algebra; CS124 or CS121/221.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS224N DIS
 DTSTART;TZID=America/Los_Angeles:20180110T183000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T212000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

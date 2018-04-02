@@ -22,45 +22,45 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180108T112000
-LAST-MODIFIED:20180107T132422
-UID:explore_coursesc0df7715-afdf-443e-a0cf-ea7592c8920c
-DTSTAMP:20180107T132422
-LOCATION:
-DESCRIPTION:Structure and function of the nervous system, including neuroanatomy, neurophysiology, and systems neurobiology. Topics include the properties of neurons and the mechanisms and organization underlying higher functions. Framework for general work in neurology, neuropathology, clinical medicine, and for more advanced work in neurobiology. Lecture and lab components must be taken together.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:NBIO206 LEC
-DTSTART;TZID=America/Los_Angeles:20180108T093000
-CREATED:20180107T132422
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180309T112000;BYDAY=MO,FR
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180111T165000
-LAST-MODIFIED:20180107T132422
-UID:explore_courses92d81089-f629-4b66-a116-7e3c0856df8b
-DTSTAMP:20180107T132422
-LOCATION:
-DESCRIPTION:Structure and function of the nervous system, including neuroanatomy, neurophysiology, and systems neurobiology. Topics include the properties of neurons and the mechanisms and organization underlying higher functions. Framework for general work in neurology, neuropathology, clinical medicine, and for more advanced work in neurobiology. Lecture and lab components must be taken together.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:NBIO206 LEC
-DTSTART;TZID=America/Los_Angeles:20180111T153000
-CREATED:20180107T132422
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T165000;BYDAY=TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180111T152000
-LAST-MODIFIED:20180107T132422
-UID:explore_coursesb2154796-2b42-4863-aa9a-223d5d42d4bb
-DTSTAMP:20180107T132422
+LAST-MODIFIED:20180401T174118
+UID:explore_courses7878c9b4-0432-4bb9-b551-e73fb310d49f
+DTSTAMP:20180401T174118
 LOCATION:Li Ka Shing Center, room 130
 DESCRIPTION:Structure and function of the nervous system, including neuroanatomy, neurophysiology, and systems neurobiology. Topics include the properties of neurons and the mechanisms and organization underlying higher functions. Framework for general work in neurology, neuropathology, clinical medicine, and for more advanced work in neurobiology. Lecture and lab components must be taken together.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NBIO206 LEC
 DTSTART;TZID=America/Los_Angeles:20180111T133000
-CREATED:20180107T132422
+CREATED:20180401T174118
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180108T112000
+LAST-MODIFIED:20180401T174118
+UID:explore_courses8196582b-a5c8-4873-a591-21ab3570cf00
+DTSTAMP:20180401T174118
+LOCATION:
+DESCRIPTION:Structure and function of the nervous system, including neuroanatomy, neurophysiology, and systems neurobiology. Topics include the properties of neurons and the mechanisms and organization underlying higher functions. Framework for general work in neurology, neuropathology, clinical medicine, and for more advanced work in neurobiology. Lecture and lab components must be taken together.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:NBIO206 LEC
+DTSTART;TZID=America/Los_Angeles:20180108T093000
+CREATED:20180401T174118
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180309T112000;BYDAY=MO,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180111T165000
+LAST-MODIFIED:20180401T174118
+UID:explore_coursesaf758375-6ccc-4cc4-844f-64412290f449
+DTSTAMP:20180401T174118
+LOCATION:
+DESCRIPTION:Structure and function of the nervous system, including neuroanatomy, neurophysiology, and systems neurobiology. Topics include the properties of neurons and the mechanisms and organization underlying higher functions. Framework for general work in neurology, neuropathology, clinical medicine, and for more advanced work in neurobiology. Lecture and lab components must be taken together.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:NBIO206 LEC
+DTSTART;TZID=America/Los_Angeles:20180111T153000
+CREATED:20180401T174118
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T165000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

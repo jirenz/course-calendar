@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses8a993195-5dff-451d-84a7-517bc1c3ea5b
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_coursesa81cef6c-b610-4484-a926-e9e4f9af549c
+DTSTAMP:20180401T174156
 LOCATION:Huang Engineering Center 18
 DESCRIPTION:Digital communication is a rather unique field in engineering in which theoretical ideas have had an extraordinary impact on the design of actual systems. The course provides a basic understanding of the analysis and design of digital communication systems, building on various ideas from probability theory, stochastic processes, linear algebra and Fourier analysis. Topics include: detection and probability of error for binary and M-ary signals (PAM, QAM, PSK), receiver design and sufficient statistics, controlling the spectrum and the Nyquist criterion, bandpass communication and up/down conversion, design trade-offs: rate, bandwidth, power and error probability, coding and decoding (block codes, convolutional coding and Viterbi decoding).  Prerequisites: 179 or 261, and 178 or 278
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE279 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

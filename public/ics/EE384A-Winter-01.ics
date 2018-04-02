@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses3d52adff-0ba1-40c3-a232-bcc46308ac1b
-DTSTAMP:20180107T132523
-LOCATION:460-429
+LAST-MODIFIED:20180401T174157
+UID:explore_courses021ea4b8-165a-468f-97fc-2f4969efc32e
+DTSTAMP:20180401T174157
+LOCATION:
 DESCRIPTION:Local area networks addressing and switching; IEEE 802.1 bridging protocols (transparent bridging, virtual LANs). Internet routing protocols:  interior gateways (RIP, OSPF) and exterior gateways (BGP); multicast routing; multiprotocol label switching (MPLS). Routing in mobile networks: Mobile IP, Mobile Ad Hoc Networks (MANET), Wireless Mesh Networks. Prerequisite: EE 284 or CS 144.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE384A LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20180107T132523
+CREATED:20180401T174157
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

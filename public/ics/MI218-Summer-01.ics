@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180625T150000
-LAST-MODIFIED:20180107T132421
-UID:explore_coursesa8bb729f-4f3e-4b41-8a57-3f6e5a1b9c7c
-DTSTAMP:20180107T132421
+LAST-MODIFIED:20180401T174117
+UID:explore_coursesa5dc0f93-8753-4cb5-8916-a4cfa00aa028
+DTSTAMP:20180401T174117
 LOCATION:
 DESCRIPTION:Computational tools for processing, interpretation, communication, and archiving of biological information. Emphasis is on sequence and digital microscopy/image analysis. Intended for biological and clinical trainees without substantial programming experience.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MI218 LEC
 DTSTART;TZID=America/Los_Angeles:20180625T130000
-CREATED:20180107T132421
+CREATED:20180401T174117
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T150000;BYDAY=MO,TH
 END:VEVENT
 END:VCALENDAR

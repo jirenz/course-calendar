@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20180107T132411
-UID:explore_courses278a3aeb-17ef-4153-9600-fcef7978922c
-DTSTAMP:20180107T132411
+LAST-MODIFIED:20180401T174112
+UID:explore_courses35cd7951-ccbf-4d9e-aeed-3fbc4cfe394c
+DTSTAMP:20180401T174112
 LOCATION:Li Ka Shing Center, room 101
 DESCRIPTION:For PhD students in any of the Biosciences Departments and Programs at Stanford University. Emphasis on developing the ability to solve problems using genetic ideas and methods, to understand the nature and reliability of genetic inference, and to apply genetic reasoning to biological research. Weekly paper discussions based on original research papers that define or illustrate the ideas and techniques covered in the lecture.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE205 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20180107T132411
+CREATED:20180401T174112
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

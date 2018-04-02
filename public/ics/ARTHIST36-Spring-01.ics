@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T202000
-LAST-MODIFIED:20180107T132213
-UID:explore_courses5fd2d11f-8fcc-4b92-ab01-4600f2051daa
-DTSTAMP:20180107T132213
+DTEND;TZID=America/Los_Angeles:20180404T202000
+LAST-MODIFIED:20180401T174019
+UID:explore_courses63f51806-9b44-4910-831c-5a54dd582807
+DTSTAMP:20180401T174019
 LOCATION:370-370
-DESCRIPTION:Ideas matter. Concepts such as equality, progress, and tradition have inspired social movements, shaped political systems, and dramatically influenced the lives of individuals. Others, like freedom of the press, fact versus fiction, and citizenship play an important role in contemporary debates in the United States. All of these ideas are contested, and they have a real power to change lives, for better and for worse. In this one-unit class we will examine these dangerous ideas. Each week, a faculty member from a different department in the humanities and arts will explore a concept that has shaped human experience across time and space. Some weeks will have short reading assignments, but you are not required to purchase any materials.
+DESCRIPTION:Ideas matter. Concepts such as race, progress, and evil have inspired social movements, shaped political systems, and dramatically influenced the lives of individuals. Others, like religious tolerance, voting rights, and wilderness preservation play an important role in contemporary debates in the United States. All of these ideas are contested, and they have a real power to change lives, for better and for worse. In this one-unit class we will examine these dangerous ideas. Each week, a faculty member from a different department in the humanities and arts will explore a concept that has shaped human experience across time and space. Some weeks will have short reading assignments, but you are not required to purchase any materials.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTHIST36 SEM
-DTSTART;TZID=America/Los_Angeles:20180402T183000
-CREATED:20180107T132213
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T202000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180404T183000
+CREATED:20180401T174019
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T202000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

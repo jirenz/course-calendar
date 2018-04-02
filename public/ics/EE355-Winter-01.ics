@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T122000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses4e3ae42a-b55a-4b04-a6fa-b2e76853a4a8
-DTSTAMP:20180107T132523
-LOCATION:Mitch372
+LAST-MODIFIED:20180401T174156
+UID:explore_coursesf27a0ad3-e10b-41ed-9993-204a7e85375b
+DTSTAMP:20180401T174156
+LOCATION:Mitch 350 plus 372
 DESCRIPTION:Radar remote sensing, radar image characteristics, viewing geometry, range coding, synthetic aperture processing, correlation, range migration, range/Doppler algorithms, wave domain algorithms, polar algorithm, polarimetric processing, interferometric measurements. Applications: surfafe deformation, polarimetry and target discrimination, topographic mapping surface displacements, velocities of ice fields. Prerequisites: EE261. Recommended: EE254, EE278, EE279.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE355 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180404T162000
-LAST-MODIFIED:20180107T132452
-UID:explore_courses8618b1a7-77ee-414a-b1f7-0180f33ee390
-DTSTAMP:20180107T132452
-LOCATION:School of Education 130
+DTEND;TZID=America/Los_Angeles:20180404T105000
+LAST-MODIFIED:20180401T174136
+UID:explore_coursesbb5f6bcc-5a08-4e72-b2f1-be2948c2fc0c
+DTSTAMP:20180401T174136
+LOCATION:200-105
 DESCRIPTION:&quot;Interpersonal Learning &amp; Leadership - Row Staff Class&quot; explores research on leadership and the complex dynamics of our changing society. Participants will engage in course work intended to build skills relevant to being on a Row Staff team. Students will practice self reflection, risk taking, facilitating, decision-making and group leadership. Students will develop strategies to build community and facilitate challenging conversations while creating a safe environment for their peers to do the same.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC192B DIS
-DTSTART;TZID=America/Los_Angeles:20180404T150000
-CREATED:20180107T132452
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T093000
+CREATED:20180401T174136
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T105000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

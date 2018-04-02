@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20180107T132504
-UID:explore_courses3ef4b309-a413-408b-8389-d0e5f97c512e
-DTSTAMP:20180107T132504
+LAST-MODIFIED:20180401T174143
+UID:explore_coursesfc25cf46-e149-4b29-88b9-282eed78f05f
+DTSTAMP:20180401T174143
 LOCATION:McMurtry Building rm 350
 DESCRIPTION:Keplerian orbital mechanics and orbital perturbations; the general relative motion problem; linear formation flying dynamics and control; impulsive station-keeping and reconfiguration; high order relative motion equations; formulation of relative motion using orbital elements; perturbation-invariant formations; nonlinear formation control; low-thrust propulsion for formation flying; relative navigation using GNSS and optical navigation; applications: sparse-aperture imaging, remote sensing, on-orbit servicing, rendezvous, and docking. Prerequisite: AA 242A, ENGR 105, AA 279A, and familiarity with MatLab.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:AA279D LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132504
+CREATED:20180401T174143
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

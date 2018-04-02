@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132506
-UID:explore_courses8992229e-18b1-49b5-bf9a-f6f6340120fd
-DTSTAMP:20180107T132506
+LAST-MODIFIED:20180401T174144
+UID:explore_courses50a7078c-768d-4438-980d-adcaf71761f6
+DTSTAMP:20180401T174144
 LOCATION:
 DESCRIPTION:Focus on learning the fundamentals of each imaging modality including X-ray Imaging, Ultrasound, CT, and MRI, to learn normal human anatomy and how it appears on medical images, to learn the relative strengths of the modalities, and to answer, &quot;What am I looking at?&quot; Course website:&nbsp;http://bioe220.stanford.edu
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE220 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T143000
-CREATED:20180107T132506
+CREATED:20180401T174144
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

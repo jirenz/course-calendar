@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180625T102000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses90ebf2cb-dcea-4d1f-946a-676f165edad7
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_courses72586ed0-892f-4898-805e-c26717289efd
+DTSTAMP:20180401T174147
 LOCATION:Y2E2 111
-DESCRIPTION:Introduction to the application of MATLAB to an array of engineering systems. Emphasis on computational and visualization methods in the design, modeling and analysis of engineering problems.
+DESCRIPTION:Introduction to the application of MATLAB as a powerful tool to solve a variety of science and engineering problems. Exposure to computational and visualization tools available through MATLAB to analyze, solve, and visualize some common problems of interest in science and engineering.  Prequisite: Calculus.  Note: students enrolling in CEE 201S must seek the consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE201S LEC
 DTSTART;TZID=America/Los_Angeles:20180625T093000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T102000;BYDAY=MO,TU,WE,TH
 END:VEVENT
 END:VCALENDAR

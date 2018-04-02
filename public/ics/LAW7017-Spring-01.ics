@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T094500
-LAST-MODIFIED:20180107T132149
-UID:explore_courses60839681-4067-4c60-8c4d-fbbf131dea33
-DTSTAMP:20180107T132149
-LOCATION:
+DTEND;TZID=America/Los_Angeles:20180404T094500
+LAST-MODIFIED:20180401T174011
+UID:explore_coursesf23e68b1-3399-4098-9e44-011cd24ba9e7
+DTSTAMP:20180401T174011
+LOCATION:Law285
 DESCRIPTION:(Formerly Law 230)  The course begins with readings setting forth the intellectual and experiential background of the framing, including common law and natural rights theory, republicanism, economic &amp; political scientific ideas, and colonial and post-Independence experience. We then study large parts of the debates at the Constitutional Convention, primarily using Madison's Notes. Major topics are the principle of representation, the extent and enumeration of national powers, the construction of the executive and judicial branches, and slavery.  Next come the ratification debates, including readings from antifederalist writers, The Federalist, and speeches in ratification conventions. We conclude with the addition of the Bill of Rights. Classes consist of a combination of lecture and extensive participation by students. Elements used in grading:  Class participation, In-class exam, supplemented by short take-home essay.  Cross-listed with History (HISTORY 153).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW7017 LEC
-DTSTART;TZID=America/Los_Angeles:20180402T082500
-CREATED:20180107T132149
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180601T094500;BYDAY=MO,WE,TH
+DTSTART;TZID=America/Los_Angeles:20180404T082500
+CREATED:20180401T174011
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180601T094500;BYDAY=WE,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T093500
+LAST-MODIFIED:20180401T174011
+UID:explore_courses93307765-a4ca-4949-bdb7-ea9f9bb2a48d
+DTSTAMP:20180401T174011
+LOCATION:Law285
+DESCRIPTION:(Formerly Law 230)  The course begins with readings setting forth the intellectual and experiential background of the framing, including common law and natural rights theory, republicanism, economic &amp; political scientific ideas, and colonial and post-Independence experience. We then study large parts of the debates at the Constitutional Convention, primarily using Madison's Notes. Major topics are the principle of representation, the extent and enumeration of national powers, the construction of the executive and judicial branches, and slavery.  Next come the ratification debates, including readings from antifederalist writers, The Federalist, and speeches in ratification conventions. We conclude with the addition of the Bill of Rights. Classes consist of a combination of lecture and extensive participation by students. Elements used in grading:  Class participation, In-class exam, supplemented by short take-home essay.  Cross-listed with History (HISTORY 153).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW7017 LEC
+DTSTART;TZID=America/Los_Angeles:20180402T081500
+CREATED:20180401T174011
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180601T093500;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180626T152000
-LAST-MODIFIED:20180107T132526
-UID:explore_coursesa651a300-4021-482b-acfe-a26fa6e70d5e
-DTSTAMP:20180107T132526
-LOCATION:Shriram Ctr BioChemE 104
+LAST-MODIFIED:20180401T174158
+UID:explore_coursesdc0da371-9dea-4608-a564-b697ed2ff6ce
+DTSTAMP:20180401T174158
+LOCATION:Skillaud
 DESCRIPTION:Concepts and tools for the analysis of problems under uncertainty, focusing on model building and communication: the structuring, processing, and presentation of probabilistic information. Examples from legal, social, medical, and physical problems. Spreadsheets illustrate and solve problems as a complement to analytical closed-form solutions. Topics: axioms of probability, probability trees, random variables, distributions, conditioning, expectation, change of variables, and limit theorems. Prerequisite: multivariable calculus and linear algebra. Recommended: knowledge of spreadsheets.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E220 LEC
 DTSTART;TZID=America/Los_Angeles:20180626T133000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T152000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

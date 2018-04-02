@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses48e102ef-1790-42ed-84b8-690dc3e60ba5
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_courses692abe34-d507-49b7-84b3-7f5c62651c54
+DTSTAMP:20180401T174154
 LOCATION:McCullough 126
 DESCRIPTION:Designing algorithms for efficient processing of large data sets poses unique challenges. This course will discuss algorithmic paradigms that have been developed to efficiently process data sets that are much larger than available memory. We will cover streaming algorithms and sketching methods that produce compact datanstructures, dimension reduction methods that preserve geometric structure, efficient algorithms for numerical linear algebra, graph sparsification methods, as well as impossibility results for these techniques.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS368 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

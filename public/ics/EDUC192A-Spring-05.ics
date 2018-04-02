@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20180107T132452
-UID:explore_coursesd0363ddc-1d39-44ab-9d6a-bd35bf244236
-DTSTAMP:20180107T132452
-LOCATION:110-114
+DTEND;TZID=America/Los_Angeles:20180403T145000
+LAST-MODIFIED:20180401T174136
+UID:explore_coursesba0f9b30-7b19-4a23-9b9d-d1130ae2f4fb
+DTSTAMP:20180401T174136
+LOCATION:260-002
 DESCRIPTION:Preparing students for roles as Resident and Community Assistants, &quot;Intelligent Leadership&quot; explores research on college student development, leadership and the complex dynamics of our changing society both within and outside the college environment. Participants will engage in course work that builds skills relevant to their positions and allow students to implement these skills in a real world environment. Through reflection, self-examination and engagement in interpersonal dynamics and analysis, students will examine how their peer group develops while at the university.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC192A DIS
-DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20180107T132452
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20180401T174136
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

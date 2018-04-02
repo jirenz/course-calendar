@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170925T190000
-LAST-MODIFIED:20180107T132440
-UID:explore_coursese0d1e25b-6b25-4b5e-aa10-93049a4e1b0b
-DTSTAMP:20180107T132440
-LOCATION:
-DESCRIPTION:Focus is on military literature and workshopping students' writing about their military experiences. Texts  and guest faculty and writers vary each quarter. Dinner and course materials provided  free for all students.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:SOMGEN203 SEM
-DTSTART;TZID=America/Los_Angeles:20170925T170000
-CREATED:20180107T132440
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171020T190000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20171106T190000
-LAST-MODIFIED:20180107T132440
-UID:explore_courses5e1c4d26-e731-4cdd-a2a8-8f69521f5cfc
-DTSTAMP:20180107T132440
+LAST-MODIFIED:20180401T174130
+UID:explore_coursescd1ad84c-5d8d-45b4-a269-cf6ffcfb7291
+DTSTAMP:20180401T174130
 LOCATION:
 DESCRIPTION:Focus is on military literature and workshopping students' writing about their military experiences. Texts  and guest faculty and writers vary each quarter. Dinner and course materials provided  free for all students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SOMGEN203 SEM
 DTSTART;TZID=America/Los_Angeles:20171106T170000
-CREATED:20180107T132440
+CREATED:20180401T174130
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171117T190000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170925T190000
+LAST-MODIFIED:20180401T174130
+UID:explore_coursesa72926e3-9e11-4213-a3e3-d51a0fe924dc
+DTSTAMP:20180401T174130
+LOCATION:
+DESCRIPTION:Focus is on military literature and workshopping students' writing about their military experiences. Texts  and guest faculty and writers vary each quarter. Dinner and course materials provided  free for all students.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOMGEN203 SEM
+DTSTART;TZID=America/Los_Angeles:20170925T170000
+CREATED:20180401T174130
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171020T190000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

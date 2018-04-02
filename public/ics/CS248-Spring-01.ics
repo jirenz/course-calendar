@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses0d924adc-1937-4255-ae66-0b308778be12
-DTSTAMP:20180107T132519
-LOCATION:420-040
-DESCRIPTION:This is the second course in the computer graphics sequence, and as such it assumes a strong familiarity with rendering and image creation. The course has a strong focus on computational geometry, animation, and simulation. Topics include splines, implicit surfaces, geometric modeling, collision detection, animation curves, particle systems and crowds, character animation, articulation, skinning, motion capture and editing, rigid and deformable bodies, and fluid simulation. As a final project, students implement an interactive video game utilizing various concepts covered in the class. Games may be designed on mobile devices, in a client/server/browser environment, or on a standard personal computer. Prerequisite: CS148.
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20180401T174154
+UID:explore_courses4f89ec39-9b86-4e9a-a362-62051125d6b9
+DTSTAMP:20180401T174154
+LOCATION:260-113
+DESCRIPTION:This is the second course in the computer graphics sequence, and as such it assumes familiarity with rendering and image creation. The course has a strong focus on sampling methods, computational geometry, animation, and simulation. Topics include sampling theory, texture mapping, transformations, splines, implicit surfaces, geometric modeling, animation curves, inverse kinematics, character animation, motion capture and editing, image compression and virtual reality. Students will perform programming assignments and a self-selected final project that explores concepts covered in the class. Prerequisite: CS 107, MATH 51.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS248 LEC
-DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132519
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20180401T174154
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

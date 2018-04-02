@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180405T132000
-LAST-MODIFIED:20180107T132356
-UID:explore_courses38210863-1c15-4fe2-a9db-c7a3b0b59166
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174106
+UID:explore_coursesd12e99ef-20b5-42d7-918c-85b6695fa96d
+DTSTAMP:20180401T174106
 LOCATION:320-105
 DESCRIPTION:A weekly seminar allowing students the opportunity to discuss and explore applied Symbolic Systems in technology, entrepreneurship, and venture capital. We will explore popular conventions and trends through the lens of numerous deductive and applied Symbolic Systems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:SYMSYS261 LEC
 DTSTART;TZID=America/Los_Angeles:20180405T113000
-CREATED:20180107T132356
+CREATED:20180401T174106
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

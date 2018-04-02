@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses15ca4301-9c13-4491-b5d8-d54640263dfa
-DTSTAMP:20180107T132519
-LOCATION:Herrin T195
+LAST-MODIFIED:20180401T174154
+UID:explore_coursesde9134a1-5695-487f-96e9-d82ebaa2a998
+DTSTAMP:20180401T174154
+LOCATION:Alway Building, Room M208
 DESCRIPTION:Computational methods for the translation of biomedical data into diagnostic, prognostic, and therapeutic applications in medicine. Topics: multi-scale omics data generation and analysis, utility and limitations of public biomedical resources, machine learning and data mining, issues and opportunities in drug discovery, and mobile/digital health solutions. Case studies and course project. Prerequisites: programming ability at the level of CS 106A and familiarity with biology and statistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS275 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

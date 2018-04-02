@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180406T122000
-LAST-MODIFIED:20180107T132323
-UID:explore_courses9a725bd4-f2bc-4029-a474-7ac31d3d03a8
-DTSTAMP:20180107T132323
+LAST-MODIFIED:20180401T174052
+UID:explore_courses61a0890e-68f9-4a4e-bf8c-f4642e1ac893
+DTSTAMP:20180401T174052
 LOCATION:Knoll315
 DESCRIPTION:All aspects of auditory perception, often with emphasis on computational models. Topics: music perception, signal processing, auditory models, pitch perception, speech, binaural hearing, auditory scene analysis, basic psychoacoustics, and neurophysiology. See http://ccrma.stanford.edu/courses/. May be repeated for credit a total of 14 times.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC319 RES
 DTSTART;TZID=America/Los_Angeles:20180406T103000
-CREATED:20180107T132323
+CREATED:20180401T174052
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

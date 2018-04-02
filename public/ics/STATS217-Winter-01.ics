@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T102000
-LAST-MODIFIED:20180107T132356
-UID:explore_courses5cd3c98d-dacd-4748-867f-e463fb4539c7
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174105
+UID:explore_coursesa13d843d-ea98-474f-aee5-7144513fb590
+DTSTAMP:20180401T174105
 LOCATION:200-205
 DESCRIPTION:Discrete and continuous time Markov chains, poisson processes, random walks, branching processes, first passage times, recurrence and transience, stationary distributions. Non-Statistics masters students may want to consider taking STATS 215 instead. Prerequisite: STATS 116 or consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS217 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T093000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

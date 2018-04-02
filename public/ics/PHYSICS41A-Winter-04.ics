@@ -23,30 +23,30 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T202000
-LAST-MODIFIED:20180107T132334
-UID:explore_courses9f28723e-643b-4c2e-bfc3-c4306ccda0a4
-DTSTAMP:20180107T132334
+LAST-MODIFIED:20180401T174056
+UID:explore_courses7c5f5b77-a43a-4b01-85ae-adc0caf9c60b
+DTSTAMP:20180401T174056
 LOCATION:
 DESCRIPTION:Students attend Physics 41 lectures with different recitation sessions: two sections per week instead of one. Since PH41 sections fill up, you should sign up for your desired section in PH41 now in case you do not get permission for PH41A and you have to take PH41 instead.  Prerequisite: application;  see https://stanforduniversity.qualtrics.com/jfe/form/SV_4OrBvKcJ5o1Baw5. nCourse content is identical to Physics 41: How are motions of objects in the physical world determined by laws of physics? Students learn to describe the motion of objects (kinematics) and then understand why motions have the form they do (dynamics). Emphasis on how the important physical principles in mechanics, such as conservation of momentum and energy for translational and rotational motion, follow from just three laws of nature: Newton's laws of motion. Distinction made between fundamental laws of nature and empirical rules that are useful approximations for more complex physics. Problems drawn from examples of mechanics in everyday life. Skills developed in verifying that derived results satisfy criteria for correctness, such as dimensional consistency and expected behavior in limiting cases. Discussions based on language of mathematics, particularly vector representations and operations, and calculus. Physical understanding fostered by peer interaction and demonstrations in lecture, and discussion sections based on interactive group problem solving.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS41A DIS
 DTSTART;TZID=America/Los_Angeles:20180108T183000
-CREATED:20180107T132334
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T202000;BYDAY=MO
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T202000
-LAST-MODIFIED:20180107T132334
-UID:explore_coursesd751230f-e966-4bca-b841-34e7d4664cb3
-DTSTAMP:20180107T132334
+LAST-MODIFIED:20180401T174056
+UID:explore_coursesbd490165-d8d4-4a6f-b04c-f60b5d9e9c77
+DTSTAMP:20180401T174056
 LOCATION:Lathrop 282
 DESCRIPTION:Students attend Physics 41 lectures with different recitation sessions: two sections per week instead of one. Since PH41 sections fill up, you should sign up for your desired section in PH41 now in case you do not get permission for PH41A and you have to take PH41 instead.  Prerequisite: application;  see https://stanforduniversity.qualtrics.com/jfe/form/SV_4OrBvKcJ5o1Baw5. nCourse content is identical to Physics 41: How are motions of objects in the physical world determined by laws of physics? Students learn to describe the motion of objects (kinematics) and then understand why motions have the form they do (dynamics). Emphasis on how the important physical principles in mechanics, such as conservation of momentum and energy for translational and rotational motion, follow from just three laws of nature: Newton's laws of motion. Distinction made between fundamental laws of nature and empirical rules that are useful approximations for more complex physics. Problems drawn from examples of mechanics in everyday life. Skills developed in verifying that derived results satisfy criteria for correctness, such as dimensional consistency and expected behavior in limiting cases. Discussions based on language of mathematics, particularly vector representations and operations, and calculus. Physical understanding fostered by peer interaction and demonstrations in lecture, and discussion sections based on interactive group problem solving.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS41A DIS
 DTSTART;TZID=America/Los_Angeles:20180110T183000
-CREATED:20180107T132334
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T202000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

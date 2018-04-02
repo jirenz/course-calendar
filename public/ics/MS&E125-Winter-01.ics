@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20180107T132526
-UID:explore_courses569bda82-9210-4315-9775-ff635f5b40f1
-DTSTAMP:20180107T132526
-LOCATION:300-300
+LAST-MODIFIED:20180401T174158
+UID:explore_courses141f9e5a-297c-4ff9-8a2e-cce794db1253
+DTSTAMP:20180401T174158
+LOCATION:200-002
 DESCRIPTION:An increasing amount of data is now generated in a variety of disciplines, ranging from finance and economics, to the natural and social sciences. Making use of this information, however, requires both statistical tools and an understanding of how the substantive scientific questions should drive the analysis. In this hands-on course, we learn to explore and analyze real-world datasets. We cover techniques for summarizing and describing data, methods for statistical inference, and principles for effectively communicating results. Prerequisite: 120, CS 106A, or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E125 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

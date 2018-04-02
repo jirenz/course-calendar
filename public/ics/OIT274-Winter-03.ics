@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20180107T132133
-UID:explore_coursesb8c204b8-e300-4e84-9f5b-f49af4eae4bc
-DTSTAMP:20180107T132133
+LAST-MODIFIED:20180401T173958
+UID:explore_courses163a1290-1e98-4a34-8fda-2c7b9eef8ff2
+DTSTAMP:20180401T173958
 LOCATION:GSB McClelland 109
 DESCRIPTION:Base Data and Decisions is a first-year MBA course in statistics and regression analysis. The course is taught using a flipped classroom model that combines extensive online materials with a lab-based classroom approach. Traditional lecture content will be learned through online videos, simulations, and exercises, while time spent in the classroom will be discussions, problem solving, or computer lab sessions. Content covered includes basic probability, sampling techniques, hypothesis testing, t-tests, linear regression, and prediction models. The group regression project is a key component of the course, and all students will learn the statistical software package R.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OIT274 CAS
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20180107T132133
+CREATED:20180401T173958
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

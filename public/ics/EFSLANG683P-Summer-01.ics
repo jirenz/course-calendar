@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180626T172000
-LAST-MODIFIED:20180107T132242
-UID:explore_coursesa162c6d6-ba95-43d5-9964-403c171579ad
-DTSTAMP:20180107T132242
-LOCATION:380-381T
+DTEND;TZID=America/Los_Angeles:20180627T172000
+LAST-MODIFIED:20180401T174036
+UID:explore_courses642545a2-683f-4031-abb0-f6614e4d54a6
+DTSTAMP:20180401T174036
+LOCATION:
 DESCRIPTION:(1-2 units). Provides support in the development  of clear, comprehensible English pronunciation. Includes attention to individual sounds as well as stress, rhythm, and intonation. Students taking the course for 3 units will have additional individual assignments and a 30-minute tutorial each week. Limited to visiting undergraduates and students in the High School Summer College program.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EFSLANG683P LNG
-DTSTART;TZID=America/Los_Angeles:20180626T153000
-CREATED:20180107T132242
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T172000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180627T153000
+CREATED:20180401T174036
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

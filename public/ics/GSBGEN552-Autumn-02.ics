@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20171023T175000
-LAST-MODIFIED:20180107T132131
-UID:explore_coursesa670a8cc-b7e9-4be7-8ffa-81d717a66c27
-DTSTAMP:20180107T132131
-LOCATION:GSB Patterson 107
-DESCRIPTION:This two-week, six-session workshop will offer techniques and practical in-class exercises for writing better -- better memos, emails, feedback for colleagues, news releases, responses to questions from the media and from interviewers, and opinion pieces. Glenn Kramon, an editor who has helped New York Times reporters win 10 Pulitzer Prizes, will teach the course along with accomplished journalists with expertise in powerful, persuasive writing for business. They will provide not only helpful tips but constructive feedback on students' work. They will also share thoughts on how best to work with the news media.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:GSBGEN552 SEM
-DTSTART;TZID=America/Los_Angeles:20171023T150000
-CREATED:20180107T132131
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171027T175000;BYDAY=MO,WE,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20171106T175000
-LAST-MODIFIED:20180107T132131
-UID:explore_coursesd82caaa6-141e-403c-a6da-9696c00302a7
-DTSTAMP:20180107T132131
+LAST-MODIFIED:20180401T173957
+UID:explore_courses0bb62b71-766c-42c5-bd99-9e23b858bfd6
+DTSTAMP:20180401T173957
 LOCATION:
 DESCRIPTION:This two-week, six-session workshop will offer techniques and practical in-class exercises for writing better -- better memos, emails, feedback for colleagues, news releases, responses to questions from the media and from interviewers, and opinion pieces. Glenn Kramon, an editor who has helped New York Times reporters win 10 Pulitzer Prizes, will teach the course along with accomplished journalists with expertise in powerful, persuasive writing for business. They will provide not only helpful tips but constructive feedback on students' work. They will also share thoughts on how best to work with the news media.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GSBGEN552 SEM
 DTSTART;TZID=America/Los_Angeles:20171106T150000
-CREATED:20180107T132131
+CREATED:20180401T173957
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171110T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20171023T175000
+LAST-MODIFIED:20180401T173957
+UID:explore_courses458ee6d2-c3b3-4712-bcbb-a8a23131c338
+DTSTAMP:20180401T173957
+LOCATION:GSB Patterson 107
+DESCRIPTION:This two-week, six-session workshop will offer techniques and practical in-class exercises for writing better -- better memos, emails, feedback for colleagues, news releases, responses to questions from the media and from interviewers, and opinion pieces. Glenn Kramon, an editor who has helped New York Times reporters win 10 Pulitzer Prizes, will teach the course along with accomplished journalists with expertise in powerful, persuasive writing for business. They will provide not only helpful tips but constructive feedback on students' work. They will also share thoughts on how best to work with the news media.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GSBGEN552 SEM
+DTSTART;TZID=America/Los_Angeles:20171023T150000
+CREATED:20180401T173957
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171027T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

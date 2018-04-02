@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T175000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses55748ecf-2f59-4eaf-b209-15839d33ba60
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_courses84d817bd-db61-4930-a7d5-f7c2a6a14c8b
+DTSTAMP:20180401T174156
 LOCATION:
 DESCRIPTION:Writing in the Major (WIM) version of the 4-unit EE 264 theory + lab/project course.  This course also meets the EE design requirement.  Digital signal processing (DSP) techniques and design of DSP applications. Topics include: discrete-time random signals; sampling and multi-rate systems; oversampling and quantization in A-to-D conversion; properties of LTI systems; quantization in fixed-point implementations of filters; digital filter design; discrete Fourier Transform and FFT; and spectrum analysis using the DFT.  In the design part of the course, students complete basic labs and a 4 week final project and report. See ee264.stanford.edu for more information. Prerequisite: EE 102A and EE 102B or equivalent, basic programming skills (Matlab and C++)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE264W LEC
 DTSTART;TZID=America/Los_Angeles:20180108T163000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

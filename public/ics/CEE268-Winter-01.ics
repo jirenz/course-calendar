@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T145000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses493b357c-e4a5-43bd-9852-01dbe3d7b2e7
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_courses5b576c20-cd14-42b0-8c7b-5fecc8302d1a
+DTSTAMP:20180401T174147
 LOCATION:Y2E2 335
 DESCRIPTION:Flow and mass transport in porous media. Applications of potential flow theory and numerical modeling methods to practical groundwater problems: flow to and from wells, rivers, lakes, drainage ditches; flow through and under dams; streamline tracing; capture zones of wells; and mixing schemes for in-situ remediation. Prerequisites: calculus and introductory fluid mechanics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE268 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

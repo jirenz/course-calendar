@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T152000
-LAST-MODIFIED:20180107T132239
-UID:explore_coursesc355bee3-584f-489f-8d7f-95810b22159f
-DTSTAMP:20180107T132239
-LOCATION:240-110
+DTEND;TZID=America/Los_Angeles:20180404T192000
+LAST-MODIFIED:20180401T174035
+UID:explore_coursesba38cc0b-86ac-4c4c-bead-96e8b7933c88
+DTSTAMP:20180401T174035
+LOCATION:Econ 106
 DESCRIPTION:This is the second half of the international finance sequence. Part I: intertemporal approach to the current account, international real business cycle models, international risk-sharing, gains from financial integration, global imbalances, and exchange rate determination. Part 2: open-economy monetary models and currency unions. Part 3: international finance policy, capital controls and foreign exchange interventions. Part 4: sovereign debt. . Prerequisites:Econ 210, 211, 212 and 268.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON269 LEC
-DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132239
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180404T173000
+CREATED:20180401T174035
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T192000
+LAST-MODIFIED:20180401T174035
+UID:explore_courses4605bf11-e64c-4fd9-9296-871dfb2312cb
+DTSTAMP:20180401T174035
+LOCATION:Econ 106
+DESCRIPTION:This is the second half of the international finance sequence. Part I: intertemporal approach to the current account, international real business cycle models, international risk-sharing, gains from financial integration, global imbalances, and exchange rate determination. Part 2: open-economy monetary models and currency unions. Part 3: international finance policy, capital controls and foreign exchange interventions. Part 4: sovereign debt. . Prerequisites:Econ 210, 211, 212 and 268.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ECON269 LEC
+DTSTART;TZID=America/Los_Angeles:20180403T163000
+CREATED:20180401T174035
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

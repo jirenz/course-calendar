@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180628T172000
-LAST-MODIFIED:20180107T132242
-UID:explore_coursesd9c6e5be-9189-476b-9d91-4d3c555b91c2
-DTSTAMP:20180107T132242
-LOCATION:460-334
+DTEND;TZID=America/Los_Angeles:20180625T172000
+LAST-MODIFIED:20180401T174036
+UID:explore_coursesb6fc8e07-1de2-40bc-84a4-622061d37ee4
+DTSTAMP:20180401T174036
+LOCATION:
 DESCRIPTION:(1-2 units). Provides support in the development of English reading skills for academic purposes, including work on comprehension, speed, and critical interpretation,  along with strategies for improving vocabulary. Students taking the course for 2 units will have additional individual assignments and a 30-minute tutorial each week. Limited to visiting undergraduates and students in the High School Summer College program.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EFSLANG683R LNG
-DTSTART;TZID=America/Los_Angeles:20180628T153000
-CREATED:20180107T132242
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T172000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180625T153000
+CREATED:20180401T174036
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T172000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

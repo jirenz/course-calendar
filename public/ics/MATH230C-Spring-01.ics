@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T102000
-LAST-MODIFIED:20180107T132316
-UID:explore_coursesbd8c4002-fed5-4638-adb8-24bf3232d995
-DTSTAMP:20180107T132316
+LAST-MODIFIED:20180401T174049
+UID:explore_courses395864c7-d317-44f8-a61b-619111ae0dda
+DTSTAMP:20180401T174049
 LOCATION:Hewlett Teaching Center Rm 101
 DESCRIPTION:Continuous time stochastic processes: martingales, Brownian motion, stationary independent increments, Markov jump processes and Gaussian processes. Invariance principle, random walks, LIL and functional CLT. Markov and strong Markov property. Infinitely divisible laws. Some ergodic theory. Prerequisite: 310B or MATH 230B. http://statweb.stanford.edu/~adembo/stat-310c/
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH230C LEC
 DTSTART;TZID=America/Los_Angeles:20180403T090000
-CREATED:20180107T132316
+CREATED:20180401T174049
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

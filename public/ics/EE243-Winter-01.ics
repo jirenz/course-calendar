@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses26e2e2d1-a449-45d8-bab7-06d677527347
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_courses7a6b7936-62cc-458e-a2c7-1ffc4be856ee
+DTSTAMP:20180401T174156
 LOCATION:380-380W
 DESCRIPTION:Semiconductor physics and optical processes in semiconductors. Operating principles and practical device features of semiconductor optoelectronic materials and heterostructures. Devices include: optical detectors (p-i-n, avalanche, and MSM); light emitting diodes; electroabsorptive modulators (Franz-Keldysh and QCSE), electrorefractive (directional couplers, Mach-Zehnder), switches (SEEDs); and lasers (waveguide and vertical cavity surface emitting). Prerequisites: semiconductor devices and solid state physics such as EE 216 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE243 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses5edd73f9-222e-4255-ba8d-d9fb8903389d
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_courses2f4bc9ad-8a58-41ff-8275-9e7fc809560d
+DTSTAMP:20180401T174156
 LOCATION:540-108
 DESCRIPTION:Extraordinary advances in sequencing technology in the past decade have revolutionized biology and medicine. Many high-throughput sequencing based assays have been designed to make various biological measurements of interest. This course explores the various computational and data science problems that arises from processing, managing and performing predictive analytics on this high throughput sequencing data. Specific problems we will study include genome assembly, haplotype phasing, RNA-Seq assembly, RNA-Seq quantification, single cell RNA-seq analysis, multi-omics analysis,nand genome compression. We attack these problems through a combination of tools from information theory, combinatorial algorithms, machine learning and signal processing. Through this course, the student will also get familiar with various software tools developed for the analysis of real sequencing data. Prerequisites: Basic knowledge of probability at the level of EE 178. Some programming experience.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE372 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

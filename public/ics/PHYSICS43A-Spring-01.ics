@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180404T172000
-LAST-MODIFIED:20180107T132334
-UID:explore_courses6a60e6fd-3c08-4bf7-b7fd-87a7b5e766c3
-DTSTAMP:20180107T132334
-LOCATION:Lathrop 299
-DESCRIPTION:Additional assistance and applications for Physics 43. In-class problems in physics and engineering. Exercises in calculations of electric and magnetic forces and field to reinforce concepts and techniques; Calculations involving inductors, transformers, AC circuits, motors and generators. Highly recommended for students with limited or no high school physics or calculus.  Co-requisite: PHYSICS 43.
+DTEND;TZID=America/Los_Angeles:20180404T152000
+LAST-MODIFIED:20180401T174056
+UID:explore_courses73fe6200-2e07-4afa-a414-b7a9e3f965ac
+DTSTAMP:20180401T174056
+LOCATION:
+DESCRIPTION:Additional assistance and applications for Physics 43. In-class problems in physics and engineering. Exercises in calculations of electric and magnetic forces and field to reinforce concepts and techniques; Calculations involving inductors, transformers, AC circuits, motors and generators. Highly recommended for students with limited or no high school physics or calculus.  Corequisite: PHYSICS 43-34 or PHYSICS 43-35; Prerequisite: application at https://stanforduniversity.qualtrics.com/jfe/form/SV_eIGPlvxyNxdziXX .
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS43A LEC
-DTSTART;TZID=America/Los_Angeles:20180404T153000
-CREATED:20180107T132334
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180404T133000
+CREATED:20180401T174056
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

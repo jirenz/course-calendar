@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T175000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses5c2d80e8-9edf-434a-8b59-d423f8429f56
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_courses0c660625-e2b2-4e7e-b9ad-086b4d5a822e
+DTSTAMP:20180401T174154
 LOCATION:Gates B12
 DESCRIPTION:Team project in data mining and machine learning of very large-scale data, including the problem statement, implementation, and evaluation of a solution. Students work on real problems on real-world data. The course provides access to large real-world data and access to big data cloud computing infrastructure (Amazon EC2, Google Cloud Platform). Some lectures on relevant materials will be given (Hadoop, Spark, Hive, Amazon EC2) as well as other topics of relevance to projects.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS341 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T163000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

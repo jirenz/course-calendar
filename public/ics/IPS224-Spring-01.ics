@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T172000
-LAST-MODIFIED:20180107T132305
-UID:explore_courses35e7fc49-0524-4db8-a6cf-69f89fa968d2
-DTSTAMP:20180107T132305
-LOCATION:Lathrop 296
+DTEND;TZID=America/Los_Angeles:20180405T172000
+LAST-MODIFIED:20180401T174044
+UID:explore_courses63beaf01-190c-4774-8e69-bc4b45a11ad2
+DTSTAMP:20180401T174044
+LOCATION:Lathrop 299
 DESCRIPTION:This course explores East Asia&iquest;s rapid economic development and the current economic challenges. For the purpose of this course, we will focus on China, Japan, and Korea. The first part of the course examines economic growth in East Asia and the main mechanisms. In this context, we will examine government and industrial policy, international trade, firms and business groups, and human capital. We will discuss the validity of an East Asian model for economic growth. However, rapid economic growth and development in East Asia was followed by economic stagnation and financial crisis. The second part of the course focuses on the current economic challenges confronting these countries, in particular, inequality, demography, and entrepreneurship and innovation. Readings will come from books, journal articles, reports, news articles, and case studies. Many of the readings will have an empirical component and students will be able to develop their understanding of how empirical evidence is presented in articles. Prerequisite course: IPS 206, POLISCI 350B, ECON 102B, or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:IPS224 SEM
-DTSTART;TZID=America/Los_Angeles:20180402T143000
-CREATED:20180107T132305
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO
+DTSTART;TZID=America/Los_Angeles:20180405T143000
+CREATED:20180401T174044
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

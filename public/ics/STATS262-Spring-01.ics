@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20180107T132356
-UID:explore_courses3a4ffd30-3250-4972-87d6-6620e7cc181c
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174105
+UID:explore_coursesd17d988a-3598-447c-af0c-697937e37959
+DTSTAMP:20180401T174105
 LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:Methods for analyzing longitudinal data. Topics include Kaplan-Meier methods, Cox regression, hazard ratios, time-dependent variables, longitudinal data structures, profile plots, missing data, modeling change, MANOVA, repeated-measures ANOVA, GEE, and mixed models. Emphasis is on practical applications. Prerequisites: basic ANOVA and linear regression.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS262 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

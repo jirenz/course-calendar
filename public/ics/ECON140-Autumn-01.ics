@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T172000
-LAST-MODIFIED:20180107T132239
-UID:explore_courses00f099ee-cd0f-4122-a0a8-a23f1d541d42
-DTSTAMP:20180107T132239
+LAST-MODIFIED:20180401T174035
+UID:explore_courses5233d38e-94b5-4e67-b497-ca1c921e103a
+DTSTAMP:20180401T174035
 LOCATION:Econ 140
 DESCRIPTION:Modern portfolio theory and corporate finance. Topics: present value and discounting, interest rates and yield to maturity, various financial instruments including financial futures, mutual funds, the efficient market theory, basic asset pricing theory, the capital asset pricing model, and models for pricing options and other contingent claims. Use of derivatives for hedging. Prerequisites: ECON 51 (Public Policy majors may take PUBLPOL 51 as a substitute for ECON 51), ECON 102A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON140 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T153000
-CREATED:20180107T132239
+CREATED:20180401T174035
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

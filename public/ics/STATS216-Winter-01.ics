@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132356
-UID:explore_courses09dd090e-f27b-4c15-a47b-8c429f52215e
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174105
+UID:explore_courses5e6fde3c-220c-40aa-bb68-7d5fd4f25714
+DTSTAMP:20180401T174105
 LOCATION:Gates B1
 DESCRIPTION:Overview of supervised learning, with a focus on regression and classification methods. Syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis;cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines; Some unsupervised learning: principal components and clustering (k-means and hierarchical). Computing is done in R, through tutorial sessions and homework assignments. This math-light course is offered via video segments (MOOC style), and in-class problem solving sessions. Prereqs: Introductory courses in statistics or probability (e.g., Stats 60 or Stats 101), linear algebra (e.g., Math 51), and computer programming (e.g., CS 105).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS216 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

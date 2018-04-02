@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180212T175000
-LAST-MODIFIED:20180107T132133
-UID:explore_courses51b0a15d-194f-4164-b5f7-5072e3bcfafa
-DTSTAMP:20180107T132133
-LOCATION:
-DESCRIPTION:This class will explore the properties shared by ideas that stick with people and change the way they think and act.  The course is based on the framework in the book Made to Stick and focuses on hands-on exercises that will teach you how to transform your messages to make them stick: How do you get attention for your idea in a crowded marketplace of ideas?  How can you convey complex information quickly?  How do you make a broad, abstract idea concrete and tangible enough for people to understand?  How do you provide credibility for your idea without resorting to dry statistics? Although the exercises in this course are fun and generally short, students in the past have said that they do require a lot of thinking time outside of class in order to apply the course principles to a specific message.  This is particularly true of the final project which involves improving the message of a specific live client (e.g., a friend with a start-up business, the recruiting materials of a former employer).  This course will be especially useful for entrepreneurs who must pitch their ideas to customers, investors, and potential employees and for students in the nonprofit sector where resources for spreading ideas are often thin.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:OB568 CAS
-DTSTART;TZID=America/Los_Angeles:20180212T150000
-CREATED:20180107T132133
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180216T175000;BYDAY=MO,WE,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180129T175000
-LAST-MODIFIED:20180107T132133
-UID:explore_courses316d4524-d134-4f26-a72f-2b25455e4cc9
-DTSTAMP:20180107T132133
+LAST-MODIFIED:20180401T173959
+UID:explore_courses5643a640-c7da-4cd2-892a-c98141d0ac1f
+DTSTAMP:20180401T173959
 LOCATION:GSB Patterson 102
 DESCRIPTION:This class will explore the properties shared by ideas that stick with people and change the way they think and act.  The course is based on the framework in the book Made to Stick and focuses on hands-on exercises that will teach you how to transform your messages to make them stick: How do you get attention for your idea in a crowded marketplace of ideas?  How can you convey complex information quickly?  How do you make a broad, abstract idea concrete and tangible enough for people to understand?  How do you provide credibility for your idea without resorting to dry statistics? Although the exercises in this course are fun and generally short, students in the past have said that they do require a lot of thinking time outside of class in order to apply the course principles to a specific message.  This is particularly true of the final project which involves improving the message of a specific live client (e.g., a friend with a start-up business, the recruiting materials of a former employer).  This course will be especially useful for entrepreneurs who must pitch their ideas to customers, investors, and potential employees and for students in the nonprofit sector where resources for spreading ideas are often thin.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OB568 CAS
 DTSTART;TZID=America/Los_Angeles:20180129T150000
-CREATED:20180107T132133
+CREATED:20180401T173959
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180202T175000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180212T175000
+LAST-MODIFIED:20180401T173959
+UID:explore_courses41d482f1-7c2b-444c-b97c-92b52db389d5
+DTSTAMP:20180401T173959
+LOCATION:
+DESCRIPTION:This class will explore the properties shared by ideas that stick with people and change the way they think and act.  The course is based on the framework in the book Made to Stick and focuses on hands-on exercises that will teach you how to transform your messages to make them stick: How do you get attention for your idea in a crowded marketplace of ideas?  How can you convey complex information quickly?  How do you make a broad, abstract idea concrete and tangible enough for people to understand?  How do you provide credibility for your idea without resorting to dry statistics? Although the exercises in this course are fun and generally short, students in the past have said that they do require a lot of thinking time outside of class in order to apply the course principles to a specific message.  This is particularly true of the final project which involves improving the message of a specific live client (e.g., a friend with a start-up business, the recruiting materials of a former employer).  This course will be especially useful for entrepreneurs who must pitch their ideas to customers, investors, and potential employees and for students in the nonprofit sector where resources for spreading ideas are often thin.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OB568 CAS
+DTSTART;TZID=America/Los_Angeles:20180212T150000
+CREATED:20180401T173959
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180216T175000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

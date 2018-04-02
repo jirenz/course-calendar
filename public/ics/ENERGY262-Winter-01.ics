@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20180107T132456
-UID:explore_courses21b41c26-178a-419d-b678-4fa0e038d15d
-DTSTAMP:20180107T132456
+LAST-MODIFIED:20180401T174139
+UID:explore_coursesc09e8b07-93d7-4ddf-9e64-290a82d9a492
+DTSTAMP:20180401T174139
 LOCATION:McCullough 122
 DESCRIPTION:Formerly CEE 261.  An introduction to the analysis and modeling of wind energy resources and their extraction.  Topics include the physical origins of atmospheric winds; vertical profiles of wind speed and turbulence over land and sea; the wind energy spectrum and its modification by natural topography and built environments; theoretical limits on wind energy extraction by wind turbines and wind farms; modeling of wind turbine aerodynamics and wind farm performance. Final project will focus on development of a new wind energy technology concept.  Prerequisites: CEE 262A or ME 351A
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENERGY262 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20180107T132456
+CREATED:20180401T174139
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

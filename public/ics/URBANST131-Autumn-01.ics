@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180612T192000
-LAST-MODIFIED:20180107T132358
-UID:explore_coursesca5c1c2a-783a-4ada-873d-72b7b34e9ea4
-DTSTAMP:20180107T132358
+DTEND;TZID=America/Los_Angeles:20170926T192000
+LAST-MODIFIED:20180401T174107
+UID:explore_courses38c93ed4-76e0-472a-9f39-45a831fa64eb
+DTSTAMP:20180401T174107
 LOCATION:GSB Gunn 101
 DESCRIPTION:Invited lecture series. Perspectives and endeavors of entrepreneurs and thought leaders who address social needs in the U.S. and internationally through private, for-profit and nonprofit organizations or public institutions. The lecture and Q&amp;A is from 5:30 to 6:30 p.m., followed by an optional discussion period with the speaker including dinner.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:URBANST131 LEC
-DTSTART;TZID=America/Los_Angeles:20180612T173000
-CREATED:20180107T132358
+DTSTART;TZID=America/Los_Angeles:20170926T173000
+CREATED:20180401T174107
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

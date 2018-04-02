@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T172000
-LAST-MODIFIED:20180107T132528
-UID:explore_courses451c3f85-482c-4483-862a-702d8d4deb50
-DTSTAMP:20180107T132528
-LOCATION:380-380W
+LAST-MODIFIED:20180401T174159
+UID:explore_coursesc5273364-52f2-40e0-ae26-7601bc019661
+DTSTAMP:20180401T174159
+LOCATION:Littlefield 103
 DESCRIPTION:Computational exploration of fundamental topics in materials science using Java-based computation and visualization tools.  Emphasis is on the atomic-scale origins of macroscopic materials phenomena.  Simulation methods include molecular dynamics and Monte Carlo with applications in thermodynamics, kinetics, and topics in statistical mechanics. Undergraduates register for 165 for 4 units; graduates register for 175 for 3 units. Prerequisites: Undergraduate physics and MATSCI 144 or equivalent coursework in thermodynamics. MATSCI 145 recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI175 LAB
 DTSTART;TZID=America/Los_Angeles:20180402T153000
-CREATED:20180107T132528
+CREATED:20180401T174159
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

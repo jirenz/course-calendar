@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20180107T132356
-UID:explore_courses777f57d5-461e-4565-b951-7bf39b41aaee
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174105
+UID:explore_courses4cc124f3-c022-4e82-aaa7-c980fd57015a
+DTSTAMP:20180401T174105
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Finite sample optimality of statistical procedures; Decision theory: loss, risk, admissibility; Principles of data reduction: sufficiency, ancillarity, completeness; Statistical models: exponential families, group families, nonparametric families; Point estimation: optimal unbiased and equivariant estimation, Bayes estimation, minimax estimation; Hypothesis testing and confidence intervals: uniformly most powerful tests, uniformly most accurate confidence intervals, optimal unbiased and invariant tests. Prerequisites: Real analysis, introductory probability (at the level of STATS 116), and introductory statistics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS300A LEC
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

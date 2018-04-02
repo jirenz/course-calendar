@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180112T152000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses352d326c-e7b5-41d8-80b7-4f19c18bc928
-DTSTAMP:20180107T132511
-LOCATION:Hewlett Teaching Center 103
-DESCRIPTION:AEC students engage in a crossdisciplinary, collaborative, geographically distributed, and multicultural project-based teamwork. AEC teams exercise their domain knowledge and information technologies in a multidisciplinary context focusing on the design and construction concept development phase of a comprehensive building project. Prerequisite: interview with Instructor in Autumn Quarter.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:CEE222A LEC
-DTSTART;TZID=America/Los_Angeles:20180112T123000
-CREATED:20180107T132511
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180112T162000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses9c48c6be-b4e7-4594-a281-96f14e7a8f3c
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_courses1c1e6719-a706-4b51-9b71-fc4de8dccbd9
+DTSTAMP:20180401T174147
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:AEC students engage in a crossdisciplinary, collaborative, geographically distributed, and multicultural project-based teamwork. AEC teams exercise their domain knowledge and information technologies in a multidisciplinary context focusing on the design and construction concept development phase of a comprehensive building project. Prerequisite: interview with Instructor in Autumn Quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE222A LEC
 DTSTART;TZID=America/Los_Angeles:20180112T153000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T152000
+LAST-MODIFIED:20180401T174147
+UID:explore_coursesdd5af9cd-b82b-46cc-810d-845f631c61d2
+DTSTAMP:20180401T174147
+LOCATION:Hewlett Teaching Center 103
+DESCRIPTION:AEC students engage in a crossdisciplinary, collaborative, geographically distributed, and multicultural project-based teamwork. AEC teams exercise their domain knowledge and information technologies in a multidisciplinary context focusing on the design and construction concept development phase of a comprehensive building project. Prerequisite: interview with Instructor in Autumn Quarter.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE222A LEC
+DTSTART;TZID=America/Los_Angeles:20180112T123000
+CREATED:20180401T174147
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

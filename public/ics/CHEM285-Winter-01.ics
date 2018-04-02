@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20180107T132222
-UID:explore_courses4deda4ca-2028-493c-a3c4-412fb722c586
-DTSTAMP:20180107T132222
+LAST-MODIFIED:20180401T174025
+UID:explore_courses8f544974-8b16-45d6-9d22-98dff3c21b11
+DTSTAMP:20180401T174025
 LOCATION:STLC119
 DESCRIPTION:Primary literature based seminar/discussion course covering classical and contemporary papers in biophysical chemistry. This is intended to provide an introduction to critical analysis of papers in the literature through intensive discussion and evaluation.  Topics include (among others): protein structure and stability, folding, single molecule fluorescence and force microscopy, simulations, ion channels, GPCRs, and ribosome structure/function. Course is limited to 15 students and priority will be given to first year Chemistry graduate students.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM285 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20180107T132222
+CREATED:20180401T174025
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,FR
 END:VEVENT
 END:VCALENDAR

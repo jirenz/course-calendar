@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180405T162000
-LAST-MODIFIED:20180107T132455
-UID:explore_coursesb0dbde2d-366a-4941-9d5e-8a8e4c49c224
-DTSTAMP:20180107T132455
+DTEND;TZID=America/Los_Angeles:20180403T162000
+LAST-MODIFIED:20180401T174138
+UID:explore_courses1cb851ae-07d3-4066-84ff-c16632bc4f01
+DTSTAMP:20180401T174138
 LOCATION:
 DESCRIPTION:Introduction to the interdisciplinary knowledge and skills required to critically evaluate problems in marine chemistry and related disciplines.  Physical, chemical, and biological processes that determine the chemical composition of seawater.  Air-sea gas exchange, carbonate chemistry, and chemical equilibria, nutrient and trace element cycling, particle reactivity, sediment chemistry, and diagenesis.  Examination of chemical tracers of mixing and circulation and feedbacks of ocean processes on atmospheric chemistry and climate.  Designed to be taken concurrently with Biological Oceanography (ESS/EARTHSYS 151/251)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS152 DIS
-DTSTART;TZID=America/Los_Angeles:20180405T133000
-CREATED:20180107T132455
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180403T133000
+CREATED:20180401T174138
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

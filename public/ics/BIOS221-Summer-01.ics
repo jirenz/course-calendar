@@ -23,30 +23,30 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180626T152000
-LAST-MODIFIED:20180107T132404
-UID:explore_courses8115d732-99b1-4781-b565-d7683d140b33
-DTSTAMP:20180107T132404
+LAST-MODIFIED:20180401T174109
+UID:explore_courses91daa860-8904-4a96-92e0-86f27868bf66
+DTSTAMP:20180401T174109
 LOCATION:
 DESCRIPTION:Application based course in nonparametric statistics. Modern toolbox of visualization and statistical methods for the analysis of data, examples drawn from immunology, microbiology, cancer research and ecology. Methods covered include multivariate methods (PCA and extensions), sparse representations (trees, networks, contingency tables) as well as nonparametric testing (Bootstrap, permutation and Monte Carlo methods). Hands on, use R and cover many Bioconductor packages.  Prerequisite: Minimal familiarity with computers. Instructor consent. Cross-listed as STATS 366.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS221 LEC
 DTSTART;TZID=America/Los_Angeles:20180626T133000
-CREATED:20180107T132404
+CREATED:20180401T174109
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T152000;BYDAY=TU,WE,TH
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180625T122000
-LAST-MODIFIED:20180107T132404
-UID:explore_coursesc797d104-cec1-495d-aaf7-426a56bc1d5a
-DTSTAMP:20180107T132404
+LAST-MODIFIED:20180401T174109
+UID:explore_courses679ce45b-1cd3-4e58-87ed-79a7a31674f2
+DTSTAMP:20180401T174109
 LOCATION:Li Ka Shing Center, room 120
 DESCRIPTION:Application based course in nonparametric statistics. Modern toolbox of visualization and statistical methods for the analysis of data, examples drawn from immunology, microbiology, cancer research and ecology. Methods covered include multivariate methods (PCA and extensions), sparse representations (trees, networks, contingency tables) as well as nonparametric testing (Bootstrap, permutation and Monte Carlo methods). Hands on, use R and cover many Bioconductor packages.  Prerequisite: Minimal familiarity with computers. Instructor consent. Cross-listed as STATS 366.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOS221 LEC
 DTSTART;TZID=America/Los_Angeles:20180625T103000
-CREATED:20180107T132404
+CREATED:20180401T174109
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T122000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

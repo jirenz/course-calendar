@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20180107T132332
-UID:explore_courses2f6b80b5-3484-416d-9d2b-bee465e2b83f
-DTSTAMP:20180107T132332
-LOCATION:
+LAST-MODIFIED:20180401T174055
+UID:explore_courses0b30a2eb-6c1f-4092-9d72-ea323332fd5e
+DTSTAMP:20180401T174055
+LOCATION:Ceras 300
 DESCRIPTION:This course introduces students to tools for the philosophical analysis of science.  We will cover issues in observation, experiment, and reasoning, questions about the aims of science, scientific change, and the relations between science and values.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL60 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20180107T132332
+CREATED:20180401T174055
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

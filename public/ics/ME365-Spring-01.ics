@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180404T185000
-LAST-MODIFIED:20180107T132531
-UID:explore_courses4b873d29-2189-4b1d-beba-28bc85d14e08
-DTSTAMP:20180107T132531
+LAST-MODIFIED:20180401T174202
+UID:explore_courses2d3b9971-0d72-4abd-ad31-54ff35481c21
+DTSTAMP:20180401T174202
 LOCATION:610-615
 DESCRIPTION:ME 365 is a product realization based course integrating designing and making with a focus on a scaled manufacturing process, sand casting. It's graduates will develop technical knowledge regarding design principles, tooling design and creation, mold making, and process parameters. This goal will be achieved by a sequence of three hands-on design and manufacturing projects, supported by lectures, curricular materials, and structured laboratories, and portfolio generation. Prerequisites: ME203, ME318, OR consent of instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME365 LAB
 DTSTART;TZID=America/Los_Angeles:20180404T173000
-CREATED:20180107T132531
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T185000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T112000
-LAST-MODIFIED:20180107T132316
-UID:explore_coursesea96546e-bb44-4156-ad55-ec934360bc48
-DTSTAMP:20180107T132316
+LAST-MODIFIED:20180401T174048
+UID:explore_courses844544b1-2d6b-4ef2-93a6-931091825785
+DTSTAMP:20180401T174048
 LOCATION:380-380W
 DESCRIPTION:Ordinary differential equations and initial value problems, systems of linear differential equations with constant coefficients, applications of second-order equations to oscillations, matrix exponentials, Laplace transforms, stability of non-linear systems and phase plane analysis, numerical methods. Prerequisite: 51 or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH53 DIS
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20180107T132316
+CREATED:20180401T174048
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

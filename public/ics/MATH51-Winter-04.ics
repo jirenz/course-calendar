@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T132000
-LAST-MODIFIED:20180107T132315
-UID:explore_courses4bbd21e1-dd98-4d7a-9662-e8db0a8959a1
-DTSTAMP:20180107T132315
+LAST-MODIFIED:20180401T174048
+UID:explore_courses9fc87677-3ff9-43d7-bb82-aa0d0a2dea6f
+DTSTAMP:20180401T174048
 LOCATION:370-370
 DESCRIPTION:Geometry and algebra of vectors, matrices and linear transformations, eigenvalues of symmetric matrices, vector-valued functions and functions of several variables, partial derivatives and gradients, derivative as a matrix, chain rule in several variables, critical points and Hessian, least-squares, , constrained and unconstrained optimization in several variables, Lagrange multipliers.  Prerequisite:  21, 42, or the math placement diagnostic (offered through the Math Department website) in order to register for this course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH51 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T123000
-CREATED:20180107T132315
+CREATED:20180401T174048
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180111T175000
-LAST-MODIFIED:20180107T132523
-UID:explore_coursesb98be354-5cfd-4eba-b549-b5e9962126a2
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_coursesc2f48570-0826-4030-b08d-09de21cfb9c9
+DTSTAMP:20180401T174156
 LOCATION:Y2E2 111
 DESCRIPTION:This is a seminar course with invited speakers. Sponsored by Stanford's SystemX Alliance, the talks will cover emerging topics in contemporary hardware/software systems design. Special focus will be given to the key building blocks of sensors, processing elements and wired/wireless communications, as well as their foundations in semiconductor technology, SoC construction, and physical assembly as informed by the SystemX Focus Areas.  The seminar will draw upon distinguished engineering speakers from both industry and academia who are involved at all levels of the technology stack and the applications that are now becoming possible. May be repeat for credit
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE310 SEM
 DTSTART;TZID=America/Los_Angeles:20180111T163000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

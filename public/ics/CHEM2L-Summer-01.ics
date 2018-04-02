@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180716T142000
-LAST-MODIFIED:20180107T132221
-UID:explore_coursesc0c981d8-4034-4192-bd7f-e00236d8773a
-DTSTAMP:20180107T132221
-LOCATION:
+LAST-MODIFIED:20180401T174025
+UID:explore_coursesf90536ce-130c-4dd8-ae79-33fda094a08a
+DTSTAMP:20180401T174025
+LOCATION:STLC114
 DESCRIPTION:Provides hands on experience with modern chemical methods for preparative and analytical chemistry including GCMS, UV-VIS and IR spectroscopy. Learn how chemoselectivity of reactions can be acheived, synthesize bioactive molecules such as pain relievers, and explore how sunscreens can be made more effective. Prerequisite: Chem 1L. Co-requisite: Chem 2.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM2L LEC
 DTSTART;TZID=America/Los_Angeles:20180716T133000
-CREATED:20180107T132221
+CREATED:20180401T174025
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180803T142000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

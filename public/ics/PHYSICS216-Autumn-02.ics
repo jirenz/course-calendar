@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170929T160000
-LAST-MODIFIED:20180107T132335
-UID:explore_coursesf4cf2e3b-e8d0-42a1-86d7-f35c650915e5
-DTSTAMP:20180107T132335
+LAST-MODIFIED:20180401T174056
+UID:explore_courses628f9899-fff6-40a6-9fc1-8c9a99aa9ee4
+DTSTAMP:20180401T174056
 LOCATION:Hewlett Teaching Center 103
 DESCRIPTION:Techniques such as scaling and dimensional analysis, useful to make order-of-magnitude estimates of physical effects in different settings. Goals are to promote a synthesis of physics through solving problems, including problems that are not usually thought of as physics. Applications include properties of materials, fluid mechanics, geophysics, astrophysics, and cosmology. Prerequisites: undergraduate mechanics, statistical mechanics, electricity and magnetism, and quantum mechanics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS216 DIS
 DTSTART;TZID=America/Los_Angeles:20170929T150000
-CREATED:20180107T132335
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T160000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180112T124000
-LAST-MODIFIED:20180107T132148
-UID:explore_coursesdaae6b57-0073-46f4-ac40-df77833735fb
-DTSTAMP:20180107T132148
-LOCATION:Law180
-DESCRIPTION:(Formerly Law 522) This course will focus on the central issues involved in private equity investing. Topics will include: pricing, structuring and valuation of private equity and venture capital investments; buyouts and other transactions involving multitiered capital structures; the structure and governance of PE and VC funds; conceptual issues relevant in this realm such as option theory, asymmetric information and bounded rationality; and private equity as a distinct asset class. There are no required prerequisites. Students will develop skills and tools used in the private equity arena, including financial analysis (e.g., &quot;deal arithmetic&quot; fundamentals, spreadsheet modeling and forecast preparation); the drafting and negotiation of transaction documents; and the ability to conduct comprehensive due diligence examinations of prospective acquisitions and investments. We will have a number of guest speakers during the term, and will draw on various materials illustrative of what one would encounter in private equity deals and funds. Elements Used in Grading: Periodic problem sets, a final case study and class participation. (The case study will be completed in a small group, and it will give students the opportunity to analyze a real-world transaction from a number of perspectives.) A Final Note: While a 3-credit course, Private Equity Investing will not meet for the entirety of the Winter quarter. The final class session will be on March 2nd (rather than March 12th). This class is limited to 24 students. 16 SLS students will be selected by lottery. The other eight spots will be allocated by consent of instructor, and will be selected from law students who were waitlisted and non-law students. All interested students must attend the first two class sessions (January 10 &amp; 12) in order to keep a spot on the class list or waitlist.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:LAW1024 SEM
-DTSTART;TZID=America/Los_Angeles:20180112T111000
-CREATED:20180107T132148
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180228T124000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T183000
-LAST-MODIFIED:20180107T132148
-UID:explore_coursesb4a3bea1-62f8-40cd-91cb-45c5c52941c7
-DTSTAMP:20180107T132148
+LAST-MODIFIED:20180401T174010
+UID:explore_courseseebb88f5-dfb9-43ca-a6c3-c39046cb3613
+DTSTAMP:20180401T174010
 LOCATION:Law180
 DESCRIPTION:(Formerly Law 522) This course will focus on the central issues involved in private equity investing. Topics will include: pricing, structuring and valuation of private equity and venture capital investments; buyouts and other transactions involving multitiered capital structures; the structure and governance of PE and VC funds; conceptual issues relevant in this realm such as option theory, asymmetric information and bounded rationality; and private equity as a distinct asset class. There are no required prerequisites. Students will develop skills and tools used in the private equity arena, including financial analysis (e.g., &quot;deal arithmetic&quot; fundamentals, spreadsheet modeling and forecast preparation); the drafting and negotiation of transaction documents; and the ability to conduct comprehensive due diligence examinations of prospective acquisitions and investments. We will have a number of guest speakers during the term, and will draw on various materials illustrative of what one would encounter in private equity deals and funds. Elements Used in Grading: Periodic problem sets, a final case study and class participation. (The case study will be completed in a small group, and it will give students the opportunity to analyze a real-world transaction from a number of perspectives.) A Final Note: While a 3-credit course, Private Equity Investing will not meet for the entirety of the Winter quarter. The final class session will be on March 2nd (rather than March 12th). This class is limited to 24 students. 16 SLS students will be selected by lottery. The other eight spots will be allocated by consent of instructor, and will be selected from law students who were waitlisted and non-law students. All interested students must attend the first two class sessions (January 10 &amp; 12) in order to keep a spot on the class list or waitlist.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LAW1024 SEM
 DTSTART;TZID=America/Los_Angeles:20180110T161500
-CREATED:20180107T132148
+CREATED:20180401T174010
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180302T183000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T124000
+LAST-MODIFIED:20180401T174010
+UID:explore_courses197dca9d-36b2-49a7-a6a6-743391bf5c30
+DTSTAMP:20180401T174010
+LOCATION:Law180
+DESCRIPTION:(Formerly Law 522) This course will focus on the central issues involved in private equity investing. Topics will include: pricing, structuring and valuation of private equity and venture capital investments; buyouts and other transactions involving multitiered capital structures; the structure and governance of PE and VC funds; conceptual issues relevant in this realm such as option theory, asymmetric information and bounded rationality; and private equity as a distinct asset class. There are no required prerequisites. Students will develop skills and tools used in the private equity arena, including financial analysis (e.g., &quot;deal arithmetic&quot; fundamentals, spreadsheet modeling and forecast preparation); the drafting and negotiation of transaction documents; and the ability to conduct comprehensive due diligence examinations of prospective acquisitions and investments. We will have a number of guest speakers during the term, and will draw on various materials illustrative of what one would encounter in private equity deals and funds. Elements Used in Grading: Periodic problem sets, a final case study and class participation. (The case study will be completed in a small group, and it will give students the opportunity to analyze a real-world transaction from a number of perspectives.) A Final Note: While a 3-credit course, Private Equity Investing will not meet for the entirety of the Winter quarter. The final class session will be on March 2nd (rather than March 12th). This class is limited to 24 students. 16 SLS students will be selected by lottery. The other eight spots will be allocated by consent of instructor, and will be selected from law students who were waitlisted and non-law students. All interested students must attend the first two class sessions (January 10 &amp; 12) in order to keep a spot on the class list or waitlist.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW1024 SEM
+DTSTART;TZID=America/Los_Angeles:20180112T111000
+CREATED:20180401T174010
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180302T124000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

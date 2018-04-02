@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180626T175000
-LAST-MODIFIED:20180107T132356
-UID:explore_courses09185c54-5326-4683-8f13-2a4905806a06
-DTSTAMP:20180107T132356
-LOCATION:
+LAST-MODIFIED:20180401T174105
+UID:explore_coursescdca263e-d29e-4661-87f3-cd9ed12223d7
+DTSTAMP:20180401T174105
+LOCATION:Huang Engineering Center 18
 DESCRIPTION:Asset returns and their volatilities. Markowitz portfolio theory, capital asset pricing model, multifactor pricing models. Measures of market risk. Financial derivatives and hedging. Black-Scholes pricing of European options. Valuation of American options. Implied volatility and the Greeks. Prerequisite: STATS 116 or equivalent
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS237 LEC
 DTSTART;TZID=America/Los_Angeles:20180626T163000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

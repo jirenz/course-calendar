@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses2c8322e1-fa31-48b6-ab3b-237822aae0a3
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174152
+UID:explore_coursesc78086ec-ad35-46e8-85c3-0c5feb6ddb45
+DTSTAMP:20180401T174152
 LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Mathematical foundations required for computer science, including propositional predicate logic, induction, sets, functions, and relations. Formal language theory, including regular expressions, grammars, finite automata, Turing machines, and NP-completeness. Mathematical rigor, proof techniques, and applications. Prerequisite: CS106B or equivalent.  CS106B may be taken concurrently with CS103.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS103 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132519
+CREATED:20180401T174152
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

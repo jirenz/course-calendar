@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170927T192000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses133ceb85-319a-450f-977d-d293a38e1a3d
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174153
+UID:explore_coursesdedac7f1-0df8-412e-aa3b-3f9d2d12d059
+DTSTAMP:20180401T174153
 LOCATION:240-201
 DESCRIPTION:Topics include: counting and combinatorics, random variables, conditional probability, independence, distributions, expectation, point estimation, and limit theorems. Applications of probability in computer science including machine learning and the use of probability in the analysis of algorithms. Prerequisites: 103, 106B or X, multivariate calculus at the level of MATH 51 or CME 100 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS109 DIS
 DTSTART;TZID=America/Los_Angeles:20170927T180000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T192000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

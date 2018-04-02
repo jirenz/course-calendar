@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180111T192000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursesd8ff9d04-7e12-4724-990b-b4d4ddcaf282
-DTSTAMP:20180107T132519
-LOCATION:380-381U
+DTEND;TZID=America/Los_Angeles:20180111T132000
+LAST-MODIFIED:20180401T174153
+UID:explore_courses94bda1b4-6f61-4dd3-8d32-29d881790c6a
+DTSTAMP:20180401T174153
+LOCATION:Lathrop 294
 DESCRIPTION:Primarily for majors entering computer-related fields. Ethical and social issues related to the development and use of computer technology. Ethical theory, and social, political, and legal considerations. Scenarios in problem areas: privacy, reliability and risks of complex systems, and responsibility of professionals for applications and consequences of their work. Prerequisite: 106B or X. To take this course, students need permission of instructor and may need to complete an assignment due at the first day of class.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS181 DIS
-DTSTART;TZID=America/Los_Angeles:20180111T183000
-CREATED:20180107T132519
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T192000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T103000
+CREATED:20180401T174153
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

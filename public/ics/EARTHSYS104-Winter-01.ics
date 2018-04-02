@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20180107T132455
-UID:explore_coursesc5c8b08b-8b72-4b3f-99df-6f4628a3adcc
-DTSTAMP:20180107T132455
+LAST-MODIFIED:20180401T174138
+UID:explore_coursesff616ce0-d73e-4517-bb73-8710457081a7
+DTSTAMP:20180401T174138
 LOCATION:Mitch 350 plus 372
 DESCRIPTION:The Central Valley of California provides a third of the produce grown in the U.S., but has a desert climate, thus raising concerns about both food and water security. The pathway that water takes rainfall to the irrigation of fields (the water course) determines the quantity and quality of the available water. Working with various data sources (remote sensing, gauges, wells) allows us to model the water budget in the valley and explore the way in which recent droughts and increasing demand are impacting freshwater supplies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EARTHSYS104 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20180107T132455
+CREATED:20180401T174138
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

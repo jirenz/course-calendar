@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180628T192000
-LAST-MODIFIED:20180107T132242
-UID:explore_coursesc44f9b2a-78f4-44db-ab87-f476db52a35c
-DTSTAMP:20180107T132242
+DTEND;TZID=America/Los_Angeles:20180712T192000
+LAST-MODIFIED:20180401T174036
+UID:explore_coursesdb86b7e6-d3ff-4cad-81bf-ae96f0c960b7
+DTSTAMP:20180401T174036
 LOCATION:380-380D
 DESCRIPTION:Focuses on communicative skills in the context of California's renowned wine culture.  Emphasis on the language of wine using appropriate terminology, and interacting knowledgeably with restaurant and retail wine staff.  Topics include learning the fundamentals of vineyard techniques, varietal characteristics, tasting techniques, drinking and ordering etiquette. Course is co-taught by a wine expert and an ESL instructor. Class consists of a short interactive lecture, a communicative activity such as role playing, and a tasting of four specially selected wines. Participants must be at least 21 years old.  Fee.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EFSLANG689T LNG
-DTSTART;TZID=America/Los_Angeles:20180628T173000
-CREATED:20180107T132242
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T192000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180712T173000
+CREATED:20180401T174036
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180817T192000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

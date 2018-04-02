@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T162000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursese124a5bf-3e6d-41de-ad2a-bb1a61e75ea5
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_courses7ba2f15d-c124-469c-8418-c3955e7d6232
+DTSTAMP:20180401T174154
 LOCATION:McMurtry Building rm 360
 DESCRIPTION:Once confined to the manufacturing floor, robots are quickly entering the public space at multiple levels: drones, surgical robots, service robots, and self-driving cars are becoming tangible technologies impacting the human experience. Our goal in this class is to learn about and design algorithms that enable robots to reason about their actions, interact with one another, the humans, and the environment they live in, as well as plan safe strategies that humans can trust and rely on.nThis is a project-based graduate course that studies algorithms in formal methods, control theory, and robotics, which can improve the state-of-the-art human-robot systems. We focus on designing new algorithms for enhancing safe and interactive autonomy. nnRecommended: Introductory course in AI and robotics.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS333 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T150000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

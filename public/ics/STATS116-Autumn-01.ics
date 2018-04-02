@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T112000
-LAST-MODIFIED:20180107T132355
-UID:explore_coursesfe876da4-cc55-4df3-bd8f-55cfdccb81a0
-DTSTAMP:20180107T132355
+LAST-MODIFIED:20180401T174105
+UID:explore_courses1c70461d-44d6-4cfb-b85f-81b716505cb5
+DTSTAMP:20180401T174105
 LOCATION:200-034
 DESCRIPTION:Probability spaces as models for phenomena with statistical regularity. Discrete spaces (binomial, hypergeometric, Poisson). Continuous spaces (normal, exponential) and densities. Random variables, expectation, independence, conditional probability. Introduction to the laws of large numbers and central limit theorem. Prerequisites: MATH 52 and  familiarity with infinite series, or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS116 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T103000
-CREATED:20180107T132355
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

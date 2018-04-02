@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T142000
-LAST-MODIFIED:20180107T132315
-UID:explore_courses0ba412f0-8128-4f36-b013-0a2adfcbc92a
-DTSTAMP:20180107T132315
+LAST-MODIFIED:20180401T174048
+UID:explore_coursesff51a95f-bad4-49ec-a846-cb104ec2bf1a
+DTSTAMP:20180401T174048
 LOCATION:380-380C
 DESCRIPTION:The definite integral, Riemann sums, antiderivatives, the Fundamental Theorem of Calculus, and the Mean Value Theorem for integrals.  Integration by substitution and by parts.  Area between curves, and volume by slices, washers, and shells.  Initial-value problems, exponential and logistic models, direction fields, and parametric curves.  Prerequisite: Math 19 or equivalent.  If you have not previously taken a calculus course at Stanford then you must have taken the math placement diagnostic (offered through the Math Department website) in order to register for this course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH20 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20180107T132315
+CREATED:20180401T174048
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

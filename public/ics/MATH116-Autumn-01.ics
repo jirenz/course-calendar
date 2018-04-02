@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T102000
-LAST-MODIFIED:20180107T132316
-UID:explore_courses195e65e2-c235-4b24-960b-3e03c477fe13
-DTSTAMP:20180107T132316
+LAST-MODIFIED:20180401T174049
+UID:explore_coursesb6a858a0-2e39-4638-9c96-d2621fcee9e6
+DTSTAMP:20180401T174049
 LOCATION:380-380W
 DESCRIPTION:Analytic functions, Cauchy integral formula, power series and Laurent series, calculus of residues and applications, conformal mapping, analytic continuation, introduction to Riemann surfaces, Fourier series and integrals. (Math 106 offers a less theoretical treatment.)  Prerequisites: 52, and 115 or 171.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH116 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T093000
-CREATED:20180107T132316
+CREATED:20180401T174049
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

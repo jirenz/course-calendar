@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20180107T132528
-UID:explore_coursescb98ea3b-3d23-4ebc-8e27-b85d8ffc6fe4
-DTSTAMP:20180107T132528
-LOCATION:
+LAST-MODIFIED:20180401T174159
+UID:explore_courses71e462e0-3f6d-40eb-8ca7-cf54df3133c6
+DTSTAMP:20180401T174159
+LOCATION:Green Earth Sciences134
 DESCRIPTION:Materials science and engineering for electronic device applications. Kinetic molecular theory and thermally activated processes; band structure; electrical conductivity of metals and semiconductors; intrinsic and extrinsic semiconductors; elementary p-n junction theory; operating principles of light emitting diodes, solar cells, thermoelectric coolers, and transistors. Semiconductor processing including crystal growth, ion implantation, thin film deposition, etching, lithography, and nanomaterials synthesis.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI152 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20180107T132528
+CREATED:20180401T174159
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

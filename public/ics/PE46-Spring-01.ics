@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T132000
-LAST-MODIFIED:20180107T132447
-UID:explore_coursesbfbeab71-c0d1-4c88-ab57-f4d426262794
-DTSTAMP:20180107T132447
+DTEND;TZID=America/Los_Angeles:20180402T132000
+LAST-MODIFIED:20180401T174133
+UID:explore_coursesb0cefe54-8bfe-4188-a28f-777e01234d55
+DTSTAMP:20180401T174133
 LOCATION:Morrison Boat House
 DESCRIPTION:Students will learn skills, theories, and techniques to enable beginners to sail with confidence in small centerboard boats. This class utilization of class discussions, assignments and student participation will enable students to: (1) Understand basic components of health-related physical fitness, cardiovascular fitness, muscle endurance and flexibility (2) Develop physical fitness and motor skills, and (3) Develop a positive attitude toward wellness and physical activity which will facilitate a healthy lifestyle.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PE46 ACT
-DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20180107T132447
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180402T103000
+CREATED:20180401T174133
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

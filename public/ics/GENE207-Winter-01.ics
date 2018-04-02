@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132411
-UID:explore_coursesfcc5395e-1f3f-4dc7-899b-c4d0ee5df88b
-DTSTAMP:20180107T132411
+LAST-MODIFIED:20180401T174112
+UID:explore_courses1a8d4a83-caa8-479d-ae01-8ee8b5598645
+DTSTAMP:20180401T174112
 LOCATION:
 DESCRIPTION:This course exposes students to the design, fabrication, and testing of microfluidic devices for biological applications through combination of lectures and hands-on lab sessions.  In teams of two, students will produce a working prototype devices designed to address specific design challenges within the biological community using photolithography, soft lithography, and imaging techniques.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE207 LAB
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20180107T132411
+CREATED:20180401T174112
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

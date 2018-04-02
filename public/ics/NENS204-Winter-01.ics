@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180111T125000
-LAST-MODIFIED:20180107T132422
-UID:explore_courses255e2688-2b0b-43a0-b1d8-0deb43cfe848
-DTSTAMP:20180107T132422
+DTEND;TZID=America/Los_Angeles:20180111T132000
+LAST-MODIFIED:20180401T174118
+UID:explore_courses42140337-d7de-47c0-8ca6-4c29f9038a18
+DTSTAMP:20180401T174118
 LOCATION:E.D. Stone Edwards Bldg R358
 DESCRIPTION:Standing at the intersection of many fields of medicine, including neurology, internal medicine, cerebrovascualr surgery, diagnostic and interventional radiology, and emergency medicine, as the third leading cause of death and the leading cause of disability, stroke is a critical topic for all practitioners of medicine. This seminar draws upon Stanford's leaders in stroke research to present and discuss the causes, presentation, treatment, and imaging characteristics of the disease.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NENS204 SEM
-DTSTART;TZID=America/Los_Angeles:20180111T120000
-CREATED:20180107T132422
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T125000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180111T123000
+CREATED:20180401T174118
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

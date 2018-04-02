@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20180107T132506
-UID:explore_courses94048a08-525d-4dd0-854c-b08294f0c40c
-DTSTAMP:20180107T132506
+DTEND;TZID=America/Los_Angeles:20180109T142000
+LAST-MODIFIED:20180401T174144
+UID:explore_courses0f794894-7472-4c03-98d7-884cbb8644fa
+DTSTAMP:20180401T174144
 LOCATION:
 DESCRIPTION:(Same as RAD 227, BIOPHYS 227) Basics of functional magnetic resonance neuroimaging, including data acquisition, analysis, and experimental design. Journal club sections. Cognitive neuroscience and clinical applications. Prerequisites: basic physics, mathematics; neuroscience recommended.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE227 LEC
-DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20180107T132506
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180109T130000
+CREATED:20180401T174144
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T142000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T112000
+LAST-MODIFIED:20180401T174144
+UID:explore_coursesb2244875-59f5-4d75-ab8e-b9dda5c9ac7d
+DTSTAMP:20180401T174144
+LOCATION:
+DESCRIPTION:(Same as RAD 227, BIOPHYS 227) Basics of functional magnetic resonance neuroimaging, including data acquisition, analysis, and experimental design. Journal club sections. Cognitive neuroscience and clinical applications. Prerequisites: basic physics, mathematics; neuroscience recommended.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOE227 LEC
+DTSTART;TZID=America/Los_Angeles:20180112T100000
+CREATED:20180401T174144
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

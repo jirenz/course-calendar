@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180406T152000
-LAST-MODIFIED:20180107T132338
-UID:explore_courses416da209-b800-4073-a630-91ca5481299f
-DTSTAMP:20180107T132338
-LOCATION:Encina West 202
+DTEND;TZID=America/Los_Angeles:20180403T112000
+LAST-MODIFIED:20180401T174058
+UID:explore_coursesed00e166-8041-4aaa-afca-1bdb6ee13f8e
+DTSTAMP:20180401T174058
+LOCATION:200-015
 DESCRIPTION:Causal inference methods have revolutionized the way we use data, statistics, and research design to move from correlation to causation and rigorously learn about the impact of some potential cause (e.g., a new policy or intervention) on some outcome (e.g., election results, levels of violence, poverty). This course provides an introduction that teaches students the toolkit of modern causal inference methods as they are now widely used across academic fields, government, industry, and non-profits. Topics include experiments, matching, regression, sensitivity analysis, difference-in-differences, panel methods, instrumental variable estimation, and regression discontinuity designs. We will illustrate and apply the methods with examples drawn from various fields including policy evaluation, political science, public health, economics, business, and sociology. Political Science 150A and 150B or an equivalent is required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI150C DIS
-DTSTART;TZID=America/Los_Angeles:20180406T143000
-CREATED:20180107T132338
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20180401T174058
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses90bdc4a8-e06b-40ed-90f5-b16f7d752627
-DTSTAMP:20180107T132519
-LOCATION:STLC111
+LAST-MODIFIED:20180401T174152
+UID:explore_coursescdcb691c-6ffb-47f5-94e6-dd68e628a951
+DTSTAMP:20180401T174152
+LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:Aimed at non-CS undergraduate and graduate students who want to learn the basics of big data tools and techniques and apply that knowledge in their areas of study. Many of the world's biggest discoveries and decisions in science, technology, business, medicine, politics, and society as a whole, are now being made on the basis of analyzing massive data sets. At the same time, it is surprisingly easy to make errors or come to false conclusions from data analysis alone. This course provides a broad and practical introduction to big data: data analysis techniques including databases, data mining, and machine learning; data analysis tools including spreadsheets, relational databases and SQL, Python, and R; data visualization techniques and tools; pitfalls in data collection and analysis; historical context, privacy, and other ethical issues. Tools and techniques are hands-on but at a cursory level, providing a basis for future exploration and application. Prerequisites: comfort with basic logic and mathematical concepts, along with high school AP computer science, CS106A, or other equivalent programming experience.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS102 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132519
+CREATED:20180401T174152
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

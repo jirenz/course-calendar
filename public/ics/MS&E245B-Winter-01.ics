@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132526
-UID:explore_courses53d75d54-e920-47d7-891b-a83713a15ab7
-DTSTAMP:20180107T132526
+LAST-MODIFIED:20180401T174158
+UID:explore_courses11713349-6d66-4817-b75a-c974e1a95e52
+DTSTAMP:20180401T174158
 LOCATION:Gates B3
 DESCRIPTION:Formerly MS&amp;E 342. Topics: forwards and futures contracts, continuous and discrete time models of stock price behavior, geometric Brownian motion, Ito's lemma, basic options theory, Black-Scholes equation, advanced options techniques, models and applications of stochastic interest rate processes, and optimal portfolio growth. Computational issues and general theory. Teams work on independent projects. Prerequisite: 245A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E245B LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

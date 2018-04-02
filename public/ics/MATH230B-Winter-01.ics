@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T102000
-LAST-MODIFIED:20180107T132316
-UID:explore_courses378984f3-9aa0-4337-8f80-56c979e59452
-DTSTAMP:20180107T132316
+LAST-MODIFIED:20180401T174049
+UID:explore_courses32cc4a3b-03ac-4145-bae5-957b95d542d1
+DTSTAMP:20180401T174049
 LOCATION:Sequoia Hall 200
 DESCRIPTION:Conditional expectations, discrete time martingales, stopping times, uniform integrability, applications to 0-1 laws, Radon-Nikodym Theorem, ruin problems, etc. Other topics as time allows selected from (i) local limit theorems, (ii) renewal theory, (iii) discrete time Markov chains, (iv) random walk theory,n(v) ergodic theory. Prerequisite: 310A or MATH 230A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH230B LEC
 DTSTART;TZID=America/Los_Angeles:20180109T090000
-CREATED:20180107T132316
+CREATED:20180401T174049
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

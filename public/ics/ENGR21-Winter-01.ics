@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132525
-UID:explore_coursesb27dd7a0-6dc4-4b77-b03f-8bfb831e0132
-DTSTAMP:20180107T132525
+LAST-MODIFIED:20180401T174157
+UID:explore_coursesf9ac0d7c-93e2-44e9-9ddd-3e24ee25bb19
+DTSTAMP:20180401T174157
 LOCATION:STLC114
 DESCRIPTION:A high-level look at techniques for analyzing and designing complex, multidisciplinary engineering systems, such as aircraft, spacecraft, automobiles, power plants, cellphones, robots, biomedical devices, and many others. The need for multi-level design, modeling and simulation approaches, computation-based design, and hardware and software-in-the-loop simulations will be demonstrated through a variety of examples and case studies. Several aspects of system engineering will be applied to the design of large-scale interacting systems and contrasted with subsystems such as hydraulic systems, electrical systems, and brake systems. The use of design-thinking, story-boarding, mockups, sensitivity analysis, simulation, team-based design, and the development of presentation skills will be fostered through several realistic examples in several fields of engineering.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR21 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20180107T132525
+CREATED:20180401T174157
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

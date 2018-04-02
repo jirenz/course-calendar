@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180405T115000
-LAST-MODIFIED:20180107T132338
-UID:explore_courses9ca34378-fbf6-41d1-9ec7-3040871ad750
-DTSTAMP:20180107T132338
-LOCATION:Encina Hall C464
+DTEND;TZID=America/Los_Angeles:20180405T162000
+LAST-MODIFIED:20180401T174058
+UID:explore_coursesee668591-fe44-487c-8cdb-2872680b9d36
+DTSTAMP:20180401T174058
+LOCATION:Encina West 400
 DESCRIPTION:This seminar introduces recent field experimental work in political economy and comparative politics.  Instead of surveying research in this area broadly, we will work through a number of recent working papers. The first objective of the seminar is to develop an understanding of different elements of a field experiment. To this end, we will untangle project parts related to implementation, data collection, analysis, and writing. A typical weekly meeting will include the following: discussion on framing and contribution to literature, replication of the study material, and potential extensions of the analysis. We will also go through survey instruments and any other material made available by authors. A second objective is to introduce students to writing pre-analysis plans for their own research. Each student will be expected to prepare a detailed pre-analysis plan for a proposed field experiment and will have the opportunity to workshop this plan with the class towards the  end of the quarter.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI446E SEM
-DTSTART;TZID=America/Los_Angeles:20180405T090000
-CREATED:20180107T132338
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180405T133000
+CREATED:20180401T174058
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

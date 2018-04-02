@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T172000
-LAST-MODIFIED:20180107T132335
-UID:explore_courses50b89d51-b28b-4df8-967c-2dd29ec53266
-DTSTAMP:20180107T132335
+LAST-MODIFIED:20180401T174056
+UID:explore_courses2e27c194-ab93-4eef-b78f-46acb7981b59
+DTSTAMP:20180401T174056
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Basis for higher level courses on atomic solid state and particle physics.  Problems related to measurement theory and introduction to quantum computing.  Approximation methods for time-independent and time-dependent perturbations. Semiclassical and quantum theory of radiation, second quantization of radiation and matter fields. Systems of identical particles and many electron atoms and molecules. Prerequisite: PHYSICS 230.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS231 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T153000
-CREATED:20180107T132335
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

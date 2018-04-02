@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132526
-UID:explore_courses9c7ba69f-9cc9-4048-9938-c95e5398c26f
-DTSTAMP:20180107T132526
+LAST-MODIFIED:20180401T174158
+UID:explore_courses8089edf1-85fa-4bf2-be17-baf222107095
+DTSTAMP:20180401T174158
 LOCATION:Thornt211
 DESCRIPTION:Current stochastic models, motivated by a wide range of applications in engineering, business, and science, as well as the design and analysis of associated computational methods for performance analysis and control of such stochastic systems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E325 RES
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

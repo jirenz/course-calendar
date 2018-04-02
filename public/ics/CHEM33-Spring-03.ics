@@ -23,30 +23,30 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T192000
-LAST-MODIFIED:20180107T132221
-UID:explore_courses3ddb4d18-761c-4b0f-b1ee-732527ce7d97
-DTSTAMP:20180107T132221
+LAST-MODIFIED:20180401T174025
+UID:explore_coursesb2afa13a-fd3e-4e6c-9071-c53c237a49a1
+DTSTAMP:20180401T174025
 LOCATION:
 DESCRIPTION:Introduction to organic chemistry. Learn to relate three dimensional structure of organic molecules to their chemical and physical properties. Introduced to a variety of functional groups that exhibit patterns of reactivity and learn how to predict products of a reaction in the context of thermodynamics and kinetics. Two hour weekly lab section accompanies the course to introduce the techniques of separation and identification of organic compounds. Prerequisite: 31A,B, or 31X, or AP Chemistry score of 5.
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:CHEM33 DIS
+SUMMARY:CHEM33 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T180000
-CREATED:20180107T132221
+CREATED:20180401T174025
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=MO,WE
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T142000
-LAST-MODIFIED:20180107T132221
-UID:explore_courses1dc1f04f-33c1-4728-afe7-be9afb2a4ebd
-DTSTAMP:20180107T132221
+LAST-MODIFIED:20180401T174025
+UID:explore_coursesb8cb7bba-16ba-4f95-bba1-7d329ab922b3
+DTSTAMP:20180401T174025
 LOCATION:STLC114
 DESCRIPTION:Introduction to organic chemistry. Learn to relate three dimensional structure of organic molecules to their chemical and physical properties. Introduced to a variety of functional groups that exhibit patterns of reactivity and learn how to predict products of a reaction in the context of thermodynamics and kinetics. Two hour weekly lab section accompanies the course to introduce the techniques of separation and identification of organic compounds. Prerequisite: 31A,B, or 31X, or AP Chemistry score of 5.
 STATUS:CONFIRMED
 SEQUENCE:0
-SUMMARY:CHEM33 DIS
+SUMMARY:CHEM33 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132221
+CREATED:20180401T174025
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T142000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

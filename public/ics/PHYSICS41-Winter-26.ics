@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20180107T132334
-UID:explore_courses451571f6-34ce-4be3-960c-a2f74907e772
-DTSTAMP:20180107T132334
+LAST-MODIFIED:20180401T174056
+UID:explore_courses161ed475-0cef-41b6-b8fa-3d6fed23f16b
+DTSTAMP:20180401T174056
 LOCATION:
 DESCRIPTION:How are motions of objects in the physical world determined by laws of physics? Students learn to describe the motion of objects (kinematics) and then understand why motions have the form they do (dynamics). Emphasis on how the important physical principles in mechanics, such as conservation of momentum and energy for translational and rotational motion, follow from just three laws of nature: Newton's laws of motion. Distinction made between fundamental laws of nature and empirical rules that are useful approximations for more complex physics. Problems drawn from examples of mechanics in everyday life. Skills developed in verifying that derived results satisfy criteria for correctness, such as dimensional consistency and expected behavior in limiting cases. Discussions based on language of mathematics, particularly vector representations and operations, and calculus. Physical understanding fostered by peer interaction and demonstrations in lecture, and discussion sections based on interactive group problem solving. Prerequisite: High school physics or concurrent enrollment in PHYSICS 41A.  MATH 20 or MATH 51 or CME 100 or equivalent. Minimum corequisite: MATH 21 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS41 DIS
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20180107T132334
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

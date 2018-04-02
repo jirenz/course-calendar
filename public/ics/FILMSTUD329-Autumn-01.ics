@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170926T115000
-LAST-MODIFIED:20180107T132247
-UID:explore_courses2d38d7ba-8907-4c84-a53a-462ef3a9ad89
-DTSTAMP:20180107T132247
-LOCATION:McMurtry Building rm 360
-DESCRIPTION:The fantasy of an image coming to life is ancient, but not until the cinema was this fantasy actualized. The history of the movies begins with optical toys, and contemporary cinema is dominated by films that rely on computer animation. This course considers the underlying fantasies of animation in art and lit, its phenomenologies, its relation to the uncanny, its status as a pure cinema, and its place in film theory. Different modes of production and style to be explored include realist animation, abstract animation; animistic animation; animated drawings, objects, and puppets; CGI, motion capture, and live/animation hybrids.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:FILMSTUD329 LEC
-DTSTART;TZID=America/Los_Angeles:20170926T103000
-CREATED:20180107T132247
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T212000
-LAST-MODIFIED:20180107T132247
-UID:explore_coursesf2d9d03c-ee3b-4fc4-9a2c-14381890d0d0
-DTSTAMP:20180107T132247
+LAST-MODIFIED:20180401T174038
+UID:explore_courses378f7999-4be4-47da-a0f1-f76fb4f8f5f3
+DTSTAMP:20180401T174038
 LOCATION:McMurtry Building rm 350
 DESCRIPTION:The fantasy of an image coming to life is ancient, but not until the cinema was this fantasy actualized. The history of the movies begins with optical toys, and contemporary cinema is dominated by films that rely on computer animation. This course considers the underlying fantasies of animation in art and lit, its phenomenologies, its relation to the uncanny, its status as a pure cinema, and its place in film theory. Different modes of production and style to be explored include realist animation, abstract animation; animistic animation; animated drawings, objects, and puppets; CGI, motion capture, and live/animation hybrids.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FILMSTUD329 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T183000
-CREATED:20180107T132247
+CREATED:20180401T174038
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T212000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170926T115000
+LAST-MODIFIED:20180401T174038
+UID:explore_coursesfb2757eb-9140-4aef-bd68-88411ff702e4
+DTSTAMP:20180401T174038
+LOCATION:McMurtry Building rm 360
+DESCRIPTION:The fantasy of an image coming to life is ancient, but not until the cinema was this fantasy actualized. The history of the movies begins with optical toys, and contemporary cinema is dominated by films that rely on computer animation. This course considers the underlying fantasies of animation in art and lit, its phenomenologies, its relation to the uncanny, its status as a pure cinema, and its place in film theory. Different modes of production and style to be explored include realist animation, abstract animation; animistic animation; animated drawings, objects, and puppets; CGI, motion capture, and live/animation hybrids.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD329 LEC
+DTSTART;TZID=America/Los_Angeles:20170926T103000
+CREATED:20180401T174038
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

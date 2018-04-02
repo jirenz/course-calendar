@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses604bcb51-d257-4ae1-9d3a-22edfdfe3723
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_courses4df0fcb5-fe9e-4ae5-8c53-cc9ecb48afde
+DTSTAMP:20180401T174156
 LOCATION:Herrin T195
 DESCRIPTION:Photonics, optical components, and fiber optics. Conceptual and mathematical tools for design and analysis of optical communication, sensor and imaging systems. Experimental characterization of semiconductor lasers, optical fibers, photodetectors, receiver circuitry, fiber optic links, optical amplifiers, and optical sensors. Class project on confocal microscopy or other method of sensing or analyzing biometric data. Laboratory experiments. Prerequisite: EE 102A and one of the following: EE 42, Physics 43, or Physics 63.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE134 LAB
 DTSTART;TZID=America/Los_Angeles:20180402T143000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

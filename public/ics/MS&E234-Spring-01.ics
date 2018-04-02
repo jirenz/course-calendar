@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20180107T132526
-UID:explore_coursesc095c576-55f9-40b5-81e8-fc29f34e3109
-DTSTAMP:20180107T132526
+LAST-MODIFIED:20180401T174158
+UID:explore_courses6286c2d8-e85f-4761-8f67-5429cc417319
+DTSTAMP:20180401T174158
 LOCATION:Sequoia Hall 200
 DESCRIPTION:This course engages with difficult ethical challenges in the modern practice of data science.  The three main focuses are data privacy, personalization and targeting algorithms, and online experimentation. The focus on privacy will raise both practical and theoretical considerations. As part of the module on experimentation, students will be required to complete the Stanford IRB training for social and behavioral research. The course will assume a strong familiarity with the practice of machine learning and and data science. Recommended: MS&amp;E 226, MS&amp;E 231, CS 229, or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E234 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

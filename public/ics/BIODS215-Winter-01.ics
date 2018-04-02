@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132401
-UID:explore_courses617ee286-3058-4add-93f3-e42a95574cfd
-DTSTAMP:20180107T132401
+LAST-MODIFIED:20180401T174108
+UID:explore_courses7c99b70b-ba13-476a-bb0a-39f781ed9cab
+DTSTAMP:20180401T174108
 LOCATION:Alway Building, Room M112
 DESCRIPTION:The recent explosion of data generated in the fields of biology and medicine has led to many analytical challenges and opportunities for understanding human health. This graduate-level course focuses on methodology for large-scale inference from biomedical data. Topics include one-dimensional and multidimensional probability distributions; hypothesis testing and model comparison; statistical modeling; and prediction. This course will place a special emphasis on applications of these approaches to i) human genetic data; ii) hospital in-patient and health questionnaire data, which is increasingly available with the emergence of large precision initiatives like the UK Biobank and Precision Medicine Initiative; and iii) wearable and social network data.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIODS215 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20180107T132401
+CREATED:20180401T174108
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

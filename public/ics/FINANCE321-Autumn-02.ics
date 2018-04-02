@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170925T175000
-LAST-MODIFIED:20180107T132130
-UID:explore_courses9073e6c6-1cd6-422e-a665-4c5f5e9ef5f8
-DTSTAMP:20180107T132130
-LOCATION:GSB McClelland 105
-DESCRIPTION:Our focus is fundamental value investing. Equity investment in companies, common stocks, early/growth stage ventures and private equity, deals, partnerships, hedge funds, or other entrepreneurial opportunities will be immediately or eventually important for most MBAs--either on the investing side or on the fund-raising financing side. This investment course discusses many practical and conceptual factors influencing the analysis and value of companies and deals, including publicly listed and private equity investments, and on success of investment approaches. The focus of this course is on quoted and private equity investments and on entrepreneurial finance. The format of the class is primarily case discussions and lecture discussions led by the professor and investors/principals who were involved in the case. This course enables MBA students to learn a broad investing skill-set and to study outstanding investors. See yellow Term Sheet put in MBA Boxes in late April.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:FINANCE321 CAS
-DTSTART;TZID=America/Los_Angeles:20170925T150000
-CREATED:20180107T132130
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170929T175000;BYDAY=MO,TU,WE,TH,FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20171113T175000
-LAST-MODIFIED:20180107T132130
-UID:explore_courses7075ba85-d2c9-45de-9128-d00ae1dae4cf
-DTSTAMP:20180107T132130
+LAST-MODIFIED:20180401T173956
+UID:explore_coursese2219a96-c9bd-4d58-aa49-306fccb66cf5
+DTSTAMP:20180401T173956
 LOCATION:
 DESCRIPTION:Our focus is fundamental value investing. Equity investment in companies, common stocks, early/growth stage ventures and private equity, deals, partnerships, hedge funds, or other entrepreneurial opportunities will be immediately or eventually important for most MBAs--either on the investing side or on the fund-raising financing side. This investment course discusses many practical and conceptual factors influencing the analysis and value of companies and deals, including publicly listed and private equity investments, and on success of investment approaches. The focus of this course is on quoted and private equity investments and on entrepreneurial finance. The format of the class is primarily case discussions and lecture discussions led by the professor and investors/principals who were involved in the case. This course enables MBA students to learn a broad investing skill-set and to study outstanding investors. See yellow Term Sheet put in MBA Boxes in late April.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FINANCE321 CAS
 DTSTART;TZID=America/Los_Angeles:20171113T150000
-CREATED:20180107T132130
+CREATED:20180401T173956
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171117T175000;BYDAY=MO,TU,WE,TH,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170925T175000
+LAST-MODIFIED:20180401T173956
+UID:explore_coursese56d1a71-7eff-4380-840d-d1043bed91f4
+DTSTAMP:20180401T173956
+LOCATION:GSB McClelland 105
+DESCRIPTION:Our focus is fundamental value investing. Equity investment in companies, common stocks, early/growth stage ventures and private equity, deals, partnerships, hedge funds, or other entrepreneurial opportunities will be immediately or eventually important for most MBAs--either on the investing side or on the fund-raising financing side. This investment course discusses many practical and conceptual factors influencing the analysis and value of companies and deals, including publicly listed and private equity investments, and on success of investment approaches. The focus of this course is on quoted and private equity investments and on entrepreneurial finance. The format of the class is primarily case discussions and lecture discussions led by the professor and investors/principals who were involved in the case. This course enables MBA students to learn a broad investing skill-set and to study outstanding investors. See yellow Term Sheet put in MBA Boxes in late April.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FINANCE321 CAS
+DTSTART;TZID=America/Los_Angeles:20170925T150000
+CREATED:20180401T173956
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20170929T175000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

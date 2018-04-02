@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T102000
-LAST-MODIFIED:20180107T132525
-UID:explore_courses48eb4486-80ac-4b59-aa2b-f96710d2717e
-DTSTAMP:20180107T132525
+LAST-MODIFIED:20180401T174157
+UID:explore_coursesd3f20729-5aae-4517-9d63-56ef809ce376
+DTSTAMP:20180401T174157
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:Introduction to nonlinear phenomena: multiple equilibria, limit cycles, bifurcations, complex dynamical behavior. Planar dynamical systems, analysis using phase plane techniques. Describing functions. Lyapunov stability theory. SISO feedback linearization, sliding mode control. Design examples. Prerequisite: 205.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR209A LEC
 DTSTART;TZID=America/Los_Angeles:20180403T090000
-CREATED:20180107T132525
+CREATED:20180401T174157
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

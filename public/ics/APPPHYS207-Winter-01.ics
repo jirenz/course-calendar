@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132208
-UID:explore_courses5026f55c-47e0-4386-88c8-fb35b0b250c9
-DTSTAMP:20180107T132208
+LAST-MODIFIED:20180401T174017
+UID:explore_courses12d595f4-230d-4758-a495-e8049a37e13b
+DTSTAMP:20180401T174017
 LOCATION:McCullough 122
 DESCRIPTION:Lecture/lab emphasizing analog and digital electronics for lab research. RC and diode circuits. Transistors. Feedback and operational amplifiers. Active filters and circuits. Pulsed circuits, voltage regulators, and power circuits. Precision circuits, low-noise measurement, and noise reduction techniques. Circuit simulation tools. Analog signal processing techniques and modulation/demodulation. Principles of synchronous detection and applications of lock-in amplifiers. Common laboratory measurements and techniques illustrated via topical applications. Prerequisites: undergraduate device and circuit exposure.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:APPPHYS207 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20180107T132208
+CREATED:20180401T174017
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

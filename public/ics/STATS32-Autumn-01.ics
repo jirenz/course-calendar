@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T132000
-LAST-MODIFIED:20180107T132355
-UID:explore_courses0c2cc76f-d709-4ce8-bbc6-15a7671aa527
-DTSTAMP:20180107T132355
+LAST-MODIFIED:20180401T174105
+UID:explore_courses60d77e2c-189e-4979-a18f-068123a94d68
+DTSTAMP:20180401T174105
 LOCATION:200-203
 DESCRIPTION:This short course runs for weeks two through five of the quarter. It is recommended for undergraduate students who want to use R in the linguistics, humanities, social sciences or biological sciences and for students who want to learn the basics of R programming. The goal of the short course is to familiarize students with R's tools for scientific computing. Lectures will be interactive with a focus on learning by example, and assignments will be application-driven. No prior programming experience is needed. Topics covered include basic data structures, File I/O, graphs, control structures, etc, and some useful packages in R. Prerequisite: undergraduate student. Priority given to non-engineering students. Laptops necessary for use in class.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS32 WKS
 DTSTART;TZID=America/Los_Angeles:20170926T120000
-CREATED:20180107T132355
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T112000
-LAST-MODIFIED:20180107T132531
-UID:explore_courses2ff1cfd3-03a5-44b3-aacc-1f5fff0661bc
-DTSTAMP:20180107T132531
+LAST-MODIFIED:20180401T174202
+UID:explore_courses3f7b7287-4732-4fb9-a48a-038034701026
+DTSTAMP:20180401T174202
 LOCATION:
 DESCRIPTION:Feedback from users is fundamental to good design. Often this feedback is collected in the form of a survey, resulting in data requiring both analysis and synthesis.  Course content will be delivered via live and on-line video lectures, with group classroom time dedicated to completing the lab assignments. You will learn the specific skills necessary to design, launch and collect data using an online survey tool (Qualtrics), how to analyze the results using R for Statistical Computing, and to create simple graphical representations of statistical data. This course is designed to complement ME341 &iquest; Design Experiments although enrollment in ME341 is not a prerequisite for this course.  One-unit credit requires completion of an analysis project using data collected as part of this class. Auditors welcome.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME341X LEC
 DTSTART;TZID=America/Los_Angeles:20180110T093000
-CREATED:20180107T132531
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180409T162000
-LAST-MODIFIED:20180107T132130
-UID:explore_courses68eb9139-3291-40d1-a10f-c5f6a7d4ee48
-DTSTAMP:20180107T132130
-LOCATION:
+LAST-MODIFIED:20180401T173956
+UID:explore_coursesa58ff32d-5bfd-471f-9faf-ded03b044fb7
+DTSTAMP:20180401T173956
+LOCATION:GSB Faculty West 104
 DESCRIPTION:This course will combine practical and up-to-date investment theory with modeling applications. Understanding beautiful theory, without the ability to apply it, is essentially useless. Conversely, creating state-of-the-art spreadsheets that apply incorrect theory is a waste of time. Here, we try to explicitly combine theory and application. The course will be divided into 6 modules, or topics. The first day of each module will be a lecture on an investment topic. Also provided is a team modeling project on the topic. The second day of each module will be a lab. The lab day will begin with modeling concepts (tips) designed to help you use Excel to implement the module's investment topic. After the tips are provided, the remainder of the lab day is devoted to teams working on their modeling project and allowing for Q&amp;A. On the third day of each module will be presentations and wrap-up.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:FINANCE341 CAS
 DTSTART;TZID=America/Los_Angeles:20180409T150000
-CREATED:20180107T132130
+CREATED:20180401T173956
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180605T162000;BYDAY=MO,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180111T112000
-LAST-MODIFIED:20180107T132411
-UID:explore_courses5b08fcd1-4836-4cf1-8132-55f9369b8b47
-DTSTAMP:20180107T132411
+LAST-MODIFIED:20180401T174112
+UID:explore_courses98650639-6967-4c37-97c8-553dde3b5ca4
+DTSTAMP:20180401T174112
 LOCATION:
 DESCRIPTION:The goal of this course is to explore different genomic approaches and technologies, to learn how they work from a molecular biology view point, and to understand how they can be applied to understanding biological systems. In addition, we teach material on how the data generated from these approaches can be analyzed, from an algorithmic perspective. The papers that are discussed are a mixture of algorithmic papers, and technological papers. Finally, the course has a strong programming component, with Python being the language that we teach. All of our problem sets require Python programming - while beginning programmers succeed in our course, it is a steep learning curve, and the problem sets can require a significant time investment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE211 DIS
 DTSTART;TZID=America/Los_Angeles:20180111T093000
-CREATED:20180107T132411
+CREATED:20180401T174112
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TH
 END:VEVENT
 END:VCALENDAR

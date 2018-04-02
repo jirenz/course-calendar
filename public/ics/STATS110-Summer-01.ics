@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180625T112000
-LAST-MODIFIED:20180107T132355
-UID:explore_courses8f527332-a7f8-43b8-9a7f-1e7058302aee
-DTSTAMP:20180107T132355
-LOCATION:
+LAST-MODIFIED:20180401T174105
+UID:explore_courses33ebe817-e602-49dd-b5e0-a94f00ab75dc
+DTSTAMP:20180401T174105
+LOCATION:Huang Engineering Center 18
 DESCRIPTION:Introduction to statistics for engineers and physical scientists. Topics: descriptive statistics, probability, interval estimation, tests of hypotheses, nonparametric methods, linear regression, analysis of variance, elementary experimental design. Prerequisite: one year of calculus.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS110 LEC
 DTSTART;TZID=America/Los_Angeles:20180625T103000
-CREATED:20180107T132355
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T112000;BYDAY=MO,TU,WE,TH,FR
 END:VEVENT
 END:VCALENDAR

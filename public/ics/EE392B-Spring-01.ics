@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T172000
-LAST-MODIFIED:20180107T132523
-UID:explore_coursesbeb3914f-f229-4e80-8e15-328ca6595780
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174157
+UID:explore_courses804b02a1-771c-4f1c-b0db-bf17cbc361e0
+DTSTAMP:20180401T174157
 LOCATION:370-370
 DESCRIPTION:The seminar will feature guest lectures from the industry to discuss the state of the affairs in the Industrial Internet of Things (IoT) with emphasis on existing and new Data Science, analytics, and Big Data applications. The class will address several verticals. One of them is electrical power industry, which is undergoing transition to renewables and distributed generation. Another one is aerospace industry including airlines and equipment vendors. Other verticals are oil and gas, data centers, and semiconductor manufacturing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE392B SEM
 DTSTART;TZID=America/Los_Angeles:20180403T163000
-CREATED:20180107T132523
+CREATED:20180401T174157
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

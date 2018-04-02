@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180406T125000
-LAST-MODIFIED:20180107T132434
-UID:explore_courses1d48bab6-620f-463f-ba53-3e297518a274
-DTSTAMP:20180107T132434
-LOCATION:Alway Building, Room M112
+DTEND;TZID=America/Los_Angeles:20180404T132000
+LAST-MODIFIED:20180401T174125
+UID:explore_courses15ae949c-f930-4fa6-b10b-140a8bf29b0b
+DTSTAMP:20180401T174125
+LOCATION:Li Ka Shing Center, room 130
 DESCRIPTION:Open to MD, graduate, and undergraduate students. Each session focuses on a current article in pediatric medicine. Discussions led by faculty experts in the area covered that session. Topics may range widely, depending on the available lieterature and students' interests. Students are expected to review the chosen article before class and participate in discussion.  Discussion includes methodology and statistical analysis of each study and its relevance to pediatric practice.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PEDS230 SEM
-DTSTART;TZID=America/Los_Angeles:20180406T120000
-CREATED:20180107T132434
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T125000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180404T123000
+CREATED:20180401T174125
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

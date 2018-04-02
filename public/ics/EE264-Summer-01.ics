@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180626T132000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses8c45365b-1907-49ac-af99-68f46598b82a
-DTSTAMP:20180107T132523
-LOCATION:380-380F
+DTEND;TZID=America/Los_Angeles:20180625T112000
+LAST-MODIFIED:20180401T174156
+UID:explore_courses151801ac-af19-4552-b0cb-45a70aabfc25
+DTSTAMP:20180401T174156
+LOCATION:Gates B3
 DESCRIPTION:Digital signal processing (DSP) techniques and design of DSP applications. Topics include: discrete-time random signals; sampling and multi-rate systems; oversampling and quantization in A-to-D conversion; properties of LTI systems; quantization in fixed-point implementations of filters; digital filter design; discrete Fourier Transform and FFT; and spectrum analysis using the DFT.  In the design part of the course, students develop basic DSP applications on an embedded processing platform. The 4-unit version of the course, which meets the EE design requirement, adds a final 4-week project and report. See ee264.stanford.edu for more information. Prerequisite: EE 102A and EE 102B or equivalent, basic programming skills (Matlab and C++)
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE264 LEC
-DTSTART;TZID=America/Los_Angeles:20180626T113000
-CREATED:20180107T132523
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T132000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180625T093000
+CREATED:20180401T174156
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T172000
-LAST-MODIFIED:20180107T132511
-UID:explore_coursese14bac6d-8ab3-401f-a841-20dccbf9e487
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_courseseb9492fa-35fc-4b20-ac1a-1670df070aa8
+DTSTAMP:20180401T174147
 LOCATION:50-52H
 DESCRIPTION:Statistical and computational methods for inferring images from incomplete data. Bayesian inference methods are used to combine data and quantify uncertainty in the estimate.  Fast linear algebra tools are used to solve problems with many pixels and many observations.  Applications from several fields but mainly in earth sciences.  Prerequisites: Linear algebra and probability theory.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE362G LEC
 DTSTART;TZID=America/Los_Angeles:20170925T153000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

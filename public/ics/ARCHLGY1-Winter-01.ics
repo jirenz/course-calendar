@@ -22,17 +22,59 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T122000
+LAST-MODIFIED:20180401T174018
+UID:explore_courses25a4de9d-62fe-47c7-b5e5-e0330b5ca16e
+DTSTAMP:20180401T174018
+LOCATION:50-51A
+DESCRIPTION:Aims, methods, and data in the study of human society's development from early hunters through late prehistoric civilizations. Archaeological sites and remains characteristic of the stages of cultural development for selected geographic areas, emphasizing methods of data collection and analysis appropriate to each.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARCHLGY1 LEC
+DTSTART;TZID=America/Los_Angeles:20180112T103000
+CREATED:20180401T174018
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T122000
+LAST-MODIFIED:20180401T174018
+UID:explore_coursesd21e0532-4025-40ac-b6b3-2e9a99c5be1c
+DTSTAMP:20180401T174018
+LOCATION:50-51B
+DESCRIPTION:Aims, methods, and data in the study of human society's development from early hunters through late prehistoric civilizations. Archaeological sites and remains characteristic of the stages of cultural development for selected geographic areas, emphasizing methods of data collection and analysis appropriate to each.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARCHLGY1 LEC
+DTSTART;TZID=America/Los_Angeles:20180112T103000
+CREATED:20180401T174018
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T122000
+LAST-MODIFIED:20180401T174018
+UID:explore_coursesc17ce0e0-a4b0-4ec6-93ca-6ca8c69cf95a
+DTSTAMP:20180401T174018
+LOCATION:40-41J
+DESCRIPTION:Aims, methods, and data in the study of human society's development from early hunters through late prehistoric civilizations. Archaeological sites and remains characteristic of the stages of cultural development for selected geographic areas, emphasizing methods of data collection and analysis appropriate to each.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARCHLGY1 LEC
+DTSTART;TZID=America/Los_Angeles:20180112T103000
+CREATED:20180401T174018
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T122000
-LAST-MODIFIED:20180107T132210
-UID:explore_coursesa1a11e32-fe6a-4824-bbf3-6273667184d6
-DTSTAMP:20180107T132210
+LAST-MODIFIED:20180401T174018
+UID:explore_courses0fa32298-780a-4e0e-b131-2098315a99f8
+DTSTAMP:20180401T174018
 LOCATION:Turingaud
 DESCRIPTION:Aims, methods, and data in the study of human society's development from early hunters through late prehistoric civilizations. Archaeological sites and remains characteristic of the stages of cultural development for selected geographic areas, emphasizing methods of data collection and analysis appropriate to each.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARCHLGY1 LEC
 DTSTART;TZID=America/Los_Angeles:20180110T103000
-CREATED:20180107T132210
+CREATED:20180401T174018
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T113000
-LAST-MODIFIED:20180107T132133
-UID:explore_courses18569ef2-bd92-452e-ab0a-324540087dfc
-DTSTAMP:20180107T132133
+LAST-MODIFIED:20180401T174000
+UID:explore_courses05f21081-7594-43f7-82c0-3c582eda5b5c
+DTSTAMP:20180401T174000
 LOCATION:
 DESCRIPTION:For students who seek experience and advanced training in empirical research methods. Analysis of experimental data with methods ranging from simple chi-square to multiple regression models, including an introduction to mixed models. Uses the free statistical computing package R. Prerequisite: An intro stats class (Same as PSYCH 252 -- Co-taught with Ewart Thomas).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:OB652 SEM
 DTSTART;TZID=America/Los_Angeles:20170925T093000
-CREATED:20180107T132133
+CREATED:20180401T174000
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T113000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

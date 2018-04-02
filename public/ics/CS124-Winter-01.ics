@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursesbb88db27-b8be-4647-9f0c-daef9252f5be
-DTSTAMP:20180107T132519
-LOCATION:420-040
-DESCRIPTION:Extracting meaning, information, and structure from human language text, speech, web pages, social networks. Methods include: string algorithms,edit distance, language modeling, the noisy channel, naive Bayes, inverted indices, collaborative filtering, PageRank. Applications such as question answering, sentiment analysis, information retrieval, text classification, social network models, chatbots, sequence alignment, spell checking, speech processing, recommender systems. nPrerequisites: CS103, CS107, CS109.
+LAST-MODIFIED:20180401T174153
+UID:explore_coursese4038df7-fc8d-4792-8d64-eae05d9dc833
+DTSTAMP:20180401T174153
+LOCATION:Hewlett Teaching Center 200
+DESCRIPTION:Extracting meaning, information, and structure from human language text, speech, web pages, social networks. Methods include: string algorithms, edit distance, language modeling, the noisy channel, naive Bayes, inverted indices, collaborative filtering, PageRank. Applications such as question answering, sentiment analysis, information retrieval, text classification, social network models, chatbots, sequence alignment, spell checking, speech processing, recommender systems. Prerequisites: CS103, CS107, CS109.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS124 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

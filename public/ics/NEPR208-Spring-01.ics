@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T150500
-LAST-MODIFIED:20180107T132424
-UID:explore_courses17fa2d46-a530-445d-9670-a0e824c36628
-DTSTAMP:20180107T132424
+LAST-MODIFIED:20180401T174119
+UID:explore_coursesd87e621c-f389-4b21-b50b-1790d9d63026
+DTSTAMP:20180401T174119
 LOCATION:Li Ka Shing Center, room 101
 DESCRIPTION:For first-year Neurosciences graduate students; open to other graduate students as space permits with preference given to Neurosciences students. Introduces students to computational and theoretical methods in neuroscience. Emphasis on what questions are important, and how those questions can be answered with quantitative methods. Topics range from cellular/molecular to cognitive, and emphasizes similarity and differences of methods across neural scales.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:NEPR208 WKS
 DTSTART;TZID=America/Los_Angeles:20180402T131500
-CREATED:20180107T132424
+CREATED:20180401T174119
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T150500;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132356
-UID:explore_coursesb8b80ed4-740a-42bb-9519-e1b00dae1c1f
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174105
+UID:explore_coursesadf93fa0-4074-4c10-b4fc-5ec87c4e5da0
+DTSTAMP:20180401T174105
 LOCATION:Green Earth Sciences150
 DESCRIPTION:This course will treat Bayesian statistics at a relatively advanced level. Assuming familiarity with standard probability and multivariate distribution theory, we will provide a discussion of the mathematical and theoretical foundation for Bayesian inferential procedures. In particular, we will examine the construction of priors and the asymptotic properties of likelihoods and posterior distributions. The discussion will include but will not be limited to the case of finite dimensional parameter space.  There will also be some discussions on the computational algorithms useful for Bayesian inference.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS270 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

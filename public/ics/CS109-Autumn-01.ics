@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T162000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses7153cb62-e8f4-4c6d-9ec5-f7c4e7e95a07
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174153
+UID:explore_coursesa655a6ba-d34d-459d-85df-0a4466da40d4
+DTSTAMP:20180401T174153
 LOCATION:Hewlett Teaching Center 200
 DESCRIPTION:Topics include: counting and combinatorics, random variables, conditional probability, independence, distributions, expectation, point estimation, and limit theorems. Applications of probability in computer science including machine learning and the use of probability in the analysis of algorithms. Prerequisites: 103, 106B or X, multivariate calculus at the level of MATH 51 or CME 100 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS109 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T153000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

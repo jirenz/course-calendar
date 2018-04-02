@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170929T132000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursesaba946c8-431c-4132-9fd4-3c6370511c05
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174153
+UID:explore_courses156b2dd0-635e-443d-8e04-f1045ebbd3f8
+DTSTAMP:20180401T174153
 LOCATION:260-244
 DESCRIPTION:Introduces fundamental methods and principles for designing, implementing, and evaluating user interfaces. Topics: user-centered design, rapid prototyping, experimentation, direct manipulation, cognitive principles, visual design, social software, software tools. Learn by doing: work with a team on a quarter-long design project, supported by lectures, readings, and studios. Prerequisite: 106B or X or equivalent programming experience. Recommended that CS Majors have also taken one of 142, 193P, or 193A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS147 DIS
 DTSTART;TZID=America/Los_Angeles:20170929T113000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170927T162000
-LAST-MODIFIED:20180107T132526
-UID:explore_courses86678a57-6a91-4cf3-88a6-6aa623870011
-DTSTAMP:20180107T132526
+LAST-MODIFIED:20180401T174158
+UID:explore_coursese36791bb-c942-4eb3-9709-366e9bcddd0d
+DTSTAMP:20180401T174158
 LOCATION:Thornt110
 DESCRIPTION:With a vast amount of data now collected on our online and offline actions -- from what we buy, to where we travel, to who we interact with -- we have an unprecedented opportunity to study complex social systems. This opportunity, however, comes with scientific, engineering, and ethical challenges. In this hands-on course, we develop ideas from computer science and statistics to address problems in sociology, economics, political science, and beyond. We cover techniques for collecting and parsing data, methods for large-scale machine learning, and principles for effectively communicating results. To see how these techniques are applied in practice, we discuss recent research findings in a variety of areas. Prerequisites: introductory course in applied statistics, and experience coding in R, Python, or another high-level language.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E231 DIS
 DTSTART;TZID=America/Los_Angeles:20170927T150000
-CREATED:20180107T132526
+CREATED:20180401T174158
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

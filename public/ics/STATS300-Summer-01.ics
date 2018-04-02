@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180626T115000
-LAST-MODIFIED:20180107T132356
-UID:explore_coursesa32d472c-db6f-4bc0-9453-29b2f1f63898
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174105
+UID:explore_coursesb4fb5c99-d647-4235-824c-12c471f1cebb
+DTSTAMP:20180401T174105
 LOCATION:Sequoia Hall 200
-DESCRIPTION:An introduction to statistical inference and practice through the eyes of its greatest exponent, R. A. Fisher.  Each class one of Fisher's papers will be discussed, together with one or more commentaries or extensions by later statisticians.  Topics to be covered will include:  Fisher's life;  the Student t-test, the 1915 paper on the correlation coefficient, the degrees-of-freedom controversy for chi-squared, the 1922 and 1925 papers on statistical estimation, Statistical Methods for Research Workers (1925), conditional inference, the Design of Experiments (1935), the dispute with Neyman, discriminant analysis, the sampling of species, dispersion on a sphere, fiducial inference, and Statistical Methods and Scientific Inference (1956).
+DESCRIPTION:TBD
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS300 LEC
 DTSTART;TZID=America/Los_Angeles:20180626T103000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

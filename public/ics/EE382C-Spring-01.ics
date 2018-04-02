@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses577de0ca-2ebb-412e-9f4e-3d6dbd36b7c5
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_courses9e983f07-c4f9-46b6-8d08-c2c68da53ee5
+DTSTAMP:20180401T174156
 LOCATION:Hewlett Teaching Center 102
 DESCRIPTION:The architecture and design of interconnection networks used to communicate from processor to memory, from processor to processor, and in switches and routers. Topics: network topology, routing methods, flow control, router microarchitecture, and performance analysis. Enrollment limited to 30. Prerequisite: 282.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE382C LEC
 DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

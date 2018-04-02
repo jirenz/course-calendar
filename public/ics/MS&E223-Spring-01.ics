@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T122000
-LAST-MODIFIED:20180107T132526
-UID:explore_courses0272d488-bcbf-405c-9288-cf8a9bbb36d8
-DTSTAMP:20180107T132526
+LAST-MODIFIED:20180401T174158
+UID:explore_courses7cf9bbe9-a0a2-4632-9aee-91deecebbfd1
+DTSTAMP:20180401T174158
 LOCATION:Thornt102
 DESCRIPTION:Discrete-event systems, generation of uniform and non-uniform random numbers, Monte Carlo methods, programming techniques for simulation, statistical analysis of simulation output, efficiency-improvement techniques, decision making using simulation, applications to systems in computer science, engineering, finance, and operations research. Prerequisites: working knowledge of a programming language such as C, C++, Java, Python, or FORTRAN; calculus-base probability; and basic statistical methods.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MS&E223 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T103000
-CREATED:20180107T132526
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE
+CREATED:20180401T174158
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132500
-UID:explore_courses9c1b8bc5-54f0-451c-9e73-12733343f4d5
-DTSTAMP:20180107T132500
+LAST-MODIFIED:20180401T174141
+UID:explore_courses60126a13-48a6-4821-b6a3-e618645c8608
+DTSTAMP:20180401T174141
 LOCATION:320-220
 DESCRIPTION:This course explains ion creation, mass separation, and ion detection in mass spectrometry methods commonly used in the Earth Sciences.  Gas source (C-O-H-S stable isotope, 40Ar/39Ar, and (U-Th)-He), secondary ionization (SIMS), laser ablation and  solution-based mass inductively coupled (ICP-MS) and thermal ionization (TIMS) mass spectrometry techniques are also explored.  Additional topics include ion optics, vacuum generation, and pressure measurement, instrument calibration, data reduction, and error propagation methods.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GS287 SEM
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20180107T132500
+CREATED:20180401T174141
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

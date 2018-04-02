@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T175000
-LAST-MODIFIED:20180107T132313
-UID:explore_courses1fbd18fb-f3e2-4229-8d1a-210a15cbaddb
-DTSTAMP:20180107T132313
+LAST-MODIFIED:20180401T174047
+UID:explore_courses5cb8da13-9648-40d3-a06d-ac545d5f5914
+DTSTAMP:20180401T174047
 LOCATION:200-002
 DESCRIPTION:Project-oriented class focused on developing systems and algorithms for robust machine understanding of human language.  Draws on theoretical concepts from linguistics, natural language processing, and machine learning.  Topics include lexical semantics, distributed representations of meaning, relation extraction, semantic parsing, sentiment analysis, and dialogue agents, with special lectures on developing projects, presenting research results, and making connections with industry. Prerequisites: one of LINGUIST 180, CS 124, CS 224N, CS224S, or CS221; and logical/semantics such as LINGUIST 130A or B, CS 157, or PHIL150
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:LINGUIST188 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T163000
-CREATED:20180107T132313
+CREATED:20180401T174047
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

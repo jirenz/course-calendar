@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T132000
-LAST-MODIFIED:20180107T132403
-UID:explore_courses2d2ca819-68a6-404c-83b7-993c045a3107
-DTSTAMP:20180107T132403
+LAST-MODIFIED:20180401T174109
+UID:explore_courses0b713ebf-df9e-4f44-b27c-2da4051f3ed8
+DTSTAMP:20180401T174109
 LOCATION:MSOBX275
 DESCRIPTION:Weekly seminar series in which seminal literature and current publications in the field of clinical informatics are reviewed and discussed. Organized by the Stanford Clinical Informatics fellowship program. Topics include electronic health record design, implementation, and evaluation; patient engagement; provider satisfaction; and hot topics in clinical informatics. Limited enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOMEDIN208 SEM
 DTSTART;TZID=America/Los_Angeles:20180110T123000
-CREATED:20180107T132403
+CREATED:20180401T174109
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

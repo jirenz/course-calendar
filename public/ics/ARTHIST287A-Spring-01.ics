@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20180107T132213
-UID:explore_coursescdc314c2-0c8f-49ee-ac36-3fa95c26ef9f
-DTSTAMP:20180107T132213
+DTEND;TZID=America/Los_Angeles:20180404T175000
+LAST-MODIFIED:20180401T174020
+UID:explore_coursesf1c9aa37-1646-4171-aef1-304fbb1495c3
+DTSTAMP:20180401T174020
 LOCATION:
 DESCRIPTION:The Japanese  tea ceremony, the ultimate premodern multimedia phenomenon, integrates architecture, garden design, ceramics, painting, calligraphy, and other treasured objects into a choreographed ritual wherein host, objects, and guests perform designated roles on a tiny stage sometimes only six feet square.. In addition to its much-touted aesthetic and philosophical aspects, the practice of tea includes inevitable political and rhetorical dimensions. This course traces the evolution of tea practice  from its inception within the milieu of courtier diversions, Zen monasteries, and warrior villas, through its various permutations into the 20th century,  where it was manipulated by the emerging industrialist class for different-but ultimately similar-ends.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTHIST287A SEM
-DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132213
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180404T150000
+CREATED:20180401T174020
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

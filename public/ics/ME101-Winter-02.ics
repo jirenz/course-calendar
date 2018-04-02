@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T112000
-LAST-MODIFIED:20180107T132530
-UID:explore_courses8ccc95af-c49b-4797-b670-02ba2e1d7a1b
-DTSTAMP:20180107T132530
-LOCATION:Lathrop 282
+LAST-MODIFIED:20180401T174202
+UID:explore_courses6c9f38f7-b92f-4e89-84a1-adf5fa6a62f1
+DTSTAMP:20180401T174202
+LOCATION:
 DESCRIPTION:Lecture/lab. Visual thinking and language skills are developed and exercised in the context of solving design problems. Exercises for the mind's eye. Rapid visualization and prototyping with emphasis on fluent and flexible idea production. The relationship between visual thinking and the creative process. Limited enrollment, attendance at first class required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME101 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T093000
-CREATED:20180107T132530
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

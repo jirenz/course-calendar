@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132531
-UID:explore_coursesdcf12aa6-1bb6-4776-b814-ad3094e58827
-DTSTAMP:20180107T132531
+LAST-MODIFIED:20180401T174202
+UID:explore_coursesac075641-08a2-4f0d-9da7-a13635099758
+DTSTAMP:20180401T174202
 LOCATION:60-109
 DESCRIPTION:Transport phenomena on small-length scales appropriate to applications in microfluidics, complex fluids, and biology. The basic equations of mass, momentum, and energy, derived for incompressible fluids and simplified to the slow-flow limit. Topics: solution techniques utilizing expansions of harmonic  and Green's functions; singularity solutions; flows involving rigid particles and fluid droplets; applications to suspensions; lubrication theory for flows in confined geometries; slender body theory; and capillarity and wetting. Prerequisites: 120A,B, 300, or equivalents.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME451D LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132531
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

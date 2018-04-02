@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132335
-UID:explore_courses1b40e694-7339-40f5-bec5-36c61ca5b883
-DTSTAMP:20180107T132335
+LAST-MODIFIED:20180401T174056
+UID:explore_coursesb890dd03-a620-4aa7-911f-55fef65e1544
+DTSTAMP:20180401T174056
 LOCATION:Lathrop 299
 DESCRIPTION:The origins of quantum mechanics and wave mechanics.  Schr&ouml;dinger equation and solutions for one-dimensional systems. Commutation relations. Generalized uncertainty principle. Time-energy uncertainty principle. Separation of variables and solutions for three-dimensional systems; application to hydrogen atom.  Spherically symmetric potentials and angular momentum eigenstates. Spin angular momentum.  Addition of angular momentum. Prerequisites: PHYSICS 65 or PHYSICS 70 and PHYSICS 111 or MATH 131P or MATH 173. MATH 173 can be taken concurrently. Pre- or corequisites: PHYSICS 120.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS130 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132335
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

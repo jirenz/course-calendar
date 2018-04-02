@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T132000
-LAST-MODIFIED:20180107T132453
-UID:explore_courses0d28263b-68e1-4701-af54-bcbcc34e4a73
-DTSTAMP:20180107T132453
+LAST-MODIFIED:20180401T174136
+UID:explore_coursesfe2e241c-e645-46e3-acde-f72745155b86
+DTSTAMP:20180401T174136
 LOCATION:50-52H
 DESCRIPTION:International Education Initiative (IEI) &iquest; a cross-campus initiative to promote greater collaboration around research in international education at Stanford. It is designed to help students conduct higher quality research in international education and gain wide exposure to the international education research community. Students will have the chance to engage with invited speakers from outside Stanford, present and get feedback about their own research, and learn new methodological tools.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EDUC311 WKS
 DTSTART;TZID=America/Los_Angeles:20180110T113000
-CREATED:20180107T132453
+CREATED:20180401T174136
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

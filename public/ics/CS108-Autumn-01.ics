@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T162000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses2bc67e0c-57c1-4fde-ab70-b70dfeeb5f4f
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174153
+UID:explore_courses94ad8deb-36f6-420a-b86b-da8775ae31c2
+DTSTAMP:20180401T174153
 LOCATION:530-127
 DESCRIPTION:Software design and construction in the context of large OOP libraries. Taught in Java. Topics: OOP design, design patterns, testing, graphical user interface (GUI) OOP libraries, software engineering strategies, approaches to programming in teams. Prerequisite: 107.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS108 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T150000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20180107T132511
-UID:explore_coursesf008700e-72a5-48c3-91bb-d6b27e0e5939
-DTSTAMP:20180107T132511
-LOCATION:
+LAST-MODIFIED:20180401T174148
+UID:explore_courses10c3213a-dd1f-4b5f-a9c1-13b1bffb4e8f
+DTSTAMP:20180401T174148
+LOCATION:60-109
 DESCRIPTION:The main algorithms and software for constrained optimization emphasizing the sparse-matrix methods needed for their implementation. Iterative methods for linear equations and least squares. The simplex method. Basis factorization and updates. Interior methods. The reduced-gradient method, augmented Lagrangian methods, and SQP methods. Prerequisites: Basic numerical linear algebra, including LU, QR, and SVD factorizations, and an interest in MATLAB, sparse-matrix methods, and gradient-based algorithms for constrained optimization. Recommended: MS&amp;E 310, 311, 312, 314, or 315; CME 108, 200,  302, 304, 334, or 335.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME338 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T150000
-CREATED:20180107T132511
+CREATED:20180401T174148
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T182000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursesb032dba7-dece-468a-9dbb-105bf929ca2e
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174152
+UID:explore_courses5482169c-8349-46df-a03c-d4233b209d7e
+DTSTAMP:20180401T174152
 LOCATION:200-107
 DESCRIPTION:This course introduces students to various intersections of social good and technology through a weekly discussion and speaker series. Students will be given a space to exchange ideas and experiences regarding a certain social issue. Invited speakers come from industry, academia, and non-profit organizations. They will share their career paths, what drove them to these fields, and advice for students. The topics examined will span a broad variety of social issues -- from race and class to education and sustainability -- and help students better understand how to kick off their journey in using computer science for social good.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS53SI ACT
 DTSTART;TZID=America/Los_Angeles:20170926T163000
-CREATED:20180107T132519
+CREATED:20180401T174152
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T182000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

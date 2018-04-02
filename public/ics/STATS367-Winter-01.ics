@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20180107T132356
-UID:explore_courses0c718e80-011c-4dfb-9f74-f7d4373a8d3b
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174105
+UID:explore_courses28e4597c-af44-4f65-becb-1bc7e2da0aec
+DTSTAMP:20180401T174105
 LOCATION:STLC118
 DESCRIPTION:This course will cover statistical problems in population genetics and molecular evolution with an emphasis on coalescent theory. Special attention will be paid to current research topics, illustrating the challenges presented by genomic data obtained via high-throughput technologies. No prior knowledge of genomics is necessary. Familiarity with the R statistical package or other computing language is needed for homework assignments. Prerequisites: knowledge of probability through elementary stochastic processes and statistics through likelihood theory.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS367 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

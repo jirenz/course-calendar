@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20180107T132406
-UID:explore_courses8d5ea769-8278-4dda-91b8-9a961cb00fb3
-DTSTAMP:20180107T132406
+LAST-MODIFIED:20180401T174110
+UID:explore_courses252bbf16-8e21-4589-aa99-a1697c51e28f
+DTSTAMP:20180401T174110
 LOCATION:CCSR 4205
 DESCRIPTION:Current topics include chemical genetics, activity-based probes, inducible protein degradation, DNA/RNA chemistry and molecular evolution, protein labeling, carbohydrate engineering, fluorescent proteins and sensors, optochemical/optogenetic methods, mass spectrometry, and genome-editing technologies.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CSB260 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132406
+CREATED:20180401T174110
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

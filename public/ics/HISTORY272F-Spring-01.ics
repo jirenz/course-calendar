@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180405T162000
-LAST-MODIFIED:20180107T132259
-UID:explore_courses1b2fccd6-32eb-48e4-9199-e7650ef0019a
-DTSTAMP:20180107T132259
-LOCATION:Littlefield 104
+DTEND;TZID=America/Los_Angeles:20180404T152000
+LAST-MODIFIED:20180401T174042
+UID:explore_coursesa97d29e3-a71a-48c8-bbf7-94dbf90317ce
+DTSTAMP:20180401T174042
+LOCATION:60-108
 DESCRIPTION:Prerequisite: HISTORY 272D.  This course is the second part of a continuing course about teaching Mexican American history in high school. In addition to continuing the mentoring work with students at Luis Valdez Leadership Academy, the spring quarter course will focus on the conceptualization, design, and development of a website that will provide resources for U.S. history teachers who seek information about Mexican American history. Students will  identify primary sources, bibliographies, lesson plans, and other materials for use by high school teachers.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY272F COL
-DTSTART;TZID=America/Los_Angeles:20180405T133000
-CREATED:20180107T132259
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TH
+DTSTART;TZID=America/Los_Angeles:20180404T123000
+CREATED:20180401T174042
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

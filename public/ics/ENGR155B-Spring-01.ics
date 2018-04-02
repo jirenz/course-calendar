@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T182000
-LAST-MODIFIED:20180107T132525
-UID:explore_courses36da1d29-7d10-4ada-ac09-38a5f39e0065
-DTSTAMP:20180107T132525
+LAST-MODIFIED:20180401T174157
+UID:explore_coursesa608c297-3b6d-4d22-83b8-c4105787fd2f
+DTSTAMP:20180401T174157
 LOCATION:260-113
 DESCRIPTION:Linear algebra: matrix operations, systems of algebraic equations, Gaussian elimination, undetermined and overdetermined systems, coupled systems of ordinary differential equations, eigensystem analysis, normal modes. Fourier series with applications, partial differential equations arising in science and engineering, analytical solutions of partial differential equations. Numerical methods for solution of partial differential equations: iterative techniques, stability and convergence, time advancement, implicit methods, von Neumann stability analysis. Examples and applications from various engineering fields. Prerequisite: CME 102/ENGR 155A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR155B LEC
 DTSTART;TZID=America/Los_Angeles:20180403T163000
-CREATED:20180107T132525
+CREATED:20180401T174157
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

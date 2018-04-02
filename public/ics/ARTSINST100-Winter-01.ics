@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132213
-UID:explore_courses0b473055-c046-470c-bb53-0a8f5017d290
-DTSTAMP:20180107T132213
-LOCATION:50-51P
-DESCRIPTION:Students will create individual studio portfolios of ceramic work and pursue technical investigations of clay properties and the firing process using modern scientific equipment. Emphasis on development of creative process; parallels between science and traditional craft; integration of creative expression with scientific method and analysis. Prior ceramics experience desirable but not necessary. Limited enrollment. Prerequisites: any level of background in physics, Instructor permission.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:ARTSINST100 LEC
-DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20180107T132213
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T205000
-LAST-MODIFIED:20180107T132213
-UID:explore_coursese4e3237b-f4c2-4743-82c6-21b9b7bddc19
-DTSTAMP:20180107T132213
+LAST-MODIFIED:20180401T174020
+UID:explore_courses372b08ab-53e3-4329-a093-f0230fbafa25
+DTSTAMP:20180401T174020
 LOCATION:50-52E
 DESCRIPTION:Students will create individual studio portfolios of ceramic work and pursue technical investigations of clay properties and the firing process using modern scientific equipment. Emphasis on development of creative process; parallels between science and traditional craft; integration of creative expression with scientific method and analysis. Prior ceramics experience desirable but not necessary. Limited enrollment. Prerequisites: any level of background in physics, Instructor permission.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ARTSINST100 LEC
 DTSTART;TZID=America/Los_Angeles:20180110T180000
-CREATED:20180107T132213
+CREATED:20180401T174020
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T205000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T162000
+LAST-MODIFIED:20180401T174020
+UID:explore_courses1030d54e-8d3e-4803-a29f-fbf1f7c1d062
+DTSTAMP:20180401T174020
+LOCATION:50-51P
+DESCRIPTION:Students will create individual studio portfolios of ceramic work and pursue technical investigations of clay properties and the firing process using modern scientific equipment. Emphasis on development of creative process; parallels between science and traditional craft; integration of creative expression with scientific method and analysis. Prior ceramics experience desirable but not necessary. Limited enrollment. Prerequisites: any level of background in physics, Instructor permission.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ARTSINST100 LEC
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20180401T174020
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

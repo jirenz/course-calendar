@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180627T235900
-LAST-MODIFIED:20180107T132334
-UID:explore_courses23559ede-bf67-4137-9120-b2aa200cece2
-DTSTAMP:20180107T132334
+LAST-MODIFIED:20180401T174056
+UID:explore_courses8c092996-f4a9-41c7-a3e9-d5b50646291b
+DTSTAMP:20180401T174056
 LOCATION:Green Earth Sciences134
 DESCRIPTION:Introduction to observational astronomy emphasizing the use of optical telescopes. Observations of stars, nebulae, and galaxies in laboratory sessions with telescopes at the Stanford Student Observatory. Meets at the observatory one evening per week from dusk until well after dark, in addition to day-time lectures each week. No previous physics required. Limited enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS50 DIS
 DTSTART;TZID=America/Los_Angeles:20180627T203000
-CREATED:20180107T132334
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T235900;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

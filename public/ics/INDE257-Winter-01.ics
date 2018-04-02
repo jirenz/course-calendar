@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T180000
-LAST-MODIFIED:20180107T132420
-UID:explore_coursesf07e744f-efb0-428c-aa19-101e89ef9eb9
-DTSTAMP:20180107T132420
+DTEND;TZID=America/Los_Angeles:20180109T183000
+LAST-MODIFIED:20180401T174117
+UID:explore_courses5e54e336-cdb9-468e-9c05-204757a91b0a
+DTSTAMP:20180401T174117
 LOCATION:Li Ka Shing Center, rms203/204
 DESCRIPTION:Global health storytelling is a hands-on workshop that teaches global health students the art of performing compelling stories. Participants will focus on seeking, structuring, and sharing stories culminating in a live performance in front of their peers. Through the workshop, students will learn the narrative structure of a story, practice active listening, examine the importance of body language and dramatic techniques, and understand the power of narrativizing medical research and clinical experiences.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE257 WKS
-DTSTART;TZID=America/Los_Angeles:20180109T170000
-CREATED:20180107T132420
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T180000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180109T173000
+CREATED:20180401T174117
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T183000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

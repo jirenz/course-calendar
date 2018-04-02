@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T175000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursescf781a2e-62d7-48fa-9064-64c5115b9ed9
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_coursesbc8b6126-e28c-4114-9272-98984589464b
+DTSTAMP:20180401T174154
 LOCATION:Skillaud
 DESCRIPTION:Central concepts in modern programming languages, impact on software development, language design trade-offs, and implementation considerations. Functional, imperative, and object-oriented paradigms. Formal semantic methods and program analysis. Modern type systems, higher order functions and closures, exceptions and continuations. Modularity, object-oriented languages, and concurrency. Runtime support for language features, interoperability, and security issues. Prerequisite: 107, or experience with Lisp, C, and an object-oriented language.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS242 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T163000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

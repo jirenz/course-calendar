@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T162000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses7ba496b0-fe7a-44ac-ae27-10a7d829ddf3
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_courses52bf5299-4145-469c-b321-27650421f9a2
+DTSTAMP:20180401T174154
 LOCATION:Thornt102
 DESCRIPTION:Distributed operating systems and applications issues, emphasizing high-level protocols and distributed state sharing as the key technologies. Topics: distributed shared memory, object-oriented distributed system design, distributed directory services, atomic transactions and time synchronization, application-sufficient consistency, file access, process scheduling, process migration, and storage/communication abstractions on distribution, scale, robustness in the face of failure, and security.  Prerequisites: CS 144.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS244B LEC
 DTSTART;TZID=America/Los_Angeles:20170925T150000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

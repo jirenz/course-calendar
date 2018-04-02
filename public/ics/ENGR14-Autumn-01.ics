@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20180107T132525
-UID:explore_courseseef98c8e-13bf-45e0-a95c-4dd2ba40d039
-DTSTAMP:20180107T132525
+LAST-MODIFIED:20180401T174157
+UID:explore_courses06396bfe-2325-4756-a077-c89e06e31082
+DTSTAMP:20180401T174157
 LOCATION:550-200
 DESCRIPTION:Introduction to engineering analysis using the principles of engineering solid mechanics.  Builds on the math and physical reasoning concepts in Physics 41 to develop skills in evaluation of engineered systems across a variety of fields.  Foundational ideas for more advanced solid mechanics courses such as ME80 or CEE101A.  Interactive lecture sessions focused on mathematical application of key concepts, with weekly complementary lab session on testing and designing systems that embody these concepts. Limited enrollment, subject to instructor approval.  Pre-requisite: Physics 41.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR14 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20180107T132525
+CREATED:20180401T174157
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

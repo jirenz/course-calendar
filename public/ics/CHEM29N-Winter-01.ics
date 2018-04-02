@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180110T172000
-LAST-MODIFIED:20180107T132221
-UID:explore_courses5e8016a0-7782-4cb1-97e1-f5ac286f3256
-DTSTAMP:20180107T132221
-LOCATION:
-DESCRIPTION:Preference to Freshmen. This course examines the chemistry relevant to food and drink preparation, both in homes and in restaurants, which makes what we consume more pleasurable. Good cooking is more often considered an art rather than a science, but a small bit of understanding goes a long way to make the preparation and consumption of food and drink more enjoyable. The intention is to have demonstrations and tastings as a part of every class meeting. We will examine some rather familiar items in this course: eggs, dairy products, meats, breads, vegetables, pastries, and carbonated beverages. We shall playfully explore the chemistry that turns food into meals. A high-school chemistry background is assumed; bring to class a good appetite and a healthy curiosity.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:CHEM29N ISF
-DTSTART;TZID=America/Los_Angeles:20180110T143000
-CREATED:20180107T132221
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=WE
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180110T152000
-LAST-MODIFIED:20180107T132221
-UID:explore_courses257da8aa-6926-41f8-b08b-e6517ad3dc64
-DTSTAMP:20180107T132221
+LAST-MODIFIED:20180401T174025
+UID:explore_courses8369ec43-3868-4f1e-a343-8100a1e6d217
+DTSTAMP:20180401T174025
 LOCATION:STLC114
 DESCRIPTION:Preference to Freshmen. This course examines the chemistry relevant to food and drink preparation, both in homes and in restaurants, which makes what we consume more pleasurable. Good cooking is more often considered an art rather than a science, but a small bit of understanding goes a long way to make the preparation and consumption of food and drink more enjoyable. The intention is to have demonstrations and tastings as a part of every class meeting. We will examine some rather familiar items in this course: eggs, dairy products, meats, breads, vegetables, pastries, and carbonated beverages. We shall playfully explore the chemistry that turns food into meals. A high-school chemistry background is assumed; bring to class a good appetite and a healthy curiosity.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM29N ISF
 DTSTART;TZID=America/Los_Angeles:20180110T143000
-CREATED:20180107T132221
+CREATED:20180401T174025
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T152000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180110T172000
+LAST-MODIFIED:20180401T174025
+UID:explore_coursese8a5a541-01dc-48cd-ad34-ea7d1dfbd9db
+DTSTAMP:20180401T174025
+LOCATION:
+DESCRIPTION:Preference to Freshmen. This course examines the chemistry relevant to food and drink preparation, both in homes and in restaurants, which makes what we consume more pleasurable. Good cooking is more often considered an art rather than a science, but a small bit of understanding goes a long way to make the preparation and consumption of food and drink more enjoyable. The intention is to have demonstrations and tastings as a part of every class meeting. We will examine some rather familiar items in this course: eggs, dairy products, meats, breads, vegetables, pastries, and carbonated beverages. We shall playfully explore the chemistry that turns food into meals. A high-school chemistry background is assumed; bring to class a good appetite and a healthy curiosity.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHEM29N ISF
+DTSTART;TZID=America/Los_Angeles:20180110T143000
+CREATED:20180401T174025
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

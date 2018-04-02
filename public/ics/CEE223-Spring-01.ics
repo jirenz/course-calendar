@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20180107T132511
-UID:explore_coursesb8e6d43c-0a50-477d-a44c-591551307477
-DTSTAMP:20180107T132511
-LOCATION:McMurtry Building rm 350
+DTEND;TZID=America/Los_Angeles:20180403T115000
+LAST-MODIFIED:20180401T174147
+UID:explore_coursesde5e0951-f173-4ea3-81f1-9dc692ac46b2
+DTSTAMP:20180401T174147
+LOCATION:Littlefield 103
 DESCRIPTION:In this course, students will learn about new and traditional construction materials for use in sustainable building and infrastructure projects.  Materials will include cement-based materials and fiber-reinforced polymer composites for structural and non-structural applications, as well as novel materials for e.g., facades, insulation, and paving.  Material properties, their performance over time and their impact on people and the environment will be discussed. Course project as wel as some hands-on laboratory work.  Pre-requisite: CEE 101A or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE223 LEC
-DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132511
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20180401T174147
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

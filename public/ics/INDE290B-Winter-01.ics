@@ -23,44 +23,44 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T192000
-LAST-MODIFIED:20180107T132420
-UID:explore_coursesefb8e427-4059-4c1d-9195-a2c477154e00
-DTSTAMP:20180107T132420
+LAST-MODIFIED:20180401T174117
+UID:explore_coursesd90ecd31-b2ee-4071-9b93-e5dadb11ddcb
+DTSTAMP:20180401T174117
 LOCATION:Alway Building, Room M112
 DESCRIPTION:Continuation of monthly workshop series begun in INDE 290A, with new monthly topics. Students will continue to follow the journey of their patient partner, and gain further understand the challenges of managing optimal health in a complex health care system.  Preference given to MD students continuing from INDE 290A.n nThis course is a partnership of the Stanford Healthcare Innovations and Experiential Learning Directive (SHIELD), the Stanford Health Care Patient &amp; Family Partner Program, and the Stanford Medicine Office for Medical Student Wellness.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE290B WKS
 DTSTART;TZID=America/Los_Angeles:20180108T173000
-CREATED:20180107T132420
+CREATED:20180401T174117
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180108T192000;BYDAY=MO
 END:VEVENT
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180205T192000
-LAST-MODIFIED:20180107T132420
-UID:explore_courses669db8e4-6021-4b43-8f36-941e1a14812e
-DTSTAMP:20180107T132420
-LOCATION:Alway Building, Room M112
-DESCRIPTION:Continuation of monthly workshop series begun in INDE 290A, with new monthly topics. Students will continue to follow the journey of their patient partner, and gain further understand the challenges of managing optimal health in a complex health care system.  Preference given to MD students continuing from INDE 290A.n nThis course is a partnership of the Stanford Healthcare Innovations and Experiential Learning Directive (SHIELD), the Stanford Health Care Patient &amp; Family Partner Program, and the Stanford Medicine Office for Medical Student Wellness.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:INDE290B WKS
-DTSTART;TZID=America/Los_Angeles:20180205T173000
-CREATED:20180107T132420
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180205T192000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180305T192000
-LAST-MODIFIED:20180107T132420
-UID:explore_coursesbbc2214b-9b67-4a7e-abce-1df73c5348bb
-DTSTAMP:20180107T132420
+LAST-MODIFIED:20180401T174117
+UID:explore_courses9209a233-5f83-4176-ab1e-34dab7343239
+DTSTAMP:20180401T174117
 LOCATION:Alway Building, Room M112
 DESCRIPTION:Continuation of monthly workshop series begun in INDE 290A, with new monthly topics. Students will continue to follow the journey of their patient partner, and gain further understand the challenges of managing optimal health in a complex health care system.  Preference given to MD students continuing from INDE 290A.n nThis course is a partnership of the Stanford Healthcare Innovations and Experiential Learning Directive (SHIELD), the Stanford Health Care Patient &amp; Family Partner Program, and the Stanford Medicine Office for Medical Student Wellness.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:INDE290B WKS
 DTSTART;TZID=America/Los_Angeles:20180305T173000
-CREATED:20180107T132420
+CREATED:20180401T174117
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180305T192000;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180205T192000
+LAST-MODIFIED:20180401T174117
+UID:explore_coursesc0af05cc-4a36-49ba-993a-99157eec6ed6
+DTSTAMP:20180401T174117
+LOCATION:Alway Building, Room M112
+DESCRIPTION:Continuation of monthly workshop series begun in INDE 290A, with new monthly topics. Students will continue to follow the journey of their patient partner, and gain further understand the challenges of managing optimal health in a complex health care system.  Preference given to MD students continuing from INDE 290A.n nThis course is a partnership of the Stanford Healthcare Innovations and Experiential Learning Directive (SHIELD), the Stanford Health Care Patient &amp; Family Partner Program, and the Stanford Medicine Office for Medical Student Wellness.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:INDE290B WKS
+DTSTART;TZID=America/Los_Angeles:20180205T173000
+CREATED:20180401T174117
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180205T192000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T235900
-LAST-MODIFIED:20180107T132334
-UID:explore_coursescd9a9010-67b6-46b9-bead-99055507abda
-DTSTAMP:20180107T132334
+LAST-MODIFIED:20180401T174056
+UID:explore_courses59b449d0-ec85-406e-b9cb-9b24e14e7883
+DTSTAMP:20180401T174056
 LOCATION:
 DESCRIPTION:Introduction to observational astronomy emphasizing the use of optical telescopes. Observations of stars, nebulae, and galaxies in laboratory sessions with telescopes at the Stanford Student Observatory. Meets at the observatory one evening per week from dusk until well after dark, in addition to day-time lectures each week. No previous physics required. Limited enrollment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS50 DIS
 DTSTART;TZID=America/Los_Angeles:20170926T200000
-CREATED:20180107T132334
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T235900;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

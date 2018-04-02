@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180626T132000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses85936c20-bf82-43a7-823a-ac50178f22d6
-DTSTAMP:20180107T132523
-LOCATION:200-303
+LAST-MODIFIED:20180401T174156
+UID:explore_courses7ca75d4f-b3af-4f5a-8ae5-b5165d3ec015
+DTSTAMP:20180401T174156
+LOCATION:Skillaud
 DESCRIPTION:Applied linear algebra and linear dynamical systems with applications to circuits, signal processing, communications, and control systems. Topics: least-squares approximations of over-determined equations, and least-norm solutions of underdetermined equations. Symmetric matrices, matrix norm, and singular-value decomposition. Eigenvalues, left and right eigenvectors, with dynamical interpretation. Matrix exponential, stability, and asymptotic behavior. Multi-input/multi-output systems, impulse and step matrices; convolution and transfer-matrix descriptions. Control, reachability, and state transfer; observability and least-squares state estimation. Prerequisites: Linear algebra and matrices as in EE103 or MATH104; ordinary differential equations and Laplace transforms as in EE102B or CME 102.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE263 LEC
 DTSTART;TZID=America/Los_Angeles:20180626T113000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

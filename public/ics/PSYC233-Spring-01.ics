@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T212000
-LAST-MODIFIED:20180107T132437
-UID:explore_courses3b2419ea-caf6-41a1-abda-8c0181f28b89
-DTSTAMP:20180107T132437
-LOCATION:Li Ka Shing Center, room 130
-DESCRIPTION:An experiential program in which the participants learn the techniques of mindfulness meditation and its application in the management of stress and in healthcare. Modeled after the MBSR, Mindfulness Based Stress Reduction, started by Jon Kabat-Zinn  at UMASS Medical Center. Designed to work with the mind/body relationship to stress and chronic illness teaching open sensitive awareness without judgement of mental or physical reactivity. Requirement for the course is the daily practice of mindfulness meditation, attendance at weekly class meetings and the all day retreat, home reading, and a final paper covering the student's observations.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:PSYC233 PRC
-DTSTART;TZID=America/Los_Angeles:20180403T180000
-CREATED:20180107T132437
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180525T212000;BYDAY=TU
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180512T170000
-LAST-MODIFIED:20180107T132437
-UID:explore_courses8c0b5f77-8f9a-4a03-81b8-ab0e5ff9493b
-DTSTAMP:20180107T132437
+LAST-MODIFIED:20180401T174127
+UID:explore_coursesac90acb5-8a1c-49a9-95ad-4637ab61cbfb
+DTSTAMP:20180401T174127
 LOCATION:Li Ka Shing Center,rms101/102
 DESCRIPTION:An experiential program in which the participants learn the techniques of mindfulness meditation and its application in the management of stress and in healthcare. Modeled after the MBSR, Mindfulness Based Stress Reduction, started by Jon Kabat-Zinn  at UMASS Medical Center. Designed to work with the mind/body relationship to stress and chronic illness teaching open sensitive awareness without judgement of mental or physical reactivity. Requirement for the course is the daily practice of mindfulness meditation, attendance at weekly class meetings and the all day retreat, home reading, and a final paper covering the student's observations.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYC233 PRC
 DTSTART;TZID=America/Los_Angeles:20180512T080000
-CREATED:20180107T132437
+CREATED:20180401T174127
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180512T170000;BYDAY=SA
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T212000
+LAST-MODIFIED:20180401T174127
+UID:explore_courses9b49b4e3-4e77-408d-a8fe-9f4956790a17
+DTSTAMP:20180401T174127
+LOCATION:Li Ka Shing Center, room 130
+DESCRIPTION:An experiential program in which the participants learn the techniques of mindfulness meditation and its application in the management of stress and in healthcare. Modeled after the MBSR, Mindfulness Based Stress Reduction, started by Jon Kabat-Zinn  at UMASS Medical Center. Designed to work with the mind/body relationship to stress and chronic illness teaching open sensitive awareness without judgement of mental or physical reactivity. Requirement for the course is the daily practice of mindfulness meditation, attendance at weekly class meetings and the all day retreat, home reading, and a final paper covering the student's observations.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PSYC233 PRC
+DTSTART;TZID=America/Los_Angeles:20180403T180000
+CREATED:20180401T174127
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180525T212000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

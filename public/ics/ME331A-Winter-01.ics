@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132531
-UID:explore_coursescd27c915-037b-4e04-a907-9b279feda8d3
-DTSTAMP:20180107T132531
+LAST-MODIFIED:20180401T174202
+UID:explore_coursesb1291a70-f055-40de-acee-e10c87c5f785
+DTSTAMP:20180401T174202
 LOCATION:530-127
 DESCRIPTION:Newton, Euler, momentum, and road-map methods and computational tools for 3-D force and motion analysis of multibody systems. Power, work, and energy. Numerical solutions (e.g., MATLAB, etc.) of nonlinear algebraic and differential equations governing the static and dynamic behavior of multiple degree of freedom systems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME331A LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132531
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

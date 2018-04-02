@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T152000
-LAST-MODIFIED:20180107T132239
-UID:explore_coursesc7c7a9cc-62b1-44e8-bd37-b344d8fcc21e
-DTSTAMP:20180107T132239
+LAST-MODIFIED:20180401T174035
+UID:explore_coursesc0752561-5e80-4a9b-852c-d30b8d4ff69f
+DTSTAMP:20180401T174035
 LOCATION:Econ 140
 DESCRIPTION:Social Choice, including Arrow's theorem, the Gibbard-Satterthwaite theorem, and the Vickrey-Clarke-Groves mechanism. The theory of contracts, emphasizing contractual incompleteness and the problem of moral hazard. Incentive regulation. Competition with imperfect information, including signaling and adverse selection. Competitive equilibrium and the core. Limited enrollment.  Non-Econ students need permission of instructor to enroll. Prerequisite: ECON 202 and 203.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON204 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132239
+CREATED:20180401T174035
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

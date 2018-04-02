@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180112T132000
-LAST-MODIFIED:20180107T132458
-UID:explore_coursesdf01bfa9-b745-4496-bc90-9b8c2a5dec44
-DTSTAMP:20180107T132458
+LAST-MODIFIED:20180401T174140
+UID:explore_courses1a14e1be-65fb-4800-9494-faf2b9e9fbe2
+DTSTAMP:20180401T174140
 LOCATION:Y2E2 335
 DESCRIPTION:Required core course restricted to first year E-IPER Ph.D. students. Series of faculty presentations and student-led discussions on interdisciplinary research design as exemplars of the research design theories discussed in ENVRES 320. Designing Environmental Research. Topics parallel the ENVRES 320 syllabus. Corequisite: ENVRES 320.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENVRES315 SEM
 DTSTART;TZID=America/Los_Angeles:20180112T113000
-CREATED:20180107T132458
+CREATED:20180401T174140
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

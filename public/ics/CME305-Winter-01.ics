@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20180107T132511
-UID:explore_coursesbe8cc1ad-da0e-4183-9f73-ce1c39f6bd85
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174148
+UID:explore_coursescfdc927d-154e-427b-9615-9a9255c56f6d
+DTSTAMP:20180401T174148
 LOCATION:School of Education 128
 DESCRIPTION:Topics: Basic Algebraic Graph Theory, Matroids and Minimum Spanning Trees, Submodularity and Maximum Flow, NP-Hardness, Approximation Algorithms, Randomized Algorithms, The Probabilistic Method, and Spectral Sparsification using Effective Resistances. Topics will be illustrated with applications from Distributed Computing, Machine Learning, and large-scale Optimization. Prerequisites: CS 261 is highly recommended, although not required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME305 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20180107T132511
+CREATED:20180401T174148
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

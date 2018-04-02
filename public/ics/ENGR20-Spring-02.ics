@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180406T172000
-LAST-MODIFIED:20180107T132525
-UID:explore_coursesaee92968-9abe-4806-a727-aae81fbde852
-DTSTAMP:20180107T132525
+LAST-MODIFIED:20180401T174157
+UID:explore_coursesf8fe1fd4-6a2c-4811-a216-948f88a1317c
+DTSTAMP:20180401T174157
 LOCATION:Gates B12
 DESCRIPTION:Overview of chemical engineering through discussion and engineering analysis of physical and chemical processes. Topics: overall staged separations, material and energy balances, concepts of rate processes, energy and mass transport, and kinetics of chemical reactions. Applications of these concepts to areas of current technological importance: biotechnology, energy, production of chemicals, materials processing, and purification. Prerequisite: CHEM 31.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ENGR20 DIS
 DTSTART;TZID=America/Los_Angeles:20180406T153000
-CREATED:20180107T132525
+CREATED:20180401T174157
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

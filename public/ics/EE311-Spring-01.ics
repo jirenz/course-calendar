@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T162000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses2df1c360-39f9-44df-a22c-94191055d10c
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_courses6d8dc1f9-d5fb-44b3-8bc9-fffa0393b434
+DTSTAMP:20180401T174156
 LOCATION:Huang Engineering Center 18
 DESCRIPTION:What are the practical and fundamental limits to the evolution of the technology of modern MOS devices and interconnects? How are modern devices and circuits fabricated and what future changes are likely? Advanced techniques and models of MOS devices and back-end (interconnect and contact) processing. What are future device structures and materials to maintain progress in integrated electronics? MOS front-end and back-end process integration. Prerequisites: EE 216 or equivalent. Recommended: EE 212.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE311 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T150000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

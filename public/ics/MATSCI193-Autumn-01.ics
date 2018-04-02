@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170925T175000
-LAST-MODIFIED:20180107T132528
-UID:explore_courses0efc4b6b-4425-4a74-a518-1a4bdf80f51e
-DTSTAMP:20180107T132528
-LOCATION:420-041
-DESCRIPTION:Atomic arrangements in perfect and imperfect solids, especially important metals, ceramics, and semiconductors. Elements of formal crystallography, including development of point groups and space groups. Undergraduates register in 193 for 4 units; graduates register in 203 for 3 units.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:MATSCI193 LEC
-DTSTART;TZID=America/Los_Angeles:20170925T150000
-CREATED:20180107T132528
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=MO
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T112000
-LAST-MODIFIED:20180107T132528
-UID:explore_coursesdc6031be-3a02-490b-adce-db779468d915
-DTSTAMP:20180107T132528
+LAST-MODIFIED:20180401T174159
+UID:explore_courses3e385866-8ee2-423e-8099-611f9e031522
+DTSTAMP:20180401T174159
 LOCATION:McCullough 115
 DESCRIPTION:Atomic arrangements in perfect and imperfect solids, especially important metals, ceramics, and semiconductors. Elements of formal crystallography, including development of point groups and space groups. Undergraduates register in 193 for 4 units; graduates register in 203 for 3 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI193 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T103000
-CREATED:20180107T132528
+CREATED:20180401T174159
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE,FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170925T175000
+LAST-MODIFIED:20180401T174159
+UID:explore_courses5d43949d-7643-4b38-813d-51799e6bc3de
+DTSTAMP:20180401T174159
+LOCATION:420-041
+DESCRIPTION:Atomic arrangements in perfect and imperfect solids, especially important metals, ceramics, and semiconductors. Elements of formal crystallography, including development of point groups and space groups. Undergraduates register in 193 for 4 units; graduates register in 203 for 3 units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MATSCI193 LEC
+DTSTART;TZID=America/Los_Angeles:20170925T150000
+CREATED:20180401T174159
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

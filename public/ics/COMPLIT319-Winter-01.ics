@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132230
-UID:explore_coursesf8fd2958-0a9e-4e0b-bd2c-bd7f317c27d7
-DTSTAMP:20180107T132230
-LOCATION:90-92Q
+DTEND;TZID=America/Los_Angeles:20180108T162000
+LAST-MODIFIED:20180401T174029
+UID:explore_courses4c9cde35-a57a-414a-9560-1427b2961a0a
+DTSTAMP:20180401T174029
+LOCATION:160-321
 DESCRIPTION:Designed as a survey, this course will examine the modern Turkish novel from the early days of the Republic to the present day. We will examine the aesthetic, political, and social aspects of the Turkish novel by reading major samples of national, historical, philosophical, village, and modernist novels. Discussions will be conducted in English. Students will have an option to read the primary sources in Turkish or in English. Contact Burcu Karahan for meeting time and place.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:COMPLIT319 SEM
-DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20180107T132230
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180108T133000
+CREATED:20180401T174029
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T205000
-LAST-MODIFIED:20180107T132222
-UID:explore_coursesbfd1ff8e-f612-456b-ad24-ab2cb5a8f08f
-DTSTAMP:20180107T132222
+LAST-MODIFIED:20180401T174025
+UID:explore_courses51737a56-737a-4692-b66a-b6262cca9ba6
+DTSTAMP:20180401T174025
 LOCATION:STLC119
 DESCRIPTION:Focus on the combined use of organic chemistry and molecular biology to make, manipulate and measure biomacromolecules.  Synthetic methods for design and construction of peptides, proteins and nucleic acids; methods for bioconjugation and labeling; fluorescence tools; intracellular delivery strategies; combinatorial selection methods.  Prerequisite:  One year of undergraduate organic chemistry. Completion of a course in molecular biology is helpful but not required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CHEM226 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T193000
-CREATED:20180107T132222
+CREATED:20180401T174025
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T205000;BYDAY=MO,TU
 END:VEVENT
 END:VCALENDAR

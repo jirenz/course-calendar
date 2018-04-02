@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses95b625e4-7756-45b4-9045-fdbb7d423b0d
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_courses2d9046ac-0017-4c71-95b6-38eaf131d287
+DTSTAMP:20180401T174156
 LOCATION:STLC115
 DESCRIPTION:Introduction to circuit modeling and analysis. Topics include creating the models of typical components in electronic circuits and simplifying non-linear models for restricted ranges of operation (small signal model); and using network theory to solve linear and non-linear circuits under static and dynamic operations. Prerequisite: ENGR40 or ENGR40M is useful but not strictly required.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE101A LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

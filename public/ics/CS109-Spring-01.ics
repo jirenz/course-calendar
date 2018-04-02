@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T115000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursesc3de5066-2401-46eb-9554-39bdc4ca0129
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174153
+UID:explore_coursese86c8cc1-5480-4c49-880b-761095dc7a0d
+DTSTAMP:20180401T174153
 LOCATION:NVIDIA Auditorium
 DESCRIPTION:Topics include: counting and combinatorics, random variables, conditional probability, independence, distributions, expectation, point estimation, and limit theorems. Applications of probability in computer science including machine learning and the use of probability in the analysis of algorithms. Prerequisites: 103, 106B or X, multivariate calculus at the level of MATH 51 or CME 100 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS109 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T103000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T112000
-LAST-MODIFIED:20180107T132356
-UID:explore_courses1ffcb209-62e8-4ca3-a6bd-c87dedff564c
-DTSTAMP:20180107T132356
+LAST-MODIFIED:20180401T174105
+UID:explore_coursesbc85cae0-fd29-495b-b611-397ed41bdf9d
+DTSTAMP:20180401T174105
 LOCATION:Sequoia Hall 200
 DESCRIPTION:Decision theory formulation of statistical problems. Minimax, admissible procedures. Complete class theorems (&quot;all&quot; minimax or admissible procedures are &quot;Bayes&quot;), Bayes procedures, conjugate priors, hierarchical models. Bayesian non parametrics: diaichlet, tail free, polya trees, bayesian sieves. Inconsistency of bayes rules.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:STATS300C LEC
 DTSTART;TZID=America/Los_Angeles:20180402T103000
-CREATED:20180107T132356
+CREATED:20180401T174105
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

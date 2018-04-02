@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T145000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses8adbd72b-0b81-46c1-bf5d-340cb77c7bd5
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_coursesb5857c5b-eb42-4b8b-8ac0-8ec656b14ebc
+DTSTAMP:20180401T174156
 LOCATION:380-380X
 DESCRIPTION:Optical micro- and nano-cavities and their device applications. Types of optical cavities (microdisks, microspheres, photonic crystal cavities, plasmonic cavities), and their electromagnetic properties, design, and fabrication techniques. Cavity quantum electrodynamics: strong and weak-coupling regime, Purcell factor, spontaneous emission control. Applications of optical cavities, including low-threshold lasers, optical modulators, quantum information processing devices, and bio-chemical sensors. Prerequisites: Advanced undergraduate or basic graduate level knowledge of electromagnetics, quantum.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE340 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T133000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

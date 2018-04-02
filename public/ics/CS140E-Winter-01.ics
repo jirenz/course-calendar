@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursesf09da2b9-18b8-4f7b-bd50-e64fddebcc0b
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174153
+UID:explore_coursescd6471a5-dbc0-4b91-bd55-19c1241349af
+DTSTAMP:20180401T174153
 LOCATION:160-124
 DESCRIPTION:This is an experimental course offering.  Students will implement a simple, clean operating system (virtual memory, processes, file system) on a rasberry pi computer and use the result to run a variety of devices.  Enrollment is limited, and students should expect the course to have rough edges since it is the first offering.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS140E LEC
 DTSTART;TZID=America/Los_Angeles:20180108T150000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

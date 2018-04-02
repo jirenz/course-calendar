@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180403T112000
-LAST-MODIFIED:20180107T132305
-UID:explore_coursese9e472f4-6dcc-4fae-8825-6ec599d411cf
-DTSTAMP:20180107T132305
-LOCATION:Encina West 202
+DTEND;TZID=America/Los_Angeles:20180404T142000
+LAST-MODIFIED:20180401T174044
+UID:explore_courses65fbdb80-fef9-440b-9006-661d19ca2b4b
+DTSTAMP:20180401T174044
+LOCATION:460-334
 DESCRIPTION:Is international relations theory valuable for policy makers? The first half of the course will provide students with a foundation in theory by introducing the dominant theoretical traditions and insights in international relations.  The second half of the course focuses on several complex global problems that cut across policy specializations and impact multiple policy dimensions.  Students will assess the value of major theories and concepts in international relations for analyzing and addressing such complex global policy issues.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:IPS201 SEM
-DTSTART;TZID=America/Los_Angeles:20180403T093000
-CREATED:20180107T132305
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TU
+DTSTART;TZID=America/Los_Angeles:20180404T123000
+CREATED:20180401T174044
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T142000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

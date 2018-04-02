@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180112T122000
-LAST-MODIFIED:20180107T132239
-UID:explore_courses41fabff2-8e7c-4fa0-8ed0-5e0c0863d05a
-DTSTAMP:20180107T132239
-LOCATION:240-110
+DTEND;TZID=America/Los_Angeles:20180112T102000
+LAST-MODIFIED:20180401T174035
+UID:explore_courses0ed9ac4c-dc14-4287-b953-02577c5333ce
+DTSTAMP:20180401T174035
+LOCATION:Econ 218
 DESCRIPTION:Economic sources of environmental problems and alternative policies for dealing with them (technology standards, emissions taxes, and marketable pollution permits). Evaluation of policies addressing local air pollution, global climate change, and the use of renewable resources. Connections between population growth, economic output, environmental quality, sustainable development, and human welfare. Prerequisite: ECON 50. May be taken concurrently with consent of the instructor.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON155 DIS
-DTSTART;TZID=America/Los_Angeles:20180112T113000
-CREATED:20180107T132239
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T122000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180112T093000
+CREATED:20180401T174035
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T102000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

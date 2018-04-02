@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T102000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses51daedf1-fc06-4227-93ff-61c48b457ca4
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_coursesdb589f9e-8efd-43b5-b4f2-8d0621a6ea0f
+DTSTAMP:20180401T174156
 LOCATION:Hewlett Teaching Center 201
 DESCRIPTION:Introduction to machine learning. Formulation of supervised and unsupervised learning problems. Regression and classification. Data standardization and feature engineering. Loss function selection and its effect on learning. Regularization and its role in controlling complexity. Validation and overfitting. Robustness to outliers. Simple numerical implementation. Experiments on data from a wide variety of engineering and other disciplines. In this initial offering, enrollment is limited to 50 students. Undergraduate students should enroll for 5 units, and graduate students should enroll for 3 units. Prerequisites: EE 103; EE 178 or CS 109; CS106A or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE104 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T090000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T102000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

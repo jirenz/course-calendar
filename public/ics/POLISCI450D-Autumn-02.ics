@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170929T112000
-LAST-MODIFIED:20180107T132338
-UID:explore_courses2b0b7d0f-d91c-4fcf-80fa-98f9d0fe4689
-DTSTAMP:20180107T132338
+LAST-MODIFIED:20180401T174058
+UID:explore_courses79636ed9-ab38-49cf-aee8-948edd4c077b
+DTSTAMP:20180401T174058
 LOCATION:Encina West 202
 DESCRIPTION:Covers advanced statistical tools that are useful for empirical research in political science.  Possible topics include missing data, survey sampling and experimental designs for field research, machine learning, text mining, clustering, Bayesian methods, spatial statistics, and web scraping.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI450D DIS
 DTSTART;TZID=America/Los_Angeles:20170929T093000
-CREATED:20180107T132338
+CREATED:20180401T174058
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

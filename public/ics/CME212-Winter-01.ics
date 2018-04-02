@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T162000
-LAST-MODIFIED:20180107T132511
-UID:explore_courses53f2ae1a-bda9-4388-8fa4-ca8954640b2e
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_courses129956bf-995b-4587-81cd-301b802751a5
+DTSTAMP:20180401T174147
 LOCATION:Bishop Auditorium
 DESCRIPTION:Advanced topics in software development, debugging, and performance optimization are covered. The capabilities and usage of common libraries and frameworks such as BLAS, LAPACK, FFT, PETSc, and MKL/ACML are reviewed. Computer representation of integer and floating point numbers, and interoperability between C/C++ and Fortran is described. More advanced software engineering topics including: representing data in files, signals, unit and regression testing, and build automation. The use of debugging tools including static analysis, gdb, and Valgrind are introduced. An introduction to computer architecture covering processors, memory hierarchy, storage, and networking provides a foundation for understanding software performance. Profiles generated using gprof and perf are used to help guide the performance optimization process. Computational problems from various science and engineering disciplines will be used in assignments. Prerequisites: CME 200 / ME 300A and CME 211.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CME212 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T153000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

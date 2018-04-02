@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180404T152000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses7c829b44-bbbe-4c97-84d6-e5c42f747b35
-DTSTAMP:20180107T132519
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20180401T174155
+UID:explore_courses52199c48-06d5-43fd-b7d7-503a53b12afe
+DTSTAMP:20180401T174155
 LOCATION:
 DESCRIPTION:Build your creative confidence and sharpen your design thinking skills. Train your intuition and expand the design context from which you operate every day. This experimental studio will introduce d.school students to fast- paced experiential exercises that lay the mental and physical foundation for a potent bias toward action, and a wider knowledge of the personal skills that expert design thinkers utilize in all phases of their process. Recent research based on this course curriculum show that performing these class activities will expand your creative capacity in statistically significant ways.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:DESINST366 WKS
-DTSTART;TZID=America/Los_Angeles:20180404T133000
-CREATED:20180107T132519
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T152000;BYDAY=WE
+DTSTART;TZID=America/Los_Angeles:20180403T103000
+CREATED:20180401T174155
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

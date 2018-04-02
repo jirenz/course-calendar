@@ -22,17 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180406T122000
-LAST-MODIFIED:20180107T132310
-UID:explore_courses82fbc8ae-2c44-428a-907b-120f8ca97f6a
-DTSTAMP:20180107T132310
+DTEND;TZID=America/Los_Angeles:20180406T132000
+LAST-MODIFIED:20180401T174046
+UID:explore_coursesb87c43a9-fa34-4fee-bedc-1625d920de14
+DTSTAMP:20180401T174046
 LOCATION:250-108
 DESCRIPTION:Goal is to advance Japanese proficiency through reading in Japanese on topics you are interested in.  You will read and write journals about the booklets, magazines, periodicals, and manga you choose. Research shows that this type of reading activity further enhances learners&iquest; proficiency (accuracy, vocabulary, writing, and cultural literacy). Perquisite: Japanlng 2, but all levels are welcome
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:JAPANLNG100 LNG
-DTSTART;TZID=America/Los_Angeles:20180406T113000
-CREATED:20180107T132310
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=FR
+DTSTART;TZID=America/Los_Angeles:20180406T123000
+CREATED:20180401T174046
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

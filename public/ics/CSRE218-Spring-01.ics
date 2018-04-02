@@ -22,31 +22,17 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T122000
-LAST-MODIFIED:20180107T132231
-UID:explore_coursesb9f63813-37f5-4565-ac1b-b90294952196
-DTSTAMP:20180107T132231
-LOCATION:50-52H
-DESCRIPTION:Taking a pan-American approach to the study of religious traditions, this upper-level course traces the history of the critical intersection between race, religion and revolution among Muslims from the turn of the nineteenth century until the present day. Moving from the Atlantic Revolutions of the late eighteenth and early nineteenth centuries, to the United States, to the decolonizing Third World, and then finally to the contemporary Middle East, this class will emphasize that Islam and race together have been used by many groups in order to challenge existing power structures, agitate for change, and more than occasionally, transform the social, cultural and governmental structures comprising their worlds. Moreover, although this class is concentrated upon religious formations in the Americas, students will explore global events throughout the Muslim world in order to examine how global politics contribute to religious formations, solidarities and identities. At the conclusion of this course, students will be expected to write a 10-15 page research paper, and a topic will be chosen in consultation with the instructor. Students will also be expected to write weekly reflection papers, which will serve to facilitate class discussion.
+DTEND;TZID=America/Los_Angeles:20180404T175000
+LAST-MODIFIED:20180401T174030
+UID:explore_courses84c07fb3-d335-42a3-9318-8fa8aa155234
+DTSTAMP:20180401T174030
+LOCATION:60-107
+DESCRIPTION:Taking a pan-American approach to the study of religious traditions, this upper-level course traces the history of the critical intersection between race, religion and revolution among Muslims from the turn of the nineteenth century until the present day. Moving from the Atlantic Revolutions of the late eighteenth and early nineteenth centuries, to the United States, to the decolonizing Third World, and then finally to the contemporary Middle East, this class will emphasize that Islam and race together have been used by many groups in order to challenge existing power structures, agitate for change, and more than occasionally, transform the social, cultural and governmental structures comprising their worlds. Moreover, although this class is concentrated upon religious formations in the Americas, students will explore global events throughout the Muslim world in order to examine how global politics contribute to religious formations, solidarities and identities. At the conclusion of this course, students will be expected to write a 10-15 page research paper, and a topic will be chosen in consultation with the instructor. Students will also be expected to write weekly reflection papers, which will serve to facilitate class discussion. Undergraduates register for 200-level for 5 units. Graduate students register for 300-level for 3-5 units.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CSRE218 SEM
-DTSTART;TZID=America/Los_Angeles:20180402T113000
-CREATED:20180107T132231
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO,WE
-END:VEVENT
-BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180402T112000
-LAST-MODIFIED:20180107T132231
-UID:explore_courses8567b899-82db-4f09-8ed8-1bd24f1816f2
-DTSTAMP:20180107T132231
-LOCATION:50-52H
-DESCRIPTION:Taking a pan-American approach to the study of religious traditions, this upper-level course traces the history of the critical intersection between race, religion and revolution among Muslims from the turn of the nineteenth century until the present day. Moving from the Atlantic Revolutions of the late eighteenth and early nineteenth centuries, to the United States, to the decolonizing Third World, and then finally to the contemporary Middle East, this class will emphasize that Islam and race together have been used by many groups in order to challenge existing power structures, agitate for change, and more than occasionally, transform the social, cultural and governmental structures comprising their worlds. Moreover, although this class is concentrated upon religious formations in the Americas, students will explore global events throughout the Muslim world in order to examine how global politics contribute to religious formations, solidarities and identities. At the conclusion of this course, students will be expected to write a 10-15 page research paper, and a topic will be chosen in consultation with the instructor. Students will also be expected to write weekly reflection papers, which will serve to facilitate class discussion.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:CSRE218 SEM
-DTSTART;TZID=America/Los_Angeles:20180402T103000
-CREATED:20180107T132231
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO,WE
+DTSTART;TZID=America/Los_Angeles:20180404T150000
+CREATED:20180401T174030
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=WE
 END:VEVENT
 END:VCALENDAR

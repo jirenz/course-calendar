@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T115000
-LAST-MODIFIED:20180107T132531
-UID:explore_courses022657e0-adb2-413c-838f-dd3a9434f878
-DTSTAMP:20180107T132531
+LAST-MODIFIED:20180401T174202
+UID:explore_coursesca8889dc-9fdb-4df4-bc55-90660bf691b2
+DTSTAMP:20180401T174202
 LOCATION:60-109
 DESCRIPTION:Laminar viscous fluid flow. Governing equations, boundary conditions, and constitutive laws. Exact solutions for parallel flows. Creeping flow limit, lubrication theory, and boundary layer theory including free-shear layers and approximate methods of solution; boundary layer separation. Introduction to stability theory and transition to turbulence, and turbulent boundary layers. Prerequisite: 351A.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME351B LEC
 DTSTART;TZID=America/Los_Angeles:20180109T103000
-CREATED:20180107T132531
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

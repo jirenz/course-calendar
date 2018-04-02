@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T115000
-LAST-MODIFIED:20180107T132341
-UID:explore_courses730d380b-b210-4583-b460-ff031e335511
-DTSTAMP:20180107T132341
+LAST-MODIFIED:20180401T174059
+UID:explore_courses87fd1591-5df4-47bf-93b6-5cb2378a2c9c
+DTSTAMP:20180401T174059
 LOCATION:420-040
 DESCRIPTION:Techniques for organizing data, computing, and interpreting measures of central tendency, variability, and association. Estimation, confidence intervals, tests of hypotheses, t-tests, correlation, and regression. Possible topics: analysis of variance and chi-square tests, computer statistical packages.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH10 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20180107T132341
+CREATED:20180401T174059
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T115000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

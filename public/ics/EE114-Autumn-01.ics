@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T115000
-LAST-MODIFIED:20180107T132523
-UID:explore_courses53ff8cac-e32a-4c35-8013-1add8f6ff09f
-DTSTAMP:20180107T132523
+LAST-MODIFIED:20180401T174156
+UID:explore_courses561ae729-241f-42e3-a2c9-845fe2748d25
+DTSTAMP:20180401T174156
 LOCATION:Gates B1
 DESCRIPTION:Analysis and simulation of elementary transistor stages, current mirrors, supply- and temperature-independent bias, and reference circuits. Overview of integrated circuit technologies, circuit components, component variations and practical design paradigms. Differential circuits, frequency response, and feedback will also be covered. Performance evaluation using computer-aided design tools. Undergraduates must take EE 114 for 4 units.  Prerequisite: 101B. GER:DB-EngrAppSci
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:EE114 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T103000
-CREATED:20180107T132523
+CREATED:20180401T174156
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

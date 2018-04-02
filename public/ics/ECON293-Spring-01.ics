@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180406T112000
-LAST-MODIFIED:20180107T132239
-UID:explore_courses07052c81-16f6-4252-b00e-53ceb0675ca8
-DTSTAMP:20180107T132239
+LAST-MODIFIED:20180401T174035
+UID:explore_courses728fbc19-a148-4c17-a76c-d59c915ebc42
+DTSTAMP:20180401T174035
 LOCATION:Econ 140
 DESCRIPTION:This course will cover statistical methods based on the machine learning literature that can be used for causal inference. In economics and the social sciences more broadly, empirical analyses typically estimate the effects of counterfactual policies, such as the effect of implementing a government policy, changing a price, showing advertisements, or introducing new products. Recent advances in supervised and unsupervised machine learning provide systematic approaches to model selection and prediction, methods that are particularly well suited to datasets with many observations and/or many covariates. This course will review when and how machine learning methods can be used for causal inference, and it will also review recent modifications and extensions to standard methods to adapt them to causal inference and provide statistical theory for hypothesis testing. We consider the estimation of average treatment effects as well as personalized policies.  Applications to the evaluation of large-scale experiments, including online A/B tests and experiments on networks, will receive special attention.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON293 CAS
 DTSTART;TZID=America/Los_Angeles:20180406T083000
-CREATED:20180107T132239
+CREATED:20180401T174035
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

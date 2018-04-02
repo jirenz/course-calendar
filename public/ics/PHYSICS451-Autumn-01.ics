@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T183000
-LAST-MODIFIED:20180107T132335
-UID:explore_courses0840dbbb-978f-44fa-afef-3eb355b5c42b
-DTSTAMP:20180107T132335
+LAST-MODIFIED:20180401T174056
+UID:explore_coursesc8f8e64f-64ec-4735-a11a-130e3378203c
+DTSTAMP:20180401T174056
 LOCATION:
 DESCRIPTION:This course will cover the developing intersection between quantum information theory and the quantum theory of gravity. We will focus on the central roles of entanglement and computational complexity in black hole physics. Prerequisites: Basic knowledge of quantum mechanics, quantum field theory, and general relativity.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS451 LEC
 DTSTART;TZID=America/Los_Angeles:20170926T163000
-CREATED:20180107T132335
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T183000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

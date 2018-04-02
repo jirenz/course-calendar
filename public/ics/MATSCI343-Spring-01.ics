@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T145000
-LAST-MODIFIED:20180107T132528
-UID:explore_courses1a81e651-5aff-4a24-8a9b-8d9ea31cbbe3
-DTSTAMP:20180107T132528
+LAST-MODIFIED:20180401T174159
+UID:explore_coursesbffa1373-2bb1-4ae8-b197-47725494fe47
+DTSTAMP:20180401T174159
 LOCATION:Sequoia Hall 200
 DESCRIPTION:The science of organic semiconductors and their use in electronic and photonic devices. Topics: methods for fabricating thin films and devices; relationship between chemical structure and molecular packing on properties such as band gap, charge carrier mobility and luminescence efficiency; doping; field-effect transistors; light-emitting diodes; lasers; biosensors; photodetectors and photovoltaic cells.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATSCI343 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T133000
-CREATED:20180107T132528
+CREATED:20180401T174159
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

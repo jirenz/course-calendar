@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180112T142000
-LAST-MODIFIED:20180107T132239
-UID:explore_coursesa835df83-a707-4f3b-b6f9-7f5a3eec340e
-DTSTAMP:20180107T132239
+LAST-MODIFIED:20180401T174034
+UID:explore_coursesd12d8091-dc32-46de-84e1-96e15c3ff778
+DTSTAMP:20180401T174034
 LOCATION:Econ 139
 DESCRIPTION:Hypothesis tests and confidence intervals for population variances, chi-squared goodness-of-fit tests, hypothesis tests for independence, simple linear regression model, testing regression parameters, prediction, multiple regression, omitted variable bias, multicollinearity, F-tests, regression with indicator random variables, simultaneous equation models and instrumental variables. Topics vary slightly depending on the quarter. Prerequisites: Econ 102A or equivalent. Recommended: computer experience (course often uses STATA software to run regressions).
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON102B DIS
 DTSTART;TZID=America/Los_Angeles:20180112T133000
-CREATED:20180107T132239
+CREATED:20180401T174034
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T142000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

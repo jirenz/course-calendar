@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T112000
-LAST-MODIFIED:20180107T132315
-UID:explore_courses0c60251b-ed47-4c68-a4c0-5aec637eeb1d
-DTSTAMP:20180107T132315
+LAST-MODIFIED:20180401T174048
+UID:explore_coursesf9ac8f5a-fc24-4dab-899c-3f7920ccae99
+DTSTAMP:20180401T174048
 LOCATION:380-380C
 DESCRIPTION:Introduction to differential calculus of functions of one variable.  Review of elementary functions (including exponentials and logarithms), limits, rates of change, the derivative and its properties, applications of the derivative.  Prerequisites:  trigonometry, advanced algebra, and analysis of elementary functions (including exponentials and logarithms).  You must have taken the math placement diagnostic (offered through the Math Department website) in order to register for this course.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH19 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T103000
-CREATED:20180107T132315
+CREATED:20180401T174048
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T112000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

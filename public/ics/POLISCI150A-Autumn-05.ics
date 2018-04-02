@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170929T122000
-LAST-MODIFIED:20180107T132338
-UID:explore_courses81e31879-77a3-4c58-87ff-9a6f9fa303cc
-DTSTAMP:20180107T132338
+LAST-MODIFIED:20180401T174058
+UID:explore_coursesf3f1886c-a1ac-41d3-9c8b-a84f8a5742a0
+DTSTAMP:20180401T174058
 LOCATION:200-219
 DESCRIPTION:Data science is quickly changing the way we understand and and engage in the political process.  In this course we will develop fundamental techniques of data science and apply them to large political datasets on elections, campaign finance, lobbying, and more.  The objective is to give students the skills to carry out cutting edge quantitative political studies in both academia and the private sector.  Students with technical backgrounds looking to study politics quantitatively are encouraged to enroll.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:POLISCI150A DIS
 DTSTART;TZID=America/Los_Angeles:20170929T113000
-CREATED:20180107T132338
+CREATED:20180401T174058
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T122000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

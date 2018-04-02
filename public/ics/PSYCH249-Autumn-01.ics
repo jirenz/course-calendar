@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T175000
-LAST-MODIFIED:20180107T132341
-UID:explore_coursesef621448-4538-463a-8f21-751526708ed8
-DTSTAMP:20180107T132341
+LAST-MODIFIED:20180401T174059
+UID:explore_courses2cef9a4e-5bb1-41a3-a22d-d9b5357f14d6
+DTSTAMP:20180401T174059
 LOCATION:Lathrop 299
 DESCRIPTION:Introduction to designing, building, and training neural networks for modeling brain and behavioral data, including: deep convolutional neural network models of sensory systems (vision, audition, somatosensation); recurrent neural networks for dynamics, memory and attention; integration of variational and generative methods for cognitive modeling; and methods and metrics for comparing such models to real-world neural data.  Attention will be given both to established methods as well as cutting-edge techniques.  Students will learn conceptual bases for deep neural network models, and will also implement learn to implement and train large-scale models in Tensorflow using GPUs.  Requirements:  Fluency in Unix shell and Python programming, familiarity with differential equations, linear algebra, and probability theory, and one or more courses in cognitive or systems neuroscience.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PSYCH249 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T163000
-CREATED:20180107T132341
+CREATED:20180401T174059
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

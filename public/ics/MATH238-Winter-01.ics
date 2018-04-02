@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T145000
-LAST-MODIFIED:20180107T132316
-UID:explore_courses946ffc81-57d7-4e8b-b169-6454c1213ad1
-DTSTAMP:20180107T132316
+LAST-MODIFIED:20180401T174049
+UID:explore_courses58f85daa-16dc-460b-94e9-bd24f2837ec9
+DTSTAMP:20180401T174049
 LOCATION:380-380W
 DESCRIPTION:Stochastic models of financial markets. Forward and futures contracts. European options and equivalent martingale measures. Hedging strategies and management of risk. Term structure models and interest rate derivatives. Optimal stopping and American options. Corequisites: MATH 236 and 227 or equivalent.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MATH238 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T133000
-CREATED:20180107T132316
+CREATED:20180401T174049
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

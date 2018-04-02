@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T132000
-LAST-MODIFIED:20180107T132259
-UID:explore_courses366ac44b-a279-48a2-ac3c-1cb7b6849467
-DTSTAMP:20180107T132259
+LAST-MODIFIED:20180401T174042
+UID:explore_courses8227b24b-8873-42c8-9a27-90597e2449f5
+DTSTAMP:20180401T174042
 LOCATION:160-124
 DESCRIPTION:This course introduces undergraduate students to the theory and methods of the geospatial humanities, understood broadly as the application of GIS techniques and other quantitative methods in the humanistic study of social and cultural patterns in past and present settings.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:HISTORY104 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T120000
-CREATED:20180107T132259
+CREATED:20180401T174042
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

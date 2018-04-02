@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T152000
-LAST-MODIFIED:20180107T132332
-UID:explore_coursesd14e1be5-ada5-44ac-b5f1-3d13faf26a6b
-DTSTAMP:20180107T132332
+LAST-MODIFIED:20180401T174055
+UID:explore_coursesf75d335f-5e84-45d3-ba90-04ff68a8158b
+DTSTAMP:20180401T174055
 LOCATION:20-21B
 DESCRIPTION:An introduction to the concepts and techniques used in mathematical logic, focusing on propositional, modal, and predicate logic. Highlights connections with philosophy, mathematics, computer science, linguistics, and neighboring fields.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHIL150 DIS
 DTSTART;TZID=America/Los_Angeles:20170925T143000
-CREATED:20180107T132332
+CREATED:20180401T174055
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T152000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR

@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T175000
-LAST-MODIFIED:20180107T132531
-UID:explore_coursesbb4fb9d5-9b3a-4f45-b3c3-1d49df09758e
-DTSTAMP:20180107T132531
+LAST-MODIFIED:20180401T174202
+UID:explore_courses2ae2155e-b531-4198-9cfb-539dffb9267d
+DTSTAMP:20180401T174202
 LOCATION:
 DESCRIPTION:Building X is the mission for Spring Quarter.  Make it REAL.  Enable user testing, technical and business evaluation.  Create functional hardware, software, and human-ware.  Use strategic-foresight, design thinking, team-dynamics management, rapid prototyping, and problem framing.  Present your pre-production prototype to the world at the Stanford Design EXPErience in June (760 attended in 2017).  Tell the world what you did, why you did it, and what you learned from the doing.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME310C LAB
 DTSTART;TZID=America/Los_Angeles:20180403T163000
-CREATED:20180107T132531
+CREATED:20180401T174202
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

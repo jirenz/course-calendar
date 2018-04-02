@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T112000
-LAST-MODIFIED:20180107T132506
-UID:explore_courses982cf6a7-b3d5-4737-b307-fd71da49dd89
-DTSTAMP:20180107T132506
+LAST-MODIFIED:20180401T174144
+UID:explore_coursesa2763c15-2dc2-4ae3-8471-c53e58d5f63c
+DTSTAMP:20180401T174144
 LOCATION:STLC111
 DESCRIPTION:The molecular and cellular bases of life from an engineering perspective. Analysis and engineering of biomolecular structure and dynamics, enzyme function, molecular interactions, metabolic pathways, signal transduction, and cellular mechanics. Quantitative primary literature. Prerequisites: CHEM 171 and BIO 41 or equivalents; MATLAB or an equivalent programming language.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE300A LEC
 DTSTART;TZID=America/Los_Angeles:20180108T103000
-CREATED:20180107T132506
+CREATED:20180401T174144
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

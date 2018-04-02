@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20170929T102000
-LAST-MODIFIED:20180107T132511
-UID:explore_coursesa4546e1e-da58-4757-93ac-94c8c08d4cec
-DTSTAMP:20180107T132511
-LOCATION:
-DESCRIPTION:Infrastructure is critical to the economy, global competitiveness and quality of life. Topics include energy, transportation, water, public facilities, and communications sectors. Analysis of the condition of the nation's infrastructure and how projects are planned and financed. Focus is on public works in the U.S. The role of public and private sectors through a step-by-step study of the project development process. Case studies of real infrastructure projects. Industry guest speakers. Student teams prepare project environmental impact statements.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:CEE241A LEC
-DTSTART;TZID=America/Los_Angeles:20170929T083000
-CREATED:20180107T132511
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T102000
-LAST-MODIFIED:20180107T132511
-UID:explore_coursesebbffa20-c8a4-47c6-a619-63015e2015cb
-DTSTAMP:20180107T132511
+LAST-MODIFIED:20180401T174147
+UID:explore_coursesecc37947-1a58-483c-83f5-e4b3ff3c26ab
+DTSTAMP:20180401T174147
 LOCATION:Shriram Ctr BioChemE 104
 DESCRIPTION:Infrastructure is critical to the economy, global competitiveness and quality of life. Topics include energy, transportation, water, public facilities, and communications sectors. Analysis of the condition of the nation's infrastructure and how projects are planned and financed. Focus is on public works in the U.S. The role of public and private sectors through a step-by-step study of the project development process. Case studies of real infrastructure projects. Industry guest speakers. Student teams prepare project environmental impact statements.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CEE241A LEC
 DTSTART;TZID=America/Los_Angeles:20170926T083000
-CREATED:20180107T132511
+CREATED:20180401T174147
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=TU,TH
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20170929T102000
+LAST-MODIFIED:20180401T174147
+UID:explore_courses997fb9e5-6696-4b0a-b5b5-62682b691f76
+DTSTAMP:20180401T174147
+LOCATION:
+DESCRIPTION:Infrastructure is critical to the economy, global competitiveness and quality of life. Topics include energy, transportation, water, public facilities, and communications sectors. Analysis of the condition of the nation's infrastructure and how projects are planned and financed. Focus is on public works in the U.S. The role of public and private sectors through a step-by-step study of the project development process. Case studies of real infrastructure projects. Industry guest speakers. Student teams prepare project environmental impact statements.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE241A LEC
+DTSTART;TZID=America/Los_Angeles:20170929T083000
+CREATED:20180401T174147
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T102000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

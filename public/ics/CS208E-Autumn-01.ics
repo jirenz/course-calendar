@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170926T145000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses13a2031b-0d57-4fe3-a342-bbb3097a17bf
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174154
+UID:explore_coursesedf26ce2-662a-4e16-9634-5142738abae6
+DTSTAMP:20180401T174154
 LOCATION:160-319
 DESCRIPTION:Great Ideas in Computer Science Covers the intellectual tradition of computer science emphasizing ideas that reflect the most important milestones in the history of the discipline. Topics include programming and problem solving; implementing computation in hardware; algorithmic efficiency; the theoretical limits of computation; cryptography and security; computer networks; machine learning; and the philosophy behind artificial intelligence.  Readings will include classic papers along with additional explanatory material.  Enrollment limited to students in the Master's program in Computer Science Education.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS208E SEM
 DTSTART;TZID=America/Los_Angeles:20170926T133000
-CREATED:20180107T132519
+CREATED:20180401T174154
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

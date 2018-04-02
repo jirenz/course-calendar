@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T172000
-LAST-MODIFIED:20180107T132322
-UID:explore_courseseb0da96b-dfa4-4dc2-b90d-e03ca19d01c9
-DTSTAMP:20180107T132322
+LAST-MODIFIED:20180401T174052
+UID:explore_coursesba4db197-4435-440a-9514-acc7f7fcc25f
+DTSTAMP:20180401T174052
 LOCATION:Knoll217
 DESCRIPTION:The physics of vibrating systems, waves, and wave motion. Time- and frequency-domain analysis of sound. Room acoustics, reverberation, and spatialization. The acoustics of musical instruments: voice, strings, and winds. Emphasis is on the practical aspects of acoustics in making music. Hands-on and computer-based lab. See http://ccrma.stanford.edu/courses/150/.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MUSIC150 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T153000
-CREATED:20180107T132322
+CREATED:20180401T174052
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T172000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

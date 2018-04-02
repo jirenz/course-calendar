@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20180107T132506
-UID:explore_courses54c21db8-8d5a-4903-a11b-3f0f85c7d6b7
-DTSTAMP:20180107T132506
-LOCATION:School of Education 128
+LAST-MODIFIED:20180401T174144
+UID:explore_coursesfb394e78-a6b4-4c8f-bf9b-3df9b773eee3
+DTSTAMP:20180401T174144
+LOCATION:Durand Building 114
 DESCRIPTION:Materials design and engineering for regenerative medicine. How materials interact with cells through their micro- and nanostructure, mechanical properties, degradation characteristics, surface chemistry, and biochemistry. Examples include novel materials for drug and gene delivery, materials for stem cell proliferation and differentiation, and tissue engineering scaffolds. Prerequisites: undergraduate chemistry, and cell/molecular biology or biochemistry.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:BIOE361 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20180107T132506
+CREATED:20180401T174144
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

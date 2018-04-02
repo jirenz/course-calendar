@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T175000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses95fc0f02-4190-4e89-a5ad-90edb95428ec
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174153
+UID:explore_courses67751e06-76ad-4fcd-85e8-820c0cfadf18
+DTSTAMP:20180401T174153
 LOCATION:200-205
 DESCRIPTION:Design, specification, coding, and testing of a significant team programming project under faculty supervision. Documentation includes a detailed proposal. Public demonstration of the project at the end of the quarter. Preference given to seniors. May be repeat for credit. Prerequisites: CS 110 and CS 161.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS194 LEC
 DTSTART;TZID=America/Los_Angeles:20180108T163000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

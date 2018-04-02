@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T132000
-LAST-MODIFIED:20180107T132239
-UID:explore_courses9f16e90c-8e57-4f75-a9a5-2460ef6b52ad
-DTSTAMP:20180107T132239
+LAST-MODIFIED:20180401T174035
+UID:explore_courses05c95242-d94b-418c-b6f6-01d19604c25f
+DTSTAMP:20180401T174035
 LOCATION:200-107
 DESCRIPTION:Microeconomics I for non-Economics PhD students. Theory of the consumer and the implications of constrained maximization; uses of indirect utility and expenditure functions; theory of the producer, profit maximization, and cost minimization; behavior under uncertainty; partial equilibrium analysis and introduction to models of general equilibrium. Limited enrollment. Prerequisite: understanding of the elements of multivariate calculus and linear algebra.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON202N LEC
 DTSTART;TZID=America/Los_Angeles:20170925T113000
-CREATED:20180107T132239
+CREATED:20180401T174035
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T132000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

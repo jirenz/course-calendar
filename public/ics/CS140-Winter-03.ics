@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T162000
-LAST-MODIFIED:20180107T132519
-UID:explore_courses00a3d590-e78b-456a-a011-0bc240009849
-DTSTAMP:20180107T132519
+LAST-MODIFIED:20180401T174153
+UID:explore_courses7d0c1b83-6ef4-46cb-9163-54949079670e
+DTSTAMP:20180401T174153
 LOCATION:STLC104
 DESCRIPTION:Operating systems design and implementation. Basic structure; synchronization and communication mechanisms; implementation of processes, process management, scheduling, and protection; memory organization and management, including virtual memory; I/O device management, secondary storage, and file systems. Prerequisite: CS 110.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS140 DIS
 DTSTART;TZID=America/Los_Angeles:20180109T150000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=TU
 END:VEVENT
 END:VCALENDAR

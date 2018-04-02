@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180410T115000
-LAST-MODIFIED:20180107T132128
-UID:explore_courses5ed3f8cc-b2e4-4354-bcab-06128d17fbf6
-DTSTAMP:20180107T132128
-LOCATION:
+LAST-MODIFIED:20180401T173955
+UID:explore_coursesf89e02d6-1697-44f5-b343-c5e14bec336e
+DTSTAMP:20180401T173955
+LOCATION:GSB Gunn 101
 DESCRIPTION:This course gives students the background they need to understand the broad movements in the global economy. Key topics include long-run economic growth, technological change, wage inequality, international trade, interest rates, inflation, exchange rates, and monetary policy. By the end of the course, students should be able to read and understand the discussions of economic issues in The Economist, the Wall Street Journal, the New York Times, or the Congressional Budget Office.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:MGTECON300 CAS
 DTSTART;TZID=America/Los_Angeles:20180410T103000
-CREATED:20180107T132128
+CREATED:20180401T173955
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180605T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

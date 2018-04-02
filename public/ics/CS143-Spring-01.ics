@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180403T115000
-LAST-MODIFIED:20180107T132519
-UID:explore_coursese111a8d7-b50a-4a19-84c7-dbf0b78a9661
-DTSTAMP:20180107T132519
-LOCATION:
+LAST-MODIFIED:20180401T174153
+UID:explore_courses70ef6642-d538-4e4b-a663-da1a1008ef5a
+DTSTAMP:20180401T174153
+LOCATION:Gates B1
 DESCRIPTION:Principles and practices for design and implementation of compilers and interpreters. Topics: lexical analysis; parsing theory; symbol tables; type systems; scope; semantic analysis; intermediate representations; runtime environments; code generation; and basic program analysis and optimization. Students construct a compiler for a simple object-oriented language during course programming projects. Prerequisites: 103 or 103B, and 107.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:CS143 LEC
 DTSTART;TZID=America/Los_Angeles:20180403T103000
-CREATED:20180107T132519
+CREATED:20180401T174153
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=TU,TH
 END:VEVENT
 END:VCALENDAR

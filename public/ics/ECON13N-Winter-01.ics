@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180108T145000
-LAST-MODIFIED:20180107T132238
-UID:explore_coursese0dff661-584c-4e4a-af73-a4d9c24191f1
-DTSTAMP:20180107T132238
+LAST-MODIFIED:20180401T174034
+UID:explore_coursesd725d060-2c92-4ad2-afa8-525b22ed26bc
+DTSTAMP:20180401T174034
 LOCATION:Gilbert Biological Science 117
 DESCRIPTION:This freshman seminar is for students who are interested in economics and want to get a hands on, front row experience with research. The goal of the seminar is to come up, as a group, with a research topic and question and implement an experiment to address the question.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ECON13N ISF
 DTSTART;TZID=America/Los_Angeles:20180108T133000
-CREATED:20180107T132238
+CREATED:20180401T174034
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T145000;BYDAY=MO,WE
 END:VEVENT
 END:VCALENDAR

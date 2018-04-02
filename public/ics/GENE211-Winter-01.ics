@@ -22,31 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTEND;TZID=America/Los_Angeles:20180112T162000
-LAST-MODIFIED:20180107T132411
-UID:explore_courses17f80a34-9d49-4a35-a360-2f44fc452b14
-DTSTAMP:20180107T132411
-LOCATION:Li Ka Shing Center, room 120
-DESCRIPTION:The goal of this course is to explore different genomic approaches and technologies, to learn how they work from a molecular biology view point, and to understand how they can be applied to understanding biological systems. In addition, we teach material on how the data generated from these approaches can be analyzed, from an algorithmic perspective. The papers that are discussed are a mixture of algorithmic papers, and technological papers. Finally, the course has a strong programming component, with Python being the language that we teach. All of our problem sets require Python programming - while beginning programmers succeed in our course, it is a steep learning curve, and the problem sets can require a significant time investment.
-STATUS:CONFIRMED
-SEQUENCE:0
-SUMMARY:GENE211 LEC
-DTSTART;TZID=America/Los_Angeles:20180112T133000
-CREATED:20180107T132411
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=FR
-END:VEVENT
-BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180109T112000
-LAST-MODIFIED:20180107T132411
-UID:explore_courses5229e93f-661b-467d-aa2e-3b120ba96dac
-DTSTAMP:20180107T132411
+LAST-MODIFIED:20180401T174112
+UID:explore_courses5921bb1c-4a18-430d-9d72-242a5a84ab17
+DTSTAMP:20180401T174112
 LOCATION:Alway Building, Room M112
 DESCRIPTION:The goal of this course is to explore different genomic approaches and technologies, to learn how they work from a molecular biology view point, and to understand how they can be applied to understanding biological systems. In addition, we teach material on how the data generated from these approaches can be analyzed, from an algorithmic perspective. The papers that are discussed are a mixture of algorithmic papers, and technological papers. Finally, the course has a strong programming component, with Python being the language that we teach. All of our problem sets require Python programming - while beginning programmers succeed in our course, it is a steep learning curve, and the problem sets can require a significant time investment.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:GENE211 LEC
 DTSTART;TZID=America/Los_Angeles:20180109T093000
-CREATED:20180107T132411
+CREATED:20180401T174112
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T112000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180112T162000
+LAST-MODIFIED:20180401T174112
+UID:explore_courses0144da73-34b3-46a9-9b6e-2c530ecffcca
+DTSTAMP:20180401T174112
+LOCATION:Li Ka Shing Center, room 120
+DESCRIPTION:The goal of this course is to explore different genomic approaches and technologies, to learn how they work from a molecular biology view point, and to understand how they can be applied to understanding biological systems. In addition, we teach material on how the data generated from these approaches can be analyzed, from an algorithmic perspective. The papers that are discussed are a mixture of algorithmic papers, and technological papers. Finally, the course has a strong programming component, with Python being the language that we teach. All of our problem sets require Python programming - while beginning programmers succeed in our course, it is a steep learning curve, and the problem sets can require a significant time investment.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GENE211 LEC
+DTSTART;TZID=America/Los_Angeles:20180112T133000
+CREATED:20180401T174112
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T162000;BYDAY=FR
 END:VEVENT
 END:VCALENDAR

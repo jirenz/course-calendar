@@ -23,16 +23,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20170925T145000
-LAST-MODIFIED:20180107T132335
-UID:explore_coursesbddc724a-d760-4b42-83c4-c01cd0b94213
-DTSTAMP:20180107T132335
+LAST-MODIFIED:20180401T174056
+UID:explore_courses30940032-429f-4d59-87cd-ed4f22b069c7
+DTSTAMP:20180401T174056
 LOCATION:
 DESCRIPTION:Basic probability and statistics for random processes such as random walks. The derivation of laws of thermodynamics from basic postulates; the determination of the relationship between atomic substructure and macroscopic behavior of matter.  Temperature; equations of state, heat, internal energy, equipartition; entropy, Gibbs paradox; equilibrium and reversibility; heat engines; applications to various properties of matter; absolute zero and low-temperature phenomena.  Distribution functions, fluctuations, the partition function for classical and quantum systems, irreversible processes.  Pre- or corequisite: PHYSICS 130.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:PHYSICS170 LEC
 DTSTART;TZID=America/Los_Angeles:20170925T133000
-CREATED:20180107T132335
+CREATED:20180401T174056
 RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20171208T145000;BYDAY=MO,WE,FR
 END:VEVENT
 END:VCALENDAR

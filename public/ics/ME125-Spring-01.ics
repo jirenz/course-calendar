@@ -22,17 +22,31 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T162000
+LAST-MODIFIED:20180401T174202
+UID:explore_courses95cb5364-a446-4d1c-bc56-b8ac231f16f0
+DTSTAMP:20180401T174202
+LOCATION:Lathrop 299
+DESCRIPTION:The student will learn how to use graphic design to communicate online, in person, and through printed matter. Fundamentals of visual communications will be applied to branding exercises, typographic studies, color explorations, drawing exercises, use of photography, and use of grid and layout systems.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ME125 LEC
+DTSTART;TZID=America/Los_Angeles:20180404T143000
+CREATED:20180401T174202
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
 DTEND;TZID=America/Los_Angeles:20180402T162000
-LAST-MODIFIED:20180107T132530
-UID:explore_coursesf511041e-7cd1-4523-82a5-559cf11badda
-DTSTAMP:20180107T132530
-LOCATION:Herrin T185
+LAST-MODIFIED:20180401T174202
+UID:explore_courses4c07d8d2-a12f-429a-836a-9b0f3e80da78
+DTSTAMP:20180401T174202
+LOCATION:STLC119
 DESCRIPTION:The student will learn how to use graphic design to communicate online, in person, and through printed matter. Fundamentals of visual communications will be applied to branding exercises, typographic studies, color explorations, drawing exercises, use of photography, and use of grid and layout systems.
 STATUS:CONFIRMED
 SEQUENCE:0
 SUMMARY:ME125 LEC
 DTSTART;TZID=America/Los_Angeles:20180402T143000
-CREATED:20180107T132530
-RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
+CREATED:20180401T174202
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO
 END:VEVENT
 END:VCALENDAR
