@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T112000
+LAST-MODIFIED:20180401T173958
+UID:explore_coursese3d8b61b-51d1-4a4b-b477-329fc6289916
+DTSTAMP:20180401T173958
+LOCATION:GSB Faculty East 233
+DESCRIPTION:The course aims to develop a thorough understanding of Bayesian inference, with a special focus on empirical applications in marketing. The course will start with a brief theoretical foundation to Bayesian inference and will subsequently focus on empirical methods. Initial topics would include Bayesian linear regression, multivariate regression, importance sampling and its applications. Subsequently, the course will focus on Markov Chain Monte Carlo (MCMC) methods including the Gibbs Sampler and the Metropolis-Hastings algorithm and their applications. The overall focus of the course will be on applying these methods for empirical research using a programming language such as R.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MKTG646 SEM
+DTSTART;TZID=America/Los_Angeles:20180402T083000
+CREATED:20180401T173958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

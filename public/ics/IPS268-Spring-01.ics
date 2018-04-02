@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T172000
+LAST-MODIFIED:20180401T174044
+UID:explore_courses7203877a-6355-4c7e-a06c-d91f5bcb28bd
+DTSTAMP:20180401T174044
+LOCATION:Encina East 207
+DESCRIPTION:This course combines lectures with hands-on labs to give students a solid understanding of the most common types of attacks used in cybercrime and cyberwarfare. Taught by a long-time cybersecurity practitioner, each session will begin with a lecture covering the basics of an area of technology and how that technology has been misused in the past. Students will then complete a lab section, with the guidance of the instructor and assistants, where they attack a known insecure system using techniques and tools seen in the field. By the end of the course, students are expected to have a working knowledge of the most popular hacking techniques seen in the wild and the basic skills necessary to power further exploration. Students are required to bring a Windows or Mac laptop and will be provided with testing virtual machines. No computer science background is required. Only open to non-CS majors (for 2017-18).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:IPS268 WKS
+DTSTART;TZID=America/Los_Angeles:20180402T143000
+CREATED:20180401T174044
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T172000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

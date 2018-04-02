@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180310T160000
+LAST-MODIFIED:20180401T174109
+UID:explore_courses109b484b-6a13-4a35-8d3a-14438c39bef6
+DTSTAMP:20180401T174109
+LOCATION:Li Ka Shing Center, room 120
+DESCRIPTION:In an intensive 1-day format, students learn the fundamentals for writing competitive fellowships, i.e. NIH NRSA fellowships (F30, F31, F32). Topics include developing specific aims; outlining research and career development plans; and using the review criteria to inform writing.  Students develop early drafts of the 1-page specific aims, NIH biosketch, and training plan, and receive feedback from instructor. Students are expected to be in the early stages of writing a fellowship proposal.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS266 WKS
+DTSTART;TZID=America/Los_Angeles:20180310T100000
+CREATED:20180401T174109
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180310T160000;BYDAY=SA
+END:VEVENT
+END:VCALENDAR

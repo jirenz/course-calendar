@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T112000
+LAST-MODIFIED:20180401T174000
+UID:explore_coursese52b5de0-8366-471a-826d-ea6c8c2937c2
+DTSTAMP:20180401T174000
+LOCATION:GSB McClelland 102
+DESCRIPTION:This is a course in the design of social research, with a particular emphasis on research field (i.e., non-laboratory) settings. As such, the course is a forum for discussing and developing an understanding of the different strategies social theorists employ to explain social processes, develop theories, and make these theories as believable as possible. In general, these issues will be discussed in the context of sociological research on organizations, but this will not be the exclusive focus of the course.  A range of topics will be covered, for example: formulating and motivating research questions; varieties of explanation; experimental and quasi-experimental methods, including natural experiments; counterfactual models; conceptualization and measurement; sampling and case selection; qualitative and quantitative approaches. This course is particularly oriented toward developing an appreciation of the tradeoffs of different approaches. It is well suited to Ph.D. students working on qualifying papers and dissertation proposals.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OB670 SEM
+DTSTART;TZID=America/Los_Angeles:20180403T083000
+CREATED:20180401T174000
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

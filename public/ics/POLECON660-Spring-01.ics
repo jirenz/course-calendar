@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180406T151500
+LAST-MODIFIED:20180401T174000
+UID:explore_coursesf618bf00-9ea9-4c44-8a83-1eaf3a110f02
+DTSTAMP:20180401T174000
+LOCATION:GSB Faculty East 233
+DESCRIPTION:Most of modern political economy is based on theories of completely rational agents. This has been an enormously fruitful modeling strategy. (Ironically, the approach is sensible partly because researchers are themselves boundedly rational.) There are, however, well-known empirical problems with this strategy. In particular, all humans are cognitively constrained: to take two important examples, our conscious attention is sharply limited and our memories are quite fallible.nnMany of our mental properties are examined in behavioral economics. The approach in that field tends to be piecemeal, somewhat notoriously so in the heuristics-and-biases tradition pioneered by Kahneman and Tversky. (Not surprisingly, the list of cognitive biases is now quite long.) This course takes a different approach. In addition to empirical regularities discovered by psychologists, anthropologists, neuroscientists, and other scholars who study how humans think and feel, it exploits theoretical resources offered by the modern cognitive sciences: in particular, dual process theories of mind, developed by cognitive psychologists, and computational theories of mind, developed by a heterogeneous set of cognitive scientists. These two theoretical approaches will provide frameworks that will help us make sense of empirical regularities discovered experimentally and in the field. Instead of being a disorganized list of departures from classical theories of utility and choice, they are an alternative way to think about human problem solving and decision making.n  nIn additional to this foundational work, we will also study how our mental processes affect political behavior. A variety of contexts will be examined, including elections, government officials trying to solve complex policy problems, and the evolution of political norms. (For this last topic evolutionary game theory might make an appearance.) Since many of the relevant readings are based on stochastic models, we may use one session as a tutorial on constructing and interrogating stochastic models. A key objective will be to learn how to build formal PE models that are consistent with the cognitive science formulations described above.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:POLECON660 WKS
+DTSTART;TZID=America/Los_Angeles:20180406T133000
+CREATED:20180401T174000
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T151500;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

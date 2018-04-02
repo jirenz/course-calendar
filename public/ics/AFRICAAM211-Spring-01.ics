@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T182000
+LAST-MODIFIED:20180401T174012
+UID:explore_coursesd3c06c0a-5e49-402c-9464-69470ef698bd
+DTSTAMP:20180401T174012
+LOCATION:Encina West 106
+DESCRIPTION:Policy making in Africa and the intersection of policy processes and their political and economic dimensions. The failure to implement agreements by international institutions, national governments, and nongovernmental organizations to promote education. Case studies of crowded and poorly equipped schools, overburdened and underprepared teachers, and underfunded education systems.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AFRICAAM211 SEM
+DTSTART;TZID=America/Los_Angeles:20180402T153000
+CREATED:20180401T174012
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

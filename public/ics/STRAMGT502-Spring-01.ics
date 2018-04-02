@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180508T181500
+LAST-MODIFIED:20180401T174001
+UID:explore_courses7c125e20-1bed-4aec-baf1-59dddec47568
+DTSTAMP:20180401T174001
+LOCATION:GSB Gunn 102
+DESCRIPTION:This course explores the details of how leaders at the world's biggest companies are driving frame-breaking transformational change inside of organizations that have grown up with an industrial foundation, or who are moving into the industrial sector as a new entrant. The course will delve into the need for systems thinking at multiple levels - of products, organizations, cultures and individuals. We will draw upon both academic theories of transformational organizational change and also the real-world implementation challenges that confront leaders who are moving simultaneously with both unprecedented scale and speed. The sessions will examine a variety of firms and industries being affected by the blend of digital and physical in order to lay out the unique operational and organizational challenges in a global context. How specifically should operating rhythms be changed and adjusted during this radical transformation? How does management both train a workforce with new skill-sets and also hire new employees with different talents? What are the unique internal challenges for industrial firms as they add digital products and services? What are the likely forces of resistance to these changes, and how should leaders effectively move companies whose histories have spanned over 100+ years? How should management ensure that existing revenue streams do not atrophy prematurely and how should these challenges be communicated to public markets? In addition, from the perspective of new entrants, we will study how companies can quickly grow and scale when leadership has the benefit of being unencumbered by legacy systems, but also faces unexpected challenges when they do not have the deep industry and domain knowledge or institutional culture that can provide insights into the demands of customers, channels and governments. This class will be co-taught with Jeff Immelt, former Chairman and CEO of GE.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:STRAMGT502 CAS
+DTSTART;TZID=America/Los_Angeles:20180508T163000
+CREATED:20180401T174001
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180605T181500;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

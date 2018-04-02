@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180409T115000
+LAST-MODIFIED:20180401T173958
+UID:explore_courses3d8c7bba-a5ba-4cdc-8d68-bf644f5d9b4b
+DTSTAMP:20180401T173958
+LOCATION:GSB Gunn 102
+DESCRIPTION:This course, which is an accelerated version of OIT 262 (Operations), focuses on basic managerial issues arising in the operations of both manufacturing and service industries, and on strategic issues arising in global supply chains. The objectives of the course are to familiarize students with the problems and issues confronting operations managers and to introduce language, conceptual models, and analytical techniques that are broadly applicable in confronting such problems.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OIT271 CAS
+DTSTART;TZID=America/Los_Angeles:20180409T103000
+CREATED:20180401T173958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180605T115000;BYDAY=MO,FR
+END:VEVENT
+END:VCALENDAR

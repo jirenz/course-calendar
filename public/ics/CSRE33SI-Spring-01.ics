@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T202000
+LAST-MODIFIED:20180401T174030
+UID:explore_coursesb781d21c-4ac7-455c-bff9-11f1338bdc0a
+DTSTAMP:20180401T174030
+LOCATION:Lathrop 292
+DESCRIPTION:Stanford's past two presidents have steadfastly declared Stanford as a vehicle of upwards mobility and to correct inequalities. Essentially, this means providing sufficient access to students who often are most in need: first-generation and/or low-income (FLI) students. However, what exactly is access? How can we understand different kinds of access in order to improve the holistic quality of education students receive?nnTo answer these questions, we will define access and the forces which shape it, such as economic systems, intersectionality, and the educational pipeline. Next, to better prepare ourselves as advocates for educational improvement, we will examine the historical trend of access at colleges as case studies (Stanford, Berkeley, Foothills, and Brown). Finally, we will ask how accessibility influences how students fare after leaving the educational system.nnUltimately, we will gain analytical and heuristic techniques to pinpoint and advocate for improvements to educational access for FLI students.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CSRE33SI ACT
+DTSTART;TZID=America/Los_Angeles:20180403T183000
+CREATED:20180401T174030
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T202000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

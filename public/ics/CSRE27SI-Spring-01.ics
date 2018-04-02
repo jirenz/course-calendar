@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T202000
+LAST-MODIFIED:20180401T174030
+UID:explore_courses49328feb-0800-4c7f-a817-c4a918bd8aca
+DTSTAMP:20180401T174030
+LOCATION:Lathrop 296
+DESCRIPTION:This course aims to provide students with an opportunity to not only learn about current issues in the local Filipino American community, but also develop their own plans to take action on social justice issues. Through mediums of art and reflection, we will explore themes of diaspora and liberation by focusing on the Filipino experience and the local and vocal histories of activism in the Bay Area. We will be connecting local histories to the current global narrative while also connecting our past to our own identity formation as activists and community leaders. In doing so, we hope to explore the implications of local activism within the greater context of global organizing. The course will expose students to local community leaders and ways in which they can support and plug in to local initiatives.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CSRE27SI ACT
+DTSTART;TZID=America/Los_Angeles:20180404T193000
+CREATED:20180401T174030
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T202000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

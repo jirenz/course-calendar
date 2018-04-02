@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180405T175000
+LAST-MODIFIED:20180401T173957
+UID:explore_courses3ccb22e8-1992-44b8-8609-626770137bce
+DTSTAMP:20180401T173957
+LOCATION:GSB Faculty East 101
+DESCRIPTION:This course will explore the critical role diversity plays in successful organizations and challenge students to develop their own brand of leadership, learning from leaders in education who have grappled with these challenges. As impact-oriented leaders aspiring to address challenges across social, economic, and political arenas, we have an imperative to advance diversity, and education provides the perfect canvas on which to explore this imperative. High-stakes issues such as school district reform, teacher effectiveness, and the school-to-prison pipeline present complex dilemmas that demand superb leadership skills. In this course, we will: (1) explore the role that diversity plays in complex leadership challenges; (2) study a range of effective leadership approaches considering different topics in education; and (3) understand our own values and decision-making criteria, developing tactics to improve our leadership capacity. We will examine contemporary leaders and controversies from education, draw upon timeless historical thinkers, enjoy the wisdom of guest speakers, and work intensively in small groups to highlight challenges, opportunities, and tradeoffs. By exploring a range of approaches and situations, we will work to a deeper understanding of ourselves and how to become more capable, empathetic, and effective leaders.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GSBGEN377 CAS
+DTSTART;TZID=America/Los_Angeles:20180405T150000
+CREATED:20180401T173957
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

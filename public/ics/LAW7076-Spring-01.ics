@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T181500
+LAST-MODIFIED:20180401T174011
+UID:explore_courses5b2b4185-815e-422d-9e0a-f3dcf42e4e68
+DTSTAMP:20180401T174011
+LOCATION:William H. Neukom building 102
+DESCRIPTION:In recent years, selective universities have become more academically selective than ever.  During the past half century their applicant pools have grown considerably--now including women, minorities, immigrants, and international students--while the sizes of their student bodies remain virtually unchanged. The broader social and economic context has shifted as well.  With globalization, the advance of technology and the resulting labor market shifts, advanced education is seen as more important than ever to getting ahead. Yet, even as elite universities seem central to Americans' hopes and dream, they have also come under attack, viewed as disconnected from, and alien to, &quot;regular Americans.&quot;  This course will engage these developments through considering a pivotal question:  How do and should elite educational institutions choose among the many applicants vying for admission? Two principles loom large in the ethos of selective college admissions: diversity and merit.  Throughout the course, we will take a critical stance toward these claims. For example, how much does and should merit shape admissions decisions?  What are the rationales for using prior grades and test scores to assess applicants?  Similarly, what are the costs and benefit of the diversity rationale? Should schools take account of race, socioeconomic class, or neither? Course readings will include judicial opinions and legal commentary, social science evidence and cultural criticism.  Elements used in grading:  Attendance, Class Participation, Written Assignments, Final Paper.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW7076 SEM
+DTSTART;TZID=America/Los_Angeles:20180403T161500
+CREATED:20180401T174011
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180601T181500;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

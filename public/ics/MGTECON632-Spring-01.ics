@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T182000
+LAST-MODIFIED:20180401T173955
+UID:explore_courses4ac2a38d-f1c0-4d16-9dc9-1224f9d4bce9
+DTSTAMP:20180401T173955
+LOCATION:GSB Patterson 101
+DESCRIPTION:This seminar-style course studies a selection of micro-economic models in dynamic settings, and explores the use of continuous-time methods to solve them. Topics to be covered include experimentation games, social learning, principal-agent problems, career concerns/market-agent models, security design and strategic trading. For every topic discussed, the class introduces gradually the set of relevant mathematical tools: dynamic programming and Hamilton-Jacobi-Bellman equations, Pontryagin's maximum principle, Euler-Lagrange equations, Brownian and Poisson processes, Bayesian inference and linear filtering, change of measure, martingale representation, Malliavin derivatives, stochastic maximum principle, expansions of filtrations. nThe course emphasizes high-level intuition rather than mathematical rigor. It is targeted at those who seek to become familiar with the literature on continuous-time dynamics and want to understand the functioning of these models, either by general interest or to apply these techniques. n
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MGTECON632 SEM
+DTSTART;TZID=America/Los_Angeles:20180402T153000
+CREATED:20180401T173955
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T195000
+LAST-MODIFIED:20180401T174146
+UID:explore_coursesf5841043-ba5d-4d1f-8002-2444fcc24270
+DTSTAMP:20180401T174146
+LOCATION:Y2E2 292A
+DESCRIPTION:CEE 159/259 students join Stanford researchers in developing performance metrics and key performance indicators, which inform the assessment and management of productivity policies, industry initiatives, progressive enterprises, global projects or experimental processes in the construction industry.  This project-based practicum builds upon a global network of government agencies, professional institutions and member companies collaborating with the Center for Integrated Facility Engineering (CIFE).  Through a series of Global Construction Innovation Case Studies, students will develop applied research skills that are essential for academic research, internships or industry practice, while gaining insights into innovative and industrialized construction practice, such as the industry applications of Building Information Modeling (BIM), Integrated Project Delivery (IPD), Lean Methodology, Prefabricated Pre-finished Volumetric Construction (PPVC), Smart Cities or Virtual Design and Construction (VDC). nNote to students: this course may be taken repeat for credit for up to 9 cumulative units.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CEE159 PRA
+DTSTART;TZID=America/Los_Angeles:20180402T183000
+CREATED:20180401T174146
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T195000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

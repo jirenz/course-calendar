@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T162000
+LAST-MODIFIED:20180401T173958
+UID:explore_courses952b85b0-ee6f-4df7-aa0c-bfab92c14d9a
+DTSTAMP:20180401T173958
+LOCATION:GSB Faculty East 233
+DESCRIPTION:This PhD seminar provides coverage of the major research carried out in consumer research both in marketing and psychology. A vast set of topic will be covered including conscious and non-conscious consumer goals, motivations, emotions, attention and perception and consumer decision processes. The course will help students hone their ability to conceptualize, operationalize, and develop research idea and will provide a grasp of what it takes to be a successful academic in the field of consumer behavior.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:MKTG642 SEM
+DTSTART;TZID=America/Los_Angeles:20180404T133000
+CREATED:20180401T173958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

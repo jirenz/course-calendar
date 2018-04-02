@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T122000
+LAST-MODIFIED:20180401T174111
+UID:explore_courses9654a04b-b51b-4736-9ebb-587d740af7aa
+DTSTAMP:20180401T174111
+LOCATION:Li Ka Shing Center, room 208
+DESCRIPTION:This course is a practicum in which students will use the R programming language to analyze datasets by application of classical statistical methods. No prior experience with R (or other programming languages) is required, but a familiarity with basic descriptive and inferential statistics is assumed. Class sessions will include some lecture content but will emphasize coding demonstrations by the instructor and hands-on coding by each student on their own computers. Students will practice using R with open-source and simulated datasets. The primary goal of the course is to equip students with a fundamental understanding of R's capabilities, experience using R with practice datasets, and the ability to extend their facility with R as their needs dictate.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CHPR202 PRC
+DTSTART;TZID=America/Los_Angeles:20180404T113000
+CREATED:20180401T174111
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180611T170000
+LAST-MODIFIED:20180401T174109
+UID:explore_courses8c15bd73-a7b5-43a8-9bbd-ba1f09fcd872
+DTSTAMP:20180401T174109
+LOCATION:Y2E2 299
+DESCRIPTION:Two of the biggest challenges humanity has to face - promoting human health and halting environmental degradation are are strongly connected and too big to be addressed in an incremental, sector-specific way. Breakthroughs can be achieved through a creative, interdisciplinary approach that fully recognizes the complex nature of links between human health and healthy, functioning ecosystems.  Through a series of lectures and case-study discussions with experts from multiple Schools and Departments, students will develop an in-depth understanding of the &quot;Planetary Health&quot; concept, its foundation, goals, priority areas of action and methods of investigation, and the most relevant immediate and long-term challenges.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOS270 LEC
+DTSTART;TZID=America/Los_Angeles:20180611T090000
+CREATED:20180401T174109
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180615T170000;BYDAY=MO,TU,WE,TH,FR
+END:VEVENT
+END:VCALENDAR

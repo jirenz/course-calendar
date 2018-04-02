@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180429T173000
+LAST-MODIFIED:20180401T174134
+UID:explore_courses02b3e4de-1ce9-496d-a275-e7bfda83c74d
+DTSTAMP:20180401T174134
+LOCATION:School of Education 130
+DESCRIPTION:Introduces diverse forms of meditation practice in both theory (contemplative neuroscience, phenomenological traditions) and practice. Selected practices in focused attention, mindfulness, guided imagery, compassion, loving kindness, positive emotion, and/or mantra meditation will be offered to enhance focused attention, insight, stress management, and well-being. Takes place in a weekend immersion format (on campus), which allows more immersive exploration of the topic space. While meditation practices emerge from religious traditions, all practice and instruction will be secular.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:WELLNESS133 WKS
+DTSTART;TZID=America/Los_Angeles:20180429T090000
+CREATED:20180401T174134
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180429T173000;BYDAY=SU,SA
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180429T173000
+LAST-MODIFIED:20180401T174134
+UID:explore_coursesc23c8c69-b90e-4dae-a0c6-3201c3f0a16c
+DTSTAMP:20180401T174134
+LOCATION:School of Education 313
+DESCRIPTION:Introduces diverse forms of meditation practice in both theory (contemplative neuroscience, phenomenological traditions) and practice. Selected practices in focused attention, mindfulness, guided imagery, compassion, loving kindness, positive emotion, and/or mantra meditation will be offered to enhance focused attention, insight, stress management, and well-being. Takes place in a weekend immersion format (on campus), which allows more immersive exploration of the topic space. While meditation practices emerge from religious traditions, all practice and instruction will be secular.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:WELLNESS133 WKS
+DTSTART;TZID=America/Los_Angeles:20180429T090000
+CREATED:20180401T174134
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180429T173000;BYDAY=SU,SA
+END:VEVENT
+END:VCALENDAR

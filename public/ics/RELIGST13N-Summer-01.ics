@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180625T135000
+LAST-MODIFIED:20180401T174101
+UID:explore_coursesc6c1b020-aa15-4484-87ef-8c4666162b6b
+DTSTAMP:20180401T174101
+LOCATION:School of Education 130
+DESCRIPTION:In this seminar you will explore theory and practice, sociological data, spiritual writing, and case studies in an effort to gain a more nuanced understanding about how religion, spirituality, and secularism attempt to make legible the constellation of concerns, commitments, and behaviors that bridge the moral and the personal, the communal and the national, the sacred, the profane, and the rational.  Together we will cultivate critical perspectives on practices and politics, beliefs and belonging that we typically take for granted.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:RELIGST13N ISF
+DTSTART;TZID=America/Los_Angeles:20180625T123000
+CREATED:20180401T174101
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180803T135000;BYDAY=MO,WE,FR
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180109T175000
+LAST-MODIFIED:20180401T174042
+UID:explore_coursesf095d0f7-1930-43eb-bc11-63aeeac71fc2
+DTSTAMP:20180401T174042
+LOCATION:School of Education 229
+DESCRIPTION:This course examines various landscapes of segregation in U.S. history from 19th century reconstruction and settler expansion through the contemporary U.S. security state. Each week we consider different histories of segregation including native reservation and boarding school stories, Jim Crow and post-World War II urban/suburban segregation, school integration and bussing, and the rise of the carceral state. We will ask: How have Americans moved through space with different degrees of freedom and constraint over time, and how has that shaped what it has meant to be an American in different ways for different groups? How has access to land, property, consumer, recreational and educational spaces and resources been regulated by categories of race, gender, sexuality, colonial subjectivity, immigrant status and class? To gain a better sense of our local history, we will also consider how structures of segregation have historically mapped the Bay Area. Sources include primary and secondary historic texts, feature and documentary films, photography, and poetry.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:HISTORY58Q ISS
+DTSTART;TZID=America/Los_Angeles:20180109T150000
+CREATED:20180401T174042
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180316T175000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

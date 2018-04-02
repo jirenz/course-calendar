@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T162000
+LAST-MODIFIED:20180401T174138
+UID:explore_coursesd337a3c4-a609-4397-8136-80b2e4786625
+DTSTAMP:20180401T174138
+LOCATION:McMurtry Building rm 360
+DESCRIPTION:This lecture and discussion course will review the scientific evidence on the use and impacts of genetic engineering in global food and agricultural systems. The class will cover the history and details of crop genetic improvement, ranging from primitive domestication to CRISPR technologies. We will examine the risks and benefits of crop genetic technologies in agriculture with regards to productivity, farm incomes, food safety, human health and nutrition, and environmental impacts. We will also discuss the current and future use of genetic engineering techniques for enhancing climate resilience and nutritional outcomes in agricultural systems worldwide. Finally, we will discuss the ethics of using modern genetic approaches for crop improvement, and the policy environment surrounding the use of these genetic techniques.nnOur expectation is that students enrolled in the course will attend all class sections and participate actively in the discussions. Students will be asked to identify peer-reviewed, scientific papers on the impacts of specific crop genetic improvements. Depending on the class size, students will also be asked to help lead class discussions. At the end of the course, students will work in groups to debate a selected topic on the use of genetic engineering in agriculture, to be announced during the course.nnPrerequisites: One course in biology and one course in economics are suggested. Completion of &quot;Feeding Nine Billion&quot; and &quot;The World Food Economy&quot; classes would also be helpful, as would a class in genetics, but there are no strict course requirements.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EARTHSYS106C LEC
+DTSTART;TZID=America/Los_Angeles:20180404T143000
+CREATED:20180401T174138
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180405T112000
+LAST-MODIFIED:20180401T174000
+UID:explore_coursesca6f628a-6730-4790-a187-c941920e3ba7
+DTSTAMP:20180401T174000
+LOCATION:GSB McClelland 102
+DESCRIPTION:This PhD course provides an overview of economic sociology as it pertains to the behavior of individuals as atomistic agents and collective actors, in the context of markets and organizations. Students will study foundational texts as well as recent research in order to gain an understanding of how to further advance the field.  Topics include networks, categories, labor markets, product markets, inequality, and others. Throughout the course students will be expected to generate &acirc;mental maps&acirc; to demonstrate they have gained a comprehensive understanding of the field, weekly memos, and to complete a final project.  n
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OB636 SEM
+DTSTART;TZID=America/Los_Angeles:20180405T083000
+CREATED:20180401T174000
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TH
+END:VEVENT
+END:VCALENDAR

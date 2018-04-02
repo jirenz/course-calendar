@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T112000
+LAST-MODIFIED:20180401T173956
+UID:explore_courses0be733c8-2279-4223-9399-228f29b82185
+DTSTAMP:20180401T173956
+LOCATION:GSB Faculty East 259
+DESCRIPTION:This class is devoted to recent developments in the empirical corporate finance literature. Topics include: financial contracting, liquidation and renegotiation, taxation and capital structure, the role of labor markets, leveraged buyouts, executive compensation, the causes and consequences of the financial crisis, and implications of finance for the public sector. The class is very interactive. Many of the sessions will consist of student presentations about the papers from the reading list. We will also further explore empirical methods relevant for applied research in corporate finance, with a focus on identification and panel data issues.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FINANCE633 SEM
+DTSTART;TZID=America/Los_Angeles:20180404T083000
+CREATED:20180401T173956
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

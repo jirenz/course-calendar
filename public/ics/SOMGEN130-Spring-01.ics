@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20180401T174130
+UID:explore_courses5e62c622-5a60-4c44-baa5-51fe2aaaa432
+DTSTAMP:20180401T174130
+LOCATION:Health Research & PolicyT116
+DESCRIPTION:Focus is on the development of personal and professional skills to address medical and health issues related to human sexuality across a broad and diverse range of ages, gender, sexual orientation, sexual practices, and sexual function. Guest lectures will cover sexual issues from multiple medical disciplines and health perspectives of children (pediatric), adolescents, and young, middle-aged and older (geriatric) adults (geriatric). Consideration of sociocultural (predominantly U.S) norms is explored, including religious values and taboos, and sexual practices ranging from &iquest;stereotypically normal&iquest; to asexuality, celibacy, polyamory, and kink, etc. Emphasis is given to medical issues, e.g. the impact of specific medications, hormonal therapies, medical procedures, disabilities such as spinal cord injury, and treatments on sexual function and other issues that one might encounter in a general or specialty medical setting. Each week will include an 80-minute (Tuesday) class with a pair of related lectures, lecture, or video followed by class discussion, or student presentations, and a 50-minute &iquest;Queer Medicine&iquest; (Thursday) class organized by a Stanford Medical student, with overall direction by Marcia Stefanick, Professor of Medicine (SCRP, Ob/Gyn) Director of the Stanford Women&iquest;s Health and Sex Differences in Medicine (WSDM, &iquest;wisdom&iquest;) Center.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:SOMGEN130 LEC
+DTSTART;TZID=America/Los_Angeles:20180403T113000
+CREATED:20180401T174130
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

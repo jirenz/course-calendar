@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180629T162000
+LAST-MODIFIED:20180401T174038
+UID:explore_courses2a29f1cf-97b7-4902-81fd-931bd5bfef91
+DTSTAMP:20180401T174038
+LOCATION:Lathrop 180
+DESCRIPTION:Despite the rise of emerging forms like two-minute YouTube videos, six second Vines, or interactive storytelling modules, many core principles of visual storytelling remain unchanged. In this hands-on film production class students will learn a broad set of filmmaking fundamentals (basic history, theory, and practice) and will apply them creating film projects using tools such as iPhones, consumer cameras and FCPX.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMPROD106S PRC
+DTSTART;TZID=America/Los_Angeles:20180629T133000
+CREATED:20180401T174038
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T162000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

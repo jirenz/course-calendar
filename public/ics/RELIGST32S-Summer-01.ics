@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180626T115000
+LAST-MODIFIED:20180401T174101
+UID:explore_courses24d34ff4-31d8-4cf5-b412-bb5eefd19be6
+DTSTAMP:20180401T174101
+LOCATION:Lathrop 290
+DESCRIPTION:This course examines the transmission, growth, and transformation of Buddhism in America from the nineteenth century to the present day. We will treat American Buddhism as a distinct regional variety of Buddhism with its own history, characteristics, and debates. Through select readings, films, discussions, and research, students will explore the main events and issues that have shaped the American encounter with Buddhism. We will learn the history of Buddhism in the United States, major traditions of American Buddhism, and contemporary issues and debates. Topics covered will include Orientalism, gender, race, science and meditation, and Buddhism in classrooms and prisons.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:RELIGST32S LEC
+DTSTART;TZID=America/Los_Angeles:20180626T103000
+CREATED:20180401T174101
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

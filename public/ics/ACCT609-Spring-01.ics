@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T182000
+LAST-MODIFIED:20180401T173954
+UID:explore_courses8da12e8c-d0e2-47e6-8912-edd569aae9d6
+DTSTAMP:20180401T173954
+LOCATION:GSB Faculty East 259
+DESCRIPTION:This course is aimed at doctoral students in accounting and neighboring fields including economics, finance, political economics and operations management. The course seeks to provide an introduction to the role of accounting information in (i) measuring firm performance, (ii) projecting profitability and firm value for external constituents, (iii) and motivating and controlling the firm&acirc;s management. The main topics covered in this course include: 1. Profitability Measurement and Accrual Accounting. 2. Performance Evaluation and Managerial Incentives. 3. Accounting-based Equity Valuation. 4. The Informational Role of Accounting Numbers 5. Earnings Quality Constructs and Measures. The primary objective of the course is to introduce students to current research paradigms on these topics and to identify promising avenues for future research. The course readings include recent theoretical and empirical papers.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ACCT609 SEM
+DTSTART;TZID=America/Los_Angeles:20180402T153000
+CREATED:20180401T173954
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T112000
+LAST-MODIFIED:20180401T174136
+UID:explore_coursesabc2d3c0-9c07-4cc7-aecc-f028e9e5fdd3
+DTSTAMP:20180401T174136
+LOCATION:School of Education 130
+DESCRIPTION:This is a project-based workshop. Practical introduction to issues in educational policy making, education reform, educational planning, implementation of policy interventions, and monitoring and evaluation in developing country contexts. Preference to students enrolled in ICE/IEAPA, but open to other students interested in international development or comparative public policy with instructor's consent. Attendance at first class required for enrollment.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC102I SEM
+DTSTART;TZID=America/Los_Angeles:20180403T093000
+CREATED:20180401T174136
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

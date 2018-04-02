@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T175000
+LAST-MODIFIED:20180401T174137
+UID:explore_courses3b9b856e-c761-40a9-bd5f-2419663e8136
+DTSTAMP:20180401T174137
+LOCATION:School of Education 208
+DESCRIPTION:This course will first offer a snapshot of Second Language Acquisition (SLA) theories, contrast varying theoretical perspectives and examine how they inform the language teaching and learning process. It will then engage students in the examination and discussion of well-known approaches used in language instruction (e.g., leveled ELD, SIOP, CLIL, bilingual education, secondary foreign language education, heritage language instruction) in order to identify the theoretical perspectives informing particular pedagogies and practices.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC438 SEM
+DTSTART;TZID=America/Los_Angeles:20180403T150000
+CREATED:20180401T174137
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

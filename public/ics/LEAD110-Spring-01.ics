@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T182000
+LAST-MODIFIED:20180401T174133
+UID:explore_coursesd97a9d56-48cf-4300-a552-05123989f128
+DTSTAMP:20180401T174133
+LOCATION:Lathrop 299
+DESCRIPTION:An exploration of one's inner life, ways of being in the world, and their expression in how one leads. Addresses the paradoxical task of merely paying attention to enhance our awareness of the socially constructed nature of reality and to feel comfortable to act with simplicity, empathy, and conviction. Through self-reflection, embodied practice, and creative expression through crossing borders students examine us and them. Mindful inquiry in expressed storytelling, collective knowing, appreciative intelligence, and is both scholarly and experiential.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LEAD110 SEM
+DTSTART;TZID=America/Los_Angeles:20180404T163000
+CREATED:20180401T174133
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T182000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

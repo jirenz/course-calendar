@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180625T102000
+LAST-MODIFIED:20180401T174133
+UID:explore_courses8d1227a7-0a63-48c0-837d-776af7a8843a
+DTSTAMP:20180401T174133
+LOCATION:ACSR Studio
+DESCRIPTION:Students will be introduced to the values and skills of Hatha Yoga (Yoga of exercise). Students will learn how to reduce tension, increase energy levels, move efficiently, reconnect to self-awareness, and learn about the body.  The poses and flows are adaptable and can be personalized for any level of fitness.  The emphasis of the class will be on asanas (poses) and vinyasa (flow) for increased flexibility, improved health, relaxation, and reduced stress in daily living. Students will also be exposed to the language, philosophy, history, and concepts of Yoga.  A typical class will include breathing techniques, meditation and asana practice, including standing, balancing, stretching and some inverted poses. At the end of the quarter students will have: (1) Acquired knowledge of the basic components of health and wellness. (2) Developed physical fitness and motor skills, and (3) A positive attitude toward wellness and physical activity which will facilitate a healthy lifestyle.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PE81 ACT
+DTSTART;TZID=America/Los_Angeles:20180625T093000
+CREATED:20180401T174133
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T102000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

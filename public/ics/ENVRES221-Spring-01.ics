@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180406T132000
+LAST-MODIFIED:20180401T174140
+UID:explore_coursesc4b0c9d9-a0f1-4d7b-a0e9-23877fcb126a
+DTSTAMP:20180401T174140
+LOCATION:Shriram Ctr BioChemE 108
+DESCRIPTION:Interdisciplinary exploration of how companies, government and non-profit organizations address some of the world's most significant environmental &amp; resource sustainability challenges. Each week we will explore with an experienced sustainability practitioner new frontiers and opportunities in clean tech, policy, energy, transportation, consumer goods, agriculture, food, and sustainable built environments..
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ENVRES221 SEM
+DTSTART;TZID=America/Los_Angeles:20180406T123000
+CREATED:20180401T174140
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T145000
+LAST-MODIFIED:20180401T173958
+UID:explore_courses0dcb4ca3-37cf-4bc6-b5e0-5ad04709f722
+DTSTAMP:20180401T173958
+LOCATION:GSB Faculty East 104
+DESCRIPTION:This aim of this course is to cover modern tools for data-driven decision making. Most decision making tasks involve uncertainty that is directly impacted by the amount and complexity of data at hand. Classical decision models rely on strong distributional assumptions about the uncertain events. But in recent years, and due to growing availability of rich data, there has been a rapid adoption of models from machine learning and statistics that provide more accurate and personalized picture of uncertainty which in turn lead to better decisions. The interplay between the multiple objectives of modeling the data, personalization, and decision optimization has created a number mathematical models that the course aims to cover. Examples of topics include graphical models and message-passing algorithms, high-dimensional and tensor models, and multi-armed bandits.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:OIT604 CAS
+DTSTART;TZID=America/Los_Angeles:20180402T133000
+CREATED:20180401T173958
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T145000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

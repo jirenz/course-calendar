@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T112000
+LAST-MODIFIED:20180401T173957
+UID:explore_courses66b1c70c-61cb-48a5-b45d-665b7906a3aa
+DTSTAMP:20180401T173957
+LOCATION:GSB Class of 1968 101
+DESCRIPTION:This course covers various advanced quantitative methods with applications in marketing and economics. Topics include simulation-based estimation, dynamic decision processes, and other topics relating to empirical models of demand and supply. The course stresses the conceptual understanding and application of each technique. Students will learn to apply these techniques using Matlab or an equivalent language.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GSBGEN641 SEM
+DTSTART;TZID=America/Los_Angeles:20180404T083000
+CREATED:20180401T173957
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

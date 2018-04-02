@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20180401T174111
+UID:explore_coursesb3268911-edfc-43a8-9d1b-f37cb8522b50
+DTSTAMP:20180401T174111
+LOCATION:Li Ka Shing Center, room 308
+DESCRIPTION:How and why animals are used in biomedical science. Addresses human and animal disease entities and how animal research has contributed to the treatment and cure of disease. Significant portions of this course are devoted to documenting the humane care and treatment of laboratory animals in research, including, but not limited to such topics as law and ethics, animal behavior, animal modeling, and the animal activist movement. Course topics will also include: What advances have been made as a result of the use of animals in research? Who conducts animal research? Predominant animal species used in biomedical research, facts and myths; the regulation of biomedical research; housing and care of laboratory animals; why new drugs must be tested; animal use in stem cell research, cancer research and genetically engineered mice; career choices in biomedical research.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:COMPMED205 LEC
+DTSTART;TZID=America/Los_Angeles:20180403T120000
+CREATED:20180401T174111
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

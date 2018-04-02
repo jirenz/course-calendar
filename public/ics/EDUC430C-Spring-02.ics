@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180406T115000
+LAST-MODIFIED:20180401T174137
+UID:explore_coursesc4585d04-7caf-40a5-83fa-da76619ce623
+DTSTAMP:20180401T174137
+LOCATION:School of Education 210
+DESCRIPTION:This course focuses on the skills needed to conduct theoretically-informed and policy-relevant descriptive social science. Students will read recent examples of rigorous descriptive quantitative research that exemplifies the use of data to describe important phenomena related to educational and social inequality. The course will help skills develop skills necessary to conceptualize, operationalize, and communicate descriptive research, including techniques related to measurement and measurement error, data harmonization, data reduction, and visualization. Students will develop a descriptive project during the course. Prerequisite: satisfactory completion of a course in multivariate regression.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC430C DIS
+DTSTART;TZID=America/Los_Angeles:20180406T103000
+CREATED:20180401T174137
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

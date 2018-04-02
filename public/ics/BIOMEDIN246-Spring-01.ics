@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T132000
+LAST-MODIFIED:20180401T174109
+UID:explore_courses9d9ebd4e-95c5-4029-88b0-ef3114b6784e
+DTSTAMP:20180401T174109
+LOCATION:Health Research & PolicyT138B
+DESCRIPTION:Primarily for medical students in the Quality and Safety Scholarly Concentration. Almost everyone will be a patient at some point in their lives. It is estimated that over 98,000 patients die in US hospitals each year due to medical errors and recent articles suggest that medical errors are the third leading cause of death in the US. Patient safety is the foundation of high-quality health care, which has become a critical issue in health policy discussions. This course will provide an overview of the quality &amp; patient safety movement, the array of measurement techniques and issues, and perspectives of quality improvement efforts under the current policy landscape.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:BIOMEDIN246 SEM
+DTSTART;TZID=America/Los_Angeles:20180403T123000
+CREATED:20180401T174109
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T132000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

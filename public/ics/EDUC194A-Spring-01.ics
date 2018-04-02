@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T175000
+LAST-MODIFIED:20180401T174136
+UID:explore_courses1fe79982-bdb4-44ad-9569-933de7399340
+DTSTAMP:20180401T174136
+LOCATION:Lathrop 299
+DESCRIPTION:This course will prepare students to lead Frosh 101, a discussion style course designed to help first-year students with their transition to Stanford's dynamic campus. This course will expose students to inclusive teaching practices and research on the impact mental health, diversity and inclusion and sense of belonging have on the experiences of undergraduates. This course is the first of two courses that Frosh 101 leaders will take.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EDUC194A SEM
+DTSTART;TZID=America/Los_Angeles:20180403T163000
+CREATED:20180401T174136
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

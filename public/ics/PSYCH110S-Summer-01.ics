@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180625T152000
+LAST-MODIFIED:20180401T174059
+UID:explore_courses3b55e152-7ef1-465c-9e05-e9f8f074518e
+DTSTAMP:20180401T174059
+LOCATION:School of Education 334
+DESCRIPTION:In an increasingly globalized world, the ability to understand people from different cultural backgrounds, as well as understand how we are influenced by our own cultural contexts, is an essential skill. In this course, we will consider the many ways in which individuals shape, and are shaped by, institutions (e.g., education system; media; religion), social interactions (e.g., family; employers), and broad cultural ideas (e.g., democracy). Drawing from psychological research, we will analyze sociocultural sources of diversity in self, agency, cognition, emotion, motivation, development, and relationships. We will also analyze past and modern cultural products - including films, literature, music, and art - to better understand the transmission of culture. Each discussion will contribute to a better understanding of the hidden factors that guide daily experiences and the various opportunities and barriers to creating social change. The course will empower students to recognize and analyze the influence of culture on everyday functioning and apply that understanding to improving their own and other people's outcomes.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PSYCH110S LEC
+DTSTART;TZID=America/Los_Angeles:20180625T133000
+CREATED:20180401T174059
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T152000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

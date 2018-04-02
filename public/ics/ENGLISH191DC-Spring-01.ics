@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T142000
+LAST-MODIFIED:20180401T174036
+UID:explore_courses12bc5262-986c-4f02-9163-2207a9e03865
+DTSTAMP:20180401T174036
+LOCATION:School of Education 207
+DESCRIPTION:English 191DC will provide an intermediate-level course in the art and craft of writing memoir. It will build on those strategies for writing with meaning and insight about the events in our lives that were presented in English 91DC. During the term, we will read texts that broadly innovate within and outside of the formal traditions of the memoir form, finding new and exciting ways to represent personal experience. This section will also serve as the continuing examination and practice of the formal elements of the memoir. During the term, Fellows will write, workshop, present to the class, and revise at least two short pieces, one long pieces, and working drafts of excerpts. All workshops will serve as the springboard for our larger class conversation about theme and craft. During the quarter, we will meet in individual conferences. Throughout the quarter, creative work will be assigned in the form of essays, imitations, and revisions. Critical work will be assigned in the form of planning and leading class discussions, and writing and discussing critiques of colleagues&iquest; essays. A variety of creative prompts, critical exercises, and assigned readings will foster your understanding and appreciation of the memoir form, as well as your growth as a creative writer. Energetic, committed participation is a must.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ENGLISH191DC WKS
+DTSTART;TZID=America/Los_Angeles:20180404T113000
+CREATED:20180401T174036
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T142000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

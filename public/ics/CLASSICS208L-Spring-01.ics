@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T125000
+LAST-MODIFIED:20180401T174027
+UID:explore_coursesa640c92c-ab9b-4e63-bd50-b7b083dd7568
+DTSTAMP:20180401T174027
+LOCATION:Green Library 351
+DESCRIPTION:Readings in later Latin, drawing on the vast bodies of texts from the late antique, medieval and early modern periods. Each week students will prepare selections in advance of class meetings; class time will be devoted to translation and discussion. Students taking this course will gain exposure to a wide range of later Latin texts; hone translation skills; and develop an awareness of the grammatical and stylistic features of post-classical Latin. The course is aimed both at classical Latinists seeking to broaden their reading experience and at medievalists and early modernists seeking to consolidate their Latin language skills.nnSample readings:nK.P. Harrington et al, Medieval Latin 2nd edn.nM. Riley, The Neo-Latin Reader: selections from Petrarch to RimbaudnnPrior experience in Latin is required, preferably CLASSICS 11L. Equivalent accepted. Anyone unsure whether to take this course is encouraged to contact the instructor in advance.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:CLASSICS208L LEC
+DTSTART;TZID=America/Los_Angeles:20180404T113000
+CREATED:20180401T174027
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T125000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T112000
+LAST-MODIFIED:20180401T173956
+UID:explore_courses4f435c25-852b-4245-960c-e9fbe43515dc
+DTSTAMP:20180401T173956
+LOCATION:GSB Patterson 101
+DESCRIPTION:This course provides an introduction to empirical research in corporate finance, with an emphasis on the application of cross-sectional and panel data econometric techniques for causal inference. Topics include investment policy, entrepreneurship and innovation, financing decisions, firm ownership, corporate governance, managerial incentives, financial contracting, and the structure and internal organization of firms. The course assumes knowledge of econometrics at the level of MGTECON 603.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FINANCE630 SEM
+DTSTART;TZID=America/Los_Angeles:20180404T083000
+CREATED:20180401T173956
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T112000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

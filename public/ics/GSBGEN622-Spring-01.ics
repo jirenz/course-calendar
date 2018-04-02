@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T114500
+LAST-MODIFIED:20180401T173957
+UID:explore_coursesdc633281-af08-401c-a60d-157ddfbadbf4
+DTSTAMP:20180401T173957
+LOCATION:GSB Class of 1968 101
+DESCRIPTION:Academics must effectively communicate the importance of their research to a wide range of audiences, including colleagues, students, stakeholders, and the general public, as well as in a variety of contexts, from academic conferences and job talks to one-on-one conversations, news interviews, and social media.n nThis highly interactive course is designed to equip PhD students with the skills to confidently present their research and connect with varied audiences. Students will craft an elevator pitch for academic settings, create a 3-min TED-like talk aimed at the general public, learn how to document and tell the &acirc;story&acirc; of their research, and practice responding to Q&amp;A and research critiques. This class combines best practices from public speaking with elements from related fields, including the art of improv and the science of communication.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:GSBGEN622 WKS
+DTSTART;TZID=America/Los_Angeles:20180402T100000
+CREATED:20180401T173957
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T114500;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

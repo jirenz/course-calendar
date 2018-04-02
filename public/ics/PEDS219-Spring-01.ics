@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180406T115000
+LAST-MODIFIED:20180401T174125
+UID:explore_coursesb95657b9-afc5-4749-b6b1-960f3cd6b373
+DTSTAMP:20180401T174125
+LOCATION:
+DESCRIPTION:In this class, our aim is to imagine novel interventions that may reduce health disparities for discharged NICU babies with medical complexity (CMC). We will be focused on patients and families from low-income communities served by Stanford's General Pediatrics Division. This class will define and address Essential Disparities in child health, informed by national evidence and community needs assessments. We will engage hospitals, clinicians, families, social service experts, policy experts, technologists and YOU to imagine and redesign post-NICU care. Students will participate in a field trip to the hospital Neonatal ICU, and visit homes of discharged NICU families. Students will enjoy an expert panel day incorporating a parent advocate, policy and hospital experts. From this research, students will design products, services and systems firmly rooted in human-centered design methodology.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PEDS219 SEM
+DTSTART;TZID=America/Los_Angeles:20180406T103000
+CREATED:20180401T174125
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=FR
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T115000
+LAST-MODIFIED:20180401T174125
+UID:explore_courses7e8ed7f0-0eb1-4d83-bf21-a204d066b7e6
+DTSTAMP:20180401T174125
+LOCATION:Lathrop 299
+DESCRIPTION:In this class, our aim is to imagine novel interventions that may reduce health disparities for discharged NICU babies with medical complexity (CMC). We will be focused on patients and families from low-income communities served by Stanford's General Pediatrics Division. This class will define and address Essential Disparities in child health, informed by national evidence and community needs assessments. We will engage hospitals, clinicians, families, social service experts, policy experts, technologists and YOU to imagine and redesign post-NICU care. Students will participate in a field trip to the hospital Neonatal ICU, and visit homes of discharged NICU families. Students will enjoy an expert panel day incorporating a parent advocate, policy and hospital experts. From this research, students will design products, services and systems firmly rooted in human-centered design methodology.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PEDS219 SEM
+DTSTART;TZID=America/Los_Angeles:20180404T103000
+CREATED:20180401T174125
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T115000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

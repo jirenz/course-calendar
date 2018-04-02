@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180626T115000
+LAST-MODIFIED:20180401T174038
+UID:explore_courses688d9315-b3ae-4da7-a065-6d8ebb5cf223
+DTSTAMP:20180401T174038
+LOCATION:McMurtry Building rm 350
+DESCRIPTION:From Anima to Anime is an introductory level course designed to familiarize students with key concepts and issues surrounding animated media in East Asian. It is by no means an exhaustive survey of the region&iquest;s national animation traditions, be that of Japan, Korea, or Greater China. Rather, this course takes an emphatically transnational approach arguing that animation serves as an important site where national forms, traditional materials, and techniques converge with powerful currents of internationalism and modernism. We will thus look to pay close attention to the way shared cultural, aesthetic, and technological norms participate in the ongoing definition of a &iquest;regional&iquest; animated media in East Asia. In addition, we will look at how East Asian animation has given rise to significant global trends, including developments in mass media communication, franchising, adaptation, youth culture, consumption and fandom, as well as modes of play and mediated self-expression.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FILMSTUD103S LEC
+DTSTART;TZID=America/Los_Angeles:20180626T103000
+CREATED:20180401T174038
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180816T115000;BYDAY=TU,TH
+END:VEVENT
+END:VCALENDAR

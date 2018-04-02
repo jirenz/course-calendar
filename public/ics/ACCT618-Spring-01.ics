@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T192000
+LAST-MODIFIED:20180401T173954
+UID:explore_coursesdc7f2534-02e1-4672-a75e-0a20b490293b
+DTSTAMP:20180401T173954
+LOCATION:GSB Faculty East 259
+DESCRIPTION:The informational efficiency of stock markets has been a central theme in financial economic research in the past 50 years. Over this period, the focus of academic research has gradually shifted from the general to the more specific. While earlier studies tend to view the matter as a yes/no debate, most recent studies acknowledge the impossibility of fully efficient markets, and focus instead on analyses of factors that materially affect the timely incorporation of information into prices. At the same time, increasing attention is being paid to regulatory and market design issues that either impede or enhance market pricing efficiency.nIn this course, we will cover recent research on the role of informational arbitrage in asset pricing. Our starting point is the observation that, with costly information, equilibrium prices will invariably reflect some mispricing. The existence of mispricing introduces a role for informational arbitrage, whereby some traders will invest resources to become informed about the mispricing, with hopes of profiting from it. We review recent academic evidence on this process, and reflect on its implications for future market-related research. We will also discuss how academic research might help lower information/arbitrage costs.nThis is a doctoral level course. Our goal is not only to review existing research, but also to stimulate new work in the area. As such, I expect it will be of primary interest to Ph.D. students majoring in accounting, finance, and economics. Given our focus on returns prediction and the role of information in arbitrage strategies, this course should be of particular interest to those interested exploring the relation between information flows and market pricing dynamics. nThe course content is interdisciplinary in nature, spanning finance, economics, and accounting. Most of the readings in the earlier readings derive from finance and economics (market efficiency, limits to arbitrage, and behavioral finance); most of the later readings derive from financial accounting (equity valuation, fundamental analysis, earnings management, and analyst behavior).
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ACCT618 SEM
+DTSTART;TZID=America/Los_Angeles:20180403T163000
+CREATED:20180401T173954
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T192000;BYDAY=TU
+END:VEVENT
+END:VCALENDAR

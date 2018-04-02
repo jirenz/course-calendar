@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T122000
+LAST-MODIFIED:20180401T174011
+UID:explore_courses7ddf26bc-9757-45c5-b81e-8394d7d34a2a
+DTSTAMP:20180401T174011
+LOCATION:McMurtry Building 102, Oshman
+DESCRIPTION:&quot;Hamilton&quot; is one the most popular and most celebrated musicals in American history. It has received 11 Tony Awards, including best musical, and 16 Tony nominations, the most nominations in Broadway history. It won the Pulitzer Prize and a Grammy Award. The musical draws on the language and rhythms of hip-hop and R &amp; B, genres that are underrepresented in the musical theater tradition. &quot;Hamilton&quot; has redefined the American musical, particularly in terms of sound, casting, and storytelling. What explains the deep cultural impact and acclaim for this play?n nThis interdisciplinary course examines Alexander Hamilton and his world as well as Hamilton: An American Musical through a series of lectures from faculty in History, Theater and Performance Studies, English, Music, and Writing and Rhetoric.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:AFRICAAM5I LEC
+DTSTART;TZID=America/Los_Angeles:20180402T113000
+CREATED:20180401T174011
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T122000;BYDAY=MO
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180404T175000
+LAST-MODIFIED:20180401T174138
+UID:explore_courses378fea31-7663-4c6d-8254-eefad41b1090
+DTSTAMP:20180401T174138
+LOCATION:Y2E2 253
+DESCRIPTION:For decades, numerous and far-reaching consequences of anthropogenic climate change have disproportionately affected women, from poverty, food and water security, to land tenure and forced migration, to education and health. As a result, mitigating climate change has enormous implications for women's lives worldwide, yet too few national or international policies address this critical intersection. This weekly seminar will examine this dynamic in light of the Sustainable Development Goals and Paris Climate Treaty. The course will feature guest speakers, reading discussions, and communication exercises to spur policy reform and help students acquire relevant information for their future endeavors.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:EARTHSYS15 SEM
+DTSTART;TZID=America/Los_Angeles:20180404T163000
+CREATED:20180401T174138
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T175000;BYDAY=WE
+END:VEVENT
+END:VCALENDAR

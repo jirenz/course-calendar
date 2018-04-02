@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20180401T174056
+UID:explore_courses5e904d00-bc80-4655-80fa-3cb2bdf9c6c8
+DTSTAMP:20180401T174056
+LOCATION:Hewlett Teaching Center Rm 101
+DESCRIPTION:This course will be an introduction to topological quantum computation (TQC), which has recently emerged as an exciting approach to constructing fault-tolerant quantum computers. We start with a review of some basics of quantum computing, 2D topological phases of matter, Abelian/non-Abelian anyons, etc. Then we introduce the concept of TQC and study some examples such as the toric/surface code and Levin-Wen string-net model. We continue to talk about the mathematical theory of anyons including modular tensor categories, braid groups, 6j-symbols, Pentagon Equations. We study the issue of universality for different systems. Lastly, we show the equivalence of TQC with standard circuit model. Additional topics include complexity classes, Jones polynomials, topological field theories, etc.  Prerequisite: Basic knowledge of quantum mechanics and condensed matter physics. Some knowledge of category theory and representation theory is useful but is not required. The course will run the first five weeks.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:PHYSICS492 LEC
+DTSTART;TZID=America/Los_Angeles:20180402T150000
+CREATED:20180401T174056
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

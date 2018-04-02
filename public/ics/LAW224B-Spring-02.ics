@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180403T095000
+LAST-MODIFIED:20180401T174010
+UID:explore_courses56821c59-41dc-4f22-87e3-b6d3bcabac53
+DTSTAMP:20180401T174010
+LOCATION:Law285
+DESCRIPTION:This course is part of the required first-year JD curriculum. It is an introductory course in the litigation process. Students represent the plaintiff or defendant in a simulated global torts case set in a federal district court that raises complex issues of federal civil procedure. Students plan litigation strategy, draft pleadings, conduct discovery, write short briefs, and orally argue major motions. While developing students' written and oral advocacy skills, the course also focuses on substantive issues of civil procedure and transnational lawyering. Elements used in grading: attendance, class participation, oral argument, assignments in preparation for written briefs (outlines, drafts, research and citation assignments), written briefs, and professionalism. This course is open to first-year Law School students only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW224B LEC
+DTSTART;TZID=America/Los_Angeles:20180403T082000
+CREATED:20180401T174010
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180601T095000;BYDAY=TU
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180406T132000
+LAST-MODIFIED:20180401T174010
+UID:explore_coursesf21904f5-7925-4dc2-87b8-7a9c6a104620
+DTSTAMP:20180401T174010
+LOCATION:Law285
+DESCRIPTION:This course is part of the required first-year JD curriculum. It is an introductory course in the litigation process. Students represent the plaintiff or defendant in a simulated global torts case set in a federal district court that raises complex issues of federal civil procedure. Students plan litigation strategy, draft pleadings, conduct discovery, write short briefs, and orally argue major motions. While developing students' written and oral advocacy skills, the course also focuses on substantive issues of civil procedure and transnational lawyering. Elements used in grading: attendance, class participation, oral argument, assignments in preparation for written briefs (outlines, drafts, research and citation assignments), written briefs, and professionalism. This course is open to first-year Law School students only.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:LAW224B LEC
+DTSTART;TZID=America/Los_Angeles:20180406T112000
+CREATED:20180401T174010
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180601T132000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR

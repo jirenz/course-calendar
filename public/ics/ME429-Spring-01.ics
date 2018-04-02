@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180402T162000
+LAST-MODIFIED:20180401T174202
+UID:explore_courses98f9dac0-ff72-46e7-9a5e-a7b4251bbdcc
+DTSTAMP:20180401T174202
+LOCATION:Green Earth Sciences131
+DESCRIPTION:This course will provide insight into designing MEMS based devices for use in commercial/consumer and automotive sensor applications. Topics to be covered in this MEMS sensor design course will include electromechanical modeling/simulation, compensation for cross-wafer and wafer-to-wafer fabrication variations in a high volume semiconductor manufacturing facility, design for extreme environments (drop shock, temperature, etc.), and some discussion of the unique challenges with respect to consumer and automotive sensor markets.  Student teams will develop a MEMS sensor/transducer design (capacitive 3-axis accelerometer), electro-mechanical system model (Matlab based), fabrication process flow with manufacturing analysis (Excel based) in response to a provided design specification sheet.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:ME429 LEC
+DTSTART;TZID=America/Los_Angeles:20180402T150000
+CREATED:20180401T174202
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T162000;BYDAY=MO,WE
+END:VEVENT
+END:VCALENDAR

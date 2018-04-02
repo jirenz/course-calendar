@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:explore_courses
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles:20180406T123000
+LAST-MODIFIED:20180401T174037
+UID:explore_coursescfc74b91-4339-45cc-ad16-22ddf2fc53f2
+DTSTAMP:20180401T174037
+LOCATION:550-STUDIO 2
+DESCRIPTION:This d-school seminar prototypes concepts and methods for &quot;inclusive&quot; design. From the moment we arrive on the planet, gender shapes our perception of the world. Examples of products (including objects, services, and systems) gone awry will serve as prompts for design activities, challenges, and discussions on gender issues to illustrate the different needs of women, men, and gender-fluid people. Class sessions mix use case explorations with design methodology, design thinking abilities, and guest speakers from technology, design, and academia. Students will be asked to work in interdisciplinary teams on several design challenges, culminating in the development of a toolkit for inclusive design. Methods will interact in crucial ways to create &quot;intersectional thinking&quot; (i.e., to consider how gender, ethnicity, sexuality, socio-economic status, etc. work together to require new solutions in design). Topics include: algorithms, media, seat belts for pregnant women, robotics, assistive technologies, tech for developing worlds, video games, urban/rural design, software development, and many more.  Admission by application only. Visit d.school.stanford.edu/classes for more information.
+STATUS:CONFIRMED
+SEQUENCE:0
+SUMMARY:FEMGEN344F COL
+DTSTART;TZID=America/Los_Angeles:20180406T093000
+CREATED:20180401T174037
+RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20180606T123000;BYDAY=FR
+END:VEVENT
+END:VCALENDAR
